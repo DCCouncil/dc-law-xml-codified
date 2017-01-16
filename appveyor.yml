@@ -24,7 +24,7 @@ install:
 
 before_build:
   # install the tools and HTML files prior to building the HTML
-  - git clone --depth 1 git@github.com:openlawlibrary/dc-law-tools.git ..\dc-law-tools
+  - git clone --depth 1 --branch DCCODE-240 git@github.com:openlawlibrary/dc-law-tools.git ..\dc-law-tools
   - git clone --depth 1 git@github.com:openlawlibrary/dc-law-static.git ..\dc-law-static
   - git clone --depth 1 --no-single-branch git@github.com:dccouncil/dc-law-html.git ..\dc-law-html
   # use or create a branch in dc-law-html with the same name
@@ -44,17 +44,6 @@ test_script:
   - echo Skipping doomed test discovery to save time
 
 deploy_script:
-  - cd ..\dc-law-html
+  - cd ..\dc-law-xml-codified
+  - "%PYTHON%\\python.exe ..\\dc-law-tools\\appveyor-deploy\\dc-law-xml-codified.py"
 
-  - copy ..\dc-law-xml-codified\version.txt version.txt
-  - echo dc-law-xml-codified build %appveyor_build_version% >> version.txt
-  - echo dc-law-xml-codified commit %appveyor_repo_commit% >> version.txt
-  - echo dc-law-tools commit >> version.txt
-  - git -C ..\dc-law-tools show -q --format='%%H' >> version.txt
-  - echo dc-law-static commit >> version.txt
-  - git -C ..\dc-law-static show -q --format='%%H' >> version.txt
-  - echo ^--- added by dc-law-xml-codified/appveyor.yml ---^ >> version.txt
-
-  - git add -A
-  - git diff --cached --exit-code --shortstat || git commit --quiet -m "deploy HTML from dc-law-codified build %appveyor_build_version%"
-  - git push origin %appveyor_repo_branch%
