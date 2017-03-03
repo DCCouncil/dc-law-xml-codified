@@ -1,4 +1,5 @@
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:8-106</num>
   <heading>Control.</heading>
   <para>
@@ -84,7 +85,8 @@
     <text type="Uniform Commercial Code Comment">Example 10. Debtor grants to Alpha Bank and to Beta Bank a security interest in a security entitlement that includes 1000 shares of XYZ Co. stock that Debtor holds through an account with Able &amp; Co. By agreement among the parties, Alpha’s security interest is senior and Beta’s is junior. Able agrees to act on the entitlement orders of either Alpha or Beta. Alpha and Beta each has control under subsection (d)(2). Moreover, Beta has control notwithstanding a term of Able’s agreement to the effect that Able’s obligation to act on Beta’s entitlement orders is conditioned on Alpha’s consent. The crucial distinction is that Able’s agreement to act on Beta’s entitlement orders is not conditioned on Debtor’s further consent.</text>
     <text type="Uniform Commercial Code Comment">Example 11. Debtor grants to Alpha Bank a security interest in a security entitlement that includes 1000 shares of XYZ Co. stock that Debtor holds through an account with Able &amp; Co. Able agrees to act on the entitlement orders of Alpha, but Alpha’s right to give entitlement orders to the securities intermediary is conditioned on the Debtor’s default. Alternatively, Alpha’s right to give entitlement orders is conditioned upon Alpha’s statement to Able that Debtor is in default. Because Able’s agreement to act on Alpha’s entitlement orders is not conditioned on Debtor’s further consent, Alpha has control of the securities entitlement under either alternative.</text>
     <text type="Uniform Commercial Code Comment">In many situations, it will be better practice for both the securities intermediary and the purchaser to insist that any conditions relating in any way to the entitlement holder be effective only as between the purchaser and the entitlement holder. That practice would avoid the risk that the securities intermediary could be caught between conflicting assertions of the entitlement holder and the purchaser as to whether the conditions in fact have been met. Nonetheless, the existence of unfulfilled conditions effective against the intermediary would not preclude the purchaser from having control. Definitional Cross References</text>
-    <text type="Uniform Commercial Code Comment"><strong>Definitional Cross References</strong> “Bearer form”.  Section 8-102(a)(2).</text>
+    <text type="Uniform Commercial Code Comment">
+      <strong>Definitional Cross References</strong> “Bearer form”.  Section 8-102(a)(2).</text>
     <text type="Uniform Commercial Code Comment">“Certificated security”.  Section 8-102(a)(4).</text>
     <text type="Uniform Commercial Code Comment">“Delivery”.  Section 8-301.</text>
     <text type="Uniform Commercial Code Comment">“Effective”.  Section 8-107.</text>
@@ -102,6 +104,7 @@
     <annotation type="Section References">This section is referenced in § <cite path="§28:8-102">28:8-102</cite>, § <cite path="§28:8-107">28:8-107</cite>, § <cite path="§28:8-510">28:8-510</cite>, § <cite path="§28:9-106">28:9-106</cite>, § <cite path="§28:9-208">28:9-208</cite>, and § <cite path="§28:9-328">28:9-328</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 28:8-106.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 28:8-106.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-201">D.C. Law 13-201</cite>, enacting a new Article 9 of the Uniform Commercial Code applicable July 1, 2001, made conforming amendments to this section applicable upon the same date.</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 13-201">D.C. Law 13-201</cite>, enacting a new Article 9 of the Uniform Commercial Code applicable July 1, 2001, made conforming amendments to this section applicable upon the same date.</annotation>
   </annotations>
 </section>

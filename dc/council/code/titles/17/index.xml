@@ -1,4 +1,5 @@
-<container xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" enacted="true" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container xmlns:ns0="http://www.w3.org/2001/XInclude" enacted="true" containing-doc="D.C. Code">
   <prefix>Title</prefix>
   <num>17</num>
   <heading>Review.</heading>
@@ -6,21 +7,21 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>United States Court of Appeals for the District of Columbia Circuit. [Repealed].</heading>
-    <ns0:include href="sections/17-101.xml"/>
-    <ns0:include href="sections/17-102.xml"/>
-    <ns0:include href="sections/17-103.xml"/>
-    <ns0:include href="sections/17-104.xml"/>
+    <ns0:include href="sections/17-101.xml" />
+    <ns0:include href="sections/17-102.xml" />
+    <ns0:include href="sections/17-103.xml" />
+    <ns0:include href="sections/17-104.xml" />
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>3</num>
     <heading>District of Columbia Court of Appeals.</heading>
-    <ns0:include href="sections/17-301.xml"/>
-    <ns0:include href="sections/17-302.xml"/>
-    <ns0:include href="sections/17-303.xml"/>
-    <ns0:include href="sections/17-304.xml"/>
-    <ns0:include href="sections/17-305.xml"/>
-    <ns0:include href="sections/17-306.xml"/>
-    <ns0:include href="sections/17-307.xml"/>
+    <ns0:include href="sections/17-301.xml" />
+    <ns0:include href="sections/17-302.xml" />
+    <ns0:include href="sections/17-303.xml" />
+    <ns0:include href="sections/17-304.xml" />
+    <ns0:include href="sections/17-305.xml" />
+    <ns0:include href="sections/17-306.xml" />
+    <ns0:include href="sections/17-307.xml" />
   </container>
 </container>

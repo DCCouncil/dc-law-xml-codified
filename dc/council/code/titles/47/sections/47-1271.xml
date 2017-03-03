@@ -1,4 +1,5 @@
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <reason>ICF/IID</reason>
   <num>47-1271</num>
   <heading>ICF/IDD</heading>
@@ -44,7 +45,8 @@
     <annotation doc="D.C. Law 19-169" type="History">Sept. 26, 2012, D.C. Law 19-169, § 33(b)(4), 59 DCR 5567</annotation>
     <annotation doc="D.C. Law 20-61" type="History">Dec. 24, 2013, D.C. Law 20-61, § 5022(b), 60 DCR 12472</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§47-1273">47-1273</cite>.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite>, in subsec. (b)(1), substituted “per hour, or a higher amount as determined through rulemaking” for “per hour”; in subsec. (b)(2), substituted “Department of Health Care Finance (’DHCF’)” for “Medical Assistance Administration (’MAA’)”; and rewrote subsec. (c), which had read as follows: “(c) Amounts remaining in the Fund after the disbursements required by subsection (b) of this section shall be used for an increase in the Medicaid per diem reimbursement rate for each ICF-MR above the fiscal year 2006 rate.”</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite>, in subsec. (b)(1), substituted “per hour, or a higher amount as determined through rulemaking” for “per hour”; in subsec. (b)(2), substituted “Department of Health Care Finance (’DHCF’)” for “Medical Assistance Administration (’MAA’)”; and rewrote subsec. (c), which had read as follows: “(c) Amounts remaining in the Fund after the disbursements required by subsection (b) of this section shall be used for an increase in the Medicaid per diem reimbursement rate for each ICF-MR above the fiscal year 2006 rate.”</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-169">D.C. Law 19-169</cite> substituted “ICF-IDD” for “ICF-MR” in the section heading; and substituted “ICF-IDDs” for “ICF-MRs” in (c).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> rewrote (b); and substituted “ICF/IIDs” for “ICD/IDDs” in (c).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 5032(a) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>

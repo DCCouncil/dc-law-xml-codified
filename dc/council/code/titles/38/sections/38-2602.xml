@@ -1,4 +1,5 @@
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-2602</num>
   <heading>Responsibilities.</heading>
   <para>
@@ -421,17 +422,28 @@
     <annotation doc="D.C. Law 21-77" type="History">Mar. 9, 2016, D.C. Law 21-77, § 3(b), 63 DCR 756</annotation>
     <annotation type="Cross References">Testing integrity, § <cite path="§38-771.01">38-771.01</cite> et seq.</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§38-208">38-208</cite>, § <cite path="§38-302">38-302</cite>, § <cite path="§38-771.02">38-771.02</cite>, § <cite path="§38-2602.01">38-2602.01</cite>, and § <cite path="§38-2603">38-2603</cite>.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite>, in subsec. (b), made nonsubstantive changes in pars. (4) and (5), and added par. (6)</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-33">D.C. Law 16-33</cite>, in subsec. (b)(6), substituted “Education” for “Educational”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-9">D.C. Law 17-9</cite>, in subsec. (b), inserted pars. (7) to (15).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-20">D.C. Law 17-20</cite>, in subsec. (b), deleted “and” from the end of par. (14), substituted “; and” for a period at the end of par. (15), and added par. (16).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-202">D.C. Law 17-202</cite>, in subsecs. (a) and (b), substituted “OSSE” for “SEO”; and added subsecs. (b)(6A), (9A), and (9B).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite>, in subsec. (b), deleted “and” from the end of par. (15), substituted a semicolon for a period at the end of par. (16), and added par. (17); and added subsec. (c).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated previously made technical corrections in subsecs. (b)(14), (15), (16).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> repealed subsec. (b)(14), which had read as follows: “(14) Provide staff support to the State Board of Education to enable it to perform its functions as enumerated in § <cite path="§38-2652">38-2652</cite>;”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> added subsecs. (b)(8A) and (18); in subsec. (b)(16), deleted “and” from the end; and, in subsec. (b)(17), substituted “; and” for a period at the end.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (c)(2), substituted “be used for the purposes set forth in paragraph (3) of this subsection. Any unexpended funds in the Academic Certification and Testing Fund at the end of a fiscal year shall revert to the unrestricted fund balance of the General Fund of the District of Columbia.” for “not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of the fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in paragraph (3) of this subsection without regard to fiscal year limitation, subject to authorization by Congress.”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-141">D.C. Law 19-141</cite>, in subsec. (b), deleted “and” from the end of par. (17 ), substituted “; and” for a period the end of par. (18), and added par. (19).</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite>, in subsec. (b), made nonsubstantive changes in pars. (4) and (5), and added par. (6)</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 16-33">D.C. Law 16-33</cite>, in subsec. (b)(6), substituted “Education” for “Educational”.</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 17-9">D.C. Law 17-9</cite>, in subsec. (b), inserted pars. (7) to (15).</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 17-20">D.C. Law 17-20</cite>, in subsec. (b), deleted “and” from the end of par. (14), substituted “; and” for a period at the end of par. (15), and added par. (16).</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 17-202">D.C. Law 17-202</cite>, in subsecs. (a) and (b), substituted “OSSE” for “SEO”; and added subsecs. (b)(6A), (9A), and (9B).</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite>, in subsec. (b), deleted “and” from the end of par. (15), substituted a semicolon for a period at the end of par. (16), and added par. (17); and added subsec. (c).</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated previously made technical corrections in subsecs. (b)(14), (15), (16).</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> repealed subsec. (b)(14), which had read as follows: “(14) Provide staff support to the State Board of Education to enable it to perform its functions as enumerated in § <cite path="§38-2652">38-2652</cite>;”.</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> added subsecs. (b)(8A) and (18); in subsec. (b)(16), deleted “and” from the end; and, in subsec. (b)(17), substituted “; and” for a period at the end.</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (c)(2), substituted “be used for the purposes set forth in paragraph (3) of this subsection. Any unexpended funds in the Academic Certification and Testing Fund at the end of a fiscal year shall revert to the unrestricted fund balance of the General Fund of the District of Columbia.” for “not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of the fiscal year, or at any other time, but shall be continually available for the uses and purposes set forth in paragraph (3) of this subsection without regard to fiscal year limitation, subject to authorization by Congress.”.</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 19-141">D.C. Law 19-141</cite>, in subsec. (b), deleted “and” from the end of par. (17 ), substituted “; and” for a period the end of par. (18), and added par. (19).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-17">D.C. Law 20-17</cite> substituted “August 1, 2013” for “October 1, 2013” in (b)(19).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-27">D.C. Law 20-27</cite> added (b)(20); and made related changes.</annotation>
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-87">D.C. Law 20-87</cite> rewrote (b)(4); and added the subdivision designated herein as (b)(21) and made related changes.</annotation>

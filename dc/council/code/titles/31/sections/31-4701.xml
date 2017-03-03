@@ -1,4 +1,5 @@
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>31-4701</num>
   <heading>Valuation of reserves by Commissioner.</heading>
   <para>
@@ -301,7 +302,7 @@
                 <th colspan="3">Weighting Factor for plan type</th>
               </tr>
               <tr>
-                <th/>
+                <th />
                 <th>A</th>
                 <th>B</th>
                 <th>C</th>

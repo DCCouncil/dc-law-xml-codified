@@ -1,4 +1,5 @@
-<collection xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" name="80">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<collection xmlns:ns0="http://www.w3.org/2001/XInclude" name="80">
   <heading>The 80th Congress</heading>
-  <ns0:include href="./80-610.xml"/>
+  <ns0:include href="./80-610.xml" />
 </collection>

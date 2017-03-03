@@ -1,4 +1,5 @@
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>46-209</num>
   <heading>Notice of withholding to the obligor.</heading>
   <para>
@@ -50,7 +51,8 @@
     <annotation doc="D.C. Law 16-100" type="History">May 12, 2006, D.C. Law 16-100, § 3(i), 53 DCR 1886</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§46-210">46-210</cite> and § <cite path="§46-226.03">46-226.03</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 30-509.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-269">D.C. Law 13-269</cite> rewrote the section which had read:</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 13-269">D.C. Law 13-269</cite> rewrote the section which had read:</annotation>
     <annotation type="Effect of Amendments">“§ <cite path="§46-209">46-209</cite>. Notice of intent to withhold.</annotation>
     <annotation type="Effect of Amendments">“(a) For any order listed in § <cite path="§46-207">46-207</cite>(c)(1), (2), (3), (4), or (7) where there are arrearages equal to 30 days of support payments, any caretaker, custodian, responsible relative, or the Mayor may apply to the Clerk of the Court to issue a notice of intent to withhold and the Clerk of the Court shall issue to the obligor, by certified mail, a notice of intent to withhold and shall certify the date the notice is mailed. The Mayor shall apply to the Clerk of the Court to issue a notice of intent to withhold in all child support cases in which a child support order was issued effective before October 1, 1990, and being enforced under  42 U.S.C. § 651 et seq., where there are arrearages equal to 30 days of support payments.</annotation>
     <annotation type="Effect of Amendments">“(b) For any order listed in § <cite path="§46-207">46-207</cite>(c)(5) or (6), any caretaker, custodian, responsible relative, or agency may apply to the Clerk of the Court to issue a notice of intent to withhold upon compliance with the requirements of § <cite path="§46-222">46-222</cite>. The Clerk of the Court shall issue to the obligor by certified mail a notice of intent to withhold and shall certify the date the notice is mailed.</annotation>
@@ -73,8 +75,10 @@
     <annotation type="Effect of Amendments">“(iii) A date established by the court pursuant to child support procedures; or</annotation>
     <annotation type="Effect of Amendments">“(B) If the parent’s address is not known, within 15 calendar days of locating the parent.</annotation>
     <annotation type="Effect of Amendments">“(2) The advance notice shall include the information set forth in subsection (c) of this section.”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, in subsec. (a), substituted “Court” for “Collection and Disbursement Unit”; and, in par. (7) of subsec. (c), substituted “IV-D agency and the Court” for “Collection and Disbursement Unit”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-100">D.C. Law 16-100</cite> rewrote the section, which had read:</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, in subsec. (a), substituted “Court” for “Collection and Disbursement Unit”; and, in par. (7) of subsec. (c), substituted “IV-D agency and the Court” for “Collection and Disbursement Unit”.</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 16-100">D.C. Law 16-100</cite> rewrote the section, which had read:</annotation>
     <annotation type="Effect of Amendments">“(a) For any support order subject to initiated withholding pursuant to § <cite path="§46-208">46-208</cite>(c), the Court shall issue to the obligor, by certified mail, a notice of withholding and shall certify the date the notice is mailed.</annotation>
     <annotation type="Effect of Amendments">“(b) Repealed.</annotation>
     <annotation type="Effect of Amendments">“(c) The notice of withholding shall include the following:</annotation>

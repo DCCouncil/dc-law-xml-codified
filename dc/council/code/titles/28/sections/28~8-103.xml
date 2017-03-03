@@ -1,4 +1,5 @@
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:8-103</num>
   <heading>Rules for determining whether certain obligations and interests are securities or financial assets.</heading>
   <para>
@@ -37,7 +38,8 @@
     <text type="Uniform Commercial Code Comment">5. Subsection (d) deals with the line between Article 3 negotiable instruments and Article 8 investment securities. It continues the rule of the prior version of Article 8 that a writing that meets the Article 8 definition is covered by Article 8 rather than Article 3, even though it also meets the definition of negotiable instrument. However, subsection (d) provides that an Article 3 negotiable instrument is a “financial asset” so that the indirect holding system rules apply if the instrument is held through a securities intermediary. This facilitates making items such as money market instruments eligible for deposit in clearing corporations.</text>
     <text type="Uniform Commercial Code Comment">6. Subsection (e) is included to clarify the treatment of investment products such as traded stock options, which are treated as financial assets but not securities. Thus, the indirect holding system rules of Part 5 apply, but the direct holding system rules of Parts 2, 3, and 4 do not.</text>
     <text type="Uniform Commercial Code Comment">7. Subsection (f) excludes commodity contracts from all of Article 8. However, the Article 9 rules on security interests in investment property do apply to security interests in commodity positions. See  Section 9-115 and Comment 8 thereto. “Commodity contract“ is defined in  Section 9-115.</text>
-    <text type="Uniform Commercial Code Comment"><strong>Definitional Cross References</strong> “Clearing corporation”.  Section 8-102(a)(5).</text>
+    <text type="Uniform Commercial Code Comment">
+      <strong>Definitional Cross References</strong> “Clearing corporation”.  Section 8-102(a)(5).</text>
     <text type="Uniform Commercial Code Comment">“Commodity contract”.  Section 9-115.</text>
     <text type="Uniform Commercial Code Comment">“Financial asset”.  Section 8-102(a)(9).</text>
     <text type="Uniform Commercial Code Comment">“Security”.  Section 8-102(a)(15).</text>
@@ -48,7 +50,8 @@
     <annotation type="Section References">This section is referenced in § <cite path="§28:8-102">28:8-102</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 28:8-103.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 28:8-103.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-201">D.C. Law 13-201</cite>, enacting a new Article 9 of the Uniform Commercial Code applicable July 1, 2001, made conforming amendments to this section applicable upon the same date.</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 13-201">D.C. Law 13-201</cite>, enacting a new Article 9 of the Uniform Commercial Code applicable July 1, 2001, made conforming amendments to this section applicable upon the same date.</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> added (g).</annotation>
   </annotations>
 </section>

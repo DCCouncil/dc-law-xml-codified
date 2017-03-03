@@ -1,4 +1,5 @@
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:8-108</num>
   <heading>Warranties in direct holding.</heading>
   <para>
@@ -131,7 +132,8 @@
     <text type="Uniform Commercial Code Comment">3. Subsection (f) limits the warranties made by a purchaser for value without notice whose presentation of a security certificate is defective in some way but to whom the issuer does register transfer. The effect is to deny the issuer a remedy against such a person unless at the time of presentment the person had knowledge of an unauthorized signature in a necessary indorsement. The issuer can protect itself by refusing to make the transfer or, if it registers the transfer before it discovers the defect, by pursuing its remedy against a signature guarantor.</text>
     <text type="Uniform Commercial Code Comment">4. Subsection (g) eliminates all substantive warranties in the relatively unusual case of a delivery of certificated security by an agent of a disclosed principal where the agent delivers the exact certificate that it received from or for the principal. Subsection (h) limits the warranties given by a secured party who redelivers a certificate. Subsection (i) specifies the warranties of brokers in the more common scenarios.</text>
     <text type="Uniform Commercial Code Comment">5. Under  Section 1-102(3) the warranty provisions apply “unless otherwise agreed” and the parties may enter into express agreements to allocate the risks of possible defects. Usual estoppel principles apply with respect to transfers of both certificated and uncertificated securities whenever the purchaser has knowledge of the defect, and these warranties will not be breached in such a case.</text>
-    <text type="Uniform Commercial Code Comment"><strong>Definitional Cross References</strong> “Adverse claim”.  Section 8-102(a)(1).</text>
+    <text type="Uniform Commercial Code Comment">
+      <strong>Definitional Cross References</strong> “Adverse claim”.  Section 8-102(a)(1).</text>
     <text type="Uniform Commercial Code Comment">“Appropriate person”.  Section 8-107.</text>
     <text type="Uniform Commercial Code Comment">“Broker”.  Section 8-102(a)(3).</text>
     <text type="Uniform Commercial Code Comment">“Certificated security”.  Section 8-102(a)(4).</text>

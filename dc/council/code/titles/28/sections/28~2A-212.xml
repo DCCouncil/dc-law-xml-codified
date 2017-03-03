@@ -1,4 +1,5 @@
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:2A-212</num>
   <heading>Implied warranty of merchantability.</heading>
   <para>
@@ -38,9 +39,12 @@
     <text>Other implied warranties may arise from course of dealing or usage of trade.</text>
   </para>
   <annotations>
-    <text type="Uniform Commercial Code Comment"><strong>Uniform Statutory Source:</strong>Section 2-314.</text>
-    <text type="Uniform Commercial Code Comment"><strong>Changes:</strong> Revised to reflect leasing practices and terminology.  E.g., Glenn Dick Equip. Co. v. Galey Constr., Inc., 97 Idaho 216, 225, 541 P.2d 1184, 1193 (1975) (implied warranty of merchantability (Article 2) extends to lease transactions).</text>
-    <text type="Uniform Commercial Code Comment"><strong>Definitional Cross References:</strong> “Conforming”. Section 2A-103(1)(d).</text>
+    <text type="Uniform Commercial Code Comment">
+      <strong>Uniform Statutory Source:</strong>Section 2-314.</text>
+    <text type="Uniform Commercial Code Comment">
+      <strong>Changes:</strong> Revised to reflect leasing practices and terminology.  E.g., Glenn Dick Equip. Co. v. Galey Constr., Inc., 97 Idaho 216, 225, 541 P.2d 1184, 1193 (1975) (implied warranty of merchantability (Article 2) extends to lease transactions).</text>
+    <text type="Uniform Commercial Code Comment">
+      <strong>Definitional Cross References:</strong> “Conforming”. Section 2A-103(1)(d).</text>
     <text type="Uniform Commercial Code Comment">“Course of dealing”.  Section 1-205.</text>
     <text type="Uniform Commercial Code Comment">“Finance lease”. Section 2A-103(1)(g).</text>
     <text type="Uniform Commercial Code Comment">“Fungible”.  Section 1-201(17).</text>

@@ -1,4 +1,5 @@
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-3131.05</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
@@ -111,7 +112,8 @@
   </para>
   <annotations>
     <text type="Editor's Notes">Section 601 of <cite doc="D.C. Law 13-281">D.C. Law 13-281</cite> provided: “The Mayor may issue rules to implement the Abatement and Condemnation of Nuisance Properties Omnibus Amendment Act of 2000 in accordance with the District of Columbia Administrative Procedure Act.”</text>
-    <text type="Editor's Notes"><cite doc="D.C. Law 20-141">D.C. Law 20-141</cite> became effective on Dec. 4, 2014, but was repealed prior to its effective date by emergency D.C. Act 20-377, § 7114, eff. July 14, 2014, 61 DCR 7598, by emergency D.C. Act 20-449, § 7104, eff. October 10, 2014, 61 DCR 10915, by emergency D.C. Act 20-566, § 7104, eff. January 9, 2015, 62 DCR 884, and by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 7104, 61 DCR 9990.</text>
+    <text type="Editor's Notes">
+      <cite doc="D.C. Law 20-141">D.C. Law 20-141</cite> became effective on Dec. 4, 2014, but was repealed prior to its effective date by emergency D.C. Act 20-377, § 7114, eff. July 14, 2014, 61 DCR 7598, by emergency D.C. Act 20-449, § 7104, eff. October 10, 2014, 61 DCR 10915, by emergency D.C. Act 20-566, § 7104, eff. January 9, 2015, 62 DCR 884, and by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>, § 7104, 61 DCR 9990.</text>
     <annotation type="History">Apr. 14, 1906, 34 Stat. 115, ch. 1626, § 5</annotation>
     <annotation doc="D.C. Law 13-281" type="History">as added Apr. 27, 2001, D.C. Law 13-281, § 101, 48 DCR 1888</annotation>
     <annotation doc="D.C. Law 17-216" type="History">Aug. 15, 2008, D.C. Law 17-216, § 3(a), 55 DCR 7500</annotation>
@@ -119,8 +121,10 @@
     <annotation doc="D.C. Law 20-141" type="History">Dec. 4, 2014, D.C. Law 20-141, § 205, 61 DCR 7763</annotation>
     <annotation doc="D.C. Law 20-155" type="History">Feb. 26, 2015, D.C. Law 20-155, §§  7103(e) and 7104, 61 DCR 9990</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§42-3131.01">42-3131.01</cite>, § <cite path="§42-3131.10">42-3131.10</cite>, and § <cite path="§42-3131.16">42-3131.16</cite>.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-216">D.C. Law 17-216</cite>, in the lead-in text, made a technical correction that resulted in no change in the text; in par. (2), substituted “District of Columbia, actively operating as a hotel or motel” for “District of Columbia”; added pars. (2A), (4A), and (4B); and rewrote pars. (4) and (5).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> redesignated former par. (1) as par. (1A); added par. (1); and rewrote par. (5).</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 17-216">D.C. Law 17-216</cite>, in the lead-in text, made a technical correction that resulted in no change in the text; in par. (2), substituted “District of Columbia, actively operating as a hotel or motel” for “District of Columbia”; added pars. (2A), (4A), and (4B); and rewrote pars. (4) and (5).</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> redesignated former par. (1) as par. (1A); added par. (1); and rewrote par. (5).</annotation>
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-141">D.C. Law 20-141</cite>, repealed before its effective date, would have substituted “Office of Tax and Revenue, and a tax sale purchaser under § <cite path="§47-1353">47-1353</cite>(b) or the purchaser’s assignee, as applicable, except where the owner of record is challenging or appealing the vacant status of the real property for the same period” for “Office of Tax and Revenue” in (4).</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> substituted “Office of Tax and Revenue, and a tax sale purchaser under § <cite path="§47-1353">47-1353</cite>(b) or the purchaser's assignee, as applicable, except where the owner of record is challenging or appealing the vacant status of the real property for the same period” for “Office of Tax and Revenue” in (4).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 3(a) of Nuisance Properties Abatement Reform and Real Property Classification Temporary Amendment Act of 2006 (<cite doc="D.C. Law 16-259">D.C. Law 16-259</cite>, March 8, 2007, law notification  54 DCR 3044).</annotation>

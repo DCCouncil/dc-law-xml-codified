@@ -1,4 +1,5 @@
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>8-634.03</num>
   <heading>Access to information.</heading>
   <para>
@@ -38,7 +39,8 @@
     <para>
       <num>(2)</num>
       <text>The information, or a portion thereof, shall be considered confidential, except that a record, report, document, or other information may be disclosed by the Mayor when relevant in a proceeding under this chapter.</text>
-      <text><strong>[(3)]</strong>A person required to provide information under this section shall not claim that the information is entitled to protection unless the request for confidentiality is made in writing at the time the record, report, or other information is submitted to the Mayor.</text>
+      <text>
+        <strong>[(3)]</strong>A person required to provide information under this section shall not claim that the information is entitled to protection unless the request for confidentiality is made in writing at the time the record, report, or other information is submitted to the Mayor.</text>
     </para>
     <para>
       <num>(4)</num>

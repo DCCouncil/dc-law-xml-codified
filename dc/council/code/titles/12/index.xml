@@ -1,4 +1,5 @@
-<container xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" enacted="true" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<container xmlns:ns0="http://www.w3.org/2001/XInclude" enacted="true" containing-doc="D.C. Code">
   <prefix>Title</prefix>
   <num>12</num>
   <heading>Right to Remedy.</heading>
@@ -6,25 +7,25 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Abatement and Revivor.</heading>
-    <ns0:include href="sections/12-101.xml"/>
-    <ns0:include href="sections/12-102.xml"/>
-    <ns0:include href="sections/12-103.xml"/>
-    <ns0:include href="sections/12-104.xml"/>
+    <ns0:include href="sections/12-101.xml" />
+    <ns0:include href="sections/12-102.xml" />
+    <ns0:include href="sections/12-103.xml" />
+    <ns0:include href="sections/12-104.xml" />
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>3</num>
     <heading>Limitation of Actions.</heading>
-    <ns0:include href="sections/12-301.xml"/>
-    <ns0:include href="sections/12-302.xml"/>
-    <ns0:include href="sections/12-303.xml"/>
-    <ns0:include href="sections/12-304.xml"/>
-    <ns0:include href="sections/12-305.xml"/>
-    <ns0:include href="sections/12-306.xml"/>
-    <ns0:include href="sections/12-307.xml"/>
-    <ns0:include href="sections/12-308.xml"/>
-    <ns0:include href="sections/12-309.xml"/>
-    <ns0:include href="sections/12-310.xml"/>
-    <ns0:include href="sections/12-311.xml"/>
+    <ns0:include href="sections/12-301.xml" />
+    <ns0:include href="sections/12-302.xml" />
+    <ns0:include href="sections/12-303.xml" />
+    <ns0:include href="sections/12-304.xml" />
+    <ns0:include href="sections/12-305.xml" />
+    <ns0:include href="sections/12-306.xml" />
+    <ns0:include href="sections/12-307.xml" />
+    <ns0:include href="sections/12-308.xml" />
+    <ns0:include href="sections/12-309.xml" />
+    <ns0:include href="sections/12-310.xml" />
+    <ns0:include href="sections/12-311.xml" />
   </container>
 </container>

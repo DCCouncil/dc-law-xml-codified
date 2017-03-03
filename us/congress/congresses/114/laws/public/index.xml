@@ -1,6 +1,7 @@
-<collection xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" name="114">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<collection xmlns:ns0="http://www.w3.org/2001/XInclude" name="114">
   <heading>The 114th Congress</heading>
-  <ns0:include href="./114-118.xml"/>
-  <ns0:include href="./114-113.xml"/>
-  <ns0:include href="./114-95.xml"/>
+  <ns0:include href="./114-118.xml" />
+  <ns0:include href="./114-113.xml" />
+  <ns0:include href="./114-95.xml" />
 </collection>

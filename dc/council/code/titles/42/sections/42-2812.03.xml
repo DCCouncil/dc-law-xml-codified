@@ -1,4 +1,5 @@
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-2812.03</num>
   <heading>Bond authorization for New Community Initiative neighborhoods, including Sursum Corda.</heading>
   <para>
@@ -232,8 +233,10 @@
     <annotation doc="D.C. Law 20-61" type="History">Dec. 24, 2013, D.C. Law 20-61, §§ 2122(b), 9018, 60 DCR 12472</annotation>
     <annotation doc="D.C. Law 20-117" type="History">June 26, 2014, D.C. Law 20-117, § 9, 61 DCR 2032</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§42-2802">42-2802</cite>, § <cite path="§42-2812.06">42-2812.06</cite>, § <cite path="§42-2812.09">42-2812.09</cite>, and § <cite path="§47-340.26">47-340.26</cite>.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-192">D.C. Law 16-192</cite>, in subsec. (b), substituted “$12 million” for “$6 million”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-20">D.C. Law 17-20</cite>, in subsec. (b), substituted “$16 million” for “12 million”.</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite>, in subsec. (b), substituted “$12 million” for “$6 million”.</annotation>
+    <annotation type="Effect of Amendments">
+      <cite doc="D.C. Law 17-20">D.C. Law 17-20</cite>, in subsec. (b), substituted “$16 million” for “12 million”.</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> added (e); and added the subsection designated herein as (f).</annotation>
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-117">D.C. Law 20-117</cite> rewrote (e); validated a previously made technical correction in (f); and substituted “By April 1, 2014” for “On an annual basis” in (f).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 2172(c) of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2015, 52 DCR 7667).</annotation>
