@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Repealed</reason>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" xmlns:codify="http://code.dccouncil.us/schemas/codify">
   <num>1-614.03</num>
+  <reason>Repealed</reason>
   <heading>Ratings.</heading>
   <text>Repealed.</text>
   <annotations>
@@ -9,6 +9,6 @@
     <annotation doc="D.C. Law 12-154" type="History">June 10, 1998, D.C. Law 12-154, § 101(q), 45 DCR 2464</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-615.3.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-344.3.</annotation>
-    <annotation type="Editor's Notes">Applicability of § 101(q) of <cite doc="D.C. Law 12-124">D.C. Law 12-124</cite>: See Historical and Statutory Notes following § <cite path="§1-614.01">1-614.01</cite>.</annotation>
+    <annotation type="Editor's Notes">Applicability of § 101(q) of <law-cite doc="D.C. Law 12-124">D.C. Law 12-124</law-cite>: See Historical and Statutory Notes following § <cite path="§1-614.01">1-614.01</cite>.</annotation>
   </annotations>
 </section>

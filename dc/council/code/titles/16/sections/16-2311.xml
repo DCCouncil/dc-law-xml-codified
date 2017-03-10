@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Family Court</reason>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" xmlns:codify="http://code.dccouncil.us/schemas/codify">
   <num>16-2311</num>
+  <reason>Family Court</reason>
   <heading>Release or delivery to Family Division</heading>
   <para>
     <num>(a)</num>
@@ -55,7 +55,7 @@
     <annotation type="Prior Codifications">1981 Ed., § 16-2311.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 16-2311.</annotation>
     <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-277">D.C. Law 13-277</cite> substituted “Director of the Agency” for “Chief of the Child Protective Services Division of the Department of Human Services” throughout the section.</annotation>
-    <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-276">D.C. Law 20-276</cite> added “or a child alleged to be engaging in or offering to engage in a sexual act, as defined in [§ <cite path="§22-3001">22-3001</cite>(8)], or sexual contact, as defined in [§ <cite path="§22-3001">22-3001</cite>(9)], in return for receiving anything of value” in (a)(4).</annotation>
+      <law-cite doc="D.C. Law 13-277">D.C. Law 13-277</law-cite> substituted “Director of the Agency” for “Chief of the Child Protective Services Division of the Department of Human Services” throughout the section.</annotation>
+    <annotation type="Effect of Amendments">The 2015 amendment by <law-cite doc="D.C. Law 20-276">D.C. Law 20-276</law-cite> added “or a child alleged to be engaging in or offering to engage in a sexual act, as defined in [§ <cite path="§22-3001">22-3001</cite>(8)], or sexual contact, as defined in [§ <cite path="§22-3001">22-3001</cite>(9)], in return for receiving anything of value” in (a)(4).</annotation>
   </annotations>
 </section>

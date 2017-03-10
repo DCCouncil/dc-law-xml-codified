@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" xmlns:codify="http://code.dccouncil.us/schemas/codify">
   <num>28:4-301</num>
   <heading>Deferred posting; recovery of payment by return of items; time of dishonor; return of items by payor bank.</heading>
   <para>
@@ -46,7 +46,7 @@
     <text type="Uniform Commercial Code Comment">5. Subsection (c) fixes a base point from which to measure the time within which notice of dishonor must be given. See  Section 3-503.</text>
     <text type="Uniform Commercial Code Comment">6. Subsection (d) leaves banks free to agree upon the manner of returning items but establishes a precise time when an item is “returned.” For definition of “sent” as used in paragraphs (1) and (2) see  Section 1-201(38). Obviously the subsection assumes that the item has not been “finally paid” under  Section 4-215(a). If it has been, this provision has no operation.</text>
     <text type="Uniform Commercial Code Comment">7. The fact that an item has been paid under proposed  Section 4-215 does not preclude the payor bank from asserting rights of restitution or revocation under  Section 3-418. National Savings and Trust Co. v. Park Corp., 722 F.2d 1303 (6th Cir. 1983)466 U.S. 939 (1984), is the correct interpretation of the present law on this issue.</text>
-    <text type="Uniform Commercial Code Comment">Reason for 1990 Change [<cite doc="D.C. Law 10-249">D.C. Law 10-249</cite>]</text>
+    <text type="Uniform Commercial Code Comment">Reason for 1990 Change [<law-cite doc="D.C. Law 10-249">D.C. Law 10-249</law-cite>]</text>
     <text type="Uniform Commercial Code Comment">The term “authorized settlement” is deleted in subsection (a) because  Section 4-213 makes the term superfluous. That section prescribes the medium of settlement that a bank must accept. References to settlement throughout Article 4 assume that settlement was made by tender of the proper medium; hence, the word “settles” in subsection (a) means an authorized settlement. Substitution of “settlement” for “payment” in subsection (a) is consistent with the usage throughout Article 4 in distinguishing the act of settlement from the issue of whether the settlement constitutes final payment. The cross reference to former  Section 4-213 is deleted. The reason for the deletion is to remove any implication that final settlement is determined only by that provision. See Reason for 1990 Change for  Section 4-201. The reference to protest is deleted in paragraph (2) of subsection (a) because Article 4 no longer deals with protest. The other modifications are made to conform with current legislative drafting practices, with no intent to change substance.</text>
     <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 704, Pub. L. 88-243, § 1</annotation>
     <annotation doc="D.C. Law 10-249" type="History">Mar. 23, 1995, D.C. Law 10-249, § 2(e), 42 DCR 467</annotation>
@@ -54,6 +54,6 @@
     <annotation type="Section References">This section is referenced in § <cite path="§28:3-502">28:3-502</cite> and § <cite path="§28:4-214">28:4-214</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 28:4-301.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 28:4-301.</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> rewrote (a)(2); and added (a)(3).</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <law-cite doc="D.C. Law 19-299">D.C. Law 19-299</law-cite> rewrote (a)(2); and added (a)(3).</annotation>
   </annotations>
 </section>

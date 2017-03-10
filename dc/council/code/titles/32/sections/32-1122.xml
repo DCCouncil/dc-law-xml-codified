@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" xmlns:codify="http://code.dccouncil.us/schemas/codify">
   <num>32-1122</num>
   <heading>Action against District government.</heading>
   <para>
@@ -19,10 +19,14 @@
     <para>
       <num>(1)</num>
       <text>When any citation or order finding the District government in violation of this chapter becomes final pursuant to § <cite path="§32-1115">32-1115</cite> or § <cite path="§32-1116">32-1116</cite>, the Mayor shall post in various conspicuous sites around the relevant worksite, notices to read as follows:</text>
-      <para>
-        <heading>WARNING HAZARDOUS WORKSITE</heading>
-        <text>Pursuant to the District of Columbia Occupational Safety and Health Act of 1988, this worksite, located at (address), has been determined to be hazardous to the health of the employees required to work here. Accordingly, pursuant to Section 18(e) of that act, employees may not be discharged or otherwise disciplined for refusal to perform work under conditions which are in violation of the health and safety rules of the District or federal health and safety or environmental laws. For further information, contact your union representative or the D.C. Office of Occupational Safety and Health (Phone: 576-6339/Address: 950 Upshur St., N.W.)</text>
-      </para>
+      <text>
+        <center>
+          WARNING
+          <br />
+          HAZARDOUS WORKSITE
+        </center>
+      </text>
+      <text>Pursuant to the District of Columbia Occupational Safety and Health Act of 1988, this worksite, located at (address), has been determined to be hazardous to the health of the employees required to work here. Accordingly, pursuant to Section 18(e) of that act, employees may not be discharged or otherwise disciplined for refusal to perform work under conditions which are in violation of the health and safety rules of the District or federal health and safety or environmental laws. For further information, contact your union representative or the D.C. Office of Occupational Safety and Health (Phone: 576-6339/Address: 950 Upshur St., N.W.)</text>
     </para>
     <para>
       <num>(2)</num>
@@ -32,6 +36,6 @@
   <annotations>
     <annotation doc="D.C. Law 7-186" type="History">Mar. 16, 1989, D.C. Law 7-186, § 23, 35 DCR 8250</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 36-1222.</annotation>
-    <annotation type="Editor's Notes">Section effective: Section 26 (a) of <cite doc="D.C. Law 7-186">D.C. Law 7-186</cite> (§ <cite path="§32-1124">32-1124</cite>(a)) provided that §§ <cite path="§36-1202">36-1202</cite>, <cite path="§36-1203">36-1203</cite>, <cite path="§36-1205">36-1205</cite> to 36-1223 (§§ <cite path="§32-1102">32-1102</cite>, <cite path="§32-1103">32-1103</cite>, <cite path="§32-1105">32-1105</cite> to 32-1123, 2001 Ed.), and the repeal of subchapter II of Chapter 2 of Title 36 (Chapter 8 of Title 32, 2001 Ed.) shall apply 2 years after approval of the plan by the Secretary.</annotation>
+    <annotation type="Editor's Notes">Section effective: Section 26 (a) of <law-cite doc="D.C. Law 7-186">D.C. Law 7-186</law-cite> (§ <cite path="§32-1124">32-1124</cite>(a)) provided that §§ <cite path="§36-1202">36-1202</cite>, <cite path="§36-1203">36-1203</cite>, <cite path="§36-1205">36-1205</cite> to 36-1223 (§§ <cite path="§32-1102">32-1102</cite>, <cite path="§32-1103">32-1103</cite>, <cite path="§32-1105">32-1105</cite> to 32-1123, 2001 Ed.), and the repeal of subchapter II of Chapter 2 of Title 36 (Chapter 8 of Title 32, 2001 Ed.) shall apply 2 years after approval of the plan by the Secretary.</annotation>
   </annotations>
 </section>

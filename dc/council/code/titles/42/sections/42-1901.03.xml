@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" xmlns:codify="http://code.dccouncil.us/schemas/codify">
   <num>42-1901.03</num>
   <heading>Ownership of individual units.</heading>
   <text>Each condominium unit shall constitute for all purposes a separate parcel of real estate, distinct from all other condominium units. Any condominium unit may be owned by more than 1 person as joint tenants, as tenants in common, as tenants by the entirety (in the case of spouses or domestic partners), or in any other real estate tenancy relationship recognized under the laws of the District of Columbia.</text>
@@ -11,6 +11,6 @@
     <annotation type="Prior Codifications">1981 Ed., § 45-1803.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 5-1203.</annotation>
     <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-231">D.C. Law 17-231</cite> substituted “(in the case of spouses or domestic partners)” for “(in the case of husband and wife)”.</annotation>
+      <law-cite doc="D.C. Law 17-231">D.C. Law 17-231</law-cite> substituted “(in the case of spouses or domestic partners)” for “(in the case of husband and wife)”.</annotation>
   </annotations>
 </section>

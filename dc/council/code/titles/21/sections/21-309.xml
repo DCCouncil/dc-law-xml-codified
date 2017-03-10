@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<section xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" xmlns:codify="http://code.dccouncil.us/schemas/codify">
   <num>21-309</num>
   <heading>Manner of creating custodial property and effecting transfer; designation of initial custodian; control.</heading>
   <para>
@@ -8,17 +8,19 @@
     <para>
       <num>(1)</num>
       <text>An uncertificated security is either:</text>
-      <para>
-        <heading>TRANSFER UNDER THE DISTRICT OF COLUMBIA UNIFORM TRANSFERS TO MINORS ACT</heading>
-        <text>I, __________ [name of transferor or name of representative capacity if a fiduciary] hereby transfer to __________ [name of custodian], as custodian for __________ [name of minor] under the District of Columbia Uniform Transfers to Minors Act, the following: [insert a description of the custodian property sufficient to identify it].</text>
-        <text>Dated: __________</text>
-        <text>________________________</text>
-        <text>[Signature]</text>
-        <text>__________ [name of custodian] acknowledges receipt of the property described above as a custodian for the minor named above under the District of Columbia Uniform Transfers to Minors Act.</text>
-        <text>Dated: __________</text>
-        <text>________________________</text>
-        <text>[Signature of Custodian]</text>
-      </para>
+      <text>
+        <center>
+          <strong>TRANSFER UNDER THE DISTRICT OF COLUMBIA UNIFORM TRANSFERS TO MINORS ACT</strong>
+        </center>
+      </text>
+      <text>I, __________ [name of transferor or name of representative capacity if a fiduciary] hereby transfer to __________ [name of custodian], as custodian for __________ [name of minor] under the District of Columbia Uniform Transfers to Minors Act, the following: [insert a description of the custodian property sufficient to identify it].</text>
+      <text>Dated: __________</text>
+      <text>________________________</text>
+      <text>[Signature]</text>
+      <text>__________ [name of custodian] acknowledges receipt of the property described above as a custodian for the minor named above under the District of Columbia Uniform Transfers to Minors Act.</text>
+      <text>Dated: __________</text>
+      <text>________________________</text>
+      <text>[Signature of Custodian]</text>
     </para>
     <aftertext>Registered in the name of the transferor, an adult other than the transferor, or a trust company, followed in substance by the words: “as custodian for ____________ [name of minor] under the District of Columbia Uniform Transfers to Minors Act”; or</aftertext>
     <aftertext>Delivered with the necessary documents and endorsements for transfer to an adult other than the transferor or to a trust company, as custodian, accompanied by an instrument in substantially the form described in subsection (b) of this section;</aftertext>
@@ -52,7 +54,7 @@
     <annotation type="Section References">This section is referenced in § <cite path="§21-301">21-301</cite>, § <cite path="§21-302">21-302</cite>, § <cite path="§21-303">21-303</cite>, § <cite path="§21-304">21-304</cite>, § <cite path="§21-305">21-305</cite>, § <cite path="§21-306">21-306</cite>, § <cite path="§21-307">21-307</cite>, § <cite path="§21-311">21-311</cite>, § <cite path="§21-318">21-318</cite>, and § <cite path="§21-320">21-320</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 21-309.</annotation>
     <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-292">D.C. Law 13-292</cite>, in subsec. (a)(8), substituted “paragraphs (1) through (7)” for “paragraphs (1) through (6)”; and added subsec. (d).</annotation>
+      <law-cite doc="D.C. Law 13-292">D.C. Law 13-292</law-cite>, in subsec. (a)(8), substituted “paragraphs (1) through (7)” for “paragraphs (1) through (6)”; and added subsec. (d).</annotation>
     <annotation type="Editor's Notes">Uniform Law: This section is based upon § 9 of the Uniform Transfers to Minors Act.</annotation>
   </annotations>
 </section>
