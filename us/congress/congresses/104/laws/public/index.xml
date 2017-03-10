@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<collection xmlns:p9="http://code.dccouncil.us/schemas/codified" name="104" xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" xmlns:codify="http://code.dccouncil.us/schemas/codify">
+<collection name="104" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <heading>The 104th Congress</heading>
-  <ns0:include href="./104-316.xml" />
-  <ns0:include href="./104-208.xml" />
-  <ns0:include href="./104-205.xml" />
-  <ns0:include href="./104-194.xml" />
-  <ns0:include href="./104-184.xml" />
-  <ns0:include href="./104-163.xml" />
-  <ns0:include href="./104-134.xml" />
-  <ns0:include href="./104-52.xml" />
-  <ns0:include href="./104-28.xml" />
-  <ns0:include href="./104-21.xml" />
-  <ns0:include href="./104-8.xml" />
+  <xi:include href="./104-316.xml" />
+  <xi:include href="./104-208.xml" />
+  <xi:include href="./104-205.xml" />
+  <xi:include href="./104-194.xml" />
+  <xi:include href="./104-184.xml" />
+  <xi:include href="./104-163.xml" />
+  <xi:include href="./104-134.xml" />
+  <xi:include href="./104-52.xml" />
+  <xi:include href="./104-28.xml" />
+  <xi:include href="./104-21.xml" />
+  <xi:include href="./104-8.xml" />
 </collection>

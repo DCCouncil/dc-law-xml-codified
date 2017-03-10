@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<collection xmlns:p9="http://code.dccouncil.us/schemas/codified" name="103" xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" xmlns:codify="http://code.dccouncil.us/schemas/codify">
+<collection name="103" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <heading>The 103rd Congress</heading>
-  <ns0:include href="./103-373.xml" />
-  <ns0:include href="./103-334.xml" />
-  <ns0:include href="./103-303.xml" />
-  <ns0:include href="./103-269.xml" />
-  <ns0:include href="./103-268.xml" />
-  <ns0:include href="./103-266.xml" />
-  <ns0:include href="./103-127.xml" />
-  <ns0:include href="./103-73.xml" />
+  <xi:include href="./103-373.xml" />
+  <xi:include href="./103-334.xml" />
+  <xi:include href="./103-303.xml" />
+  <xi:include href="./103-269.xml" />
+  <xi:include href="./103-268.xml" />
+  <xi:include href="./103-266.xml" />
+  <xi:include href="./103-127.xml" />
+  <xi:include href="./103-73.xml" />
 </collection>

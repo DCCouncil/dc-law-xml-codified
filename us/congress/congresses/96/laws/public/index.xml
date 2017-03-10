@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<collection xmlns:p9="http://code.dccouncil.us/schemas/codified" name="96" xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" xmlns:codify="http://code.dccouncil.us/schemas/codify">
+<collection name="96" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <heading>The 96th Congress</heading>
-  <ns0:include href="./96-432.xml" />
-  <ns0:include href="./96-396.xml" />
-  <ns0:include href="./96-235.xml" />
-  <ns0:include href="./96-184.xml" />
-  <ns0:include href="./96-179.xml" />
-  <ns0:include href="./96-152.xml" />
-  <ns0:include href="./96-122.xml" />
-  <ns0:include href="./96-57.xml" />
+  <xi:include href="./96-432.xml" />
+  <xi:include href="./96-396.xml" />
+  <xi:include href="./96-235.xml" />
+  <xi:include href="./96-184.xml" />
+  <xi:include href="./96-179.xml" />
+  <xi:include href="./96-152.xml" />
+  <xi:include href="./96-122.xml" />
+  <xi:include href="./96-57.xml" />
 </collection>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<collection xmlns:p9="http://code.dccouncil.us/schemas/codified" name="113" xmlns:ns0="http://www.w3.org/2001/XInclude" xmlns:codified="http://code.dccouncil.us/schemas/codified" xmlns:codify="http://code.dccouncil.us/schemas/codify">
+<collection name="113" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <heading>The 113th Congress</heading>
-  <ns0:include href="./113-103.xml" />
-  <ns0:include href="./113-71.xml" />
-  <ns0:include href="./113-8.xml" />
+  <xi:include href="./113-103.xml" />
+  <xi:include href="./113-71.xml" />
+  <xi:include href="./113-8.xml" />
 </collection>
