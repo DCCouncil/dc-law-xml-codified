@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<collection name="100" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+  <heading>The 100th Congress</heading>
+  <subheading>Public Laws</subheading>
+  <xi:include href="./laws/public/100-462.xml" />
+  <xi:include href="./laws/public/100-238.xml" />
+  <xi:include href="./laws/public/100-204.xml" />
+  <xi:include href="./laws/public/100-202.xml" />
+</collection>
