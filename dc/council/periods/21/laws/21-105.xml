@@ -8,27 +8,15 @@
   <meta>
     <effective>2016-04-09</effective>
     <citations>
-      <citation type="register">63 DCR 217</citation>
       <citation type="law" url="http://lims.dccouncil.us/Download/33773/B21-0199-SignedAct.pdf">D.C. Law 21-105</citation>
+      <citation type="register">63 DCR 217</citation>
     </citations>
     <history>
-      <details>
-        <mayorReview>
-          <enactedDate>2015-12-29</enactedDate>
-        </mayorReview>
-        <votingSummary>
-          <readingDescription>Final Reading CC</readingDescription>
-          <dateOfVote>2015-12-01</dateOfVote>
-        </votingSummary>
-        <votingSummary>
-          <readingDescription>First Reading CC</readingDescription>
-          <dateOfVote>2015-11-03</dateOfVote>
-        </votingSummary>
-        <legislation>
-          <committeeReferral>Committee on Judiciary</committeeReferral>
-        </legislation>
-      </details>
+      <vote date="2015-11-03" reading="First" />
+      <vote date="2015-12-01" reading="Final" />
+      <enacted>2015-12-29</enacted>
       <summary>This legislation permits individuals to obtain a judicial decree or judgment from DC Superior Court terminating their domestic partnership. Prior to this law, some jurisdictions refused to recognize the District's termination of domestic partnerships because individuals were only permitted to terminate their partnerships through the administrative processes at the Department of Health.  </summary>
+      <committee>Committee on Judiciary</committee>
     </history>
   </meta>
   <section>
