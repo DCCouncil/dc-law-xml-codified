@@ -35,6 +35,10 @@ before_build:
   - "%PYTHON%\\python.exe -m pip install wheel"
   - "%PYTHON%\\python.exe -m pip install    ..\\dc-law-tools\\requirements\\lxml-3.6.4-cp35-cp35m-win32.whl"
   - "%PYTHON%\\python.exe -m pip install -r ..\\dc-law-tools\\requirements.txt"
+  # dotnet restore and build
+  - ps: cd ..\dc-law-tools
+  - "%PYTHON%\\python.exe appveyor-deploy\\before_build.py"
+  - ps: cd ..\dc-law-xml-codified
 
 build_script:
   - cd ..\dc-law-tools
@@ -43,9 +47,8 @@ build_script:
 test_script:
   - echo Skipping doomed test discovery to save time
 
+skip_tags: true   # don't create builds for tags (only for branches)
+
 deploy_script:
-  - cd ..\dc-law-html
-  - echo %appveyor_build_version% > version.html
-  - git add -A
-  - git diff --cached --exit-code --shortstat || git commit --quiet -m "deploy HTML from dc-law-codified build %appveyor_build_version%"
-  - git push origin %appveyor_repo_branch%
+  - cd ..\dc-law-xml-codified
+  - "%PYTHON%\\python.exe -u ..\\dc-law-tools\\appveyor-deploy\\dc-law-xml-codified.py"
