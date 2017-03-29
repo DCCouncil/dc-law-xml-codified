@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<collection name="64" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+  <heading>The 64th Congress</heading>
+  <subheading>Public Laws</subheading>
+  <xi:include href="./laws/public/64-2-ch160.xml" />
+  <xi:include href="./laws/public/64-1-ch433.xml" />
+  <xi:include href="./laws/public/64-1-ch209.xml" />
+  <xi:include href="./laws/public/64-1-ch130.xml" />
+  <xi:include href="./laws/public/64-1-ch127.xml" />
+</collection>

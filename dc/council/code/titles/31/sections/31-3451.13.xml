@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-3451.13</num>
   <heading>Transition.</heading>
   <text>For RBC reports required to be filed by health organizations with respect to 2002, the following requirements shall apply in lieu of the provisions of §§ <cite path="§31-3451.03">31-3451.03</cite>, <cite path="§31-3451.04">31-3451.04</cite>, <cite path="§31-3451.05">31-3451.05</cite>, and <cite path="§31-3451.06">31-3451.06</cite>:</text>
@@ -19,9 +20,10 @@
     <text>In the event of a Mandatory Control Level Event, the Commissioner shall take the action required under § <cite path="§31-3451.05">31-3451.05</cite>.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-312" type="History">June 18, 2003, D.C. Law 14-312, § 113, 50 DCR 306</annotation>
+    <annotation doc="D.C. Law 14-312" type="History" path="§113">June 18, 2003, D.C. Law 14-312, § 113, 50 DCR 306</annotation>
     <annotation doc="D.C. Law 15-354" type="History">Apr. 13, 2005, D.C. Law 15-354, § 45(d), 52 DCR 2638</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§31-3851.13">31-3851.13</cite>.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite> validated previously made technical corrections.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 15-354">D.C. Law 15-354</law-cite> validated previously made technical corrections.</annotation>
   </annotations>
 </section>

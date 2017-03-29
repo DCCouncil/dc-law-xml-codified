@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-2001.01</num>
   <heading>Annuity — Salary deductions.</heading>
   <para>
@@ -14,7 +15,7 @@
     <text>The Council of the District of Columbia shall cause to be filed with the Board of Education on September 10th of each year a certificate showing the amount of deduction to be made from the salary of each teacher during the year, said deduction to be made in equal amounts, one to be deducted for each school month. A similar certificate shall be filed not later than the 15th day of each calendar month to cover cases of new entrants. No deduction shall be made from less than an entire month’s salary.</text>
   </para>
   <annotations>
-    <annotation type="History">Jan. 15, 1920, 41 Stat. 387, ch. 39, § 1</annotation>
+    <annotation type="History" doc="Stat. 66-2-ch39" path="§1">Jan. 15, 1920, 41 Stat. 387, ch. 39, § 1</annotation>
     <annotation type="History">June 11, 1926, 44 Stat. 727, ch. 556, § 1</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-621.03">1-621.03</cite> and § <cite path="§1-622.04">1-622.04</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-1201.</annotation>

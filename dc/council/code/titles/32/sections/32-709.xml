@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>32-709</num>
   <heading>Rulemaking.</heading>
   <para>
@@ -13,6 +14,6 @@
     <text type="Resolutions">Resolution 14-459, the “Domestic Partnership Registration Procedures and Fees Approval Resolution of 2002”, was approved effective June 14, 2002.</text>
     <text type="Resolutions">Resolution 16-920, the “Domestic Partnership Health Care Benefits Expansion Amendment Rulemaking Approval Resolution of 2006”, was approved effective November 25, 2006.</text>
     <text type="Resolutions">Resolution 18-404, the “Domestic Partnership Certified List of Jurisdictions Approval Resolution of 2010”, was approved effective March 2, 2010.</text>
-    <annotation doc="D.C. Law 9-114" type="History">June 11, 1992, D.C. Law 9-114, § 10, 39 DCR 2861</annotation>
+    <annotation doc="D.C. Law 9-114" type="History" path="§10">June 11, 1992, D.C. Law 9-114, § 10, 39 DCR 2861</annotation>
   </annotations>
 </section>

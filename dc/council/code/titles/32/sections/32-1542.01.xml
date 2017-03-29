@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>32-1542.01</num>
   <heading>Establishment of Commission.</heading>
   <para>
@@ -73,7 +74,7 @@
     <text>The Commission shall continue in existence for 3 years at which time the Commission shall terminate unless the Council determines that the Commission shall continue in existence or be reestablished.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 3-77" type="History">July 1, 1980, D.C. Law 3-77, § 43a</annotation>
+    <annotation doc="D.C. Law 3-77" type="History" path="§43a">July 1, 1980, D.C. Law 3-77, § 43a</annotation>
     <annotation doc="D.C. Law 8-198" type="History">as added Mar. 6, 1991, D.C. Law 8-198, § 2(h), 37 DCR 6890</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 36-342.1.</annotation>
     <annotation type="References in Text">The “District of Columbia Workers’ Compensation Equity Amendment Act of 1990” referred to in (d)(1)(B) and (d)(1)(C), is D.C. Law</annotation>

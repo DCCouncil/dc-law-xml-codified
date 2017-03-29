@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-3507.05</num>
   <heading>Tenant hot line.</heading>
   <text>The Department of Consumer and Regulatory Affairs shall provide for the continuation of a tenant hot line. The primary purpose of the tenant hot line is to provide assistance to low- and moderate-income tenants. To carry out this purpose, the functions and responsibilities shall include, but not be limited to, the following:</text>
@@ -43,7 +44,7 @@
     <text>Providing guidance on other tenant problems.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-10" type="History">July 17, 1985, D.C. Law 6-10, § 705, 32 DCR 3089</annotation>
+    <annotation doc="D.C. Law 6-10" type="History" path="§705">July 17, 1985, D.C. Law 6-10, § 705, 32 DCR 3089</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-2575.</annotation>
     <annotation type="Expiration of Law">See Historical and Statutory Notes following § <cite path="§45-2571">45-2571</cite>.</annotation>
   </annotations>

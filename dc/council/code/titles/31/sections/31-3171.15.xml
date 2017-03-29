@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-3171.15</num>
   <heading>Dissolution of the Authority.</heading>
   <text>Upon dissolution, liquidation, or other termination of the Authority:</text>
@@ -15,6 +16,6 @@
     <text>The expenditure of any net earnings shall be restricted to costs related to the direct delivery of health care to residents of the District.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-94" type="History">Mar. 2, 2012, D.C. Law 19-94, § 16, 59 DCR 213</annotation>
+    <annotation doc="D.C. Law 19-94" type="History" path="§16">Mar. 2, 2012, D.C. Law 19-94, § 16, 59 DCR 213</annotation>
   </annotations>
 </section>

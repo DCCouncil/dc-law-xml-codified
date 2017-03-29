@@ -1,9 +1,10 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-571</num>
   <heading>Short title.</heading>
   <text>This subchapter may be cited as the “Open Meetings Act”.</text>
   <annotations>
-    <annotation doc="Pub. L. 90-614" type="History">Oct. 21, 1968, Pub. L. 90-614, title IV, § 401</annotation>
+    <annotation doc="Pub. L. 90-614" type="History" path="§401">Oct. 21, 1968, Pub. L. 90-614, title IV, § 401</annotation>
     <annotation doc="D.C. Law 18-350" type="History">as added Mar. 31, 2011, D.C. Law 18-350, § 2, 58 DCR 734</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-1161.01">1-1161.01</cite>, § <cite path="§10-1906">10-1906</cite>, and § <cite path="§31-3171.11">31-3171.11</cite>.</annotation>
   </annotations>

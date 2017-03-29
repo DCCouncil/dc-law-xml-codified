@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2341.19</num>
   <heading>Trauma care system.</heading>
   <para>
@@ -18,6 +19,6 @@
     <text>To the extent that trauma and emergency medical care records compiled and maintained by the Mayor, hospitals, other health care facilities, treatment facilities, or emergency medical services providers in connection with the trauma and emergency medical care information system pursuant to this chapter contain patient identifiable data, that data shall be maintained pursuant to applicable privacy laws.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-357" type="History">Mar. 25, 2009, D.C. Law 17-357, § 20, 56 DCR 1167</annotation>
+    <annotation doc="D.C. Law 17-357" type="History" path="§20">Mar. 25, 2009, D.C. Law 17-357, § 20, 56 DCR 1167</annotation>
   </annotations>
 </section>

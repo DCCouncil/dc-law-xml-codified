@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-2135</num>
   <heading>Information on affordable housing developments.</heading>
   <para>
@@ -97,7 +98,7 @@
     <text>The Affordable Housing Inventory shall include a unique identification number for each affordable housing development.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-215" type="History">Aug. 15, 2008, D.C. Law 17-215, § 6, 55 DCR 7494</annotation>
+    <annotation doc="D.C. Law 17-215" type="History" path="§6">Aug. 15, 2008, D.C. Law 17-215, § 6, 55 DCR 7494</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§42-2133">42-2133</cite> and § <cite path="§42-2134">42-2134</cite>.</annotation>
   </annotations>
 </section>

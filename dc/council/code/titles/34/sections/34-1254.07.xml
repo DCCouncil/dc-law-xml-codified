@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>34-1254.07</num>
   <heading>Franchise renewal; commencement under federal cable act.</heading>
   <para>
@@ -49,7 +50,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 4-142" type="History">Aug. 21, 1982, D.C. Law 4-142, § 407</annotation>
+    <annotation doc="D.C. Law 4-142" type="History" path="§407">Aug. 21, 1982, D.C. Law 4-142, § 407</annotation>
     <annotation doc="D.C. Law 14-193" type="History">as added Oct. 9, 2002, D.C. Law 14-193, § 2(b), 49 DCR 7334</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§34-1254.08">34-1254.08</cite>.</annotation>
   </annotations>

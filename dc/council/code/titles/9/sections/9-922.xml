@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>9-922</num>
   <heading>Jurisdiction of courts; liability for contracts and torts.</heading>
   <para>
@@ -18,7 +19,7 @@
     <text>The Authority shall not be responsible for any tort claims arising before the date of transfer.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-67" type="History">Dec. 3, 1985, D.C. Law 6-67, § 23, 32 DCR 6093</annotation>
+    <annotation doc="D.C. Law 6-67" type="History" path="§23">Dec. 3, 1985, D.C. Law 6-67, § 23, 32 DCR 6093</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 7-1272.</annotation>
   </annotations>
 </section>

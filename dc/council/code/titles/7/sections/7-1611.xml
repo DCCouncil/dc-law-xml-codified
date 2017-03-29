@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-1611</num>
   <heading>Findings.</heading>
   <text>The Council finds that:</text>
@@ -19,6 +20,6 @@
     <text>In light of Effi Slaughter Barry’s commitment to health and, in particular, to helping residents of the District of Columbia combat HIV/AIDS, it is fitting that the East of the River HIV/AIDS Capacity Building Initiative should be known as the Effi Slaughter Barry HIV/AIDS Initiative.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-117" type="History">Mar. 20, 2008, D.C. Law 17-117, § 2, 55 DCR 1282</annotation>
+    <annotation doc="D.C. Law 17-117" type="History" path="§2">Mar. 20, 2008, D.C. Law 17-117, § 2, 55 DCR 1282</annotation>
   </annotations>
 </section>

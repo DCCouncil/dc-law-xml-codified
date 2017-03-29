@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-751.05</num>
   <heading>Release of information.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>It is the responsibility of the participant to negotiate with each lending institution for the terms and conditions of the educational loan repayments. Any penalties associated with early repayment shall be the responsibility of the participant.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 16-71" type="History">Mar. 8, 2006, D.C. Law 16-71, § 6, 53 DCR 61</annotation>
+    <annotation doc="D.C. Law 16-71" type="History" path="§6">Mar. 8, 2006, D.C. Law 16-71, § 6, 53 DCR 61</annotation>
   </annotations>
 </section>

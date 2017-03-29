@@ -1,9 +1,10 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 9-133" flag="true">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="D.C. Law 9-133" flag="true" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">9-133</num>
   <meta>
-    <effective/>
-    <cites>
-      <law lawId="133" period="9" url="./docs/9-133.pdf"/>
-    </cites>
+    <effective />
+    <citations>
+      <citation type="law" url="./docs/9-133.pdf">D.C. Law 9-133</citation>
+    </citations>
   </meta>
 </document>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-3932.13</num>
   <heading>Discount on reserves; report on reserves.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>An SPFC shall file annually an actuarial opinion on reserves provided by an approved independent actuary.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-262" type="History">Mar. 17, 2005, D.C. Law 15-262, § 213</annotation>
+    <annotation doc="D.C. Law 15-262" type="History" path="§213">Mar. 17, 2005, D.C. Law 15-262, § 213</annotation>
     <annotation doc="D.C. Law 16-285" type="History">as added Mar. 14, 2007, D.C. Law 16-285, § 2(b), 54 DCR 944</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2701</num>
   <heading>Health regulations applicable to federal government restaurants; exceptions.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>This section shall not apply to the United States Senate and House of Representatives restaurants.</text>
   </para>
   <annotations>
-    <annotation type="History">Dec. 20, 1944, 58 Stat. 826, ch. 613</annotation>
+    <annotation type="History" doc="Stat. 78-2-ch613" path="">Dec. 20, 1944, 58 Stat. 826, ch. 613</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§48-102">48-102</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-1301.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 6-1101.</annotation>

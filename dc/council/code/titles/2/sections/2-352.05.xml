@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-352.05</num>
   <heading>Privatization contracts and procedures requirements.</heading>
   <para>
@@ -82,7 +83,7 @@
     <text>An agency shall not attempt to circumvent the requirements of this section by eliminating the provision of goods or services by the agency before procuring substantially the same goods or services from a person who is not part of the District government.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-371" type="History">Apr. 8, 2011, D.C. Law 18-371, § 205, 58 DCR 1185</annotation>
+    <annotation doc="D.C. Law 18-371" type="History" path="§205">Apr. 8, 2011, D.C. Law 18-371, § 205, 58 DCR 1185</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-624.22">1-624.22</cite>, § <cite path="§2-381.42">2-381.42</cite>, and § <cite path="§44-1203.01">44-1203.01</cite>.</annotation>
   </annotations>
 </section>

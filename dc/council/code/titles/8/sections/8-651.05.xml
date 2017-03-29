@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-651.05</num>
   <heading>Notification requirements for removal of trees on public space.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>Public utility companies shall provide not less than 20 days written notice to the Director or his or her designee prior to performing any work which affects trees on public space, except for permitted utility construction or emergency work conducted by a public utility company regulated by the Public Service Commission, as provided in § <cite path="§8-651.03">8-651.03</cite>(a).</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-309" type="History">June 12, 2003, D.C. Law 14-309, § 105, 50 DCR 888</annotation>
+    <annotation doc="D.C. Law 14-309" type="History" path="§105">June 12, 2003, D.C. Law 14-309, § 105, 50 DCR 888</annotation>
   </annotations>
 </section>

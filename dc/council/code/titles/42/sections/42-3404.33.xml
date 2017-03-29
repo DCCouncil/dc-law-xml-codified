@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-3404.33</num>
   <heading>Limitations on the District as purchaser of a housing accommodation.</heading>
   <para>
@@ -60,7 +61,7 @@
     <text>If any unit in the housing accommodation was not an affordable unit as defined in § <cite path="§42-3404.32">42-3404.32</cite>(c)(2), on the date the offer of sale was issued, the Mayor, or an assignee of the Mayor, shall develop an affordability plan to explore all means whereby the number of affordable units in the housing accommodation may be increased. The Mayor, or an assignee of the Mayor, shall take all practicable steps to increase the number of affordable units in the housing accommodation.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 3-86" type="History">Sept. 10, 1980, D.C. Law 3-86, § 433</annotation>
+    <annotation doc="D.C. Law 3-86" type="History" path="§433">Sept. 10, 1980, D.C. Law 3-86, § 433</annotation>
     <annotation doc="D.C. Law 17-286" type="History">as added Dec. 24, 2008, D.C. Law 17-286, § 2, 55 DCR 11989</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§42-3404.36">42-3404.36</cite>.</annotation>
   </annotations>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>44-105.01</num>
   <heading>Standard of care.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>In order to promote resident independence and aging in place in a residential setting, at a minimum, an ALR shall offer or coordinate for payment 24 hour supervision, assistance with scheduled and unscheduled activities of daily living, and instrumental activities of daily living as needed, as well as provision or coordination of recreational and social activities and health services in a way that promotes optimum dignity and independence for the residents.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-127" type="History">June 24, 2000, D.C. Law 13-127, § 501, 47 DCR 2647</annotation>
+    <annotation doc="D.C. Law 13-127" type="History" path="§501">June 24, 2000, D.C. Law 13-127, § 501, 47 DCR 2647</annotation>
   </annotations>
 </section>

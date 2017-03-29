@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-231.08</num>
   <heading>Property owner’s concurrent obligations.</heading>
   <text>The provisions of this subchapter do not reduce, replace, or eliminate:</text>
@@ -11,6 +12,6 @@
     <text>The authority of the Mayor to enforce applicable housing codes or to issue orders in accordance with any applicable District law or regulation.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-381" type="History">Mar. 31, 2009, D.C. Law 17-381, § 9, 56 DCR 1596</annotation>
+    <annotation doc="D.C. Law 17-381" type="History" path="§9">Mar. 31, 2009, D.C. Law 17-381, § 9, 56 DCR 1596</annotation>
   </annotations>
 </section>

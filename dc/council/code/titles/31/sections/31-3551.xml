@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-3551</num>
   <heading> Reduction of health care benefits lien.</heading>
   <para>
@@ -41,6 +42,6 @@
     <text>For the purposes of this chapter, the term "subrogee" means any person or entity that provides accident and sickness benefits or medical, surgical, or hospital benefits, whether on an indemnity or a reimbursement basis or a prepaid basis, including insurance carriers, and employers.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 21-110" type="History">May 12, 2016, D.C. Law 21-110, § 2, 63 DCR 4322</annotation>
+    <annotation doc="D.C. Law 21-110" type="History" path="§2">May 12, 2016, D.C. Law 21-110, § 2, 63 DCR 4322</annotation>
   </annotations>
 </section>

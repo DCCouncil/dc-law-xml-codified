@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>6-1303</num>
   <heading>Office of Foreign Missions.</heading>
   <para>
@@ -26,7 +27,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 97-241" type="History">Aug. 24, 1982, 96 Stat. 284, Pub. L. 97-241, § 202(b)</annotation>
+    <annotation doc="Pub. L. 97-241" type="History" path="§202|(b)">Aug. 24, 1982, 96 Stat. 284, Pub. L. 97-241, § 202(b)</annotation>
     <annotation doc="Pub. L. 98-164" type="History">Nov. 22, 1983, 97 Stat. 1017, Pub. L. 98-164, § 604(a), (b)</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§6-1302">6-1302</cite> and § <cite path="§6-1307">6-1307</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 5-1203.</annotation>

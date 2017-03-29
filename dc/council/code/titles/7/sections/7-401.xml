@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-401</num>
   <heading>Limitation on liability for medical care or assistance in emergency situations.</heading>
   <para>
@@ -42,13 +43,14 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 89-341" type="History">Nov. 8, 1965, 79 Stat. 1302, Pub. L. 89-341, § 1</annotation>
+    <annotation doc="Pub. L. 89-341" type="History" path="§1">Nov. 8, 1965, 79 Stat. 1302, Pub. L. 89-341, § 1</annotation>
     <annotation doc="D.C. Law 2-25" type="History">Sept. 28, 1977, D.C. Law 2-25, § 2, 24 DCR 3718</annotation>
     <annotation doc="D.C. Law 4-25" type="History">Aug. 1, 1981, D.C. Law 4-25, § 3, 28 DCR 2622</annotation>
     <annotation doc="D.C. Law 14-194" type="History">Oct. 17, 2002, D.C. Law 14-194, § 402, 49 DCR 5306</annotation>
     <annotation type="Cross References">Distribution of controlled substances, see § <cite path="§48-903.01">48-903.01</cite> et seq.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-1344.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 2-142.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-194">D.C. Law 14-194</cite> added subsec. (d-1); and in subsec. (e), substituted “ ‘emergency medical technician/paramedic,’ ‘emergency medical technician/intermediate paramedic,’ and ‘emergency medical technician’ ” for “ ‘emergency medical technician/paramedic’ and ‘emergency medical technician/intermediate paramedic’ ”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 14-194">D.C. Law 14-194</law-cite> added subsec. (d-1); and in subsec. (e), substituted “ ‘emergency medical technician/paramedic,’ ‘emergency medical technician/intermediate paramedic,’ and ‘emergency medical technician’ ” for “ ‘emergency medical technician/paramedic’ and ‘emergency medical technician/intermediate paramedic’ ”.</annotation>
   </annotations>
 </section>

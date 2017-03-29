@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>32-853</num>
   <heading>Contents of labor peace agreement.</heading>
   <para>
@@ -18,6 +19,6 @@
     <text>An employer that performs its obligations under a labor peace agreement will be relieved of further obligation to abide by the procedures in the agreement, if the labor organization engages in adverse economic action such as striking, picketing, or boycotting the employer.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-266" type="History">Apr. 2, 2003, D.C. Law 14-266, § 4, 50 DCR 412</annotation>
+    <annotation doc="D.C. Law 14-266" type="History" path="§4">Apr. 2, 2003, D.C. Law 14-266, § 4, 50 DCR 412</annotation>
   </annotations>
 </section>

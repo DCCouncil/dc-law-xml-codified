@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1001</num>
   <heading>General purposes; findings; definitions.</heading>
   <para>
@@ -28,7 +29,7 @@
   <annotations>
     <text type="Editor's Notes">Council concurrence in amendment adding Diagram No. 1, Special Streets and Places, to comprehensive plan: Pursuant to Resolution 6-137, the “Federal Preservation and Historic Features Element Amendment Concurrence Resolution of 1985,” effective May 14, 1985, the Council concurred in the amendment to the federal Preservation and Historic Features Element of the Comprehensive Plan for the National Capital, adding Diagram No. 1, Special Streets and Places.</text>
     <text type="Editor's Notes">For re-enactment of this chapter, see Title 40, Subtitle II, Part D, Chapter 87 of the United States Code.</text>
-    <annotation type="History">June 6, 1924, 43 Stat. 463, ch. 270, § 1</annotation>
+    <annotation type="History" doc="Stat. 68-1-ch270" path="§1">June 6, 1924, 43 Stat. 463, ch. 270, § 1</annotation>
     <annotation type="History">Feb. 26, 1925, 43 Stat. 983, ch. 339, § 3</annotation>
     <annotation type="History">Apr. 30, 1926, 44 Stat. 374, ch. 198</annotation>
     <annotation type="History">May 24, 1928, 45 Stat. 726, ch. 726</annotation>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-3251</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
@@ -39,7 +40,7 @@
     <text>“Uniform credentialing form” means the form designed by the Commissioner, by regulation, for use by a health insurer or its credentialing intermediary for credentialing and re-credentialing of a health care provider for participation on a provider panel.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-96" type="History">Apr. 13, 2002, D.C. Law 14-96, § 101, 49 DCR 991</annotation>
+    <annotation doc="D.C. Law 14-96" type="History" path="§101">Apr. 13, 2002, D.C. Law 14-96, § 101, 49 DCR 991</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-3255">31-3255</cite>.</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>9-1007</num>
   <heading>Federal employees at the Metropolitan Washington Airports.</heading>
   <para>
@@ -57,7 +58,7 @@
     <text>The Airports Authority shall allow representatives of the Secretary adequate access to employees and employee records of the Airports Authority when needed for the performance of functions related to the period before the date the lease under § <cite path="§9-1004">9-1004</cite> takes effect. The Secretary shall provide the Airports Authority access to employee records of transferring employees for appropriate purposes.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 99-591" type="History">Oct. 30, 1986, 100 Stat. 3341-376, Pub. L. 99-591, § 6008</annotation>
+    <annotation doc="Pub. L. 99-591" type="History" path="§6008">Oct. 30, 1986, 100 Stat. 3341-376, Pub. L. 99-591, § 6008</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§9-1004">9-1004</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 7-1507.</annotation>
     <annotation type="Short Title">Short title: See Historical and Statutory Notes following § <cite path="§9-1001">9-1001</cite>.</annotation>

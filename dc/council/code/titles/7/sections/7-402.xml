@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-402</num>
   <heading>Health care professional volunteer assistance protection.</heading>
   <para>
@@ -22,7 +23,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 89-341" type="History">Nov. 8, 1965, Pub. L. 89-341, § 2</annotation>
+    <annotation doc="Pub. L. 89-341" type="History" path="§2">Nov. 8, 1965, Pub. L. 89-341, § 2</annotation>
     <annotation doc="D.C. Law 9-41" type="History">as added Aug. 17, 1991, D.C. Law 9-41, § 3, 38 DCR 4979</annotation>
     <annotation doc="D.C. Law 10-68" type="History">Feb. 5, 1994, D.C. Law 10-68, § 9, 40 DCR 6311</annotation>
     <annotation doc="D.C. Law 10-255" type="History">May 16, 1995, D.C. Law 10-255, § 6, 41 DCR 5193</annotation>

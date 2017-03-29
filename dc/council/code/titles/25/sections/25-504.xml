@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>25-504</num>
   <heading>Minimum annual fees for on-premises retail licenses, class C and D.</heading>
   <text>The minimum annual fees for an on-premises retailer’s licenses, class C and D, shall be as set forth on the following schedule. Capacity shall be the posted level of occupancy approved under the Construction Codes, as defined under § <cite path="§6-1401">6-1401</cite> and as set forth in Title 12 of the District of Columbia Municipal Regulations.</text>
@@ -17,19 +18,19 @@
         <td>$300</td>
       </tr>
       <tr>
-        <td/>
+        <td />
         <td>100 to 199.</td>
         <td>$1,000</td>
         <td>$600</td>
       </tr>
       <tr>
-        <td/>
+        <td />
         <td>200 to 499.</td>
         <td>$1,500</td>
         <td>$900</td>
       </tr>
       <tr>
-        <td/>
+        <td />
         <td>500 or more.</td>
         <td>$2,000</td>
         <td>$1,200</td>
@@ -41,13 +42,13 @@
         <td>$500</td>
       </tr>
       <tr>
-        <td/>
+        <td />
         <td>100 to 199.</td>
         <td>$1,600</td>
         <td>$1,000</td>
       </tr>
       <tr>
-        <td/>
+        <td />
         <td>200 or more.</td>
         <td>$2,400</td>
         <td>$1,500</td>
@@ -59,25 +60,25 @@
         <td>$1,000</td>
       </tr>
       <tr>
-        <td/>
+        <td />
         <td>100 to 199.</td>
         <td>$2,000</td>
         <td>$1,250</td>
       </tr>
       <tr>
-        <td/>
+        <td />
         <td>200 to 499.</td>
         <td>$2,500</td>
         <td>$1,500</td>
       </tr>
       <tr>
-        <td/>
+        <td />
         <td>500 to 999.</td>
         <td>$3,500</td>
         <td>$2,000</td>
       </tr>
       <tr>
-        <td/>
+        <td />
         <td>1,000 or more.</td>
         <td>$4,500</td>
         <td>$3,500</td>
@@ -89,19 +90,19 @@
         <td>$1,000</td>
       </tr>
       <tr>
-        <td/>
+        <td />
         <td>100 or more guest rooms</td>
         <td>$4,000</td>
         <td>$2,000</td>
       </tr>
       <tr>
         <td>Club</td>
-        <td/>
+        <td />
         <td>$1,500</td>
         <td>$500</td>
       </tr>
       <tr>
-        <td/>
+        <td />
         <td>Multipurpose facility</td>
         <td>$1,500</td>
         <td>$500</td>
@@ -119,13 +120,13 @@
         <td>$1,000</td>
       </tr>
       <tr>
-        <td/>
+        <td />
         <td>Each additional vessel or dockside waiting area.</td>
         <td>$1,500</td>
         <td>$500</td>
       </tr>
       <tr>
-        <td/>
+        <td />
         <td>Railroad dining or club car Single car.</td>
         <td>$500</td>
         <td>$250</td>
@@ -213,6 +214,7 @@
     <annotation doc="D.C. Law 15-187" type="History">Sept. 30, 2004, D.C. Law 15-187, § 101(v), 51 DCR 6525</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 25-504.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 25-111.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-187">D.C. Law 15-187</cite> added a new row after the row designated “Nightclub”; deleted the five rows designated as “Caterer” which pertained to capacity in terms of annual revenue and also set forth the license fees; and added eight new rows designated as “Caterer”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 15-187">D.C. Law 15-187</law-cite> added a new row after the row designated “Nightclub”; deleted the five rows designated as “Caterer” which pertained to capacity in terms of annual revenue and also set forth the license fees; and added eight new rows designated as “Caterer”.</annotation>
   </annotations>
 </section>

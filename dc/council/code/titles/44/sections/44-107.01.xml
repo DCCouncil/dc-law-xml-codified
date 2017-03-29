@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>44-107.01</num>
   <heading>Staffing standards.</heading>
   <para>
@@ -201,6 +202,6 @@
     <text>For the purposes of subsection (g)(5) of this section “ongoing training” means a regularly scheduled program of staff training designed by the ALR to assure that all staff who have direct resident contact possess the skills necessary to provide high quality services in a manner appropriate to the philosophy of assisted living and includes staff training in how to monitor changes in a resident’s condition, including physical and cognitive assessments.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-127" type="History">June 24, 2000, D.C. Law 13-127, § 701, 47 DCR 2647</annotation>
+    <annotation doc="D.C. Law 13-127" type="History" path="§701">June 24, 2000, D.C. Law 13-127, § 701, 47 DCR 2647</annotation>
   </annotations>
 </section>

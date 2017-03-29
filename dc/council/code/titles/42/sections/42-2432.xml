@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-2432</num>
   <heading>Prohibited foreclosure transactions and practices.</heading>
   <para>
@@ -18,6 +19,6 @@
     <text>Nothing in this section shall be interpreted to prohibit the advertising of, offering of, promoting of, or engaging in foreclosure rescue transactions or foreclosure rescue services that are not carried out for compensation or gain or for potential or contingent compensation or gain, including transactions engaged in between or among family members or arranged by a bona fide nonprofit community organization or nonprofit housing organization.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-87" type="History">Jan. 29, 2008, D.C. Law 17-87, § 3, 54 DCR 11913</annotation>
+    <annotation doc="D.C. Law 17-87" type="History" path="§3">Jan. 29, 2008, D.C. Law 17-87, § 3, 54 DCR 11913</annotation>
   </annotations>
 </section>

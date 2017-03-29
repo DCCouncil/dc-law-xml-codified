@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>46-353.14</num>
   <heading>Limited immunity of petitioner.</heading>
   <para>
@@ -14,6 +15,6 @@
     <text>The immunity granted by this section does not extend to civil litigation based on acts unrelated to a proceeding under this chapter committed by a party while physically present in the District to participate in the proceeding.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 21-73" type="History">Feb. 27, 2016, D.C. Law 21-73, § 314, 63 DCR 222</annotation>
+    <annotation doc="D.C. Law 21-73" type="History" path="§314">Feb. 27, 2016, D.C. Law 21-73, § 314, 63 DCR 222</annotation>
   </annotations>
 </section>

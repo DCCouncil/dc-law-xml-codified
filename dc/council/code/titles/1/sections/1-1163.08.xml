@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-1163.08</num>
   <heading>Designation of campaign depositories; petty cash fund.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>A committee or candidate may maintain a petty cash fund out of which may be made expenditures not in excess of $50 to any person in connection with a single purchase or transaction. A record of petty cash receipts and disbursements shall be kept in accordance with requirements established by the Elections Board, and statements and reports of expenditures shall be furnished to the Director of Campaign Finance as it may require.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-124" type="History">Apr. 27, 2012, D.C. Law 19-124, § 308, 59 DCR 1862</annotation>
+    <annotation doc="D.C. Law 19-124" type="History" path="§308">Apr. 27, 2012, D.C. Law 19-124, § 308, 59 DCR 1862</annotation>
   </annotations>
 </section>

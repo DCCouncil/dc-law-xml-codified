@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-151.06</num>
   <heading>Organization.</heading>
   <text>The Director is authorized to establish administrative divisions within DDOE as the Director considers necessary to increase effectiveness and further the purposes of this chapter, which such divisions may include:</text>
@@ -27,6 +28,6 @@
     <text>A Community Programming and Education Outreach Division to increase public awareness of DDOE’s ongoing environmental, educational, and outreach initiatives by informing District residents about the programs DDOE offers and the importance of everyone’s contribution to protecting and enhancing the environment, to ensure knowledge and accessibility of DDOE programs to the diversity of the District’s residents through presentations and use of printed resources and materials.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 16-51" type="History">Feb. 15, 2006, D.C. Law 16-51, § 106, 52 DCR 10812</annotation>
+    <annotation doc="D.C. Law 16-51" type="History" path="§106">Feb. 15, 2006, D.C. Law 16-51, § 106, 52 DCR 10812</annotation>
   </annotations>
 </section>

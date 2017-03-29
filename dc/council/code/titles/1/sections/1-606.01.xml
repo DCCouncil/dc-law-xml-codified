@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-606.01</num>
   <heading>Establishment of the Office of Employee Appeals; composition; qualifications; term of office; vacancies; Chairperson; quorum; appeal procedure; conflict of interest; compensation; appointment of employees; expenditures; removal; exclusivity of position.</heading>
   <para>
@@ -149,7 +150,7 @@
   <annotations>
     <text type="References in Text">“The date this chapter becomes effective,” referred to in (a), is March 3, 1979.</text>
     <text type="References in Text">The “Freedom of Information Act”, referred to in (g)(3)(E), is codified at  5 U.S.C. § 552.</text>
-    <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 601, 25 DCR 5740</annotation>
+    <annotation doc="D.C. Law 2-139" type="History" path="§601">Mar. 3, 1979, D.C. Law 2-139, § 601, 25 DCR 5740</annotation>
     <annotation doc="D.C. Law 3-81" type="History">Aug. 7, 1980, D.C. Law 3-81, § 2(e), 27 DCR 2632</annotation>
     <annotation doc="D.C. Law 7-200" type="History">Mar. 16, 1989, D.C. Law 7-200, § 2, 36 DCR 6</annotation>
     <annotation doc="D.C. Law 8-127" type="History">May 15, 1990, D.C. Law 8-127, § 2(b), 37 DCR 2093</annotation>
@@ -162,8 +163,11 @@
     <annotation type="Section References">This section is referenced in § <cite path="§1-523.01">1-523.01</cite>, § <cite path="§1-606.11">1-606.11</cite>, § <cite path="§1-636.02">1-636.02</cite>, and § <cite path="§2-352.03">2-352.03</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-606.1.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-336.1.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-189">D.C. Law 15-189</cite> rewrote subsec. (g)(1)(B) which had read as follows: “(g)(1)(B) A General Counsel.”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-108">D.C. Law 17-108</cite> rewrote subsec. (g)(1)(A); and added subsec. (l). Prior to amendment, subsec. (g)(1)(A) read as follows: “(A) An Executive Director; and”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in subsec. (l).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 15-189">D.C. Law 15-189</law-cite> rewrote subsec. (g)(1)(B) which had read as follows: “(g)(1)(B) A General Counsel.”</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-108">D.C. Law 17-108</law-cite> rewrote subsec. (g)(1)(A); and added subsec. (l). Prior to amendment, subsec. (g)(1)(A) read as follows: “(A) An Executive Director; and”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-353">D.C. Law 17-353</law-cite> validated a previously made technical correction in subsec. (l).</annotation>
   </annotations>
 </section>

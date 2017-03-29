@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-3161</num>
   <heading>Prohibition on gender-based discrimination in rate making.</heading>
   <para>
@@ -65,6 +66,6 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-360" type="History">Apr. 8, 2011, D.C. Law 18-360, § 302, 58 DCR 896</annotation>
+    <annotation doc="D.C. Law 18-360" type="History" path="§302">Apr. 8, 2011, D.C. Law 18-360, § 302, 58 DCR 896</annotation>
   </annotations>
 </section>

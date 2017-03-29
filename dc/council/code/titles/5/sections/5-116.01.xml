@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>5-116.01</num>
   <heading>Procedures for electronic recording of interrogations.</heading>
   <para>
@@ -32,7 +33,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-351" type="History">Apr. 13, 2005, D.C. Law 15-351, § 101, 52 DCR 2275</annotation>
+    <annotation doc="D.C. Law 15-351" type="History" path="§101">Apr. 13, 2005, D.C. Law 15-351, § 101, 52 DCR 2275</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§5-116.02">5-116.02</cite> and § <cite path="§5-116.03">5-116.03</cite>.</annotation>
   </annotations>
 </section>

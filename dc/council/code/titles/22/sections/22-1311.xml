@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>22-1311</num>
   <heading>Allowing dogs to go at large.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>If any owner or possessor of a female dog shall permit her to go at large in the District of Columbia while in heat, he shall, upon conviction thereof, be punished by a fine not exceeding $20.</text>
   </para>
   <annotations>
-    <annotation type="History">June 19, 1878, 20 Stat. 174, ch. 323, § 9</annotation>
+    <annotation type="History" doc="Stat. 45-2-ch323" path="§9">June 19, 1878, 20 Stat. 174, ch. 323, § 9</annotation>
     <annotation type="History">June 30, 1902, 32 Stat. 547, ch. 1332</annotation>
     <annotation doc="D.C. Law 7-176" type="History">Oct. 18, 1988, D.C. Law 7-176, § 7(f), 35 DCR 4787</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 22-1111.</annotation>

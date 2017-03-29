@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>36-403</num>
   <heading>Damages.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>If willful and malicious misappropriation exists, the court may award exemplary damages in an amount not exceeding twice the award made under subsection (a) of this section.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 7-216" type="History">Mar. 16, 1989, D.C. Law 7-216, § 4, 36 DCR 519</annotation>
+    <annotation doc="D.C. Law 7-216" type="History" path="§4">Mar. 16, 1989, D.C. Law 7-216, § 4, 36 DCR 519</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 48-503.</annotation>
     <annotation type="Editor's Notes">Uniform Law: This section is based upon § 3 of the Uniform Trade Secrets Act.</annotation>
   </annotations>

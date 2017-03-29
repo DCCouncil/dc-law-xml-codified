@@ -1,10 +1,11 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Repealed</reason>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>34-2413.01</num>
+  <reason>Repealed</reason>
   <heading>Rates.</heading>
   <text>Repealed.</text>
   <annotations>
-    <annotation type="History">July 3, 1930, 46 Stat. 988, ch. 848, § 1</annotation>
+    <annotation type="History" doc="Stat. 71-2-ch848" path="§1">July 3, 1930, 46 Stat. 988, ch. 848, § 1</annotation>
     <annotation doc="D.C. Law 1-70" type="History">June 15, 1976, D.C. Law 1-70, title VI, § 601, 23 DCR 548</annotation>
     <annotation doc="D.C. Law 3-134" type="History">Mar. 5, 1981, D.C. Law 3-134, § 2, 27 DCR 4424</annotation>
     <annotation doc="D.C. Law 4-112" type="History">June 4, 1982, D.C. Law 4-112, § 3, 29 DCR 1687</annotation>
@@ -14,6 +15,6 @@
     <annotation doc="D.C. Law 11-111" type="History">repealed pursuant to § 301 of D.C. Law 11-111</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 43-1522.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 43-1520.</annotation>
-    <annotation type="Editor's Notes">Repeal effective 90 days after meeting of Board: Section 301 of <cite doc="D.C. Law 11-111">D.C. Law 11-111</cite> repealed this section. However, § 601 of <cite doc="D.C. Law 11-111">D.C. Law 11-111</cite> provided that title III of the act shall apply 90 days after the initial meeting of the Board established by section 204 of the act.</annotation>
+    <annotation type="Editor's Notes">Repeal effective 90 days after meeting of Board: Section 301 of <law-cite doc="D.C. Law 11-111">D.C. Law 11-111</law-cite> repealed this section. However, § 601 of <law-cite doc="D.C. Law 11-111">D.C. Law 11-111</law-cite> provided that title III of the act shall apply 90 days after the initial meeting of the Board established by section 204 of the act.</annotation>
   </annotations>
 </section>

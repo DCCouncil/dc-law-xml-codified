@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>24-614</num>
   <heading>Cost of treatment.</heading>
   <para>
@@ -21,7 +22,7 @@
     <text>Sums collected by the Mayor under this section shall be deposited in the Treasury of the United States to the credit of the District of Columbia.</text>
   </para>
   <annotations>
-    <annotation type="History">Aug. 4, 1947, ch. 472, § 14</annotation>
+    <annotation type="History" doc="Stat. 80-1-ch472" path="§14">Aug. 4, 1947, ch. 472, § 14</annotation>
     <annotation doc="Pub. L. 90-452" type="History">Aug. 3, 1968, 82 Stat. 623, Pub. L. 90-452, § 3(a)</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 24-534.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 24-534.</annotation>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>48-851.03</num>
   <heading>Disposal of pharmaceuticals by health care facilities.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>A health care facility that is determined to have disposed of a pharmaceutical product in a manner prohibited by this chapter or by rules issued pursuant to this chapter shall be subject to a civil fine of up to $1,000 per occurrence and required to submit to the Board of Pharmacy a mitigation plan designed to prevent further occurrences.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-112" type="History">Mar. 5, 2010, D.C. Law 18-112, § 4, 56 DCR 9378</annotation>
+    <annotation doc="D.C. Law 18-112" type="History" path="§4">Mar. 5, 2010, D.C. Law 18-112, § 4, 56 DCR 9378</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§48-851.04">48-851.04</cite>.</annotation>
   </annotations>
 </section>

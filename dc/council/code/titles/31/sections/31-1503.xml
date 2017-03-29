@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-1503</num>
   <heading>Required contract provisions.</heading>
   <text>No person, firm, association, or corporation acting in the capacity of a managing general agent shall place business with an insurer unless there is in force a written contract between the parties which sets forth the responsibilities of each party, and where both parties share responsibility for a particular function, specifies the division of the responsibilities, and which contains the following minimum provisions:</text>
@@ -147,7 +148,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-41" type="History">Oct. 21, 1993, D.C. Law 10-41, § 4, 40 DCR 6014</annotation>
+    <annotation doc="D.C. Law 10-41" type="History" path="§4">Oct. 21, 1993, D.C. Law 10-41, § 4, 40 DCR 6014</annotation>
     <annotation doc="D.C. Law 10-255" type="History">May 16, 1995, D.C. Law 10-255, § 29(b), 41 DCR 5193</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-3003.</annotation>
   </annotations>

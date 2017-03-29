@@ -1,8 +1,9 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>32-1457</num>
   <heading>Applicability.</heading>
   <text>This chapter shall not apply to an employment contract entered into before March 11, 2015; provided, that upon renewal of such a contract, this chapter shall apply.</text>
   <annotations>
-    <annotation doc="D.C. Law 20-219" type="History">Mar. 11, 2015, D.C. Law 20-219, § 8, 62 DCR 9</annotation>
+    <annotation doc="D.C. Law 20-219" type="History" path="§8">Mar. 11, 2015, D.C. Law 20-219, § 8, 62 DCR 9</annotation>
   </annotations>
 </section>

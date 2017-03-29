@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-1641.02</num>
   <heading>Bicycle parking space requirements.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>Bicycle parking spaces installed prior to February 2, 2008, that do not meet the requirements of this subchapter shall be permitted until one year after February 2, 2008.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-103" type="History">Feb. 2, 2008, D.C. Law 17-103, § 3, 54 DCR 12213</annotation>
+    <annotation doc="D.C. Law 17-103" type="History" path="§3">Feb. 2, 2008, D.C. Law 17-103, § 3, 54 DCR 12213</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-636.03</num>
   <heading>Implementation Task Force.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>The Task Force shall be disbanded no later than December 1, 1979.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 3603, 25 DCR 5740</annotation>
+    <annotation doc="D.C. Law 2-139" type="History" path="§3603">Mar. 3, 1979, D.C. Law 2-139, § 3603, 25 DCR 5740</annotation>
     <annotation type="Cross References">Administration, procurement, authority of Retirement Board unaffected, see § <cite path="§2-352.01">2-352.01</cite>.</annotation>
     <annotation type="Cross References">District of Columbia judges, retirement, computation of retirement salary, see § <cite path="§11-1564">11-1564</cite>.</annotation>
     <annotation type="Cross References">District of Columbia judges, retirement, “lump-sum credit for retirement” defined, see § <cite path="§11-1561">11-1561</cite>.</annotation>

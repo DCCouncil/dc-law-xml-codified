@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-2502</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
@@ -11,7 +12,7 @@
     <text>“Parking facility” means any area, lot, structure, building, garage or other means for the storage or parking of automobiles, trucks, or other motorized or nonmotorized vehicles, including the vehicular and pedestrian access thereto, that may be established, constructed, erected, acquired, owned or leased, maintained or operated by the Authority. “Parking facility” also includes those appurtenances such as parking meters, automatic gates or security systems that may be acquired, owned, or leased by the Authority.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-153" type="History">Aug. 23, 1994, D.C. Law 10-153, § 3, 41 DCR 4652</annotation>
+    <annotation doc="D.C. Law 10-153" type="History" path="§3">Aug. 23, 1994, D.C. Law 10-153, § 3, 41 DCR 4652</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-842.</annotation>
   </annotations>
 </section>

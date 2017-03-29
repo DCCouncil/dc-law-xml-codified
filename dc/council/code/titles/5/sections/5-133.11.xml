@@ -1,9 +1,10 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>5-133.11</num>
   <heading>Discriminating laws not to be enforced.</heading>
   <text>The said Mayor of the District of Columbia shall not enforce any law or ordinance discriminating between persons in the administration of justice.</text>
   <annotations>
-    <annotation type="History">R.S., D.C., § 396</annotation>
+    <annotation type="History" doc="R.S., D.C." path="§396">R.S., D.C., § 396</annotation>
     <annotation type="History">June 11, 1878, 20 Stat. 107, ch. 180, § 6</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 4-139.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 4-139.</annotation>

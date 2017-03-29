@@ -1,9 +1,17 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="Pub. L. 105-174">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="Pub. L. 105-174" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>105-174</num>
+  <heading type="short">1998 Emergency Supplemental Appropriations Act</heading>
+  <heading type="long">1998 Supplemental Appropriations and Rescissions Act</heading>
   <meta>
     <effective>1998-05-01</effective>
-    <cites>
-      <law session="105" lawId="174"/>
-    </cites>
+    <citations>
+      <citation type="law">Pub. L. 105-174</citation>
+      <citation type="stat" url="https://www.gpo.gov/fdsys/pkg/STATUTE-112/pdf/STATUTE-112-Pg58.pdf">112 Stat. 58</citation>
+    </citations>
   </meta>
+  <section>
+    <num>10007</num>
+    <codified:at doc="D.C. Code" path="§5-105.02" />
+  </section>
 </document>

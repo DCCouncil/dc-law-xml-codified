@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-1102</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter:</text>
@@ -15,7 +16,7 @@
     <text>The term “licensee” means a premium finance company holding a license issued by the Commissioner under this chapter.</text>
   </para>
   <annotations>
-    <annotation type="History">Oct. 9, 1940, ch. 792, ch. III, § 52</annotation>
+    <annotation type="History" doc="Stat. 76-3-ch792" path="§52">Oct. 9, 1940, ch. 792, ch. III, § 52</annotation>
     <annotation doc="Pub. L. 89-403" type="History">Apr. 18, 1966, 80 Stat. 126, Pub. L. 89-403, § 1</annotation>
     <annotation doc="D.C. Law 11-268" type="History">May 21, 1997, D.C. Law 11-268, § 10, 44 DCR 1730</annotation>
     <annotation doc="D.C. Law 12-81" type="History">Mar. 24, 1998, D.C. Law 12-81, § 29(d), 45 DCR 745</annotation>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>32-1331.09</num>
   <heading>Private right of action.</heading>
   <para>
@@ -46,9 +47,9 @@
     <text>The court shall allow for reasonable attorneys fees and costs of the action to be paid by the defendant.</text>
   </para>
   <annotations>
-    <annotation type="History">Aug. 3, 1956, 70 Stat. 976, ch. 924, § 209</annotation>
+    <annotation type="History" doc="Stat. 84-2-ch924" path="§209">Aug. 3, 1956, 70 Stat. 976, ch. 924, § 209</annotation>
     <annotation doc="D.C. Law 19-300" type="History">as added Apr. 27, 2013, D.C. Law 19-300, § 2(b), 60 DCR 2679</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§32-1331.11">32-1331.11</cite>.</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-300">D.C. Law 19-300</cite> added this section.</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <law-cite doc="D.C. Law 19-300">D.C. Law 19-300</law-cite> added this section.</annotation>
   </annotations>
 </section>

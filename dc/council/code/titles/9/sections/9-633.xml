@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>9-633</num>
   <heading>Duties of the Department.</heading>
   <para>
@@ -14,6 +15,6 @@
     <text>Upon approval of the application, the Department shall prepare the applicant’s permit and any parking signs. The approved block party permit shall be made available to the applicant electronically.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-190" type="History">Oct. 23, 2012, D.C. Law 19-190, § 4, 59 DCR 10163</annotation>
+    <annotation doc="D.C. Law 19-190" type="History" path="§4">Oct. 23, 2012, D.C. Law 19-190, § 4, 59 DCR 10163</annotation>
   </annotations>
 </section>

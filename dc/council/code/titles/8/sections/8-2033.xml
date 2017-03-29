@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-2033</num>
   <heading>Exception.</heading>
   <para>
@@ -10,10 +11,11 @@
     <text>No pet shall be kept in violation of health statutes or under circumstances constituting cruelty to animals as set forth in § <cite path="§22-1001">22-1001</cite>.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 7-181" type="History">Mar. 16, 1989, D.C. Law 7-181, § 4, 35 DCR 7715</annotation>
+    <annotation doc="D.C. Law 7-181" type="History" path="§4">Mar. 16, 1989, D.C. Law 7-181, § 4, 35 DCR 7715</annotation>
     <annotation doc="D.C. Law 16-305" type="History">Apr. 24, 2007, D.C. Law 16-305, § 31(c), 53 DCR 6198</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§8-2203">8-2203</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-1023.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite>, in subsec. (a), substituted “elderly persons or persons with disabilities” for “the elderly or handicapped”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 16-305">D.C. Law 16-305</law-cite>, in subsec. (a), substituted “elderly persons or persons with disabilities” for “the elderly or handicapped”.</annotation>
   </annotations>
 </section>

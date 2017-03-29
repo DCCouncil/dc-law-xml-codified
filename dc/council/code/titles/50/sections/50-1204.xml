@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-1204</num>
   <heading>Entry of lien — Form and requirements of instrument creating lien; when lien not entered.</heading>
   <para>
@@ -34,7 +35,7 @@
     </para>
   </para>
   <annotations>
-    <annotation type="History">July 2, 1940, 54 Stat. 737, ch. 527, § 4</annotation>
+    <annotation type="History" doc="Stat. 76-3-ch527" path="§4">July 2, 1940, 54 Stat. 737, ch. 527, § 4</annotation>
     <annotation type="History">June 4, 1952, 66 Stat. 100, ch. 365, § 1</annotation>
     <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 771, Pub. L. 88-243, § 7</annotation>
     <annotation doc="D.C. Law 12-264" type="History">Apr. 20, 1999, D.C. Law 12-264, § 45, 46 DCR 2118</annotation>

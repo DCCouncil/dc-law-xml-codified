@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>22-3101</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
@@ -59,12 +60,13 @@
     <text>“Sexual performance” means any performance or part thereof which includes sexual conduct by a person under 18 years of age.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 4-173" type="History">Mar. 9, 1983, D.C. Law 4-173, § 2, 29 DCR 5749</annotation>
+    <annotation doc="D.C. Law 4-173" type="History" path="§2">Mar. 9, 1983, D.C. Law 4-173, § 2, 29 DCR 5749</annotation>
     <annotation doc="D.C. Law 18-239" type="History">Oct. 23, 2010, D.C. Law 18-239, § 205(a), 57 DCR 5405</annotation>
     <annotation type="Cross References">Adult protective services, use or threatened use of violence to force participation in sexual conduct, see § <cite path="§7-1901">7-1901</cite>.</annotation>
     <annotation type="Cross References">Corroboration of child witness’ testimony, necessity, see § <cite path="§23-114">23-114</cite>.</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§7-1901">7-1901</cite> and § <cite path="§16-2301">16-2301</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 22-2011.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-239">D.C. Law 18-239</cite>, in pars. (2) and (6), substituted “18” for “16”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 18-239">D.C. Law 18-239</law-cite>, in pars. (2) and (6), substituted “18” for “16”.</annotation>
   </annotations>
 </section>

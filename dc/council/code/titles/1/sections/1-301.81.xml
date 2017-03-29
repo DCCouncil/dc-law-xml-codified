@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-301.81</num>
   <heading>Duties of the Attorney General for the District of Columbia.</heading>
   <para>
@@ -17,7 +18,7 @@
     <text>The authority provided under this section shall not be construed to deny or limit the duty and authority of the Attorney General as heretofore authorized, either by statute or under common law.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-160" type="History">May 27, 2010, D.C. Law 18-160, § 101, 57 DCR 3012</annotation>
+    <annotation doc="D.C. Law 18-160" type="History" path="§101">May 27, 2010, D.C. Law 18-160, § 101, 57 DCR 3012</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-1001.02">1-1001.02</cite>.</annotation>
   </annotations>
 </section>

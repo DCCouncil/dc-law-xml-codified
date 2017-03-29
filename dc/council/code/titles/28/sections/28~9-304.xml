@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>28:9-304</num>
   <heading>Law governing perfection and priority of security interests in deposit accounts.</heading>
   <para>
@@ -35,6 +36,6 @@
     <text type="Uniform Commercial Code Comment">3. Change in Law Governing Perfection. When the bank’s jurisdiction changes, the jurisdiction whose law governs perfection under subsection (a) changes, as well. Nevertheless, the change will not result in an immediate loss of perfection. See  Section 9-316(f), (g).</text>
     <annotation doc="D.C. Law 13-201" type="History">Oct. 26, 2000, D.C. Law 13-201, § 101, 47 DCR 7576</annotation>
     <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 11(f), 60 DCR 2634</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> substituted “its customer” for “the debtor” in (b)(1).</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <law-cite doc="D.C. Law 19-299">D.C. Law 19-299</law-cite> substituted “its customer” for “the debtor” in (b)(1).</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-2605</num>
   <heading>Study, recommendations, and transition plan on the additional responsibilities for the SEO.</heading>
   <para>
@@ -101,7 +102,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-176" type="History">Oct. 21, 2000, D.C. Law 13-176, § 6, 47 DCR 6835</annotation>
+    <annotation doc="D.C. Law 13-176" type="History" path="§6">Oct. 21, 2000, D.C. Law 13-176, § 6, 47 DCR 6835</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§38-2602">38-2602</cite>.</annotation>
   </annotations>
 </section>

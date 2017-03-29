@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>46-353.03</num>
   <heading>Application of law of the District.</heading>
   <text>Except as otherwise provided in this chapter, a responding tribunal of the District shall:</text>
@@ -11,6 +12,6 @@
     <text>Determine the duty of support and the amount payable in accordance with the law and support guidelines of the District.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 21-73" type="History">Feb. 27, 2016, D.C. Law 21-73, § 303, 63 DCR 222</annotation>
+    <annotation doc="D.C. Law 21-73" type="History" path="§303">Feb. 27, 2016, D.C. Law 21-73, § 303, 63 DCR 222</annotation>
   </annotations>
 </section>

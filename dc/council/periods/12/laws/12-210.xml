@@ -1,9 +1,10 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 12-210" flag="true">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="D.C. Law 12-210" flag="true" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">12-210</num>
   <meta>
-    <effective/>
-    <cites>
-      <law lawId="210" period="12" url="./docs/12-210.pdf"/>
-    </cites>
+    <effective />
+    <citations>
+      <citation type="law" url="./docs/12-210.pdf">D.C. Law 12-210</citation>
+    </citations>
   </meta>
 </document>

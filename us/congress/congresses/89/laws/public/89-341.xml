@@ -1,9 +1,24 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="Pub. L. 89-341">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="Pub. L. 89-341" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>89-341</num>
+  <heading type="long">An Act to relieve physicians of liability for negligent medical treatment at the scene of an accident in the District of Columbia</heading>
   <meta>
     <effective>1965-11-08</effective>
-    <cites>
-      <law session="89" lawId="341"/>
-    </cites>
+    <citations>
+      <citation type="law">Pub. L. 89-341</citation>
+      <citation type="stat" url="https://www.gpo.gov/fdsys/pkg/STATUTE-79/pdf/STATUTE-79-Pg1302-2.pdf">79 Stat. 1302</citation>
+    </citations>
   </meta>
+  <section>
+    <num>1</num>
+    <codified:at doc="D.C. Code" path="§7-401" />
+  </section>
+  <section>
+    <num>2</num>
+    <codified:at doc="D.C. Code" path="§7-402" />
+  </section>
+  <section>
+    <num>3</num>
+    <codified:at doc="D.C. Code" path="§7-403" />
+  </section>
 </document>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>10-1431</num>
   <heading>Submission of development plan.</heading>
   <para>
@@ -14,6 +15,6 @@
     <text>The requirements of this section shall be in addition to all other requirements for approvals, permits, and procedures which are necessary to allow the development of Children’s Island.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-57" type="History">Nov. 20, 1993, D.C. Law 10-57, § 2, 40 DCR 7227</annotation>
+    <annotation doc="D.C. Law 10-57" type="History" path="§2">Nov. 20, 1993, D.C. Law 10-57, § 2, 40 DCR 7227</annotation>
   </annotations>
 </section>

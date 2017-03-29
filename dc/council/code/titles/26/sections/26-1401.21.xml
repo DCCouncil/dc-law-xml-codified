@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>26-1401.21</num>
   <heading>Lien on property or assets; voidable transfer.</heading>
   <para>
@@ -54,6 +55,6 @@
     <text>A person acting on behalf of the universal bank who knowingly participated in making or implementing a voidable transfer or lien, and each person receiving property or assets, or the benefit of property or assets, of the universal bank as a result of a voidable transfer or lien, shall be personally liable for the property, assets, or benefit received and shall account to the receiver for the benefit of the universal bank.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-308" type="History">June 9, 2001, D.C. Law 13-308, § 221, 48 DCR 3244</annotation>
+    <annotation doc="D.C. Law 13-308" type="History" path="§221">June 9, 2001, D.C. Law 13-308, § 221, 48 DCR 3244</annotation>
   </annotations>
 </section>

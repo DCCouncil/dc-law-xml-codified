@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-618.04</num>
   <heading>Prohibition on nepotism.</heading>
   <para>
@@ -33,7 +34,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 1804</annotation>
+    <annotation doc="D.C. Law 2-139" type="History" path="§1804">Mar. 3, 1979, D.C. Law 2-139, § 1804</annotation>
     <annotation doc="D.C. Law 19-115" type="History">as added Mar. 14, 2012, D.C. Law 19-115, § 2(k), 59 DCR 461</annotation>
     <annotation type="Cross References">Mayor and Council members, coverage, see § <cite path="§1-602.02">1-602.02</cite>.</annotation>
     <annotation type="Cross References">Merit system, effective date provisions, see § <cite path="§1-636.02">1-636.02</cite>.</annotation>

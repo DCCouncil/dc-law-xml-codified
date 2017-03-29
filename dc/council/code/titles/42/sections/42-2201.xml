@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-2201</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
@@ -31,7 +32,7 @@
     <text>“Senior citizen homeowner” means the owner resident of residential real property who is 60 years of age or older.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 7-96" type="History">Mar. 24, 1988, D.C. Law 7-96, § 2, 35 DCR 891</annotation>
+    <annotation doc="D.C. Law 7-96" type="History" path="§2">Mar. 24, 1988, D.C. Law 7-96, § 2, 35 DCR 891</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-3001.</annotation>
   </annotations>
 </section>

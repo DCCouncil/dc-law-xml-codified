@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>34-1254.06</num>
   <heading>Procedure for Council review and approval of initial franchise.</heading>
   <para>
@@ -18,7 +19,7 @@
     <text>Each applicant to whom the District grants a franchise shall pay to the District, within 30 days after the franchise is granted, a franchise award fee to be set in the act granting the franchise. The payment shall be nonrefundable. An applicant’s failure to pay the franchise award fee within the 30-day period shall make the franchise and franchise agreement void.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 4-142" type="History">Aug. 21, 1982, D.C. Law 4-142, § 406</annotation>
+    <annotation doc="D.C. Law 4-142" type="History" path="§406">Aug. 21, 1982, D.C. Law 4-142, § 406</annotation>
     <annotation doc="D.C. Law 14-193" type="History">as added Oct. 9, 2002, D.C. Law 14-193, § 2(b), 49 DCR 7334</annotation>
   </annotations>
 </section>

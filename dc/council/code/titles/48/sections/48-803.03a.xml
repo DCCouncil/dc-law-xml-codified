@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>48-803.03a</num>
   <heading>Dispensing of substitute drug products by pharmacists — notification of substitution.</heading>
   <para>
@@ -17,7 +18,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-81" type="History">Sept. 10, 1976, D.C. Law 1-81, title III, § 301</annotation>
+    <annotation doc="D.C. Law 1-81" type="History" path="§301">Sept. 10, 1976, D.C. Law 1-81, title III, § 301</annotation>
     <annotation doc="D.C. Law 18-118" type="History">as added Mar. 11, 2010, D.C. Law 18-118, § 2(d), 57 DCR 901</annotation>
   </annotations>
 </section>

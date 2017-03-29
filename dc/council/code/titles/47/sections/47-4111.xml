@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>47-4111</num>
   <heading>Rewards for informants.</heading>
   <para>
@@ -67,6 +68,7 @@
   <annotations>
     <annotation doc="D.C. Law 13-305" type="History">June 9, 2001, D.C. Law 13-305, § 402(b), 48 DCR 334</annotation>
     <annotation doc="D.C. Law 14-213" type="History">Oct. 19, 2002, D.C. Law 14-213, § 33(aa), 49 DCR 8140</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsecs. (a)(2) and (c-1)(2), validated previously made technical corrections.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 14-213">D.C. Law 14-213</law-cite>, in subsecs. (a)(2) and (c-1)(2), validated previously made technical corrections.</annotation>
   </annotations>
 </section>

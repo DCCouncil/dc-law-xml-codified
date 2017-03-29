@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>34-1503</num>
   <heading>Competitive billing.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>This section shall not preclude the Commission from including competitive billing as a part of any pilot program established by the Commission.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-107" type="History">May 9, 2000, D.C. Law 13-107, § 103, 47 DCR 1091</annotation>
+    <annotation doc="D.C. Law 13-107" type="History" path="§103">May 9, 2000, D.C. Law 13-107, § 103, 47 DCR 1091</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§34-1504">34-1504</cite>.</annotation>
   </annotations>
 </section>

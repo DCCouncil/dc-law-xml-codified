@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>28:2-705</num>
   <heading>Seller’s stoppage of delivery in transit or otherwise.</heading>
   <para>
@@ -45,9 +46,12 @@
     </para>
   </para>
   <annotations>
-    <text type="Uniform Commercial Code Comment"><strong>Prior Uniform Statutory Provision:</strong>Sections 57-59, Uniform Sales Act; see also Sections 12, 14 and 42, Uniform Bills of Lading Act and Sections 9, 11 and 49, Uniform Warehouse Receipts Act.</text>
-    <text type="Uniform Commercial Code Comment"><strong>Changes:</strong> This section continues and develops the above sections of the Uniform Sales Act in the light of the other uniform statutory provisions noted.</text>
-    <text type="Uniform Commercial Code Comment"><strong>Purposes:</strong> To make it clear that:</text>
+    <text type="Uniform Commercial Code Comment">
+      <strong>Prior Uniform Statutory Provision:</strong>Sections 57-59, Uniform Sales Act; see also Sections 12, 14 and 42, Uniform Bills of Lading Act and Sections 9, 11 and 49, Uniform Warehouse Receipts Act.</text>
+    <text type="Uniform Commercial Code Comment">
+      <strong>Changes:</strong> This section continues and develops the above sections of the Uniform Sales Act in the light of the other uniform statutory provisions noted.</text>
+    <text type="Uniform Commercial Code Comment">
+      <strong>Purposes:</strong> To make it clear that:</text>
     <text type="Uniform Commercial Code Comment">1. Subsection (1) applies the stoppage principle to other bailees as well as carriers.</text>
     <text type="Uniform Commercial Code Comment">It also expands the remedy to cover the situations, in addition to buyer’s insolvency, specified in the subsection. But since stoppage is a burden in any case to carriers, and might be a very heavy burden to them if it covered all small shipments in all these situations, the right to stop for reasons other than insolvency is limited to carload, truckload, planeload or larger shipments. The seller shipping to a buyer of doubtful credit can protect himself by shipping C.O.D.</text>
     <text type="Uniform Commercial Code Comment">Where stoppage occurs for insecurity it is merely a suspension of performance, and if assurances are duly forthcoming from the buyer the seller is not entitled to resell or divert.</text>
@@ -60,10 +64,12 @@
     <text type="Uniform Commercial Code Comment">4. Subsection (3)(c) makes the bailee’s obedience of a notification to stop conditional upon the surrender of any outstanding negotiable document.</text>
     <text type="Uniform Commercial Code Comment">5. Any charges or losses incurred by the carrier in following the seller’s orders, whether or not he was obligated to do so, fall to the seller’s charge.</text>
     <text type="Uniform Commercial Code Comment">6. After an effective stoppage under this section the seller’s rights in the goods are the same as if he had never made a delivery.</text>
-    <text type="Uniform Commercial Code Comment"><strong>Cross References:</strong>Sections 2-702 and  2-703.</text>
+    <text type="Uniform Commercial Code Comment">
+      <strong>Cross References:</strong>Sections 2-702 and  2-703.</text>
     <text type="Uniform Commercial Code Comment">Point 1:  Sections 2-503 and  2-609, and Article 7.</text>
     <text type="Uniform Commercial Code Comment">Point 2:  Section 2-103 and Article 7.</text>
-    <text type="Uniform Commercial Code Comment"><strong>Definitional Cross References:</strong> “Buyer”.  Section 2-103.</text>
+    <text type="Uniform Commercial Code Comment">
+      <strong>Definitional Cross References:</strong> “Buyer”.  Section 2-103.</text>
     <text type="Uniform Commercial Code Comment">“Contract for sale”.  Section 2-106.</text>
     <text type="Uniform Commercial Code Comment">“Document of title”.  Section 1-201.</text>
     <text type="Uniform Commercial Code Comment">“Goods”.  Section 2-105.</text>
@@ -77,7 +83,7 @@
     <annotation type="Section References">This section is referenced in § <cite path="§28:2-702">28:2-702</cite>, § <cite path="§28:2-703">28:2-703</cite>, § <cite path="§28:2-707">28:2-707</cite>, § <cite path="§28:7-403">28:7-403</cite>, and § <cite path="§28:7-504">28:7-504</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 28:2-705.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 28:2-705.</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> substituted “a warehouse” for “warehouseman” in (2)(c).</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> inserted “of possession or control” following “surrender” in (3)(c).</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <law-cite doc="D.C. Law 19-299">D.C. Law 19-299</law-cite> substituted “a warehouse” for “warehouseman” in (2)(c).</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <law-cite doc="D.C. Law 19-299">D.C. Law 19-299</law-cite> inserted “of possession or control” following “surrender” in (3)(c).</annotation>
   </annotations>
 </section>

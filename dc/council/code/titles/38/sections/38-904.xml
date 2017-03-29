@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-904</num>
   <heading>School name changes.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>The school formerly known as Central High School (old) and annex shall be known as Columbia Junior High School.</text>
   </para>
   <annotations>
-    <annotation type="History">June 29, 1922, 42 Stat. 689, ch. 249</annotation>
+    <annotation type="History" doc="Stat. 67-2-ch249" path="">June 29, 1922, 42 Stat. 689, ch. 249</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-2204.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 31-1106.</annotation>
   </annotations>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-103.07</num>
   <heading>Location of discharge; recognition of reduction of pollutants; restrictions on quantity of materials discharged; discharge of used motor oil to sewer prohibited.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>The discharge of used motor oil to any sewer is prohibited.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 5-188" type="History">Mar. 16, 1985, D.C. Law 5-188, § 8, 32 DCR 919</annotation>
+    <annotation doc="D.C. Law 5-188" type="History" path="§8">Mar. 16, 1985, D.C. Law 5-188, § 8, 32 DCR 919</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-927.</annotation>
   </annotations>
 </section>

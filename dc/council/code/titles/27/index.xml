@@ -1,4 +1,5 @@
-<container xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<container containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <prefix>Title</prefix>
   <num>27</num>
   <heading>Civil Recovery by Merchants, Contractors, and Subcontractors.</heading>
@@ -10,23 +11,23 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Merchant’s Civil Recovery for Criminal Conduct.</heading>
-      <ns0:include href="sections/27-101.xml"/>
-      <ns0:include href="sections/27-102.xml"/>
-      <ns0:include href="sections/27-103.xml"/>
-      <ns0:include href="sections/27-104.xml"/>
-      <ns0:include href="sections/27-105.xml"/>
-      <ns0:include href="sections/27-106.xml"/>
+      <xi:include href="sections/27-101.xml" />
+      <xi:include href="sections/27-102.xml" />
+      <xi:include href="sections/27-103.xml" />
+      <xi:include href="sections/27-104.xml" />
+      <xi:include href="sections/27-105.xml" />
+      <xi:include href="sections/27-106.xml" />
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Private Contractor and Subcontractor Prompt Payment.</heading>
-      <ns0:include href="sections/27-131.xml"/>
-      <ns0:include href="sections/27-132.xml"/>
-      <ns0:include href="sections/27-133.xml"/>
-      <ns0:include href="sections/27-134.xml"/>
-      <ns0:include href="sections/27-135.xml"/>
-      <ns0:include href="sections/27-136.xml"/>
+      <xi:include href="sections/27-131.xml" />
+      <xi:include href="sections/27-132.xml" />
+      <xi:include href="sections/27-133.xml" />
+      <xi:include href="sections/27-134.xml" />
+      <xi:include href="sections/27-135.xml" />
+      <xi:include href="sections/27-136.xml" />
     </container>
   </container>
 </container>

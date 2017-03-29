@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>27-135</num>
   <heading>Failure to make prompt payments to a subcontractor.</heading>
   <text>If a contractor fails to make prompt payments to a subcontractor as required by § <cite path="§27-134">27-134</cite>, or a first-tier subcontractor fails to make prompt payments to a second-tier subcontractor, the contractor or subcontractor shall:</text>
@@ -11,6 +12,6 @@
     <text>If the subcontractor prevails in a civil action to collect interest penalties from a contractor or first-tier subcontractor, the subcontractor shall be awarded its costs and disbursements, including reasonable attorney’s fees, incurred in bringing the action.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-34" type="History">Nov. 5, 2013, D.C. Law 20-34, § 6, 60 DCR 11812</annotation>
+    <annotation doc="D.C. Law 20-34" type="History" path="§6">Nov. 5, 2013, D.C. Law 20-34, § 6, 60 DCR 11812</annotation>
   </annotations>
 </section>

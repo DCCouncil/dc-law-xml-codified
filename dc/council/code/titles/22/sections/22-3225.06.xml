@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>22-3225.06</num>
   <heading>Indemnity.</heading>
   <text>An insurer shall not be liable for the following:</text>
@@ -11,7 +12,7 @@
     <text>The defense of an insured or other person who is charged with insurance fraud.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 4-164" type="History">Dec. 1, 1982, D.C. Law 4-164, § 125f</annotation>
+    <annotation doc="D.C. Law 4-164" type="History" path="§125f">Dec. 1, 1982, D.C. Law 4-164, § 125f</annotation>
     <annotation doc="D.C. Law 12-273" type="History">as added Apr. 27, 1999, D.C. Law 12-273, § 2, 46 DCR 1132</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 22-3825.6.</annotation>
   </annotations>

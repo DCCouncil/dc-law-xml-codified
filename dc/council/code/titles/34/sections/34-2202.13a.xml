@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>34-2202.13a</num>
   <heading>Defeasance of bonds.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>The defeasance escrow account specified in subsection (a) of this section may be established and maintained without regard to any limitations placed on these accounts by any act or resolution of the Authority now existing or adopted after April 9, 1997, except for this chapter.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 11-111" type="History">Apr. 18, 1996, D.C. Law 11-111, § 213a</annotation>
+    <annotation doc="D.C. Law 11-111" type="History" path="§213a">Apr. 18, 1996, D.C. Law 11-111, § 213a</annotation>
     <annotation doc="D.C. Law 11-184" type="History">as added Apr. 9, 1997, D.C. Law 11-184, § 202(k), 43 DCR 4265</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§34-2202.13">34-2202.13</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 43-1683.1.</annotation>

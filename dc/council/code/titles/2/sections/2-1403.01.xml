@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1403.01</num>
   <heading>Powers of Office and Commission; annual report by Mayor.</heading>
   <para>
@@ -49,12 +50,12 @@
     <text>The Office and the Commission shall enforce §§ <cite path="§34-1240">34-1240</cite> [repealed], 34-1241 [repealed], 34-1242 [repealed], 34-1243 [repealed] and any other human rights provisions of Chapter 12 of Title 34.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-38" type="History">Dec. 13, 1977, D.C. Law 2-38, title III, § 301, 24 DCR 6038</annotation>
+    <annotation doc="D.C. Law 2-38" type="History" path="§301">Dec. 13, 1977, D.C. Law 2-38, title III, § 301, 24 DCR 6038</annotation>
     <annotation doc="D.C. Law 4-142" type="History">Aug. 21, 1982, D.C. Law 4-142, § 42(i), 29 DCR 2872</annotation>
     <annotation doc="D.C. Law 20-266" type="History">May 2, 2015, D.C. Law 20-266, § 3(b), 62 DCR 1540</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-2541.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 6-2281.</annotation>
-    <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-266">D.C. Law 20-266</cite> redesignated the existing text of (g) as (g)(1); and added (g)(2).</annotation>
+    <annotation type="Effect of Amendments">The 2015 amendment by <law-cite doc="D.C. Law 20-266">D.C. Law 20-266</law-cite> redesignated the existing text of (g) as (g)(1); and added (g)(2).</annotation>
     <annotation type="Mayor's Orders">Establishment of Department of Human Rights and Minority Business Development: See Mayor’s Order 89-247, November 1, 1989.</annotation>
   </annotations>
 </section>

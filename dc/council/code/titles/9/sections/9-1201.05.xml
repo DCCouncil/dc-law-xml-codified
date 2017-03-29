@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>9-1201.05</num>
   <heading>Denomination of streets as “business streets”.</heading>
   <text>The Council of the District of Columbia is authorized and directed to denominate portions of streets in the District of Columbia as “business streets” and to authorize the use, on such portions of streets, for business purposes by abutting property owners, under such general regulations as said Council may prescribe, of so much of the sidewalk and parking as may not be needed, in the judgment of said Council, by the general public, under the following conditions, namely:</text>
@@ -11,7 +12,7 @@
     <text>Where a portion of a street has already been denominated a business street, and there exists adjoining such portion a block or more whose frontage is occupied and used for business purposes.</text>
   </para>
   <annotations>
-    <annotation type="History">Feb. 2, 1904, 33 Stat. 10, ch. 89</annotation>
+    <annotation type="History" doc="Stat. 58-2-ch89" path="">Feb. 2, 1904, 33 Stat. 10, ch. 89</annotation>
     <annotation type="Cross References">Highway plans, jurisdiction of mayor over roads and bridges, see § <cite path="§9-101.02">9-101.02</cite>.</annotation>
     <annotation type="Cross References">Regulation of traffic, parking, see § <cite path="§50-2201.03">50-2201.03</cite>.</annotation>
     <annotation type="Cross References">Regulations necessary for the protection of lives, limbs, health, comfort, and quiet, see § <cite path="§1-303.03">1-303.03</cite>.</annotation>

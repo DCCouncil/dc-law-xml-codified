@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-1904.09</num>
   <heading>Escrow of deposits; to bear interest; not subject to attachment.</heading>
   <para>
@@ -58,11 +59,11 @@
     <text>Nothing in this section shall be construed to modify or limit the requirements imposed on a declarant by § <cite path="§42-1903.16">42-1903.16</cite>.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-89" type="History">Mar. 29, 1977, D.C. Law 1-89, title IV, § 409, 23 DCR 9532b</annotation>
+    <annotation doc="D.C. Law 1-89" type="History" path="§409">Mar. 29, 1977, D.C. Law 1-89, title IV, § 409, 23 DCR 9532b</annotation>
     <annotation doc="D.C. Law 20-109" type="History">June 21, 2014, D.C. Law 20-109, § 2(o), 61 DCR 4304</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§42-1904.01">42-1904.01</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-1869.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 5-1269.</annotation>
-    <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-109">D.C. Law 20-109</cite> added (b) through (h).</annotation>
+    <annotation type="Effect of Amendments">The 2014 amendment by <law-cite doc="D.C. Law 20-109">D.C. Law 20-109</law-cite> added (b) through (h).</annotation>
   </annotations>
 </section>

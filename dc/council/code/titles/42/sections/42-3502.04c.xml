@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-3502.04c</num>
   <heading>Housing Regulation Administration; Housing Regulation Administrator.</heading>
   <para>
@@ -21,7 +22,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-10" type="History">July 17, 1985, D.C. Law 6-10, § 204c</annotation>
+    <annotation doc="D.C. Law 6-10" type="History" path="§204c">July 17, 1985, D.C. Law 6-10, § 204c</annotation>
     <annotation doc="D.C. Law 17-366" type="History">as added Mar. 25, 2009, D.C. Law 17-366, § 2(g), 56 DCR 1332</annotation>
   </annotations>
 </section>

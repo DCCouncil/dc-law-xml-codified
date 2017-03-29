@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>34-1671.10</num>
   <heading>Jurisdiction of the Commission and the Office of the People’s Counsel.</heading>
   <para>
@@ -25,6 +26,6 @@
     <text>The Commission shall, by regulation or order, establish procedures for complaints and for resolving disputes between the gas company, natural gas suppliers, and customers.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-227" type="History">Mar. 16, 2005, D.C. Law 15-227, § 11, 51 DCR 10549</annotation>
+    <annotation doc="D.C. Law 15-227" type="History" path="§11">Mar. 16, 2005, D.C. Law 15-227, § 11, 51 DCR 10549</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>4-561.07</num>
   <heading>The MPD’s duties.</heading>
   <text>The MPD shall provide the independent expert consultant with timely, full, and direct access to the MPD’s files and records, including:</text>
@@ -11,6 +12,6 @@
     <text>Feedback provided to the MPD from members of the public regarding the MPD’s response to sexual assault cases, including surveys, complaints, and feedback provided through e-mail or the MPD’s web page.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-139" type="History">Nov. 20, 2014, D.C. Law 20-139, § 207, 61 DCR 5913</annotation>
+    <annotation doc="D.C. Law 20-139" type="History" path="§207">Nov. 20, 2014, D.C. Law 20-139, § 207, 61 DCR 5913</annotation>
   </annotations>
 </section>

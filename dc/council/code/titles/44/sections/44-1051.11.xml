@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>44-1051.11</num>
   <heading>Verification of credentials of nursing personnel.</heading>
   <para>
@@ -26,6 +27,6 @@
     <text>A nurse staffing agency shall create and retain written documentation of the verification processes performed pursuant to subsections (a) and (b) of this section.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-74" type="History">March 10, 2004, D.C. Law 15-74, § 11, 50 DCR 10914</annotation>
+    <annotation doc="D.C. Law 15-74" type="History" path="§11">March 10, 2004, D.C. Law 15-74, § 11, 50 DCR 10914</annotation>
   </annotations>
 </section>

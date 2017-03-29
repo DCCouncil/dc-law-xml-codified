@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>5-1102</num>
   <heading>Purpose.</heading>
   <text>The purpose of this subchapter is to establish an effective, efficient, and fair system of independent review of citizen complaints against police officers in the District of Columbia, which will:</text>
@@ -35,7 +36,7 @@
     <text>Improve the public safety and welfare of all persons in the District of Columbia.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 12-208" type="History">Mar. 26, 1999, D.C. Law 12-208, § 3, 45 DCR 8107</annotation>
+    <annotation doc="D.C. Law 12-208" type="History" path="§3">Mar. 26, 1999, D.C. Law 12-208, § 3, 45 DCR 8107</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 4-912.</annotation>
   </annotations>
 </section>

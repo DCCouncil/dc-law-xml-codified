@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-214.01</num>
   <heading>Establishment of the Minority and Women-Owned Business Assessment Program.</heading>
   <para>
@@ -26,6 +27,6 @@
     <text>For the purposes of this subchapter, the term “minority” shall include Asian, Pacific Islander, African American or Black, Native American or Native Hawaiian, and Hispanic or Latino.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-136" type="History">Mar. 26, 2008, D.C. Law 17-136, § 2, 55 DCR 1685</annotation>
+    <annotation doc="D.C. Law 17-136" type="History" path="§2">Mar. 26, 2008, D.C. Law 17-136, § 2, 55 DCR 1685</annotation>
   </annotations>
 </section>

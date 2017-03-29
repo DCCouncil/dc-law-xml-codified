@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-2421.02</num>
   <heading>Definitions.</heading>
   <text>For purposes of this subchapter, the terms:</text>
@@ -79,7 +80,7 @@
     <text>“Unclaimed vehicle” means an impounded motor vehicle not reclaimed within the applicable time periods set forth in § <cite path="§50-2421.08">50-2421.08</cite>.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-35" type="History">Oct. 28, 2003, D.C. Law 15-35, § 2, 50 DCR 6579</annotation>
+    <annotation doc="D.C. Law 15-35" type="History" path="§2">Oct. 28, 2003, D.C. Law 15-35, § 2, 50 DCR 6579</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§50-2401">50-2401</cite>, § <cite path="§50-2402">50-2402</cite>, § <cite path="§50-2421.05">50-2421.05</cite>, and § <cite path="§50-2701">50-2701</cite>.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition of this section, see § 2 of Removal and Disposition of Abandoned and Other Unlawfully Parked Vehicles Reform Congressional Review Emergency Act of 2003 (D.C. Act 15-171, October 6, 2003,  50 DCR 9163).</annotation>
   </annotations>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>28-3811</num>
   <heading>Home solicitation sales.</heading>
   <para>
@@ -111,7 +112,8 @@
     <annotation type="Section References">This section is referenced in § <cite path="§28-3909">28-3909</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 28-3811.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 28-3811.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-256">D.C. Law 14-256</cite> added subsec. (j).</annotation>
-    <annotation type="Editor's Notes">Application of <cite doc="D.C. Law 14-256">D.C. Law 14-256</cite>, including the amendments to this section: See section 12 of <cite doc="D.C. Law 14-256">D.C. Law 14-256</cite>, codified as § <cite path="§31-1631.12">31-1631.12</cite>.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 14-256">D.C. Law 14-256</law-cite> added subsec. (j).</annotation>
+    <annotation type="Editor's Notes">Application of <law-cite doc="D.C. Law 14-256">D.C. Law 14-256</law-cite>, including the amendments to this section: See section 12 of <law-cite doc="D.C. Law 14-256">D.C. Law 14-256</law-cite>, codified as § <cite path="§31-1631.12">31-1631.12</cite>.</annotation>
   </annotations>
 </section>

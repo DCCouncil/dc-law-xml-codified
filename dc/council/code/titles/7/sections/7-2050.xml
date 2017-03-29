@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2050</num>
   <heading>Pending actions and proceedings; existing orders.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>All decisions issued pursuant to the Child Development Facilities Regulation shall continue in effect until modified, rescinded, or superseded by rules or regulation issued pursuant to this subchapter.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 12-215" type="History">Apr. 13, 1999, D.C. Law 12-215, § 21, 46 DCR 274</annotation>
+    <annotation doc="D.C. Law 12-215" type="History" path="§21">Apr. 13, 1999, D.C. Law 12-215, § 21, 46 DCR 274</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-3640.</annotation>
     <annotation type="Temporary Legislation">See notes to § <cite path="§7-2031">7-2031</cite>.</annotation>
     <annotation type="Emergency Legislation">For temporary addition of subchapter, see notes to § <cite path="§7-2031">7-2031</cite>.</annotation>

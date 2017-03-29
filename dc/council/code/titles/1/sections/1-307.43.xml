@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-307.43</num>
   <heading>Recoupment of amounts spent on child medical care.</heading>
   <para>
@@ -18,7 +19,7 @@
     <text>A garnishment or tax intercept effectuated pursuant to subsection (a) of this section shall be effected only to the extent necessary to reimburse the District of Columbia Medicaid agency for its cost under the state plan, but claims for current and past due child support shall take priority over these claims.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-202" type="History">Mar. 14, 1995, D.C. Law 10-202, § 4, 41 DCR 7704</annotation>
+    <annotation doc="D.C. Law 10-202" type="History" path="§4">Mar. 14, 1995, D.C. Law 10-202, § 4, 41 DCR 7704</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-359.3.</annotation>
   </annotations>
 </section>

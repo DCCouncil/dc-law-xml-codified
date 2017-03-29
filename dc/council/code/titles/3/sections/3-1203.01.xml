@@ -1,9 +1,10 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>3-1203.01</num>
   <heading>Administration.</heading>
   <text>The boards established by this chapter shall be under the administrative control of the Mayor.</text>
   <annotations>
-    <annotation doc="D.C. Law 6-99" type="History">Mar. 25, 1986, D.C. Law 6-99, § 301, 33 DCR 729</annotation>
+    <annotation doc="D.C. Law 6-99" type="History" path="§301">Mar. 25, 1986, D.C. Law 6-99, § 301, 33 DCR 729</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-3303.1.</annotation>
   </annotations>
 </section>

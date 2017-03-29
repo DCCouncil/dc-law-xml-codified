@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-411</num>
   <heading>Definitions.</heading>
   <text>As used in this subchapter the term:</text>
@@ -43,7 +44,7 @@
     <text>“Medical employees of the District of Columbia” shall include physicians, psychologists, dentists, optometrists, podiatrists, nurses, nursing assistants, emergency medical technician, emergency medical technician/intermediate paramedic, emergency medical technician/paramedic, physicians’ assistants, laboratory technicians, physical therapists, osteopaths, chiropodists and chiropractors in the employment of the District of Columbia.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 86-654" type="History">July 14, 1960, 74 Stat. 519, Pub. L. 86-654, § 2</annotation>
+    <annotation doc="Pub. L. 86-654" type="History" path="§2">July 14, 1960, 74 Stat. 519, Pub. L. 86-654, § 2</annotation>
     <annotation doc="Pub. L. 88-60" type="History">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
     <annotation doc="Pub. L. 91-358" type="History">July 29, 1970, 84 Stat. 575, Pub. L. 91-358, title I, § 157(h)</annotation>
     <annotation doc="D.C. Law 1-59" type="History">Mar. 26, 1976, D.C. Law 1-59, § 2, 22 DCR 5473</annotation>

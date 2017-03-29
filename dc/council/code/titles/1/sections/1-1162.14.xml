@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-1162.14</num>
   <heading>Hearings.</heading>
   <para>
@@ -21,7 +22,7 @@
     <text>Any witness has a right to refuse to answer a question that might tend to incriminate the witness by claiming his or her Fifth Amendment privilege against self-incrimination.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-124" type="History">Apr. 27, 2012, D.C. Law 19-124, § 214, 59 DCR 1862</annotation>
+    <annotation doc="D.C. Law 19-124" type="History" path="§214">Apr. 27, 2012, D.C. Law 19-124, § 214, 59 DCR 1862</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-1162.15">1-1162.15</cite>.</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>26-1213</num>
   <heading>Federal exclusion.</heading>
   <text>This chapter shall not be construed to:</text>
@@ -11,7 +12,7 @@
     <text>Subject any federal association to any law or rule of the District or its agencies to which it is not otherwise subject.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 7-175" type="History">Oct. 12, 1988, D.C. Law 7-175, § 14, 35 DCR 6133</annotation>
+    <annotation doc="D.C. Law 7-175" type="History" path="§14">Oct. 12, 1988, D.C. Law 7-175, § 14, 35 DCR 6133</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 26-913.</annotation>
   </annotations>
 </section>

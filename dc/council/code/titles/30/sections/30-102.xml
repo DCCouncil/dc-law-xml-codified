@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>30-102</num>
   <heading>Lien on personal property of guests or patrons for amount due; satisfaction by public sale; application of proceeds.</heading>
   <para>
@@ -52,7 +53,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 91-537" type="History">Dec. 8, 1970, 84 Stat. 1395, Pub. L. 91-537, § 2</annotation>
+    <annotation doc="Pub. L. 91-537" type="History" path="§2">Dec. 8, 1970, 84 Stat. 1395, Pub. L. 91-537, § 2</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 34-102.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 34-107.</annotation>
   </annotations>

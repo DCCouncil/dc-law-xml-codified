@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-623.18</num>
   <heading>Continuation of pay; election to use annual or sick leave.</heading>
   <para>
@@ -30,7 +31,7 @@
     <text>Payments under this section shall not be considered compensation as defined by paragraph (12) of § <cite path="§1-623.01">1-623.01</cite>.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 2318, 25 DCR 5740</annotation>
+    <annotation doc="D.C. Law 2-139" type="History" path="§2318">Mar. 3, 1979, D.C. Law 2-139, § 2318, 25 DCR 5740</annotation>
     <annotation doc="D.C. Law 3-81" type="History">Aug. 7, 1980, D.C. Law 3-81, § 2(w), 27 DCR 2632</annotation>
     <annotation doc="D.C. Law 11-52" type="History">Sept. 26, 1995, D.C. Law 11-52, § 810(g), 42 DCR 3684</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-623.17">1-623.17</cite>.</annotation>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-731.05</num>
   <heading>Duties of the Financial Literacy Council.</heading>
   <text>The Financial Literacy Council shall:</text>
@@ -27,6 +28,6 @@
     <text>Submit to the Mayor and Council other reports and recommendations as it considers useful for the promotion of financial literacy in the District.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-209" type="History">Aug. 15, 2008, D.C. Law 17-209, § 6, 55 DCR 6979</annotation>
+    <annotation doc="D.C. Law 17-209" type="History" path="§6">Aug. 15, 2008, D.C. Law 17-209, § 6, 55 DCR 6979</annotation>
   </annotations>
 </section>

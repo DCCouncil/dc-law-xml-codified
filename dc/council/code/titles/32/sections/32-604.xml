@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>32-604</num>
   <heading>Findings and recommendations of consultant.</heading>
   <para>
@@ -38,7 +39,7 @@
     <text>The information exchanged at the meetings held under subsection (b)(1) of this section shall be considered confidential until the final report is submitted pursuant to § <cite path="§32-607">32-607</cite>.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-162" type="History">Feb. 24, 1987, D.C. Law 6-162, § 5, 33 DCR 6684</annotation>
+    <annotation doc="D.C. Law 6-162" type="History" path="§5">Feb. 24, 1987, D.C. Law 6-162, § 5, 33 DCR 6684</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§32-607">32-607</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 36-1104.</annotation>
   </annotations>

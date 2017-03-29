@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-404</num>
   <heading>Failures in formal requisites of an instrument.</heading>
   <para>
@@ -34,7 +35,7 @@
     <text>Any person convicted of a fraudulent act, in connection with the validation of any instrument under §§ <cite path="§42-101">42-101</cite>, <cite path="§42-402">42-402</cite>, <cite path="§42-403">42-403</cite>, and <cite path="§42-602">42-602</cite> shall be subject to the penalties set forth in § <cite path="§22-3222">22-3222</cite>.</text>
   </para>
   <annotations>
-    <annotation type="History">Mar. 3, 1901, ch. 854, § 499c</annotation>
+    <annotation type="History" doc="Stat. 56-2-ch854" path="§499c">Mar. 3, 1901, ch. 854, § 499c</annotation>
     <annotation doc="D.C. Law 10-110" type="History">as added Apr. 27, 1994, D.C. Law 10-110, § 2(g), 41 DCR 1023</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§42-402">42-402</cite> and § <cite path="§42-403">42-403</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-801.3.</annotation>

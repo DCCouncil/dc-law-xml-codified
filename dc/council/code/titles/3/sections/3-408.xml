@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>3-408</num>
   <heading>Grounds for denial, suspension, or revocation of license.</heading>
   <para>
@@ -54,7 +55,7 @@
     <text>Any denial, suspension, or revocation under this section shall be made only upon specific charges in writing and after proper notice and a hearing pursuant to § <cite path="§3-409">3-409</cite>.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 5-84" type="History">May 22, 1984, D.C. Law 5-84, § 9, 31 DCR 1815</annotation>
+    <annotation doc="D.C. Law 5-84" type="History" path="§9">May 22, 1984, D.C. Law 5-84, § 9, 31 DCR 1815</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-2808.</annotation>
   </annotations>
 </section>

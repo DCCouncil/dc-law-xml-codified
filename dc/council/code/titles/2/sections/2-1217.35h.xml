@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1217.35h</num>
   <heading>Financing and Closing Documents.</heading>
   <para>
@@ -22,6 +23,6 @@
     <text>The Mayor is authorized to deliver the executed and sealed Financing Documents and Closing Documents, on behalf of the District, prior to or simultaneously with the issuance, sale, and delivery of the Bonds, and to ensure the due performance of the obligations of the District contained in the executed, sealed, and delivered Financing Documents and Closing Documents.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-110" type="History">June 21, 2014, D.C. Law 20-110, § 207, 61 DCR 4315</annotation>
+    <annotation doc="D.C. Law 20-110" type="History" path="§207">June 21, 2014, D.C. Law 20-110, § 207, 61 DCR 4315</annotation>
   </annotations>
 </section>

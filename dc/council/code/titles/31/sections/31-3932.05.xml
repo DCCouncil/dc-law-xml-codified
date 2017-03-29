@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-3932.05</num>
   <heading>Capital and surplus.</heading>
   <para>
@@ -46,7 +47,7 @@
     <text>A letter of credit used by an SPFC or segregated account as evidence of surplus required pursuant to this section shall meet the same requirements as a letter of credit issued for paid in capital found subsection (d) of this section.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-262" type="History">Mar. 17, 2005, D.C. Law 15-262, § 205</annotation>
+    <annotation doc="D.C. Law 15-262" type="History" path="§205">Mar. 17, 2005, D.C. Law 15-262, § 205</annotation>
     <annotation doc="D.C. Law 16-285" type="History">as added Mar. 14, 2007, D.C. Law 16-285, § 2(b), 54 DCR 944</annotation>
   </annotations>
 </section>

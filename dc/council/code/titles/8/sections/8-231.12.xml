@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-231.12</num>
   <heading>Accreditation of training providers.</heading>
   <para>
@@ -57,6 +58,6 @@
     <text>Accreditation by the Mayor shall expire 3 years from the date of issuance.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-381" type="History">Mar. 31, 2009, D.C. Law 17-381, § 13, 56 DCR 1596</annotation>
+    <annotation doc="D.C. Law 17-381" type="History" path="§13">Mar. 31, 2009, D.C. Law 17-381, § 13, 56 DCR 1596</annotation>
   </annotations>
 </section>

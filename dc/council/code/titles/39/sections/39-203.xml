@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>39-203</num>
   <heading>Establishment; composition; terms; vacancies; compensation.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>Members of the Commission shall serve without compensation, but shall be entitled to receive, in accordance with applicable District of Columbia regulations, reimbursement for expenses incurred while actually performing duties vested in the Commission.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-22" type="History">Oct. 21, 1975, D.C. Law 1-22, § 4, 22 DCR 2084</annotation>
+    <annotation doc="D.C. Law 1-22" type="History" path="§4">Oct. 21, 1975, D.C. Law 1-22, § 4, 22 DCR 2084</annotation>
     <annotation doc="D.C. Law 4-73" type="History">Mar. 10, 1982, D.C. Law 4-73, § 4(a), 28 DCR 5276</annotation>
     <annotation doc="D.C. Law 14-213" type="History">Oct. 19, 2002, D.C. Law 14-213, § 24, 49 DCR 8140</annotation>
     <annotation doc="D.C. Law 20-155" type="History">Feb. 26, 2015, D.C. Law 20-155, § 1172, 61 DCR 9990</annotation>
@@ -31,8 +32,9 @@
     <annotation type="Section References">This section is referenced in § <cite path="§1-523.01">1-523.01</cite> and § <cite path="§39-202">39-202</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-2003.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 31-1903.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsec. (a), substituted “Council, in accordance with § <cite path="§1-523.01">1-523.01</cite>.” for “Council.</annotation>
-    <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> deleted “but may not serve more than 2 consecutive terms” from the end of the last sentence in (b).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 14-213">D.C. Law 14-213</law-cite>, in subsec. (a), substituted “Council, in accordance with § <cite path="§1-523.01">1-523.01</cite>.” for “Council.</annotation>
+    <annotation type="Effect of Amendments">The 2015 amendment by <law-cite doc="D.C. Law 20-155">D.C. Law 20-155</law-cite> deleted “but may not serve more than 2 consecutive terms” from the end of the last sentence in (b).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  1172 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  1172 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  1172 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>

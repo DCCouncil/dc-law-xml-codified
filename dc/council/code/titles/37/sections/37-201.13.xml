@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>37-201.13</num>
   <heading>Sale of bread.</heading>
   <para>
@@ -14,7 +15,7 @@
     <text>Any loaf of bread weighing within 10 per centum in excess or within 4 per centum less than standard weight shall be deemed of legal weight.</text>
   </para>
   <annotations>
-    <annotation type="History">Mar. 3, 1921, 41 Stat. 1220, ch. 118, § 13</annotation>
+    <annotation type="History" doc="Stat. 66-3-ch118" path="§13">Mar. 3, 1921, 41 Stat. 1220, ch. 118, § 13</annotation>
     <annotation type="History">Aug. 24, 1921, 42 Stat. 201, ch. 92</annotation>
     <annotation doc="D.C. Law 5-33" type="History">Oct. 8, 1983, D.C. Law 5-33, § 2, 30 DCR 4022</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 10-114.</annotation>

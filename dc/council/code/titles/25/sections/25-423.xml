@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>25-423</num>
   <heading>Posted notice required after submission of application and for the duration of the protest period.</heading>
   <para>
@@ -62,6 +63,7 @@
     <annotation type="Section References">This section is referenced in § <cite path="§25-402">25-402</cite> and § <cite path="§25-403">25-403</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 25-423.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 25-115.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-187">D.C. Law 15-187</cite> added subsec. (f).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 15-187">D.C. Law 15-187</law-cite> added subsec. (f).</annotation>
   </annotations>
 </section>

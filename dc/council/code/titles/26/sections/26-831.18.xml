@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>26-831.18</num>
   <heading>Conservator; appointment; bond and security; qualifications; expenses.</heading>
   <para>
@@ -14,6 +15,6 @@
     <text>All expenses of a conservatorship shall be paid out of the assets of the merchant bank upon the approval of the Commissioner, shall be a first charge upon the assets of the merchant bank, and shall be paid in full before a final distribution or payment of dividends to creditors or shareholders of the merchant bank.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-308" type="History">June 9, 2001, D.C. Law 13-308, § 318, 48 DCR 3244</annotation>
+    <annotation doc="D.C. Law 13-308" type="History" path="§318">June 9, 2001, D.C. Law 13-308, § 318, 48 DCR 3244</annotation>
   </annotations>
 </section>

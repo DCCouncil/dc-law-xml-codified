@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-381.04</num>
   <heading>Relief from retaliatory actions.</heading>
   <para>
@@ -30,7 +31,7 @@
     <text>An action seeking relief under this section may be brought in the Superior Court of the District of Columbia; provided, that a civil action seeking relief under this section may not be brought more than 3 years after the date when the retaliation occurred.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-85" type="History">Feb. 21, 1986, D.C. Law 6-85, § 816, 32 DCR 7396</annotation>
+    <annotation doc="D.C. Law 6-85" type="History" path="§816">Feb. 21, 1986, D.C. Law 6-85, § 816, 32 DCR 7396</annotation>
     <annotation doc="D.C. Law 12-104" type="History">as added May 8, 1998, D.C. Law 12-104, § 2(g), 45 DCR 1687</annotation>
     <annotation doc="D.C. Law 12-264" type="History">Apr. 20, 1999, D.C. Law 12-264, § 10(c), 46DCR 2118</annotation>
     <annotation doc="D.C. Law 19-171" type="History">Sept. 26, 2012, D.C. Law 19-171, § 98(a), 59 DCR 6190</annotation>
@@ -38,7 +39,7 @@
     <annotation type="Section References">This section is referenced in § <cite path="§2-308.16">2-308.16</cite>.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§2-308.16">2-308.16</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-1188.16.</annotation>
-    <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> amended <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, § 9004(b) to repeal <cite doc="D.C. Law 6-85">D.C. Law 6-85</cite>, § 820 instead of <cite doc="D.C. Law 6-85">D.C. Law 6-85</cite>, § 816.</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-232">D.C. Law 19-232</cite> rewrote the section.</annotation>
+    <annotation type="Effect of Amendments">The 2012 amendment by <law-cite doc="D.C. Law 19-171">D.C. Law 19-171</law-cite> amended <law-cite doc="D.C. Law 19-21">D.C. Law 19-21</law-cite>, § 9004(b) to repeal <law-cite doc="D.C. Law 6-85">D.C. Law 6-85</law-cite>, § 820 instead of <law-cite doc="D.C. Law 6-85">D.C. Law 6-85</law-cite>, § 816.</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <law-cite doc="D.C. Law 19-232">D.C. Law 19-232</law-cite> rewrote the section.</annotation>
   </annotations>
 </section>

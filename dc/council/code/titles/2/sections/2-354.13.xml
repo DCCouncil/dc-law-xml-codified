@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-354.13</num>
   <heading>Competition exemptions.</heading>
   <text>Contracts for the following procurements shall be exempt from the competition requirements established by this chapter:</text>
@@ -71,6 +72,6 @@
     <text>Professional development training which supports principal, teacher, and student achievement pursuant to the District of Columbia Public Schools Master Education Plan.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-371" type="History">Apr. 8, 2011, D.C. Law 18-371, § 413, 58 DCR 1185</annotation>
+    <annotation doc="D.C. Law 18-371" type="History" path="§413">Apr. 8, 2011, D.C. Law 18-371, § 413, 58 DCR 1185</annotation>
   </annotations>
 </section>

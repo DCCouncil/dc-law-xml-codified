@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-531.11</num>
   <heading>Reporting to Council.</heading>
   <text>The Mayor shall prepare and submit to the Council annual reports on the volunteer service credit program and any demonstration projects established under § <cite path="§7-531.07">7-531.07</cite>. These reports shall at a minimum include:</text>
@@ -27,7 +28,7 @@
     <text>Recommendations regarding continuation of the program or amendments to this unit.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-143" type="History">Sept. 13, 1986, D.C. Law 6-143, § 12, 33 DCR 4372</annotation>
+    <annotation doc="D.C. Law 6-143" type="History" path="§12">Sept. 13, 1986, D.C. Law 6-143, § 12, 33 DCR 4372</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-2251.</annotation>
   </annotations>
 </section>

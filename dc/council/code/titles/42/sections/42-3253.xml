@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-3253</num>
   <heading>Violations.</heading>
   <para>
@@ -54,7 +55,7 @@
     <text>Failure of an owner to comply with the provisions of this chapter upon a determination by the Mayor that a violation has occurred shall be punishable by a fine of $100 for each day of noncompliance.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-303" type="History">Apr. 8, 2005, D.C. Law 15-303, § 4, 52 DCR 1690</annotation>
-    <annotation type="Temporary Legislation">For temporary (225 day) addition, see § 4 of Multiple Dwelling Residence Water Lead Level Test Temporary Act of 2004 (<cite doc="D.C. Law 15-206">D.C. Law 15-206</cite>, December 7, 2004, law notification  52 DCR 450).</annotation>
+    <annotation doc="D.C. Law 15-303" type="History" path="§4">Apr. 8, 2005, D.C. Law 15-303, § 4, 52 DCR 1690</annotation>
+    <annotation type="Temporary Legislation">For temporary (225 day) addition, see § 4 of Multiple Dwelling Residence Water Lead Level Test Temporary Act of 2004 (<law-cite doc="D.C. Law 15-206">D.C. Law 15-206</law-cite>, December 7, 2004, law notification  52 DCR 450).</annotation>
   </annotations>
 </section>

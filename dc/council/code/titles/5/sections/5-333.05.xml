@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>5-333.05</num>
   <heading>Authorization for investigations involving First Amendment activities.</heading>
   <para>
@@ -49,7 +50,7 @@
     <text>An investigation involving First Amendment activities shall be terminated when logical leads have been exhausted and no legitimate law enforcement purpose justifies its continuance.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-352" type="History">Apr. 13, 2005, D.C. Law 15-352, § 205, 52 DCR 2296</annotation>
+    <annotation doc="D.C. Law 15-352" type="History" path="§205">Apr. 13, 2005, D.C. Law 15-352, § 205, 52 DCR 2296</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§5-333.12">5-333.12</cite>.</annotation>
   </annotations>
 </section>

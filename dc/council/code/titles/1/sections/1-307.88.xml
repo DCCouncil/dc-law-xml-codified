@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-307.88</num>
   <heading>Annual report to the Mayor and Council.</heading>
   <para>
@@ -14,6 +15,6 @@
     <text>The report shall summarize the activities of the Agency in the preceding calendar year, including the net earned premiums, health center enrollment in the Agency program, the expense of administration, and the paid and incurred losses.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-196" type="History">July 18, 2008, D.C. Law 17-196, § 9, 55 DCR 6261</annotation>
+    <annotation doc="D.C. Law 17-196" type="History" path="§9">July 18, 2008, D.C. Law 17-196, § 9, 55 DCR 6261</annotation>
   </annotations>
 </section>

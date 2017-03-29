@@ -1,4 +1,5 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 21-96">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="D.C. Law 21-96" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">21-96</num>
   <num type="bill">21-374</num>
   <num type="act">21-317</num>
@@ -6,28 +7,16 @@
   <heading type="long">To designate the Emery Recreation Center, located at 5801 Georgia Avenue, N.W., in Ward 4, as the Emery Heights Community Center.</heading>
   <meta>
     <effective>2016-04-06</effective>
-    <cites>
-      <register vol="63" page="2206"/>
-      <law url="http://lims.dccouncil.us/Download/34510/B21-0374-SignedAct.pdf" period="21" lawId="96"/>
-    </cites>
+    <citations>
+      <citation type="law" url="http://lims.dccouncil.us/Download/34510/B21-0374-SignedAct.pdf">D.C. Law 21-96</citation>
+      <citation type="register">63 DCR 2206</citation>
+    </citations>
     <history>
-      <details>
-        <mayorReview>
-          <enactedDate>2016-02-18</enactedDate>
-        </mayorReview>
-        <votingSummary>
-          <readingDescription>Final Reading CC</readingDescription>
-          <dateOfVote>2016-02-02</dateOfVote>
-        </votingSummary>
-        <votingSummary>
-          <readingDescription>First Reading CC</readingDescription>
-          <dateOfVote>2016-01-05</dateOfVote>
-        </votingSummary>
-        <legislation>
-          <committeeReferral>Committee of the Whole</committeeReferral>
-        </legislation>
-      </details>
+      <vote date="2016-01-05" reading="First" />
+      <vote date="2016-02-02" reading="Final" />
+      <enacted>2016-02-18</enacted>
       <summary>Law 21-96 designates the Emery Recreation Center, located at 5801 Georgia Avenue, N.W., in Ward 4, as the Emery Heights Community Center. </summary>
+      <committee>Committee of the Whole</committee>
     </history>
   </meta>
   <section>

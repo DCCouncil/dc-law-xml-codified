@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-350.09</num>
   <heading>Offset of delinquent debt against District employee pay and against contractual obligations to District contractors.</heading>
   <para>
@@ -36,6 +37,6 @@
     <text>The Central Collection Unit may collect delinquent debts by offsetting District tax refunds and District lottery winnings against delinquent debts owed to the District.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-168" type="History">Sept. 20, 2012, D.C. Law 19-168, § 1050, 59 DCR 8025</annotation>
+    <annotation doc="D.C. Law 19-168" type="History" path="§1050">Sept. 20, 2012, D.C. Law 19-168, § 1050, 59 DCR 8025</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>34-2101</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter:</text>
@@ -59,7 +60,7 @@
     <text>The term “combined sewer system” means a system of sewers and appurtenances conveying both sanitary sewage and stormwater sewage.</text>
   </para>
   <annotations>
-    <annotation type="History">May 18, 1954, 68 Stat. 104, ch. 218, title II, § 201</annotation>
+    <annotation type="History" doc="Stat. 83-2-ch218" path="§201">May 18, 1954, 68 Stat. 104, ch. 218, title II, § 201</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-1161.01">1-1161.01</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 43-1601.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 43-1601.</annotation>

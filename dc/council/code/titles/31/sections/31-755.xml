@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-755</num>
   <heading>Insurers rehabilitation and liquidation.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>A mutual insurance holding company shall not dissolve or liquidate without the approval of the Commissioner or as ordered by a District of Columbia court pursuant to the Insurers Rehabilitation and Liquidation Act.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 12-112" type="History">May 12, 1998, D.C. Law 12-112, § 6, 45 DCR 1792</annotation>
+    <annotation doc="D.C. Law 12-112" type="History" path="§6">May 12, 1998, D.C. Law 12-112, § 6, 45 DCR 1792</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-3745.</annotation>
     <annotation type="Emergency Legislation">See Historical and Statutory Notes following § <cite path="§31-751">31-751</cite>.</annotation>
   </annotations>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-617.10</num>
   <heading>Selection of exclusive representatives; elections.</heading>
   <para>
@@ -41,7 +42,7 @@
     <text>A labor organization seeking exclusive recognition shall submit to the Board and the appropriate agency a roster of its officers and representatives, a copy of its constitution and bylaws, and a statement of its objectives.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 1710, 25 DCR 5740</annotation>
+    <annotation doc="D.C. Law 2-139" type="History" path="§1710">Mar. 3, 1979, D.C. Law 2-139, § 1710, 25 DCR 5740</annotation>
     <annotation type="Cross References">Police and firefighters retirement and disability, “labor organization” defined, see § <cite path="§5-704">5-704</cite>.</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-617.11">1-617.11</cite>, § <cite path="§1-626.04">1-626.04</cite>, and § <cite path="§5-704">5-704</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-618.10.</annotation>

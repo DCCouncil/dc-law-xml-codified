@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>26-551.10</num>
   <heading>Examinations of financial institutions.</heading>
   <para>
@@ -18,6 +19,6 @@
     <text>The Commissioner shall assess a fee, to be paid by the financial institution, for the expense of the examination under this section. The fee shall be determined as a percentage of the assets of the examined financial institution.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-308" type="History">June 9, 2001, D.C. Law 13-308, § 110, 48 DCR 3244</annotation>
+    <annotation doc="D.C. Law 13-308" type="History" path="§110">June 9, 2001, D.C. Law 13-308, § 110, 48 DCR 3244</annotation>
   </annotations>
 </section>

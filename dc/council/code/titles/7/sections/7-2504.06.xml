@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2504.06</num>
   <heading>Procedure for denial and revocation of dealer’s license.</heading>
   <para>
@@ -30,7 +31,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-85" type="History">Sept. 24, 1976, D.C. Law 1-85, title IV, § 406, 23 DCR 2464</annotation>
+    <annotation doc="D.C. Law 1-85" type="History" path="§406">Sept. 24, 1976, D.C. Law 1-85, title IV, § 406, 23 DCR 2464</annotation>
     <annotation doc="D.C. Law 2-62" type="History">Mar. 16, 1978, D.C. Law 2-62, § 2, 24 DCR 5780</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-1831.03">2-1831.03</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-2346.</annotation>

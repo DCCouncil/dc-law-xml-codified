@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-1806.08</num>
   <heading>Authorization of appropriations.</heading>
   <para>
@@ -34,7 +35,7 @@
     <text>Amounts authorized to be appropriated under subsection (a) are authorized to remain available until expended.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 104-134" type="History">Apr. 26, 1996, 110 Stat. 1321 [269], Pub. L. 104-134, § 2608</annotation>
+    <annotation doc="Pub. L. 104-134" type="History" path="§2608">Apr. 26, 1996, 110 Stat. 1321 [269], Pub. L. 104-134, § 2608</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-2853.68.</annotation>
   </annotations>
 </section>

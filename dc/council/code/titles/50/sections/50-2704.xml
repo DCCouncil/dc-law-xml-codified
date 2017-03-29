@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-2704</num>
   <heading>Procedures for reclaiming abandoned, accident, or recovered stolen vehicles that have been privately towed and stored.</heading>
   <text>An owner or lienholder, or person duly authorized by either, may reclaim an abandoned, accident, or recovered stolen vehicle that was towed by a private company and is stored on a private lot at any time before the expiration of the reclamation period by:</text>
@@ -15,6 +16,6 @@
     <text>Furnishing proof of entitlement to possession of the vehicle.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 16-139" type="History">June 22, 2006, D.C. Law 16-139, § 5, 53 DCR 3682</annotation>
+    <annotation doc="D.C. Law 16-139" type="History" path="§5">June 22, 2006, D.C. Law 16-139, § 5, 53 DCR 3682</annotation>
   </annotations>
 </section>

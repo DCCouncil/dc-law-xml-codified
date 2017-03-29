@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-1503.01</num>
   <heading>Motor vehicles of Disabled American Veterans.</heading>
   <para>
@@ -26,7 +27,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-49" type="History">Feb. 20, 1976, D.C. Law 1-49, § 2, 22 DCR 4694</annotation>
+    <annotation doc="D.C. Law 1-49" type="History" path="§2">Feb. 20, 1976, D.C. Law 1-49, § 2, 22 DCR 4694</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-103.</annotation>
     <annotation type="Prior Codifications">1973, Ed., § 40-102a.</annotation>
   </annotations>

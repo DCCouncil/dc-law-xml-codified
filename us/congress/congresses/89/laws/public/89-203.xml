@@ -1,9 +1,16 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="Pub. L. 89-203">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="Pub. L. 89-203" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>89-203</num>
+  <heading type="long">Joint resolution designating the bridge crossing the Washington Channel near the intersection of the extension of Thirteenth and G Streets Southwest the ""Francis Case Memorial Bridge"".</heading>
   <meta>
     <effective>1965-09-25</effective>
-    <cites>
-      <law session="89" lawId="203"/>
-    </cites>
+    <citations>
+      <citation type="law">Pub. L. 89-203</citation>
+      <citation type="stat" url="https://www.gpo.gov/fdsys/pkg/STATUTE-79/pdf/STATUTE-79-Pg838.pdf">79 Stat. 838</citation>
+    </citations>
   </meta>
+  <section>
+    <num>1</num>
+    <codified:at doc="D.C. Code" path="§9-325" />
+  </section>
 </document>

@@ -1,21 +1,45 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>6-1405.04</num>
   <heading>Third party inspections.</heading>
   <para>
     <num>(a)</num>
-    <text>The Mayor shall allow third party inspectors to certify the work performed pursuant to a building permit.</text>
+    <text>The Mayor shall allow the Department to accept reports of inspection by qualified third party inspectors for work performed pursuant to a building permit.</text>
+    <para>
+      <num>(b)</num>
+      <text>The Mayor may promulgate rules to establish the minimum qualification requirements for third party inspectors, the selection of third party inspectors, and other matters related to the administration and oversight of third party inspectors.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <text>The Mayor may promulgate rules to ensure that a third party inspector does not have any conflicts of interest that could potentially affect the objectivity or reliability of the inspection report, including regarding the following situations:</text>
+    </para>
   </para>
   <para>
-    <num>(b)</num>
-    <text>The Mayor shall promulgate rules to establish the minimum requirements for third party inspectors, including training and experience requirements, within 180 days of June 25, 2002.</text>
+    <num>(1)</num>
+    <text>Any person or entity who has performed any work for a project for which the property owner or the authorized agent has elected to use third party plan reviewers, including reviewers of architectural and structural plans, mechanical plans, plumbing plans, and electrical plans, shall not be eligible to serve as a third party inspector for any component on the project. This prohibition shall also apply to affiliates of the person or entity who has performed the work.</text>
   </para>
   <para>
-    <num>(c)</num>
-    <text>A person, or a firm with which that person is affiliated as an owner or employee, who has performed any work for a project for which the property owner or the authorized agent has elected to use third party inspectors, including inspectors of architectural and structural plans, mechanical plans, plumbing plans, and electrical plans, shall not be eligible to serve as a third party inspector for any component on the project.</text>
+    <num>(2)</num>
+    <text>A third party inspector shall be hired by the project owner; provided, that the individual shall not have any contractual relationship with the general contractor, construction manager, a subcontractor, or other person who has performed work on the project.</text>
+  </para>
+  <para>
+    <num>(3)</num>
+    <text>The third party inspector shall not enter into a contract for inspection of a project if the individual determines that there may be a conflict with the qualifications specified in this section and shall disclose any potential conflicts of interest that may arise at any time between the third party inspector and the project or parties connected to the project.</text>
+    <para>
+      <num>(d)</num>
+      <text>The third party inspector certification may be revoked by the Director for failure to comply with the requirements of this section or rules promulgated pursuant to this section.</text>
+    </para>
+    <para>
+      <num>(e)</num>
+      <text>
+                This section shall not be construed to violate, cancel, or set aside any provisions of the Construction Codes or to relieve any person of any obligations or liabilities otherwise existing under law.
+              </text>
+    </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-216" type="History">Mar. 21, 1987, D.C. Law 6-216, § 6d</annotation>
+    <annotation doc="D.C. Law 6-216" type="History" path="§6d">Mar. 21, 1987, D.C. Law 6-216, § 6d</annotation>
     <annotation doc="D.C. Law 14-162" type="History">as added June 25, 2002, D.C. Law 14-162, § 101, 49 DCR 4438</annotation>
-    <annotation type="Editor's Notes">Section 301 of <cite doc="D.C. Law 14-162">D.C. Law 14-162</cite> provided: “Pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), the Mayor may issue rules to implement the provisions of this act.”</annotation>
+    <annotation type="Editor's Notes">Section 301 of <law-cite doc="D.C. Law 14-162">D.C. Law 14-162</law-cite> provided: “Pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), the Mayor may issue rules to implement the provisions of this act.”</annotation>
+    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§5|(g)" type="History" />
   </annotations>
 </section>

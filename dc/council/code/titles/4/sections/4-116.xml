@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>4-116</num>
   <heading>Children over whom Board shall have supervision.</heading>
   <text>Said Board of Public Welfare shall have the care and supervision of the following classes of children:</text>
@@ -21,7 +22,7 @@
   <annotations>
     <text type="References in Text">Board of Public Welfare abolished: See note to § <cite path="§4-102">4-102</cite>.</text>
     <text type="References in Text">The Board of Trustees of the National Training School for Boys, referred to in paragraph (3) of this section, was abolished and the School and its functions, including the functions of the Board of Trustees, were transferred to the Department of Justice by Reorganization Plan No. 2 of 1939. The School was operated until May 15, 1968, when it was closed pursuant to an order of the Attorney General.</text>
-    <annotation type="History">July 26, 1892, 27 Stat. 269, ch. 250, § 4</annotation>
+    <annotation type="History" doc="Stat. 52-1-ch250" path="§4">July 26, 1892, 27 Stat. 269, ch. 250, § 4</annotation>
     <annotation type="History">Mar. 19, 1906, 34 Stat. 73, ch. 960, § 8</annotation>
     <annotation type="History">May 27, 1908, 35 Stat. 380, ch. 200</annotation>
     <annotation type="History">Mar. 16, 1926, 44 Stat. 210, ch. 58, § 11</annotation>

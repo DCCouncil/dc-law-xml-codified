@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>49-1101.03</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, unless the context clearly requires a different construction, the term:</text>
@@ -95,6 +96,6 @@
     <text>“Veteran” means a person who served in the uniformed services and who was discharged or released under conditions other than dishonorable.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-304" type="History">May 1, 2013, D.C. Law 19-304, § 4, 60 DCR 2717</annotation>
+    <annotation doc="D.C. Law 19-304" type="History" path="§4">May 1, 2013, D.C. Law 19-304, § 4, 60 DCR 2717</annotation>
   </annotations>
 </section>

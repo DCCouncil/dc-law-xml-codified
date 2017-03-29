@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>6-1451.09</num>
   <heading>Establishment of the Green Building Advisory Council.</heading>
   <para>
@@ -113,13 +114,15 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 16-234" type="History">Mar. 8, 2007, D.C. Law 16-234, § 10, 54 DCR 377</annotation>
+    <annotation doc="D.C. Law 16-234" type="History" path="§10">Mar. 8, 2007, D.C. Law 16-234, § 10, 54 DCR 377</annotation>
     <annotation doc="D.C. Law 18-349" type="History">Mar. 31, 2011, D.C. Law 18-349, § 2(f), 58 DCR 724</annotation>
     <annotation doc="D.C. Law 19-139" type="History">June 5, 2012, D.C. Law 19-139, § 2(h), 59 DCR 2555</annotation>
     <annotation doc="D.C. Law 19-171" type="History">Sept. 26, 2012, D.C. Law 19-171, § 46, 59 DCR 6190</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§6-1451.01">6-1451.01</cite>.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-349">D.C. Law 18-349</cite> substituted “DDOE” for “The Department of the Environment” or “the Department of the Environment ”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-139">D.C. Law 19-139</cite>, in subsec. (c)(1)(C), substituted “Department of General Services” for “Office of Property Management”; in subsec. (c)(1)(G), substituted “building permit” for “building construction permit”; and added subsec. (g).</annotation>
-    <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “Department of General Services” for “Office of Property Management” in (c)(1)(C).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 18-349">D.C. Law 18-349</law-cite> substituted “DDOE” for “The Department of the Environment” or “the Department of the Environment ”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 19-139">D.C. Law 19-139</law-cite>, in subsec. (c)(1)(C), substituted “Department of General Services” for “Office of Property Management”; in subsec. (c)(1)(G), substituted “building permit” for “building construction permit”; and added subsec. (g).</annotation>
+    <annotation type="Effect of Amendments">The 2012 amendment by <law-cite doc="D.C. Law 19-171">D.C. Law 19-171</law-cite> substituted “Department of General Services” for “Office of Property Management” in (c)(1)(C).</annotation>
   </annotations>
 </section>

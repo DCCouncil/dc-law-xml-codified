@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>6-1062.03</num>
   <heading>Findings.</heading>
   <para>
@@ -150,6 +151,6 @@
     <text>Sang Oh &amp; Company, Inc., has completed demolition of the structures on the Washington Beef Properties site and has submitted its PUD application to the Zoning Commission.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 16-278" type="History">Mar. 14, 2007, D.C. Law 16-278, § 203, 54 DCR 895</annotation>
+    <annotation doc="D.C. Law 16-278" type="History" path="§203">Mar. 14, 2007, D.C. Law 16-278, § 203, 54 DCR 895</annotation>
   </annotations>
 </section>

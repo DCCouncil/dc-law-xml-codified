@@ -1,12 +1,13 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 9-67">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="D.C. Law 9-67" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">9-67</num>
   <heading type="short">Health-Care Decisions Amendment Act of 1991</heading>
   <meta>
     <effective>1992-03-11</effective>
-    <cites>
-      <law lawId="67" period="9" url="./docs/9-67.pdf"/>
-      <register page="12" vol="39"/>
-    </cites>
+    <citations>
+      <citation type="law" url="./docs/9-67.pdf">D.C. Law 9-67</citation>
+      <citation type="register">39 DCR 12</citation>
+    </citations>
     <history url="http://lims.dccouncil.us/Legislation/B9-0041">
       <narrative>Law 9-67, the “Health-Care Decisions Amendment Act of 1991,” was introduced in Council and assigned Bill No. 9-41, which was referred to the Committee on the Judiciary. The Bill was adopted on first and second readings on November 5, 1991, and December 3, 1991, respectively. Signed by the Mayor on December 20, 1991, it was assigned Act No. 9-118 and transmitted to both Houses of Congress for its review.</narrative>
     </history>

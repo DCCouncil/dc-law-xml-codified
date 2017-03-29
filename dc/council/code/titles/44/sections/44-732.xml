@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>44-732</num>
   <heading>Asbestos abatement — Task Force established.</heading>
   <para>
@@ -62,7 +63,7 @@
     <text>The Task Force shall cease to exist 30 days after submission of the report required by subsection (f) of this section.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 5-173" type="History">Mar. 15, 1985, D.C. Law 5-173, § 3, 32 DCR 736</annotation>
+    <annotation doc="D.C. Law 5-173" type="History" path="§3">Mar. 15, 1985, D.C. Law 5-173, § 3, 32 DCR 736</annotation>
     <annotation doc="D.C. Law 12-264" type="History">Apr. 20, 1999, D.C. Law 12-264, § 31, 46 DCR 2118</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 32-119.2.</annotation>
   </annotations>

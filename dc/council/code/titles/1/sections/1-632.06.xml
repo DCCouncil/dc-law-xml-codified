@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-632.06</num>
   <heading>Express retention of certain District of Columbia laws.</heading>
   <text>The express provisions of the following District of Columbia laws shall continue in force and are not to be considered impliedly repealed in any manner by the provisions of this chapter:</text>
@@ -24,10 +25,10 @@
   </para>
   <para>
     <num>(6)</num>
-    <text>The Metropolitan Police Officer Civil Rights Act (<cite doc="D.C. Law 2-71">D.C. Law 2-71</cite>).</text>
+    <text>The Metropolitan Police Officer Civil Rights Act (<law-cite doc="D.C. Law 2-71">D.C. Law 2-71</law-cite>).</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 3206, 25 DCR 5740</annotation>
+    <annotation doc="D.C. Law 2-139" type="History" path="§3206">Mar. 3, 1979, D.C. Law 2-139, § 3206, 25 DCR 5740</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-633.4.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-362.4.</annotation>
   </annotations>

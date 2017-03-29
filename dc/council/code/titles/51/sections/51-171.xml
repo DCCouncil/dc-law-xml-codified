@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>51-171</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
@@ -47,6 +48,6 @@
     <text>“Shared work unemployment compensation program” means a voluntary program designed to reduce unemployment and stabilize the work force by allowing certain employees to collect unemployment compensation benefits if the employees share the work remaining after a reduction in the total number of hours of work and a corresponding reduction in wages.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-238" type="History">Oct. 15, 2010, D.C. Law 18-238, § 2, 57 DCR 7181</annotation>
+    <annotation doc="D.C. Law 18-238" type="History" path="§2">Oct. 15, 2010, D.C. Law 18-238, § 2, 57 DCR 7181</annotation>
   </annotations>
 </section>

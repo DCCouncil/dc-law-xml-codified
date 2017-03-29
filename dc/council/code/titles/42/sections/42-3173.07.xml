@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-3173.07</num>
   <heading>Final determination of deteriorated structure.</heading>
   <para>
@@ -80,10 +81,11 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-281" type="History">Apr. 27, 2001, D.C. Law 13-281, § 447</annotation>
+    <annotation doc="D.C. Law 13-281" type="History" path="§447">Apr. 27, 2001, D.C. Law 13-281, § 447</annotation>
     <annotation doc="D.C. Law 14-114" type="History">as added Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
     <annotation doc="D.C. Law 14-213" type="History">Oct. 19, 2002, D.C. Law 14-213, § 29(d), 49 DCR 8140</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§42-3173.02">42-3173.02</cite> and § <cite path="§42-3173.09">42-3173.09</cite>.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsec. (a)(2)(B), substituted “§ <cite path="§42-3173.05">42-3173.05</cite>(a)(5)” for “§ <cite path="§42-3173.05">42-3173.05</cite>(a)(4)”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 14-213">D.C. Law 14-213</law-cite>, in subsec. (a)(2)(B), substituted “§ <cite path="§42-3173.05">42-3173.05</cite>(a)(5)” for “§ <cite path="§42-3173.05">42-3173.05</cite>(a)(4)”.</annotation>
   </annotations>
 </section>

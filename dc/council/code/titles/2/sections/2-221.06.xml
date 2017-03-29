@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-221.06</num>
   <heading>Determination of receipt and payment dates; construction of rental contracts.</heading>
   <para>
@@ -21,7 +22,7 @@
     <text>A contract for the rental of real or personal property is a contract for the acquisition of that property.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 5-164" type="History">Mar. 15, 1985, D.C. Law 5-164, § 7, 32 DCR 555</annotation>
+    <annotation doc="D.C. Law 5-164" type="History" path="§7">Mar. 15, 1985, D.C. Law 5-164, § 7, 32 DCR 555</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-1176.</annotation>
   </annotations>
 </section>

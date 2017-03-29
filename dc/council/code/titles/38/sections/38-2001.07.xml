@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-2001.07</num>
   <heading>Appropriations for annuity; reserves; interest.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>The reserves created as the result of such annual appropriations shall be held by the Treasurer of the United States separate from the fund created by the contributions of the teachers, and the fund shall be credited with interest at 4% per annum, compounded annually. The fund thus created shall be held and invested by the Treasurer of the United States until paid out as hereinafter provided, and the income derived from such investments shall constitute a part of said fund for the purpose of carrying out the provisions of this subchapter.</text>
   </para>
   <annotations>
-    <annotation type="History">Jan. 15, 1920, 41 Stat. 388, ch. 39, § 7</annotation>
+    <annotation type="History" doc="Stat. 66-2-ch39" path="§7">Jan. 15, 1920, 41 Stat. 388, ch. 39, § 7</annotation>
     <annotation type="History">June 11, 1926, 44 Stat. 728, ch. 556, § 1</annotation>
     <annotation doc="Pub. L. 96-122" type="History">Nov. 17, 1979, 93 Stat. 866, Pub. L. 96-122, § 146(c)(1)</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§38-2021.02">38-2021.02</cite>.</annotation>

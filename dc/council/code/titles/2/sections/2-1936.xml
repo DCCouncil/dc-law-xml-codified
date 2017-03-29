@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1936</num>
   <heading>Phased implementation.</heading>
   <para>
@@ -106,7 +107,7 @@
     <text>This subchapter shall apply as of October 1, 2006 to all covered entities.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-167" type="History">June 19, 2004, D.C. Law 15-167, § 7, 51 DCR 4688</annotation>
+    <annotation doc="D.C. Law 15-167" type="History" path="§7">June 19, 2004, D.C. Law 15-167, § 7, 51 DCR 4688</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-1932">2-1932</cite>.</annotation>
   </annotations>
 </section>

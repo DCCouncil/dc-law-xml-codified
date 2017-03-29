@@ -1,12 +1,13 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 16-241">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="D.C. Law 16-241" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">16-241</num>
   <heading type="short">SUMMARY ENCLOSURE OF NUISANCE VACANT PROPERTY AMENDMENT ACT OF 2006</heading>
   <meta>
     <effective>2007-03-08</effective>
-    <cites>
-      <law lawId="241" period="16" url="./docs/16-241.pdf"/>
-      <register page="599" vol="54"/>
-    </cites>
-    <history url="http://lims.dccouncil.us/Legislation/B16-0903"/>
+    <citations>
+      <citation type="law" url="./docs/16-241.pdf">D.C. Law 16-241</citation>
+      <citation type="register">54 DCR 599</citation>
+    </citations>
+    <history url="http://lims.dccouncil.us/Legislation/B16-0903" />
   </meta>
 </document>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>44-951.15</num>
   <heading>General Counsel.</heading>
   <para>
@@ -30,6 +31,6 @@
     <text>The General Counsel, with the consent of the CEO, may employ staff attorneys and other personnel.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-21" type="History">Sept. 14, 2011, D.C. Law 19-21, § 5126, 58 DCR 6226</annotation>
+    <annotation doc="D.C. Law 19-21" type="History" path="§5126">Sept. 14, 2011, D.C. Law 19-21, § 5126, 58 DCR 6226</annotation>
   </annotations>
 </section>

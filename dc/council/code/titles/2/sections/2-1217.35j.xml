@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1217.35j</num>
   <heading>District officials.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>The signature, countersignature, facsimile signature, or facsimile countersignature of any official appearing on the Bonds, the Financing Documents, or the Closing Documents shall be valid and sufficient for all purposes notwithstanding the fact that the individual signatory ceases to hold that office before delivery of the Bonds, the Financing Documents, or the Closing Documents.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-110" type="History">June 21, 2014, D.C. Law 20-110, § 209, 61 DCR 4315</annotation>
+    <annotation doc="D.C. Law 20-110" type="History" path="§209">June 21, 2014, D.C. Law 20-110, § 209, 61 DCR 4315</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-504</num>
   <heading>Notification of immunization information by school.</heading>
   <para>
@@ -26,7 +27,7 @@
     <text>Neither the District of Columbia nor any school or school official shall be liable in damages to any person for failure to comply with this section.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 3-20" type="History">Sept. 28, 1979, D.C. Law 3-20, § 5, 26 DCR 380</annotation>
+    <annotation doc="D.C. Law 3-20" type="History" path="§5">Sept. 28, 1979, D.C. Law 3-20, § 5, 26 DCR 380</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-504.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 31-2204.</annotation>
   </annotations>

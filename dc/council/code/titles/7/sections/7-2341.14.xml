@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2341.14</num>
   <heading>License and certification renewal.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>A license or certification issued pursuant to this chapter for which timely renewal application is made shall continue in force beyond the expiration date until the Mayor acts on the renewal application.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-357" type="History">Mar. 25, 2009, D.C. Law 17-357, § 15, 56 DCR 1167</annotation>
+    <annotation doc="D.C. Law 17-357" type="History" path="§15">Mar. 25, 2009, D.C. Law 17-357, § 15, 56 DCR 1167</annotation>
   </annotations>
 </section>

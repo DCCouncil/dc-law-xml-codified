@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-1350</num>
   <heading>Domiciliary liquidators in other states.</heading>
   <para>
@@ -14,7 +15,7 @@
     <text>Claimants residing in the District may file claims with the liquidator or ancillary receiver, if any, in the District or with the domiciliary liquidator, if the domiciliary law permits. The claims must be filed on or before the last date fixed for the filing of claims in the domiciliary liquidation proceedings.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-35" type="History">Oct. 15, 1993, D.C. Law 10-35, § 51, 40 DCR 5773</annotation>
+    <annotation doc="D.C. Law 10-35" type="History" path="§51">Oct. 15, 1993, D.C. Law 10-35, § 51, 40 DCR 5773</annotation>
     <annotation doc="D.C. Law 11-268" type="History">May 21, 1997, D.C. Law 11-268, § 10(z)(2), 44 DCR 1730</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-1301">31-1301</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-2850.</annotation>

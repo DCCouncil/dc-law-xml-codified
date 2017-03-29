@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-174</num>
   <heading>Chancellor; appointment; duties.</heading>
   <para>
@@ -93,7 +94,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-9" type="History">June 12, 2007, D.C. Law 17-9, § 105, 54 DCR 4102</annotation>
+    <annotation doc="D.C. Law 17-9" type="History" path="§105">June 12, 2007, D.C. Law 17-9, § 105, 54 DCR 4102</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§38-755.02">38-755.02</cite>, § <cite path="§38-781.01">38-781.01</cite>, and § <cite path="§38-781.06">38-781.06</cite>.</annotation>
     <annotation type="Delegation of Authority">Delegation of Authority—Chancellor, District of Columbia Public Schools, see Mayor’s Order 2007-158, July 5, 2007 ( 54 DCR 9617).</annotation>
     <annotation type="Delegation of Authority">Revised Delegation of Authority to Chancellor, District of Columbia Public Schools, see Mayor’s Order 2007-11622, August 10, 2007</annotation>

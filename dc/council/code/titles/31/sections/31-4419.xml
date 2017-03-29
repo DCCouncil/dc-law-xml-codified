@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-4419</num>
   <heading>Conversion of stock companies into mutual life companies.</heading>
   <text>Any domestic stock company organized or licensed to do business, whether incorporated under this subdivision, or any previous existing law, or act of Congress, may become a mutual company, and to that end may carry out a plan for the acquisition of shares of its capital stock; provided, however, that such plan:</text>
@@ -19,7 +20,7 @@
     <text>Shall have been submitted to the Commissioner and shall have been approved by him in writing; provided, that every payment for the acquisition of any shares of the capital stock of such company, the purchase price of which is not fixed by such plan, shall be subject to the approval of the Commissioner; provided further, that neither such plan, nor any such payment, shall be approved by the Commissioner unless at the time of such approvals, respectively, the company, after deducting the aggregate sum appropriated by such plan for the acquisition of any part or all of its capital stock, and in the case of any payment not fixed by such plan and subject to separate approval as aforesaid after the approval of such plan, after deducting also the amount of such payment, shall be possessed of assets not less than the entire liabilities of the company, including the net values of its outstanding contracts computed according to the standard adopted by the company under § <cite path="§31-4701">31-4701</cite>, and also all funds, contingent reserves, and surplus save so much of the latter as shall have been appropriated or paid under such plan.</text>
   </para>
   <annotations>
-    <annotation type="History">June 19, 1934, 48 Stat. 1149, ch. 672, ch. III, § 19</annotation>
+    <annotation type="History" doc="Stat. 73-2-ch672" path="§19">June 19, 1934, 48 Stat. 1149, ch. 672, ch. III, § 19</annotation>
     <annotation doc="D.C. Law 11-268" type="History">May 21, 1997, D.C. Law 11-268, § 10(k), 44 DCR 1730</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-619.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 35-519.</annotation>

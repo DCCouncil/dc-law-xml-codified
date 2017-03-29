@@ -1,10 +1,11 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Repealed</reason>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-2502.08</num>
+  <reason>Repealed</reason>
   <heading>Required annual financial statements.</heading>
   <text>Repealed.</text>
   <annotations>
-    <annotation doc="D.C. Law 10-42" type="History">Oct. 21, 1993, D.C. Law 10-42, § 7(c), 40 DCR 6020</annotation>
+    <annotation doc="D.C. Law 10-42" type="History" path="§7|(c)">Oct. 21, 1993, D.C. Law 10-42, § 7(c), 40 DCR 6020</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-1511.</annotation>
   </annotations>
 </section>

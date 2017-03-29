@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2361.06</num>
   <heading>No effect on credentialing and privileging.</heading>
   <para>
@@ -50,7 +51,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-184" type="History">July 1, 2010, D.C. Law 18-184, § 7, 57 DCR 3655</annotation>
+    <annotation doc="D.C. Law 18-184" type="History" path="§7">July 1, 2010, D.C. Law 18-184, § 7, 57 DCR 3655</annotation>
     <annotation type="Editor's Notes">Uniform Law: This section is based upon § 7 of the Uniform Emergency Volunteer Health Practitioners Act.</annotation>
   </annotations>
 </section>

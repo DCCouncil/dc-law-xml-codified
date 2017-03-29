@@ -1,9 +1,12 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="Pub. L. 90-19">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="Pub. L. 90-19" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>90-19</num>
+  <heading type="long">Joint resolution to amend the National Housing Act, and other laws relating to housing and urban development, to correct certain obsolete references</heading>
   <meta>
     <effective>1967-05-25</effective>
-    <cites>
-      <law session="90" lawId="19"/>
-    </cites>
+    <citations>
+      <citation type="law">Pub. L. 90-19</citation>
+      <citation type="stat" url="https://www.gpo.gov/fdsys/pkg/STATUTE-81/pdf/STATUTE-81-Pg17.pdf">81 Stat. 17</citation>
+    </citations>
   </meta>
 </document>

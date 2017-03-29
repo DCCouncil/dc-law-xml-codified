@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>9-1174</num>
   <heading>Comprehensive assessment.</heading>
   <para>
@@ -26,7 +27,7 @@
     <text>The Council shall hold a public hearing on this report.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-339" type="History">Mar. 31, 2011, D.C. Law 18-339, § 5, 58 DCR 618</annotation>
+    <annotation doc="D.C. Law 18-339" type="History" path="§5">Mar. 31, 2011, D.C. Law 18-339, § 5, 58 DCR 618</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 5 of Transportation Infrastructure Congressional Review Emergency Amendment Act of 2010 (D.C. Act 18-583, October 19, 2010,  57 DCR 10129).</annotation>
   </annotations>
 </section>

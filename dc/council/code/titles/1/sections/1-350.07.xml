@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-350.07</num>
   <heading>Suspension of licenses and permits.</heading>
   <para>
@@ -14,6 +15,6 @@
     <text>The Central Collection Unit shall provide to all District agencies, within 10 days of the end of the preceding month, a list of the names of all persons currently subject to suspension of the granting or issuing of a District license or permit due to delinquent debt of more than $100.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-168" type="History">Sept. 20, 2012, D.C. Law 19-168, § 1048, 59 DCR 8025</annotation>
+    <annotation doc="D.C. Law 19-168" type="History" path="§1048">Sept. 20, 2012, D.C. Law 19-168, § 1048, 59 DCR 8025</annotation>
   </annotations>
 </section>

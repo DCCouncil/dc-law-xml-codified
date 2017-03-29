@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-273.03</num>
   <heading>Solicitation through requests for proposals.</heading>
   <para>
@@ -101,6 +102,6 @@
     <text>Any response to a request for proposals shall be the property of the Office.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-228" type="History">Mar. 11, 2015, D.C. Law 20-228, § 108, 62 DCR 261</annotation>
+    <annotation doc="D.C. Law 20-228" type="History" path="§108">Mar. 11, 2015, D.C. Law 20-228, § 108, 62 DCR 261</annotation>
   </annotations>
 </section>

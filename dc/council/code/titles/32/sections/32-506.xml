@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>32-506</num>
   <heading>School employees.</heading>
   <para>
@@ -65,7 +66,7 @@
     <text>For purposes of a restoration of employment determination under § <cite path="§32-505">32-505</cite>(d)(2), in the case of an educational agency or school, the determination shall be made on the basis of established school board or private school policies and practices and collective bargaining agreements.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 8-181" type="History">Oct. 3, 1990, D.C. Law 8-181, § 7, 37 DCR 5043</annotation>
+    <annotation doc="D.C. Law 8-181" type="History" path="§7">Oct. 3, 1990, D.C. Law 8-181, § 7, 37 DCR 5043</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 36-1306.</annotation>
   </annotations>
 </section>

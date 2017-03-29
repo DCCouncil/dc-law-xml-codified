@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-1612</num>
   <heading>Bicycle rental information.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>The form used to meet the requirements of subsection (a) of this section may be the same form used to meet the requirements of § <cite path="§50-1605">50-1605</cite>(f).</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 5-179" type="History">Mar. 16, 1985, D.C. Law 5-179, § 202</annotation>
+    <annotation doc="D.C. Law 5-179" type="History" path="§202">Mar. 16, 1985, D.C. Law 5-179, § 202</annotation>
     <annotation doc="D.C. Law 17-149" type="History">as added May 1, 2008, D.C. Law 17-149, § 2(c), 55 DCR 1272</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>32-402</num>
   <heading>Licensing requirements for employment agencies, employment counseling services, employer-paid personnel services, job listing services, and employment counselors.</heading>
   <para>
@@ -135,16 +136,19 @@
     <text>Any license issued pursuant to this section shall be issued as  an Employment Services endorsement to a basic business license under the basic business license system as set forth in subchapter I-A of Chapter 28 of Title 47.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 5-136" type="History">Mar. 13, 1985, D.C. Law 5-136, § 3, 31 DCR 5727</annotation>
+    <annotation doc="D.C. Law 5-136" type="History" path="§3">Mar. 13, 1985, D.C. Law 5-136, § 3, 31 DCR 5727</annotation>
     <annotation doc="D.C. Law 12-261" type="History">Apr. 20, 1999, D.C. Law 12-261, § 2003(nn), 46 DCR 3142</annotation>
     <annotation doc="D.C. Law 13-91" type="History">Apr. 12, 2000, D.C. Law 13-91, § 149, 47 DCR 520</annotation>
     <annotation doc="D.C. Law 15-38" type="History">Oct. 28, 2003, D.C. Law 15-38, § 3(aa), 50 DCR 6913</annotation>
     <annotation doc="D.C. Law 15-354" type="History">Apr. 13, 2005, D.C. Law 15-354, § 51, 52 DCR 2638</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§32-401">32-401</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 36-1002.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite> validated a previously made technical amendment in subsec. (a)(2).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-38">D.C. Law 15-38</cite>, in subsec. (e), substituted “Employment Services endorsement to a basic business license under the basic” for “a Class B Employment Services endorsement to a master business license under the master”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in subsec. (e), validated previously made technical corrections.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 13-91">D.C. Law 13-91</law-cite> validated a previously made technical amendment in subsec. (a)(2).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 15-38">D.C. Law 15-38</law-cite>, in subsec. (e), substituted “Employment Services endorsement to a basic business license under the basic” for “a Class B Employment Services endorsement to a master business license under the master”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 15-354">D.C. Law 15-354</law-cite>, in subsec. (e), validated previously made technical corrections.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 3(aa) of Streamlining Regulation Emergency Act of 2003 (D.C. Act 15-145, August 11, 2003,  50 DCR 6896).</annotation>
   </annotations>
 </section>

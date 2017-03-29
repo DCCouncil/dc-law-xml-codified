@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>36-303.05</num>
   <heading>Sale, assignment, or other transfer of a marketing agreement.</heading>
   <para>
@@ -60,7 +61,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-123" type="History">Apr. 19, 1977, D.C. Law 1-123, § 4-205, 24 DCR 2371</annotation>
+    <annotation doc="D.C. Law 1-123" type="History" path="§4-205">Apr. 19, 1977, D.C. Law 1-123, § 4-205, 24 DCR 2371</annotation>
     <annotation doc="D.C. Law 5-45" type="History">Feb. 9, 1984, D.C. Law 5-45, § 2, 30 DCR 5635</annotation>
     <annotation type="Cross References">General powers of personal representatives, see § <cite path="§20-741">20-741</cite>.</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§36-303.03">36-303.03</cite>.</annotation>

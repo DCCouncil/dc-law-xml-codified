@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1934</num>
   <heading>Additional obligations of covered entities with major public contact.</heading>
   <para>
@@ -53,6 +54,6 @@
     <text>A covered entity with major public contact shall develop a plan to conduct outreach to communities with limited or no-English proficient populations about their language access plans and about the benefits and services to be offered under this subchapter.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-167" type="History">June 19, 2004, D.C. Law 15-167, § 5, 51 DCR 4688</annotation>
+    <annotation doc="D.C. Law 15-167" type="History" path="§5">June 19, 2004, D.C. Law 15-167, § 5, 51 DCR 4688</annotation>
   </annotations>
 </section>

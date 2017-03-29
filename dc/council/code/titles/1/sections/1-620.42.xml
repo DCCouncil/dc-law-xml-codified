@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-620.42</num>
   <heading>Pre-employment inquiries.</heading>
   <para>
@@ -14,7 +15,7 @@
     <text>If a position is not a covered position, a public employer shall not inquire about an applicant’s criminal history on the application form. A public employer may inquire about an applicant’s criminal history after the initial screening of applications. If a public employer inquires about an applicant’s criminal history, the applicant shall be permitted to provide an explanation of his criminal history to the public employer.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 2042</annotation>
+    <annotation doc="D.C. Law 2-139" type="History" path="§2042">Mar. 3, 1979, D.C. Law 2-139, § 2042</annotation>
     <annotation doc="D.C. Law 18-340" type="History">as added Mar. 31, 2011, D.C. Law 18-340, § 2(b), 58 DCR 621</annotation>
   </annotations>
 </section>

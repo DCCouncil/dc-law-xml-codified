@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-1853.06</num>
   <heading>Priorities.</heading>
   <text>In awarding grants under § <cite path="§38-1853.04">38-1853.04</cite>(a), the Secretary shall give priority to applications from eligible entities that will most effectively—</text>
@@ -27,7 +28,7 @@
     <text>provide students and families with the widest range of educational options.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 112-10" type="History">Apr. 15, 2011, 125 Stat. 202, Pub. L. 112-10, Div. C, § 3006</annotation>
+    <annotation doc="Pub. L. 112-10" type="History" path="§3006">Apr. 15, 2011, 125 Stat. 202, Pub. L. 112-10, Div. C, § 3006</annotation>
     <annotation doc="Pub. L. 114-95" type="History">Dec. 10, 2015, 129 Stat. 1802, Pub. L. 114-95, § 9215(ppp)(2)</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§38-1853.05">38-1853.05</cite> and § <cite path="§38-1853.09">38-1853.09</cite>.</annotation>
     <annotation type="Effect of Amendments">Section 9215(ppp)(2) of Public Law 114-95 substituted “implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965” for “identified for improvement, corrective action, or restructuring under section 1116 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316)” in (1)(A).</annotation>

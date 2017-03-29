@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>5-1053</num>
   <heading>Conditional retirement.</heading>
   <para>
@@ -30,7 +31,7 @@
     <text>A member who retires or resigns from the Department without knowing that he or she was under disciplinary investigation for serious misconduct shall not be deemed to be in conditional retirement, but shall instead be provided the opportunity to continue employment with the Department during the pendency of the disciplinary investigation. Should the member decide to retire or resign after he or she has been informed of the disciplinary investigation, he or she shall be deemed to be in conditional retirement as provided in this section.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-194" type="History">Sept. 30, 2004, D.C. Law 15-194, § 513</annotation>
+    <annotation doc="D.C. Law 15-194" type="History" path="§513">Sept. 30, 2004, D.C. Law 15-194, § 513</annotation>
     <annotation doc="D.C. Law 20-236" type="History">as added Mar. 11, 2015, D.C. Law 20-236, §  2(b), 62 DCR 485</annotation>
   </annotations>
 </section>

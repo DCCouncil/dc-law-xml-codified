@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1217.136</num>
   <heading>Payment and security.</heading>
   <para>
@@ -18,7 +19,7 @@
     <text>The trustee is authorized to deposit, invest, and disburse the proceeds received from the sale of the bonds pursuant to the Financing Documents.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-252" type="History">Oct. 22, 2008, D.C. Law 17-252, § 106, 55 DCR 9251</annotation>
+    <annotation doc="D.C. Law 17-252" type="History" path="§106">Oct. 22, 2008, D.C. Law 17-252, § 106, 55 DCR 9251</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-1217.135">2-1217.135</cite>.</annotation>
   </annotations>
 </section>

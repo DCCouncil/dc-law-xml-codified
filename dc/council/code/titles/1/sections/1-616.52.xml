@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-616.52</num>
   <heading>Disciplinary grievances and appeals.</heading>
   <para>
@@ -26,13 +27,14 @@
     <text>An employee shall be deemed to have exercised their option pursuant to subsection (e) of this section to raise a matter either under the applicable statutory procedures or under the negotiated grievance procedure at such time as the employee timely files an appeal under this section or timely files a grievance in writing in accordance with the provision of the negotiated grievance procedure applicable to the parties, whichever event occurs first.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 1652</annotation>
+    <annotation doc="D.C. Law 2-139" type="History" path="§1652">Mar. 3, 1979, D.C. Law 2-139, § 1652</annotation>
     <annotation doc="D.C. Law 12-124" type="History">as added June 10, 1998, D.C. Law 12-124, § 101(s), 45 DCR 2464</annotation>
     <annotation doc="D.C. Law 13-91" type="History">Apr. 12, 2000, D.C. Law 13-91, § 108(b), 47 DCR 520</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-606.07">1-606.07</cite>, § <cite path="§1-616.53">1-616.53</cite>, and § <cite path="§1-616.54">1-616.54</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-617.52.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-617.52.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite> validated previously made technical amendments in subsecs. (d) and (e).</annotation>
-    <annotation type="Editor's Notes">Applicability of § 101(s) of <cite doc="D.C. Law 12-124">D.C. Law 12-124</cite>: See Historical and Statutory Notes following § <cite path="§1-616.51">1-616.51</cite>.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 13-91">D.C. Law 13-91</law-cite> validated previously made technical amendments in subsecs. (d) and (e).</annotation>
+    <annotation type="Editor's Notes">Applicability of § 101(s) of <law-cite doc="D.C. Law 12-124">D.C. Law 12-124</law-cite>: See Historical and Statutory Notes following § <cite path="§1-616.51">1-616.51</cite>.</annotation>
   </annotations>
 </section>

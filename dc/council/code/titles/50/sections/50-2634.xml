@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-2634</num>
   <heading>Parking adjacent to neighborhood commercial centers.</heading>
   <text>The Council of the District of Columbia finds that:</text>
@@ -23,7 +24,7 @@
     <text>If the District is to achieve its goal of revitalization of these commercial areas and maximize their growth potential, low-cost short-term parking must be provided in or adjacent to such centers.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 3-108" type="History">Sept. 26, 1980, D.C. Law 3-108, § 2, 27 DCR 3781</annotation>
+    <annotation doc="D.C. Law 3-108" type="History" path="§2">Sept. 26, 1980, D.C. Law 3-108, § 2, 27 DCR 3781</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-803.</annotation>
   </annotations>
 </section>

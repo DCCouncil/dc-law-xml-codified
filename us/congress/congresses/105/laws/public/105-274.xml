@@ -1,9 +1,35 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="Pub. L. 105-274">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="Pub. L. 105-274" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>105-274</num>
+  <heading type="long">District of Columbia Courts and Justice Technical Corrections Act of 1998</heading>
   <meta>
     <effective>1998-10-21</effective>
-    <cites>
-      <law session="105" lawId="274"/>
-    </cites>
+    <citations>
+      <citation type="law">Pub. L. 105-274</citation>
+      <citation type="stat" url="https://www.gpo.gov/fdsys/pkg/STATUTE-112/pdf/STATUTE-112-Pg2419.pdf">112 Stat. 2419</citation>
+    </citations>
   </meta>
+  <section>
+    <num>2</num>
+    <para>
+      <num>(d)</num>
+      <para>
+        <num>(2)</num>
+        <codified:at doc="D.C. Code" path="§1-821.01" />
+      </para>
+    </para>
+  </section>
+  <section>
+    <num>6</num>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(2)</num>
+        <para>
+          <num>(A)</num>
+          <codified:at doc="D.C. Code" path="§24-301" />
+        </para>
+      </para>
+    </para>
+  </section>
 </document>

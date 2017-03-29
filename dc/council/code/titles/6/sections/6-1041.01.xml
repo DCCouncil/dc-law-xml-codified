@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>6-1041.01</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
@@ -27,7 +28,7 @@
     <text>“Moderate-income household” means a household of one or more individuals with a total annual income adjusted for household size equal to between 51% and 80% of the Metropolitan Statistical Area median as certified by the Mayor.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 16-275" type="History">Mar. 14, 2007, D.C. Law 16-275, § 101, 54 DCR 880</annotation>
+    <annotation doc="D.C. Law 16-275" type="History" path="§101">Mar. 14, 2007, D.C. Law 16-275, § 101, 54 DCR 880</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-301.181">1-301.181</cite> and § <cite path="§2-1831.03">2-1831.03</cite>.</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-2202</num>
   <heading>Authorization of entry.</heading>
   <para>
@@ -26,7 +27,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 11-128" type="History">May 24, 1996, D.C. Law 11-128, § 3, 43 DCR 1562</annotation>
+    <annotation doc="D.C. Law 11-128" type="History" path="§3">May 24, 1996, D.C. Law 11-128, § 3, 43 DCR 1562</annotation>
     <annotation doc="D.C. Law 12-81" type="History">Mar. 24, 1998, D.C. Law 12-81, § 45(b), 45 DCR 745</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-1371.01">31-1371.01</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-4402.</annotation>

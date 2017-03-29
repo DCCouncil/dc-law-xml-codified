@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-301.125</num>
   <heading>Agreement requirements.</heading>
   <text>The Chief Financial Officer shall not enter into the Streamlined Sales and Use Tax Agreement unless the Agreement addresses the following issues:</text>
@@ -55,7 +56,7 @@
     <text>The Agreement shall provide for the appointment of an advisory council of private sector representatives and an advisory council of non-member state representatives to consult with in the administration of the Agreement.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-156" type="History">June 25, 2002, D.C. Law 14-156, § 6, 49 DCR 4272</annotation>
+    <annotation doc="D.C. Law 14-156" type="History" path="§6">June 25, 2002, D.C. Law 14-156, § 6, 49 DCR 4272</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-301.122">1-301.122</cite>.</annotation>
   </annotations>
 </section>

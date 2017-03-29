@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-5236</num>
   <heading>One hundred percent investment requirement.</heading>
   <para>
@@ -21,9 +22,10 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-87" type="History">Mar. 10, 2004, D.C. Law 15-87, § 7, 50 DCR 10982</annotation>
+    <annotation doc="D.C. Law 15-87" type="History" path="§7">Mar. 10, 2004, D.C. Law 15-87, § 7, 50 DCR 10982</annotation>
     <annotation doc="D.C. Law 18-181" type="History">May 27, 2010, D.C. Law 18-181, § 2(c), 57 DCR 3388</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-5235">31-5235</cite>.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-181">D.C. Law 18-181</cite> added subsec. (a-1).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 18-181">D.C. Law 18-181</law-cite> added subsec. (a-1).</annotation>
   </annotations>
 </section>

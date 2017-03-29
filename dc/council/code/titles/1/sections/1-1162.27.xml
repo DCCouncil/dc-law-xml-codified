@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-1162.27</num>
   <heading>Persons required to register.</heading>
   <para>
@@ -28,7 +29,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-124" type="History">Apr. 27, 2012, D.C. Law 19-124, § 227, 59 DCR 1862</annotation>
+    <annotation doc="D.C. Law 19-124" type="History" path="§227">Apr. 27, 2012, D.C. Law 19-124, § 227, 59 DCR 1862</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-1161.01">1-1161.01</cite>.</annotation>
   </annotations>
 </section>

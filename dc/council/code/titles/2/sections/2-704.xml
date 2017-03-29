@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-704</num>
   <heading>Use of expedited services; use of officially marked envelopes; payment for nonconforming enclosures prohibited; inspection of agency mail; promulgation of rules and regulations.</heading>
   <para>
@@ -30,7 +31,7 @@
     <text>For the Council of the District of Columbia, the rules to implement this law shall be those adopted in rules of the Council.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-118" type="History">Apr. 7, 1977, D.C. Law 1-118, § 5, 23 DCR 8746</annotation>
+    <annotation doc="D.C. Law 1-118" type="History" path="§5">Apr. 7, 1977, D.C. Law 1-118, § 5, 23 DCR 8746</annotation>
     <annotation doc="D.C. Law 7-188" type="History">Mar. 16, 1989, D.C. Law 7-188, § 2(b), 35 DCR 8651</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-706">2-706</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-1704.</annotation>

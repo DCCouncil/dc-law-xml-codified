@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-2705</num>
   <heading>Effect of failure to reclaim vehicle; issuance of scrap title.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>After a scrap title is issued for a vehicle, that vehicle may not be registered in the District of Columbia.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 16-139" type="History">June 22, 2006, D.C. Law 16-139, § 6, 53 DCR 3682</annotation>
+    <annotation doc="D.C. Law 16-139" type="History" path="§6">June 22, 2006, D.C. Law 16-139, § 6, 53 DCR 3682</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§50-2201.03">50-2201.03</cite> and § <cite path="§50-2701">50-2701</cite>.</annotation>
   </annotations>
 </section>

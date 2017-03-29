@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1714</num>
   <heading>Applicability.</heading>
   <para>
@@ -26,7 +27,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-19" type="History">Sept. 5, 1985, D.C. Law 6-19, § 16, 32 DCR 3590</annotation>
+    <annotation doc="D.C. Law 6-19" type="History" path="§16">Sept. 5, 1985, D.C. Law 6-19, § 16, 32 DCR 3590</annotation>
     <annotation type="Cross References">Alcoholic beverage control, fines and penalties, see § <cite path="§25-831">25-831</cite>.</annotation>
     <annotation type="Cross References">Alcoholic beverage control, transportation, operation by intoxicated persons, fines and penalties, see § <cite path="§25-1009">25-1009</cite>.</annotation>
     <annotation type="Cross References">Asbestos licensing and control, fines and penalties, civil infractions, see § <cite path="§8-111.10">8-111.10</cite>.</annotation>
@@ -145,8 +146,8 @@
     <annotation type="Cross References">Tobacco smoking, infractions, fines and penalties, see § <cite path="§7-1706">7-1706</cite>.</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-1701">2-1701</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-2914.</annotation>
-    <annotation type="Temporary Legislation">Section 4 of <cite doc="D.C. Law 17-16">D.C. Law 17-16</cite>, in subsec. (a), substituted “Public Service Commission, the National Capital Revitalization Corporation, the Anacostia Waterfront Corporation,” for “Public Service Commission,”.</annotation>
-    <annotation type="Temporary Legislation">Section 6(b) of <cite doc="D.C. Law 17-16">D.C. Law 17-16</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+    <annotation type="Temporary Legislation">Section 4 of <law-cite doc="D.C. Law 17-16">D.C. Law 17-16</law-cite>, in subsec. (a), substituted “Public Service Commission, the National Capital Revitalization Corporation, the Anacostia Waterfront Corporation,” for “Public Service Commission,”.</annotation>
+    <annotation type="Temporary Legislation">Section 6(b) of <law-cite doc="D.C. Law 17-16">D.C. Law 17-16</law-cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 4 of National Capital Revitalization Corporation and Anacostia Waterfront Corporation Freedom of Information Emergency Amendment Act of 2007 (D.C. Act 17-29, April 19, 2007,  54 DCR 4077).</annotation>
   </annotations>
 </section>

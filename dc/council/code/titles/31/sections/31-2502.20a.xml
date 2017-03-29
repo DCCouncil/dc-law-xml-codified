@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-2502.20a</num>
   <heading>Authority to transact business — Lloyd’s organizations.</heading>
   <text>Individuals and aggregations of individuals transacting an insurance business upon the plan known as Lloyd’s whereby the individual underwriters become liable severally for specified proportions of the whole amount insured by a policy, heretofore organized under the laws of a state of the United States, or of a foreign government, may be authorized to transact business in the District, upon the following conditions:</text>
@@ -47,7 +48,7 @@
     </para>
   </para>
   <annotations>
-    <annotation type="History">Oct. 9, 1940, 54 Stat. 1073, ch. 792, ch. II, § 20a</annotation>
+    <annotation type="History" doc="Stat. 76-3-ch792" path="§20a">Oct. 9, 1940, 54 Stat. 1073, ch. 792, ch. II, § 20a</annotation>
     <annotation doc="D.C. Law 11-268" type="History">May 21, 1997, D.C. Law 11-268, § 10(r)(2), 44 DCR 1730</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-2502.20">31-2502.20</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-1524.</annotation>

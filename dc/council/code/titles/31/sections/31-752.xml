@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-752</num>
   <heading>Formation of a mutual insurance holding company from a reciprocal insurance company.</heading>
   <para>
@@ -18,7 +19,7 @@
     <text>Policyholders of the reorganized insurance company shall be members of the mutual insurance holding company in accordance with the articles of incorporation and bylaws of the mutual insurance holding company.  The mutual insurance holding company shall at all times own a majority of the voting shares of the capital stock of the reorganized insurance company.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 12-112" type="History">May 12, 1998, D.C. Law 12-112, § 3, 45 DCR 1792</annotation>
+    <annotation doc="D.C. Law 12-112" type="History" path="§3">May 12, 1998, D.C. Law 12-112, § 3, 45 DCR 1792</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-3742.</annotation>
     <annotation type="Emergency Legislation">See Historical and Statutory Notes following § <cite path="§31-751">31-751</cite>.</annotation>
   </annotations>

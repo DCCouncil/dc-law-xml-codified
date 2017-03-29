@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>22-1840</num>
   <heading>Civil action.</heading>
   <para>
@@ -18,6 +19,6 @@
     <text>A defendant is estopped to assert a defense of the statute of limitations when the expiration of the statute is due to conduct by the defendant inducing the plaintiff to delay the filing of the action.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-239" type="History">Oct. 23, 2010, D.C. Law 18-239, § 110, 57 DCR 5405</annotation>
+    <annotation doc="D.C. Law 18-239" type="History" path="§110">Oct. 23, 2010, D.C. Law 18-239, § 110, 57 DCR 5405</annotation>
   </annotations>
 </section>

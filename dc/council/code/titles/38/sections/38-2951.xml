@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-2951</num>
   <heading>Financial Management Reform Plan.</heading>
   <para>
@@ -34,7 +35,7 @@
     <text>The Superintendent shall submit the Reform Plan to the Board of Education for its approval.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-211" type="History">Dec. 7, 2004, D.C. Law 15-211, § 4, 51 DCR 8805</annotation>
+    <annotation doc="D.C. Law 15-211" type="History" path="§4">Dec. 7, 2004, D.C. Law 15-211, § 4, 51 DCR 8805</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§38-2952">38-2952</cite>.</annotation>
     <annotation type="Editor's Notes">Former § <cite path="§38-2951">38-2951</cite> has been recodified as § <cite path="§38-2931">38-2931</cite>.</annotation>
   </annotations>

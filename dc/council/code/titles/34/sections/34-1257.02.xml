@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>34-1257.02</num>
   <heading>Operation and construction of system; general requirements.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>A cable operator shall exercise its best efforts to design, construct, operate, and maintain the system at all times so that signals carried are delivered to subscribers without material degradation in quality.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 4-142" type="History">Aug. 21, 1982, D.C. Law 4-142, § 702</annotation>
+    <annotation doc="D.C. Law 4-142" type="History" path="§702">Aug. 21, 1982, D.C. Law 4-142, § 702</annotation>
     <annotation doc="D.C. Law 14-193" type="History">as added Oct. 9, 2002, D.C. Law 14-193, § 2(b), 49 DCR 7334</annotation>
   </annotations>
 </section>

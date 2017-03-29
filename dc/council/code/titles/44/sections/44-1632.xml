@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>44-1632</num>
   <heading>Standard of conduct in managing and investing institutional fund.</heading>
   <para>
@@ -86,7 +87,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-69" type="History">Jan. 23, 2008, D.C. Law 17-69, § 3, 54 DCR 11650</annotation>
+    <annotation doc="D.C. Law 17-69" type="History" path="§3">Jan. 23, 2008, D.C. Law 17-69, § 3, 54 DCR 11650</annotation>
     <annotation type="Editor's Notes">Uniform Law: This section is based upon § 3 of the Uniform Prudent Management of Institutional Funds Act of 2007.</annotation>
   </annotations>
 </section>

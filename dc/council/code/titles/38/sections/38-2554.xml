@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-2554</num>
   <heading>Composition of the Task Force.</heading>
   <para>
@@ -94,7 +95,7 @@
     <text>The Director of the State Education Office shall provide staffing for the Task Force.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-39" type="History">Nov. 13, 2003, D.C. Law 15-39, § 375, 50 DCR 5668</annotation>
+    <annotation doc="D.C. Law 15-39" type="History" path="§375">Nov. 13, 2003, D.C. Law 15-39, § 375, 50 DCR 5668</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 5 of Special Education Task Force Establishment Second Congressional Review Emergency Act of 2003 (D.C. Act 15-232, November 25, 2003,  50 DCR 10729).</annotation>
   </annotations>
 </section>

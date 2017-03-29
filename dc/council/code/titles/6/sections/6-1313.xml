@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>6-1313</num>
   <heading>Extraordinary protective services.</heading>
   <para>
@@ -45,7 +46,7 @@
     <text>Amounts used to carry out this section shall not be subject to § <cite path="§6-1308">6-1308</cite>(h).</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 97-241" type="History">Aug. 24, 1982, Pub. L. 97-241, § 214</annotation>
+    <annotation doc="Pub. L. 97-241" type="History" path="§214">Aug. 24, 1982, Pub. L. 97-241, § 214</annotation>
     <annotation doc="Pub. L. 99-93" type="History">as added Aug. 16, 1985, 99 Stat. 405, Pub. L. 99-93, § 126(a)</annotation>
     <annotation doc="Pub. L. 109-177" type="History">Mar. 9, 2006, 120 Stat. 255, Pub. L. 109-177, § 605(d)(3)</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 5-1213.</annotation>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>41-130</num>
   <heading>Verified reports; examination of records; subpoenas.</heading>
   <para>
@@ -26,7 +27,7 @@
     <text>If any holder refuses to permit the holder’s records to be examined, the Mayor may issue a subpoena to compel the holder to testify and produce the records pursuant to § <cite path="§1-301.21">1-301.21</cite>.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 3-160" type="History">Mar. 5, 1981, D.C. Law 3-160, § 130, 27 DCR 5150</annotation>
+    <annotation doc="D.C. Law 3-160" type="History" path="§130">Mar. 5, 1981, D.C. Law 3-160, § 130, 27 DCR 5150</annotation>
     <annotation doc="D.C. Law 4-111" type="History">June 4, 1982, D.C. Law 4-111, § 3(b), 29 DCR 1684</annotation>
     <annotation doc="D.C. Law 9-161" type="History">Sept. 29, 1992, D.C. Law 9-161, § 2(r), 39 DCR 5696</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§41-136">41-136</cite>.</annotation>

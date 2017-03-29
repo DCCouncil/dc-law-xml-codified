@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-3402.08</num>
   <heading>Elderly or disabled tenancy.</heading>
   <para>
@@ -100,7 +101,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 3-86" type="History">Sept. 10, 1980, D.C. Law 3-86, § 208, 27 DCR 2975</annotation>
+    <annotation doc="D.C. Law 3-86" type="History" path="§208">Sept. 10, 1980, D.C. Law 3-86, § 208, 27 DCR 2975</annotation>
     <annotation doc="D.C. Law 3-131" type="History">Mar. 4, 1981, D.C. Law 3-131, § 801(d), 28 DCR 326</annotation>
     <annotation doc="D.C. Law 5-38" type="History">Nov. 5, 1983, D.C. Law 5-38, § 2(e), 30 DCR 4866</annotation>
     <annotation doc="D.C. Law 16-179" type="History">Nov. 16, 2006, D.C. Law 16-179, § 2(d), 53 DCR 6698</annotation>
@@ -109,9 +110,12 @@
     <annotation type="Cross References">Homestead housing preservation, transfers of real estate of elderly tenants, see § <cite path="§42-2107">42-2107</cite>.</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§42-2107">42-2107</cite>, § <cite path="§42-3402.03">42-3402.03</cite>, § <cite path="§42-3402.04">42-3402.04</cite>, and § <cite path="§42-3402.10">42-3402.10</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-1616.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-179">D.C. Law 16-179</cite> rewrote subsec. (a); in subsec. (b), substituted “elderly or disabled” for “elderly”; and rewrote subsec. (c).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-240">D.C. Law 16-240</cite> rewrote subsec. (c)(1)(B)(ii).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-354">D.C. Law 17-354</cite> rewrote subsec. (a)(1), which had read as follows: “(a) Eviction limited.—(1)(A) For the purposes of this subsection, the term ‘qualifying income’ means the applicable percentage for the household size, as set forth in subparagraph (B) of this paragraph, of the area median income for a household of 4 persons for the Washington-Arlington-Alexandria Metropolitan area, as established by the U.S. Department of Housing and Urban Development.”</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 16-179">D.C. Law 16-179</law-cite> rewrote subsec. (a); in subsec. (b), substituted “elderly or disabled” for “elderly”; and rewrote subsec. (c).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 16-240">D.C. Law 16-240</law-cite> rewrote subsec. (c)(1)(B)(ii).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-354">D.C. Law 17-354</law-cite> rewrote subsec. (a)(1), which had read as follows: “(a) Eviction limited.—(1)(A) For the purposes of this subsection, the term ‘qualifying income’ means the applicable percentage for the household size, as set forth in subparagraph (B) of this paragraph, of the area median income for a household of 4 persons for the Washington-Arlington-Alexandria Metropolitan area, as established by the U.S. Department of Housing and Urban Development.”</annotation>
     <annotation type="Mayor's Orders">Declaration of continuing housing crisis: See Mayor’s Order 83-239, October 7, 1983.</annotation>
     <annotation type="Editor's Notes">Reenactment of Law 3-86: See Historical and Statutory Notes following § <cite path="§42-3401.01">42-3401.01</cite>.</annotation>
   </annotations>

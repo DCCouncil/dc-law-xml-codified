@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-511</num>
   <heading>Review of personnel practices.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>On or before March 1, 2012, and every 3 months thereafter until this review is complete, the District of Columbia Department of Human Resources shall report to the Council on the status of this review, the components that have been completed, the components that remain outstanding, and the projected timeline for completion of this project.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-115" type="History">Mar. 14, 2012, D.C. Law 19-115, § 3, 59 DCR 461</annotation>
+    <annotation doc="D.C. Law 19-115" type="History" path="§3">Mar. 14, 2012, D.C. Law 19-115, § 3, 59 DCR 461</annotation>
   </annotations>
 </section>

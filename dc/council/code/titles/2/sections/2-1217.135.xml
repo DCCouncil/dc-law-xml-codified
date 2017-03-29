@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1217.135</num>
   <heading>Bond authorization.</heading>
   <para>
@@ -22,6 +23,6 @@
     <text>The Mayor may pay from the proceeds of the bonds the financing costs and expenses of issuing and delivering the bonds, including, but not limited to, underwriting, legal, accounting, financial advisory, bond insurance or other credit enhancement, marketing and selling the bonds, and printing costs and expenses.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-252" type="History">Oct. 22, 2008, D.C. Law 17-252, § 105, 55 DCR 9251</annotation>
+    <annotation doc="D.C. Law 17-252" type="History" path="§105">Oct. 22, 2008, D.C. Law 17-252, § 105, 55 DCR 9251</annotation>
   </annotations>
 </section>

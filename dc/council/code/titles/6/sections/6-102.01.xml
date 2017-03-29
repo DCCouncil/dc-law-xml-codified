@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>6-102.01</num>
   <heading>“Housing project” and “development” defined.</heading>
   <text>As used in this subchapter:</text>
@@ -11,7 +12,7 @@
     <text>The term “development” shall mean any or all undertakings necessary for planning, financing (including payment of carrying charges), land acquisition, demolition, construction, or equipment, in connection with a housing project, but not beyond the point of physical completion.</text>
   </para>
   <annotations>
-    <annotation type="History">June 12, 1934, ch. 465, title II, § 201</annotation>
+    <annotation type="History" doc="Stat. 73-2-ch465" path="§201">June 12, 1934, ch. 465, title II, § 201</annotation>
     <annotation type="History">June 25, 1938, 52 Stat. 1188, ch. 691, § 5</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§6-102.02">6-102.02</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 5-111.</annotation>

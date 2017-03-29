@@ -1,9 +1,19 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="Pub. L. 104-8">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="Pub. L. 104-8" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>104-8</num>
+  <heading type="long">District of Columbia Financial Responsibility and Management Assistance Act of 1995</heading>
   <meta>
     <effective>1995-04-17</effective>
-    <cites>
-      <law session="104" lawId="8"/>
-    </cites>
+    <citations>
+      <citation type="law">Pub. L. 104-8</citation>
+      <citation type="stat" url="https://www.gpo.gov/fdsys/pkg/STATUTE-109/pdf/STATUTE-109-Pg97.pdf">109 Stat. 97</citation>
+    </citations>
   </meta>
+  <section>
+    <num>303</num>
+    <para>
+      <num>(e)</num>
+      <codified:at doc="D.C. Code" path="§1-301.115b" />
+    </para>
+  </section>
 </document>

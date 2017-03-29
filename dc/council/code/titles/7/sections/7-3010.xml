@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-3010</num>
   <heading>Quality assurance for treatment providers.</heading>
   <text>Prior to implementing the Program, APRA shall:</text>
@@ -15,6 +16,6 @@
     <text>Develop policies, procedures, and instruments to measure qualitative and quantitative outcomes of treatment services.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-146" type="History">July 18, 2000, D.C. Law 13-146, § 11, 47 DCR 4350</annotation>
+    <annotation doc="D.C. Law 13-146" type="History" path="§11">July 18, 2000, D.C. Law 13-146, § 11, 47 DCR 4350</annotation>
   </annotations>
 </section>

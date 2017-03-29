@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-5507</num>
   <heading>Powers and duties of the Mayor.</heading>
   <para>
@@ -34,7 +35,7 @@
     <text>Any final action or order of the Mayor under this chapter shall be subject to judicial review in accordance with § <cite path="§2-510">2-510</cite>.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-51" type="History">Oct. 21, 1993, D.C. Law 10-51, § 8, 40 DCR 6120</annotation>
+    <annotation doc="D.C. Law 10-51" type="History" path="§8">Oct. 21, 1993, D.C. Law 10-51, § 8, 40 DCR 6120</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-5505">31-5505</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-3907.</annotation>
   </annotations>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>22-3902</num>
   <heading>Testing and counseling.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>The result of any HIV test conducted under this section shall not be admissible as evidence of guilt or innocence in any criminal proceeding.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 11-74" type="History">Nov. 11, 1995, D.C. Law 11-74, § 3, 42 DCR 3624</annotation>
+    <annotation doc="D.C. Law 11-74" type="History" path="§3">Nov. 11, 1995, D.C. Law 11-74, § 3, 42 DCR 3624</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 24-492.</annotation>
     <annotation type="Emergency Legislation">For temporary addition of subchapter, see §§ 2 to 4 of the HIV Testing of Certain Criminal Offenders Emergency Act of 1995 (D.C. Act 11-87, July 6, 1995,  42 DCR 3617).</annotation>
   </annotations>

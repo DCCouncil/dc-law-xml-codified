@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>46-353.19</num>
   <heading>Receipt and disbursement of payments.</heading>
   <para>
@@ -22,6 +23,6 @@
     <text>The support enforcement agency of the District receiving redirected payments from another state pursuant to a law similar to subsection (b) of this section shall furnish to a requesting party or tribunal of the other state a certified statement by the custodian of the record of the amount and dates of all payments received.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 21-73" type="History">Feb. 27, 2016, D.C. Law 21-73, § 319, 63 DCR 222</annotation>
+    <annotation doc="D.C. Law 21-73" type="History" path="§319">Feb. 27, 2016, D.C. Law 21-73, § 319, 63 DCR 222</annotation>
   </annotations>
 </section>

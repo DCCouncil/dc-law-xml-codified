@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>49-1101.09</num>
   <heading>Interstate Commission on Educational Opportunity for Military Children.</heading>
   <para>
@@ -145,7 +146,7 @@
     <text>This section shall not be construed to create a private right of action against the Interstate Commission or any member state.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-304" type="History">May 1, 2013, D.C. Law 19-304, § 10, 60 DCR 2717</annotation>
+    <annotation doc="D.C. Law 19-304" type="History" path="§10">May 1, 2013, D.C. Law 19-304, § 10, 60 DCR 2717</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§49-1101.03">49-1101.03</cite> and § <cite path="§49-1101.10">49-1101.10</cite>.</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>4-205.19m</num>
   <heading>Reporting requirements.</heading>
   <text>The Mayor shall report and make public the following performance measures annually:</text>
@@ -139,9 +140,9 @@
     <text>The number of TANF recipients and percentage of the TANF caseload who were not referred to work activities within 6 months and 12 months after a positive eligibility determination.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 4-101" type="History">Apr. 6, 1982, D.C. Law 4-101, § 519m</annotation>
+    <annotation doc="D.C. Law 4-101" type="History" path="§519m">Apr. 6, 1982, D.C. Law 4-101, § 519m</annotation>
     <annotation doc="D.C. Law 18-366" type="History">as added Apr. 8, 2011, D.C. Law 18-366, § 2(d), 58 DCR 981</annotation>
     <annotation doc="D.C. Law 19-171" type="History">Sept. 26, 2012, D.C. Law 19-171, § 32(a), 59 DCR 6190</annotation>
-    <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> validated a previously made technical correction in (2)(A).</annotation>
+    <annotation type="Effect of Amendments">The 2012 amendment by <law-cite doc="D.C. Law 19-171">D.C. Law 19-171</law-cite> validated a previously made technical correction in (2)(A).</annotation>
   </annotations>
 </section>

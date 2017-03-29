@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-1755</num>
   <heading>Manufacturer’s data retention and availability requirements.</heading>
   <para>
@@ -18,6 +19,6 @@
     <text>Any manufacturer who fails to make copies of these reports available within 60 days of receiving a written request shall be subject to a penalty pursuant to § <cite path="§7-1756">7-1756</cite> for each day after the 60th day that the manufacturer does not make the copies available.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-157" type="History">May 13, 2008, D.C. Law 17-157, § 6, 55 DCR 3703</annotation>
+    <annotation doc="D.C. Law 17-157" type="History" path="§6">May 13, 2008, D.C. Law 17-157, § 6, 55 DCR 3703</annotation>
   </annotations>
 </section>

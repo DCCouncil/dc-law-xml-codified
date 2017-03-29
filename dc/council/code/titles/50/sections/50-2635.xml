@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-2635</num>
   <heading>Contractor daytime parking permit.</heading>
   <para>
@@ -50,6 +51,6 @@
     <text>One year from the date that CDP permits are first available for purchase, the Mayor shall transmit a report to the Council evaluating the Program’s performance, including an evaluation of possible abuse of the Program.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-254" type="History">Apr. 20, 2013, D.C. Law 19-254, § 2, 60 DCR 984</annotation>
+    <annotation doc="D.C. Law 19-254" type="History" path="§2">Apr. 20, 2013, D.C. Law 19-254, § 2, 60 DCR 984</annotation>
   </annotations>
 </section>

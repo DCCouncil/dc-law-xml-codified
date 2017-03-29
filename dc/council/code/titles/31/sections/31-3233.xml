@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-3233</num>
   <heading>Regulations.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>The Commissioner may waive the requirements of regulations adopted under subsection (a) of this section for the use of uniform consultation referral forms for an entity that uses the forms solely for internal purposes.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-97" type="History">April 13, 2002, D.C. Law 14-97, § 4, 49 DCR 994</annotation>
+    <annotation doc="D.C. Law 14-97" type="History" path="§4">April 13, 2002, D.C. Law 14-97, § 4, 49 DCR 994</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-3234">31-3234</cite>.</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2809</num>
   <heading>Exceptions.</heading>
   <para>
@@ -30,7 +31,7 @@
     <text>This chapter shall not apply to any alarm system used, operated, or installed in any premises or place owned, leased, occupied, or under the control of the governments of the United States or the District of Columbia, nor to any officer, agent, or employee of either government while acting or employed in his official capacity.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 3-107" type="History">Sept. 26, 1980, D.C. Law 3-107, § 10, 27 DCR 3760</annotation>
+    <annotation doc="D.C. Law 3-107" type="History" path="§10">Sept. 26, 1980, D.C. Law 3-107, § 10, 27 DCR 3760</annotation>
     <annotation doc="D.C. Law 7-99" type="History">Mar. 29, 1988, D.C. Law 7-99, § 2(k), 35 DCR 1051</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-3109.</annotation>
   </annotations>

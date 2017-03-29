@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>10-1102.01a</num>
   <heading>Street festival one-day public space rental.</heading>
   <para>
@@ -54,7 +55,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 90-596" type="History">Oct. 17, 1968, 82 Stat. 1156, Pub. L. 90-596, title II, § 201a</annotation>
+    <annotation doc="Pub. L. 90-596" type="History" path="§201a">Oct. 17, 1968, 82 Stat. 1156, Pub. L. 90-596, title II, § 201a</annotation>
     <annotation doc="D.C. Law 13-258" type="History">as added Apr. 3, 2001, D.C. Law 13-258, § 2, 48 DCR 767</annotation>
   </annotations>
 </section>

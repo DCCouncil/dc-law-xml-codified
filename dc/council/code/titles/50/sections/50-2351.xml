@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-2351</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
@@ -19,6 +20,6 @@
     <text>“Traffic control device” means a traffic signal, traffic sign, electronic traffic sign, pavement marking, or other sign, device, or apparatus designed and installed to direct moving traffic.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-278" type="History">Apr. 23, 2013, D.C. Law 19-278, § 2, 60 DCR 2119</annotation>
+    <annotation doc="D.C. Law 19-278" type="History" path="§2">Apr. 23, 2013, D.C. Law 19-278, § 2, 60 DCR 2119</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>39-304</num>
   <heading>Board of Directors — Established; composition; term of office; nonvoting ex officio members.</heading>
   <para>
@@ -98,7 +99,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 3-79" type="History">July 26, 1980, D.C. Law 3-79, § 5, 27 DCR 2546</annotation>
+    <annotation doc="D.C. Law 3-79" type="History" path="§5">July 26, 1980, D.C. Law 3-79, § 5, 27 DCR 2546</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-2104.</annotation>
   </annotations>
 </section>

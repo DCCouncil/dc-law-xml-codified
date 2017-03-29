@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-2303.11</num>
   <heading>Reconsideration.</heading>
   <para>
@@ -46,7 +47,7 @@
     <text>Failure by a hearing examiner to issue a decision within 180 calendar days after receipt of an application for reconsideration shall be deemed a decision in favor of the applicant.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-104" type="History">Sept. 12, 1978, D.C. Law 2-104, § 311</annotation>
+    <annotation doc="D.C. Law 2-104" type="History" path="§311">Sept. 12, 1978, D.C. Law 2-104, § 311</annotation>
     <annotation doc="D.C. Law 20-127" type="History">as added July 23, 2014, D.C. Law 20-127, § 3(j), 61 DCR 5711</annotation>
   </annotations>
 </section>

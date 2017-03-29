@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-2006</num>
   <heading>Mandatory Control Level Event.</heading>
   <para>
@@ -30,7 +31,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 11-233" type="History">Apr. 9, 1997, D.C. Law 11-233, § 7, 44 DCR 765</annotation>
+    <annotation doc="D.C. Law 11-233" type="History" path="§7">Apr. 9, 1997, D.C. Law 11-233, § 7, 44 DCR 765</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-2013">31-2013</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-4606.</annotation>
   </annotations>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>46-357.06</num>
   <heading>Registration of Convention support order.</heading>
   <para>
@@ -46,6 +47,6 @@
     <text>The tribunal shall promptly notify the parties of the registration or the order vacating the registration of a Convention support order.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 21-73" type="History">Feb. 27, 2016, D.C. Law 21-73, § 706, 63 DCR 222</annotation>
+    <annotation doc="D.C. Law 21-73" type="History" path="§706">Feb. 27, 2016, D.C. Law 21-73, § 706, 63 DCR 222</annotation>
   </annotations>
 </section>

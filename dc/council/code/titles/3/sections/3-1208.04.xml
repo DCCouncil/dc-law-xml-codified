@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>3-1208.04</num>
   <heading>Licensed independent clinical social worker.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>A licensed independent clinical social worker (“L.I.C.S.W.”) may perform any function described as the practice of social work in this chapter, in an autonomous, self-regulated fashion, in an agency setting or independently, and may supervise other persons in the performance of these functions. A licensed independent clinical social worker shall not engage in the practice of medicine and shall refer patience or clients with apparent medical problems to an appropriate and qualified medical practitioner.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-99" type="History">Mar. 25, 1986, D.C. Law 6-99, § 804, 33 DCR 729</annotation>
+    <annotation doc="D.C. Law 6-99" type="History" path="§804">Mar. 25, 1986, D.C. Law 6-99, § 804, 33 DCR 729</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§3-1208.01">3-1208.01</cite>, § <cite path="§3-1208.02">3-1208.02</cite>, and § <cite path="§31-3101">31-3101</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-3308.4.</annotation>
   </annotations>

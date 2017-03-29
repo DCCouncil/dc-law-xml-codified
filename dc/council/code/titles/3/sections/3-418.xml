@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>3-418</num>
   <heading>Prosecutions.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>In order to constitute a violation under this chapter, it shall be necessary to prove in any prosecution or hearing only a single act prohibited by law without proving a general course of conduct.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 5-84" type="History">May 22, 1984, D.C. Law 5-84, § 19, 31 DCR 1815</annotation>
+    <annotation doc="D.C. Law 5-84" type="History" path="§19">May 22, 1984, D.C. Law 5-84, § 19, 31 DCR 1815</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-2818.</annotation>
   </annotations>
 </section>

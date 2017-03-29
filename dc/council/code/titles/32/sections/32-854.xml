@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>32-854</num>
   <heading>Exceptions.</heading>
   <text>The requirements to enter into a labor peace agreement shall not apply to:</text>
@@ -35,8 +36,9 @@
     <text>A development project involving a historically designated building.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-266" type="History">Apr. 2, 2003, D.C. Law 14-266, § 5, 50 DCR 412</annotation>
+    <annotation doc="D.C. Law 14-266" type="History" path="§5">Apr. 2, 2003, D.C. Law 14-266, § 5, 50 DCR 412</annotation>
     <annotation doc="D.C. Law 16-191" type="History">Mar. 2, 2007, D.C. Law 16-191, § 135, 53 DCR 6794</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite> validated previously made technical corrections in the designations of pars. (1) to (8).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 16-191">D.C. Law 16-191</law-cite> validated previously made technical corrections in the designations of pars. (1) to (8).</annotation>
   </annotations>
 </section>

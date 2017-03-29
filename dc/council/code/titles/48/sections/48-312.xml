@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>48-312</num>
   <heading>Establishment and duties of the Food Policy Council.</heading>
   <para>
@@ -34,6 +35,6 @@
     <text>The Food Policy Council may apply for any federal, public, or private grant or funding that would enhance its ability to improve food policy and equity in the District.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-191" type="History">Mar. 10, 2015, D.C. Law 20-191, § 3, 61 DCR 12160</annotation>
+    <annotation doc="D.C. Law 20-191" type="History" path="§3">Mar. 10, 2015, D.C. Law 20-191, § 3, 61 DCR 12160</annotation>
   </annotations>
 </section>

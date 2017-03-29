@@ -1,10 +1,11 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 11-269" flag="true">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="D.C. Law 11-269" flag="true" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">11-269</num>
   <meta>
     <effective>1997-05-22</effective>
-    <cites>
-      <law lawId="269" period="11"/>
-      <register page="6868" vol="43"/>
-    </cites>
+    <citations>
+      <citation type="law">D.C. Law 11-269</citation>
+      <citation type="register">43 DCR 6868</citation>
+    </citations>
   </meta>
 </document>

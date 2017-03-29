@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-1163.17</num>
   <heading>Specific requirements for reports of receipts and expenditures by political committees.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>In the case of reports filed by a political committee on behalf of initiative, referendum, or recall measures under this section, the reports shall be filed on the dates as the Elections Board may by rule prescribe, but in no event shall more than 4 separate reports be required during the consideration of a particular initiative, referendum, or recall measure by any political committee or committees collecting signatures, or supporting or opposing the measures.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-124" type="History">Apr. 27, 2012, D.C. Law 19-124, § 317, 59 DCR 1862</annotation>
+    <annotation doc="D.C. Law 19-124" type="History" path="§317">Apr. 27, 2012, D.C. Law 19-124, § 317, 59 DCR 1862</annotation>
   </annotations>
 </section>

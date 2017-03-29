@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-301.45</num>
   <heading>Construction of terms set forth in acts and resolutions.</heading>
   <text>For the purposes of any act or resolution of the Council of the District of Columbia, unless specifically provided otherwise:</text>
@@ -55,7 +56,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-17" type="History">Sept. 23, 1975, D.C. Law 1-17, § 2, 22 DCR 1990</annotation>
+    <annotation doc="D.C. Law 1-17" type="History" path="§2">Sept. 23, 1975, D.C. Law 1-17, § 2, 22 DCR 1990</annotation>
     <annotation doc="D.C. Law 4-111" type="History">June 4, 1982, D.C. Law 4-111, § 2(b), 29 DCR 1684</annotation>
     <annotation doc="D.C. Law 16-91" type="History">Apr. 7, 2006, D.C. Law 16-91, § 105, 52 DCR 10637</annotation>
     <annotation doc="D.C. Law 17-231" type="History">Sept. 12, 2008, D.C. Law 17-231, § 2, 55 DCR 6758</annotation>
@@ -64,7 +65,9 @@
     <annotation type="Section References">This section is referenced in § <cite path="§9-1115.03">9-1115.03</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-230.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-146a.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-91">D.C. Law 16-91</cite> added par. (10).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-231">D.C. Law 17-231</cite> added par. (11).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 16-91">D.C. Law 16-91</law-cite> added par. (10).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-231">D.C. Law 17-231</law-cite> added par. (11).</annotation>
   </annotations>
 </section>

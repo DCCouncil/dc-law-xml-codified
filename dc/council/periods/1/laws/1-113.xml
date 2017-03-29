@@ -1,10 +1,11 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 1-113">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="D.C. Law 1-113" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">1-113</num>
   <meta>
     <effective>1977-04-07</effective>
-    <cites>
-      <law lawId="113" period="1" url="./docs/1-113.pdf"/>
-      <register page="8742" vol="23"/>
-    </cites>
+    <citations>
+      <citation type="law" url="./docs/1-113.pdf">D.C. Law 1-113</citation>
+      <citation type="register">23 DCR 8742</citation>
+    </citations>
   </meta>
 </document>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-1371.05</num>
   <heading>Prohibited investments.</heading>
   <para>
@@ -66,7 +67,7 @@
     <text>Subsection (a)(3) of this section shall not prohibit a subsidiary or other affiliate of the insurer from becoming a general partner.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-297" type="History">Apr. 11, 2003, D.C. Law 14-297, § 105, 50 DCR 330</annotation>
+    <annotation doc="D.C. Law 14-297" type="History" path="§105">Apr. 11, 2003, D.C. Law 14-297, § 105, 50 DCR 330</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-1371.02">31-1371.02</cite>, § <cite path="§31-1371.06">31-1371.06</cite>, § <cite path="§31-1372.06">31-1372.06</cite>, § <cite path="§31-1372.07">31-1372.07</cite>, § <cite path="§31-1372.12">31-1372.12</cite>, § <cite path="§31-1373.07">31-1373.07</cite>, and § <cite path="§31-1373.08">31-1373.08</cite>.</annotation>
   </annotations>
 </section>

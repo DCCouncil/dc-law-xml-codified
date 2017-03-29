@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>9-1001</num>
   <heading>Findings.</heading>
   <text>The Congress finds that:</text>
@@ -43,7 +44,7 @@
     <text>The federal interest in these airports can be provided through a lease mechanism which provides for local control and operation.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 99-591" type="History">Oct. 30, 1986, 100 Stat. 3341-376, Pub. L. 99-591, § 6002</annotation>
+    <annotation doc="Pub. L. 99-591" type="History" path="§6002">Oct. 30, 1986, 100 Stat. 3341-376, Pub. L. 99-591, § 6002</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 7-1501.</annotation>
     <annotation type="Short Title">Short title: Section 6001 of Pub. L. 99-591 provided that: “This title may be cited as the ‘Metropolitan Washington Airports Act of 1986’.”</annotation>
     <annotation type="References in Text">The “Airline Deregulation Act of 1978,” referred to in paragraph (4), is 92 Stat. 1705, Pub. L. 95-504.</annotation>

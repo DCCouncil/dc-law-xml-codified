@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-1531.18</num>
   <heading>Law governing validity; choice of law as to execution of document of gift; presumption of validity.</heading>
   <para>
@@ -26,7 +27,7 @@
     <text>A person may presume that a document of gift or amendment of an anatomical gift is valid unless that person knows that it was not validly executed or was revoked.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-145" type="History">Apr. 15, 2008, D.C. Law 17-145, § 19, 55 DCR 2532</annotation>
+    <annotation doc="D.C. Law 17-145" type="History" path="§19">Apr. 15, 2008, D.C. Law 17-145, § 19, 55 DCR 2532</annotation>
     <annotation type="Editor's Notes">Uniform Law: This section is based upon § 19 of the Revised Uniform Anatomical Gift Act (2006).</annotation>
   </annotations>
 </section>

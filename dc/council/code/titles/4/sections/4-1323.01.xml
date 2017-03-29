@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>4-1323.01</num>
   <heading>Missing persons.</heading>
   <para>
@@ -26,6 +27,6 @@
     <text>For the purposes of this section, the term “child” means a person who has not attained the age of 18 years.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-276" type="History">May 7, 2015, D.C. Law 20-276, § 5, 62 DCR 479</annotation>
+    <annotation doc="D.C. Law 20-276" type="History" path="§5">May 7, 2015, D.C. Law 20-276, § 5, 62 DCR 479</annotation>
   </annotations>
 </section>

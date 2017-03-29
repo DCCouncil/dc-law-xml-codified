@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>40-301.02</num>
   <heading>Notice.</heading>
   <para>
@@ -91,7 +92,7 @@
     </para>
   </para>
   <annotations>
-    <annotation type="History">Mar. 3, 1901, 31 Stat. 1384, ch. 854, § 1238</annotation>
+    <annotation type="History" doc="Stat. 56-2-ch854" path="§1238">Mar. 3, 1901, 31 Stat. 1384, ch. 854, § 1238</annotation>
     <annotation type="History">June 25, 1936, 49 Stat. 1921, ch. 804</annotation>
     <annotation type="History">June 25, 1948, 62 Stat. 991, ch. 646, § 32(b)</annotation>
     <annotation type="History">May 24, 1949, 63 Stat. 107, ch. 139, § 127</annotation>
@@ -101,9 +102,12 @@
     <annotation doc="D.C. Law 19-138" type="History">June 5, 2012, D.C. Law 19-138, § 2(a), 59 DCR 2553</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 38-102.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 38-102.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-84">D.C. Law 14-84</cite> rewrote the section, which had read:</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 14-84">D.C. Law 14-84</law-cite> rewrote the section, which had read:</annotation>
     <annotation type="Effect of Amendments">“Any such contractor wishing to avail himself of the provision aforesaid, whether his claim be due or not, shall file in the Office of the Recorder of Deeds of the District of Columbia during the construction or within 3 months after the completion of such building, improvement, repairs, or addition, or the placing therein or in connection therewith of any engine, machinery, or other thing so as to become a fixture, a notice of his intention to hold a lien on the property hereby declared liable to such lien for the amount due or to become due to him, specifically setting forth the amount claimed, the name of the party against whose interest a lien is claimed, and a description of the property to be charged, and the said Recorder of Deeds shall file said notice and record the same in a book to be kept for the purpose.”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-31">D.C. Law 16-31</cite> rewrote the section.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-138">D.C. Law 19-138</cite>, in subsec. (a)(1), substituted “during the construction or within 90 days” for “within 90 days”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 16-31">D.C. Law 16-31</law-cite> rewrote the section.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 19-138">D.C. Law 19-138</law-cite>, in subsec. (a)(1), substituted “during the construction or within 90 days” for “within 90 days”.</annotation>
   </annotations>
 </section>

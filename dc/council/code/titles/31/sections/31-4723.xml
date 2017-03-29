@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-4723</num>
   <heading>Industrial life policies — Prohibited provisions.</heading>
   <text>No policy of industrial life insurance shall be delivered or issued for delivery, in the District, if it contains any of the following provisions:</text>
@@ -31,7 +32,7 @@
     <text>A provision that the liability of the company by reason of the insured’s death shall be limited to less than the face amount of the policy if the death of the insured results from a specified kind or character of disease.</text>
   </para>
   <annotations>
-    <annotation type="History">June 19, 1934, ch. 672, ch. V, § 23</annotation>
+    <annotation type="History" doc="Stat. 73-2-ch672" path="§23">June 19, 1934, ch. 672, ch. V, § 23</annotation>
     <annotation type="History">May 8, 1950, 64 Stat. 104, ch. 157, § 7</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-529.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 35-724.</annotation>

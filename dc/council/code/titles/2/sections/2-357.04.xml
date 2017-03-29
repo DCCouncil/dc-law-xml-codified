@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-357.04</num>
   <heading>Other forms of security.</heading>
   <text>Pursuant to rules promulgated under this chapter, the CPO may require a solicitation to include one or more of the following forms of security to assure the timely, faithful, and uninterrupted provision of operations and maintenance services, procured separately or as one element of design-build-operate-maintain or design-build-finance-operate-maintain services:</text>
@@ -15,6 +16,6 @@
     <text>Appropriate written guarantees from the contractor (or depending upon the circumstances, from parent corporations) to secure the recovery of procurement costs to the District in the event of a default in performance by the contractor.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-371" type="History">Apr. 8, 2011, D.C. Law 18-371, § 704, 58 DCR 1185</annotation>
+    <annotation doc="D.C. Law 18-371" type="History" path="§704">Apr. 8, 2011, D.C. Law 18-371, § 704, 58 DCR 1185</annotation>
   </annotations>
 </section>

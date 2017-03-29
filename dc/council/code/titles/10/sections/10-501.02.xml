@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>10-501.02</num>
   <heading>Authority to make rules and regulations.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>The wharfage fee is $25 per day.</text>
   </para>
   <annotations>
-    <annotation type="History">Mar. 3, 1899, 30 Stat. 1378, ch. 458, § 2</annotation>
+    <annotation type="History" doc="Stat. 55-3-ch458" path="§2">Mar. 3, 1899, 30 Stat. 1378, ch. 458, § 2</annotation>
     <annotation type="History">Feb. 22, 1921, 41 Stat. 1144, ch. 70, § 7</annotation>
     <annotation type="History">June 28, 1944, 58 Stat. 533, ch. 300, § 18</annotation>
     <annotation doc="D.C. Law 14-307" type="History">June 5, 2003, D.C. Law 14-307, § 1602, 49 DCR 11664</annotation>
@@ -20,7 +21,8 @@
     <annotation type="Cross References">Rental of fish wharf, see § <cite path="§37-205.01">37-205.01</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 9-102.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 9-102.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-307">D.C. Law 14-307</cite> designated the existing text as subsection (a); and added subsec. (b).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 14-307">D.C. Law 14-307</law-cite> designated the existing text as subsection (a); and added subsec. (b).</annotation>
     <annotation type="Effect of Amendments">Pub. L. 111-8, in subsec. (a), deleted the last sentence, which had read as follows: “ No lease made under the provisions of said § <cite path="§10-501.01">10-501.01</cite> shall extend beyond the period of 10 years.”</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 1602 of Fiscal Year 2003 Budget Support Amendment Emergency Act of 2002 (D.C. Act 14-544, December 4, 2002,  49 DCR 11700).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 1602 of the Fiscal Year 2003 Budget Support Amendment Congressional Review Emergency Act of 2003 (D.C. Act 15-27, February 24, 2003,  50 DCR 2151).</annotation>

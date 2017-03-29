@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-2141</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
@@ -63,6 +64,6 @@
     <text>“Very low-income” means a household income equal to, or less than, 50% of the area median income and greater than 30% of the area median income.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-168" type="History">Sept. 20, 2012, D.C. Law 19-168, § 2092, 59 DCR 8025</annotation>
+    <annotation doc="D.C. Law 19-168" type="History" path="§2092">Sept. 20, 2012, D.C. Law 19-168, § 2092, 59 DCR 8025</annotation>
   </annotations>
 </section>

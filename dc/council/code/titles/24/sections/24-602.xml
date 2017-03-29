@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>24-602</num>
   <heading>Definitions.</heading>
   <text>For purposes of this subchapter:</text>
@@ -23,7 +24,7 @@
     <text>The term “Mayor” means the Mayor of the District of Columbia.</text>
   </para>
   <annotations>
-    <annotation type="History">Aug. 4, 1947, 61 Stat. 744, ch. 472, § 2</annotation>
+    <annotation type="History" doc="Stat. 80-1-ch472" path="§2">Aug. 4, 1947, 61 Stat. 744, ch. 472, § 2</annotation>
     <annotation doc="Pub. L. 90-452" type="History">Aug. 3, 1968, 82 Stat. 618, Pub. L. 90-452, § 3(a)</annotation>
     <annotation doc="Pub. L. 91-358" type="History">July 29, 1970, 84 Stat. 570, Pub. L. 91-358, title I, § 155(a)</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§47-2885.11">47-2885.11</cite>.</annotation>

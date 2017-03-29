@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-3451.05</num>
   <heading>Authorized Control Level Event.</heading>
   <para>
@@ -25,10 +26,11 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-312" type="History">June 18, 2003, D.C. Law 14-312, § 105, 50 DCR 306</annotation>
+    <annotation doc="D.C. Law 14-312" type="History" path="§105">June 18, 2003, D.C. Law 14-312, § 105, 50 DCR 306</annotation>
     <annotation doc="D.C. Law 15-354" type="History">Apr. 13, 2005, D.C. Law 15-354, § 45(b), 52 DCR 2638</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-3451.13">31-3451.13</cite>.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§31-3851.05">31-3851.05</cite>.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in pars. (1) and (2) of subsec. (a), substituted “and” for “or”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 15-354">D.C. Law 15-354</law-cite>, in pars. (1) and (2) of subsec. (a), substituted “and” for “or”.</annotation>
   </annotations>
 </section>

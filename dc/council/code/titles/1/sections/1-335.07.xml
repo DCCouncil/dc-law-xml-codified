@@ -1,8 +1,9 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-335.07</num>
   <heading>Enforcement.</heading>
   <text>The Mayor shall enforce this part and may bring such legal action as is necessary to do so.</text>
   <annotations>
-    <annotation doc="D.C. Law 17-106" type="History">Feb. 2, 2008, D.C. Law 17-106, § 8, 54 DCR 12223</annotation>
+    <annotation doc="D.C. Law 17-106" type="History" path="§8">Feb. 2, 2008, D.C. Law 17-106, § 8, 54 DCR 12223</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-771.04</num>
   <heading>Appointment of Director.</heading>
   <text>The Department shall be headed by a Director, who shall:</text>
@@ -15,6 +16,6 @@
     <text>Serve at the pleasure of the Mayor.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-109" type="History">Feb. 27, 2008, D.C. Law 17-109, § 5, 55 DCR 216</annotation>
+    <annotation doc="D.C. Law 17-109" type="History" path="§5">Feb. 27, 2008, D.C. Law 17-109, § 5, 55 DCR 216</annotation>
   </annotations>
 </section>

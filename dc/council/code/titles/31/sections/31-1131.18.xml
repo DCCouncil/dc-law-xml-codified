@@ -1,10 +1,12 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-1131.18</num>
   <heading>Regulations.</heading>
   <text>The Commissioner may promulgate rules and regulations necessary or appropriate to implement the provisions of this chapter.</text>
   <annotations>
-    <annotation doc="D.C. Law 14-264" type="History">Mar. 27, 2003, D.C. Law 14-264, § 18, 50 DCR 260</annotation>
+    <annotation doc="D.C. Law 14-264" type="History" path="§18">Mar. 27, 2003, D.C. Law 14-264, § 18, 50 DCR 260</annotation>
     <annotation doc="D.C. Law 17-155" type="History">May 13, 2008, D.C. Law 17-155, § 2(n), 55 DCR 3683</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-155">D.C. Law 17-155</cite> substituted “necessary or appropriate” for “necessary”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-155">D.C. Law 17-155</law-cite> substituted “necessary or appropriate” for “necessary”.</annotation>
   </annotations>
 </section>

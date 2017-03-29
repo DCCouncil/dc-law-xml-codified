@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>22-3225.14</num>
   <heading>Prohibition of solicitation.</heading>
   <para>
@@ -52,7 +53,7 @@
     <text>The provisions of this section are not severable.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 4-164" type="History">Dec. 1, 1982, D.C. Law 4-164, § 125n</annotation>
+    <annotation doc="D.C. Law 4-164" type="History" path="§125n">Dec. 1, 1982, D.C. Law 4-164, § 125n</annotation>
     <annotation doc="D.C. Law 16-144" type="History">as added July 25, 2006, D.C. Law 16-144, § 2(f), 53 DCR 2838</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§50-1401.01b">50-1401.01b</cite>.</annotation>
   </annotations>

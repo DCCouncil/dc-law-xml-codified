@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-1772.02</num>
   <heading>Commercial property energy conservation.</heading>
   <text>A commercial property shall keep exterior doors and windows closed when an air conditioner that cools the adjacent area is in operation, except:</text>
@@ -19,7 +20,7 @@
     <text>When a commercial property implements an alternative strategy authorized by the Mayor through regulation as a reasonably equivalent means of conserving energy.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-252" type="History">Mar. 19, 2013, D.C. Law 19-252, § 202, 59 DCR 14932</annotation>
+    <annotation doc="D.C. Law 19-252" type="History" path="§202">Mar. 19, 2013, D.C. Law 19-252, § 202, 59 DCR 14932</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§8-1772.03">8-1772.03</cite>.</annotation>
   </annotations>
 </section>

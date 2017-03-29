@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-1331.03</num>
   <heading>Duty to notify lessors, purchasers, Department, of Flood Vehicle Status.</heading>
   <para>
@@ -18,6 +19,6 @@
     <text>A lessee of a vehicle that becomes a Flood Vehicle shall, within 30 days of the damage, give the lessor written notice that the vehicle is a Flood Vehicle.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-307" type="History">Apr. 8, 2005, D.C. Law 15-307, § 103, 52 DCR 1700</annotation>
+    <annotation doc="D.C. Law 15-307" type="History" path="§103">Apr. 8, 2005, D.C. Law 15-307, § 103, 52 DCR 1700</annotation>
   </annotations>
 </section>

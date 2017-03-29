@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-2851.07</num>
   <heading>Penalties for noncompliance.</heading>
   <para>
@@ -14,6 +15,6 @@
     <text>The Mayor may commence enforcement proceedings for any fine not paid within the time period set forth in regulations.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-114" type="History">Apr. 19, 2002, D.C. Law 14-114, § 207, 49 DCR 1468</annotation>
+    <annotation doc="D.C. Law 14-114" type="History" path="§207">Apr. 19, 2002, D.C. Law 14-114, § 207, 49 DCR 1468</annotation>
   </annotations>
 </section>

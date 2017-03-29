@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-4401</num>
   <heading>Formation — Required contents of articles of incorporation.</heading>
   <text>Any 7 or more persons who desire to become incorporated as an insurance company shall make, sign, and acknowledge articles of incorporation before an officer authorized to take acknowledgment of deeds, in which shall be stated:</text>
@@ -39,7 +40,7 @@
     <text>Such other particulars as may be necessary to manifest and explain the objects and purposes of the company.</text>
   </para>
   <annotations>
-    <annotation type="History">June 19, 1934, 48 Stat. 1143, ch. 672, ch. III, § 1</annotation>
+    <annotation type="History" doc="Stat. 73-2-ch672" path="§1">June 19, 1934, 48 Stat. 1143, ch. 672, ch. III, § 1</annotation>
     <annotation type="Cross References">Health and accident companies, see § <cite path="§31-5202">31-5202</cite>.</annotation>
     <annotation type="Cross References">Hospital and medical services corporations, applicability of this section, see § <cite path="§31-3503">31-3503</cite>.</annotation>
     <annotation type="Cross References">Prohibition against assessment companies, see § <cite path="§31-4331">31-4331</cite>.</annotation>

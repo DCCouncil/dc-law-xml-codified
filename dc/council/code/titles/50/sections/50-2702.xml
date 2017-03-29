@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-2702</num>
   <heading>Removal of abandoned, accident, or recovered stolen vehicles by private tow companies; notice of removal.</heading>
   <para>
@@ -54,7 +55,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 16-139" type="History">June 22, 2006, D.C. Law 16-139, § 3, 53 DCR 3682</annotation>
+    <annotation doc="D.C. Law 16-139" type="History" path="§3">June 22, 2006, D.C. Law 16-139, § 3, 53 DCR 3682</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§50-2703">50-2703</cite> and § <cite path="§50-2708">50-2708</cite>.</annotation>
   </annotations>
 </section>

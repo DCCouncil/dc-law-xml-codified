@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-633</num>
   <heading>Confidentiality.</heading>
   <para>
@@ -38,6 +39,6 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-143" type="History">June 20, 2012, D.C. Law 19-143, § 103, 59 DCR 4069</annotation>
+    <annotation doc="D.C. Law 19-143" type="History" path="§103">June 20, 2012, D.C. Law 19-143, § 103, 59 DCR 4069</annotation>
   </annotations>
 </section>

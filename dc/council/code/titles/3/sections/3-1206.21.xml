@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>3-1206.21</num>
   <heading>Scope of practice.</heading>
   <para>
@@ -58,7 +59,7 @@
     <text>An individual licensed to practice naturopathic medicine under this chapter may use the titles “Doctor of Naturopathic Medicine”, “Naturopathic Physician”, “Licensed Naturopath”, “Naturopathic Doctor”, “Doctor of Naturopathy”, “Naturopath”, or the initials “ND” or an “NMD”.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-99" type="History">Mar. 25, 1986, D.C. Law 6-99, § 621</annotation>
+    <annotation doc="D.C. Law 6-99" type="History" path="§621">Mar. 25, 1986, D.C. Law 6-99, § 621</annotation>
     <annotation doc="D.C. Law 15-172" type="History">as added July 8, 2004, D.C. Law 15-172, § 2(g), 51 DCR 4938</annotation>
   </annotations>
 </section>

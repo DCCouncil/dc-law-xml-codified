@@ -1,10 +1,11 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Repealed</reason>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>3-1716</num>
+  <reason>Repealed</reason>
   <heading>Persons exempt from chapter</heading>
   <text>Repealed.</text>
   <annotations>
-    <annotation doc="D.C. Law 9-245" type="History">Mar. 17, 1993, D.C. Law 9-245, § 38(a), 40 DCR 660</annotation>
+    <annotation doc="D.C. Law 9-245" type="History" path="§38|(a)">Mar. 17, 1993, D.C. Law 9-245, § 38(a), 40 DCR 660</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-401 to 2-419.</annotation>
   </annotations>
 </section>

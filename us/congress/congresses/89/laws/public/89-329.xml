@@ -1,9 +1,21 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="Pub. L. 89-329">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="Pub. L. 89-329" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>89-329</num>
+  <heading type="long">An Act to strengthen the educational resources of our colleges and universities and to provide financial assistance for students in post-secondary and higher education</heading>
   <meta>
     <effective>1965-11-08</effective>
-    <cites>
-      <law session="89" lawId="329"/>
-    </cites>
+    <citations>
+      <citation type="law">Pub. L. 89-329</citation>
+      <citation type="stat" url="https://www.gpo.gov/fdsys/pkg/STATUTE-79/pdf/STATUTE-79-Pg1219.pdf">79 Stat. 1219</citation>
+    </citations>
   </meta>
+  <container>
+    <prefix>Title</prefix>
+    <num>IV</num>
+    <heading />
+    <section>
+      <num>436</num>
+      <codified:at doc="D.C. Code" path="§1-307.01" />
+    </section>
+  </container>
 </document>

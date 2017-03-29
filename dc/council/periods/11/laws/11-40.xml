@@ -1,12 +1,13 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 11-40">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="D.C. Law 11-40" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">11-40</num>
   <heading type="short">PUBLIC ACCOUNTANCY AMENDMENT ACT OF 1995</heading>
   <meta>
     <effective>1995-09-08</effective>
-    <cites>
-      <law lawId="40" period="11" url="./docs/11-40.pdf"/>
-      <register page="3275" vol="42"/>
-    </cites>
-    <history url="http://lims.dccouncil.us/Legislation/B11-0055"/>
+    <citations>
+      <citation type="law" url="./docs/11-40.pdf">D.C. Law 11-40</citation>
+      <citation type="register">42 DCR 3275</citation>
+    </citations>
+    <history url="http://lims.dccouncil.us/Legislation/B11-0055" />
   </meta>
 </document>

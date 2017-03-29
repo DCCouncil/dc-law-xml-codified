@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-403</num>
   <heading>Seeking health care for an overdose victim.</heading>
   <para>
@@ -158,8 +159,8 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 89-341" type="History">Nov. 8, 1965, 79 Stat. 1302, Pub. L. 89-341, § 3</annotation>
+    <annotation doc="Pub. L. 89-341" type="History" path="§3">Nov. 8, 1965, 79 Stat. 1302, Pub. L. 89-341, § 3</annotation>
     <annotation doc="D.C. Law 19-243" type="History">as added Mar. 19, 2013, D.C. Law 19-243, § 2, 59 DCR 14938</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-243">D.C. Law 19-243</cite> added this section.</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <law-cite doc="D.C. Law 19-243">D.C. Law 19-243</law-cite> added this section.</annotation>
   </annotations>
 </section>

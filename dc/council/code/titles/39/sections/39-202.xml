@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>39-202</num>
   <heading>Definitions.</heading>
   <text>As used in this chapter:</text>
@@ -31,7 +32,7 @@
     <text>The term “Fund” means the Arts and Humanities Enterprise Fund established by § <cite path="§39-205.01">39-205.01</cite>.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-22" type="History">Oct. 21, 1975, D.C. Law 1-22, § 3, 22 DCR 2083</annotation>
+    <annotation doc="D.C. Law 1-22" type="History" path="§3">Oct. 21, 1975, D.C. Law 1-22, § 3, 22 DCR 2083</annotation>
     <annotation doc="D.C. Law 6-125" type="History">June 25, 1986, D.C. Law 6-125, § 2(a), 33 DCR 2945</annotation>
     <annotation doc="D.C. Law 12-42" type="History">Jan. 29, 1998, D.C. Law 12-42, § 2(a), 44 DCR 5577</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-2002.</annotation>

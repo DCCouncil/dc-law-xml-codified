@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-151.14</num>
   <heading>Compilation of laws, regulations, and rules.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>The compilation, including any supplements or revisions, shall be made available to the public at a price fixed by the Mayor.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 16-51" type="History">Feb. 15, 2006, D.C. Law 16-51, § 114, 52 DCR 10812</annotation>
+    <annotation doc="D.C. Law 16-51" type="History" path="§114">Feb. 15, 2006, D.C. Law 16-51, § 114, 52 DCR 10812</annotation>
   </annotations>
 </section>

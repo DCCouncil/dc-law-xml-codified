@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-1101</num>
   <heading>Definitions.</heading>
   <text>For purposes of this chapter, the term:</text>
@@ -55,7 +56,7 @@
     <text>“Solid waste” means garbage, refuse, and sludge from a waste treatment plant, water supply treatment plant, or air pollution control facility, and other waste products, including solid, liquid, semisolid, or contained gaseous material resulting from industrial, commercial, government operations, and from community activities.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 7-19" type="History">July 25, 1987, D.C. Law 7-19, § 2, 34 DCR 3810</annotation>
+    <annotation doc="D.C. Law 7-19" type="History" path="§2">July 25, 1987, D.C. Law 7-19, § 2, 34 DCR 3810</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-3201.</annotation>
   </annotations>
 </section>

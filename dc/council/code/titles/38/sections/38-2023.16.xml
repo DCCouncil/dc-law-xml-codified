@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-2023.16</num>
   <heading>Tax-sheltered annuity program.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>This section shall apply with respect to any pay period of any teacher or school officer beginning on or after the 180th day after April 26, 1972.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 92-281" type="History">Apr. 26, 1972, 86 Stat. 131, Pub. L. 92-281, §§ 1 to 4</annotation>
+    <annotation doc="Pub. L. 92-281" type="History" path="">Apr. 26, 1972, 86 Stat. 131, Pub. L. 92-281, §§ 1 to 4</annotation>
     <annotation doc="D.C. Law 7-231" type="History">May 10, 1989, D.C. Law 7-231, § 35, 36 DCR 492</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-1252.</annotation>
     <annotation type="Prior Codifications">1973 Ed. § 31-746.</annotation>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-1803</num>
   <heading>Required contract provisions; reinsurance intermediary-brokers.</heading>
   <text>Transactions between a reinsurance broker and the insurer it represents shall only be entered into pursuant to a written authorization, specifying the responsibilities of each party. The authorization shall, at a minimum, provide that:</text>
@@ -27,7 +28,7 @@
     <text>The reinsurance broker will disclose to the insurer any relationship with any reinsurer to which business will be ceded or retroceded.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-47" type="History">Oct. 21, 1993, D.C. Law 10-47, § 4, 40 DCR 6093</annotation>
+    <annotation doc="D.C. Law 10-47" type="History" path="§4">Oct. 21, 1993, D.C. Law 10-47, § 4, 40 DCR 6093</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-3103.</annotation>
   </annotations>
 </section>

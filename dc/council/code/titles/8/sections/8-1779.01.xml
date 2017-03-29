@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-1779.01</num>
   <heading>Submission of state energy plans to Council prior to filing with federal agency.</heading>
   <text>The Mayor shall submit, on an annual basis, all federally required state energy plans and modifications of approved state energy plans for the following energy programs to the Council of the District of Columbia (“Council”) for its review and approval prior to submission to the federal agency administering the program:</text>
@@ -23,7 +24,7 @@
     <text>The home energy assistance program for low-income persons authorized by 42 U.S.C. § 8621 et seq.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-173" type="History">Feb. 24, 1987, D.C. Law 6-173, § 2, 33 DCR 7224</annotation>
+    <annotation doc="D.C. Law 6-173" type="History" path="§2">Feb. 24, 1987, D.C. Law 6-173, § 2, 33 DCR 7224</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-911">2-911</cite> and § <cite path="§8-1779.02">8-1779.02</cite>.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§2-911">2-911</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-1911.</annotation>

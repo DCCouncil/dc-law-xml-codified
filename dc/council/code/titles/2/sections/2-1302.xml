@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1302</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
@@ -27,7 +28,7 @@
     <text>“Council” means the Council of the District of Columbia.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-86" type="History">Sept. 29, 1976, D.C. Law 1-86, title II, § 201, 23 DCR 2543</annotation>
+    <annotation doc="D.C. Law 1-86" type="History" path="§201">Sept. 29, 1976, D.C. Law 1-86, title II, § 201, 23 DCR 2543</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-2302.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 6-1902.</annotation>
   </annotations>

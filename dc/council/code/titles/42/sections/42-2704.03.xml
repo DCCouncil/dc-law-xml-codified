@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-2704.03</num>
   <heading>Terms for sale of bonds and notes; effect of resolution authorizing sale; pledge of agency and lien thereon; signature valid after officeholder vacates.</heading>
   <para>
@@ -107,7 +108,7 @@
     <text>The signature of any officer of the Agency which appears on a bond or note remains valid if that person ceases to hold that office.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-135" type="History">Mar. 3, 1979, D.C. Law 2-135, § 403, 25 DCR 5008</annotation>
+    <annotation doc="D.C. Law 2-135" type="History" path="§403">Mar. 3, 1979, D.C. Law 2-135, § 403, 25 DCR 5008</annotation>
     <annotation doc="D.C. Law 4-28" type="History">Aug. 5, 1981, D.C. Law 4-28, § 2(s), 28 DCR 2848</annotation>
     <annotation doc="D.C. Law 12-247" type="History">Apr. 20, 1999, D.C. Law 12-247, § 2(p), 46 DCR 1100</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-2133.</annotation>

@@ -1,9 +1,17 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="Pub. L. 92-342">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="Pub. L. 92-342" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>92-342</num>
+  <heading type="long">An Act making appropriations for the legislative branch for the fiscal year ending June 30, 1973, and for other purposes</heading>
   <meta>
     <effective>1972-07-10</effective>
-    <cites>
-      <law session="92" lawId="342"/>
-    </cites>
+    <citations>
+      <citation type="law">Pub. L. 92-342</citation>
+      <citation type="stat" url="https://www.gpo.gov/fdsys/pkg/STATUTE-86/pdf/STATUTE-86-Pg432-2.pdf">86 Stat. 432</citation>
+    </citations>
   </meta>
+  <section>
+    <num>101</num>
+    <codified:at doc="D.C. Code" path="§10-505.01" />
+    <codified:at doc="D.C. Code" path="§38-152" />
+  </section>
 </document>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>9-1005</num>
   <heading>Capital improvements, construction, and rehabilitation.</heading>
   <para>
@@ -18,7 +19,7 @@
     <text>The Secretary shall assist the 3 airports serving the Washington, D.C. metropolitan area in planning for operational and capital improvements at those airports and shall accelerate consideration of applications for federal financial assistance by whichever of the 3 airports is most in need of increasing airside capacity.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 99-591" type="History">Oct. 30, 1986, 100 Stat. 3341-376, Pub. L. 99-591, § 6006</annotation>
+    <annotation doc="Pub. L. 99-591" type="History" path="§6006">Oct. 30, 1986, 100 Stat. 3341-376, Pub. L. 99-591, § 6006</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 7-1505.</annotation>
     <annotation type="Short Title">Short title: See Historical and Statutory Notes following § <cite path="§9-1001">9-1001</cite>.</annotation>
   </annotations>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-632.03</num>
   <heading>Liability of a non-responsible person.</heading>
   <para>
@@ -14,9 +15,10 @@
     <text>A non-responsible person shall be liable for new contamination that the person causes or contributes to, and any exacerbation of existing contamination at the eligible property.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-312" type="History">June 13, 2001, D.C. Law 13-312, § 203, 48 DCR 3804</annotation>
+    <annotation doc="D.C. Law 13-312" type="History" path="§203">June 13, 2001, D.C. Law 13-312, § 203, 48 DCR 3804</annotation>
     <annotation doc="D.C. Law 18-369" type="History">Apr. 8, 2011, D.C. Law 18-369, § 2(a), 58 DCR 996</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-369">D.C. Law 18-369</cite> substituted “DDOE” for “EHA” wherever it appeared.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 18-369">D.C. Law 18-369</law-cite> substituted “DDOE” for “EHA” wherever it appeared.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(a) of Brownfield Revitalization Emergency Amendment Act of 2010 (D.C. Act 18-667, December 28, 2010,  58 DCR 95).</annotation>
   </annotations>
 </section>

@@ -1,8 +1,9 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>26-1025</num>
   <heading>Consent to jurisdiction.</heading>
   <text>Any licensee, authorized delegate, or other person who knowingly engages in business activities that are regulated under this chapter, with or without filing an application, is deemed to have consented to the jurisdiction of the courts of the District of Columbia for all actions arising under this chapter.</text>
   <annotations>
-    <annotation doc="D.C. Law 13-140" type="History">July 18, 2000, D.C. Law 13-140, § 26, 47 DCR 3431</annotation>
+    <annotation doc="D.C. Law 13-140" type="History" path="§26">July 18, 2000, D.C. Law 13-140, § 26, 47 DCR 3431</annotation>
   </annotations>
 </section>

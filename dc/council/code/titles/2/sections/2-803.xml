@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-803</num>
   <heading>Use of reservations, grounds, and public spaces.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>The Inaugural Committee shall indemnify and save harmless the District of Columbia and the appropriate department, agency, or instrumentality of the United States Government against any loss or damage to, and against any liability arising from the use of, the reservation, ground, or public space, by the Inaugural Committee or a licensee of the Inaugural Committee.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 105-225" type="History">Aug. 12, 1998, 112 Stat. 1264, Pub. L. 105-225, § 503</annotation>
+    <annotation doc="Pub. L. 105-225" type="History" path="§503">Aug. 12, 1998, 112 Stat. 1264, Pub. L. 105-225, § 503</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-1053.</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>36-302.05</num>
   <heading>Violations; notice, order, injunction, and penalties.</heading>
   <para>
@@ -14,11 +15,12 @@
     <text>Civil fines, penalties, and fees may be imposed as alternative sanctions for any infraction of the provisions of this subchapter or § <cite path="§36-304.01">36-304.01</cite>, or any rules or regulations issued under the authority of those sections, pursuant to Chapter 18 of Title 2. Adjudication of any infraction shall be pursuant to Chapter 18 of Title 2.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-123" type="History">Apr. 19, 1977, D.C. Law 1-123, § 3-105, 24 DCR 2371</annotation>
+    <annotation doc="D.C. Law 1-123" type="History" path="§3-105">Apr. 19, 1977, D.C. Law 1-123, § 3-105, 24 DCR 2371</annotation>
     <annotation doc="D.C. Law 6-42" type="History">Oct. 5, 1985, D.C. Law 6-42, § 419, 32 DCR 4450</annotation>
     <annotation doc="D.C. Law 15-297" type="History">Apr. 8, 2005, D.C. Law 15-297, § 2(c), 52 DCR 1485</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 10-215.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 10-215.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-297">D.C. Law 15-297</cite>, in subsec. (b), substituted “$1,000” for “$300”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 15-297">D.C. Law 15-297</law-cite>, in subsec. (b), substituted “$1,000” for “$300”.</annotation>
   </annotations>
 </section>

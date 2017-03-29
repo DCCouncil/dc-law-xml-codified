@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>26-1027</num>
   <heading>Receipts.</heading>
   <para>
@@ -26,7 +27,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-140" type="History">July 18, 2000, D.C. Law 13-140, § 27a</annotation>
+    <annotation doc="D.C. Law 13-140" type="History" path="§27a">July 18, 2000, D.C. Law 13-140, § 27a</annotation>
     <annotation doc="D.C. Law 18-315" type="History">as added Mar. 12, 2011, D.C. Law 18-315, § 3, 57 DCR 12412</annotation>
   </annotations>
 </section>

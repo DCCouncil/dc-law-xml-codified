@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>26-551.16</num>
   <heading>Cease and desist order.</heading>
   <para>
@@ -42,6 +43,6 @@
     <text>In addition to, or instead of, issuing a final cease and desist order, the Commissioner may enter into an informal enforcement action, such as a supervisory agreement or memorandum of understanding, with the financial institution.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-308" type="History">June 9, 2001, D.C. Law 13-308, § 116, 48 DCR 3244</annotation>
+    <annotation doc="D.C. Law 13-308" type="History" path="§116">June 9, 2001, D.C. Law 13-308, § 116, 48 DCR 3244</annotation>
   </annotations>
 </section>

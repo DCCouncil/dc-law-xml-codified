@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-1301.68</num>
   <heading>Cancellation of certificate; waiver of filing proof.</heading>
   <text>The Mayor shall upon request consent to the immediate cancellation of any certificate of insurance, or the Mayor shall waive the requirements of filing proof, in any of the following events:</text>
@@ -11,7 +12,7 @@
     <text>In the event the person who has given proof surrenders his license and registration to the Mayor.</text>
   </para>
   <annotations>
-    <annotation type="History">May 25, 1954, 68 Stat. 137, ch. 222, § 68</annotation>
+    <annotation type="History" doc="Stat. 83-2-ch222" path="§68">May 25, 1954, 68 Stat. 137, ch. 222, § 68</annotation>
     <annotation doc="D.C. Law 4-155" type="History">Sept. 18, 1982, D.C. Law 4-155,§ 14(c)(5), 29 DCR 3491</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§50-1301.82">50-1301.82</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-468.</annotation>

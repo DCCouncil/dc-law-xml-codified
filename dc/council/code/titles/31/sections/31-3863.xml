@@ -1,8 +1,9 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-3863</num>
   <heading>Medicaid reimbursement.</heading>
   <text>Medicaid shall cover and reimburse for healthcare services appropriately delivered through telehealth if the same services would be covered when delivered in person.</text>
   <annotations>
-    <annotation doc="D.C. Law 20-26" type="History">Oct. 17, 2013, D.C. Law 20-26, § 4, 60 DCR 11117</annotation>
+    <annotation doc="D.C. Law 20-26" type="History" path="§4">Oct. 17, 2013, D.C. Law 20-26, § 4, 60 DCR 11117</annotation>
   </annotations>
 </section>

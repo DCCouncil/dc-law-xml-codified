@@ -1,9 +1,10 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="Pub. L. 114-118">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="Pub. L. 114-118" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>114-118</num>
   <meta>
     <effective>2016-01-28</effective>
-    <cites>
-      <law session="114" lawId="118"/>
-    </cites>
+    <citations>
+      <citation type="law">Pub. L. 114-118</citation>
+    </citations>
   </meta>
 </document>

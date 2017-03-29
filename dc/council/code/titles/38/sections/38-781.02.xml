@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-781.02</num>
   <heading>Student retention and promotion.</heading>
   <para>
@@ -41,6 +42,6 @@
     <text>The Chancellor may develop separate promotion criteria for students who are enrolled in an English language learner program or receive special education services.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-84" type="History">Feb. 22, 2014, D.C. Law 20-84, § 203, 61 DCR 178</annotation>
+    <annotation doc="D.C. Law 20-84" type="History" path="§203">Feb. 22, 2014, D.C. Law 20-84, § 203, 61 DCR 178</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-102</num>
   <heading>Insurance, inspection, and registration required.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>Any motor vehicle used for food delivery service, but not required to be registered in the District of Columbia under subchapter I of Chapter 15 of this title, shall be inspected annually pursuant to Chapter 6 of Title 18 of the District of Columbia Municipal Regulations. For this inspection, the Mayor shall prescribe an annual inspection fee of not less than $25, to be collected in the same manner as prescribed for motor vehicles registered in the District.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 8-162" type="History">Sept. 20, 1990, D.C. Law 8-162, § 3, 37 DCR 4671</annotation>
+    <annotation doc="D.C. Law 8-162" type="History" path="§3">Sept. 20, 1990, D.C. Law 8-162, § 3, 37 DCR 4671</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-1902.</annotation>
   </annotations>
 </section>

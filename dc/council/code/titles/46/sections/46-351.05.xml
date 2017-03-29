@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>46-351.05</num>
   <heading>Application of chapter to resident of foreign country and foreign support proceeding.</heading>
   <para>
@@ -26,6 +27,6 @@
     <text>Subchapter VII of this chapter [§ <cite path="§46-357.01">46-357.01</cite> et seq.] applies only to a support proceeding under the Convention. In such a proceeding, if a provision of subchapter VII of this chapter [§ <cite path="§46-357.01">46-357.01</cite> et seq.] is inconsistent with subchapters I through VI of this chapter [§§ <cite path="§46-351.01">46-351.01</cite>  through § <cite path="§46-356.16">46-356.16</cite>], subchapter VII [§ <cite path="§46-357.01">46-357.01</cite> et seq.] controls.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 21-73" type="History">Feb. 27, 2016, D.C. Law 21-73, §  105, 63 DCR 222</annotation>
+    <annotation doc="D.C. Law 21-73" type="History" path="§105">Feb. 27, 2016, D.C. Law 21-73, §  105, 63 DCR 222</annotation>
   </annotations>
 </section>

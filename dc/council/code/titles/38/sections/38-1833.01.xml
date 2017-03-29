@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-1833.01</num>
   <heading>Office of Public Charter School Financing and Support.</heading>
   <para>
@@ -26,7 +27,7 @@
     <text>The functions described in subsection (b) of this section may be provided by the Office directly or under contract with a qualified provider.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 108-7" type="History">Feb. 20, 2003, 117 Stat. 130, Pub. L. 108-7, § 143(a)</annotation>
+    <annotation doc="Pub. L. 108-7" type="History" path="§143|(a)">Feb. 20, 2003, 117 Stat. 130, Pub. L. 108-7, § 143(a)</annotation>
     <annotation doc="Pub. L. 108-335" type="History">Oct. 18, 2004, 118 Stat. 1348, Pub. L. 108-335, § 340(b)</annotation>
     <annotation type="Effect of Amendments">Pub. L. 108-335, in subsec. (a), substituted “under the authority of the Mayor” for “under the authority of the Department of Banking and Financial Institutions”.</annotation>
   </annotations>

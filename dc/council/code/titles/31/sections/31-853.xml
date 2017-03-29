@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-853</num>
   <heading>Privilege.</heading>
   <para>
@@ -37,7 +38,7 @@
     <text>The privilege shall not apply to the extent that it is expressly waived by the company that prepared, or caused to be prepared, the insurance compliance self-evaluative audit document.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-293" type="History">Apr. 11, 2003, D.C. Law 14-293, § 4, 50 DCR 296</annotation>
+    <annotation doc="D.C. Law 14-293" type="History" path="§4">Apr. 11, 2003, D.C. Law 14-293, § 4, 50 DCR 296</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-851">31-851</cite>.</annotation>
   </annotations>
 </section>

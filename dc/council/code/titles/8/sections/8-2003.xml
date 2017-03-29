@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-2003</num>
   <heading>Examination of horses.</heading>
   <para>
@@ -34,7 +35,7 @@
     <text>The examination shall include a certification from the licensed veterinarian that the horse is physically fit to engage in the horse-drawn carriage trade and is free of any disease or internal parasites. The certification shall be entered on the identification card provided for in § <cite path="§8-2005">8-2005</cite> [§ <cite path="§8-2004">8-2004</cite>].</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 8-224" type="History">Mar. 7, 1991, D.C. Law 8-224, § 4, 38 DCR 207</annotation>
+    <annotation doc="D.C. Law 8-224" type="History" path="§4">Mar. 7, 1991, D.C. Law 8-224, § 4, 38 DCR 207</annotation>
     <annotation doc="D.C. Law 10-68" type="History">Feb. 5, 1994, D.C. Law 10-68, § 16(a), 40 DCR 6311</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-1033.</annotation>
   </annotations>

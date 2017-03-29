@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-302</num>
   <heading>Tuition required of nonresidents; deposit of payments.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>Notwithstanding the provisions of subsection (a) of this section, a child in the care and custody of the District pursuant to § <cite path="§16-2320">16-2320</cite>(a)(3) who, while attending a DCPS or public charter school, ceases to be in that care and custody as a result of being placed in the permanent care and custody of a parent, guardian, or custodian who resides outside the District of Columbia shall be considered a resident of the District of Columbia for the purpose of school attendance and shall be exempt from the requirement to pay tuition for the period of time until the child completes the educational program offered at the school the child currently attends.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 86-725" type="History">Sept. 8, 1960, 74 Stat. 853, Pub. L. 86-725, § 2</annotation>
+    <annotation doc="Pub. L. 86-725" type="History" path="§2">Sept. 8, 1960, 74 Stat. 853, Pub. L. 86-725, § 2</annotation>
     <annotation doc="D.C. Law 3-82" type="History">Aug. 22, 1980, D.C. Law 3-82, § 2(a), (b), 27 DCR 2647</annotation>
     <annotation doc="D.C. Law 13-176" type="History">Oct. 21, 2000, D.C. Law 13-176, § 8(a), 47 DCR 6835</annotation>
     <annotation doc="D.C. Law 15-105" type="History">Mar. 13, 2004, D.C. Law 15-105, § 92, 51 DCR 881</annotation>
@@ -34,13 +35,17 @@
     <annotation type="Section References">This section is referenced in § <cite path="§38-303">38-303</cite>, § <cite path="§38-306">38-306</cite>, § <cite path="§38-1800.02">38-1800.02</cite>, § <cite path="§38-2602">38-2602</cite>, and § <cite path="§38-2901">38-2901</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-602.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 31-307.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-176">D.C. Law 13-176</cite> authorized substitution of State Education Office for Board of Education where appearing in this section.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsecs. (b) and (c), substituted “State Education Office” for “Board” throughout.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, in subsec. (a), substituted “parent, guardian, custodian, or other primary caregiver” for “parent or guardian”; and rewrote subsec. (b) which had read:</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 13-176">D.C. Law 13-176</law-cite> authorized substitution of State Education Office for Board of Education where appearing in this section.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 15-105">D.C. Law 15-105</law-cite>, in subsecs. (b) and (c), substituted “State Education Office” for “Board” throughout.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 15-205">D.C. Law 15-205</law-cite>, in subsec. (a), substituted “parent, guardian, custodian, or other primary caregiver” for “parent or guardian”; and rewrote subsec. (b) which had read:</annotation>
     <annotation type="Effect of Amendments">“(b) The amount which shall be paid with respect to each person subject to subsection (a) of this section shall be fixed by the State Education Office as the amount necessary to cover the expense of tuition and cost of textbooks and school supplies used by such person; provided, that such amounts and changes in the amounts fixed by this subsection are set by the State Education Office in accordance with the provisions of § <cite path="§2-505">2-505</cite>(a). Following the final adoption of such amounts, the State Education Office shall transmit a copy to the Mayor and a copy to the Council of the District of Columbia.”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (c), substituted “revert to the unrestricted fund balance of the General Fund of the District of Columbia” for “be reserved as a restricted fund balance and used to provide authority to expend for subsequent years subject to the direction of the State Education Office; provided, that the base of the budget of the State Education Office shall be reduced by an amount equal to the estimated revenue from nonresident tuition for fiscal year 1981”.</annotation>
-    <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> added (e).</annotation>
-    <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> rewrote (c).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 19-21">D.C. Law 19-21</law-cite>, in subsec. (c), substituted “revert to the unrestricted fund balance of the General Fund of the District of Columbia” for “be reserved as a restricted fund balance and used to provide authority to expend for subsequent years subject to the direction of the State Education Office; provided, that the base of the budget of the State Education Office shall be reduced by an amount equal to the estimated revenue from nonresident tuition for fiscal year 1981”.</annotation>
+    <annotation type="Effect of Amendments">The 2015 amendment by <law-cite doc="D.C. Law 20-155">D.C. Law 20-155</law-cite> added (e).</annotation>
+    <annotation type="Effect of Amendments">The 2015 amendment by <law-cite doc="D.C. Law 21-36">D.C. Law 21-36</law-cite> rewrote (c).</annotation>
     <annotation type="Emergency Legislation">For temporary amendment of section, see § 2 of the Waiver of Tuition for Non-Resident Minor Children of Deceased or Incapacitated Parents Emergency Amendment Act of 1994 (D.C. Act 10-237, April 28, 1994,  41 DCR 2606).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 4012(a) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 4012(a) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>

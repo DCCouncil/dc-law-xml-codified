@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-357.01</num>
   <heading>Bid security in construction contracts.</heading>
   <para>
@@ -18,6 +19,6 @@
     <text>After bids are opened, they shall be irrevocable for the period specified in the Invitation for Bids. If a bidder is permitted to withdraw its bid or proposal before award, or is excluded from the competition before award, no action shall be had against the bidder or the bid security.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-371" type="History">Apr. 8, 2011, D.C. Law 18-371, § 701, 58 DCR 1185</annotation>
+    <annotation doc="D.C. Law 18-371" type="History" path="§701">Apr. 8, 2011, D.C. Law 18-371, § 701, 58 DCR 1185</annotation>
   </annotations>
 </section>

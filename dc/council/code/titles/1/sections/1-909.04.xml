@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-909.04</num>
   <heading>Reports and disclosure to participants and beneficiaries.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>The Council may require that the Retirement Board furnish to each participant and to each beneficiary receiving benefits under an individual retirement program a statement of the rights of participants and beneficiaries under this chapter.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 12-152" type="History">Sept. 18, 1998, D.C. Law 12-152, § 144, 45 DCR 4045</annotation>
+    <annotation doc="D.C. Law 12-152" type="History" path="§144">Sept. 18, 1998, D.C. Law 12-152, § 144, 45 DCR 4045</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-909.02">1-909.02</cite> and § <cite path="§1-909.03">1-909.03</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-785.4.</annotation>
     <annotation type="Editor's Notes">Application of Law 12-152: See Historical and Statutory Notes following § <cite path="§1-901.01">1-901.01</cite>.</annotation>

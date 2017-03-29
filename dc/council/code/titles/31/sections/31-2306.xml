@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-2306</num>
   <heading>Consummation of domestication agreement; transfer of deposits; withdrawal of trusteed assets.</heading>
   <para>
@@ -36,7 +37,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-194" type="History">Oct. 21, 2000, D.C. Law 13-194, § 7, 47 DCR 7427</annotation>
+    <annotation doc="D.C. Law 13-194" type="History" path="§7">Oct. 21, 2000, D.C. Law 13-194, § 7, 47 DCR 7427</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-2302">31-2302</cite>.</annotation>
   </annotations>
 </section>

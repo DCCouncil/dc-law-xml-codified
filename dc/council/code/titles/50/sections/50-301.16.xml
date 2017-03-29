@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-301.16</num>
   <heading>Reporting by Commissioner.</heading>
   <para>
@@ -26,7 +27,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-97" type="History">Mar. 25, 1986, D.C. Law 6-97, § 17, 33 DCR 703</annotation>
+    <annotation doc="D.C. Law 6-97" type="History" path="§17">Mar. 25, 1986, D.C. Law 6-97, § 17, 33 DCR 703</annotation>
     <annotation doc="D.C. Law 11-268" type="History">May 21, 1997, D.C. Law 11-268, § 10(ii)(2), 44 DCR 1730</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-1716.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§50-316">50-316</cite>.</annotation>

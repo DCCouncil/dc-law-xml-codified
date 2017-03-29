@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>24-231.13</num>
   <heading>Annual report; annual inventory.</heading>
   <para>
@@ -38,7 +39,7 @@
     <text>The Department shall prepare an annual inventory listing prison industries program equipment and materials on hand at the beginning and end of each fiscal year.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 11-117" type="History">May 8, 1996, D.C. Law 11-117, § 14, 43 DCR 1179</annotation>
+    <annotation doc="D.C. Law 11-117" type="History" path="§14">May 8, 1996, D.C. Law 11-117, § 14, 43 DCR 1179</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 24-458.13.</annotation>
   </annotations>
 </section>

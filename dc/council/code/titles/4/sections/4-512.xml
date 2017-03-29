@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>4-512</num>
   <heading>Procedures for filing claims.</heading>
   <para>
@@ -34,7 +35,7 @@
     <text>A final determination by the Board under this chapter may be appealed to the Chief Judge of the Court. Decisions of the Chief Judge shall be final.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 11-243" type="History">Apr. 9, 1997, D.C. Law 11-243, § 13, 44 DCR 1142</annotation>
+    <annotation doc="D.C. Law 11-243" type="History" path="§13">Apr. 9, 1997, D.C. Law 11-243, § 13, 44 DCR 1142</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 3-432.</annotation>
     <annotation type="Emergency Legislation">See note to § <cite path="§4-501">4-501</cite>.</annotation>
   </annotations>

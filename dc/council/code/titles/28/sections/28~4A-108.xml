@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>28:4A-108</num>
   <heading>Relationship to Electronic Fund Transfers Act.</heading>
   <para>
@@ -25,6 +26,6 @@
     <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 7(c), 60 DCR 2634</annotation>
     <annotation type="Section References">This section is referenced in § 28:4A-102.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 28:4A-108.</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> rewrote the section, which read: “This article does not apply to a funds transfer any part of which is governed by the Electronic Fund Transfer Act of 1978 (title XX, Public Law 95-630, 92 Stat. 3728,  15 U.S.C. § 1693 et seq.) as amended from time to time.”</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <law-cite doc="D.C. Law 19-299">D.C. Law 19-299</law-cite> rewrote the section, which read: “This article does not apply to a funds transfer any part of which is governed by the Electronic Fund Transfer Act of 1978 (title XX, Public Law 95-630, 92 Stat. 3728,  15 U.S.C. § 1693 et seq.) as amended from time to time.”</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>26-131.04</num>
   <heading>Satellite device or point-of-sale terminal.</heading>
   <para>
@@ -29,6 +30,6 @@
     <text>For the purposes of subsections (a) and (b) of this subsection, the proportionality of the charge shall be based on the number of transactions processed at the satellite device or point-of-sale terminal.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-308" type="History">June 9, 2001, D.C. Law 13-308, § 504, 48 DCR 3244</annotation>
+    <annotation doc="D.C. Law 13-308" type="History" path="§504">June 9, 2001, D.C. Law 13-308, § 504, 48 DCR 3244</annotation>
   </annotations>
 </section>

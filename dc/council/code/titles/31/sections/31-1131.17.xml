@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-1131.17</num>
   <heading>Reporting of actions.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>Within 30 days of the initial pretrial hearing date, an insurance producer shall report to the Commissioner any criminal prosecution of the insurance producer taken in any jurisdiction. The report shall include a copy of the initial complaint filed, the order resulting from the hearing, and any other relevant legal documents.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-264" type="History">Mar. 27, 2003, D.C. Law 14-264, § 17, 50 DCR 260</annotation>
+    <annotation doc="D.C. Law 14-264" type="History" path="§17">Mar. 27, 2003, D.C. Law 14-264, § 17, 50 DCR 260</annotation>
   </annotations>
 </section>

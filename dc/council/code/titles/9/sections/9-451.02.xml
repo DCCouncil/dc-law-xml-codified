@@ -1,10 +1,11 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Repealed</reason>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>9-451.02</num>
+  <reason>Repealed</reason>
   <heading>Consent of Mayor required; contracts copied into book</heading>
   <text>Repealed.</text>
   <annotations>
-    <annotation doc="D.C. Law 6-85" type="History">Feb. 21, 1986, D.C. Law 6-85, § 1103(b), 32 DCR 7396</annotation>
+    <annotation doc="D.C. Law 6-85" type="History" path="§1103|(b)">Feb. 21, 1986, D.C. Law 6-85, § 1103(b), 32 DCR 7396</annotation>
     <annotation type="Prior Codifications">1981 Ed., §§ 7-601 to 7-603.</annotation>
   </annotations>
 </section>

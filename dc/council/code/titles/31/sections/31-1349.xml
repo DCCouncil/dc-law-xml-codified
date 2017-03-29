@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-1349</num>
   <heading>Liquidation of property of foreign or alien insurers found in the District of Columbia.</heading>
   <para>
@@ -34,12 +35,12 @@
     <text>The court may order the Commissioner, when he or she has liquidated the assets of a foreign or alien insurer under this section, to pay claims of residents of the District against the insurer under rules concerning liquidation of insurers under this chapter as are otherwise compatible with the provisions of this section.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-35" type="History">Oct. 15, 1993, D.C. Law 10-35, § 50, 40 DCR 5773</annotation>
+    <annotation doc="D.C. Law 10-35" type="History" path="§50">Oct. 15, 1993, D.C. Law 10-35, § 50, 40 DCR 5773</annotation>
     <annotation doc="D.C. Law 11-90" type="History">Feb. 27, 1996, D.C. Law 11-90, § 2, 42 DCR 7155</annotation>
     <annotation doc="D.C. Law 11-268" type="History">May 21, 1997, D.C. Law 11-268, § 10(z)(2), 44 DCR 1730</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-1348">31-1348</cite> and § <cite path="§31-1350">31-1350</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-2849.</annotation>
-    <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2 of Insurance Omnibus Temporary Amendment Act of 1995 (<cite doc="D.C. Law 11-36">D.C. Law 11-36</cite>, September 8, 1995, law notification  42 DCR 5305).</annotation>
+    <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2 of Insurance Omnibus Temporary Amendment Act of 1995 (<law-cite doc="D.C. Law 11-36">D.C. Law 11-36</law-cite>, September 8, 1995, law notification  42 DCR 5305).</annotation>
     <annotation type="Emergency Legislation">For temporary amendment of section, see § 2 of the Insurance Omnibus Emergency Amendment Act of 1995 (D.C. Act 11-48, May 15, 1995,  42 DCR 2544) and § 2 of the Insurance Omnibus Congressional Recess Emergency Amendment Act of 1995 (D.C. Act 11-97, July 19,</annotation>
   </annotations>
 </section>

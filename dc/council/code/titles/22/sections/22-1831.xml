@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>22-1831</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
@@ -87,7 +88,7 @@
     <text>“Venture” means any group of 2 or more individuals associated in fact, whether or not a legal entity.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-239" type="History">Oct. 23, 2010, D.C. Law 18-239, § 101, 57 DCR 5405</annotation>
+    <annotation doc="D.C. Law 18-239" type="History" path="§101">Oct. 23, 2010, D.C. Law 18-239, § 101, 57 DCR 5405</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§23-1331">23-1331</cite>.</annotation>
   </annotations>
 </section>

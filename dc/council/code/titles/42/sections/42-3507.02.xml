@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-3507.02</num>
   <heading>Eligibility assistance.</heading>
   <text>Each housing provider commencing substantial rehabilitation, demolition, or housing discontinuance, on or after July 17, 1985, shall pay relocation assistance in an amount calculated under § <cite path="§42-3507.03">42-3507.03</cite> to all tenants of the housing accommodation who:</text>
@@ -11,7 +12,7 @@
     <text>Are displaced from rental units because the housing accommodation in which they are located is to be substantially rehabilitated, demolished, or discontinued.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-10" type="History">July 17, 1985, D.C. Law 6-10, § 702, 32 DCR 3089</annotation>
+    <annotation doc="D.C. Law 6-10" type="History" path="§702">July 17, 1985, D.C. Law 6-10, § 702, 32 DCR 3089</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-2572.</annotation>
     <annotation type="Expiration of Law">See Historical and Statutory Notes following § <cite path="§42-3507.01">42-3507.01</cite>.</annotation>
   </annotations>

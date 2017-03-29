@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>48-902.06</num>
   <heading>Schedule II enumerated.</heading>
   <text>The controlled substances listed in this section are included in Schedule II unless and until removed therefrom pursuant to § <cite path="§48-902.01">48-902.01</cite>:</text>
@@ -303,7 +304,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 4-29" type="History">Aug. 5, 1981, D.C. Law 4-29, § 206, 28 DCR 3081</annotation>
+    <annotation doc="D.C. Law 4-29" type="History" path="§206">Aug. 5, 1981, D.C. Law 4-29, § 206, 28 DCR 3081</annotation>
     <annotation type="History">amended by rule, 32 DCR 1097</annotation>
     <annotation doc="D.C. Law 8-138" type="History">June 13, 1990, D.C. Law 8-138, § 2(b), 37 DCR 2638</annotation>
     <annotation type="History">amended by rule, 39 DCR 1882</annotation>
@@ -311,7 +312,7 @@
     <annotation doc="D.C. Law 19-320" type="History">June 19, 2013, D.C. Law 19-320, § 301(c), 60 DCR 3390</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§7-3002">7-3002</cite>, § <cite path="§44-1201">44-1201</cite>, § <cite path="§48-853.01">48-853.01</cite>, § <cite path="§48-901.02">48-901.02</cite>, § <cite path="§48-902.01">48-902.01</cite>, § <cite path="§48-902.02">48-902.02</cite>, and § <cite path="§48-1004">48-1004</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 33-516.</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-320">D.C. Law 19-320</cite> substituted “Dronabinol” for “Dronabianol” in (4)(G).</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <law-cite doc="D.C. Law 19-320">D.C. Law 19-320</law-cite> substituted “Dronabinol” for “Dronabianol” in (4)(G).</annotation>
     <annotation type="Emergency Legislation">For temporary amendment of (4)(G), see § 301(c) of the Omnibus Criminal Code Amendments Emergency Amendment Act of 2012 (D.C. Act 19-599, January 14, 2013,  60 DCR 1017).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 301(c) of the Omnibus Criminal Code Amendment Congressional Review Emergency Act of 2013 (D.C. Act 20-44, April 1, 2013,  60 DCR 5381, 20 DCSTAT 1281).</annotation>
     <annotation type="Editor's Notes">Mayor to implement public information program: See Historical and Statutory Notes following § <cite path="§48-901.02">48-901.02</cite>.</annotation>

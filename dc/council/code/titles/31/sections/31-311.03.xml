@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-311.03</num>
   <heading>Management’s report of internal control over financial reporting.</heading>
   <para>
@@ -88,7 +89,7 @@
     <text>A management’s report on internal control over financial reporting filed with the Mayor pursuant to this section, including any supporting documentation submitted in support thereof, shall be kept confidential.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-48" type="History">Oct. 21, 1993, D.C. Law 10-48, § 12c</annotation>
+    <annotation doc="D.C. Law 10-48" type="History" path="§12c">Oct. 21, 1993, D.C. Law 10-48, § 12c</annotation>
     <annotation doc="D.C. Law 18-317" type="History">as added Mar. 12, 2011, D.C. Law 18-317, § 2(j), 57 DCR 12418</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-307">31-307</cite> and § <cite path="§31-312">31-312</cite>.</annotation>
   </annotations>

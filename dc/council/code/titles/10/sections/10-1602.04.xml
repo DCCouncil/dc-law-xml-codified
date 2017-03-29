@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>10-1602.04</num>
   <heading>Community investment plan.</heading>
   <para>
@@ -33,6 +34,6 @@
     <text>The request shall outline the manner in which funds shall be used to develop, maintain, and improve physical facilities and infrastructure owned by the District of Columbia, particularly for projects or improvements in community plans that do not qualify for capital budget funding.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-320" type="History">Apr. 8, 2005, D.C. Law 15-320, § 204, 52 DCR 1757</annotation>
+    <annotation doc="D.C. Law 15-320" type="History" path="§204">Apr. 8, 2005, D.C. Law 15-320, § 204, 52 DCR 1757</annotation>
   </annotations>
 </section>

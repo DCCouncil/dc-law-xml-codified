@@ -1,10 +1,11 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 4-156">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="D.C. Law 4-156" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">4-156</num>
   <meta>
     <effective>1982-09-29</effective>
-    <cites>
-      <law lawId="156" period="4" url="./docs/4-156.pdf"/>
-      <register page="3612" vol="29"/>
-    </cites>
+    <citations>
+      <citation type="law" url="./docs/4-156.pdf">D.C. Law 4-156</citation>
+      <citation type="register">29 DCR 3612</citation>
+    </citations>
   </meta>
 </document>

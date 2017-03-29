@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-1803.12</num>
   <heading>Consultation.</heading>
   <text>The World Class Schools Task Force shall conduct its duties under this part in consultation with:</text>
@@ -19,7 +20,7 @@
     <text>Any other persons or groups that the task force deems appropriate.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 104-134" type="History">Apr. 26, 1996, 110 Stat. 1321 [255], Pub. L. 104-134, § 2312</annotation>
+    <annotation doc="Pub. L. 104-134" type="History" path="§2312">Apr. 26, 1996, 110 Stat. 1321 [255], Pub. L. 104-134, § 2312</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-2853.32.</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-3671.14</num>
   <heading>Effect of unintentional violation and timely adjustment of error.</heading>
   <para>
@@ -14,6 +15,6 @@
     <text>A lessor shall not be liable under § <cite path="§42-3671.12">42-3671.12</cite> for any error if, before the 31st day after the date the lessor discovers the error and before an action against the lessor has been filed or written notice of the error received by the lessor, the lessor gives the consumer written notice of the error and makes adjustments in the consumer’s account as necessary to assure that the consumer will not be required to pay an amount in excess of the amount disclosed and that the lease-purchase agreement otherwise complies with this chapter.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-99" type="History">Apr. 13, 2002, D.C. Law 14-99, § 15, 49 DCR 1000</annotation>
+    <annotation doc="D.C. Law 14-99" type="History" path="§15">Apr. 13, 2002, D.C. Law 14-99, § 15, 49 DCR 1000</annotation>
   </annotations>
 </section>

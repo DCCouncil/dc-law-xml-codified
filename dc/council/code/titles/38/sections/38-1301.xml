@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-1301</num>
   <heading>Purpose.</heading>
   <text>The purpose of this chapter is to provide for the protection, education, and welfare of the citizens of the District of Columbia and its students, by:</text>
@@ -27,7 +28,7 @@
     <text>Providing for a commission to serve as the state approving agency for veterans benefits.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-104" type="History">Apr. 6, 1977, D.C. Law 1-104, title I, § 101, 23 DCR 8734</annotation>
+    <annotation doc="D.C. Law 1-104" type="History" path="§101">Apr. 6, 1977, D.C. Law 1-104, title I, § 101, 23 DCR 8734</annotation>
     <annotation doc="D.C. Law 7-217" type="History">Mar. 16, 1989, D.C. Law 7-217, § 2(a), 36 DCR 523</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-1601.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 31-2001.</annotation>

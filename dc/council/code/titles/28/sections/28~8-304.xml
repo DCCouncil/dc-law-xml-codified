@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>28:8-304</num>
   <heading>Indorsement.</heading>
   <para>
@@ -33,7 +34,8 @@
     <text type="Uniform Commercial Code Comment">The transferee’s right to compel an indorsement where a security certificate has been delivered with intent to transfer is recognized in the case law.  See Coats v. Guaranty Bank &amp; Trust Co., 170 La. 871, 129 So. 513 (1930). A proper indorsement is one of the requisites of transfer which a purchaser of a certificated security has a right to obtain ( Section 8-307). A purchaser may not only compel an indorsement under that section but may also recover for any reasonable expense incurred by the transferor’s failure to respond to the demand for an indorsement.</text>
     <text type="Uniform Commercial Code Comment">5. Subsection (e) deals with the significance of an indorsement on a security certificate in bearer form. The concept of indorsement applies only to registered securities. A purported indorsement of bearer paper is normally of no effect. An indorsement “for collection,” “for surrender” or the like, charges a purchaser with notice of adverse claims ( Section 8-105(d)) but does not operate beyond this to interfere with any right the holder may otherwise possess to have the security registered.</text>
     <text type="Uniform Commercial Code Comment">6. Subsection (f) makes clear that the indorser of a security certificate does not warrant that the issuer will honor the underlying obligation. In view of the nature of investment securities and the circumstances under which they are normally transferred, a transferor cannot be held to warrant as to the issuer’s actions. As a transferor the indorser, of course, remains liable for breach of the warranties set forth in this Article ( Section 8-108).</text>
-    <text type="Uniform Commercial Code Comment"><strong>Definitional Cross References</strong> “Bearer form”.  Section 8-102(a)(2).</text>
+    <text type="Uniform Commercial Code Comment">
+      <strong>Definitional Cross References</strong> “Bearer form”.  Section 8-102(a)(2).</text>
     <text type="Uniform Commercial Code Comment">“Certificated security”.  Section 8-102(a)(4).</text>
     <text type="Uniform Commercial Code Comment">“Indorsement”.  Section 8-102(a)(11).</text>
     <text type="Uniform Commercial Code Comment">“Purchaser”.  Sections 1-201(33) and  8-116.</text>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-352.03</num>
   <heading>Office of Contracting and Procurement.</heading>
   <para>
@@ -26,6 +27,6 @@
     <text>The CPO shall not be removed from office before the expiration of the 5-year term except for cause, subject to the right of appeal as provided in subchapter VI of Chapter 6 of Title 1. [§ <cite path="§1-606.01">1-606.01</cite> et seq.].</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-371" type="History">Apr. 8, 2011, D.C. Law 18-371, § 203, 58 DCR 1185</annotation>
+    <annotation doc="D.C. Law 18-371" type="History" path="§203">Apr. 8, 2011, D.C. Law 18-371, § 203, 58 DCR 1185</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-273.08</num>
   <heading>Compliance with federal and District law.</heading>
   <para>
@@ -46,6 +47,6 @@
     <text>Unless otherwise provided by law, nothing in this chapter shall exempt public-private partnership projects and participating public and private entities from complying with all applicable District laws and regulations.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-228" type="History">Mar. 11, 2015, D.C. Law 20-228, § 113, 62 DCR 261</annotation>
+    <annotation doc="D.C. Law 20-228" type="History" path="§113">Mar. 11, 2015, D.C. Law 20-228, § 113, 62 DCR 261</annotation>
   </annotations>
 </section>

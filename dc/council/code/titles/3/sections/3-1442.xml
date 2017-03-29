@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>3-1442</num>
   <heading>Commission organization; members; meetings.</heading>
   <para>
@@ -76,6 +77,6 @@
     <text>The Commission shall meet at least once every other month. The meetings shall be held in the District and shall be open to the public. A quorum to transact business shall consist of a majority plus one of the public members.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-106" type="History">Mar. 14, 2012, D.C. Law 19-106, § 3, 59 DCR 440</annotation>
+    <annotation doc="D.C. Law 19-106" type="History" path="§3">Mar. 14, 2012, D.C. Law 19-106, § 3, 59 DCR 440</annotation>
   </annotations>
 </section>

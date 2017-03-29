@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>32-1101</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
@@ -51,7 +52,7 @@
     <text>“Standard” means an occupational safety and health standard that requires conditions or the adoption or use of 1 or more practices, means, methods, operations, or processes that are reasonably necessary or appropriate to provide safe or healthful employment and places of employment.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 7-186" type="History">Mar. 16, 1989, D.C. Law 7-186, § 2, 35 DCR 8250</annotation>
+    <annotation doc="D.C. Law 7-186" type="History" path="§2">Mar. 16, 1989, D.C. Law 7-186, § 2, 35 DCR 8250</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§36-410">36-410</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 36-1201.</annotation>
   </annotations>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-2572.02</num>
   <heading>Hearing officer selection.</heading>
   <para>
@@ -49,6 +50,6 @@
     <text>Following its review of candidates for hearing officers, the community review panel shall forward its recommendations to the State Superintendent of Education.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-194" type="History">Mar. 10, 2015, D.C. Law 20-194, § 202, 61 DCR 12411</annotation>
+    <annotation doc="D.C. Law 20-194" type="History" path="§202">Mar. 10, 2015, D.C. Law 20-194, § 202, 61 DCR 12411</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-2352</num>
   <heading>Autonomous vehicles permitted.</heading>
   <text>An autonomous vehicle may operate on a public roadway; provided, that the vehicle:</text>
@@ -15,6 +16,6 @@
     <text>Is capable of operating in compliance with the District’s applicable traffic laws and motor vehicle laws and traffic control devices.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-278" type="History">Apr. 23, 2013, D.C. Law 19-278, § 3, 60 DCR 2119</annotation>
+    <annotation doc="D.C. Law 19-278" type="History" path="§3">Apr. 23, 2013, D.C. Law 19-278, § 3, 60 DCR 2119</annotation>
   </annotations>
 </section>

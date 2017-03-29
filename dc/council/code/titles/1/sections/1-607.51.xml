@@ -1,10 +1,11 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Repealed</reason>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-607.51</num>
+  <reason>Repealed</reason>
   <heading>Residency requirement.</heading>
   <text>Repealed.</text>
   <annotations>
-    <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 751</annotation>
+    <annotation doc="D.C. Law 2-139" type="History" path="§751">Mar. 3, 1979, D.C. Law 2-139, § 751</annotation>
     <annotation doc="D.C. Law 12-138" type="History">as added July 24, 1998, D.C. Law 12-138, § 2(c), 45 DCR 2972</annotation>
     <annotation doc="Pub. L. 105-277" type="History">Oct. 21, 1998, Pub. L. 105-277, § 153, 112 Stat. 2681-146</annotation>
     <annotation type="Cross References">Employee deferred compensation program, office of employee appeals, review, see § <cite path="§47-3601">47-3601</cite>.</annotation>
@@ -23,6 +24,6 @@
     <annotation type="Cross References">Public service commission, office of general counsel, powers and duties, see § <cite path="§34-803">34-803</cite>.</annotation>
     <annotation type="Cross References">Washington convention center authority, merit personnel system inapplicable, see § <cite path="§10-1202.16">10-1202.16</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-607.51.</annotation>
-    <annotation type="Editor's Notes">Section 2(c) of <cite doc="D.C. Law 12-138">D.C. Law 12-138</cite> had added this section, effective July 24, 1998; this section was subsequently repealed by Pub. L. 105-277, § 153, effective Oct. 21, 1998.</annotation>
+    <annotation type="Editor's Notes">Section 2(c) of <law-cite doc="D.C. Law 12-138">D.C. Law 12-138</law-cite> had added this section, effective July 24, 1998; this section was subsequently repealed by Pub. L. 105-277, § 153, effective Oct. 21, 1998.</annotation>
   </annotations>
 </section>

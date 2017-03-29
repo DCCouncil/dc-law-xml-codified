@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-1041.06</num>
   <heading>Agency responsibilities.</heading>
   <para>
@@ -14,6 +15,6 @@
     <text>If the District chooses to receive collection or recycling services from a manufacturer, partnership, or representative organization established under this chapter for covered electronic equipment waste collected by the District, the District shall not charge the manufacturer, partnership, or representative organization for the cost of collection services and shall offer the manufacturer, partnership, or the representative organization the covered electronic equipment at no cost. Nothing in this chapter shall require a manufacturer, partnership, or representative organization to provide recycling services for covered electronic equipment waste collected by the District.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-154" type="History">Feb. 26,2015, D.C. Law 20-154, § 120, 61 DCR 9971</annotation>
+    <annotation doc="D.C. Law 20-154" type="History" path="§120">Feb. 26,2015, D.C. Law 20-154, § 120, 61 DCR 9971</annotation>
   </annotations>
 </section>

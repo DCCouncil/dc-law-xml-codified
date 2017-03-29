@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-704</num>
   <heading>Acquisitions involving insurers not otherwise covered.</heading>
   <para>
@@ -255,12 +256,12 @@
     <text>Sections 31-709(b) and (c) and 31-711 do not apply to acquisitions covered under subsection (b) of this section.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-44" type="History">Oct. 21, 1993, D.C. Law 10-44, § 5, 40 DCR 6027</annotation>
+    <annotation doc="D.C. Law 10-44" type="History" path="§5">Oct. 21, 1993, D.C. Law 10-44, § 5, 40 DCR 6027</annotation>
     <annotation doc="D.C. Law 10-255" type="History">May 16, 1995, D.C. Law 10-255, § 32(a), 41 DCR 5193</annotation>
     <annotation doc="D.C. Law 11-110" type="History">Apr. 18, 1996, D.C. Law 11-110, § 42, 43 DCR 530</annotation>
     <annotation doc="D.C. Law 20-235" type="History">Mar. 11, 2015, D.C. Law 20-235, § 2(c), 62 DCR 461</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-703">31-703</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-3704.</annotation>
-    <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-235">D.C. Law 20-235</cite> repealed (b)(2)(A).</annotation>
+    <annotation type="Effect of Amendments">The 2015 amendment by <law-cite doc="D.C. Law 20-235">D.C. Law 20-235</law-cite> repealed (b)(2)(A).</annotation>
   </annotations>
 </section>

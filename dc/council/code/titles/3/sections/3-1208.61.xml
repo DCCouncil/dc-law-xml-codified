@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>3-1208.61</num>
   <heading>Practice of veterinary medicine; license requirement.</heading>
   <para>
@@ -30,9 +31,9 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-99" type="History">Mar. 25, 1986, D.C. Law 6-99, § 861</annotation>
+    <annotation doc="D.C. Law 6-99" type="History" path="§861">Mar. 25, 1986, D.C. Law 6-99, § 861</annotation>
     <annotation doc="D.C. Law 20-96" type="History">as added Mar. 26, 2014, D.C. Law 20-96, § 102(q), 61 DCR 1184</annotation>
-    <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-96">D.C. Law 20-96</cite> added this section.</annotation>
-    <annotation type="Editor's Notes">Section 401(b) of <cite doc="D.C. Law 20-96">D.C. Law 20-96</cite> provided that rules promulgated pursuant to Chapter 5 of this title shall remain in effect until the Mayor promulgates rules to implement this subchapter.</annotation>
+    <annotation type="Effect of Amendments">The 2014 amendment by <law-cite doc="D.C. Law 20-96">D.C. Law 20-96</law-cite> added this section.</annotation>
+    <annotation type="Editor's Notes">Section 401(b) of <law-cite doc="D.C. Law 20-96">D.C. Law 20-96</law-cite> provided that rules promulgated pursuant to Chapter 5 of this title shall remain in effect until the Mayor promulgates rules to implement this subchapter.</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>5-125.03</num>
   <heading>Trachea hold prohibited; carotid artery hold restricted.</heading>
   <para>
@@ -41,7 +42,7 @@
     <text>The trachea hold is prohibited and the carotid artery hold shall be classified as a service weapon and all relevant Metropolitan Police Department general orders, special orders, and circulars shall be applicable.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-77" type="History">Jan. 25, 1986, D.C. Law 6-77, § 4, 32 DCR 6497</annotation>
+    <annotation doc="D.C. Law 6-77" type="History" path="§4">Jan. 25, 1986, D.C. Law 6-77, § 4, 32 DCR 6497</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§5-302">5-302</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 4-190.</annotation>
     <annotation type="Editor's Notes">Mayor authorized to issue rules: See Historical and Statutory Notes following § <cite path="§5-125.01">5-125.01</cite>.</annotation>

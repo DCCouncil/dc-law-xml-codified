@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-301.127</num>
   <heading>Limited binding and beneficial effect.</heading>
   <para>
@@ -14,6 +15,6 @@
     <text>No law of the District of Columbia, or the application thereof, shall be declared invalid as to any person or circumstance on the ground that the provision or application is inconsistent with the Agreement.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-156" type="History">June 25, 2002, D.C. Law 14-156, § 8, 49 DCR 4272</annotation>
+    <annotation doc="D.C. Law 14-156" type="History" path="§8">June 25, 2002, D.C. Law 14-156, § 8, 49 DCR 4272</annotation>
   </annotations>
 </section>

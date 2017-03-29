@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-702.03</num>
   <heading>Long-Term Care Ombudsman; appointment; vacancy — Training and experience.</heading>
   <para>
@@ -30,7 +31,7 @@
     <text>Neither the ombudsman nor any member of his or her immediate family shall have any pecuniary interest in a long-term care facility.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 7-218" type="History">Mar. 16, 1989, D.C. Law 7-218, § 203, 36 DCR 534</annotation>
+    <annotation doc="D.C. Law 7-218" type="History" path="§203">Mar. 16, 1989, D.C. Law 7-218, § 203, 36 DCR 534</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-3513.</annotation>
   </annotations>
 </section>

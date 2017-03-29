@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1402.41</num>
   <heading>Prohibitions.</heading>
   <text>It is an unlawful discriminatory practice, subject to the exemptions in § <cite path="§2-1401.03">2-1401.03</cite>(b), for an educational institution:</text>
@@ -15,7 +16,7 @@
     <text>Repealed.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-38" type="History">Dec. 13, 1977, D.C. Law 2-38, title II, § 241, 24 DCR 6038</annotation>
+    <annotation doc="D.C. Law 2-38" type="History" path="§241">Dec. 13, 1977, D.C. Law 2-38, title II, § 241, 24 DCR 6038</annotation>
     <annotation doc="Pub. L. 101-168" type="History">Nov. 21, 1989, 103 Stat. 1284, Pub. L. 101-168, § 141(b)</annotation>
     <annotation doc="D.C. Law 10-129" type="History">June 28, 1994, D.C. Law 10-129, § 2(f), 41 DCR 2583</annotation>
     <annotation doc="D.C. Law 12-242" type="History">Apr. 20, 1999, D.C. Law 12-242, § 2(g), 46 DCR 952</annotation>
@@ -24,8 +25,10 @@
     <annotation doc="D.C. Law 20-266" type="History">May 2, 2015, D.C. Law 20-266, § 3(a), 62 DCR 1540</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-2520.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 6-2251.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-189">D.C. Law 14-189</cite>, in par. (1), substituted “facilities, services, programs, or benefits of any program or activity” for “facilities and services” and substituted “actual or perceived: race” for “race”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-58">D.C. Law 16-58</cite>, in par. (1), substituted “sexual orientation, gender identity or expression,” for “sexual orientation,”.</annotation>
-    <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-266">D.C. Law 20-266</cite> repealed (3).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 14-189">D.C. Law 14-189</law-cite>, in par. (1), substituted “facilities, services, programs, or benefits of any program or activity” for “facilities and services” and substituted “actual or perceived: race” for “race”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 16-58">D.C. Law 16-58</law-cite>, in par. (1), substituted “sexual orientation, gender identity or expression,” for “sexual orientation,”.</annotation>
+    <annotation type="Effect of Amendments">The 2015 amendment by <law-cite doc="D.C. Law 20-266">D.C. Law 20-266</law-cite> repealed (3).</annotation>
   </annotations>
 </section>

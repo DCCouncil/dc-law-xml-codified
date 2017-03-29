@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-1310</num>
   <heading>Grounds for rehabilitation.</heading>
   <text>The Commissioner may apply by petition to the Superior Court of the District of Columbia for an order authorizing him or her to rehabilitate a domestic insurer or an alien insurer domiciled in the District based on any one or more of the following grounds:</text>
@@ -51,7 +52,7 @@
     <text>The board of directors or the holders of a majority of the shares entitled to vote, or a majority of those individuals entitled to the control of those entities specified in the insurance laws of the District, request or consent to rehabilitation under this chapter.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-35" type="History">Oct. 15, 1993, D.C. Law 10-35, § 11, 40 DCR 5773</annotation>
+    <annotation doc="D.C. Law 10-35" type="History" path="§11">Oct. 15, 1993, D.C. Law 10-35, § 11, 40 DCR 5773</annotation>
     <annotation doc="D.C. Law 11-268" type="History">May 21, 1997, D.C. Law 11-268, § 10(z)(2), 44 DCR 1730</annotation>
     <annotation type="Cross References">Rehabilitation, liquidation, or conservation of health maintenance organizations, see § <cite path="§31-3420">31-3420</cite>.</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-1314">31-1314</cite>, § <cite path="§31-1315">31-1315</cite>, § <cite path="§31-1348">31-1348</cite>, § <cite path="§31-1349">31-1349</cite>, and § <cite path="§31-3420">31-3420</cite>.</annotation>

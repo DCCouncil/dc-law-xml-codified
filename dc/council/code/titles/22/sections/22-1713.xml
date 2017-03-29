@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>22-1713</num>
   <heading>Corrupt influence in connection with athletic contests.</heading>
   <para>
@@ -82,7 +83,7 @@
     <text>Nothing in this section shall be construed to prohibit the giving or offering of any bonus or extra compensation to any manager, coach, or professional player, or to any league, association, or conference for the purpose of encouraging such manager, coach, or player to a higher degree of skill, ability, or diligence in the performance of his or her duties.</text>
   </para>
   <annotations>
-    <annotation type="History">Mar. 3, 1901, ch. 854, § 869e</annotation>
+    <annotation type="History" doc="Stat. 56-2-ch854" path="§869e">Mar. 3, 1901, ch. 854, § 869e</annotation>
     <annotation type="History">July 11, 1947, 61 Stat. 313, ch. 230</annotation>
     <annotation doc="Pub. L. 90-226" type="History">Dec. 27, 1967, 81 Stat. 737, Pub. L. 90-226, title VI, § 604</annotation>
     <annotation doc="D.C. Law 10-119" type="History">May 21, 1994, D.C. Law 10-119, § 2(n), 41 DCR 1639</annotation>
@@ -90,8 +91,8 @@
     <annotation type="Section References">This section is referenced in § <cite path="§23-546">23-546</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 22-1513.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 22-1513.</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $10,000” in (c) and for “not more than $5,000” in (d).</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <law-cite doc="D.C. Law 19-317">D.C. Law 19-317</law-cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $10,000” in (c) and for “not more than $5,000” in (d).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 201(t) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
-    <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+    <annotation type="Editor's Notes">Applicability of <law-cite doc="D.C. Law 19-317">D.C. Law 19-317</law-cite>: Section 401 of <law-cite doc="D.C. Law 19-317">D.C. Law 19-317</law-cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
   </annotations>
 </section>

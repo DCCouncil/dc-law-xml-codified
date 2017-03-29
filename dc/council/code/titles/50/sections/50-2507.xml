@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-2507</num>
   <heading>General powers of the Authority.</heading>
   <text>The powers of the Authority shall include the following:</text>
@@ -59,7 +60,7 @@
     <text>To issue or incur debt.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-153" type="History">Aug. 23, 1994, D.C. Law 10-153, § 8, 41 DCR 4652</annotation>
+    <annotation doc="D.C. Law 10-153" type="History" path="§8">Aug. 23, 1994, D.C. Law 10-153, § 8, 41 DCR 4652</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-847.</annotation>
   </annotations>
 </section>

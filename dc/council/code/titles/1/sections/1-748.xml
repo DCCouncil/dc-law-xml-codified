@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-748</num>
   <heading>Claims procedure.</heading>
   <text>In accordance with regulations issued by the Board, the Board shall provide to any participant or beneficiary who has a claim for benefits under a retirement program denied:</text>
@@ -11,11 +12,12 @@
     <text>A reasonable opportunity for a full and fair review of the decision denying such claim.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 96-122" type="History">Nov. 17, 1979, 93 Stat. 866, Pub. L. 96-122, § 188</annotation>
+    <annotation doc="Pub. L. 96-122" type="History" path="§188">Nov. 17, 1979, 93 Stat. 866, Pub. L. 96-122, § 188</annotation>
     <annotation doc="D.C. Law 15-354" type="History">Apr. 13, 2005, D.C. Law 15-354, § 3(d), 52 DCR 2638</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-748.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-1848.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite> substituted “In accordance with regulations issued by the Board, the Board shall” for “In accordance with regulations of the Council, the Mayor shall”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 15-354">D.C. Law 15-354</law-cite> substituted “In accordance with regulations issued by the Board, the Board shall” for “In accordance with regulations of the Council, the Mayor shall”.</annotation>
     <annotation type="Delegation of Authority">Delegation of authority under Law 4-123, see Mayor’s Order 83-245, October 14, 1983.</annotation>
   </annotations>
 </section>

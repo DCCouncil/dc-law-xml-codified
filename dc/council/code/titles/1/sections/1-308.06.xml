@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-308.06</num>
   <heading>Details of Bonds.</heading>
   <para>
@@ -62,6 +63,6 @@
     <text>The Bonds may be issued at any time or from time to time in one or more issues and in one of more series.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-293" type="History">Apr. 5, 2005, D.C. Law 15-293, § 7, 52 DCR 1465</annotation>
+    <annotation doc="D.C. Law 15-293" type="History" path="§7">Apr. 5, 2005, D.C. Law 15-293, § 7, 52 DCR 1465</annotation>
   </annotations>
 </section>

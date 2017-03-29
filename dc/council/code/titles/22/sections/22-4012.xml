@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>22-4012</num>
   <heading>Interagency coordination.</heading>
   <para>
@@ -26,6 +27,6 @@
     <text>Except for the disclosure of information authorized by § <cite path="§22-4006">22-4006</cite>, nothing in this chapter shall supersede the non-disclosure provisions of Chapter 12 of Title 7.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-137" type="History">July 11, 2000, D.C. Law 13-137, § 13, 47 DCR 797</annotation>
+    <annotation doc="D.C. Law 13-137" type="History" path="§13">July 11, 2000, D.C. Law 13-137, § 13, 47 DCR 797</annotation>
   </annotations>
 </section>

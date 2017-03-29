@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-1902.29</num>
   <heading>Condominium lease; recordation; terms; leasehold payments; increases; sale or assignation; offer to unit owners’ association; renewal.</heading>
   <para>
@@ -37,7 +38,7 @@
     <text>The lessor of a condominium lease shall give the lessee of such lease a statement not less than 5 years prior to the expiration of such lease of whether the lease is to be renewed and on what terms the lease is to be renewed. If the lessor offers to renew the lease, the lessor shall give the lessee a period of at least 180 days within which to accept or reject the offer.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-89" type="History">Mar. 29, 1977, D.C. Law 1-89, title II, § 229, 23 DCR 9532b</annotation>
+    <annotation doc="D.C. Law 1-89" type="History" path="§229">Mar. 29, 1977, D.C. Law 1-89, title II, § 229, 23 DCR 9532b</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-1839.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 5-1239.</annotation>
   </annotations>

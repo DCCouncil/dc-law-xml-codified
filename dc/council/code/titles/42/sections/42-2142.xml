@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-2142</num>
   <heading>Inventory tracking requirements.</heading>
   <text>No later than December 1, 2012, the Mayor shall transmit to the Council an implementation plan that details the budget and resources necessary to begin tracking the Department of Housing and Community Development’s (“DHCD”) affordable housing inventory. The plan shall explicate the process and analyze the budget and resources necessary to begin tracking the number of:</text>
@@ -67,6 +68,6 @@
     <text>Affordable housing units in each ward, including a delineation of their affordability levels and whether they are allocated for those individuals listed in paragraph (1)(F)(i) through (vi) of this section.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-168" type="History">Sept. 20, 2012, D.C. Law 19-168, § 2093, 59 DCR 8025</annotation>
+    <annotation doc="D.C. Law 19-168" type="History" path="§2093">Sept. 20, 2012, D.C. Law 19-168, § 2093, 59 DCR 8025</annotation>
   </annotations>
 </section>

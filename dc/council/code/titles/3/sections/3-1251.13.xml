@@ -1,8 +1,9 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>3-1251.13</num>
   <heading>Information booklet.</heading>
   <text>The Committee shall publish an informational booklet describing the Program for the public. The booklet shall be updated as may be necessary.</text>
   <annotations>
-    <annotation doc="D.C. Law 13-297" type="History">May 1, 2001, D.C. Law 13-297, § 14, 48 DCR 2036</annotation>
+    <annotation doc="D.C. Law 13-297" type="History" path="§14">May 1, 2001, D.C. Law 13-297, § 14, 48 DCR 2036</annotation>
   </annotations>
 </section>

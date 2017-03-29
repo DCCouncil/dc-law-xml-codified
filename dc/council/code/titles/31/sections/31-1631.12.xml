@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-1631.12</num>
   <heading>Scope.</heading>
   <text>This chapter shall not apply to:</text>
@@ -27,6 +28,6 @@
     <text>A licensed health care provider, or employee of a licensed health care provider, who prepares or files a health insurance claim form on behalf of a patient, a licensed insurance agent, or salaried employee of an insurance company.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-256" type="History">Mar. 27, 2003, D.C. Law 14-256, § 12, 50 DCR 238</annotation>
+    <annotation doc="D.C. Law 14-256" type="History" path="§12">Mar. 27, 2003, D.C. Law 14-256, § 12, 50 DCR 238</annotation>
   </annotations>
 </section>

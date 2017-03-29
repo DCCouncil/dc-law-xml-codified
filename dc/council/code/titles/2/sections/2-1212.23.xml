@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1212.23</num>
   <heading>Grocery ambassador program.</heading>
   <text>The Deputy Mayor for Planning and Economic Development shall designate a District employee as the grocery ambassador to assist retailers in building or renovating grocery stores in eligible areas by:</text>
@@ -19,7 +20,7 @@
     <text>Providing other assistance as needed.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-353" type="History">Apr. 8, 2011, D.C. Law 18-353, § 203, 58 DCR 746</annotation>
+    <annotation doc="D.C. Law 18-353" type="History" path="§203">Apr. 8, 2011, D.C. Law 18-353, § 203, 58 DCR 746</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-1212.33">2-1212.33</cite>.</annotation>
   </annotations>
 </section>

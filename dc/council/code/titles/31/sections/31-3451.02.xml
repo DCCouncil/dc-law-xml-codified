@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-3451.02</num>
   <heading>RBC reports.</heading>
   <para>
@@ -30,7 +31,7 @@
     <text>If a domestic health organization files an RBC report that, in the judgment of the Commissioner, is inaccurate, the Commissioner shall adjust the RBC report to correct the inaccuracy and shall notify the health organization of the adjustment. The notice shall contain a statement of the reason for the adjustment.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-312" type="History">June 18, 2003, D.C. Law 14-312, § 102, 50 DCR 306</annotation>
+    <annotation doc="D.C. Law 14-312" type="History" path="§102">June 18, 2003, D.C. Law 14-312, § 102, 50 DCR 306</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-3451.01">31-3451.01</cite>.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§31-3851.02">31-3851.02</cite>.</annotation>
   </annotations>

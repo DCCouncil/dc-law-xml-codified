@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>11-1568.03</num>
   <heading>Period for exercise of right to revoke or elect.</heading>
   <text>The right to revoke an election under subsection (d) or to make an election under subsection (e) is irrevocably waived if not exercised within 180 days after the date of the enactment of this Act.</text>
@@ -8,6 +9,6 @@
     <text type="References in Text">“The date of the enactment of this Act” is June 6, 1986.</text>
     <annotation doc="Pub. L. 99-335" type="History">June 6, 1986, 100 Stat. 514, Pub. L. 99-335, § 601(e)</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 11-1568.3.</annotation>
-    <annotation type="Editor's Notes">Section 23(d) of <cite doc="D.C. Law 15-354">D.C. Law 15-354</cite> provided that the section designation of § <cite path="§11-1568.3">11-1568.3</cite> of the District of Columbia Official Code is redesignated as § <cite path="§11-1568.03">11-1568.03</cite>.</annotation>
+    <annotation type="Editor's Notes">Section 23(d) of <law-cite doc="D.C. Law 15-354">D.C. Law 15-354</law-cite> provided that the section designation of § <cite path="§11-1568.3">11-1568.3</cite> of the District of Columbia Official Code is redesignated as § <cite path="§11-1568.03">11-1568.03</cite>.</annotation>
   </annotations>
 </section>

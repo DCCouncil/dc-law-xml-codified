@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-731</num>
   <heading>Complaints of trash collection noise violations; hearings; notice of infraction.</heading>
   <para>
@@ -42,7 +43,7 @@
     <text>This section shall not apply to complaints relating to Department of Public Works trash trucks.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-259" type="History">Nov. 19, 2008, D.C. Law 17-259, § 2, 55 DCR 10881</annotation>
+    <annotation doc="D.C. Law 17-259" type="History" path="§2">Nov. 19, 2008, D.C. Law 17-259, § 2, 55 DCR 10881</annotation>
     <annotation type="Delegation of Authority">Delegation of Authority—Trash Collection Noise Violations Abatement Act of 2008, see Mayor’s Order 2009-28, March 16, 2009 ( 56 DCR 6764).</annotation>
   </annotations>
 </section>

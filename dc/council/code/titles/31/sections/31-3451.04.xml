@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-3451.04</num>
   <heading>Regulatory Action Level Event.</heading>
   <para>
@@ -38,7 +39,7 @@
     <text>The Commissioner may retain actuaries, investment experts, or other consultants as may be necessary in the judgment of the Commissioner to review the health organization’s RBC plan or revised RBC plan, examine or analyze the assets, liabilities, and operations (including contractual relationships) of the health organization, and formulate the corrective order with respect to the health organization. The fees, costs, and expenses relating to the actuaries, investment experts, or consultants shall be borne by the affected health organization or such other party as directed by the Commissioner.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-312" type="History">June 18, 2003, D.C. Law 14-312, § 104, 50 DCR 306</annotation>
+    <annotation doc="D.C. Law 14-312" type="History" path="§104">June 18, 2003, D.C. Law 14-312, § 104, 50 DCR 306</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-3451.05">31-3451.05</cite> and § <cite path="§31-3451.13">31-3451.13</cite>.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§31-3851.04">31-3851.04</cite>.</annotation>
   </annotations>

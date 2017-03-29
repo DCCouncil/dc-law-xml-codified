@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-1751</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
@@ -47,7 +48,7 @@
     <text>“Wholesale dealer” means any person, including a wholesale dealer’s agent, that sells cigarettes to retail dealers or other persons for resale, including any person that owns, operates, or maintains one or more cigarette vending machines in the District of Columbia.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-157" type="History">May 13, 2008, D.C. Law 17-157, § 2, 55 DCR 3703</annotation>
-    <annotation type="Editor's Notes">Section 9 of <cite doc="D.C. Law 17-157">D.C. Law 17-157</cite> provided that sections 2 through 7 shall apply as of July 1, 2008.</annotation>
+    <annotation doc="D.C. Law 17-157" type="History" path="§2">May 13, 2008, D.C. Law 17-157, § 2, 55 DCR 3703</annotation>
+    <annotation type="Editor's Notes">Section 9 of <law-cite doc="D.C. Law 17-157">D.C. Law 17-157</law-cite> provided that sections 2 through 7 shall apply as of July 1, 2008.</annotation>
   </annotations>
 </section>

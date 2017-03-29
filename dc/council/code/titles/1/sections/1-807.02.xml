@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-807.02</num>
   <heading>Uses of amounts in Trust Fund.</heading>
   <para>
@@ -37,7 +38,7 @@
     </para>
   </para>
   <annotations>
-    <annotation type="History">Aug. 5, 1997, 111 Stat. 723, Pub. L. 105-33, § 11032</annotation>
+    <annotation type="History" doc="Pub. L. 105-33" path="§11032">Aug. 5, 1997, 111 Stat. 723, Pub. L. 105-33, § 11032</annotation>
     <annotation doc="Pub. L. 105-277" type="History">Oct. 21, 1998, 112 Stat. 2681-531, Pub. L. 105-277, § 801(c)</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-821.01">1-821.01</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-764.2.</annotation>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-1131.14</num>
   <heading>Appointments.</heading>
   <para>
@@ -22,6 +23,6 @@
     <text>An insurer shall pay a renewal appointment fee in the amount and on or before the date prescribed by the Commissioner.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-264" type="History">Mar. 27, 2003, D.C. Law 14-264, § 14, 50 DCR 260</annotation>
+    <annotation doc="D.C. Law 14-264" type="History" path="§14">Mar. 27, 2003, D.C. Law 14-264, § 14, 50 DCR 260</annotation>
   </annotations>
 </section>

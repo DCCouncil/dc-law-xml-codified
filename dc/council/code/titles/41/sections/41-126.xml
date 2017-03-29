@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>41-126</num>
   <heading>Claim of state to recover property.</heading>
   <para>
@@ -34,7 +35,7 @@
     <text>In connection with all property so delivered to a state, the Mayor shall seek indemnification from the state making the claim.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 3-160" type="History">Mar. 5, 1981, D.C. Law 3-160, § 126, 27 DCR 5150</annotation>
+    <annotation doc="D.C. Law 3-160" type="History" path="§126">Mar. 5, 1981, D.C. Law 3-160, § 126, 27 DCR 5150</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 42-226.</annotation>
     <annotation type="Editor's Notes">Uniform Law: This section is based upon § 25 of the Uniform Unclaimed Property Act (1981 Act).</annotation>
   </annotations>

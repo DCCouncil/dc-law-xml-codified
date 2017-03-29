@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-355.02</num>
   <heading>Cost-reimbursement contracts.</heading>
   <para>
@@ -18,6 +19,6 @@
     <text>All cost-reimbursement contracts shall contain a provision that only costs determined in writing to be reimbursable by the contracting officer, in accordance with cost principles set forth in rules issued pursuant to this chapter, shall be reimbursable.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-371" type="History">Apr. 8, 2011, D.C. Law 18-371, § 502, 58 DCR 1185</annotation>
+    <annotation doc="D.C. Law 18-371" type="History" path="§502">Apr. 8, 2011, D.C. Law 18-371, § 502, 58 DCR 1185</annotation>
   </annotations>
 </section>

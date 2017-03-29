@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>16-2359</num>
   <heading>Adjudicatory hearing.</heading>
   <para>
@@ -32,6 +33,7 @@
     <annotation doc="D.C. Law 17-231" type="History">Sept. 12, 2008, D.C. Law 17-231, § 20(h), 55 DCR 6758</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 16-2359.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 16-2359.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-231">D.C. Law 17-231</cite>, in subsec. (e), substituted “spouse or domestic partner” for “husband/wife”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-231">D.C. Law 17-231</law-cite>, in subsec. (e), substituted “spouse or domestic partner” for “husband/wife”.</annotation>
   </annotations>
 </section>

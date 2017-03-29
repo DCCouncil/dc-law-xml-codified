@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1217.35i</num>
   <heading>Limited liability.</heading>
   <para>
@@ -14,6 +15,6 @@
     <text>No person, including, but not limited to, any Bond owner, shall have any claims against the District or any of its elected or appointed officials, officers, employees, or agents for monetary damages suffered as a result of the failure of the District to perform any covenant, undertaking, or obligation under this subpart, the Bonds, the Financing Documents, or the Closing Documents, or as a result of the incorrectness of any representation in or omission from the Financing Documents or the Closing Documents, unless the District or its elected or appointed officials, officers, employees, or agents have acted in a willful and fraudulent manner.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-110" type="History">June 21, 2014, D.C. Law 20-110, § 208, 61 DCR 4315</annotation>
+    <annotation doc="D.C. Law 20-110" type="History" path="§208">June 21, 2014, D.C. Law 20-110, § 208, 61 DCR 4315</annotation>
   </annotations>
 </section>

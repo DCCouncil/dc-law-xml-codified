@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-747</num>
   <heading>Civil enforcement.</heading>
   <para>
@@ -54,7 +55,7 @@
     <text>In any action under this chapter by a participant, beneficiary, fiduciary, or the Board, the court in its discretion may allow a reasonable attorney’s fee and costs of action to either party.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 96-122" type="History">Nov. 17, 1979, 93 Stat. 866, Pub. L. 96-122, § 187</annotation>
+    <annotation doc="Pub. L. 96-122" type="History" path="§187">Nov. 17, 1979, 93 Stat. 866, Pub. L. 96-122, § 187</annotation>
     <annotation doc="D.C. Law 8-97" type="History">Mar. 24, 1990, D.C. Law 8-97, § 2(f), 37 DCR 1046</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-747.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-1847.</annotation>

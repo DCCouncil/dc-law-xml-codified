@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-3001</num>
   <heading>Disability of minority removed; investments by building, building and loan, and savings and loan associations.</heading>
   <para>
@@ -22,7 +23,7 @@
     </para>
   </para>
   <annotations>
-    <annotation type="History">May 1, 1946, 60 Stat. 159, ch. 245, § 2</annotation>
+    <annotation type="History" doc="Stat. 79-2-ch245" path="§2">May 1, 1946, 60 Stat. 159, ch. 245, § 2</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-2301.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 45-1701.</annotation>
     <annotation type="References in Text">The Servicemen’s Readjustment Act of 1944, referred to in subsections (a) and (b)(2) of this section, is the Act of June 22, 1944, 58 Stat. 284, codified primarily as former  38 U.S.C. § 693 et seq., and repealed by the Act of Sept. 2, 1958, 72 Stat. 1273, Pub. L. 85-857. See now  38 U.S.C. § 3701 et seq.</annotation>

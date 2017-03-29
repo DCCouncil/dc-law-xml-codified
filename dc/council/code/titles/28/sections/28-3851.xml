@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>28-3851</num>
   <heading>Definitions.</heading>
   <text>For purposes of this subchapter, the term:</text>
@@ -74,6 +75,6 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 16-237" type="History">Mar. 8, 2007, D.C. Law 16-237, § 2(c), 54 DCR 393</annotation>
-    <annotation type="Editor's Notes">Section 3 of <cite doc="D.C. Law 16-237">D.C. Law 16-237</cite> provided: “This act shall apply as of July 1, 2007.”</annotation>
+    <annotation type="Editor's Notes">Section 3 of <law-cite doc="D.C. Law 16-237">D.C. Law 16-237</law-cite> provided: “This act shall apply as of July 1, 2007.”</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-408</num>
   <heading>Penalties.</heading>
   <para>
@@ -25,7 +26,7 @@
     <text>Nothing contained in this section shall in any manner alter or affect the rights of policyholders, claimants, creditors, or other third parties.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-52" type="History">Oct. 21, 1993, D.C. Law 10-52, § 9, 40 DCR 6129</annotation>
+    <annotation doc="D.C. Law 10-52" type="History" path="§9">Oct. 21, 1993, D.C. Law 10-52, § 9, 40 DCR 6129</annotation>
     <annotation doc="D.C. Law 11-268" type="History">May 21, 1997, D.C. Law 11-268, § 10, 44 DCR 1730</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-4008.</annotation>
   </annotations>

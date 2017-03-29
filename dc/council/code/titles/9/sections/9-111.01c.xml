@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>9-111.01c</num>
   <heading>Cost-transfer projects.</heading>
   <para>
@@ -62,8 +63,8 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 11-184" type="History">Apr. 9, 1997, D.C. Law 11-184, § 102c</annotation>
+    <annotation doc="D.C. Law 11-184" type="History" path="§102c">Apr. 9, 1997, D.C. Law 11-184, § 102c</annotation>
     <annotation doc="D.C. Law 19-168" type="History">as added Sept. 20, 2012, D.C. Law 19-168, § 6023(c), 59 DCR 8025</annotation>
-    <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> added this section.</annotation>
+    <annotation type="Effect of Amendments">The 2012 amendment by <law-cite doc="D.C. Law 19-168">D.C. Law 19-168</law-cite> added this section.</annotation>
   </annotations>
 </section>

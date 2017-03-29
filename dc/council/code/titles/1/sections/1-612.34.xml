@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-612.34</num>
   <heading>Leave contributions.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>A leave contributor shall not contribute more than 1/2 of the amount of annual or universal leave that the leave contributor would be entitled to accrue during the leave year; provided, that a leave contributor may contribute restored leave without limitation.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 1234</annotation>
+    <annotation doc="D.C. Law 2-139" type="History" path="§1234">Mar. 3, 1979, D.C. Law 2-139, § 1234</annotation>
     <annotation doc="D.C. Law 15-68" type="History">as added Feb. 6, 2004, D.C. Law 15-68, § 2, 50 DCR 9819</annotation>
   </annotations>
 </section>

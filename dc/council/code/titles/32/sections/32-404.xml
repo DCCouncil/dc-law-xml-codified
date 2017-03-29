@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>32-404</num>
   <heading>Requirements for operation of employment agencies.</heading>
   <para>
@@ -70,11 +71,11 @@
     <para>
       <num>(6)</num>
       <text>Each contract between an employment agency and a job-seeker shall contain the following notice in type which is more prominent than the type used for the remainder of the contract:</text>
-      <para>
-        <heading>NOTICE</heading>
-        <text>YOU HAVE THE RIGHT TO CANCEL THIS CONTRACT FOR ANY REASON WITHIN 3 DAYS FROM THE DATE OF SIGNING. IF YOU CHOOSE TO CANCEL THIS CONTRACT, YOU MUST PROVIDE (name of employment agency) WRITTEN NOTIFICATION OF YOUR CANCELLATION WITHIN 3 DAYS.</text>
-        <text>IF YOU FEEL THAT YOU HAVE BEEN THE VICTIM OF AN UNLAWFUL TRADE PRACTICE RELATED TO THIS CONTRACT, YOU HAVE THE RIGHT TO FILE A COMPLAINT WITH THE DEPARTMENT OF CONSUMER AND REGULATORY AFFAIRS OF THE DISTRICT OF COLUMBIA.</text>
-      </para>
+      <text>
+        <center>NOTICE</center>
+      </text>
+      <text>YOU HAVE THE RIGHT TO CANCEL THIS CONTRACT FOR ANY REASON WITHIN 3 DAYS FROM THE DATE OF SIGNING. IF YOU CHOOSE TO CANCEL THIS CONTRACT, YOU MUST PROVIDE (name of employment agency) WRITTEN NOTIFICATION OF YOUR CANCELLATION WITHIN 3 DAYS.</text>
+      <text>IF YOU FEEL THAT YOU HAVE BEEN THE VICTIM OF AN UNLAWFUL TRADE PRACTICE RELATED TO THIS CONTRACT, YOU HAVE THE RIGHT TO FILE A COMPLAINT WITH THE DEPARTMENT OF CONSUMER AND REGULATORY AFFAIRS OF THE DISTRICT OF COLUMBIA.</text>
     </para>
   </para>
   <para>
@@ -170,7 +171,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 5-136" type="History">Mar. 13, 1985, D.C. Law 5-136, § 5, 31 DCR 5727</annotation>
+    <annotation doc="D.C. Law 5-136" type="History" path="§5">Mar. 13, 1985, D.C. Law 5-136, § 5, 31 DCR 5727</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§28-3904">28-3904</cite> and § <cite path="§32-402">32-402</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 36-1004.</annotation>
   </annotations>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-2401.04</num>
   <heading>Elementary and secondary education programs.</heading>
   <para>
@@ -123,7 +124,7 @@
   <annotations>
     <text type="References in Text">“The Individuals with Disabilities Education Act” and “§ 615 of that Act”, referred to in (a)(2)(B), (b)(3) and (b)(4)(C) are codified at  20 U.S.C. § 1400 et seq. and  20 U.S.C. § 1415, respectively.</text>
     <text type="References in Text">“Section 618(b) of the Individuals with Disabilities Education Act”, referred to in (b)(2), is codified at  20 U.S.C. § 1418(b).</text>
-    <annotation doc="Pub. L. 99-371" type="History">Aug. 4, 1986, Pub. L. 99-371, § 104</annotation>
+    <annotation doc="Pub. L. 99-371" type="History" path="§104">Aug. 4, 1986, Pub. L. 99-371, § 104</annotation>
     <annotation type="History">as added Oct. 1, 1992, 106 Stat. 2151, Pub. L. 102-421, § 112</annotation>
     <annotation doc="Pub. L. 103-73" type="History">Aug. 11, 1993, 107 Stat. 733, Pub. L. 103-73, § 203(d)</annotation>
     <annotation doc="D.C. Law 11-255" type="History">Apr. 9, 1997, D.C. Law 11-255, § 35(a), 44 DCR 1271</annotation>

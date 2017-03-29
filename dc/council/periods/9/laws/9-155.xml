@@ -1,12 +1,13 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 9-155" flag="true">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="D.C. Law 9-155" flag="true" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">9-155</num>
   <heading type="short">DISTRICT OF COLUMBIA UNIFORMED CONTROLLED SUBSTANCES AMENDMENT ACT OF 1991, BILL 9-148</heading>
   <meta>
     <effective>1992-09-26</effective>
-    <cites>
-      <law lawId="155" period="9" url="./docs/9-155.pdf"/>
-      <register page="5679" vol="39"/>
-    </cites>
-    <history url="http://lims.dccouncil.us/Legislation/B9-0148"/>
+    <citations>
+      <citation type="law" url="./docs/9-155.pdf">D.C. Law 9-155</citation>
+      <citation type="register">39 DCR 5679</citation>
+    </citations>
+    <history url="http://lims.dccouncil.us/Legislation/B9-0148" />
   </meta>
 </document>

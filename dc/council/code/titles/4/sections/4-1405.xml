@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>4-1405</num>
   <heading>Persons and agencies authorized to place children; custody, control and visitation by agencies; confidentiality of records.</heading>
   <para>
@@ -22,7 +23,7 @@
     </para>
   </para>
   <annotations>
-    <annotation type="History">Apr. 22, 1944, 58 Stat. 194, ch. 174, § 5</annotation>
+    <annotation type="History" doc="Stat. 78-2-ch174" path="§5">Apr. 22, 1944, 58 Stat. 194, ch. 174, § 5</annotation>
     <annotation type="History">June 8, 1954, 68 Stat. 247, ch. 273, § 3</annotation>
     <annotation doc="D.C. Law 3-59" type="History">Apr. 23, 1980, D.C. Law 3-59, § 2(a), 27 DCR 983</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 32-1005.</annotation>

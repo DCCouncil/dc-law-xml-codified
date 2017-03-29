@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1212.22</num>
   <heading>Requirements.</heading>
   <para>
@@ -26,6 +27,6 @@
     <text>A grocery store shall agree in writing to the conditions set forth in subsection (a) of this section for a period of at least 5 years as a condition of participating in the Program; provided, that this requirement shall not be enforceable if the individual or legal entity ceases grocery store operations.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-353" type="History">Apr. 8, 2011, D.C. Law 18-353, § 202, 58 DCR 746</annotation>
+    <annotation doc="D.C. Law 18-353" type="History" path="§202">Apr. 8, 2011, D.C. Law 18-353, § 202, 58 DCR 746</annotation>
   </annotations>
 </section>

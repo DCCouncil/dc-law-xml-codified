@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>46-358.01</num>
   <heading>Grounds for rendition.</heading>
   <para>
@@ -22,6 +23,6 @@
     <text>A provision for extradition of individuals not inconsistent with this chapter applies to the demand even if the individual whose surrender is demanded was not in the demanding state when the crime was allegedly committed and has not fled therefrom.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 21-73" type="History">Feb. 27, 2016, D.C. Law 21-73, § 801, 63 DCR 222</annotation>
+    <annotation doc="D.C. Law 21-73" type="History" path="§801">Feb. 27, 2016, D.C. Law 21-73, § 801, 63 DCR 222</annotation>
   </annotations>
 </section>

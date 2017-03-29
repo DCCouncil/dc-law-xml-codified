@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-3508.04</num>
   <heading>Distressed properties improvement program.</heading>
   <para>
@@ -42,7 +43,7 @@
     <text>Distressed properties and new or rehabilitated vacant rental housing under §§ <cite path="§42-3508.02">42-3508.02</cite> and <cite path="§42-3508.03">42-3508.03</cite> shall have priority over other properties for participation in the Tenant Assistance Program so long as the tenants who reside in distressed property and who receive assistance from the Tenant Assistance Program are doing so consistent with the provisions of § <cite path="§42-3503.03">42-3503.03</cite>(c).</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-10" type="History">July 17, 1985, D.C. Law 6-10, § 804, 32 DCR 3089</annotation>
+    <annotation doc="D.C. Law 6-10" type="History" path="§804">July 17, 1985, D.C. Law 6-10, § 804, 32 DCR 3089</annotation>
     <annotation doc="D.C. Law 6-192" type="History">Feb. 24, 1987, D.C. Law 6-192, § 13(h), 33 DCR 7836</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§42-407">42-407</cite>, § <cite path="§42-3503.02">42-3503.02</cite>, and § <cite path="§42-3508.05">42-3508.05</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-2584.</annotation>

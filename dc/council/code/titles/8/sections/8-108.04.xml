@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-108.04</num>
   <heading>Penalties.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>Pursuant to § <cite path="§8-108.05">8-108.05</cite>, the Mayor shall issue rules to implement the provisions of this section 90 days after March 31, 2011.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-336" type="History">Mar. 31, 2011, D.C. Law 18-336, § 5, 58 DCR 605</annotation>
+    <annotation doc="D.C. Law 18-336" type="History" path="§5">Mar. 31, 2011, D.C. Law 18-336, § 5, 58 DCR 605</annotation>
   </annotations>
 </section>

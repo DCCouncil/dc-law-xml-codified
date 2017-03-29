@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>6-1305</num>
   <heading>Property.</heading>
   <para>
@@ -49,7 +50,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 97-241" type="History">Aug. 24, 1982, 96 Stat. 285, Pub. L. 97-241, § 205</annotation>
+    <annotation doc="Pub. L. 97-241" type="History" path="§205">Aug. 24, 1982, 96 Stat. 285, Pub. L. 97-241, § 205</annotation>
     <annotation doc="Pub. L. 99-93" type="History">Aug. 16, 1985, 99 Stat. 405, Pub. L. 99-93, § 127(d), (e)</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§6-1306">6-1306</cite> and § <cite path="§6-1307">6-1307</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 5-1205.</annotation>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>9-425.03</num>
   <heading>Exemptions.</heading>
   <para>
@@ -26,6 +27,6 @@
     <text>The written determination required in subsection (a) of this section shall be posted on the District Department of Transportation website and made available to the Council and the affected Advisory Neighborhood Commissions.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-227" type="History">Sept. 24, 2010, D.C. Law 18-227, § 4, 57 DCR 6923</annotation>
+    <annotation doc="D.C. Law 18-227" type="History" path="§4">Sept. 24, 2010, D.C. Law 18-227, § 4, 57 DCR 6923</annotation>
   </annotations>
 </section>

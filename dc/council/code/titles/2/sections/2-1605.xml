@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1605</num>
   <heading>Employment of attorneys and other personnel; compensation; private practice by attorneys not permitted.</heading>
   <para>
@@ -33,7 +34,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 91-358" type="History">July 29, 1970, 84 Stat. 656, Pub. L. 91-358, title III, § 305</annotation>
+    <annotation doc="Pub. L. 91-358" type="History" path="§305">July 29, 1970, 84 Stat. 656, Pub. L. 91-358, title III, § 305</annotation>
     <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 3205(cc), 25 DCR 5740</annotation>
     <annotation doc="D.C. Law 7-52" type="History">Dec. 10, 1987, D.C. Law 7-52, § 2(c), 34 DCR 6891</annotation>
     <annotation doc="Pub. L. 105-274" type="History">Oct. 21, 1998, 112 Stat. 2427, Pub. L. 105-274, § 7(e)(1)</annotation>

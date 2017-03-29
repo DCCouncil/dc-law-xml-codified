@@ -1,11 +1,12 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-3131.01</num>
   <heading>Mayor may correct conditions violative of law; assessment of cost; lien on property; fund to pay costs; summary corrective action of life-or-health threatening condition.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in paragraph (2) of this subsection, whenever the owner of any real property in the District of Columbia shall fail or refuse, after the service of reasonable notice in the manner provided in § <cite path="§42-3131.03">42-3131.03</cite>, to correct any condition which exists on or has arisen from such property in violation of law or of any regulation made by authority of law, with the correction of which condition said owner is by law or by said regulation chargeable, or to show cause, sufficient in the judgment of the Mayor of said District, why he should not be required to correct such condition, then, and in that instance, the Mayor of the District of Columbia is authorized to: Cause such condition to be corrected; assess the fair market value of the correction of the condition or the actual cost of the correction, whichever is higher, and all expenses incident thereto (including the cost of publication, if any, herein provided for) as a tax against the property on which such condition existed or from which such condition arose, as the case may be; and carry such tax on the regular tax rolls of the District, and collect such tax in the same manner as general taxes in said District are collected; provided, that the correction of any condition aforesaid by the Mayor of said District under authority of this section shall not relieve the owner of the property on which such condition existed, or from which such condition arose, from criminal prosecution and punishment for having caused or allowed such unlawful condition to arise or for having failed or refused to correct the same.</text>
+      <text>Except as provided in paragraphs (2) and (3) of this subsection, whenever the owner of any real property in the District of Columbia shall fail or refuse, after the service of reasonable notice in the manner provided in § <cite path="§42-3131.03">42-3131.03</cite>, to correct any condition which exists on or has arisen from such property in violation of law or of any regulation made by authority of law, with the correction of which condition said owner is by law or by said regulation chargeable, or to show cause, sufficient in the judgment of the Mayor of said District, why he should not be required to correct such condition, then, and in that instance, the Mayor of the District of Columbia is authorized to: Cause such condition to be corrected; assess the fair market value of the correction of the condition or the actual cost of the correction, whichever is higher, and all expenses incident thereto (including the cost of publication, if any, herein provided for) as a tax against the property on which such condition existed or from which such condition arose, as the case may be; and carry such tax on the regular tax rolls of the District, and collect such tax in the same manner as general taxes in said District are collected; provided, that the correction of any condition aforesaid by the Mayor of said District under authority of this section shall not relieve the owner of the property on which such condition existed, or from which such condition arose, from criminal prosecution and punishment for having caused or allowed such unlawful condition to arise or for having failed or refused to correct the same.</text>
     </para>
     <para>
       <num>(1A)</num>
@@ -14,6 +15,10 @@
     <para>
       <num>(2)</num>
       <text>Whenever the owner of any vacant building, as defined in § <cite path="§42-3131.05">42-3131.05</cite>(5), shall fail to enclose the doors, windows, areaways, or other openings of the property, the Mayor may immediately enclose the property to meet the standard described in § <cite path="§42-3131.12">42-3131.12</cite>. Subsequent to the enclosure, the Mayor shall give the owner notice as prescribed in § <cite path="§42-3131.03">42-3131.03</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Summary correction of certain violations without prior notice to the owner is authorized pursuant to subsection (c)(1) of this section.</text>
     </para>
   </para>
   <para>
@@ -46,7 +51,90 @@
     <num>(c)</num>
     <para>
       <num>(1)</num>
-      <text>The Mayor may cause the summary correction of housing regulation violations or violations of the construction codes where a life-or-health threatening condition exists, as determined by the Mayor. A life-or-health threatening condition means a condition that imminently endangers the health or safety of the tenant or occupant of the premises in a housing unit or housing accommodation, or that imminently endangers the health, safety, or welfare of the surrounding community. The condition may include, but is not limited to, a vacant building, as defined in § <cite path="§42-3131.05">42-3131.05</cite>(5), or the interruption of electrical, heat, gas, water, or other essential services, when the interruption results from other than natural causes. The condition may also include the presence of graffiti. Except in the case of a vacant building, the Mayor shall notify promptly the owner or authorized agent that the correction is ordered within a specified time period. If at the time of this notice the owner is engaged in a good faith effort to make the necessary correction, the Mayor shall not commence corrective action unless and until the owner interrupts or ceases the effort. A good faith effort shall be one which is likely to cause the correction of the condition at least as soon as it could otherwise be corrected by the Mayor. The Mayor shall provide an opportunity for review of the summary corrective action without prejudice to the Mayor’s authority to take and complete that action. The owner or authorized agent shall be notified by personal service or by registered mail to the last known address and by conspicuous posting on the property. If the owner or address is unknown, or cannot be located, notice shall be provided by conspicuous posting on the property. The Mayor may assess all reasonable costs of correcting the condition and all expenses incident thereto as a tax against the property, to carry this tax on the regular tax rolls, and to collect the tax in the same manner as real estate taxes are collected. Monies in the revolving fund established by subsection (b)(1) of this section shall be available to cover the costs of the summary correction authorized by this subsection.</text>
+      <para>
+        <num>(A)</num>
+        <text>The Mayor may order the summary correction of housing regulation violations or violations of the Construction Codes where there is imminent danger, as determined by the Mayor.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Except in the case of a vacant building, the Mayor shall promptly notify the owner or authorized agent that the correction is ordered within a specified time period; provided, that the Mayor is authorized to take emergency action, including putting in temporary safeguards, without prior notification when the Mayor determines there is imminent danger due to an unsafe condition and immediate emergency action is necessary to alleviate the danger.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Any person ordered to take emergency measures or actions shall immediately comply with any notice or order.  Where notice is provided under this section, if at the time of the notice, the owner is engaged in a good-faith effort to make the necessary correction, the Mayor shall not commence corrective action unless and until the owner interrupts or ceases the corrective effort or the Mayor determines that emergency repairs or temporary safeguards are required.</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <para>
+          <num>(i)</num>
+          <text>The owner or authorized agent shall be notified by personal service or by registered mail to the last known address and by conspicuous posting on the property. If the owner or address is unknown, or cannot be located, notice shall be provided by conspicuous posting on the property.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The Mayor may assess all reasonable costs of correcting the condition and all expenses incident to the corrective action as a tax against the property.</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>A tax placed against a property pursuant to this subsection shall be carried on the regular tax rolls and collected in the same manner as real estate taxes are collected.</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>The Mayor shall provide an opportunity for review of the summary corrective action without prejudice to the Mayor's authority to take and complete that action.</text>
+        </para>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Monies in the fund established by subsection (b)(1) of this section shall be available to cover the costs of the summary corrections authorized by this subsection.</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>For the purposes of this paragraph, the term:</text>
+        <para>
+          <num>(i)</num>
+          <text>"Good faith effort" means one that is likely to cause the correction of the condition at least as soon as it could be corrected by the Mayor.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <para>
+            <num>(I)</num>
+            <text>"Imminent danger"  means:</text>
+            <para>
+              <num>(aa)</num>
+              <text>There is an immediate danger of the failure or collapse of a building or other structure that endangers life;</text>
+            </para>
+            <para>
+              <num>(bb)</num>
+              <text>When any structure or part of a structure has fallen and life is endangered by the occupation of the structure;</text>
+            </para>
+            <para>
+              <num>(cc)</num>
+              <text>When there is actual or potential danger to the building occupants or those in the proximity of any structure because of explosives, explosive fumes or vapors, the presence of toxic fumes, gases, or materials; or</text>
+            </para>
+            <para>
+              <num>(dd)</num>
+              <text>When the health or safety of occupants of the premises or those in the proximity of the premises is immediately endangered by an insanitary condition or the operation of defective or dangerous equipment.</text>
+            </para>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>The term "imminent danger" may also include:</text>
+            <para>
+              <num>(aa)</num>
+              <text>A vacant building, as defined in 
+                      <cite path="§42-3131.05|(5)">§ 42-3131.05(5)</cite>;
+                    </text>
+            </para>
+            <para>
+              <num>(bb)</num>
+              <text>The interruption of electrical, heat, gas, water, or other essential services, when the interruption results from other than natural causes; or</text>
+            </para>
+            <para>
+              <num>(cc)</num>
+              <text>The presence of graffiti.</text>
+            </para>
+          </para>
+        </para>
+      </para>
     </para>
     <para>
       <num>(1A)</num>
@@ -70,10 +158,10 @@
     <text>The Mayor may defer or forgive, in whole or in part, any cost or fee assessed pursuant to §§ <cite path="§42-3131.01">42-3131.01</cite> to 42-3131.03 with respect to any qualified real property approved pursuant to § <cite path="§6-1503">6-1503</cite>.</text>
   </para>
   <annotations>
-    <text type="Short Title">Short title: Section 2019 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided that subtitle H of title II of the act may be cited as the “Nuisance Properties Abatement Implementation Amendment Act of 2008”.</text>
-    <text type="Short Title">Short title: Section 2140 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle O of title II of the act may be cited as the “Abatement Property Nuisance Fund Amendment Act of 2009”.</text>
-    <text type="Short Title">Short title: Section 2061 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle F of title II of the act may be cited as the “Administrative Judgments of Nuisance Property Amendment Act of 2010”.</text>
-    <annotation type="History">Apr. 14, 1906, 34 Stat. 114, ch. 1626, § 1</annotation>
+    <text type="Short Title">Short title: Section 2019 of <law-cite doc="D.C. Law 17-219">D.C. Law 17-219</law-cite> provided that subtitle H of title II of the act may be cited as the “Nuisance Properties Abatement Implementation Amendment Act of 2008”.</text>
+    <text type="Short Title">Short title: Section 2140 of <law-cite doc="D.C. Law 18-111">D.C. Law 18-111</law-cite> provided that subtitle O of title II of the act may be cited as the “Abatement Property Nuisance Fund Amendment Act of 2009”.</text>
+    <text type="Short Title">Short title: Section 2061 of <law-cite doc="D.C. Law 18-223">D.C. Law 18-223</law-cite> provided that subtitle F of title II of the act may be cited as the “Administrative Judgments of Nuisance Property Amendment Act of 2010”.</text>
+    <annotation type="History" doc="Stat. 59-1-ch1626" path="§1">Apr. 14, 1906, 34 Stat. 114, ch. 1626, § 1</annotation>
     <annotation doc="D.C. Law 3-45" type="History">Jan. 5, 1980, D.C. Law 3-45, § 2, 26 DCR 2305</annotation>
     <annotation doc="D.C. Law 3-70" type="History">June 14, 1980, D.C. Law 3-70, § 7(m), 27 DCR 1776</annotation>
     <annotation doc="D.C. Law 4-205" type="History">Mar. 10, 1983, D.C. Law 4-205, § 2, 30 DCR 188</annotation>
@@ -98,20 +186,32 @@
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§6-711.01">6-711.01</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 5-513.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 5-313.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-305">D.C. Law 13-305</cite>, in subsec. (b)(2), substituted “if an accounting is made in accordance with, and subject to § <cite path="§47-1340">47-1340</cite>(f), amounts assessed and collected as a tax against real property under subsection (a) of this section” for “amounts assessed and collected as a tax against real property pursuant to subsection (a) of this section”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-114">D.C. Law 14-114</cite>, in subsec. (b)(1), substituted “subsection (a) of this section and for the purposes of demolishing or enclosing a structure under subchapter II of Chapter 31C of this title” for “subsection (a) of this section”; and, in subsec. (b)(2), substituted “expended for the purposes of the fund and funds collected pursuant to subchapter II of Chapter 31C of this title” for “expended for the purposes of the fund”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsecs. (b)(1) and (b)(2), validated a previously made technical correction.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (b)(2), validated a previously made technical correction.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, in par. (1) of subsec. (b), designated the existing text as subparagraph (A), and added subpar. (B); and, in par. (2) of subsec. (b), substituted “; all fees and penalties collected under § <cite path="§6-916">6-916</cite>(b) (to be deposited in the account established under paragraph (1)(B) of this subsection); and all other receipts” for “; and all other receipts”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-209">D.C. Law 16-209</cite>, in subsec. (c), designated existing text as par. (1); in newly designated par. (1), inserted “ The condition may also include the presence of graffiti.”; and added pars. (2) and (3).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-241">D.C. Law 16-241</cite> designated the existing text of subsec. (a) as subsec. (a)(1); in subsec. (a)(1), inserted “Except as provided in paragraph (2) of this subsection, whenever”; added subsec. (a)(2); and, in subsec. (c)(1), inserted “a vacant building, as defined in § <cite path="§42-3131.05">42-3131.05</cite>(5), or” and “Except in the case of a vacant building,”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> rewrote subsec. (b)(4), which had read as follows: “(4) Not later than 6 months after the end of each fiscal year, the Mayor shall submit to the Council of the District of Columbia a report of the financial condition of the fund and the results of the operations and collections for such fiscal year. Said report should include, but not be limited to, the itemized amounts of unrecovered taxes and penalties, the names of delinquent property owners, and the nature of corrected building violations.”</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-319">D.C. Law 17-319</cite>, in subsec. (c)(1), substituted “housing regulation violations or violations of the construction codes” for “housing regulation violations”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated previously made technical corrections in subsecs. (b)(4) and (c).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsec. (b)(2), substituted “grants, donations, or restitution from any source” for “grants from any source” and substituted “recoveries from enforcement action brought by the Office of the Attorney General on behalf of the District of Columbia or District of Columbia agencies for the abatement of violations of Chapters 1 through 16 of Title 14 of the District of Columbia Code of Municipal Regulations, excluding funds obtained through administrative proceedings; and all other receipts” for “; and all other receipts”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> added subsecs. (a)(1A) and (c)(1A).</annotation>
-    <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 8(b) of the Real Property Tax Clarity and Litter Control Administration Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-8">D.C. Law 14-8</cite>, June 13, 2001, law notification  48 DCR 5916).</annotation>
-    <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2(a) of Abatement of Nuisance Properties and Tenant Receivership Temporary amendment Act of 2008 (<cite doc="D.C. Law 17-237">D.C. Law 17-237</cite>, October 21, 2008, law notification  55 DCR 11700).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 13-305">D.C. Law 13-305</law-cite>, in subsec. (b)(2), substituted “if an accounting is made in accordance with, and subject to § <cite path="§47-1340">47-1340</cite>(f), amounts assessed and collected as a tax against real property under subsection (a) of this section” for “amounts assessed and collected as a tax against real property pursuant to subsection (a) of this section”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 14-114">D.C. Law 14-114</law-cite>, in subsec. (b)(1), substituted “subsection (a) of this section and for the purposes of demolishing or enclosing a structure under subchapter II of Chapter 31C of this title” for “subsection (a) of this section”; and, in subsec. (b)(2), substituted “expended for the purposes of the fund and funds collected pursuant to subchapter II of Chapter 31C of this title” for “expended for the purposes of the fund”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 14-213">D.C. Law 14-213</law-cite>, in subsecs. (b)(1) and (b)(2), validated a previously made technical correction.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 15-105">D.C. Law 15-105</law-cite>, in subsec. (b)(2), validated a previously made technical correction.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 15-205">D.C. Law 15-205</law-cite>, in par. (1) of subsec. (b), designated the existing text as subparagraph (A), and added subpar. (B); and, in par. (2) of subsec. (b), substituted “; all fees and penalties collected under § <cite path="§6-916">6-916</cite>(b) (to be deposited in the account established under paragraph (1)(B) of this subsection); and all other receipts” for “; and all other receipts”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 16-209">D.C. Law 16-209</law-cite>, in subsec. (c), designated existing text as par. (1); in newly designated par. (1), inserted “ The condition may also include the presence of graffiti.”; and added pars. (2) and (3).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 16-241">D.C. Law 16-241</law-cite> designated the existing text of subsec. (a) as subsec. (a)(1); in subsec. (a)(1), inserted “Except as provided in paragraph (2) of this subsection, whenever”; added subsec. (a)(2); and, in subsec. (c)(1), inserted “a vacant building, as defined in § <cite path="§42-3131.05">42-3131.05</cite>(5), or” and “Except in the case of a vacant building,”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-219">D.C. Law 17-219</law-cite> rewrote subsec. (b)(4), which had read as follows: “(4) Not later than 6 months after the end of each fiscal year, the Mayor shall submit to the Council of the District of Columbia a report of the financial condition of the fund and the results of the operations and collections for such fiscal year. Said report should include, but not be limited to, the itemized amounts of unrecovered taxes and penalties, the names of delinquent property owners, and the nature of corrected building violations.”</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-319">D.C. Law 17-319</law-cite>, in subsec. (c)(1), substituted “housing regulation violations or violations of the construction codes” for “housing regulation violations”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-353">D.C. Law 17-353</law-cite> validated previously made technical corrections in subsecs. (b)(4) and (c).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 18-111">D.C. Law 18-111</law-cite>, in subsec. (b)(2), substituted “grants, donations, or restitution from any source” for “grants from any source” and substituted “recoveries from enforcement action brought by the Office of the Attorney General on behalf of the District of Columbia or District of Columbia agencies for the abatement of violations of Chapters 1 through 16 of Title 14 of the District of Columbia Code of Municipal Regulations, excluding funds obtained through administrative proceedings; and all other receipts” for “; and all other receipts”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 18-223">D.C. Law 18-223</law-cite> added subsecs. (a)(1A) and (c)(1A).</annotation>
+    <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 8(b) of the Real Property Tax Clarity and Litter Control Administration Temporary Amendment Act of 2001 (<law-cite doc="D.C. Law 14-8">D.C. Law 14-8</law-cite>, June 13, 2001, law notification  48 DCR 5916).</annotation>
+    <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2(a) of Abatement of Nuisance Properties and Tenant Receivership Temporary amendment Act of 2008 (<law-cite doc="D.C. Law 17-237">D.C. Law 17-237</law-cite>, October 21, 2008, law notification  55 DCR 11700).</annotation>
     <annotation type="Emergency Legislation">For temporary (90-day) amendment of section, see § 2 of the Nuisance Repairs Emergency Amendment Act of 1997 (D.C. Act 12-101, July 2, 1997,  44 DCR 4195), § 2 of the Nuisance Repairs Legislative Review Emergency Amendment Act of 1997 (D.C. Act 12-159, October 16, 1997,  44 DCR 6053), and § 2 of the Nuisance Repairs Congressional Review Emergency Amendment Act of 1997 (D.C. Act 12-241, January 13, 1998,  45 DCR 636).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 8(b) of Real Property Tax Clarity and Litter Control Administration Emergency Act of 2001 (D.C. Act 14-22, March 16, 2001,  48 DCR 2706).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2073 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
@@ -121,6 +221,9 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2141 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2141 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2062 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
-    <annotation type="Editor's Notes">Mayor authorized to issue rules: Section 13 of <cite doc="D.C. Law 7-177">D.C. Law 7-177</cite> provided that the Mayor shall issue rules to implement the provisions of the act.</annotation>
+    <annotation type="Editor's Notes">Mayor authorized to issue rules: Section 13 of <law-cite doc="D.C. Law 7-177">D.C. Law 7-177</law-cite> provided that the Mayor shall issue rules to implement the provisions of the act.</annotation>
+    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§6|(a)|(1)" type="History" />
+    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§6|(a)|(2)" type="History" />
+    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§6|(b)" type="History" />
   </annotations>
 </section>

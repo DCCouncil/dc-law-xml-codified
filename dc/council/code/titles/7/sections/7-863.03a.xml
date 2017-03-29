@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-863.03a</num>
   <heading>Transfer from Department of Human Services; continuation.</heading>
   <para>
@@ -10,10 +11,11 @@
     <text>All rules, orders, obligations, determinations, grants, contracts, licenses, and agreements of the Board of Education, the District of Columbia Public Schools, the Department of Human Services, or the University of the District of Columbia relating to functions transferred to the Office of the State Superintendent of Education under subsection (a) of this section shall remain in effect according to their terms until lawfully amended, repealed, or modified.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-353" type="History">Apr. 13, 2005, D.C. Law 15-353, § 503a</annotation>
+    <annotation doc="D.C. Law 15-353" type="History" path="§503a">Apr. 13, 2005, D.C. Law 15-353, § 503a</annotation>
     <annotation doc="D.C. Law 17-9" type="History">as added June 12, 2007, D.C. Law 17-9, § 304(b), 54 DCR 4102</annotation>
     <annotation doc="D.C. Law 17-202" type="History">July 18, 2008, D.C. Law 17-202, § 602, 55 DCR 6297</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§38-2605.01">38-2605.01</cite>.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-202">D.C. Law 17-202</cite> substituted “institution of functions related to the Early Care and Education Administration and the Early Intervention Program” for “institution of functions related to the Early Intervention Program”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-202">D.C. Law 17-202</law-cite> substituted “institution of functions related to the Early Care and Education Administration and the Early Intervention Program” for “institution of functions related to the Early Intervention Program”.</annotation>
   </annotations>
 </section>

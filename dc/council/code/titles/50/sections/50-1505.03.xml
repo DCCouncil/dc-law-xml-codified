@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-1505.03</num>
   <heading>Registration.</heading>
   <para>
@@ -25,7 +26,7 @@
     <text>Each rental operator in the District of Columbia who  is engaged in the business of renting utility trailers shall register a number of such trailers equal to the average number of such trailers rented in the District of Columbia during the preceding year.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-157" type="History">Mar. 6, 1979, D.C. Law 2-157, § 4, 25 DCR 6995</annotation>
+    <annotation doc="D.C. Law 2-157" type="History" path="§4">Mar. 6, 1979, D.C. Law 2-157, § 4, 25 DCR 6995</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§50-1505.01">50-1505.01</cite> and § <cite path="§50-1505.02">50-1505.02</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-113.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 40-113.</annotation>

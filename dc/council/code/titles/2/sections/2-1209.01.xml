@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1209.01</num>
   <heading>Purposes.</heading>
   <text>In enacting this subchapter, the Council of the District of Columbia supports the following statutory purposes:</text>
@@ -11,7 +12,7 @@
     <text>To design business incubators to assist companies through the conceptual, start-up, and early growth stages of their businesses. The business incubator is not intended to serve merely as inexpensive quarters for established businesses.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-71" type="History">Dec. 12, 1985, D.C. Law 6-71, § 2, 32 DCR 6334</annotation>
+    <annotation doc="D.C. Law 6-71" type="History" path="§2">Dec. 12, 1985, D.C. Law 6-71, § 2, 32 DCR 6334</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-2231.</annotation>
   </annotations>
 </section>

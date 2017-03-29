@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-1123</num>
   <heading>Board of Vocational Education — Powers and duties.</heading>
   <para>
@@ -96,7 +97,7 @@
   <annotations>
     <text type="References in Text">“ Section 3306 of Title 5, United States Code,” referred to in subsections (a)(4)(iv) and (a)(5)(G), was repealed by the Act of February 10, 1978, 92 Stat. 25, Pub. L. 95-228.</text>
     <text type="References in Text">“ Section 3364 of Title 5, United States Code,” referred to in subsections (a)(4)(iv) and (a)(5)(G), was repealed by the Act of December 31, 1975, 89 Stat. 1057, Pub. L. 94-183.</text>
-    <annotation doc="Pub. L. 89-791" type="History">Nov. 7, 1966, 80 Stat. 1431, Pub. L. 89-791, title II, § 203</annotation>
+    <annotation doc="Pub. L. 89-791" type="History" path="§203">Nov. 7, 1966, 80 Stat. 1431, Pub. L. 89-791, title II, § 203</annotation>
     <annotation type="Cross References">Abolition of Vocational Board, see § <cite path="§31-1517">31-1517</cite>.</annotation>
     <annotation type="Cross References">Ceremonial expenses, see § <cite path="§38-1202.08">38-1202.08</cite>.</annotation>
     <annotation type="Cross References">Official expenses, see § <cite path="§38-915">38-915</cite>.</annotation>

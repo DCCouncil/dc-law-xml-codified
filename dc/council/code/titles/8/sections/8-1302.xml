@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-1302</num>
   <heading>Definitions.</heading>
   <text>For purposes of this chapter:</text>
@@ -82,7 +83,7 @@
     <text>The term “treatment facility” means a location for treatment, including an incinerator or a facility where generation has occurred.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-64" type="History">Mar. 16, 1978, D.C. Law 2-64, § 3, 24 DCR 6289</annotation>
+    <annotation doc="D.C. Law 2-64" type="History" path="§3">Mar. 16, 1978, D.C. Law 2-64, § 3, 24 DCR 6289</annotation>
     <annotation doc="D.C. Law 5-103" type="History">Aug. 10, 1984, D.C. Law 5-103, § 2(b), 31 DCR 3032</annotation>
     <annotation doc="D.C. Law 8-37" type="History">Oct. 18, 1989, D.C. Law 8-37, § 2(b), 36 DCR 5748</annotation>
     <annotation doc="D.C. Law 8-229" type="History">Mar. 8, 1991, D.C. Law 8-229, title I, § 102(b), 38 DCR 246</annotation>

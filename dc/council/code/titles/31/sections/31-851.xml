@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-851</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
@@ -58,6 +59,6 @@
     <text>“Privilege” means the insurance compliance self-evaluative privilege created by § <cite path="§31-853">31-853</cite>(a).</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-293" type="History">Apr. 11, 2003, D.C. Law 14-293, § 2, 50 DCR 296</annotation>
+    <annotation doc="D.C. Law 14-293" type="History" path="§2">Apr. 11, 2003, D.C. Law 14-293, § 2, 50 DCR 296</annotation>
   </annotations>
 </section>

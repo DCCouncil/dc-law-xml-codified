@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-171</num>
   <heading>Cherry designated official fruit.</heading>
   <para>
@@ -30,7 +31,7 @@
     <text>The cherry is hereby designated the official fruit of the District of Columbia.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 16-171" type="History">Sept. 29, 2006, D.C. Law 16-171, § 2, 53 DCR 6227</annotation>
+    <annotation doc="D.C. Law 16-171" type="History" path="§2">Sept. 29, 2006, D.C. Law 16-171, § 2, 53 DCR 6227</annotation>
     <annotation type="Editor's Notes">Former § <cite path="§1-171">1-171</cite> has been recodified as § <cite path="§1-151">1-151</cite>.</annotation>
   </annotations>
 </section>

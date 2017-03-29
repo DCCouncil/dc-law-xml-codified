@@ -1,10 +1,11 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 7-132">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="D.C. Law 7-132" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">7-132</num>
   <meta>
     <effective>1988-07-08</effective>
-    <cites>
-      <law lawId="132" period="7" url="./docs/7-132.pdf"/>
-      <register page="4108" vol="35"/>
-    </cites>
+    <citations>
+      <citation type="law" url="./docs/7-132.pdf">D.C. Law 7-132</citation>
+      <citation type="register">35 DCR 4108</citation>
+    </citations>
   </meta>
 </document>

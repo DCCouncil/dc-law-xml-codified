@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2341.05</num>
   <heading>Emergency medical services personnel: certification required.</heading>
   <para>
@@ -54,6 +55,6 @@
     <text>The Mayor shall require each applicant for emergency medical services personnel recertification to successfully complete continuing professional education or supplemental training or to successfully complete one or more competency evaluations demonstrating knowledge of the skills required for acceptable performance of the duties of that classification of personnel. The Mayor may adopt nationally recognized training requirements and evaluations or develop requirements and evaluations specific to the emergency medical services needs of the District of Columbia.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-357" type="History">Mar. 25, 2009, D.C. Law 17-357, § 6, 56 DCR 1167</annotation>
+    <annotation doc="D.C. Law 17-357" type="History" path="§6">Mar. 25, 2009, D.C. Law 17-357, § 6, 56 DCR 1167</annotation>
   </annotations>
 </section>

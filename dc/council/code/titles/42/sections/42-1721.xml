@@ -1,10 +1,11 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Repealed</reason>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-1721</num>
+  <reason>Repealed</reason>
   <heading>Acting as broker or salesman without license unlawful</heading>
   <text>Repealed.</text>
   <annotations>
-    <annotation doc="D.C. Law 4-209" type="History">Mar. 10, 1983, D.C. Law 4-209, § 34, 30 DCR 390</annotation>
+    <annotation doc="D.C. Law 4-209" type="History" path="§34">Mar. 10, 1983, D.C. Law 4-209, § 34, 30 DCR 390</annotation>
     <annotation type="Prior Codifications">1981 Ed., §§ 45-1901 to 45-1918.</annotation>
   </annotations>
 </section>

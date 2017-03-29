@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-625</num>
   <heading>Physician’s duty to confirm terminal condition.</heading>
   <para>
@@ -14,8 +15,8 @@
     <text>An attending physician who does not comply with this section shall be considered to have committed an act of unprofessional conduct under § <cite path="§3-2926">3-2926</cite>.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 4-69" type="History">Feb. 25, 1982, D.C. Law 4-69, § 6, 28 DCR 5047</annotation>
+    <annotation doc="D.C. Law 4-69" type="History" path="§6">Feb. 25, 1982, D.C. Law 4-69, § 6, 28 DCR 5047</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-2425.</annotation>
-    <annotation type="References in Text">Section 3-2926 referred to in subsection (c), was repealed by § 1104(e) of <cite doc="D.C. Law 6-99">D.C. Law 6-99</cite>, effective March 25, 1986.</annotation>
+    <annotation type="References in Text">Section 3-2926 referred to in subsection (c), was repealed by § 1104(e) of <law-cite doc="D.C. Law 6-99">D.C. Law 6-99</law-cite>, effective March 25, 1986.</annotation>
   </annotations>
 </section>

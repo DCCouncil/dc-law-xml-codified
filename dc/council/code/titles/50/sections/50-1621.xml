@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-1621</num>
   <heading>Civil action for bicyclists.</heading>
   <para>
@@ -22,6 +23,6 @@
     <text>For the purposes of this section, the term “motorist” means an individual who operates a motor vehicle, as defined in § <cite path="§50-2301.02">50-2301.02</cite>(5A).</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-264" type="History">Apr. 20, 2013, D.C. Law 19-264, § 2, 60 DCR 1346</annotation>
+    <annotation doc="D.C. Law 19-264" type="History" path="§2">Apr. 20, 2013, D.C. Law 19-264, § 2, 60 DCR 1346</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-1573</num>
   <heading>Eligibility.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>Eligible District youth participating twice or more in the program shall maintain an acceptable level of school attendance and at least a 2.0 cumulative grade point average during the preceding academic year. The superintendent of schools or his designee shall certify that each of these participants has maintained an acceptable level of school attendance and at least a 2.0 cumulative grade point average during the preceding academic year.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 16-32" type="History">Oct. 20, 2005, D.C. Law 16-32, § 4, 52 DCR 7475</annotation>
+    <annotation doc="D.C. Law 16-32" type="History" path="§4">Oct. 20, 2005, D.C. Law 16-32, § 4, 52 DCR 7475</annotation>
   </annotations>
 </section>

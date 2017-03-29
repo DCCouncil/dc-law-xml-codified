@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>9-202.02</num>
   <heading>Actions required of Mayor prior to consideration of application.</heading>
   <text>Prior to consideration by a committee of the Council of an application to close all or part of a street or alley, the Mayor shall:</text>
@@ -47,7 +48,7 @@
     <text>Provide notice of the application to each abutting property owner, and provide the Council with a copy of any comments submitted by an abutting property owner.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 4-201" type="History">Mar. 10, 1983, D.C. Law 4-201, § 202, 30 DCR 148</annotation>
+    <annotation doc="D.C. Law 4-201" type="History" path="§202">Mar. 10, 1983, D.C. Law 4-201, § 202, 30 DCR 148</annotation>
     <annotation doc="D.C. Law 7-106" type="History">May 10, 1988, D.C. Law 7-106, § 2(b), 35 DCR 2170</annotation>
     <annotation doc="D.C. Law 7-144" type="History">Sept. 21, 1988, D.C. Law 7-144, § 3(a), 35 DCR 5405</annotation>
     <annotation type="Cross References">National capital housing authority, street and alley closing procedures, see § <cite path="§6-101.02">6-101.02</cite>.</annotation>

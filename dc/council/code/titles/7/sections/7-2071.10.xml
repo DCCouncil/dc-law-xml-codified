@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2071.10</num>
   <heading>Requirements for health benefits plans and HealthCare Alliance.</heading>
   <para>
@@ -22,6 +23,6 @@
     <text>A health benefits plan may use the one-page, easy-to-read flyer developed by the Ombudsman Program to describe its services to meet the notice requirements under subsection (a)(1) and (2) of this section.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-331" type="History">Apr. 12, 2005, D.C. Law 15-331, § 11, 52 DCR 1981</annotation>
+    <annotation doc="D.C. Law 15-331" type="History" path="§11">Apr. 12, 2005, D.C. Law 15-331, § 11, 52 DCR 1981</annotation>
   </annotations>
 </section>

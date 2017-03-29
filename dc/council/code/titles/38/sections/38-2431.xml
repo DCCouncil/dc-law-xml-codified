@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-2431</num>
   <heading>Findings.</heading>
   <para>
@@ -18,6 +19,6 @@
     <text>Two-thirds of state legislatures in the United States recognize and accept ASL as a bona fide language.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 14-50" type="History">Oct. 26, 2001, D.C. Law 14-50, § 2, 48 DCR 7952</annotation>
+    <annotation doc="D.C. Law 14-50" type="History" path="§2">Oct. 26, 2001, D.C. Law 14-50, § 2, 48 DCR 7952</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>4-1301.07</num>
   <heading>Removal of children.</heading>
   <para>
@@ -30,13 +31,14 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-22" type="History">Sept. 23, 1977, D.C. Law 2-22, title I, § 107, 24 DCR 3341</annotation>
+    <annotation doc="D.C. Law 2-22" type="History" path="§107">Sept. 23, 1977, D.C. Law 2-22, title I, § 107, 24 DCR 3341</annotation>
     <annotation doc="D.C. Law 8-134" type="History">June 8, 1990, D.C. Law 8-134, § 3, 37 DCR 2613</annotation>
     <annotation doc="D.C. Law 13-277" type="History">Apr. 4, 2001, D.C. Law 13-277, § 2(f), 48 DCR 2043</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§4-251.03">4-251.03</cite>, § <cite path="§4-1301.06a">4-1301.06a</cite>, § <cite path="§4-1303.03">4-1303.03</cite>, and § <cite path="§16-2309">16-2309</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-2105.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 6-2105.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-277">D.C. Law 13-277</cite> substituted “Agency” for “Division” throughout the section; and, in subsec. (e), substituted “Director of the ” for “Chief of the”.</annotation>
-    <annotation type="Editor's Notes">For applicability of <cite doc="D.C. Law 13-277">D.C. Law 13-277</cite>, see note following § <cite path="§4-13035.01a">4-13035.01a</cite>.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 13-277">D.C. Law 13-277</law-cite> substituted “Agency” for “Division” throughout the section; and, in subsec. (e), substituted “Director of the ” for “Chief of the”.</annotation>
+    <annotation type="Editor's Notes">For applicability of <law-cite doc="D.C. Law 13-277">D.C. Law 13-277</law-cite>, see note following § <cite path="§4-13035.01a">4-13035.01a</cite>.</annotation>
   </annotations>
 </section>

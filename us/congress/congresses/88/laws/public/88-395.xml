@@ -1,9 +1,28 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="Pub. L. 88-395">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="Pub. L. 88-395" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>88-395</num>
+  <heading type="long">An Act to repeal the District of Columbia Credit Unions Act, to convert credit unions incorporated under the provisions of the act to Federal credit unions, and for other purposes</heading>
   <meta>
     <effective>1964-08-01</effective>
-    <cites>
-      <law session="88" lawId="395"/>
-    </cites>
+    <citations>
+      <citation type="law">Pub. L. 88-395</citation>
+      <citation type="stat" url="https://www.gpo.gov/fdsys/pkg/STATUTE-78/pdf/STATUTE-78-Pg377.pdf">78 Stat. 377</citation>
+    </citations>
   </meta>
+  <section>
+    <num>1</num>
+    <codified:at doc="D.C. Code" path="§26-501" />
+  </section>
+  <section>
+    <num>2</num>
+    <codified:at doc="D.C. Code" path="§26-502" />
+  </section>
+  <section>
+    <num>3</num>
+    <codified:at doc="D.C. Code" path="§26-503" />
+  </section>
+  <section>
+    <num>4</num>
+    <codified:at doc="D.C. Code" path="§26-504" />
+  </section>
 </document>

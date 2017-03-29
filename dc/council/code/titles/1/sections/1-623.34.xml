@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-623.34</num>
   <heading>Funeral expenses; transportation of body.</heading>
   <para>
@@ -27,7 +28,7 @@
     <aftertext>If the relatives do not request the return of the body of the employee, the Mayor may provide for its disposition and incur and pay from the Employees’ Compensation Fund the necessary and reasonable transportation, funeral and burial expenses.</aftertext>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 2334, 25 DCR 5740</annotation>
+    <annotation doc="D.C. Law 2-139" type="History" path="§2334">Mar. 3, 1979, D.C. Law 2-139, § 2334, 25 DCR 5740</annotation>
     <annotation doc="D.C. Law 8-198" type="History">Mar. 6, 1991, D.C. Law 8-198, § 3(f), 37 DCR 6890</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-623.09">1-623.09</cite> and § <cite path="§1-623.33">1-623.33</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-624.34.</annotation>

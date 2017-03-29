@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>46-358.02</num>
   <heading>Conditions of rendition.</heading>
   <para>
@@ -14,6 +15,6 @@
     <text>If a proceeding for support has been initiated and the individual whose rendition is demanded prevails, the Mayor may decline to honor the demand. If the petitioner prevails and the individual whose rendition is demanded is subject to a support order, the governor may decline to honor the demand if the individual is complying with the support order.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 21-73" type="History">Feb. 27, 2016, D.C. Law 21-73, § 802, 63 DCR 222</annotation>
+    <annotation doc="D.C. Law 21-73" type="History" path="§802">Feb. 27, 2016, D.C. Law 21-73, § 802, 63 DCR 222</annotation>
   </annotations>
 </section>

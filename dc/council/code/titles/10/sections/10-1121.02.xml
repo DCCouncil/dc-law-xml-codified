@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>10-1121.02</num>
   <heading>Mayor’s authority with respect to use of airspace.</heading>
   <text>The Mayor, in conformity with the comprehensive plan for the National Capital prepared under § <cite path="§2-1003">2-1003</cite>, may:</text>
@@ -19,7 +20,7 @@
     <text>Enter into agreements with the federal government to enable the federal government to construct federal buildings in the space above and below any street or alley, title to which is in the District.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 90-598" type="History">Oct. 17, 1968, 82 Stat. 1166, Pub. L. 90-598, § 3</annotation>
+    <annotation doc="Pub. L. 90-598" type="History" path="§3">Oct. 17, 1968, 82 Stat. 1166, Pub. L. 90-598, § 3</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 7-1032.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 7-942.</annotation>
     <annotation type="Mayor's Orders">District of Columbia Public Space Committee established: See Mayor’s Order 83-54, February 17, 1983.</annotation>

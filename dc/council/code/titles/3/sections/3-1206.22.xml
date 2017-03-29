@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>3-1206.22</num>
   <heading>Required disclosures.</heading>
   <text>Unless also licensed by the Board of Medicine to practice medicine in the District, practitioners of naturopathic medicine shall:</text>
@@ -11,7 +12,7 @@
     <text>Obtain written acknowledgment from the client or patient that the client or patient has been provided the notice required in paragraph (1) of this section.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-99" type="History">Mar. 25, 1986, D.C. Law 6-99, § 622</annotation>
+    <annotation doc="D.C. Law 6-99" type="History" path="§622">Mar. 25, 1986, D.C. Law 6-99, § 622</annotation>
     <annotation doc="D.C. Law 15-172" type="History">as added July 8, 2004, D.C. Law 15-172, § 2(g), 51 DCR 4938</annotation>
   </annotations>
 </section>

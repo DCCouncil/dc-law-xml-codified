@@ -1,10 +1,11 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 7-26">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="D.C. Law 7-26" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">7-26</num>
   <meta>
     <effective>1987-10-01</effective>
-    <cites>
-      <law lawId="26" period="7" url="./docs/7-26.pdf"/>
-      <register page="5074" vol="34"/>
-    </cites>
+    <citations>
+      <citation type="law" url="./docs/7-26.pdf">D.C. Law 7-26</citation>
+      <citation type="register">34 DCR 5074</citation>
+    </citations>
   </meta>
 </document>

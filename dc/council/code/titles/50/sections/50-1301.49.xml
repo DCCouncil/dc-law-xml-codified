@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-1301.49</num>
   <heading>Required payments; amounts; settlements.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>Payments made in settlements of any claims because of bodily injury, death, or property damage arising from such accident shall be credited in reduction of the amounts provided for in this section.</text>
   </para>
   <annotations>
-    <annotation type="History">May 25, 1954, 68 Stat. 132, ch. 222, § 49</annotation>
+    <annotation type="History" doc="Stat. 83-2-ch222" path="§49">May 25, 1954, 68 Stat. 132, ch. 222, § 49</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-449.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 40-465.</annotation>
   </annotations>

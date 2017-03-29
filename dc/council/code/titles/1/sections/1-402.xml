@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-402</num>
   <heading>Applicability of federal laws.</heading>
   <text>The provisions of law which appear in:</text>
@@ -131,7 +132,7 @@
     <text type="References in Text">Section 122 of Title 2 of the United States Code, referred to in (29), was repealed by § 111 of the Act of September 30, 1978, Pub. L. 95-391, 92 Stat. 778.</text>
     <text type="References in Text">The “Federal Corrupt Practices Act”, referred to in the last paragraph, was repealed by § 405 of the Federal Election Campaign Act of 1971, approved February 7, 1972, Pub. L. 92-225, 86 Stat. 3.</text>
     <text type="References in Text">The “Federal Contested Election Act”, referred to in the last paragraph, is the Act of December 5, 1969, Pub. L. 91-138, 83 Stat. 284.</text>
-    <annotation doc="Pub. L. 91-405" type="History">Sept. 22, 1970, 84 Stat. 852, Pub. L. 91-405, title II, § 204(a)</annotation>
+    <annotation doc="Pub. L. 91-405" type="History" path="§204|(a)">Sept. 22, 1970, 84 Stat. 852, Pub. L. 91-405, title II, § 204(a)</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-402.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-292.</annotation>
   </annotations>

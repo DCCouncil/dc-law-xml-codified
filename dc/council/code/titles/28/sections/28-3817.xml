@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>28-3817</num>
   <heading>Health spa sales.</heading>
   <para>
@@ -39,10 +40,10 @@
     <para>
       <num>(4)</num>
       <text>in close proximity to the space reserved for the buyer’s signature, and in boldface type of at least ten points, include the following statement:</text>
-      <para>
-        <heading>“NOTICE TO THE BUYER:</heading>
-        <text>You have the right to cancel this contract during the first fifteen days after the contract is made, or after the first fifteen days, if, due to death, illness, injury, or a change in residence, you are unable to use the full membership privileges in this contract. If you cancel, you will have to pay only for the goods or services you are entitled to up through the month in which you cancel, plus a registration fee of 5% of the price of this contract (not counting any finance charge), not to exceed $25. You must notify the health spa, by certified or registered mail at the address given in this contract, of your intention to cancel, or your cancellation will not be effective. If your cancellation is due to illness or injury, a certificate from a doctor of your choice must accompany your notice of cancellation to the health spa. Contact the District of Columbia Office of Consumer Affairs if you have a question as to how to calculate your obligation or your refund after you cancel.”;</text>
-      </para>
+      <text>
+        <center>“NOTICE TO THE BUYER:</center>
+      </text>
+      <text>You have the right to cancel this contract during the first fifteen days after the contract is made, or after the first fifteen days, if, due to death, illness, injury, or a change in residence, you are unable to use the full membership privileges in this contract. If you cancel, you will have to pay only for the goods or services you are entitled to up through the month in which you cancel, plus a registration fee of 5% of the price of this contract (not counting any finance charge), not to exceed $25. You must notify the health spa, by certified or registered mail at the address given in this contract, of your intention to cancel, or your cancellation will not be effective. If your cancellation is due to illness or injury, a certificate from a doctor of your choice must accompany your notice of cancellation to the health spa. Contact the District of Columbia Office of Consumer Affairs if you have a question as to how to calculate your obligation or your refund after you cancel.”;</text>
     </para>
     <para>
       <num>(5)</num>
@@ -167,9 +168,9 @@
     <annotation type="Section References">This section is referenced in § <cite path="§28-3909">28-3909</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 28-3817.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 28-3817.</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in [§ <cite path="§22-3571.01">22-3571.01</cite>]” for “not more than $5,000” in (g).</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <law-cite doc="D.C. Law 19-317">D.C. Law 19-317</law-cite> substituted “not more than the amount set forth in [§ <cite path="§22-3571.01">22-3571.01</cite>]” for “not more than $5,000” in (g).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 285(c) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
-    <annotation type="References in Text">“This act”, referred to in the second sentence of paragraph (1) of subsection (e), is <cite doc="D.C. Law 5-138">D.C. Law 5-138</cite>.</annotation>
-    <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+    <annotation type="References in Text">“This act”, referred to in the second sentence of paragraph (1) of subsection (e), is <law-cite doc="D.C. Law 5-138">D.C. Law 5-138</law-cite>.</annotation>
+    <annotation type="Editor's Notes">Applicability of <law-cite doc="D.C. Law 19-317">D.C. Law 19-317</law-cite>: Section 401 of <law-cite doc="D.C. Law 19-317">D.C. Law 19-317</law-cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
   </annotations>
 </section>

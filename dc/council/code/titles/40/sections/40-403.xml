@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>40-403</num>
   <heading>Lien for rent, labor, or other charges.</heading>
   <para>
@@ -18,6 +19,6 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-64" type="History">Feb. 6, 2004, D.C. Law 15-64, § 4, 50 DCR 9303</annotation>
+    <annotation doc="D.C. Law 15-64" type="History" path="§4">Feb. 6, 2004, D.C. Law 15-64, § 4, 50 DCR 9303</annotation>
   </annotations>
 </section>

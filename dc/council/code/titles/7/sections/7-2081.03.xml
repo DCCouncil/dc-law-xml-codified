@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2081.03</num>
   <heading>Liability.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>This subsection shall not apply to the donation, distribution, furnishing, or dispensing of an antimicrobial drug by a health care practitioner or pharmacist whose act or omission involves reckless, wanton, or intentional misconduct.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-97" type="History">Apr. 30, 2014, D.C. Law 20-97, § 4, 61 DCR 1589</annotation>
+    <annotation doc="D.C. Law 20-97" type="History" path="§4">Apr. 30, 2014, D.C. Law 20-97, § 4, 61 DCR 1589</annotation>
   </annotations>
 </section>

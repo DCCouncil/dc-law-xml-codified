@@ -1,4 +1,5 @@
-<document xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" id="D.C. Law 21-108">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<document id="D.C. Law 21-108" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">21-108</num>
   <num type="bill">21-143</num>
   <num type="act">21-336</num>
@@ -6,10 +7,10 @@
   <heading type="long">To amend the Human and Environmental Health Protection Act of 2010 to prohibit the manufacture, sale, and distribution of products containing carcinogenic flame retardants, and to authorize the Mayor to request and obtain a certificate of compliance with the Human and Environmental Health Protection Act of 2010 from manufacturers.</heading>
   <meta>
     <effective>2016-05-12</effective>
-    <cites>
-      <register vol="63" page="4315"/>
-      <law url="http://lims.dccouncil.us/Download/33567/B21-0143-SignedAct.pdf" period="21" lawId="108"/>
-    </cites>
+    <citations>
+      <citation type="law" url="http://lims.dccouncil.us/Download/33567/B21-0143-SignedAct.pdf">D.C. Law 21-108</citation>
+      <citation type="register">63 DCR 4315</citation>
+    </citations>
     <history>
       <details>
         <mayorReview>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>24-531.06</num>
   <heading>Court hearings during and after treatment.</heading>
   <para>
@@ -85,7 +86,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-358" type="History">May 24, 2005, D.C. Law 15-358, § 106, 52 DCR 2015</annotation>
+    <annotation doc="D.C. Law 15-358" type="History" path="§106">May 24, 2005, D.C. Law 15-358, § 106, 52 DCR 2015</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§24-531.04">24-531.04</cite>, § <cite path="§24-531.05">24-531.05</cite>, § <cite path="§24-531.07">24-531.07</cite>, and § <cite path="§24-531.09">24-531.09</cite>.</annotation>
   </annotations>
 </section>

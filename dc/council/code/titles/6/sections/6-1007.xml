@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>6-1007</num>
   <heading>Construction; severability.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>If any provisions of this chapter be held invalid, the remainder of the chapter shall not be impaired thereby, but shall continue in full force and effect.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-39" type="History">Dec. 16, 1975, D.C. Law 1-39, § 8, 22 DCR 3451</annotation>
+    <annotation doc="D.C. Law 1-39" type="History" path="§8">Dec. 16, 1975, D.C. Law 1-39, § 8, 22 DCR 3451</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 5-907.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 5-1007.</annotation>
   </annotations>

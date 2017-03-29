@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>34-2001</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
@@ -138,7 +139,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 11-154" type="History">Sept. 9, 1996, D.C. Law 11-154, § 2, 43 DCR 3736</annotation>
+    <annotation doc="D.C. Law 11-154" type="History" path="§2">Sept. 9, 1996, D.C. Law 11-154, § 2, 43 DCR 3736</annotation>
     <annotation doc="D.C. Law 12-264" type="History">Apr. 20, 1999, D.C. Law 12-264, § 47, 46 DCR 2118</annotation>
     <annotation doc="D.C. Law 16-305" type="History">Apr. 24, 2007, D.C. Law 16-305, § 50, 53 DCR 6198</annotation>
     <annotation doc="D.C. Law 17-165" type="History">June 5, 2008, D.C. Law 17-165, § 3(a), 55 DCR 5171</annotation>
@@ -146,10 +147,14 @@
     <annotation doc="D.C. Law 18-223" type="History">Sept. 24, 2010, D.C. Law 18-223, § 2224(a), 57 DCR 6242</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§34-403">34-403</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 43-1451.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite>, in par. (22), substituted “persons or persons with disabilities” for “or disabled persons”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-165">D.C. Law 17-165</cite> added pars. (7A), (19A), and (23).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in par. (22).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> added par. (20A).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 16-305">D.C. Law 16-305</law-cite>, in par. (22), substituted “persons or persons with disabilities” for “or disabled persons”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-165">D.C. Law 17-165</law-cite> added pars. (7A), (19A), and (23).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-353">D.C. Law 17-353</law-cite> validated a previously made technical correction in par. (22).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 18-223">D.C. Law 18-223</law-cite> added par. (20A).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2224(a) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
     <annotation type="References in Text">The federal Telecommunications Act of 1996, Pub. L. 104-104, referred to in (7), is codified throughout Title 47 of the United States Code.</annotation>
   </annotations>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-319.05</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter:</text>
@@ -15,7 +16,7 @@
     <text>The term “agencies, departments, commissions, and instrumentalities of the District of Columbia” means all governmental instrumentalities and bodies of the District of Columbia government, except the Superior Court of the District of Columbia and the District of Columbia Court of Appeals.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-12" type="History">June 28, 1977, D.C. Law 2-12, § 8, 24 DCR 1442</annotation>
+    <annotation doc="D.C. Law 2-12" type="History" path="§8">June 28, 1977, D.C. Law 2-12, § 8, 24 DCR 1442</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-308.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-215e.</annotation>
   </annotations>

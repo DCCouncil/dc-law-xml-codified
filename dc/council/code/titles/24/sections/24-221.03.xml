@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>24-221.03</num>
   <heading>Jail time; parole.</heading>
   <para>
@@ -14,9 +15,10 @@
     <text>Any person who is sentenced to a term of confinement in a correctional facility or hospital shall have deducted from the term all time actually spent, pursuant to a court order, by the person in a hospital for examination purposes or treatment prior to trial or pending an appeal.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-218" type="History">Apr. 11, 1987, D.C. Law 6-218, § 5, 34 DCR 484</annotation>
+    <annotation doc="D.C. Law 6-218" type="History" path="§5">Apr. 11, 1987, D.C. Law 6-218, § 5, 34 DCR 484</annotation>
     <annotation doc="D.C. Law 17-389" type="History">May 20, 2009, D.C. Law 17-389, § 2, 56 DCR 1196</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 24-431.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-389">D.C. Law 17-389</cite>, in subsec. (a), substituted “, or on parole in accordance with § <cite path="§24-406">24-406</cite>,” for “or on parole”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-389">D.C. Law 17-389</law-cite>, in subsec. (a), substituted “, or on parole in accordance with § <cite path="§24-406">24-406</cite>,” for “or on parole”.</annotation>
   </annotations>
 </section>

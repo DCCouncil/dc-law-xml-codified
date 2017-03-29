@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-1641.06</num>
   <heading>Increased bicycle parking spaces for office, retail, and service uses.</heading>
   <para>
@@ -14,7 +15,7 @@
     <text>Where it can be demonstrated that providing bicycle parking spaces is not physically practical, that undue economic hardship would result from strict compliance with the regulation, or that the nature of the building use is such that bicycle parking spaces would not be used, the Mayor may grant, upon written application of the owner of the building, an appropriate exemption or reduced level of compliance. In such cases, a certificate documenting the exemption or reduced level of compliance shall be issued to the building owner.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-103" type="History">Feb. 2, 2008, D.C. Law 17-103, § 7, 54 DCR 12213</annotation>
+    <annotation doc="D.C. Law 17-103" type="History" path="§7">Feb. 2, 2008, D.C. Law 17-103, § 7, 54 DCR 12213</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§50-1641.07a">50-1641.07a</cite>.</annotation>
   </annotations>
 </section>

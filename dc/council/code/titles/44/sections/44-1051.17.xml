@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>44-1051.17</num>
   <heading>Rules.</heading>
   <text>The Mayor shall issue rules to implement the provisions of this chapter, including the establishment of:</text>
@@ -27,7 +28,7 @@
     <text>Enforcement and hearing procedures.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-74" type="History">March 10, 2004, D.C. Law 15-74, § 17, 50 DCR 10914</annotation>
-    <annotation type="Delegation of Authority">Delegation of Authority Pursuant to <cite doc="D.C. Law 15-74">D.C. Law 15-74</cite>, the “Nursing Staffing Agency Act of 2003”, see Mayor’s Order 2004-83, May 21, 2004 ( 51 DCR 5837).</annotation>
+    <annotation doc="D.C. Law 15-74" type="History" path="§17">March 10, 2004, D.C. Law 15-74, § 17, 50 DCR 10914</annotation>
+    <annotation type="Delegation of Authority">Delegation of Authority Pursuant to <law-cite doc="D.C. Law 15-74">D.C. Law 15-74</law-cite>, the “Nursing Staffing Agency Act of 2003”, see Mayor’s Order 2004-83, May 21, 2004 ( 51 DCR 5837).</annotation>
   </annotations>
 </section>

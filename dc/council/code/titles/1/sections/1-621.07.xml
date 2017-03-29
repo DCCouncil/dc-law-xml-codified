@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-621.07</num>
   <heading>Election of coverage.</heading>
   <para>
@@ -18,11 +19,12 @@
     <text>An employee or annuitant may transfer enrollment from one health benefit plan to another health benefit plan under § <cite path="§1-621.05">1-621.05</cite> as permitted by rules promulgated by the Mayor.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 2107</annotation>
+    <annotation doc="D.C. Law 2-139" type="History" path="§2107">Mar. 3, 1979, D.C. Law 2-139, § 2107</annotation>
     <annotation doc="D.C. Law 7-27" type="History">as added Oct. 1, 1987, D.C. Law 7-27, § 2(d), 34 DCR 5079</annotation>
     <annotation doc="D.C. Law 17-231" type="History">Sept. 12, 2008, D.C. Law 17-231, § 3(e), 55 DCR 6758</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§32-706">32-706</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-622.7.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-231">D.C. Law 17-231</cite>, in subsec. (b), substituted “spouse or domestic partner” for “spouse”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-231">D.C. Law 17-231</law-cite>, in subsec. (b), substituted “spouse or domestic partner” for “spouse”.</annotation>
   </annotations>
 </section>

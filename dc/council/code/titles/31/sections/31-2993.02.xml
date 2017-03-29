@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-2993.02</num>
   <heading>Covered trials.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>In the case of health care services provided by a participating provider, the payment rate shall be at the network negotiated rate, based on the member’s plan design. In case of a non-participating provider, the payment shall be at the rate that the member’s plan would otherwise pay to a non-participating provider for the same services, less any applicable co-payments and deductibles.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-166" type="History">June 5, 2008, D.C. Law 17-166, § 3, 55 DCR 5174</annotation>
+    <annotation doc="D.C. Law 17-166" type="History" path="§3">June 5, 2008, D.C. Law 17-166, § 3, 55 DCR 5174</annotation>
   </annotations>
 </section>

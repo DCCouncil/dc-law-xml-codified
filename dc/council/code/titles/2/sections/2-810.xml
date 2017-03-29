@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-810</num>
   <heading>Authorization of appropriations.</heading>
   <para>
@@ -52,7 +53,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 105-225" type="History">Aug. 12, 1998, 112 Stat. 1265, Pub. L. 105-225, § 510</annotation>
+    <annotation doc="Pub. L. 105-225" type="History" path="§510">Aug. 12, 1998, 112 Stat. 1265, Pub. L. 105-225, § 510</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-1060.</annotation>
     <annotation type="References in Text">“Chapters 33 and 51 and subchapter III of Chapter 58 of Title 5,” referred to in (a)(1)(A), are references to Title 5 of the U.S. Code.</annotation>
   </annotations>

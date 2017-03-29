@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-402</num>
   <heading>Settlement of claims and suits against District.</heading>
   <para>
@@ -60,9 +61,9 @@
   </para>
   <annotations>
     <text type="Editor's Notes">Civil suits permitted: Act of December 29, 1979, 93 Stat. 1284, Pub. L. 96-170, provided that civil suits under § 1979 of the Revised Statutes ( 42 U.S.C. § 1983) are permitted against any person acting under color of any law or custom of the District of Columbia who subjects any person within the jurisdiction of the District of Columbia to the deprivation of any right, privilege, or immunity secured by the Constitution and laws occurring after the date of the enactment of Pub. L. 96-170.</text>
-    <text type="Editor's Notes">Section 137 of Pub. L. 107-96, Dec. 21, 2001, 115 Stat. 923, provided: “RISK MANAGEMENT FOR SETTLEMENTS AND JUDGMENTS. In addition to any other authority to pay claims and judgments, any department, agency, or instrumentality of the District government may pay the settlement or judgment of a claim or lawsuit in an amount less than $10,000, in accordance with the Risk Management for Settlements and Judgments Amendment Act of 2000, effective October 19, 2000 (<cite doc="D.C. Law 13-172">D.C. Law 13-172</cite>; D.C. Official Code,  Sec. 2-402).”</text>
-    <text type="Editor's Notes">Section 3 of <cite doc="D.C. Law 18-319">D.C. Law 18-319</cite> provided: “Sec. 3. Applicability. This act shall apply as of June 30, 2010.”</text>
-    <annotation type="History">Feb. 11, 1929, 45 Stat. 1160, ch. 173, § 1</annotation>
+    <text type="Editor's Notes">Section 137 of Pub. L. 107-96, Dec. 21, 2001, 115 Stat. 923, provided: “RISK MANAGEMENT FOR SETTLEMENTS AND JUDGMENTS. In addition to any other authority to pay claims and judgments, any department, agency, or instrumentality of the District government may pay the settlement or judgment of a claim or lawsuit in an amount less than $10,000, in accordance with the Risk Management for Settlements and Judgments Amendment Act of 2000, effective October 19, 2000 (<law-cite doc="D.C. Law 13-172">D.C. Law 13-172</law-cite>; D.C. Official Code,  Sec. 2-402).”</text>
+    <text type="Editor's Notes">Section 3 of <law-cite doc="D.C. Law 18-319">D.C. Law 18-319</law-cite> provided: “Sec. 3. Applicability. This act shall apply as of June 30, 2010.”</text>
+    <annotation type="History" doc="Stat. 70-2-ch173" path="§1">Feb. 11, 1929, 45 Stat. 1160, ch. 173, § 1</annotation>
     <annotation type="History">June 5, 1930, 46 Stat. 500, ch. 400</annotation>
     <annotation doc="Pub. L. 91-358" type="History">July 29, 1970, 84 Stat. 575, Pub. L. 91-358, title I, § 157(e)(1)</annotation>
     <annotation doc="D.C. Law 13-172" type="History">Oct. 19, 2000, D.C. Law 13-172, § 4302, 47 DCR 6308</annotation>
@@ -71,9 +72,12 @@
     <annotation type="Section References">This section is referenced in § <cite path="§1-350.06">1-350.06</cite>, § <cite path="§2-403">2-403</cite>, § <cite path="§2-404">2-404</cite>, and § <cite path="§2-405">2-405</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-1202.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-902.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-172">D.C. Law 13-172</cite> added par. (3).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-42">D.C. Law 14-42</cite> substituted “settlement or judgment” for “settlement”.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-319">D.C. Law 18-319</cite> designated the existing text as subsec. (a); and added subsec. (b).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 13-172">D.C. Law 13-172</law-cite> added par. (3).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 14-42">D.C. Law 14-42</law-cite> substituted “settlement or judgment” for “settlement”.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 18-319">D.C. Law 18-319</law-cite> designated the existing text as subsec. (a); and added subsec. (b).</annotation>
     <annotation type="Emergency Legislation">For temporary (90-day) amendment of section, see § 4302 of the Fiscal Year 2001 Budget Support Emergency Act of 2000 (D.C. Act 13-376, July 24, 2000,  47 DCR 6574).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 4302 of the Fiscal Year 2001 Budget Support Congressional Review Emergency Act of 2000 (D.C. Act 13-438, October 20, 2000,  47 DCR 8740).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 27 of Technical Amendments Emergency Act of 2001 (D.C. Act 14-108, August 3, 2001,  48 DCR 7622).</annotation>

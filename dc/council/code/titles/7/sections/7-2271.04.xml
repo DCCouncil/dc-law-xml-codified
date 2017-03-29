@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2271.04</num>
   <heading>Confidentiality of proceedings.</heading>
   <para>
@@ -33,7 +34,7 @@
     <text>Members of the Commission, persons attending a Commission meeting, and persons who present information to the Commission may not be required to disclose, in any administrative, civil, or criminal proceeding, information presented at or opinions formed as a result of a Commission meeting.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 16-262" type="History">Mar. 14, 2007, D.C. Law 16-262, § 204, 54 DCR 794</annotation>
+    <annotation doc="D.C. Law 16-262" type="History" path="§204">Mar. 14, 2007, D.C. Law 16-262, § 204, 54 DCR 794</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-534">2-534</cite>.</annotation>
   </annotations>
 </section>

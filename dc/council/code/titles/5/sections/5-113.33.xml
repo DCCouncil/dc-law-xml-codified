@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>5-113.33</num>
   <heading>Penalties; private right of action.</heading>
   <para>
@@ -22,6 +23,6 @@
     <text>Subsection (b) of this section shall only apply to the willful or malicious destruction, alteration, concealment, or tampering with evidence or records that occurs on or after July 15, 2004.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 15-174" type="History">July 15, 2004, D.C. Law 15-174, § 103, 51 DCR 3677</annotation>
+    <annotation doc="D.C. Law 15-174" type="History" path="§103">July 15, 2004, D.C. Law 15-174, § 103, 51 DCR 3677</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-5602.03</num>
   <heading>License and notice filing procedure.</heading>
   <para>
@@ -115,7 +116,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-203" type="History">Oct. 26, 2000, D.C. Law 13-203, § 203, 47 DCR 7837</annotation>
+    <annotation doc="D.C. Law 13-203" type="History" path="§203">Oct. 26, 2000, D.C. Law 13-203, § 203, 47 DCR 7837</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-5601.01">31-5601.01</cite>, § <cite path="§31-5602.02">31-5602.02</cite>, and § <cite path="§31-5606.05">31-5606.05</cite>.</annotation>
   </annotations>
 </section>

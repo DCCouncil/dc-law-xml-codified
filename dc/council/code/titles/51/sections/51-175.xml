@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>51-175</num>
   <heading>Effective date and expiration of shared work plan.</heading>
   <para>
@@ -10,6 +11,6 @@
     <text>The Director may terminate a shared work plan for good cause if the Director determines that the shared work plan is not being executed according to the terms and intent of the shared work unemployment compensation program.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-238" type="History">Oct. 15, 2010, D.C. Law 18-238, § 6, 57 DCR 7181</annotation>
+    <annotation doc="D.C. Law 18-238" type="History" path="§6">Oct. 15, 2010, D.C. Law 18-238, § 6, 57 DCR 7181</annotation>
   </annotations>
 </section>

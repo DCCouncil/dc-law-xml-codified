@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2231.05</num>
   <heading>District of Columbia government employee security training program.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>At the request of the Director, District government agencies shall submit employee training programs to the Director for annual review.</text>
   </para>
   <annotations>
-    <annotation type="History">Aug. 11, 1950, 64 Stat. 440, ch. 686, § 205</annotation>
+    <annotation type="History" doc="Stat. 81-2-ch686" path="§205">Aug. 11, 1950, 64 Stat. 440, ch. 686, § 205</annotation>
     <annotation doc="D.C. Law 16-262" type="History">as added Mar. 14, 2007, D.C. Law 16-262, § 101(e), 54 DCR 794</annotation>
   </annotations>
 </section>

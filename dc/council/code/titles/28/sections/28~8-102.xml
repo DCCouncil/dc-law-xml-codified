@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>28:8-102</num>
   <heading>Definitions.</heading>
   <para>
@@ -205,7 +206,8 @@
     <text type="Uniform Commercial Code Comment">The term “security certificate” refers to the paper certificates that have traditionally been used to embody the underlying intangible interest.</text>
     <text type="Uniform Commercial Code Comment">17. “Security entitlement” means the rights and property interest of a person who holds securities or other financial assets through a securities intermediary. A security entitlement is both a package of personal rights against the securities intermediary and an interest in the property held by the securities intermediary. A security entitlement is not, however, a specific property interest in any financial asset held by the securities intermediary or by the clearing corporation through which the securities intermediary holds the financial asset. See  Sections 8-104(c) and  8-503. The formal definition of security entitlement set out in subsection (a)(17) of this section is a cross-reference to the rules of Part 5. In a sense, then, the entirety of Part 5 is the definition of security entitlement. The Part 5 rules specify the rights and property interest that comprise a security entitlement.</text>
     <text type="Uniform Commercial Code Comment">18. “Uncertificated security.” The term “uncertificated security” means a security that is not represented by a security certificate. For uncertificated securities, there is no need to draw any distinction between the underlying asset and the means by which a direct holder’s interest in that asset is evidenced. Compare “certificated security” and “security certificate.”</text>
-    <text type="Uniform Commercial Code Comment"><strong>Definitional Cross References</strong> “Agreement”.  Section 1-201(3).</text>
+    <text type="Uniform Commercial Code Comment">
+      <strong>Definitional Cross References</strong> “Agreement”.  Section 1-201(3).</text>
     <text type="Uniform Commercial Code Comment">“Bank”.  Section 1-201(4).</text>
     <text type="Uniform Commercial Code Comment">“Person”.  Section 1-201(30).</text>
     <text type="Uniform Commercial Code Comment">“Send”.  Section 1-201(38).</text>
@@ -219,6 +221,6 @@
     <annotation type="Section References">This section is referenced in § <cite path="§1-204.90">1-204.90</cite>, § <cite path="§28:4-104">28:4-104</cite>, § <cite path="§28:8-103">28:8-103</cite>, and § <cite path="§28:9-102">28:9-102</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 28:8-102.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 28:8-102.</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> repealed (a)(10), defining “Good faith”.</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <law-cite doc="D.C. Law 19-299">D.C. Law 19-299</law-cite> repealed (a)(10), defining “Good faith”.</annotation>
   </annotations>
 </section>

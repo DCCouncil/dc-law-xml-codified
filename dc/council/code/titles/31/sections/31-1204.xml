@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-1204</num>
   <heading>Failure to pay share of assessment.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>In the event that any insurer or health maintenance organization fails, by reason of insolvency, impairment of capital and surplus, or other reason approved by the Mayor, to pay its assessment in full, the unpaid amounts shall be assessed against the remaining insurers or health maintenance organizations respectively, on a proportionate basis in comparison to their direct gross receipts. Any insurer or health maintenance organization paying this additional assessment shall have a claim against the defaulting insurer or health maintenance organization for the amount paid.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-40" type="History">Oct. 21, 1993, D.C. Law 10-40, § 5, 40 DCR 6009</annotation>
+    <annotation doc="D.C. Law 10-40" type="History" path="§5">Oct. 21, 1993, D.C. Law 10-40, § 5, 40 DCR 6009</annotation>
     <annotation doc="D.C. Law 10-255" type="History">May 16, 1995, D.C. Law 10-255, § 28, 41 DCR 5193</annotation>
     <annotation doc="D.C. Law 11-235" type="History">Apr. 9, 1997, D.C. Law 11-235, §§ 24(f)-(h), 44 DCR 818</annotation>
     <annotation doc="D.C. Law 12-81" type="History">Mar. 24, 1998, D.C. Law 12-81, § 36(b), 45 DCR 745</annotation>

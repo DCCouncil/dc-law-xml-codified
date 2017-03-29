@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>9-704</num>
   <heading>Authority to make arrests; Park Police patrol.</heading>
   <para>
@@ -26,7 +27,7 @@
     <text>The United States Park Police may, at the request of the Administrator, be assigned by the Director of the National Park Service, in his discretion, subject to the supervision and direction of the Secretary of the Interior, to patrol any area of the airport, and any members of the United States Park Police so assigned are hereby authorized and empowered to make arrests within the limits of the airport for the same offenses, and in the same manner and circumstances, as is provided in this section with respect to employees designated by the Administrator.</text>
   </para>
   <annotations>
-    <annotation type="History">June 29, 1940, ch. 444, § 4</annotation>
+    <annotation type="History" doc="Stat. 76-3-ch444" path="§4">June 29, 1940, ch. 444, § 4</annotation>
     <annotation type="History">as added May 15, 1947, 61 Stat. 94, ch. 62</annotation>
     <annotation doc="Pub. L. 85-726" type="History">Aug. 23, 1958, 72 Stat. 807, Pub. L. 85-726, title XIV, § 1402(f)</annotation>
     <annotation type="Cross References">Arrests without warrant, see § <cite path="§23-581">23-581</cite>.</annotation>

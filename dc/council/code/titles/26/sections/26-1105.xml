@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>26-1105</num>
   <heading>Acquisition of control; application.</heading>
   <para>
@@ -42,8 +43,8 @@
     <text>The person acquiring an interest in a licensee in a transaction which is exempt from filing an application pursuant to subsection (c) of this section shall send written notice to the Superintendent [Commissioner] of such acquisition within 10 days after the closing of such acquisition.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 11-155" type="History">Sept. 9, 1996, D.C. Law 11-155, § 6, 43 DCR 4213</annotation>
+    <annotation doc="D.C. Law 11-155" type="History" path="§6">Sept. 9, 1996, D.C. Law 11-155, § 6, 43 DCR 4213</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 26-1005.</annotation>
-    <annotation type="Editor's Notes">Fees credited to the Office of Banking and Financial Institutions Enterprise Fund: Section 1804(4) of <cite doc="D.C. Law 12-60">D.C. Law 12-60</cite> provided that all fees received pursuant to § <cite path="§26-1005">26-1005</cite>(a)(3) shall be credited to the Office of Banking and Financial Institutions Enterprise Fund.</annotation>
+    <annotation type="Editor's Notes">Fees credited to the Office of Banking and Financial Institutions Enterprise Fund: Section 1804(4) of <law-cite doc="D.C. Law 12-60">D.C. Law 12-60</law-cite> provided that all fees received pursuant to § <cite path="§26-1005">26-1005</cite>(a)(3) shall be credited to the Office of Banking and Financial Institutions Enterprise Fund.</annotation>
   </annotations>
 </section>

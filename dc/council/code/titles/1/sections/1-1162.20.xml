@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-1162.20</num>
   <heading>Reports.</heading>
   <para>
@@ -30,6 +31,6 @@
     <text>The quarterly report shall be posted online.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-124" type="History">Apr. 27, 2012, D.C. Law 19-124, § 220, 59 DCR 1862</annotation>
+    <annotation doc="D.C. Law 19-124" type="History" path="§220">Apr. 27, 2012, D.C. Law 19-124, § 220, 59 DCR 1862</annotation>
   </annotations>
 </section>

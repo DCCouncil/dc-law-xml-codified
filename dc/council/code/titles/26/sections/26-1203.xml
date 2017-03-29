@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>26-1203</num>
   <heading>Authorization of regional branches.</heading>
   <para>
@@ -22,7 +23,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 7-175" type="History">Oct. 12, 1988, D.C. Law 7-175, § 4, 35 DCR 6133</annotation>
+    <annotation doc="D.C. Law 7-175" type="History" path="§4">Oct. 12, 1988, D.C. Law 7-175, § 4, 35 DCR 6133</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§26-1204">26-1204</cite>, § <cite path="§26-1206">26-1206</cite>, and § <cite path="§26-1216">26-1216</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 26-903.</annotation>
   </annotations>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>34-1510</num>
   <heading>Transition costs, transition benefits.</heading>
   <para>
@@ -109,7 +110,7 @@
     <text>The Commission shall establish procedures for an annual review of actual market conditions to determine if the authorized competitive transition charge is overcompensating or undercompensating the electric company for the transition costs established under subsection (b)(3) of this section. If an annual review demonstrates that the authorized competitive transition charge is overcompensating or undercompensating the electric company for the transition costs established under subsection (b)(3) of this section, the Commission shall adjust the competitive transition charge accordingly.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-107" type="History">May 9, 2000, D.C. Law 13-107, § 110, 47 DCR 1091</annotation>
+    <annotation doc="D.C. Law 13-107" type="History" path="§110">May 9, 2000, D.C. Law 13-107, § 110, 47 DCR 1091</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§34-1501">34-1501</cite> and § <cite path="§34-1511">34-1511</cite>.</annotation>
   </annotations>
 </section>

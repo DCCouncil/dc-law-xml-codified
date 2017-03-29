@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-1401.04</num>
   <heading>Mayor’s authority to seize suspect documents.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>For the purposes of this section, “document” means any printed material, including a letter, notice, bill, receipt, driver’s permit, registration card, title, insurance card, passport, picture identification, birth certificate, currency, credit card, check, or copy of the same.</text>
   </para>
   <annotations>
-    <annotation type="History">Mar. 3, 1925, ch. 443, § 8b</annotation>
+    <annotation type="History" doc="Stat. 68-2-ch443" path="§8b">Mar. 3, 1925, ch. 443, § 8b</annotation>
     <annotation doc="D.C. Law 16-279" type="History">as added Mar. 14, 2007, D.C. Law 16-279, § 202(e), 54 DCR 903</annotation>
   </annotations>
 </section>

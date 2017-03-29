@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-1774.13</num>
   <heading>Solar and Renewable Home Improvement Financing Proposal.</heading>
   <para>
@@ -22,7 +23,7 @@
     <text>Within 60 days after the close of the record of the investigation, the Commission shall issue a report, including findings, on the feasibility of the implementation of the proposal set forth in subsections (a) and (b) of this section.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-250" type="History">Oct. 22, 2008, D.C. Law 17-250, § 213, 55 DCR 9225</annotation>
+    <annotation doc="D.C. Law 17-250" type="History" path="§213">Oct. 22, 2008, D.C. Law 17-250, § 213, 55 DCR 9225</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 213 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
   </annotations>
 </section>

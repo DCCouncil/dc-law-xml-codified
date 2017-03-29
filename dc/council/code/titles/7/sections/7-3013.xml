@@ -1,8 +1,9 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-3013</num>
   <heading>Program evaluation.</heading>
   <text>APRA shall review the success of the Program and perform a comprehensive evaluation of all APRA substance abuse treatment programs and submit its report to the Council by January 15, 2003.</text>
   <annotations>
-    <annotation doc="D.C. Law 13-146" type="History">July 18, 2000, D.C. Law 13-146, § 14, 47 DCR 4350</annotation>
+    <annotation doc="D.C. Law 13-146" type="History" path="§14">July 18, 2000, D.C. Law 13-146, § 14, 47 DCR 4350</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-755.04</num>
   <heading>Tracking and monitoring.</heading>
   <text>The Chancellor shall:</text>
@@ -51,6 +52,6 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-142" type="History">June 19, 2012, D.C. Law 19-142, § 504, 59 DCR 3642</annotation>
+    <annotation doc="D.C. Law 19-142" type="History" path="§504">June 19, 2012, D.C. Law 19-142, § 504, 59 DCR 3642</annotation>
   </annotations>
 </section>

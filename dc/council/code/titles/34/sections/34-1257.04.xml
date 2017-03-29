@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>34-1257.04</num>
   <heading>Construction of facility.</heading>
   <para>
@@ -42,7 +43,7 @@
     <text>A cable operator shall not be required to obtain or pay for a permit in order to connect a drop line from a trunk or feeder cable to the premises of a subscriber or in order to install, maintain, or repair cable television equipment and facilities on the premises of a subscriber.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 4-142" type="History">Aug. 21, 1982, D.C. Law 4-142, § 704</annotation>
+    <annotation doc="D.C. Law 4-142" type="History" path="§704">Aug. 21, 1982, D.C. Law 4-142, § 704</annotation>
     <annotation doc="D.C. Law 14-193" type="History">as added Oct. 9, 2002, D.C. Law 14-193, § 2(b), 49 DCR 7334</annotation>
   </annotations>
 </section>

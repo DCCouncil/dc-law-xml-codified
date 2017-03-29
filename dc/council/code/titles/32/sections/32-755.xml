@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>32-755</num>
   <heading>Grant agreements.</heading>
   <text>Each grantee shall, as a condition for the receipt of funds from the Job Opportunity Bank, enter into a grant agreement with the Director, the form and contents of which shall be specified by the Director, which shall at least contain the following:</text>
@@ -31,6 +32,6 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 16-118" type="History">June 8, 2006, D.C. Law 16-118, § 206, 53 DCR 2602</annotation>
+    <annotation doc="D.C. Law 16-118" type="History" path="§206">June 8, 2006, D.C. Law 16-118, § 206, 53 DCR 2602</annotation>
   </annotations>
 </section>

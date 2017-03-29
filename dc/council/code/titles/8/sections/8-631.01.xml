@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-631.01</num>
   <heading>Findings and declaration of purpose.</heading>
   <text>The Council finds that the public interest is best served when the public health and the environment are protected by the cleanup of contaminated properties. Accordingly, the Council declares its policy is to:</text>
@@ -39,6 +40,6 @@
     <text>Provide for regulatory and voluntary cleanup programs.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-312" type="History">June 13, 2001, D.C. Law 13-312, § 101, 48 DCR 3804</annotation>
+    <annotation doc="D.C. Law 13-312" type="History" path="§101">June 13, 2001, D.C. Law 13-312, § 101, 48 DCR 3804</annotation>
   </annotations>
 </section>

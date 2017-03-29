@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-651.05</num>
   <heading>Administration of medication.</heading>
   <text>An employee or agent trained and certified pursuant to § <cite path="§38-651.04">38-651.04</cite> may administer medication to a student with a valid medication action plan; provided, that:</text>
@@ -15,6 +16,6 @@
     <text>Except in emergency circumstances, the responsible person has administered the initial dose of a new medication.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 17-107" type="History">Feb. 2, 2008, D.C. Law 17-107, § 6, 54 DCR 12230</annotation>
+    <annotation doc="D.C. Law 17-107" type="History" path="§6">Feb. 2, 2008, D.C. Law 17-107, § 6, 54 DCR 12230</annotation>
   </annotations>
 </section>

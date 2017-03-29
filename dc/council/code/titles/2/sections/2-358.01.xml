@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-358.01</num>
   <heading>Supply management rules.</heading>
   <text>The CPO shall issue rules governing:</text>
@@ -11,6 +12,6 @@
     <text>The sale, lease, disposal, or transfer of surplus goods by public auction, competitive sealed bidding, competitive electronic sales, or other appropriate method designated by rule; provided, that no employee of the disposing agency shall be entitled to purchase any surplus goods.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-371" type="History">Apr. 8, 2011, D.C. Law 18-371, § 801, 58 DCR 1185</annotation>
+    <annotation doc="D.C. Law 18-371" type="History" path="§801">Apr. 8, 2011, D.C. Law 18-371, § 801, 58 DCR 1185</annotation>
   </annotations>
 </section>

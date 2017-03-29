@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>31-1504</num>
   <heading>Duties of insurers.</heading>
   <para>
@@ -30,7 +31,7 @@
     <text>An insurer shall not appoint to its board of directors an officer, director, employee, subproducer, or controlling shareholder of its managing general agents. This subsection shall not apply to relationships governed by Chapter 7 of this title or, if applicable, Chapter 4 of this title.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-41" type="History">Oct. 21, 1993, D.C. Law 10-41, § 5, 40 DCR 6014</annotation>
+    <annotation doc="D.C. Law 10-41" type="History" path="§5">Oct. 21, 1993, D.C. Law 10-41, § 5, 40 DCR 6014</annotation>
     <annotation doc="D.C. Law 10-255" type="History">May 16, 1995, D.C. Law 10-255, § 29(c), 41 DCR 5193</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-1503">31-1503</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-3004.</annotation>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-202</num>
   <heading>Exemption from recordation and transfer tax.</heading>
   <para>
@@ -57,7 +58,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-113" type="History">May 16, 1986, D.C. Law 6-113, § 3, 33 DCR 1996</annotation>
+    <annotation doc="D.C. Law 6-113" type="History" path="§3">May 16, 1986, D.C. Law 6-113, § 3, 33 DCR 1996</annotation>
     <annotation doc="D.C. Law 7-104" type="History">Apr. 30, 1988, D.C. Law 7-104, § 25, 35 DCR 147</annotation>
     <annotation type="Cross References">Tax on deeds, imposition and return, see § <cite path="§42-1103">42-1103</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-2602.</annotation>

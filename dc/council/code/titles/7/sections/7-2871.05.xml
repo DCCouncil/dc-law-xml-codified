@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2871.05</num>
   <heading>Rules.</heading>
   <para>
@@ -13,6 +14,6 @@
     <text>The Mayor, through rulemaking, may expand the authority of this chapter to include athletic activities that are non-interscholastic school-sponsored or organized by a non-governmental organization.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-22" type="History">Oct. 20, 2011, D.C. Law 19-22, § 6, 58 DCR 6506</annotation>
+    <annotation doc="D.C. Law 19-22" type="History" path="§6">Oct. 20, 2011, D.C. Law 19-22, § 6, 58 DCR 6506</annotation>
   </annotations>
 </section>

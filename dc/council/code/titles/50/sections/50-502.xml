@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-502</num>
   <heading>Consumer’s remedy for defective vehicles.</heading>
   <para>
@@ -61,7 +62,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 5-162" type="History">Mar. 14, 1985, D.C. Law 5-162, § 3, 32 DCR 160</annotation>
+    <annotation doc="D.C. Law 5-162" type="History" path="§3">Mar. 14, 1985, D.C. Law 5-162, § 3, 32 DCR 160</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§50-503">50-503</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-1302.</annotation>
   </annotations>

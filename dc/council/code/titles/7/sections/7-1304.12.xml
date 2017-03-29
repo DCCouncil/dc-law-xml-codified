@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-1304.12</num>
   <heading>Payment of costs and expenses.</heading>
   <text>Costs and expenses of all proceedings held under this chapter shall be paid as follows:</text>
@@ -15,7 +16,7 @@
     <text>To other witnesses, the same fees and mileage as for attendance at Court to be paid upon the approval of the Court.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-137" type="History">Mar. 3, 1979, D.C. Law 2-137, § 412, 25 DCR 5094</annotation>
+    <annotation doc="D.C. Law 2-137" type="History" path="§412">Mar. 3, 1979, D.C. Law 2-137, § 412, 25 DCR 5094</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-1952.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 6-1679.</annotation>
   </annotations>

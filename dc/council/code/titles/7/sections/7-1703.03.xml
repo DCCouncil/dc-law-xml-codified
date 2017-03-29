@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-1703.03</num>
   <heading>Prohibition of employment discrimination on the basis of tobacco use.</heading>
   <para>
@@ -14,7 +15,7 @@
     <text>Any employee or applicant for employment who is aggrieved by a violation of subsection (a) of this section shall be entitled to recover any damages, including lost or back wages or salary. The court, in its discretion, may allow the prevailing party a reasonable attorney’s fee as part of the costs.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 3-22" type="History">Sept. 28, 1979, D.C. Law 3-22, § 4c</annotation>
+    <annotation doc="D.C. Law 3-22" type="History" path="§4c">Sept. 28, 1979, D.C. Law 3-22, § 4c</annotation>
     <annotation doc="D.C. Law 9-240" type="History">as added Mar. 17, 1993, D.C. Law 9-240, § 2, 40 DCR 627</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-913.3.</annotation>
   </annotations>

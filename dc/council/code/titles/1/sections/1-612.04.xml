@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-612.04</num>
   <heading>Definitions.</heading>
   <text>For purposes of §§ <cite path="§1-612.04">1-612.04</cite> through <cite path="§1-612.10">1-612.10</cite>, the term:</text>
@@ -27,7 +28,7 @@
     <text>“Personnel authority” shall have the meaning provided in § <cite path="§1-603.01">1-603.01</cite>(14).</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 2-139" type="History">Mar. 3, 1979, D.C. Law 2-139, § 1204</annotation>
+    <annotation doc="D.C. Law 2-139" type="History" path="§1204">Mar. 3, 1979, D.C. Law 2-139, § 1204</annotation>
     <annotation doc="D.C. Law 8-155" type="History">as added Sept. 11, 1990, D.C. Law 8-155, § 2, 37 DCR 4159</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-612.11">1-612.11</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-613.4.</annotation>

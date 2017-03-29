@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>8-111.06</num>
   <heading>Reprimands; suspensions; revocations.</heading>
   <text>The Mayor may reprimand an asbestos worker or business entity or suspend or revoke the license or permit of an asbestos worker or business entity, pursuant to § <cite path="§2-509">2-509</cite>, if the asbestos worker or business entity:</text>
@@ -19,7 +20,7 @@
     <text>Fails to meet any applicable federal or District standard for asbestos abatement.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 8-116" type="History">May 1, 1990, D.C. Law 8-116, § 7, 37 DCR 1641</annotation>
+    <annotation doc="D.C. Law 8-116" type="History" path="§7">May 1, 1990, D.C. Law 8-116, § 7, 37 DCR 1641</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-991.6.</annotation>
   </annotations>
 </section>

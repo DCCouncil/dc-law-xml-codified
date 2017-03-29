@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>5-132.21</num>
   <heading>School safe passage emergency zones.</heading>
   <para>
@@ -113,6 +114,6 @@
     <text>The Attorney General for the District of Columbia, or his or her assistants, shall prosecute all violations of this section.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-232" type="History">Oct. 2, 2010, D.C. Law 18-232, § 101, 57 DCR 4504</annotation>
+    <annotation doc="D.C. Law 18-232" type="History" path="§101">Oct. 2, 2010, D.C. Law 18-232, § 101, 57 DCR 4504</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>34-1251.04</num>
   <heading>Applicability to open video systems.</heading>
   <para>
@@ -42,7 +43,7 @@
     <text>Notwithstanding anything to the contrary, if a cable operator, its parent, affiliate, or subsidiary elects to offer to subscribers video programming services through an open video system, the cable operator shall remain subject to all the terms and conditions of a franchise granted pursuant to this chapter.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 4-142" type="History">Aug. 21, 1982, D.C. Law 4-142, § 104</annotation>
+    <annotation doc="D.C. Law 4-142" type="History" path="§104">Aug. 21, 1982, D.C. Law 4-142, § 104</annotation>
     <annotation doc="D.C. Law 14-193" type="History">as added Oct. 9, 2002, D.C. Law 14-193, § 2(b), 49 DCR 7334</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§34-1251.03">34-1251.03</cite>.</annotation>
   </annotations>

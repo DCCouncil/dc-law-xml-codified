@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-309.01</num>
   <heading>Purpose; definitions.</heading>
   <para>
@@ -37,7 +38,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-21" type="History">Oct. 10, 1975, D.C. Law 1-21, § 2, 22 DCR 2065</annotation>
+    <annotation doc="D.C. Law 1-21" type="History" path="§2">Oct. 10, 1975, D.C. Law 1-21, § 2, 22 DCR 2065</annotation>
     <annotation doc="D.C. Law 1-27" type="History">Oct. 30, 1975, D.C. Law 1-27, § 4, 22 DCR 2472</annotation>
     <annotation doc="D.C. Law 2-16" type="History">Sept. 20, 1977, D.C. Law 2-16, § 2(a), 24 DCR 3336</annotation>
     <annotation doc="D.C. Law 5-111" type="History">Sept. 26, 1984, D.C. Law 5-111, § 2(a), 31 DCR 3952</annotation>
@@ -47,7 +48,9 @@
     <annotation type="Cross References">Criminal justice supervisory board, authority to promulgate rules of procedure, see § <cite path="§3-904">3-904</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-252.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-171a.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-135">D.C. Law 13-135</cite> added subsec. (c).</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-177">D.C. Law 17-177</cite>, in subsec. (c), added par. (4).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 13-135">D.C. Law 13-135</law-cite> added subsec. (c).</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 17-177">D.C. Law 17-177</law-cite>, in subsec. (c), added par. (4).</annotation>
   </annotations>
 </section>

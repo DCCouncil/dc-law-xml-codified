@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>24-231.11</num>
   <heading>Disbursement of wages to employed prisoners; deductions; accounting.</heading>
   <para>
@@ -62,7 +63,7 @@
     <text>The Director shall establish procedures to provide each prisoner employed in a prison industry with a regular accounting showing gross wages earned, amount deducted in each category of deductions, and the amount credited to the prisoner’s personal account maintained by the Department. All wages credited to the prisoner’s personal account shall be made available to the prisoner at the time of release. The prisoner may draw upon funds in his or her personal account for any legal purpose consistent with Department rules.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 11-117" type="History">May 8, 1996, D.C. Law 11-117, § 12, 43 DCR 1179</annotation>
+    <annotation doc="D.C. Law 11-117" type="History" path="§12">May 8, 1996, D.C. Law 11-117, § 12, 43 DCR 1179</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§24-231.08">24-231.08</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 24-458.11.</annotation>
   </annotations>

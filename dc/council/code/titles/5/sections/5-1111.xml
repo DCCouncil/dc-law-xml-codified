@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>5-1111</num>
   <heading>Complaint investigation, findings, and determination.</heading>
   <para>
@@ -38,7 +39,7 @@
     <text>If the complaint examiner determines that one or more allegations in the complaint is sustained, the Executive Director shall transmit the entire complaint file, including the merits determination of the complaint examiner, to the Police Chief for appropriate action. If the complaint examiner determines that no allegation in the complaint is sustained, the Executive Director shall dismiss the complaint and notify the parties and the Police Chief in writing of such dismissal with a copy of the merits determination.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 12-208" type="History">Mar. 26, 1999, D.C. Law 12-208, § 12, 45 DCR 8107</annotation>
+    <annotation doc="D.C. Law 12-208" type="History" path="§12">Mar. 26, 1999, D.C. Law 12-208, § 12, 45 DCR 8107</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 4-921.</annotation>
   </annotations>
 </section>

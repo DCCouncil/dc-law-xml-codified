@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>22-4010</num>
   <heading>Maintenance and release of sex offender registration information by the Court Services and Offender Supervision Agency.</heading>
   <para>
@@ -30,6 +31,6 @@
     <text>This chapter does not authorize the Agency to make sex offender registration information publicly available, except as authorized by the rules promulgated under § <cite path="§22-4011">22-4011</cite>(g), or through the provision of such information to the Metropolitan Police Department or other agencies or authorities as authorized by this chapter.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 13-137" type="History">July 11, 2000, D.C. Law 13-137, § 11, 47 DCR 797</annotation>
+    <annotation doc="D.C. Law 13-137" type="History" path="§11">July 11, 2000, D.C. Law 13-137, § 11, 47 DCR 797</annotation>
   </annotations>
 </section>

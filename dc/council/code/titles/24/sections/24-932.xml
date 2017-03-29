@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>24-932</num>
   <heading>Report.</heading>
   <text>The Director shall prepare a report assessing the BOOT CAMP, which shall be presented to the Mayor and the Council of the District of Columbia 12 months after the first day of operation of the BOOT CAMP. This report shall include the following:</text>
@@ -39,7 +40,7 @@
     <text>Any recommendations as to changes to or expansion of the BOOT CAMP.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 10-67" type="History">Jan. 27, 1994, D.C. Law 10-67, § 601, 40 DCR 5768</annotation>
+    <annotation doc="D.C. Law 10-67" type="History" path="§601">Jan. 27, 1994, D.C. Law 10-67, § 601, 40 DCR 5768</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 24-832.</annotation>
   </annotations>
 </section>

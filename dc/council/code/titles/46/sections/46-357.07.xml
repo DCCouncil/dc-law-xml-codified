@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>46-357.07</num>
   <heading>Contest of registered convention support order.</heading>
   <para>
@@ -38,6 +39,6 @@
     <text>A challenge or appeal, if any, does not stay the enforcement of a Convention support order unless there are exceptional circumstances.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 21-73" type="History">Feb. 27, 2016, D.C. Law 21-73, § 707, 63 DCR 222</annotation>
+    <annotation doc="D.C. Law 21-73" type="History" path="§707">Feb. 27, 2016, D.C. Law 21-73, § 707, 63 DCR 222</annotation>
   </annotations>
 </section>

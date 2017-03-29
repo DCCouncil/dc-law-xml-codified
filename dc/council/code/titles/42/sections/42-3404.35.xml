@@ -1,9 +1,10 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>42-3404.35</num>
   <heading>Rights of tenants not abrogated.</heading>
   <text>No provision of this subchapter shall abrogate the rights of tenants or tenant organizations under this chapter.</text>
   <annotations>
-    <annotation doc="D.C. Law 3-86" type="History">Sept. 10, 1980, D.C. Law 3-86, § 435</annotation>
+    <annotation doc="D.C. Law 3-86" type="History" path="§435">Sept. 10, 1980, D.C. Law 3-86, § 435</annotation>
     <annotation doc="D.C. Law 17-286" type="History">as added Dec. 24, 2008, D.C. Law 17-286, § 2, 55 DCR 11989</annotation>
   </annotations>
 </section>

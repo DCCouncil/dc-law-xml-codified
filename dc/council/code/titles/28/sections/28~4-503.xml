@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>28:4-503</num>
   <heading>Responsibility of presenting bank for documents and goods; report of reasons for dishonor; referee in case of need.</heading>
   <text>Unless otherwise instructed and except as provided in Article 5, a bank presenting a documentary draft:</text>
@@ -13,7 +14,7 @@
   <annotations>
     <text type="Uniform Commercial Code Comment">1. This section states the rules governing, in the absence of instructions, the duty of the presenting bank in case either of honor or of dishonor of a documentary draft. The section should be read in connection with  Section 2-514 on when documents are deliverable on acceptance, when on payment.</text>
     <text type="Uniform Commercial Code Comment">2. If the draft is drawn under a letter of credit, Article 5 controls. See  Sections 5-109 through  5-114.</text>
-    <text type="Uniform Commercial Code Comment">Reason for 1990 Change [<cite doc="D.C. Law 10-249">D.C. Law 10-249</cite>]</text>
+    <text type="Uniform Commercial Code Comment">Reason for 1990 Change [<law-cite doc="D.C. Law 10-249">D.C. Law 10-249</law-cite>]</text>
     <text type="Uniform Commercial Code Comment">Modified to conform with current drafting practices; no intent to change substance.</text>
     <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 707, Pub. L. 88-243, § 1</annotation>
     <annotation doc="D.C. Law 10-249" type="History">Mar. 23, 1995, D.C. Law 10-249, § 2(e), 42 DCR 467</annotation>

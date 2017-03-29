@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-301.41</num>
   <heading>Definitions.</heading>
   <para>
@@ -14,7 +15,7 @@
     <text>“Threatening letter or communication” shall mean any letter or communication which reasonably indicates an earnest intention or determination to inflict injury upon someone or something of value.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 1-65" type="History">June 8, 1976, D.C. Law 1-65, § 2, 22 DCR 7150</annotation>
+    <annotation doc="D.C. Law 1-65" type="History" path="§2">June 8, 1976, D.C. Law 1-65, § 2, 22 DCR 7150</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-222.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-141a.</annotation>
   </annotations>

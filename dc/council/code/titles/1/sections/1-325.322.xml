@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>1-325.322</num>
   <heading>Teen Pregnancy Prevention Fund.</heading>
   <para>
@@ -42,6 +43,6 @@
     <text>The Fund shall be administered pursuant to the requirements set forth in part B of subchapter XII-A of this chapter [§ <cite path="§1-328.11">1-328.11</cite> et seq.].</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 20-155" type="History">Feb. 26, 2015, D.C. Law 20-155, §  5143, 61 DCR 9990</annotation>
+    <annotation doc="D.C. Law 20-155" type="History" path="§5143">Feb. 26, 2015, D.C. Law 20-155, §  5143, 61 DCR 9990</annotation>
   </annotations>
 </section>

@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>38-234</num>
   <heading>Definitions.</heading>
   <para>
@@ -74,7 +75,7 @@
     </para>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 11-174" type="History">Apr. 9, 1997, D.C. Law 11-174, § 2(d), 43 DCR 4500</annotation>
+    <annotation doc="D.C. Law 11-174" type="History" path="§2|(d)">Apr. 9, 1997, D.C. Law 11-174, § 2(d), 43 DCR 4500</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-454.</annotation>
     <annotation type="Temporary Legislation">See Historical and Statutory Notes following § <cite path="§38-231">38-231</cite>.</annotation>
     <annotation type="Emergency Legislation">For temporary addition of subchapter, see note to § <cite path="§38-231">38-231</cite>.</annotation>

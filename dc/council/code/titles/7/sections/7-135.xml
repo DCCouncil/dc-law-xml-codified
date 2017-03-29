@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-135</num>
   <heading>Persons believed to be carriers of communicable diseases — Examination; diagnosis; detention for quarantine; discharge; public hearing.</heading>
   <para>
@@ -10,7 +11,7 @@
     <text>A person who has been diagnosed as being affected with a communicable disease may be detained for as long as necessary to protect the public health. A person detained pursuant to this subsection may at any time petition the Superior Court of the District of Columbia for a discharge hearing. A person detained pursuant to this subsection who chooses to petition the Superior Court of the District of Columbia for a discharge hearing shall be provided with counsel if the person detained cannot afford counsel.</text>
   </para>
   <annotations>
-    <annotation type="History">Aug. 11, 1939, ch. 601, § 5</annotation>
+    <annotation type="History" doc="Stat. 76-1-ch601" path="§5">Aug. 11, 1939, ch. 601, § 5</annotation>
     <annotation type="History">Aug. 8, 1946, 60 Stat. 920, ch. 871, § 2</annotation>
     <annotation type="History">Aug. 1, 1950, 64 Stat. 393, ch. 513, § 1</annotation>
     <annotation doc="Pub. L. 88-60" type="History">July 8, 1963, 77 Stat. 77, Pub. L. 88-60, § 1</annotation>
@@ -20,7 +21,8 @@
     <annotation type="Section References">This section is referenced in § <cite path="§7-136">7-136</cite> and § <cite path="§7-137">7-137</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-121.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 6-119c.</annotation>
-    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-194">D.C. Law 14-194</cite> rewrote the section.</annotation>
+    <annotation type="Effect of Amendments">
+      <law-cite doc="D.C. Law 14-194">D.C. Law 14-194</law-cite> rewrote the section.</annotation>
     <annotation type="Editor's Notes">Office of Director of Public Health abolished: See Historical and Statutory Notes following § <cite path="§7-101">7-101</cite>.</annotation>
   </annotations>
 </section>

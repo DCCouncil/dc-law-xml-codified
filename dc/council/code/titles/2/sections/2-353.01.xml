@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-353.01</num>
   <heading>Contractor standards.</heading>
   <text>The CPO shall establish a process to certify, on a solicitation-by-solicitation basis, the responsibility of prospective contractors. The process shall ensure that the prospective contractor:</text>
@@ -43,7 +44,7 @@
     <text>Is otherwise qualified and is eligible to receive an award under applicable laws and rules.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 18-371" type="History">Apr. 8, 2011, D.C. Law 18-371, § 301, 58 DCR 1185</annotation>
+    <annotation doc="D.C. Law 18-371" type="History" path="§301">Apr. 8, 2011, D.C. Law 18-371, § 301, 58 DCR 1185</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-353.02">2-353.02</cite>.</annotation>
   </annotations>
 </section>

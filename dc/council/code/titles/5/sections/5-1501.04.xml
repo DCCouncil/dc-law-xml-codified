@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>5-1501.04</num>
   <heading>Duties of the Director.</heading>
   <para>
@@ -105,7 +106,7 @@
     <text>The Director may receive, administer, and expend all funds, including public and private grants, and other funding assistance available to perform his or her duties and to accomplish the agency mission.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 19-18" type="History">Aug. 17, 2011, D.C. Law 19-18, § 5, 58 DCR 5403</annotation>
+    <annotation doc="D.C. Law 19-18" type="History" path="§5">Aug. 17, 2011, D.C. Law 19-18, § 5, 58 DCR 5403</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§5-1501.06">5-1501.06</cite> and § <cite path="§5-1501.12">5-1501.12</cite>.</annotation>
   </annotations>
 </section>

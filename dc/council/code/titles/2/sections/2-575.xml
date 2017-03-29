@@ -1,4 +1,5 @@
-<section xmlns:ns1="http://code.dccouncil.us/schemas/codified" xmlns:ns0="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>2-575</num>
   <heading>Open meetings.</heading>
   <para>
@@ -112,10 +113,10 @@
     <text>Within 60 days after March 31, 2011, the relevant committee of the Council with jurisdiction on this issue shall submit a report to the Council that presents recommendations on whether the sections of this subchapter should apply to Advisory Neighborhood Commissions.</text>
   </para>
   <annotations>
-    <annotation doc="Pub. L. 90-614" type="History">Oct. 21, 1968, Pub. L. 90-614, title IV, § 405</annotation>
+    <annotation doc="Pub. L. 90-614" type="History" path="§405">Oct. 21, 1968, Pub. L. 90-614, title IV, § 405</annotation>
     <annotation doc="D.C. Law 18-350" type="History">as added Mar. 31, 2011, D.C. Law 18-350, § 2, 58 DCR 734</annotation>
     <annotation doc="D.C. Law 19-171" type="History">Sept. 26, 2012, D.C. Law 19-171, § 18, 59 DCR 6190</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-576">2-576</cite> and § <cite path="§2-578">2-578</cite>.</annotation>
-    <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> substituted “with this section” for “with § <cite path="§2-575">2-575</cite>” in (f).</annotation>
+    <annotation type="Effect of Amendments">The 2012 amendment by <law-cite doc="D.C. Law 19-171">D.C. Law 19-171</law-cite> substituted “with this section” for “with § <cite path="§2-575">2-575</cite>” in (f).</annotation>
   </annotations>
 </section>
