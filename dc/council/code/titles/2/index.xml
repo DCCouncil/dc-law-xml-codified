@@ -1763,6 +1763,18 @@
         <xi:include href="sections/2-1226.41.xml" />
       </container>
     </container>
+    <container codified:filerel="./21-119.xml" codified:filebase=".\dc\council\periods\21\laws">
+      <prefix>Subchapter</prefix>
+      <num>XV</num>
+      <heading>Walter Reed Development</heading>
+      <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="" type="History" />
+      <xi:include href="sections/2-1227.01.xml" />
+      <xi:include href="sections/2-1227.02.xml" />
+      <xi:include href="sections/2-1227.03.xml" />
+      <xi:include href="sections/2-1227.04.xml" />
+      <xi:include href="sections/2-1227.05.xml" />
+      <xi:include href="sections/2-1227.06.xml" />
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>

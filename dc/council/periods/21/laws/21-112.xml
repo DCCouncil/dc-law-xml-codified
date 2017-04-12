@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-112" codify:applicability="pending" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document id="D.C. Law 21-112" doc-type="dclaw" codify:applicability="notfunded" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">21-112</num>
   <num type="bill">21-399</num>
   <num type="act">21-340</num>
@@ -45,18 +45,20 @@
         <para>
           <num>(iv)</num>
           <text>Youth 22 through 24 years of age at the date of enrollment shall be compensated at no less than the minimum wage specified in 
-            <cite doc="D.C. Law 9-248" path="§4" codify:value="{{node.cite_string}}">section 4 of the Minimum Wage Act Revision Act of 1992, effective March 25, 1993 (D.C. Law 9-248; D.C. Official Code § 32-1003)</cite>.
+            <code-cite doc="D.C. Law 9-248" path="§4">section 4 of the Minimum Wage Act Revision Act of 1992, effective March 25, 1993 (D.C. Law 9-248; D.C. Official Code § 32-1003)</code-cite>.
           </text>
         </para>
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation codify:applicability="effective" type="Editor's Notes">
-      <law-cite doc="D.C. Law 21-112" path="§3">Section 3 of D.C. Law 21-112</law-cite> provided that the amendment made by <law-cite doc="D.C. Law 21-112" path="§2">section 2 of Law 21-112</law-cite> to subsection (a)(1)(A) of this section is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-    </codify:annotation>
+    <div>
+      <codify:annotation codify:applicability="effective" type="Editor's Notes" doc="D.C. Code" path="§32-241|(a)|(1)|(A)">
+        <cite doc="D.C. Law 21-112" path="§3">§ 3 of D.C. Law 21-112 (May 12, 2016)</cite> provided that the change made to this section by <cite doc="D.C. Law 21-112" path="§2">§ 2 of D.C. Law 21-112 (May 12, 2016)</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+    </div>
   </section>
   <section>
-    <codify:applicability date="pending" history="false" />
+    <codify:applicability date="notfunded" history="false" />
     <num>3</num>
     <heading>Applicability.</heading>
     <para>
