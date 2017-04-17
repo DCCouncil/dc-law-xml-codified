@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 3-77" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document id="D.C. Law 3-77" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">3-77</num>
   <heading type="short">District of Columbia Workers’ Compensation Act of 1979</heading>
   <meta>
@@ -152,7 +152,7 @@
     <num>35</num>
     <codified:at doc="D.C. Code" path="§32-1534" />
   </section>
-  <section containing-doc="D.C. Code">
+  <section>
     <num>36</num>
     <codified:at doc="D.C. Code" path="§32-1535" />
   </section>
