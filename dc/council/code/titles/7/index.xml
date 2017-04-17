@@ -422,6 +422,13 @@
     <xi:include href="sections/7-771.10.xml" />
     <xi:include href="sections/7-771.11.xml" />
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>7E</num>
+    <heading>Establishment of the Office of Violence Prevention and health Equity</heading>
+    <xi:include href="sections/104.xml" />
+    <xi:include href="sections/7-781.xml" />
+  </container>
   <subheading>Subtitle B. Child and Infant Screening; Early Intervention.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -1368,6 +1375,17 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>24A</num>
+    <heading>Establishment of the Office of Neigborhood Safety and Engagement</heading>
+    <xi:include href="sections/101.xml" />
+    <xi:include href="sections/102.xml" />
+    <xi:include href="sections/7-2413.xml" />
+    <xi:include href="sections/7-2411.xml" />
+    <xi:include href="sections/7-2412.xml" />
+    <xi:include href="sections/7-2413.xml" />
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>25</num>
     <heading>Firearms Control.</heading>
     <subheading>Unit A. Firearms Control Regulations.</subheading>
@@ -1507,21 +1525,35 @@
     <prefix>Chapter</prefix>
     <num>28</num>
     <heading>Security and Fire Alarm Systems Regulations.</heading>
-    <xi:include href="sections/7-2801.xml" />
-    <xi:include href="sections/7-2802.xml" />
-    <xi:include href="sections/7-2803.xml" />
-    <xi:include href="sections/7-2804.xml" />
-    <xi:include href="sections/7-2805.xml" />
-    <xi:include href="sections/7-2806.xml" />
-    <xi:include href="sections/7-2807.xml" />
-    <xi:include href="sections/7-2808.xml" />
-    <xi:include href="sections/7-2809.xml" />
-    <xi:include href="sections/7-2810.xml" />
-    <xi:include href="sections/7-2811.xml" />
-    <xi:include href="sections/7-2812.xml" />
-    <xi:include href="sections/7-2813.xml" />
-    <xi:include href="sections/7-2814.xml" />
-    <xi:include href="sections/7-2815.xml" />
+    <container>
+      <prefix />
+      <num>I</num>
+      <heading>General</heading>
+      <xi:include href="sections/7-2801.xml" />
+      <xi:include href="sections/7-2802.xml" />
+      <xi:include href="sections/7-2803.xml" />
+      <xi:include href="sections/7-2804.xml" />
+      <xi:include href="sections/7-2805.xml" />
+      <xi:include href="sections/7-2806.xml" />
+      <xi:include href="sections/7-2807.xml" />
+      <xi:include href="sections/7-2808.xml" />
+      <xi:include href="sections/7-2809.xml" />
+      <xi:include href="sections/7-2810.xml" />
+      <xi:include href="sections/7-2811.xml" />
+      <xi:include href="sections/7-2812.xml" />
+      <xi:include href="sections/7-2813.xml" />
+      <xi:include href="sections/7-2814.xml" />
+      <xi:include href="sections/7-2815.xml" />
+    </container>
+    <container codify:doc="D.C. Code">
+      <prefix>SubChapter</prefix>
+      <num>II</num>
+      <heading>Private Security Camera System Incentive Program</heading>
+      <xi:include href="sections/214.xml" />
+      <xi:include href="sections/215.xml" />
+      <xi:include href="sections/7-2831.xml" />
+      <xi:include href="sections/7-2832.xml" />
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>

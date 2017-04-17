@@ -272,6 +272,38 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>XVI-C</num>
+      <heading>TODO Ben</heading>
+      <annotation type="Editor's Notes" doc="D.C. Law 21-125" path="" app="2016-06-30" eff="2016-06-30">
+        <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125 (June 30, 2016)</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§202">§ 202 of D.C. Law 21-125 (June 30, 2016)</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </annotation>
+      <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§202" type="History" />
+      <annotation type="Editor's Notes" doc="D.C. Law 21-125" path="" app="2016-06-30" eff="2016-06-30">
+        <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125 (June 30, 2016)</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§203">§ 203 of D.C. Law 21-125 (June 30, 2016)</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </annotation>
+      <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§203" type="History" />
+      <annotation type="Editor's Notes" doc="D.C. Law 21-125" path="" app="2016-06-30" eff="2016-06-30">
+        <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125 (June 30, 2016)</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§204">§ 204 of D.C. Law 21-125 (June 30, 2016)</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </annotation>
+      <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§204" type="History" />
+      <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="I" type="History" />
+      <container>
+        <prefix>Part</prefix>
+        <num>A</num>
+        <heading> COMMUNITY CRIME PREVENTION TEAM PROGRAM</heading>
+        <xi:include href="sections/105.xml" />
+        <xi:include href="sections/5-132.31.xml" />
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>B</num>
+        <heading>Community Policing Working Group</heading>
+        <xi:include href="sections/201.xml" />
+        <xi:include href="sections/5-132.32.xml" />
+      </container>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>XVII</num>
       <heading>Miscellaneous.</heading>
       <xi:include href="sections/5-133.01.xml" />

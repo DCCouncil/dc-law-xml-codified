@@ -17,7 +17,7 @@
     <num>101</num>
     <codified:at doc="D.C. Code" path="§8-651.01" />
   </section>
-  <section containing-doc="D.C. Code">
+  <section>
     <num>102</num>
     <codified:at doc="D.C. Code" path="§8-651.02" />
   </section>
@@ -25,13 +25,13 @@
     <num>103</num>
     <codified:at doc="D.C. Code" path="§8-651.03" />
   </section>
-  <section containing-doc="D.C. Code">
+  <section>
     <num>104</num>
     <codified:at doc="D.C. Code" path="§8-651.04" />
   </section>
   <section>
-    <reason>Not Funded</reason>
     <codify:organic after="§8-651.04" num-value="8-651.04a" />
+    <reason>Not Funded</reason>
     <num>104a</num>
     <heading>Protection of Heritage Trees.</heading>
     <text>[Not Funded]</text>
@@ -45,7 +45,7 @@
     <num>106</num>
     <codified:at doc="D.C. Code" path="§8-651.06" />
   </section>
-  <section containing-doc="D.C. Code">
+  <section>
     <num>107</num>
     <codified:at doc="D.C. Code" path="§8-651.07" />
   </section>
