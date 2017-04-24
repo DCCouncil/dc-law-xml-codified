@@ -278,15 +278,13 @@
       <container>
         <prefix>Part</prefix>
         <num>A</num>
-        <heading> COMMUNITY CRIME PREVENTION TEAM PROGRAM</heading>
-        <xi:include href="sections/105.xml" />
+        <heading>Community Crime Prevention Team Program.</heading>
         <xi:include href="sections/5-132.31.xml" />
       </container>
       <container>
         <prefix>Part</prefix>
         <num>B</num>
         <heading>Community Policing Working Group</heading>
-        <xi:include href="sections/201.xml" />
         <xi:include href="sections/5-132.32.xml" />
       </container>
     </container>

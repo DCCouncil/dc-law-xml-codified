@@ -1433,7 +1433,7 @@
         </include>
         <aftertext>.</aftertext>
         <div>
-          <codify:annotation codify:applicability="effective" type="Editor's Notes">
+          <codify:annotation codify:applicability="effective" type="Editor's Notes" path="§11a">
             <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124 (June 22, 2016)</cite> provided that the change made to this section by <cite doc="D.C. Law 21-124" path="§401">§ 401 of D.C. Law 21-124 (June 22, 2016)</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
       </codify:annotation>
         </div>
@@ -1730,10 +1730,12 @@
         <para>
           <num>(1)</num>
           <text>The lead-in language is amended by striking the word "Commission" and inserting the word "DFHV" in its place.</text>
+          <codify:find-replace path="text" find="Commission" replace="DFHV" count="1" />
         </para>
         <para>
           <num>(2)</num>
           <text>Paragraph (1) is amended by striking the phrase "Commission’s website" and inserting the phrase "DFHV’s website" in its place.</text>
+          <codify:find-replace path="(1)" find="Commission’s website" replace="DFHV’s website" count="1" />
         </para>
         <para>
           <num>(3)</num>
@@ -1767,12 +1769,13 @@
         <para>
           <num>(5)</num>
           <text>Paragraph (6) is amended by striking the word "Commission" and inserting the word "OHCR" in its place.</text>
+          <codify:find-replace path="(6)" find="Commission" replace="OHCR" count="1" />
         </para>
         <para>
           <num>(6)</num>
           <text>Paragraph (7) is amended by striking the word "Commission" and inserting the word "DFHV" in its place.</text>
+          <codify:find-replace path="(7)" find="Commission" replace="DFHV" count="1" />
         </para>
-        <codify:find-replace find="Commission" replace="OHCR" count="4" />
       </para>
       <para>
         <num>(hh)</num>

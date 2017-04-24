@@ -1,14 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-120" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document id="D.C. Law 21-120" doc-type="dclaw" codify:applicability="notfunded" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num type="law">21-120</num>
   <num type="bill">21-361</num>
+  <num type="act">21-374</num>
   <heading type="short">Youth Suicide Prevention and School Climate Survey Amendment Act of 2016</heading>
   <heading type="long">To amend the Department of Mental Health Establishment Amendment Act of 2001 to require all teachers and principals in public schools and public charter schools to complete the youth behavioral health program once every 2 years; to amend the State Education Office Establishment Act of 2000 to require the Office of the State Superintendent of Education ("OSSE") to develop and publish online written guidance to assist local education agencies in developing and adopting policies and procedures for handling aspects of mental and behavioral health for students, to require OSSE to develop and annually publish online a catalogue of all professional development and training programs offered, to require OSSE to establish a pilot program for select District of Columbia public schools and public charter schools serving students in grades 7-10 to administer annual school climate surveys, and to require OSSE to annually report on school climate survey data.</heading>
-  <meta />
+  <meta>
+    <effective>2016-06-17</effective>
+    <citations>
+      <citation type="law" url="http://lims.dccouncil.us/Download/34497/B21-0361-SignedAct.pdf">D.C. Law 21-120</citation>
+      <citation type="register">63 DCR 6856</citation>
+    </citations>
+    <history>
+      <vote date="2016-03-01" reading="First" />
+      <vote date="2016-04-05" reading="Final" />
+      <enacted>2016-04-27</enacted>
+      <summary>Law 21-120 requires the Office of the State Superintendent for Education (OSSE) to adopt a rule requiring all District teachers and principals in public and charter schools to undergo training on suicide prevention, intervention, and postvention every two years. It requires the Office of the State Superintendent for Education (OSSE) to develop and publish online written guidance to assist LEAs in developing policies and procedures for handling various aspects of student mental and behavioral health. OSSE must examine and evaluate its guidance every 5 years, at minimum, and notify LEAs within 30 days of updating its guidance. The law also requires OSSE to establish and implement a pilot program to collect school climate data (data regarding engagement, safety, and environment) through school climate surveys, and report school climate data to the Mayor and Council annually.</summary>
+      <committee>Committee on Education</committee>
+    </history>
+  </meta>
   <section>
     <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Youth Suicide Prevention and School Climate Survey Amendment Act of 2016".</text>
   </section>
-  <section codify:doc="D.C. Law 19-141" codify:path="§115b">
+  <section codify:doc="D.C. Law 14-56" codify:path="§115b">
     <num>2</num>
     <text>Section 115b of the Department of Mental Health Establishment Amendment Act of 2001, effective June 7, 2012 (D.C. Law 19-141; D.C. Official Code § 7-1131.17), is amended as follows:</text>
     <para codify:path="(a)">
@@ -122,7 +136,11 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:not-funded-anno applicability-path="§4" />
+    <div>
+      <codify:annotation codify:applicability="effective" type="Editor's Notes">
+        <cite doc="D.C. Law 21-120" path="§4">§ 4 of D.C. Law 21-120 (June 17, 2016)</cite> provided that the change made to this section by <cite doc="D.C. Law 21-120" path="§2">§ 2 of D.C. Law 21-120 (June 17, 2016)</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+    </div>
   </section>
   <section codify:doc="D.C. Law 13-176" codify:path="§3|(b)">
     <num>3</num>
@@ -142,7 +160,7 @@
       <text>New paragraphs (25), (26), and (27) are added to read as follows:</text>
       <include>
         <para>
-          <codify:insert path="(25)" />
+          <codify:insert />
           <num>(25)</num>
           <para>
             <num>(A)</num>
@@ -258,7 +276,7 @@
           </para>
         </para>
         <para>
-          <codify:insert path="(26)" />
+          <codify:insert />
           <num>(26)</num>
           <para>
             <num>(A)</num>
@@ -290,7 +308,7 @@
           </para>
         </para>
         <para>
-          <codify:insert path="(27)" />
+          <codify:insert />
           <num>(27)</num>
           <para>
             <num>(A)</num>
@@ -321,7 +339,9 @@
             </para>
             <para>
               <num>(v)</num>
-              <text>Status as an at-risk student, as defined by <cite doc="D.C. Law 12-207" path="§102|(2A)">section 102(2A) of the Uniform Per Student Funding Formula for Public Schools and Public Charter Schools Act of 1998, effective March 26, 1999 (D.C. Law 12-207; D.C. Official Code § 38-2901(2A))</cite>.</text>
+              <text>Status as an at-risk student, as defined by 
+                <cite doc="D.C. Law 12-207" path="§102|(2A)">section 102(2A) of the Uniform Per Student Funding Formula for Public Schools and Public Charter Schools Act of 1998, effective March 26, 1999 (D.C. Law 12-207; D.C. Official Code § 38-2901(2A))</cite>.
+              </text>
             </para>
           </para>
           <para>
@@ -348,7 +368,11 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:not-funded-anno applicability-path="§4" />
+    <div>
+      <codify:annotation codify:applicability="effective" type="Editor's Notes">
+        <cite doc="D.C. Law 21-120" path="§4">§ 4 of D.C. Law 21-120 (June 17, 2016)</cite> provided that the change made to this section by <cite doc="D.C. Law 21-120" path="§3">§ 3 of D.C. Law 21-120 (June 17, 2016)</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+    </div>
   </section>
   <section>
     <codify:applicability date="notfunded" history="false" />
