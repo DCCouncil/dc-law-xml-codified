@@ -650,7 +650,7 @@
       <aftertext>.</aftertext>
     </section>
   </container>
-  <codify:insert doc="D.C. Code" path="|50" after="|50|23A">
+  <codify:insert doc="D.C. Code" path="|50" after="|50|23A" history="false">
     <container>
       <prefix>Chapter</prefix>
       <num>23B</num>
@@ -694,7 +694,7 @@
       </para>
       <div>
         <codify:annotation codify:applicability="effective" type="Editor's Notes">
-          <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124 (June 22, 2016)</cite> provided that the change made to this section by <cite doc="D.C. Law 21-124" path="§301">§ 301 of D.C. Law 21-124 (June 22, 2016)</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+          <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§301">§ 301 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
       </codify:annotation>
       </div>
     </section>
@@ -755,7 +755,7 @@
       </para>
       <div>
         <codify:annotation codify:applicability="effective" type="Editor's Notes">
-          <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124 (June 22, 2016)</cite> provided that the change made to this section by <cite doc="D.C. Law 21-124" path="§302">§ 302 of D.C. Law 21-124 (June 22, 2016)</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+          <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§302">§ 302 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
       </codify:annotation>
       </div>
     </section>
@@ -811,7 +811,7 @@
       </para>
       <div>
         <codify:annotation codify:applicability="effective" type="Editor's Notes">
-          <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124 (June 22, 2016)</cite> provided that the change made to this section by <cite doc="D.C. Law 21-124" path="§303">§ 303 of D.C. Law 21-124 (June 22, 2016)</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+          <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§303">§ 303 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
       </codify:annotation>
       </div>
     </section>
@@ -872,7 +872,7 @@
       </para>
       <div>
         <codify:annotation codify:applicability="effective" type="Editor's Notes">
-          <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124 (June 22, 2016)</cite> provided that the change made to this section by <cite doc="D.C. Law 21-124" path="§304">§ 304 of D.C. Law 21-124 (June 22, 2016)</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+          <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§304">§ 304 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
       </codify:annotation>
       </div>
     </section>
@@ -890,7 +890,7 @@
       </para>
       <div>
         <codify:annotation codify:applicability="effective" type="Editor's Notes">
-          <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124 (June 22, 2016)</cite> provided that the change made to this section by <cite doc="D.C. Law 21-124" path="§305">§ 305 of D.C. Law 21-124 (June 22, 2016)</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+          <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§305">§ 305 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
       </codify:annotation>
       </div>
     </section>
@@ -1434,7 +1434,7 @@
         <aftertext>.</aftertext>
         <div>
           <codify:annotation codify:applicability="effective" type="Editor's Notes" path="§11a">
-            <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124 (June 22, 2016)</cite> provided that the change made to this section by <cite doc="D.C. Law 21-124" path="§401">§ 401 of D.C. Law 21-124 (June 22, 2016)</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+            <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§401|(l)">§ 401(l) of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
       </codify:annotation>
         </div>
       </para>
@@ -1811,19 +1811,18 @@
         <codify:repeal doc="D.C. Law 2-142" path="§2|(e)|(24)" />
       </para>
       <!--TODO: Ben Review-->
-      <para codify:doc="D.C. Law 2-139" codify:path="§1108|(c)">
-        <codify:ignore technical="true" />
+      <para codify:doc="D.C. Law 2-139" codify:path="§1108">
         <num>(b)</num>
         <text>Section 1108(c) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-611.08(c)), is amended as follows:</text>
         <para>
           <num>(1)</num>
           <text>Paragraph (1)(E) is repealed.</text>
-          <codify:repeal path="(1)|(E)" />
+          <codify:repeal path="(c)|(4)" technical="true" />
         </para>
         <para>
           <num>(2)</num>
           <text>Paragraph (2)(K) is repealed.</text>
-          <codify:repeal path="(2)|(K)" />
+          <codify:repeal path="(c-2)|(3)" technical="true" />
         </para>
       </para>
       <para>
@@ -2053,7 +2052,7 @@
           <text>Paragraph (3) is amended by striking the phrase "used for the operational or capital needs of the District of Columbia Taxicab Commission." and inserting the phrase "deposited in the Public Vehicles-for-Hire Consumer Service Fund, established by section 20a of the Department of For-Hire Vehicles Establishment Act of 1985, effective March 25, 1986 (D.C. Law 6-97; D.C. Official Code § 50-301.)." in its place.</text>
           <codify:find-replace count="1">
             <find>used for the operational or capital needs of the District of Columbia Taxicab Commission.</find>
-            <replace>deposited in the Public Vehicles-for-Hire Consumer Service Fund, established by <code-cite doc="D.C. Law 6-97" path="§20a">section 20a of the Department of For-Hire Vehicles Establishment Act of 1985, effective March 25, 1986 (D.C. Law 6-97; D.C. Official Code § 50-301.)</code-cite>.</replace>
+            <replace>deposited in the Public Vehicles-for-Hire Consumer Service Fund, established by <code-cite doc="D.C. Law 6-97" path="§20a" technical="should be '50-301.01'">section 20a of the Department of For-Hire Vehicles Establishment Act of 1985, effective March 25, 1986 (D.C. Law 6-97; D.C. Official Code § 50-301.)</code-cite>.</replace>
           </codify:find-replace>
         </para>
       </para>

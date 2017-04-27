@@ -1522,7 +1522,7 @@
     <num>28</num>
     <heading>Security and Fire Alarm Systems Regulations.</heading>
     <container>
-      <prefix />
+      <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General</heading>
       <xi:include href="sections/7-2801.xml" />
@@ -1542,9 +1542,9 @@
       <xi:include href="sections/7-2815.xml" />
     </container>
     <container codify:doc="D.C. Code">
-      <prefix>SubChapter</prefix>
+      <prefix>Subchapter</prefix>
       <num>II</num>
-      <heading>Private Security Camera System Incentive Program</heading>
+      <heading>Private Security Camera System Incentive Program.</heading>
       <xi:include href="sections/7-2831.xml" />
       <xi:include href="sections/7-2832.xml" />
     </container>
