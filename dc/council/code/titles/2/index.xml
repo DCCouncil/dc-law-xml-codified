@@ -1188,6 +1188,17 @@
       <xi:include href="sections/2-1208.03.xml" />
       <xi:include href="sections/2-1208.04.xml" />
     </container>
+    <container codified:filerel="./21-135.xml" codified:filebase=".\dc\council\periods\21\laws">
+      <prefix>Subchapter</prefix>
+      <num>IV-B</num>
+      <heading>Made in DC Program</heading>
+      <xi:include href="sections/2-1208.31.xml" />
+      <xi:include href="sections/2-1208.32.xml" />
+      <xi:include href="sections/2-1208.33.xml" />
+      <xi:include href="sections/2-1208.34.xml" />
+      <xi:include href="sections/2-1208.35.xml" />
+      <xi:include href="sections/2-1208.36.xml" />
+    </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
@@ -1773,17 +1784,6 @@
       <xi:include href="sections/2-1227.04.xml" />
       <xi:include href="sections/2-1227.05.xml" />
       <xi:include href="sections/2-1227.06.xml" />
-    </container>
-    <container codified:filerel="./21-135.xml" codified:filebase=".\dc\council\periods\21\laws">
-      <prefix>Subchapter</prefix>
-      <num>IV-B</num>
-      <heading>Made in DC Program</heading>
-      <xi:include href="sections/2-1208.31.xml" />
-      <xi:include href="sections/2-1208.32.xml" />
-      <xi:include href="sections/2-1208.33.xml" />
-      <xi:include href="sections/2-1208.34.xml" />
-      <xi:include href="sections/2-1208.35.xml" />
-      <xi:include href="sections/2-1208.36.xml" />
     </container>
   </container>
   <container>
