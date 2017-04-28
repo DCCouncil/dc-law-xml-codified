@@ -42,7 +42,7 @@
           <xi:include href="sections/1-127.xml" />
           <xi:include href="sections/1-128.xml" />
         </container>
-        <container>
+        <container codify:applicability="notfunded">
           <prefix>Subpart</prefix>
           <num>2</num>
           <heading>District Of Columbia Statehood Delegation Fund Commission.</heading>
@@ -59,7 +59,7 @@
           <xi:include href="sections/1-129.11.xml" />
           <xi:include href="sections/1-129.12.xml" />
         </container>
-        <container>
+        <container codify:applicability="notfunded">
           <prefix>Subpart</prefix>
           <num>3</num>
           <heading>New Columbia Statehood Initiative.</heading>
@@ -329,13 +329,13 @@
           <xi:include href="sections/1-204.82.xml" />
           <xi:include href="sections/1-204.83.xml" />
         </container>
-        <container>
+        <container codify:applicability="notfunded">
           <prefix>Subpart</prefix>
           <num>4</num>
           <heading>Full Faith and Credit of the United States.</heading>
           <xi:include href="sections/1-204.84.xml" />
         </container>
-        <container>
+        <container codify:applicability="notfunded">
           <prefix>Subpart</prefix>
           <num>5</num>
           <heading>Tax Exemptions; Legal Investment; Water Pollution; Reservoirs; Metro Contributions; and Revenue Bonds.</heading>
@@ -1407,7 +1407,7 @@
       <xi:include href="sections/1-541.02.xml" />
     </container>
   </container>
-  <container>
+  <container codify:applicability="notfunded">
     <prefix>Chapter</prefix>
     <num>6</num>
     <heading>Merit Personnel System.</heading>
