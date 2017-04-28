@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>7-2509.07</num>
   <heading>Prohibitions on carrying licensed pistols.</heading>
   <para>
@@ -55,11 +55,11 @@
     </para>
     <para>
       <num>(11)</num>
-      <text>The area around the White House between Constitution Avenue, N.W., and H Street, N.W., and between 15th Street, N.W., and 17th Street, N.W.;</text>
+      <text>The White House Complex and its grounds up to and including to the curb of the adjacent sidewalks touching the roadways of the area bounded by Constitution Avenue, N.W., 15th Street, N.W., H Street, N.W., and 17th Street, N.W.;</text>
     </para>
     <para>
       <num>(12)</num>
-      <text>The U.S. Naval Observatory and its grounds, and from the perimeter of its fence to the curb of Massachusetts Avenue, N.W., from 34th Street, N.W., south on Massachusetts Avenue, N.W., to Observatory Circle, N.W.;</text>
+      <text>The U.S. Naval Observatory and its fence line, including the area from the perimeter of its fence up to and including to the curb of the adjacent sidewalks touching the roadway of Observatory Circle, from Calvert Street, N.W., to Massachusetts Avenue, N.W., and around Observatory Circle to the far corner of Observatory Lane;</text>
     </para>
     <para>
       <num>(13)</num>
@@ -137,7 +137,7 @@
     <text>A licensee shall not be in violation of this section:</text>
     <para>
       <num>(1)</num>
-      <text>While he or she is traveling along a public street, road, or highway, including an adjacent public sidewalk that touches the perimeter of any of the premises where the carrying of a concealed pistol is prohibited under subsection (a) or subsection (b) of this section if the concealed pistol is carried on his or her person in accordance with this unit, or is being transported by the licensee in accordance with § <cite path="§22-4504.02">22-4504.02</cite>; or</text>
+      <text>While he or she is traveling along a public sidewalk that touches the perimeter of any of the premises where the carrying of a concealed pistol is prohibited under subsection (a) and subsection (b) of this section, except for the areas designated in subsection (a)(11) and (a)(12), or along a public street, roadway, or highway if the concealed pistol is carried on his or her person in accordance with this unit, or is being transported by the licensee in accordance with § <cite path="§22-4504.02">22-4504.02</cite>; or</text>
     </para>
     <para>
       <num>(2)</num>
@@ -199,8 +199,11 @@
   <annotations>
     <annotation doc="D.C. Law 1-85" type="History" path="§907">Sept. 24, 1976, D.C. Law 1-85, § 907</annotation>
     <annotation doc="D.C. Law 20-279" type="History">as added June 16, 2015, D.C. Law 20-279, § 2(f), 62 DCR 1944</annotation>
-    <annotation type="Temporary Legislation">For temporary (225 days) amendment of this section, see § 5 of the Fiscal Year 2016 Budget Support Clarification Temporary Amendment Act of 2015 (<law-cite doc="D.C. Law 21-76">D.C. Law 21-76</law-cite>, Feb. 27, 2016,  63 DCR 264).</annotation>
+    <annotation type="Temporary Legislation">For temporary (225 days) amendment of this section, see § 5 of the Fiscal Year 2016 Budget Support Clarification Temporary Amendment Act of 2015 (<cite doc="D.C. Law 21-76">D.C. Law 21-76</cite>, Feb. 27, 2016,  63 DCR 264).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of section, see § 4 of the Fiscal Year 2016 Second Budget Support Clarification Emergency Amendment Act of 2015 (D.C. Act 21-202, Nov. 23, 2015,  62 DCR 15276).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 4 of the Fiscal Year 2016 Budget Support Clarification Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-307, Feb. 18, 2016,  63 DCR 2182).</annotation>
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§601|(a)|(1)" type="History" />
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§601|(a)|(2)" type="History" />
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§601|(b)" type="History" />
   </annotations>
 </section>

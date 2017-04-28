@@ -1,20 +1,65 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>50-921.76</num>
   <heading>Rulemaking; enforcement; and adjudication.</heading>
   <para>
     <num>(a)</num>
-    <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], may issue rules to implement the provisions of this subchapter, including the manner and amount of a fare, fee, or fine.</text>
+    <text>Except as provided in subsection (a-1) of this section, the Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], may issue rules to implement the provisions of this subchapter, including the manner and amount of a fare, fee, or fine.</text>
+  </para>
+  <para>
+    <num>(a-1)</num>
+    <para>
+      <num>(1)</num>
+      <text>Before making a fare or service adjustment for the DC Streetcar, the Mayor shall hold at least one public hearing and publish notice of the fare or service adjustment in the District of Columbia Register. The notice shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Establish a public comment period of not fewer than 45 days from the date of publication;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Set a date for a public hearing on the fare or service adjustment, which shall be held not fewer than 20 days from the date of publication; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Include a hyperlink to a fare or service adjustment plan, which shall include:</text>
+        <para>
+          <num>(i)</num>
+          <text>A summary of the proposed fare or service adjustment;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>A proposed timeline for the implementation of the fare or service adjustment;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>An equity analysis illustrating any disparate impact of the proposed fare or service adjustment on populations protected under Title VI of the Civil Rights Act of 1964, approved July 2, 1964 (78 Stat. 252; 42 U.S.C. § 2000d et seq.); and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>An explanation of the necessity of the fare or service adjustment and a description of alternative fare or service adjustments examined.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>In the event of an emergency declaration, the Mayor may make a fare or service adjustment for the DC Streetcar for the duration of the emergency without complying with the requirements of paragraph (1) of this subsection.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>For the purposes of this subsection, the term "fare or service adjustment" shall mean a change in the fare, the creation of a new route, or a significant change to an existing route or schedule of the DC Streetcar.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
     <text>Civil fines, penalties, and fees may be imposed as sanctions for an infraction of a rule promulgated under subsection (a) of this section pursuant to Chapter 18 of Title 2 [§ <cite path="§2-1801.01">2-1801.01</cite> et seq.].</text>
   </para>
   <annotations>
-    <text type="Editor's Notes">Section 5 of <law-cite doc="D.C. Law 19-268">D.C. Law 19-268</law-cite> provided that this subchapter shall expire as of September 30, 2015.</text>
-    <text type="Editor's Notes">Section 5 of <law-cite doc="D.C. Law 19-268">D.C. Law 19-268</law-cite>, as amended by <law-cite doc="D.C. Law 21-36">D.C. Law 21-36</law-cite>, §§ 6162 and 6163, provided that this subchapter shall expire as of September 30, 2016.</text>
+    <text type="Editor's Notes">Section 5 of <cite doc="D.C. Law 19-268">D.C. Law 19-268</cite> provided that this subchapter shall expire as of September 30, 2015.</text>
+    <text type="Editor's Notes">Section 5 of <cite doc="D.C. Law 19-268">D.C. Law 19-268</cite>, as amended by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite>, §§ 6162 and 6163, provided that this subchapter shall expire as of September 30, 2016.</text>
     <annotation doc="D.C. Law 14-137" type="History" path="§11r">May 21, 2002, D.C. Law 14-137, § 11r</annotation>
     <annotation doc="D.C. Law 19-268" type="History">as added Apr. 20, 2013, D.C. Law 19-268, § 3, 60 DCR 1709</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <law-cite doc="D.C. Law 19-268">D.C. Law 19-268</law-cite> added this section.</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-268">D.C. Law 19-268</cite> added this section.</annotation>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§101|(e)|(1)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§101|(e)|(2)" type="History" />
   </annotations>
 </section>

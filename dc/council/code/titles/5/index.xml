@@ -272,6 +272,23 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>XVI-C</num>
+      <heading>Community Policing.</heading>
+      <container>
+        <prefix>Part</prefix>
+        <num>A</num>
+        <heading>Community Crime Prevention Team Program.</heading>
+        <xi:include href="sections/5-132.31.xml" />
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>B</num>
+        <heading>Community Policing Working Group.</heading>
+        <xi:include href="sections/5-132.32.xml" />
+      </container>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>XVII</num>
       <heading>Miscellaneous.</heading>
       <xi:include href="sections/5-133.01.xml" />
