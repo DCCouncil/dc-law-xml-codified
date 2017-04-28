@@ -23,7 +23,7 @@
   <section>
     <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Made in DC Program Establishment Act of 2016".</text>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:organic num-value="2-1208.31" heading-value="Definitions." />
     <num>2</num>
     <heading>Definitions:</heading>
@@ -87,7 +87,7 @@
       </codify:annotation>
     </div>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:organic num-value="2-1208.32" />
     <num>3</num>
     <heading>Made in DC program.</heading>
@@ -169,7 +169,7 @@
       </codify:annotation>
     </div>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:organic num-value="2-1208.33" />
     <num>4</num>
     <heading>Made in DC Fund.</heading>
@@ -222,7 +222,7 @@
       </codify:annotation>
     </div>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:organic num-value="2-1208.34" />
     <num>5</num>
     <heading>Innovation Space and Marketplace report.</heading>
@@ -316,7 +316,7 @@
       </codify:annotation>
     </div>
   </section>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:organic num-value="2-1208.35" />
     <num>6</num>
     <heading>Rules.</heading>
@@ -335,7 +335,11 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability date="notfunded" />
+      <codify:applicability doc="D.C. Law 21-135" path="§2" date="notfunded" history="false" />
+      <codify:applicability doc="D.C. Law 21-135" path="§3" date="notfunded" history="false" />
+      <codify:applicability doc="D.C. Law 21-135" path="§4" date="notfunded" history="false" />
+      <codify:applicability doc="D.C. Law 21-135" path="§5" date="notfunded" history="false" />
+      <codify:applicability doc="D.C. Law 21-135" path="§6" date="notfunded" history="false" />
     </para>
     <para>
       <num>(b)</num>
