@@ -31,10 +31,10 @@
     <text>The Minimum Wage Act Revision Act of 1992, effective March 25, 1993 (D.C. Law 9-248; D.C. Official Code § 32-1001
       <em>et seq.</em>), is amended as follows:
     </text>
-    <para>
+    <para codify:path="§3|(3)">
       <num>(a)</num>
       <text>Section 3(3) (D.C. Official Code § 32-1002(3) is amended as follows:</text>
-      <para codify:path="§3|(3)">
+      <para>
         <num>(1)</num>
         <text>Strike the word "includes" and insert the phrase "includes the District of Columbia government," in its place.</text>
         <codify:find-replace find="includes" replace="includes the District of Columbia government," count="1" />
@@ -167,8 +167,8 @@
       <text>A new section 8a is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert after="§8" history-prefix="as added" />
-          <codify:organic num-value="32-1007.01" after="§32-1007" />
+          <codify:insert doc="D.C. Law 9-248" after="§8" history-prefix="as added" />
+          <codify:organic after="§32-1007" num-value="32-1007.01" />
           <num>8a</num>
           <heading>Reporting.</heading>
           <text>The Mayor shall submit biannually a report to the Council regarding any audits or inspections conducted related to compliance with <code-cite>this act</code-cite> or any regulation issued pursuant to <code-cite>this act</code-cite>. Each report shall include:</text>
