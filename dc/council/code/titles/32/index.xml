@@ -325,28 +325,12 @@
       <xi:include href="sections/32-1049.xml" />
     </container>
   </container>
-  <container codify:doc="D.C. Code">
+  <container codified:filerel="./21-157.xml" codified:filebase=".\dc\council\periods\21\laws">
     <prefix>Chapter</prefix>
     <num>10A</num>
     <heading>Building Service Employees Minimum Work Week.</heading>
-    <xi:include href="sections/2.xml" />
-    <xi:include href="sections/3.xml" />
-    <xi:include href="sections/4.xml" />
-    <xi:include href="sections/5.xml" />
-    <xi:include href="sections/6.xml" />
-    <xi:include href="sections/7.xml" />
-    <xi:include href="sections/8.xml" />
-    <xi:include href="sections/9.xml" />
-    <xi:include href="sections/10.xml" />
-    <xi:include href="sections/11.xml" />
-    <xi:include href="sections/12.xml" />
-    <xi:include href="sections/13.xml" />
-    <xi:include href="sections/14.xml" />
-    <xi:include href="sections/15.xml" />
-    <xi:include href="sections/16.xml" />
-    <xi:include href="sections/17.xml" />
-    <xi:include href="sections/18.xml" />
-    <xi:include href="sections/20.xml" />
+    <xi:include href="sections/32-1051.01.xml" />
+    <xi:include href="sections/32-1051.02.xml" />
   </container>
   <container>
     <prefix>Chapter</prefix>
