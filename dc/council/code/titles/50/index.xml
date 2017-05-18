@@ -777,19 +777,6 @@
     <xi:include href="sections/50-1931.xml" />
   </container>
   <container>
-    <codify:organic doc="D.C. Code" path="50" history="false" />
-    <prefix>Chapter</prefix>
-    <num>19B</num>
-    <heading>Open Access to Data and Information.</heading>
-    <xi:include href="sections/101.xml" />
-    <xi:include href="sections/102.xml" />
-    <xi:include href="sections/103.xml" />
-    <xi:include href="sections/104.xml" />
-    <xi:include href="sections/105.xml" />
-    <xi:include href="sections/106.xml" />
-    <xi:include href="sections/107.xml" />
-  </container>
-  <container>
     <prefix>Chapter</prefix>
     <num>20</num>
     <heading>Senior Citizen Motor Vehicle Accident Prevention Course Certification.</heading>
@@ -1201,4 +1188,16 @@
     <xi:include href="sections/50-2707.xml" />
     <xi:include href="sections/50-2708.xml" />
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>19B</num>
+    <heading>Open Access to Data and Information.</heading>
+  </container>
+  <xi:include href="sections/50-1951.01.xml" />
+  <xi:include href="sections/50-1951.02.xml" />
+  <xi:include href="sections/50-1951.03.xml" />
+  <xi:include href="sections/50-1951.04.xml" />
+  <xi:include href="sections/50-1951.05.xml" />
+  <xi:include href="sections/50-1951.06.xml" />
+  <xi:include href="sections/50-1951.07.xml" />
 </container>
