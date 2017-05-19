@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
   <num>22-3212</num>
   <heading>Penalties for theft.</heading>
   <para>
@@ -14,7 +14,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>A person convicted of theft in the first or second degree who has 2 or more prior convictions for theft, not committed on the same occasion, shall be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite> or imprisoned for not more than 10 years and for a mandatory-minimum term of not less than one year, or both. A person sentenced under this subsection shall not be released from prison, granted probation, or granted suspension of sentence, prior to serving the mandatory-minimum.</text>
+    <text>A person convicted of theft in the first or second degree who has 2 or more prior convictions for theft, not committed on the same occasion, shall be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite> or imprisoned for not more than 15 years and for a mandatory-minimum term of not less than one year, or both. A person sentenced under this subsection shall not be released from prison, granted probation, or granted suspension of sentence, prior to serving the mandatory-minimum.</text>
   </para>
   <para>
     <num>(d)</num>
@@ -47,5 +47,6 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 214(d) of Omnibus Public Safety and Justice Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-227, October 21, 2009,  56 DCR 8668).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 205(a) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
     <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+    <annotation app="2016-11-23" doc="D.C. Law 21-166" eff="2016-11-23" path="§2|(a)" type="History" />
   </annotations>
 </section>
