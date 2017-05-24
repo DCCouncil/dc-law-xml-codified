@@ -167,6 +167,16 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>5A</num>
+    <heading>BICYCLE CONSUMER PROTECTION.</heading>
+    <xi:include href="sections/50-531.xml" />
+    <xi:include href="sections/50-532.xml" />
+    <xi:include href="sections/50-533.xml" />
+    <xi:include href="sections/50-534.xml" />
+    <xi:include href="sections/50-535.xml" />
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>6</num>
     <heading>Installment Sales of Motor Vehicles.</heading>
     <xi:include href="sections/50-601.xml" />
@@ -1060,6 +1070,18 @@
       <xi:include href="sections/50-2361.31.xml" />
       <xi:include href="sections/50-2361.32.xml" />
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>23C</num>
+    <heading>BICYCLE AND PEDESTRIAN PRIORITY AREAS.</heading>
+    <xi:include href="sections/50-2371.xml" />
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>23D</num>
+    <heading>COMPLETE STREETS.</heading>
+    <xi:include href="sections/50-2381.xml" />
   </container>
   <subheading>Subtitle VIII. Vehicles On Public And Private Space.</subheading>
   <container>
