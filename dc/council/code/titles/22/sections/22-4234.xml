@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>22-4234</num>
   <heading>Duties.</heading>
   <para>
@@ -43,6 +43,10 @@
     <text>The CJCC shall also report, on an annual basis, on the status and progress of the goals and objectives referenced in subsection (a)(8) of this section, including any recommendations made by the CJCC and its subcommittees to the membership of the CJCC, the public, the Mayor, and the Council. The report shall be submitted to the Mayor and the Council within 90 days after the end of each fiscal year and shall be the subject of a public hearing before the Council during the annual budget process. The CJCC’s budget and future funding requests shall also be the subject of a hearing before the Council during the annual budget process.</text>
   </para>
   <para>
+    <num>(b-1)</num>
+    <text>[Not Funded].</text>
+  </para>
+  <para>
     <num>(c)</num>
     <text>The CJCC is designated as a criminal justice agency for purposes of transmitting electronically to local, state, and federal agencies criminal-justice-related information, as required by CJCC to perform the duties specified under this section and in accordance with the terms and conditions regarding data sharing approved by the agency that is the source of the information for transmission.</text>
   </para>
@@ -55,5 +59,10 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 3072 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
     <annotation type="Short Title">Section 3071 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle H of Title III of the act may be cited as the “Criminal Justice Coordinating Council Criminal Justice Designation Amendment Act of 2013”.</annotation>
     <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 11001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that, except as otherwise provided, the act shall apply as of October 1, 2013.</annotation>
+    <annotation app="notfunded" doc="D.C. Law 21-125" eff="2016-06-30" path="§204" type="History" />
+    <annotation type="Editor's Notes" app="2016-06-30" eff="2016-06-30">
+       Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§204">§ 204 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </annotation>
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§204" type="History" />
   </annotations>
 </section>

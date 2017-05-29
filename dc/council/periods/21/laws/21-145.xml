@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-145" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document id="D.C. Law 21-145" codify:applicability="notfunded" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num type="law">21-145</num>
   <num type="bill">21-178</num>
   <num type="act">21-430</num>
@@ -116,7 +116,11 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:not-funded-anno path="§47-1098" applicability-path="§4" />
+    <div>
+      <codify:annotation codify:applicability="effective" type="Editor's Notes" path="§47-1098">
+       Applicability of <cite doc="D.C. Law 21-145" path="">D.C. Law 21-145</cite>: <cite doc="D.C. Law 21-145" path="§4">§ 4 of D.C. Law 21-145</cite> provided that the change made to this section by <cite doc="D.C. Law 21-145" path="§2">§ 2 of D.C. Law 21-145</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+    </div>
   </section>
   <section>
     <codify:ignore />

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>5-107.01</num>
   <heading>Minimum standards for members of the Metropolitan Police Department.</heading>
   <para>
@@ -20,18 +20,18 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>As of March 6, 2007, to be eligible for appointment as a sworn member of the Metropolitan Police Department, an applicant shall have either:</text>
+    <text>To be eligible for appointment as a sworn member of the Metropolitan Police Department, an applicant shall have either:</text>
     <para>
       <num>(1)</num>
       <text>Successfully completed 60 hours of post-secondary education at an accredited college or university;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Served in the Armed Forces of the United States, including the Organized Reserves and National Guard, for at least 3 years on active duty and if separated from the military, have received an honorable discharge; or</text>
+      <text>Served in the Armed Forces of the United States, including the Organized Reserves and National Guard, for at least 2 years on active duty and if separated from the military, have received an honorable discharge; or</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Served at least 5 years in a full-duty status with a full-service police department in a municipality or state within the United States and have resigned or retired in good standing.</text>
+      <text>Served at least 3 years in a full-duty status with a full-service police department in a municipality or state within the United States and have resigned or retired in good standing.</text>
     </para>
   </para>
   <annotations>
@@ -45,5 +45,8 @@
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2 of Metropolitan Police Department Education Requirement Clarification Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-147">D.C. Law 15-147</cite>, April 22, 2004, law notification  51 DCR 4931).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2 of Metropolitan Police Department Educational Requirement Clarification Emergency Amendment Act of 2004 (D.C. Act 15-323, January 28, 2004,  51 DCR 1586).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 3 of the Metropolitan Police Department Officer Retention and Recruitment Incentives Emergency Amendment Act of 2016 (D.C. Act 21-332, Mar. 17, 2016,  63 DCR 4304).</annotation>
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§212|(b)" type="History" />
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§212|(c)" type="History" />
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§212|(a)" type="History" />
   </annotations>
 </section>

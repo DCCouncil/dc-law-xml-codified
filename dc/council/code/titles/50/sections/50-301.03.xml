@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>50-301.03</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
@@ -25,7 +25,7 @@
   </para>
   <para>
     <num>(6)</num>
-    <text>“Commission” means the District of Columbia Taxicab Commission established by § <cite path="§50-301.04">50-301.04</cite>.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(7)</num>
@@ -40,12 +40,24 @@
     <text>“Digital dispatch” means the hardware and software applications and networks, including mobile phone applications, which passengers and operators use to provide public and private vehicle-for-hire service.</text>
   </para>
   <para>
+    <num>(8A-i)</num>
+    <text>"Director" means the Director of the Department of For-Hire-Vehicles.</text>
+  </para>
+  <para>
     <num>(8B)</num>
     <text>“Dispatch” means the traditional methods of pre-arranging vehicle-for-hire service, including through telephone or radio.</text>
   </para>
   <para>
     <num>(9)</num>
     <text>“DDOE” means the District Department of the Environment.</text>
+  </para>
+  <para>
+    <num>(9A)</num>
+    <text>"DFHV" means the Department of For-Hire Vehicles established by <cite path="§50-301.04">§ 50-301.04</cite>.</text>
+  </para>
+  <para>
+    <num>(9B)</num>
+    <text>"FHVAC" means the For-Hire Vehicle Advisory Council established by <cite path="§50-301.10a">§ 50-301.10a</cite>.</text>
   </para>
   <para>
     <num>(10)</num>
@@ -69,7 +81,23 @@
   </para>
   <para>
     <num>(15)</num>
-    <text>“Office” means the Office of Taxicabs established by § <cite path="§50-301.12">50-301.12</cite>.</text>
+    <text>Repealed.</text>
+  </para>
+  <para>
+    <num>(15A)</num>
+    <text>"ORPP" means the Office of Regulatory Policy and Planning established by <cite path="§50-301.06">§ 50-301.06</cite>.</text>
+  </para>
+  <para>
+    <num>(15B)</num>
+    <text>"OCS" means the Office of Client Services established by <cite path="§50-301.06">§ 50-301.06</cite>.</text>
+  </para>
+  <para>
+    <num>(15C)</num>
+    <text>"OCE" means the Office of Compliance and Enforcement established by <cite path="§50-301.06">§ 50-301.06</cite>.</text>
+  </para>
+  <para>
+    <num>(15D)</num>
+    <text>"OHCR" means the Office of Hearings and Conflict Resolution established by <cite path="§50-301.06">§ 50-301.06</cite>.</text>
   </para>
   <para>
     <num>(16)</num>
@@ -105,7 +133,7 @@
   </para>
   <para>
     <num>(21)</num>
-    <text>“Taxicab” means a class of public vehicle-for-hire that may be hired by dispatch, digital dispatch, or hailed on the street, and for which the fare charged is calculated by a Commission-approved meter with uniform rates determined by the Commission; provided, that a taxicab hired by a passenger through digital dispatch may use rates set by the company that operates the digital dispatch pursuant to the requirements of this subchapter.</text>
+    <text>“Taxicab” means a class of public vehicle-for-hire that may be hired by dispatch, digital dispatch, or hailed on the street, and for which the fare charged is calculated by a DFHV-approved meter with uniform rates determined by the DFHV; provided, that a taxicab hired by a passenger through digital dispatch may use rates set by the company that operates the digital dispatch pursuant to the requirements of this subchapter.</text>
   </para>
   <para>
     <num>(22)</num>
@@ -137,11 +165,11 @@
   </para>
   <para>
     <num>(29)</num>
-    <text>“Taxicab service” means passenger transportation service originating in the District in which the passenger directs the points between which the service is to be provided, the service is provided at a time chosen by the passenger, and, when hailed on the street, the fare and fees for which are prescribed by the Commission.</text>
+    <text>“Taxicab service” means passenger transportation service originating in the District in which the passenger directs the points between which the service is to be provided, the service is provided at a time chosen by the passenger, and, when hailed on the street, the fare and fees for which are prescribed by the DFHV.</text>
   </para>
   <para>
     <num>(30)</num>
-    <text>“Underserved area” means a designated zone, as determined by the Commission, with an established need for greater taxicab service.</text>
+    <text>“Underserved area” means a designated zone, as determined by the DFHV, with an established need for greater taxicab service.</text>
   </para>
   <para>
     <num>(30A)</num>
@@ -160,6 +188,11 @@
     <text>“Wheelchair-accessible vehicle” means a vehicle compliant with the ADA that accommodates a passenger using a wheelchair or other personal mobility device who needs a ramp or lift to enter or exit the vehicle. The vehicle must comply with the provisions of 49 C.F.R. Part 38.1 — 38.39.</text>
   </para>
   <annotations>
+    <text type="Editor's Notes">Section 7 of <cite doc="D.C. Law 19-184">D.C. Law 19-184</cite> provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</text>
+    <text type="Editor's Notes">Section 5 of <cite doc="D.C. Law 19-270">D.C. Law 19-270</cite> provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</text>
+    <text type="Editor's Notes">Section 7007 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> repealed <cite doc="D.C. Law 19-184">D.C. Law 19-184</cite>, § 7.</text>
+    <text type="Editor's Notes">Section 7017 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> repealed <cite doc="D.C. Law 19-270">D.C. Law 19-270</cite>, § 5.</text>
+    <text type="Editor's Notes">Applicability of <cite doc="D.C. Law 20-197">D.C. Law 20-197</cite>: Section 7 of <cite doc="D.C. Law 20-197">D.C. Law 20-197</cite> provided, in part, that §§ 1, 2, 3, and 4 of the act shall apply as of March 10, 2015.</text>
     <annotation doc="D.C. Law 6-97" type="History" path="§4">Mar. 25, 1986, D.C. Law 6-97, § 4, 33 DCR 703</annotation>
     <annotation doc="D.C. Law 6-165" type="History">Feb. 24, 1987, D.C. Law 6-165, § 3(a), 33 DCR 6705</annotation>
     <annotation doc="D.C. Law 11-268" type="History">May 21, 1997, D.C. Law 11-268, § 10(ii)(1), 44 DCR 1730</annotation>
@@ -179,10 +212,17 @@
     <annotation type="Emergency Legislation">For temporary (90 days) repeal of <cite doc="D.C. Law 19-270">D.C. Law 19-270</cite>, § 5, see § 7017 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) repeal of <cite doc="D.C. Law 19-270">D.C. Law 19-270</cite>, § 5, see 7017 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
     <annotation type="Short Title">Section 7001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle A of Title VII of the act may be cited as the “Subject to Appropriations Repealers Amendment Act of 2013”.</annotation>
-    <text type="Editor's Notes">Section 7 of <cite doc="D.C. Law 19-184">D.C. Law 19-184</cite> provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</text>
-    <text type="Editor's Notes">Section 5 of <cite doc="D.C. Law 19-270">D.C. Law 19-270</cite> provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register.</text>
-    <text type="Editor's Notes">Section 7007 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> repealed <cite doc="D.C. Law 19-184">D.C. Law 19-184</cite>, § 7.</text>
-    <text type="Editor's Notes">Section 7017 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> repealed <cite doc="D.C. Law 19-270">D.C. Law 19-270</cite>, § 5.</text>
-    <text type="Editor's Notes">Applicability of <cite doc="D.C. Law 20-197">D.C. Law 20-197</cite>: Section 7 of <cite doc="D.C. Law 20-197">D.C. Law 20-197</cite> provided, in part, that §§ 1, 2, 3, and 4 of the act shall apply as of March 10, 2015.</text>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(c)|(1)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(c)|(2)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(c)|(3)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(c)|(3)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(c)|(4)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(c)|(5)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(c)|(5)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(c)|(5)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(c)|(5)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(c)|(6)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(c)|(7)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(c)|(8)" type="History" />
   </annotations>
 </section>

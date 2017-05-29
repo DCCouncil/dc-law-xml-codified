@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>22-933</num>
-  <heading>Criminal abuse of a vulnerable adult.</heading>
-  <text>A person is guilty of criminal abuse of a vulnerable adult if that person intentionally or knowingly:</text>
+  <heading>Criminal abuse of a vulnerable adult or elderly person.</heading>
+  <text>A person is guilty of criminal abuse of a vulnerable adult or elderly person if that person intentionally or knowingly:</text>
   <para>
     <num>(1)</num>
     <text>Inflicts or threatens to inflict physical pain or injury by hitting, slapping, kicking, pinching, biting, pulling hair or other corporal means;</text>
@@ -17,5 +17,6 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 13-301" type="History" path="§203">June 8, 2001, D.C. Law 13-301, § 203, 47 DCR 7039</annotation>
+    <annotation app="2016-11-23" doc="D.C. Law 21-166" eff="2016-11-23" path="§3|(c)" type="History" />
   </annotations>
 </section>

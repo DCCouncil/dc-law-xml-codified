@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>22-3227.03</num>
   <heading>Penalties for identity theft.</heading>
   <para>
@@ -15,15 +15,7 @@
   <para>
     <num>(c)</num>
     <heading>Enhanced penalty. —</heading>
-    <text>Any person who commits the offense of identity theft against an individual who is 65 years of age or older, at the time of the offense, may be punished by a fine of up to 11/2 times the maximum fine otherwise authorized for the offense and may be imprisoned for a term of up to 11/2 times the maximum term of imprisonment otherwise authorized for the offense, or both. It is an affirmative defense that the accused:</text>
-    <para>
-      <num>(1)</num>
-      <text>Reasonably believed that the victim was not 65 years of age or older at the time of the offense; or</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Could not have determined the age of the victim because of the manner in which the offense was committed.</text>
-    </para>
+    <text>Repealed.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 4-164" type="History" path="§127c">Dec. 1, 1982, D.C. Law 4-164, § 127c</annotation>
@@ -52,5 +44,6 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 102(j) of Crime Bill Emergency Amendment Act of 2009 (D.C. Act 18-129, June 29, 2009,  56 DCR 5495).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §§ 111(a)(2) and 205(n) of the Criminal Fine Proportionality Emergency Amendment Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
     <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+    <annotation app="2016-11-23" doc="D.C. Law 21-166" eff="2016-11-23" path="§2|(b)" type="History" />
   </annotations>
 </section>

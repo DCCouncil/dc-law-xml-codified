@@ -1,9 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>22-932</num>
   <heading>Definitions.</heading>
-  <text>For the purpose of this chapter “vulnerable adult” means a person 18 years of age or older who has a physical or mental condition which substantially impairs the person from adequately providing for his or her own care or protection.</text>
+  <text>For the purposes of this title, the term:</text>
+  <para>
+    <num>(1)</num>
+    <text>"Attorney General" means the Attorney General for the District of Columbia.</text>
+  </para>
+  <para>
+    <num>(2)</num>
+    <text>"Court" means the Superior Court of the District of Columbia.</text>
+  </para>
+  <para>
+    <num>(3)</num>
+    <text>"Elderly person" means a person who is 65 years of age or older.</text>
+  </para>
+  <para>
+    <num>(4)</num>
+    <text>"United States Attorney" means the United States Attorney for the District of Columbia.</text>
+  </para>
+  <para>
+    <num>(5)</num>
+    <text>"Vulnerable adult" means a person who is 18 years of age or older and has one or more physical or mental limitations that substantially impair the person's ability to independently provide for his or her daily needs or safeguard his or her person, property, or legal interests.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 13-301" type="History" path="§202">June 8, 2001, D.C. Law 13-301, § 202, 47 DCR 7039</annotation>
+    <annotation app="2016-11-23" doc="D.C. Law 21-166" eff="2016-11-23" path="§3|(b)" type="History" />
   </annotations>
 </section>

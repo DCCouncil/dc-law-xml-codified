@@ -25,7 +25,7 @@
   <section codify:doc="D.C. Law 14-309" codify:path="I">
     <num>2</num>
     <text>The Urban Forest Preservation Act of 2002, effective June 12, 2003 (D.C. Law 14-309; D.C. Official Code § 8-651.01 <em>et seq.</em>), is amended as follows:</text>
-    <para codify:path="§102">
+    <para codify:path="§102" codify:applicability="notfunded">
       <num>(a)</num>
       <text>Section 102 (D.C. Official Code § 8-651.02) is amended as follows:</text>
       <para>
@@ -45,16 +45,24 @@
         <text>Paragraph (5) is amended by striking the phrase "of 55 inches or more" and inserting the phrase "between 44 inches and 100 inches" in its place.</text>
         <codify:find-replace count="1" find="of 55 inches or more" path="(5)" replace="between 44 inches and 100 inches" />
       </para>
-      <codify:not-funded-anno applicability-path="§4" />
+      <div>
+        <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4">§ 4 of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(a)">§ 2(a) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+      </div>
     </para>
     <para codify:path="§104">
       <num>(b)</num>
       <text>Section 104 (D.C. Official Code § 8-651.04) is amended as follows:</text>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(1)</num>
         <text>Subsection (b)(3) is amended by striking the phrase "equal to $35 for each inch" and inserting the phrase "not less than $55 for each inch" in its place.</text>
         <codify:find-replace count="1" find="equal to $35 for each inch" path="(b)|(3)" replace="not less than $55 for each inch" />
-        <codify:not-funded-anno applicability-path="§4" />
+        <div>
+          <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4">§ 4 of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(b)|(1)">§ 2(b)(1) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+        </div>
       </para>
       <para>
         <num>(2)</num>
@@ -74,7 +82,7 @@
         <aftertext>.</aftertext>
       </para>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(c)</num>
       <text>A new section 104a is added to read as follows:</text>
       <include>
@@ -117,7 +125,11 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno path="§104a" applicability-path="§4" />
+      <div>
+        <codify:annotation codify:applicability="effective" type="Editor's Notes" path="§104a">
+       Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4">§ 4 of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(c)">§ 2(c) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+      </div>
     </para>
     <para codify:path="§107">
       <num>(d)</num>

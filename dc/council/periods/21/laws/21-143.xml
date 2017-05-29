@@ -149,7 +149,7 @@
     <text>Section 126n(d) of the District of Columbia Theft and White Collar Crimes Act of 1982, effective June 8, 2001 (D.C. Law 13-301; D.C. Official Code § 22-3226.14(d)), is repealed.</text>
     <codify:repeal />
   </section>
-  <section codify:doc="D.C. Law 17-152" codify:path="§16">
+  <section codify:doc="D.C. Law 17-152" codify:path="§16" codify:applicability="notfunded">
     <num>7</num>
     <text>The lead-in language of section 16 of the Accrued Sick and Safe Leave Act of 2008, effective May 13, 2008 (D.C. Law 17-152; D.C. Official Code § 32-131.15), is amended as follows:</text>
     <para>
@@ -162,7 +162,11 @@
       <text>Strike the phrase "audit a sample of District businesses" and insert the phrase "obtain a sample of statistics on District businesses" in its place.</text>
       <codify:find-replace count="1" find="audit a sample of District businesses" replace="obtain a sample of statistics on District businesses" />
     </para>
-    <codify:not-funded-anno applicability-path="§14" />
+    <div>
+      <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-143" path="">D.C. Law 21-143</cite>: <cite doc="D.C. Law 21-143" path="§14">§ 14 of D.C. Law 21-143</cite> provided that the change made to this section by <cite doc="D.C. Law 21-143" path="§7">§ 7 of D.C. Law 21-143</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+    </div>
   </section>
   <section codify:doc="Stat. 62-3-ch150" codify:path="§8|42|(a)|(6)">
     <num>8</num>

@@ -33,7 +33,9 @@
       <text>Section 206(c) (D.C. Official Code § 42-3502.06(c)) is amended to read as follows:</text>
       <include>
         <para codify:doc="D.C. Code">
-          <codify:temporary path="§42-3502.06" />
+          <div>
+            <codify:annotation history="false" type="Temporary Legislation" path="§42-3502.06">For temporary (225 days) amendment of this section, see .</codify:annotation>
+          </div>
           <num>(c)</num>
           <para>
             <num>(1)</num>
@@ -60,7 +62,9 @@
       <text>Section 212(c) (D.C. Official Code § 42-3502.12(c)) is amended to read as follows:</text>
       <include>
         <para codify:doc="D.C. Code">
-          <codify:temporary path="§42-3502.12" />
+          <div>
+            <codify:annotation history="false" type="Temporary Legislation" path="§42-3502.12">For temporary (225 days) amendment of this section, see .</codify:annotation>
+          </div>
           <num>(c)</num>
           <para>
             <num>(1)</num>
