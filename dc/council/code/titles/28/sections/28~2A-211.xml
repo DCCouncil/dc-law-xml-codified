@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2A-211</num>
   <heading>Warranties against interference and against infringement; lessee’s obligation against infringement.</heading>
   <para>
@@ -15,6 +15,9 @@
     <text>A lessee who furnishes specifications to a lessor or a supplier shall hold the lessor and the supplier harmless against any claim by way of infringement or the like that arises out of compliance with the specifications.</text>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
+    <annotation type="Section References">This section is referenced in § 28:2A-214 and § 28:2A-516.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2A-211.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Uniform Statutory Source:</strong>Section 2-312.</text>
     <text type="Uniform Commercial Code Comment">
@@ -35,8 +38,5 @@
     <text type="Uniform Commercial Code Comment">“Merchant”.  Section 2-104(1).</text>
     <text type="Uniform Commercial Code Comment">“Person”.  Section 1-201(30).</text>
     <text type="Uniform Commercial Code Comment">“Supplier”. Section 2A-103(1)(x).</text>
-    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
-    <annotation type="Section References">This section is referenced in § 28:2A-214 and § 28:2A-516.</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2A-211.</annotation>
   </annotations>
 </section>

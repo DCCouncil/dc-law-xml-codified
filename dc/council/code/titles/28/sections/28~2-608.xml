@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2-608</num>
   <heading>Revocation of acceptance in whole or in part.</heading>
   <para>
@@ -23,6 +23,9 @@
     <text>A buyer who so revokes has the same rights and duties with regard to the goods involved as if he had rejected them.</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 661, Pub. L. 88-243, § 1</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2-608.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 28:2-608.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Prior Uniform Statutory Provision:</strong> Section 69(1)(d), (3), (4) and (5), Uniform Sales Act.</text>
     <text type="Uniform Commercial Code Comment">
@@ -53,8 +56,5 @@
     <text type="Uniform Commercial Code Comment">“Rights”.  Section 1-201.</text>
     <text type="Uniform Commercial Code Comment">“Seasonably”.  Section 1-204.</text>
     <text type="Uniform Commercial Code Comment">“Seller”.  Section 2-103.</text>
-    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 661, Pub. L. 88-243, § 1</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2-608.</annotation>
-    <annotation type="Prior Codifications">1973 Ed., § 28:2-608.</annotation>
   </annotations>
 </section>

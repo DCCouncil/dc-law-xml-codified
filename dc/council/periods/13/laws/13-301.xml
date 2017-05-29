@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 13-301" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document id="D.C. Law 13-301" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num type="law">13-301</num>
   <heading type="short">Senior Protection Amendment Act of 2000</heading>
   <meta>
@@ -25,36 +25,6 @@
     <codified:at doc="D.C. Code" path="§22-933" />
   </section>
   <section>
-    <codify:organic after="§22-933" num-value="22-933.01" />
-    <num>203a</num>
-    <heading>Financial exploitation of a vulnerabl adult or elderly person.</heading>
-    <para>
-      <num>(a)</num>
-      <text>A person is guilty of financial exploitation of a vulnerable adult or elderly person if the person intentionally and knowingly:</text>
-      <para>
-        <num>(1)</num>
-        <text>Uses deception, intimidation, or undue influence to obtain the property, including money, of a vulnerable adult or elderly person, with the intent to deprive the vulnerable adult or elderly person of the property or use it for the advantage of anyone other than the vulnerable adult or elderly person;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Uses deception, intimidation, or undue influence to cause the vulnerable adult or elderly person to assume a legal obligation on behalf of, or for the benefit of, anyone other than the vulnerable adult or elderly person; or</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>Violates any provision of law proscribing theft, extortion, forgery, fraud, or identity theft against the vulnerable adult or elderly person, so long as the offense was undertaken to obtain the property, including money, of a vulnerable adult or elderly person, or to cause the vulnerable adult or elderly person to assume a legal obligation on behalf of, or for the benefit of, anyone other than the vulnerable adult or elderly person.</text>
-      </para>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>It is an affirmative defense that the accused knew or reasonably believed the victim was not a vulnerable adult or elderly person at the time of the offense, or could not have known or determined that the victim was a vulnerable adult or elderly person because of the manner in which the offense was committed. This defense shall be established by a preponderance of the evidence.</text>
-    </para>
-    <para>
-      <num>(c)</num>
-      <text>For the purposes of this section, the term "undue influence" means mental, emotional, or physical coercion that overcomes the free will or judgment of a vulnerable adult or elderly person and causes the vulnerable adult or elderly person to act in a manner that is inconsistent with his or her financial, emotional, mental, or physical well-being.</text>
-    </para>
-    <annotation app="2016-11-23" doc="D.C. Law 21-166" eff="2016-11-23" path="§3|(d)" prefix="as added" type="History" />
-  </section>
-  <section>
     <num>203a</num>
     <codified:at doc="D.C. Code" path="§22-933.01" />
   </section>
@@ -71,32 +41,6 @@
     <codified:at doc="D.C. Code" path="§22-936" />
   </section>
   <section>
-    <codify:organic after="§22-936" num-value="22-936.01" />
-    <num>206a</num>
-    <heading>Criminal penalties for financial exploitation of a vulnerable adult or elderly person.</heading>
-    <para>
-      <num>(a)</num>
-      <text>Any person who commits the offense of financial exploitation of a vulnerable adult or elderly person in violation of section 203a shall be subject to the following criminal penalties:</text>
-      <para>
-        <num>(1)</num>
-        <text>When the value of the property or legal obligation is $1,000 or more, a fine of not more than the amount set forth in section 101 of the Criminal Fine Proportionality Amendment Act of 2012, effective June 11, 2013 (D.C. Law 19-317; D.C. Official Code § 22-3571.01), or imprisonment for not more than 10 years, or both.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>When the property or legal obligation has some value, a fine of not more than the amount set forth in section 101 of the Criminal Fine Proportionality Amendment Act of 2012, effective June 11, 2013 (D.C. Law 19-317; D.C. Official Code § 22-3571.01), or imprisonment for not more than 180 days, or both.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>In addition to the penalties set forth in paragraphs (1) and (2) of this subsection, a person shall make restitution, before the payment of any fines or civil penalties.</text>
-      </para>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>A person convicted of a violation of section 203a who has 2 or more prior convictions for violating section 203a, not committed on the same occasion, shall be fined not more than the amount set forth in section 101 of the Criminal Fine Proportionality Amendment Act of 2012, effective June 11, 2013 (D.C. Law 19-317; D.C. Official Code § 22-3571.01), or imprisoned for not more than 15 years, or both.</text>
-    </para>
-    <annotation app="2016-11-23" doc="D.C. Law 21-166" eff="2016-11-23" path="§3|(h)" prefix="as added" type="History" />
-  </section>
-  <section>
     <num>206a</num>
     <codified:at doc="D.C. Code" path="§22-936.01" />
   </section>
@@ -107,88 +51,5 @@
   <section>
     <num>208</num>
     <codified:at doc="D.C. Code" path="§22-938" />
-  </section>
-  <section>
-    <codify:organic num-value="22-937" />
-    <num>207</num>
-    <heading>Civil penalties for financial exploitation of a vulnerable adult or elderly person.</heading>
-    <para>
-      <num>(a)</num>
-      <text>In addition to other penalties provided by law, a person who violates section 203a shall be subject to the following civil penalties:</text>
-      <para>
-        <num>(1)</num>
-        <text>A fine of up to $5,000 per violation;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>Revocation of all permits, certificates, or licenses issued by the District of Columbia authorizing the person to provide services to vulnerable adults or elderly persons; and</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>A temporary or permanent injunction.</text>
-      </para>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>Restitution under section 206a shall be paid before the payment of any fines or civil penalties under this section.</text>
-    </para>
-    <annotation app="2016-11-23" doc="D.C. Law 21-166" eff="2016-11-23" path="§3|(i)" prefix="as added" type="History" />
-  </section>
-  <section>
-    <codify:organic num-value="22-938" />
-    <num>208</num>
-    <heading>Injunctive relief and protections.</heading>
-    <para>
-      <num>(a)</num>
-      <text>Whenever the Attorney General or the United States Attorney has reason to believe that a person has engaged in financial exploitation of a vulnerable adult or elderly person in violation of section 203a, the Attorney General or the United States Attorney may petition the court, which may be by ex-parte motion and without notice to the person, for one or more of the following:</text>
-      <para>
-        <num>(1)</num>
-        <text>A temporary restraining order;</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>A temporary injunction;</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>An order temporarily freezing the person's assets; or</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>Any other relief the court deems just.</text>
-      </para>
-    </para>
-    <para>
-      <num>(b)</num>
-      <text>The court may grant an ex-parte motion authorized by subsection (a) of this section without notice to the person against whom the injunction or order is sought if the court finds that facts offered in support of the motion establish that:</text>
-    </para>
-    <para>
-      <num>(1)</num>
-      <text>There is a substantial likelihood that the person committed financial exploitation of a vulnerable adult or elderly person;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The harm that may result from the injunction or order is clearly outweighed by the risk of harm to the vulnerable adult or elderly person if the inunction or order is not issued; and</text>
-      <para>
-        <num>(3)</num>
-        <text>If the Attorney General or the United States Attorney has petitioned for an order temporarily freezing assets, the order is necessary to prevent dissipation of assets obtained in violation of section 203a.</text>
-      </para>
-    </para>
-    <para>
-      <num>(c)</num>
-      <para>
-        <num>(1)</num>
-        <text>An order temporarily freezing assets without notice to the person pursuant to subsections (a)(3) and (b) of this section shall expire on a date set by the court, not later than 14 days after the court issues the order unless, before that time, the court extends the order for good cause shown.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>A person whose assets were temporarily frozen under paragraph (1) of this subsection may move to dissolve or modify the order after notice to the Attorney General for the United States Attorney. The court shall hear and decide the motion or application on an expedited basis.</text>
-      </para>
-    </para>
-    <para>
-      <num>(d)</num>
-      <text>The court may issue an order temporarily freezing the assets of the vulnerable adult or elderly person to prevent dissipation of assets; provided, that the court also appoints a receiver or conservator for those assets. The order shall allow for the use of assets to continue care for the vulnerable adult or elderly person, and can only be issued upon a showing that a temporary injunction or temporary restraining order authorized by this section would be insufficient to safeguard the assets, or with the consent of the vulnerable adult or elderly person or his or her legal representative.</text>
-    </para>
-    <annotation app="2016-11-23" doc="D.C. Law 21-166" eff="2016-11-23" path="§3|(i)" prefix="as added" type="History" />
   </section>
 </document>

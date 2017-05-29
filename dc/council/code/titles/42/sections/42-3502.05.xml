@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>42-3502.05</num>
   <heading>Registration and coverage.</heading>
   <para>
@@ -198,9 +198,6 @@
     <text>Each registration statement filed under this section shall be available for public inspection at the Division, and each housing provider shall keep a duplicate of the registration statement posted in a public place on the premises of the housing accommodation to which the registration statement applies. Each housing provider may, instead of posting in each housing accommodation comprised of a single rental unit, mail to each tenant of the housing accommodation a duplicate of the registration statement.</text>
   </para>
   <annotations>
-    <text type="References in Text">Section 42-3404.13(a)(3), referred to in subparagraph (a)(3)(E), was repealed March 16, 1978 by <cite doc="D.C. Law 2-54">D.C. Law 2-54</cite>, § 903,  24 DCR 5334.</text>
-    <text type="References in Text">Section 42-4016, referred to in subsection (a)(3)(E), expired pursuant to § 907 of <cite doc="D.C. Law 3-131">D.C. Law 3-131</cite> on April 30, 1985.</text>
-    <text type="References in Text">Section 206(a)(4) of the Rental Housing Act of 1980, referred to in paragraph (a)(4), was codified as § 45-1515 1981 Ed., which expired April 30, 1985, pursuant to D.C. Law 3-131, § 907.</text>
     <annotation doc="D.C. Law 6-10" type="History" path="§205">July 17, 1985, D.C. Law 6-10, § 205, 32 DCR 3089</annotation>
     <annotation doc="D.C. Law 6-118" type="History">May 23, 1986, D.C. Law 6-118, § 2, 33 DCR 2444</annotation>
     <annotation doc="D.C. Law 6-167" type="History">Feb. 24, 1987, D.C. Law 6-167, § 2, 33 DCR 6732</annotation>
@@ -223,6 +220,9 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(a), (b) of Rent Control Reform Emergency Amendment Act of 2006 (D.C. Act 16-470, July 31, 2006,  53 DCR 6772).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2122(b) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
     <annotation type="Expiration of Law">See Historical and Statutory Notes following § <cite path="§42-3502.01">42-3502.01</cite>.</annotation>
+    <text type="References in Text">Section 42-3404.13(a)(3), referred to in subparagraph (a)(3)(E), was repealed March 16, 1978 by <cite doc="D.C. Law 2-54">D.C. Law 2-54</cite>, § 903,  24 DCR 5334.</text>
+    <text type="References in Text">Section 42-4016, referred to in subsection (a)(3)(E), expired pursuant to § 907 of <cite doc="D.C. Law 3-131">D.C. Law 3-131</cite> on April 30, 1985.</text>
+    <text type="References in Text">Section 206(a)(4) of the Rental Housing Act of 1980, referred to in paragraph (a)(4), was codified as § 45-1515 1981 Ed., which expired April 30, 1985, pursuant to D.C. Law 3-131, § 907.</text>
     <annotation type="Editor's Notes">On November 5, 1985, pursuant to the Initiative, Referendum, and Recall Charter Amendments Act of 1977 (<cite doc="D.C. Law 2-46">D.C. Law 2-46</cite>), the electorate of the District of Columbia rejected paragraphs (a)(6), (a)(8), (a)(9), and (a)(10) of § 205 of <cite doc="D.C. Law 6-10">D.C. Law 6-10</cite>.</annotation>
   </annotations>
 </section>

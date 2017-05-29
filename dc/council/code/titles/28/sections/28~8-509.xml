@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:8-509</num>
   <heading>Specification of duties of securities intermediary by other statute or regulation; manner of performance of duties of securities intermediary and exercise of rights of entitlement holder.</heading>
   <para>
@@ -27,6 +27,8 @@
     <text>Sections 28:8-504 through 28:8-508 do not require a securities intermediary to take any action that is prohibited by other statute, regulation, or rule.</text>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 11-240" type="History">Apr. 9, 1997, D.C. Law 11-240, § 2, 44 DCR 1087</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:8-509.</annotation>
     <text type="Uniform Commercial Code Comment">This Article is not a comprehensive statement of the law governing the relationship between broker-dealers or other securities intermediaries and their customers. Most of the law governing that relationship is the common law of contract and agency, supplemented or supplanted by regulatory law. This Article deals only with the most basic commercial/property law principles governing the relationship. Although  Sections 8-504 through  8-508 specify certain duties of securities intermediaries to entitlement holders, the point of these sections is to identify what it means to have a security entitlement, not to specify the details of performance of these duties.</text>
     <text type="Uniform Commercial Code Comment">For many intermediaries, regulatory law specifies in great detail the intermediary’s obligations on such matters as safekeeping of customer property, distribution of proxy materials, and the like. To avoid any conflict between the general statement of duties in this Article and the specific statement of intermediaries’ obligations in such regulatory schemes, subsection (a) provides that compliance with applicable regulation constitutes compliance with the duties specified in  Sections 8-504 through  8-508.</text>
     <text type="Uniform Commercial Code Comment">
@@ -35,7 +37,5 @@
     <text type="Uniform Commercial Code Comment">“Securities intermediary”.  Section 8-102(a)(14).</text>
     <text type="Uniform Commercial Code Comment">“Security agreement”.  Section 9-105(1)(l).</text>
     <text type="Uniform Commercial Code Comment">“Security interest”.  Section 1-201(37).</text>
-    <annotation doc="D.C. Law 11-240" type="History">Apr. 9, 1997, D.C. Law 11-240, § 2, 44 DCR 1087</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:8-509.</annotation>
   </annotations>
 </section>

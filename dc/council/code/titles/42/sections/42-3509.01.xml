@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>42-3509.01</num>
   <heading>Penalties.</heading>
   <para>
@@ -31,8 +31,6 @@
     <text>Any person who knowingly, wilfully, and in bad faith makes a false or fraudulent statement to receive a tax credit for not assessing capital improvement increases to an elderly tenant or tenant with a disability shall be subject to a fine of not more than $5,000 for each violation.</text>
   </para>
   <annotations>
-    <text type="Editor's Notes">Application of 9-154: Section 3 of <cite doc="D.C. Law 9-154">D.C. Law 9-154</cite> provided that the act shall not apply to any increase in a rent ceiling for a rental unit, or to any increase in the rent charged for a rental unit, when the capital improvement petition has been approved by the Rent Administrator and the resultant rent increase was implemented prior to September 26, 1992.</text>
-    <text type="Editor's Notes">For temporary amendment to the termination provision of <cite doc="D.C. Law 6-10">D.C. Law 6-10</cite>, see § 818 of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995,  42 DCR 4160).</text>
     <annotation doc="D.C. Law 6-10" type="History" path="§901">July 17, 1985, D.C. Law 6-10, § 901, 32 DCR 3089</annotation>
     <annotation doc="D.C. Law 6-42" type="History">Oct. 5, 1985, D.C. Law 6-42, § 408, 32 DCR 4450</annotation>
     <annotation doc="D.C. Law 6-167" type="History">Feb. 24, 1987, D.C. Law 6-167, § 3, 33 DCR 6732</annotation>
@@ -51,5 +49,7 @@
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 4 of Tenant Assistance Program Amendment Temporary Act of 1987 (<cite doc="D.C. Law 7-48">D.C. Law 7-48</cite>, December 10, 1987, law notification  34 DCR 8107).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(a) of Rent Control Reform Emergency Amendment Act of 2006 (D.C. Act 16-470, July 31, 2006,  53 DCR 6772).</annotation>
     <annotation type="Expiration of Law">Section 907 of <cite doc="D.C. Law 6-10">D.C. Law 6-10</cite>, as amended by § 2(d) of <cite doc="D.C. Law 8-48">D.C. Law 8-48</cite> and § 818 of <cite doc="D.C. Law 11-52">D.C. Law 11-52</cite>, provided that all subchapters of the act, except III and V, shall terminate on December 31, 2000.</annotation>
+    <text type="Editor's Notes">Application of 9-154: Section 3 of <cite doc="D.C. Law 9-154">D.C. Law 9-154</cite> provided that the act shall not apply to any increase in a rent ceiling for a rental unit, or to any increase in the rent charged for a rental unit, when the capital improvement petition has been approved by the Rent Administrator and the resultant rent increase was implemented prior to September 26, 1992.</text>
+    <text type="Editor's Notes">For temporary amendment to the termination provision of <cite doc="D.C. Law 6-10">D.C. Law 6-10</cite>, see § 818 of the Omnibus Budget Support Congressional Review Emergency Act of 1995 (D.C. Act 11-124, July 27, 1995,  42 DCR 4160).</text>
   </annotations>
 </section>

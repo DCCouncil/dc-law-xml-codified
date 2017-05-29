@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2A-503</num>
   <heading>Modification or impairment of rights and remedies.</heading>
   <para>
@@ -19,6 +19,9 @@
     <text>Rights and remedies on default by the lessor or the lessee with respect to any obligation or promise collateral or ancillary to the lease contract are not impaired by this article.</text>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
+    <annotation type="Section References">This section is referenced in § 28:2A-518, § 28:2A-519, § 28:2A-527, and § 28:2A-528.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2A-503.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Uniform Statutory Source:</strong>Sections 2-719 and  2-701.</text>
     <text type="Uniform Commercial Code Comment">
@@ -40,8 +43,5 @@
     <text type="Uniform Commercial Code Comment">“Person”.  Section 1-201(30).</text>
     <text type="Uniform Commercial Code Comment">“Remedy”.  Section 1-201(34).</text>
     <text type="Uniform Commercial Code Comment">“Rights”.  Section 1-201(36).</text>
-    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
-    <annotation type="Section References">This section is referenced in § 28:2A-518, § 28:2A-519, § 28:2A-527, and § 28:2A-528.</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2A-503.</annotation>
   </annotations>
 </section>

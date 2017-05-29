@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2A-528</num>
   <heading>Lessor’s damages for nonacceptance, failure to pay, repudiation, or other default.</heading>
   <para>
@@ -11,6 +11,11 @@
     <text>If the measure of damages provided in subsection (a) of this section is inadequate to put a lessor in as good a position as performance would have, the measure of damages is the present value of the profit, including reasonable overhead, the lessor would have made from full performance by the lessee, together with any incidental damages allowed under § 28:2A-530, due allowance for costs reasonably incurred and due credit for payments or proceeds of disposition.</text>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
+    <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 4(i), 60 DCR 2634</annotation>
+    <annotation type="Section References">This section is referenced in § 28:2A-507, § 28:2A-523, § 28:2A-527, and § 28:2A-529.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2A-528.</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> substituted “§ <cite path="§28:1-302">28:1-302</cite>” for “§ <cite path="§28:1-102">28:1-102</cite>(3)” in (a).</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Uniform Statutory Source:</strong>Section 2-708.</text>
     <text type="Uniform Commercial Code Comment">
@@ -33,10 +38,5 @@
     <text type="Uniform Commercial Code Comment">“Party”.  Section 1-201(29).</text>
     <text type="Uniform Commercial Code Comment">“Present value”. Section 2A-103(1)(u).</text>
     <text type="Uniform Commercial Code Comment">“Sale”.  Section 2-106(1).</text>
-    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
-    <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 4(i), 60 DCR 2634</annotation>
-    <annotation type="Section References">This section is referenced in § 28:2A-507, § 28:2A-523, § 28:2A-527, and § 28:2A-529.</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2A-528.</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> substituted “§ <cite path="§28:1-302">28:1-302</cite>” for “§ <cite path="§28:1-102">28:1-102</cite>(3)” in (a).</annotation>
   </annotations>
 </section>

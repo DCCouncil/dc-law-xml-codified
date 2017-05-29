@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-130" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document id="D.C. Law 21-130" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num type="law">21-130</num>
   <num type="bill">21-705</num>
   <num type="act">21-383</num>
@@ -27,9 +27,7 @@
     <num>2</num>
     <text>Chapter 13A of Title 47 of the District of Columbia Official Code is amended as follows:</text>
     <para>
-      <div>
-        <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§47-1341">For temporary (225 days) amendment of this section, see § 2(a) of Tax Sale Resource Center Clarifying Temporary Amendment Act of 2016 (D.C. Law 21-130, July 1, 2016, 63 DCR 7108).</codify:annotation>
-      </div>
+      <codify:temporary doc="D.C. Code" path="§47-1341" />
       <num>(a)</num>
       <text>Section 47-1341 is amended as follows:</text>
       <para>
@@ -42,9 +40,7 @@
       </para>
     </para>
     <para>
-      <div>
-        <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§47-1353.01">For temporary (225 days) amendment of this section, see § 2(b) of Tax Sale Resource Center Clarifying Temporary Amendment Act of 2016 (D.C. Law 21-130, July 1, 2016, 63 DCR 7108).</codify:annotation>
-      </div>
+      <codify:temporary doc="D.C. Code" path="§47-1353.01" />
       <num>(b)</num>
       <text>Section 47-1353.01(b) is amended by striking the phrase:</text>
       <include>
@@ -53,9 +49,7 @@
       <aftertext>.</aftertext>
     </para>
     <para>
-      <div>
-        <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§47-1382">For temporary (225 days) amendment of this section, see § 2(c) of Tax Sale Resource Center Clarifying Temporary Amendment Act of 2016 (D.C. Law 21-130, July 1, 2016, 63 DCR 7108).</codify:annotation>
-      </div>
+      <codify:temporary doc="D.C. Code" path="§47-1382" />
       <num>(c)</num>
       <text>Section 47-1382(b) is amended to read as follows:</text>
       <include>

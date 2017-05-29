@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-128" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document id="D.C. Law 21-128" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num type="law">21-128</num>
   <num type="bill">21-700</num>
   <num type="act">21-381</num>
@@ -24,9 +24,7 @@
     <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Business Improvement Districts Sunset Repeal Temporary Amendment Act of 2016".</text>
   </section>
   <section>
-    <div>
-      <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§2-1215.01">For temporary (225 days) repeal of the expiration clause, see § 2 of Business Improvement Districts Sunset Repeal Temporary Amendment Act of 2016 (D.C. Law 21-128, July 1, 2016, 63 DCR 7104).</codify:annotation>
-    </div>
+    <codify:temporary doc="D.C. Code" path="§2-1215.01" history="false" action="repeal of the expiration clause" />
     <num>2</num>
     <text>Section 24(b) of the Business Improvement Districts Act of 1996, effective May 29, 1996 (D.C. Law 11-134; 43 DCR 1698), is repealed.</text>
   </section>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>34-1436</num>
   <heading>Renewable Energy Development Fund.</heading>
   <para>
@@ -12,31 +12,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Fund shall be used for the purpose of:</text>
-      <para>
-        <num>(A)</num>
-        <text>Supporting the creation of new solar energy sources in the District, including activities that support the use of solar energy sources, such as electrical upgrades, structural improvements, and the installation of electrical or thermal storage systems;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Funding the Solar for All Program established by <cite path="§8-1774.16">§ 8-1774.16</cite>;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Otherwise administering the Fund; and</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>Covering any costs to the District associated with implementing the Renewable Portfolio Standard Expansion Amendment Act of 2016, October 8, 2016 (D.C. Law 21-154).</text>
-      </para>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The Fund may be used to supplement programs supporting the creation of new solar energy sources in the District through the Sustainable Energy Utility contract established by <cite path="8|17N|II">subchapter II of Chapter 17N of Title 8</cite>.
-            </text>
-    </para>
+    <text>The Fund shall be used solely for the purpose of making loans, grants, rebates, and other financial incentives to support the creation of new solar energy sources in the District of Columbia and for otherwise administering the Fund. The Fund may be used to supplement programs supporting the creation of new solar energy sources in the District of Columbia through the Sustainable Energy Utility contract established by Chapter 17N of Title 8 [§ <cite path="§8-1773.01">8-1773.01</cite> et seq.].</text>
   </para>
   <para>
     <num>(d)</num>
@@ -79,8 +55,6 @@
     <text>Any compliance fees paid into the Fund by an electricity supplier that were charged to the District of Columbia government through a cost recovery surcharge authorized in § <cite path="§34-1435">34-1435</cite>(c) shall be transferred from the Fund to the General Fund of the District of Columbia and used to cover any surcharge owed by the District of Columbia government.</text>
   </para>
   <annotations>
-    <text type="Short Title">Short title: Section 1111 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle L of title I of the act may be cited as the “Renewable Energy Development Amendment Act of 2010”.</text>
-    <text type="Short Title">See note to §  32-1301.</text>
     <annotation doc="D.C. Law 15-340" type="History" path="§8">Apr. 12, 2005, D.C. Law 15-340, § 8, 52 DCR 2285</annotation>
     <annotation doc="D.C. Law 17-250" type="History">Oct. 22, 2008, D.C. Law 17-250, § 301(d), 55 DCR 9225</annotation>
     <annotation doc="D.C. Law 18-223" type="History">Sept. 24, 2010, D.C. Law 18-223, § 1112, 57 DCR 6242</annotation>
@@ -101,7 +75,8 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6073 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6063 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  2032 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+    <text type="Short Title">Short title: Section 1111 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle L of title I of the act may be cited as the “Renewable Energy Development Amendment Act of 2010”.</text>
+    <text type="Short Title">See note to §  32-1301.</text>
     <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-36">D.C. Law 19-36</cite>: Section 3 of <cite doc="D.C. Law 19-36">D.C. Law 19-36</cite>, as amended by <cite doc="D.C. Law 20-245">D.C. Law 20-245</cite>, § 3, provided that the act (a) shall apply as of July 12, 2011; and (b) shall not apply to contracts entered into before August 1, 2011, provided that, for a contract entered into before August 1, 2011, the act shall apply to an extension or renewal of that contract executed on or after August 1, 2011.</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(d)" type="History" />
   </annotations>
 </section>

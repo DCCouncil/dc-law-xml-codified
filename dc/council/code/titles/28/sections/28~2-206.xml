@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2-206</num>
   <heading>Offer and acceptance in formation of contract.</heading>
   <para>
@@ -19,6 +19,9 @@
     <text>Where the beginning of a requested performance is a reasonable mode of acceptance an offeror who is not notified of acceptance within a reasonable time may treat the offer as having lapsed before acceptance.</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 643, Pub. L. 88-243, § 1</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2-206.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 28:2-206.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Prior Uniform Statutory Provision:</strong> Sections 1 and 3, Uniform Sales Act.</text>
     <text type="Uniform Commercial Code Comment">
@@ -36,8 +39,5 @@
     <text type="Uniform Commercial Code Comment">“Goods”.  Section 2-105.</text>
     <text type="Uniform Commercial Code Comment">“Notifies”.  Section 1-201.</text>
     <text type="Uniform Commercial Code Comment">“Reasonable time”.  Section 1-204.</text>
-    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 643, Pub. L. 88-243, § 1</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2-206.</annotation>
-    <annotation type="Prior Codifications">1973 Ed., § 28:2-206.</annotation>
   </annotations>
 </section>

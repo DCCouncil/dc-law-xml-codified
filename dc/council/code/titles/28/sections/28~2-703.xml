@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2-703</num>
   <heading>Seller’s remedies in general.</heading>
   <text>Where the buyer wrongfully rejects or revokes acceptance of goods or fails to make a payment due on or before delivery or repudiates with respect to a part or the whole, then with respect to any goods directly affected and, if the breach is of the whole contract (section 28:2-612  ), then also with respect to the whole undelivered balance, the aggrieved seller may</text>
@@ -28,6 +28,10 @@
     <text>cancel.</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 664, Pub. L. 88-243, § 1</annotation>
+    <annotation type="Section References">This section is referenced in § <cite path="§28:2-602">28:2-602</cite>, § <cite path="§28:2-610">28:2-610</cite>, and § <cite path="§28:2-706">28:2-706</cite>.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2-703.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 28:2-703.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Prior Uniform Statutory Provision:</strong> No comparable index section. See Section 53, Uniform Sales Act.</text>
     <text type="Uniform Commercial Code Comment">
@@ -47,9 +51,5 @@
     <text type="Uniform Commercial Code Comment">“Goods”.  Section 2-105.</text>
     <text type="Uniform Commercial Code Comment">“Remedy”.  Section 1-201.</text>
     <text type="Uniform Commercial Code Comment">“Seller”.  Section 2-103.</text>
-    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 664, Pub. L. 88-243, § 1</annotation>
-    <annotation type="Section References">This section is referenced in § <cite path="§28:2-602">28:2-602</cite>, § <cite path="§28:2-610">28:2-610</cite>, and § <cite path="§28:2-706">28:2-706</cite>.</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2-703.</annotation>
-    <annotation type="Prior Codifications">1973 Ed., § 28:2-703.</annotation>
   </annotations>
 </section>

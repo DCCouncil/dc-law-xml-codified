@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>47-1810.04</num>
   <heading>Determination of taxable income or loss using combined report; components of income subject to tax in the District, application of tax credits and post-apportionment deductions; determination of taxpayer’s share of the business income of a combine group apportionable to the District.</heading>
   <para>
@@ -66,8 +66,6 @@
     </para>
   </para>
   <annotations>
-    <text type="Editor's Notes">Section 8004 of <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> provided: “Sec. 8004. Applicability. This subtitle shall apply for taxable years beginning after December 31, 2010.”</text>
-    <text type="Editor's Notes">Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 7103 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that § 7102 of the act shall apply for taxable years beginning after December 31, 2010.</text>
     <annotation doc="D.C. Law 19-21" type="History">Sept. 14, 2011, D.C. Law 19-21, § 8002(d), 58 DCR 6226</annotation>
     <annotation doc="D.C. Law 19-171" type="History">Sept. 26, 2012, D.C. Law 19-171, § 114(h), 59 DCR 6190</annotation>
     <annotation doc="D.C. Law 20-61" type="History">Dec. 24, 2013, D.C. Law 20-61, § 7102(d), 60 DCR 12472</annotation>
@@ -103,5 +101,7 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 7012(c)(11) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 7012(c)(11) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
     <annotation type="Short Title">Section 7101 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle J of Title VII of the act may be cited as the “Combined Reporting Clarification Act of 2013”.</annotation>
+    <text type="Editor's Notes">Section 8004 of <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> provided: “Sec. 8004. Applicability. This subtitle shall apply for taxable years beginning after December 31, 2010.”</text>
+    <text type="Editor's Notes">Applicability of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>: Section 7103 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that § 7102 of the act shall apply for taxable years beginning after December 31, 2010.</text>
   </annotations>
 </section>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2A-527</num>
   <heading>Lessor’s rights to dispose of goods.</heading>
   <para>
@@ -23,6 +23,12 @@
     <text>The lessor is not accountable to the lessee for any profit made on any disposition. A lessee who has rightfully rejected or justifiably revoked acceptance shall account to the lessor for any excess over the amount of the lessee’s security interest (§ 28:2A-508(e)).</text>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
+    <annotation doc="D.C. Law 11-30" type="History">July 25, 1995, D.C. Law 11-30, § 7(e), 42 DCR 1547</annotation>
+    <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 4(h), 60 DCR 2634</annotation>
+    <annotation type="Section References">This section is referenced in § 28:2A-304, § 28:2A-508, § 28:2A-523, § 28:2A-524, § 28:2A-525, § 28:2A-528, and § 28:2A-529.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2A-527.</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> substituted “§ <cite path="§28:1-302">28:1-302</cite>” for “§ <cite path="§28:1-102">28:1-102</cite>(3)” in (b).</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Uniform Statutory Source:</strong>Section 2-706(1), (5) and (6).</text>
     <text type="Uniform Commercial Code Comment">
@@ -54,11 +60,5 @@
     <text type="Uniform Commercial Code Comment">“Sale”.  Section 2-106(1).</text>
     <text type="Uniform Commercial Code Comment">“Security interest”.  Section 1-201(37).</text>
     <text type="Uniform Commercial Code Comment">“Value”.  Section 1-201(44).</text>
-    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
-    <annotation doc="D.C. Law 11-30" type="History">July 25, 1995, D.C. Law 11-30, § 7(e), 42 DCR 1547</annotation>
-    <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 4(h), 60 DCR 2634</annotation>
-    <annotation type="Section References">This section is referenced in § 28:2A-304, § 28:2A-508, § 28:2A-523, § 28:2A-524, § 28:2A-525, § 28:2A-528, and § 28:2A-529.</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2A-527.</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> substituted “§ <cite path="§28:1-302">28:1-302</cite>” for “§ <cite path="§28:1-102">28:1-102</cite>(3)” in (b).</annotation>
   </annotations>
 </section>

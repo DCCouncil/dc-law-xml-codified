@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2A-202</num>
   <heading>Final written expression: parol or extrinsic evidence.</heading>
   <text>Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a writing intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented:</text>
@@ -12,6 +12,9 @@
     <text>By evidence of consistent additional terms unless the court finds the writing to have been intended also as a complete and exclusive statement of the terms of the agreement.</text>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
+    <annotation type="Section References">This section is referenced in § 28:2A-214.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2A-202.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Uniform Statutory Source:</strong>Section 2-202.</text>
     <text type="Uniform Commercial Code Comment">
@@ -21,8 +24,5 @@
     <text type="Uniform Commercial Code Comment">“Term”.  Section 1-201(42).</text>
     <text type="Uniform Commercial Code Comment">“Usage of trade”.  Section 1-205.</text>
     <text type="Uniform Commercial Code Comment">“Writing”.  Section 1-201(46).</text>
-    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
-    <annotation type="Section References">This section is referenced in § 28:2A-214.</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2A-202.</annotation>
   </annotations>
 </section>

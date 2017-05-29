@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2A-217</num>
   <heading>Identification.</heading>
   <text>Identification of goods as goods to which a lease contract refers may be made at any time and in any manner explicitly agreed to by the parties. In the absence of explicit agreement, identification occurs:</text>
@@ -16,6 +16,9 @@
     <text>When the young are conceived, if the lease contract is for a lease of unborn young of animals.</text>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
+    <annotation type="Section References">This section is referenced in § 28:2A-522.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2A-217.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Uniform Statutory Source:</strong>Section 2-501.</text>
     <text type="Uniform Commercial Code Comment">
@@ -31,8 +34,5 @@
     <text type="Uniform Commercial Code Comment">“Lease contract”. Section 2A-103(1)(l).</text>
     <text type="Uniform Commercial Code Comment">“Lessor”. Section 2A-103(1)(p).</text>
     <text type="Uniform Commercial Code Comment">“Party”.  Section 1-201(29).</text>
-    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
-    <annotation type="Section References">This section is referenced in § 28:2A-522.</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2A-217.</annotation>
   </annotations>
 </section>

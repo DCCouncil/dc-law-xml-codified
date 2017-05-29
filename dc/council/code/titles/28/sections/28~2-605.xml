@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2-605</num>
   <heading>Waiver of buyer’s objections by failure to particularize.</heading>
   <para>
@@ -19,6 +19,11 @@
     <text>Payments against documents made without reservation of rights precludes recovery of the payment for defects apparent in the documents.</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 660, Pub. L. 88-243, § 1</annotation>
+    <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 3(l), 60 DCR 2634</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2-605.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 28:2-605.</annotation>
+    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> substituted “apparent in” for “apparent on the face of” in (2).</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Prior Uniform Statutory Provision:</strong> None.</text>
     <text type="Uniform Commercial Code Comment">
@@ -35,10 +40,5 @@
     <text type="Uniform Commercial Code Comment">“Seasonably”.  Section 1-204.</text>
     <text type="Uniform Commercial Code Comment">“Seller”.  Section 2-103.</text>
     <text type="Uniform Commercial Code Comment">“Writing” and “written”.  Section 1-201.</text>
-    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 660, Pub. L. 88-243, § 1</annotation>
-    <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 3(l), 60 DCR 2634</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2-605.</annotation>
-    <annotation type="Prior Codifications">1973 Ed., § 28:2-605.</annotation>
-    <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-299">D.C. Law 19-299</cite> substituted “apparent in” for “apparent on the face of” in (2).</annotation>
   </annotations>
 </section>

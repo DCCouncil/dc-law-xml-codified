@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2-207</num>
   <heading>Additional terms in acceptance or confirmation.</heading>
   <para>
@@ -27,6 +27,9 @@
     <text>Conduct by both parties which recognizes the existence of a contract is sufficient to establish a contract for sale although the writings of the parties do not otherwise establish a contract. In such case the terms of the particular contract consist of those terms on which the writings of the parties agree, together with any supplementary terms incorporated under any other provisions of this subtitle.</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 643, Pub. L. 88-243, § 1</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2-207.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 28:2-207.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Prior Uniform Statutory Provision:</strong> Sections 1 and 3, Uniform Sales Act.</text>
     <text type="Uniform Commercial Code Comment">
@@ -52,8 +55,5 @@
     <text type="Uniform Commercial Code Comment">“Send”.  Section 1-201.</text>
     <text type="Uniform Commercial Code Comment">“Term”.  Section 1-201.</text>
     <text type="Uniform Commercial Code Comment">“Written”.  Section 1-201.</text>
-    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 643, Pub. L. 88-243, § 1</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2-207.</annotation>
-    <annotation type="Prior Codifications">1973 Ed., § 28:2-207.</annotation>
   </annotations>
 </section>

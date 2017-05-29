@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2A-520</num>
   <heading>Lessee’s incidental and consequential damages.</heading>
   <para>
@@ -19,6 +19,9 @@
     </para>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
+    <annotation type="Section References">This section is referenced in § 28:2A-508.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2A-520.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Uniform Statutory Source:</strong>Section 2-715.</text>
     <text type="Uniform Commercial Code Comment">
@@ -35,8 +38,5 @@
     <text type="Uniform Commercial Code Comment">“Lessor”. Section 2A-103(1)(p).</text>
     <text type="Uniform Commercial Code Comment">“Person”.  Section 1-201(30).</text>
     <text type="Uniform Commercial Code Comment">“Receipt”.  Section 2-103(1)(c).</text>
-    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
-    <annotation type="Section References">This section is referenced in § 28:2A-508.</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2A-520.</annotation>
   </annotations>
 </section>

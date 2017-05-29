@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2-305</num>
   <heading>Open price term.</heading>
   <para>
@@ -31,6 +31,9 @@
     <text>Where, however, the parties intend not to be bound unless the price be fixed or agreed and it is not fixed or agreed there is no contract. In such a case the buyer must return any goods already received or if unable so to do must pay their reasonable value at the time of delivery and the seller must return any portion of the price paid on account.</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 645, Pub. L. 88-243, § 1</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2-305.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 28:2-305.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Prior Uniform Statutory Provision:</strong> Sections 9 and 10, Uniform Sales Act.</text>
     <text type="Uniform Commercial Code Comment">
@@ -60,8 +63,5 @@
     <text type="Uniform Commercial Code Comment">“Receipt of goods”.  Section 2-103.</text>
     <text type="Uniform Commercial Code Comment">“Seller”.  Section 2-103.</text>
     <text type="Uniform Commercial Code Comment">“Term”.  Section 1-201.</text>
-    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 645, Pub. L. 88-243, § 1</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2-305.</annotation>
-    <annotation type="Prior Codifications">1973 Ed., § 28:2-305.</annotation>
   </annotations>
 </section>

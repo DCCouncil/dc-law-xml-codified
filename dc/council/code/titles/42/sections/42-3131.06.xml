@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>42-3131.06</num>
   <heading>Registration of vacant buildings.</heading>
   <para>
@@ -66,15 +66,11 @@
     </para>
     <para>
       <num>(7)</num>
-      <text>For a period not to exceed 24 months, the subject of a probate proceeding or the title is the subject of litigation (not including a foreclosure of the right of redemption action brought under Chapter 13A of Title 47 [§ <cite path="§47-1330">47-1330</cite> et seq.]); </text>
+      <text>For a period not to exceed 24 months, the subject of a probate proceeding or the title is the subject of litigation (not including a foreclosure of the right of redemption action brought under Chapter 13A of Title 47 [§ <cite path="§47-1330">47-1330</cite> et seq.]); or</text>
     </para>
     <para>
       <num>(8)</num>
-      <text>For a period not to exceed 12 months, the subject of a pending application for a necessary approval for development before the Board of Zoning Adjustment, the Zoning Commission for the District of Columbia, the Commission on Fine Arts, the Historic Preservation Review Board, the Mayor’s Agent for Historic Preservation, the Department of Public Works, or the National Capital Planning Commission; or</text>
-    </para>
-    <para>
-      <num>(9)</num>
-      <text technical="true">Located on the Water Reed Redevelopment Site, for so long as the building and the land on which the building sits is subject to the ground lease to the Developer.</text>
+      <text>For a period not to exceed 12 months, the subject of a pending application for a necessary approval for development before the Board of Zoning Adjustment, the Zoning Commission for the District of Columbia, the Commission on Fine Arts, the Historic Preservation Review Board, the Mayor’s Agent for Historic Preservation, the Department of Public Works, or the National Capital Planning Commission.</text>
     </para>
   </para>
   <para>
@@ -162,8 +158,5 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 3(c) of Nuisance Properties Abatement Reform and Real Property Classification Congressional Review Emergency Act of 2008 (D.C. Act 17-436, July 16, 2008,  55 DCR 8272).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2042(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 8 of the Walter Reed Development Omnibus Emergency Act of 2016 (D.C. Act 21-349, Mar. 23, 2016,  63 DCR 4628).</annotation>
-    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§8|(a)" type="History" />
-    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§8|(b)" type="History" />
-    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§8|(c)" type="History" />
   </annotations>
 </section>

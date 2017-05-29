@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>38-1802.06</num>
   <heading>Student admission, enrollment, and withdrawal.</heading>
   <para>
@@ -117,24 +117,8 @@
   </para>
   <para>
     <num>(g)</num>
-    <heading>Expulsion and suspension. –</heading>
-    <text>The principal of a public charter school may expel or suspend a student from the school based on criteria set forth in the charter granted to the school; provided, that:</text>
-    <para>
-      <num>(1)</num>
-      <text>Consistent with <cite path="§38-203|(f-1)">§ 38-203(f-1)</cite>, no student may be expelled or receive an out-of-school suspension due to an unexcused absence or due to a late arrival to school; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Consistent with <cite path="§38-273.03">§ 38-273.03</cite>, no student of pre-k age:</text>
-      <para>
-        <num>(A)</num>
-        <text>May be expelled; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Receive an out-of-school suspension unless it is determined by a school administrator that the student has willfully caused or attempted to cause bodily injury, or threatened serious bodily injury to another person, except in self-defense; provided, that no student of pre-k age may be suspended for longer than 3 days for any individual incident.</text>
-      </para>
-    </para>
+    <heading>Expulsion and suspension. —</heading>
+    <text>The principal of a public charter school may expel or suspend a student from the school based on criteria set forth in the charter granted to the school.</text>
   </para>
   <annotations>
     <annotation doc="Pub. L. 104-134" type="History" path="§2206">Apr. 26, 1996, 110 Stat. 1321 [242], Pub. L. 104-134, § 2206</annotation>
@@ -162,6 +146,5 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2 of the Public Charter School Priority Enrollment Emergency Amendment Act of 2015 (D.C. Act 21-26, Mar. 27, 2015,  62 DCR 4525, 21 DCSTAT 860).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 3 of the School Attendance Clarification Emergency Amendment Act of 2016 (D.C. Act 21-410, June 1, 2016,  63 DCR 8202, 21 DCSTAT 3227).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 3 of the School Attendance Clarification Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-476, June 1, 2016,  63 DCR 10181, 21 DCSTAT ___).</annotation>
-    <annotation app="2016-07-26" doc="D.C. Law 21-140" eff="2016-07-26" path="§3" type="History" />
   </annotations>
 </section>

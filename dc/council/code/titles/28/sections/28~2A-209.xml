@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2A-209</num>
   <heading>Lessee under finance lease as beneficiary of supply contract.</heading>
   <para>
@@ -27,6 +27,9 @@
     <text>In addition to the extension of the benefit of the supplier’s promises and of warranties to the lessee under subsection (a) of this section, the lessee retains all rights that the lessee may have against the supplier which arise from an agreement between the lessee and the supplier or under other law.</text>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
+    <annotation doc="D.C. Law 11-30" type="History">July 25, 1995, D.C. Law 11-30, § 7(a), 42 DCR 1547</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2A-209.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Uniform Statutory Source:</strong> None.</text>
     <text type="Uniform Commercial Code Comment">
@@ -53,8 +56,5 @@
     <text type="Uniform Commercial Code Comment">“Supplier”. Section 2A-103(1)(x).</text>
     <text type="Uniform Commercial Code Comment">“Supply contract”. Section 2A-103(1)(y).</text>
     <text type="Uniform Commercial Code Comment">“Term”.  Section 1-201(42).</text>
-    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
-    <annotation doc="D.C. Law 11-30" type="History">July 25, 1995, D.C. Law 11-30, § 7(a), 42 DCR 1547</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2A-209.</annotation>
   </annotations>
 </section>

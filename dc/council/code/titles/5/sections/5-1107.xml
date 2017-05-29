@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>5-1107</num>
   <heading>Authority of the Office and processing of complaint.</heading>
   <para>
     <num>(a)</num>
-    <text>The MPD and the Office shall have the authority to receive a citizen complaint against a member or members of the MPD, and any other agency pursuant to subsection (j) of this section that alleges abuse or misuse of police powers by such member or members, including:</text>
+    <text>The Office shall have the authority to receive and to dismiss, conciliate, mediate, or adjudicate a citizen complaint against a member or members of the MPD, and any other agency pursuant to subsection (j) of this section that alleges abuse or misuse of police powers by such member or members, including:</text>
     <para>
       <num>(1)</num>
       <text>Harassment;</text>
@@ -31,16 +31,8 @@
     </para>
   </para>
   <para>
-    <num>(a-1)</num>
-    <text>If the MPD receives a citizen complaint under subsection (a) of this section, the MPD shall transmit the citizen complaint to the Office within 3 business days after receipt.</text>
-  </para>
-  <para>
     <num>(b)</num>
-    <text>If a complaint alleges misconduct that is not within the authority of the Office to review, the Executive Director shall refer the allegation to the Police Chief for further processing by the MPD or the District of Columbia Housing Authority Police Department ("HAPD"), as appropriate.</text>
-  </para>
-  <para>
-    <num>(b-1)</num>
-    <text>The Office shall have the sole authority to dismiss, conciliate, mediate, adjudicate, or refer for further action to the MPD or the HAPD a citizen complaint received under subsection (a) or (b) of this section.</text>
+    <text>If a complaint alleges misconduct that is not within the authority of the Office to review, the Executive Director shall refer the allegation to the Police Chief for further processing by the MPD, as appropriate.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -48,7 +40,7 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>To be timely, a complaint must be received by the Office within 90 days from the date of the incident that is the subject of the complaint. The Executive Director may extend the deadline for good cause.</text>
+    <text>To be timely, a complaint must be received by the Office within 45 days from the date of the incident that is the subject of the complaint. The Executive Director may extend the deadline for good cause.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -75,15 +67,11 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>Refer the complaint to mediation; </text>
+      <text>Refer the complaint to mediation; or</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>Refer the complaint for investigation; or</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>Refer the subject police officer or officers to complete appropriate policy training by the MPD or the HAPD.</text>
+      <text>Refer the complaint for investigation.</text>
     </para>
   </para>
   <para>
@@ -91,39 +79,12 @@
     <text>The Executive Director shall notify in writing the complainant and the subject police officer or officers of the action taken under subsection (g) of this section. If the complaint is dismissed, the notice shall be accompanied by a brief statement of the reasons for the dismissal, and the Executive Director shall notify the complainant that the complaint may be brought to the attention of the Police Chief who may direct that the complaint be investigated and that appropriate action be taken.</text>
   </para>
   <para>
-    <num>(h-1)</num>
-    <text>The MPD and the HAPD shall notify the Executive Director when a subject police officer or officers completes policy training pursuant to subsection (g)(6) of this section.</text>
-  </para>
-  <para>
-    <num>(h-2)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Office shall have the authority to audit citizen complaints referred to the MPD or the HAPD for further action.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The Executive Director, acting on behalf of the Board, shall have timely and complete access to information and supporting documentation specifically related to the Board’s auditing duties under paragraph (1) of this subsection.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The Executive Director shall keep confidential the identity of all persons named in any documents transferred from the MPD or the HAPD to the Office pursuant to paragraph (1) of this subsection.</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>A Freedom of Information Act request for public records collected under paragraph (1) of this subsection may only be submitted to the MPD or the HAPD.</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Beginning on December 31, 2017, and by December 31 of each year thereafter, the Board shall deliver a report to the Mayor and the Council that analyzes the information evaluated by the Board under paragraph (1) of this subsection.</text>
-    </para>
-  </para>
-  <para>
     <num>(i)</num>
     <text>For purposes of § <cite path="§1-616.01">1-616.01</cite> [repealed], the receipt by the Office of an oral or written complaint shall not constitute knowledge or cause to know of acts, occurrences, or allegations contained in such complaint. For purposes of § <cite path="§1-616.01">1-616.01</cite>, the MPD shall be deemed to know or have cause to know of the acts, occurrences, or allegations in a complaint received by the Office at the time the MPD receives written notice from the Office that an allegation in a complaint processed by the Office has been sustained.</text>
   </para>
   <para>
     <num>(j)</num>
-    <text>This subchapter shall also apply to the [HAPD] and to any federal law enforcement agency that, pursuant to Chapter 3 of this title, has a cooperative agreement with the MPD that requires coverage by the Office; provided, that the Chief of the respective law enforcement department or agency shall perform the duties of the MPD Chief of Police for the members of their respective departments.</text>
+    <text>This subchapter shall also apply to the District of Columbia Housing Authority Police Department and to any federal law enforcement agency that, pursuant to Chapter 3 of this title, has a cooperative agreement with the MPD that requires coverage by the Office; provided, that the Chief of the respective law enforcement department or agency shall perform the duties of the MPD Chief of Police for the members of their respective departments.</text>
   </para>
   <para>
     <num>(k)</num>
@@ -148,16 +109,5 @@
       <cite doc="D.C. Law 17-177">D.C. Law 17-177</cite>, in subsec. (a)(4), substituted “sexual orientation, gender identity or expression” for “sexual orientation”.</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> added (k).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 3005 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§208|(b)|(1)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§208|(b)|(2)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§208|(b)|(3)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§208|(b)|(4)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§208|(b)|(5)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§208|(b)|(6)|(A)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§208|(b)|(6)|(B)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§208|(b)|(6)|(C)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§208|(b)|(7)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§208|(b)|(7)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§208|(b)|(8)" type="History" />
   </annotations>
 </section>

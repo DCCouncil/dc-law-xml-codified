@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2A-521</num>
   <heading>Lessee’s right to specific performance or replevin.</heading>
   <para>
@@ -15,6 +15,9 @@
     <text>A lessee has a right of replevin, detinue, sequestration, claim and delivery, or the like for goods identified to the lease contract if after reasonable effort the lessee is unable to effect cover for those goods or the circumstances reasonably indicate that the effort will be unavailing.</text>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
+    <annotation type="Section References">This section is referenced in § 28:2A-508.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2A-521.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Uniform Statutory Source:</strong>Section 2-716.</text>
     <text type="Uniform Commercial Code Comment">
@@ -26,8 +29,5 @@
     <text type="Uniform Commercial Code Comment">“Lessee”. Section 2A-103(1)(n).</text>
     <text type="Uniform Commercial Code Comment">“Rights”.  Section 1-201(36).</text>
     <text type="Uniform Commercial Code Comment">“Term”.  Section 1-201(42).</text>
-    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
-    <annotation type="Section References">This section is referenced in § 28:2A-508.</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2A-521.</annotation>
   </annotations>
 </section>

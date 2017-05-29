@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-127" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document id="D.C. Law 21-127" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num type="law">21-127</num>
   <num type="bill">21-680</num>
   <num type="act">21-380</num>
@@ -29,9 +29,7 @@
       <em>et seq.</em>), is amended as follows:
     </text>
     <para>
-      <div>
-        <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§38-1302">For temporary (225 days) amendment of this section, see § 2(a) of Higher Education Licensure Commission Clarification Temporary Amendment Act of 2016 (D.C. Law 21-127, July 1, 2016, 63 DCR 7102).</codify:annotation>
-      </div>
+      <codify:temporary doc="D.C. Code" path="§38-1302" />
       <num>(a)</num>
       <text>Section 201 (D.C. Official Code § 38-1302) is amended as follows:</text>
       <para>
@@ -51,16 +49,12 @@
       </para>
     </para>
     <para>
-      <div>
-        <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§38-1306">For temporary (225 days) amendment of this section, see § 2(b) of Higher Education Licensure Commission Clarification Temporary Amendment Act of 2016 (D.C. Law 21-127, July 1, 2016, 63 DCR 7102).</codify:annotation>
-      </div>
+      <codify:temporary doc="D.C. Code" path="§38-1306" />
       <num>(b)</num>
       <text>Section 6(b)(3) (D.C. Official Code § 38-1306(b)(3)) is amended by striking the phrase "45-day" both times it appears and inserting the phrase "14-day" in its place.</text>
     </para>
     <para>
-      <div>
-        <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§38-1307">For temporary (225 days) amendment of this section, see § 2(c) of Higher Education Licensure Commission Clarification Temporary Amendment Act of 2016 (D.C. Law 21-127, July 1, 2016, 63 DCR 7102).</codify:annotation>
-      </div>
+      <codify:temporary doc="D.C. Code" path="§38-1307" />
       <num>(c)</num>
       <text>Section 7(5) (D.C. Official Code § 38-1307(5)) is amended as follows:</text>
       <para>
@@ -73,9 +67,7 @@
       </para>
     </para>
     <para>
-      <div>
-        <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§38-1309">For temporary (225 days) amendment of this section, see § 2(d) of Higher Education Licensure Commission Clarification Temporary Amendment Act of 2016 (D.C. Law 21-127, July 1, 2016, 63 DCR 7102).</codify:annotation>
-      </div>
+      <codify:temporary doc="D.C. Code" path="§38-1309" />
       <num>(d)</num>
       <text>Section 9 (D.C. Official Code § 38-1309) is amended as follows:</text>
       <para>
@@ -95,9 +87,7 @@
       </para>
     </para>
     <para>
-      <div>
-        <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§38-1309">For temporary (225 days) addition of a new section, see § 2(e) of Higher Education Licensure Commission Clarification Temporary Amendment Act of 2016 (D.C. Law 21-127, July 1, 2016, 63 DCR 7102).</codify:annotation>
-      </div>
+      <codify:temporary doc="D.C. Code" path="§38-1309" action="addition of a new section" />
       <num>(e)</num>
       <text>A new section 9a is added to read as follows:</text>
       <include>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>2-1801.04</num>
   <heading>Monetary sanctions.</heading>
   <para>
@@ -18,9 +18,6 @@
     <text>In addition to any civil fines and penalties imposed following the adjudication of an infraction adverse to a respondent, an administrative law judge or attorney examiner may, in accordance with rules issued by the Mayor, impose upon the respondent, by order, the costs to the District of any additional inspections before, during, or after the hearing, and other costs associated with the hearing.</text>
   </para>
   <annotations>
-    <text type="Resolutions">Resolution 15-618, the “Civil Infractions Schedule of Fines Amendment for Towing Services for Motor Vehicles Regulations Approval</text>
-    <text type="Resolutions">Resolution of 2004“, was approved effective July 13, 2004.</text>
-    <text type="Resolutions">Resolution 16-153, the “Civil Infractions Schedule of Fines Amendment Approval Resolution of 2005”, was approved effective May 1,</text>
     <annotation doc="D.C. Law 6-42" type="History" path="§104">Oct. 5, 1985, D.C. Law 6-42, § 104, 32 DCR 4450</annotation>
     <annotation doc="D.C. Law 7-231" type="History">May 10, 1989, D.C. Law 7-231, § 21, 36 DCR 492</annotation>
     <annotation doc="D.C. Law 8-237" type="History">Mar. 8, 1991, D.C. Law 8-237, § 2(c), 38 DCR 314</annotation>
@@ -31,5 +28,8 @@
       <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite>, in par. (a)(1), substituted “30 days” for “60 days”; and rewrote par. (a)(2), which had read as follows: “(2) In addition to the civil fine, the following penalties may be imposed: (A) A respondent who fails to answer a notice of infraction within the time specified by § <cite path="§2-1802.02">2-1802.02</cite>(e) may be assessed a penalty equal to the amount of the civil fine for the infraction set forth in the notice. (B) A respondent who fails to answer a s notice of infraction within the time specified by § <cite path="§2-1802.02">2-1802.02</cite>(f) may be assessed a penalty equal to twice the amount of the civil fine for the infraction set forth in the notice.”</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2072(a) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
     <annotation type="Short Title">Short title: Section 2061 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle G of title II of the act may be cited as the “Department of Consumer and Regulatory Affairs Civil Infractions Amendment Act of 2010”.</annotation>
+    <text type="Resolutions">Resolution 15-618, the “Civil Infractions Schedule of Fines Amendment for Towing Services for Motor Vehicles Regulations Approval</text>
+    <text type="Resolutions">Resolution of 2004“, was approved effective July 13, 2004.</text>
+    <text type="Resolutions">Resolution 16-153, the “Civil Infractions Schedule of Fines Amendment Approval Resolution of 2005”, was approved effective May 1,</text>
   </annotations>
 </section>

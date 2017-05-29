@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2-316</num>
   <heading>Exclusion or modification of warranties.</heading>
   <para>
@@ -31,6 +31,10 @@
     <text>Remedies for breach of warranty can be limited in accordance with the provisions of this article on liquidation or limitation of damages and on contractual modification of remedy (sections 28:2-718 and 28:2-719).</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 648, Pub. L. 88-243, § 1</annotation>
+    <annotation type="Section References">This section is referenced in § <cite path="§28:2-314">28:2-314</cite> and § <cite path="§28:2-316.01">28:2-316.01</cite>.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2-316.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 28:2-316.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Prior Uniform Statutory Provision:</strong> None. See sections 15 and 71, Uniform Sales Act.</text>
     <text type="Uniform Commercial Code Comment">
@@ -59,9 +63,5 @@
     <text type="Uniform Commercial Code Comment">“Remedy”.  Section 1-201.</text>
     <text type="Uniform Commercial Code Comment">“Seller”.  Section 2-103.</text>
     <text type="Uniform Commercial Code Comment">“Usage of trade”.  Section 1-205.</text>
-    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 648, Pub. L. 88-243, § 1</annotation>
-    <annotation type="Section References">This section is referenced in § <cite path="§28:2-314">28:2-314</cite> and § <cite path="§28:2-316.01">28:2-316.01</cite>.</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2-316.</annotation>
-    <annotation type="Prior Codifications">1973 Ed., § 28:2-316.</annotation>
   </annotations>
 </section>

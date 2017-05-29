@@ -1,61 +1,131 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>6-1401</num>
   <heading>Definitions.</heading>
-  <text>For the purposes of 
-            <cite path="6|14">this chapter</cite>, the term:
-          </text>
+  <text>For the purposes of this chapter, the term:</text>
   <para>
     <num>(1)</num>
-    <text>"Building Code Official" means the Director of the Department of Consumer and Regulatory Affairs, or the Director’s designee.</text>
+    <text>“ANSI” means the American National Standards Institute, Inc., American National Standard Specifications for Making Buildings and Facilities Accessible to and Useable by Physically Handicapped People (1980).</text>
   </para>
   <para>
     <num>(2)</num>
-    <text>"Construction Codes" means the most recent edition of the codes published by the International Code Council, or by a comparable nationally recognized and accepted code development organization, as adopted and amended by the Construction Codes Supplement by the District pursuant to the procedures set forth in 
-              <cite path="§6-1409">§ 6-1409</cite> and in Title 12 of the District of Columbia Municipal Regulations or any successor regulations; provided, that where the Construction Codes authorize work to be carried to completion under a previous edition of the Construction Codes, the term "Construction Codes" shall refer to that previous edition.
-            </text>
+    <text>“BOCA” means the Building Officials and Code Administrators International, Inc.</text>
   </para>
   <para>
     <num>(3)</num>
-    <text>"Construction Codes Supplement" means the additions, insertions, deletions, and changes to the Model Codes adopted by the District pursuant to 
-              <cite path="§6-1409">§ 6-1409</cite></text>
+    <text>“Building Code” means the BOCA Basic/National Building Code/1984, 9th Edition, the 1985 Supplement to the BOCA Basic/National Building Code, and the District of Columbia Building Code Supplement of 1986 as amended by the provisions of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
+  </para>
+  <para>
+    <num>(3A)</num>
+    <text>“Building Code Official” means the Director of the Department of Consumer and Regulatory Affairs.</text>
   </para>
   <para>
     <num>(4)</num>
-    <text>"Construction documents" mean all written, graphic, and pictorial documents prepared or assembled for describing the design, location, and physical characteristics of the elements of a project necessary for obtaining a permit.</text>
+    <text>“Construction Codes” means the consolidation of Model Codes, the Building Rehabilitation Code, the D.C. Supplement, and the provisions of this act, and any future amendments, supplements, or editions authorized by § <cite path="§6-1409">6-1409</cite>.</text>
   </para>
   <para>
     <num>(5)</num>
-    <text>"Council" means the Council of the District of Columbia.</text>
+    <text>“Council” means the Council of the District of Columbia.</text>
   </para>
   <para>
     <num>(6)</num>
-    <text>"Department" means the Department of Consumer and Regulatory Affairs.</text>
+    <text>“D.C. Supplement” means:</text>
+    <para>
+      <num>(A)</num>
+      <text>The District of Columbia Building Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>];</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The District of Columbia Plumbing Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>];</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The District of Columbia Mechanical Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act;</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>The District of Columbia Fire Prevention Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>];</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>The District of Columbia Existing Structures Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>];</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>The District of Columbia One and Two Family Dwelling Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>]; and</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>The District of Columbia Electrical Code Supplement of 1986 submitted by the Mayor on June 30, 1986, as amended by section 11 of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
+    </para>
   </para>
   <para>
     <num>(7)</num>
-    <text>"Director" means the Director of the Department of Consumer and Regulatory Affairs, or the Director’s designee.</text>
+    <text>“District” means the District of Columbia.</text>
   </para>
   <para>
     <num>(8)</num>
-    <text>"District" means the District of Columbia.</text>
+    <text>“Electrical Code” means the National Fire Protection Association National Electrical Code 1984, and the District of Columbia Electrical Code Supplement of 1986 as amended by the provisions of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
   </para>
   <para>
     <num>(9)</num>
-    <text>"Fire protection systems" means the devices, equipment, and systems utilized to detect a fire, activate an alarm, or suppress or control a fire, or any combination thereof.</text>
+    <text>“Existing Structures Code” means the BOCA Basic/National Existing Structures Code/1984, 1st Edition, and the District of Columbia Existing Structures Code Supplement of 1986 as amended by the provisions of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
   </para>
   <para>
     <num>(10)</num>
-    <text>"Model Codes" means the codes published by the International Code Council, or by a comparable nationally recognized and accepted code-development organization, that are adopted by the District pursuant to 
-              <cite path="§6-1409">§ 6-1409</cite></text>
+    <text>“Fire Prevention Code” means the BOCA Basic/National Fire Prevention Code/1984, 6th Edition, the 1985 Supplement to the BOCA Basic/National Fire Prevention Code, and the District of Columbia Fire Prevention Code Supplement of 1986 as amended by the provisions of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
+  </para>
+  <para>
+    <num>(10A)</num>
+    <text>“Fire protection systems” means devices, equipment, and systems utilized to detect a fire, activate an alarm, suppress or control a fire, or any combination thereof.</text>
   </para>
   <para>
     <num>(11)</num>
-    <text>"Project" means construction that is all or a part of one development scheme, built at one time or in phases.</text>
+    <text>“Mechanical Code” means the BOCA Basic/National Mechanical Code/1984, 5th Edition, the 1985 Supplement to the BOCA Basic/National Mechanical Code, and the District of Columbia Mechanical Code Supplement of 1986 as amended by the provisions of this act.</text>
   </para>
   <para>
     <num>(12)</num>
-    <text>" Third party plan reviewer" means a person certified by the Director to conduct a third party review of one or more components of construction documents and to certify compliance with the Construction Codes.</text>
+    <text>“Model Codes” means:</text>
+    <para>
+      <num>(A)</num>
+      <text>The BOCA Basic/National Building Code/1984, 9th Edition;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The BOCA Basic/National Plumbing Code/1984, 6th Edition;</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The BOCA Basic/National Mechanical Code/1984, 5th Edition;</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>The BOCA Basic/National Fire Prevention Code/1984, 6th Edition;</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>The BOCA Basic/National Existing Structures Code/1984, 1st Edition;</text>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>The CABO One and Two Family Dwelling Code, 1983 Edition;</text>
+    </para>
+    <para>
+      <num>(G)</num>
+      <text>The National Fire Protection Association National Electrical Code 1984; and</text>
+    </para>
+    <para>
+      <num>(H)</num>
+      <text>The 1985 Supplement to the BOCA Basic/National Building Code, Basic/National Fire Prevention Code, Basic/National Mechanical Code, and Basic/National Plumbing Code.</text>
+    </para>
+  </para>
+  <para>
+    <num>(13)</num>
+    <text>“One and Two Family Dwelling Code” means the CABO One and Two Family Dwelling Code, 1983 Edition, and the District of Columbia One and Two Family Dwelling Code Supplement of 1986 as amended by the provisions of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
+  </para>
+  <para>
+    <num>(14)</num>
+    <text>“Plumbing Code” means the BOCA Basic/National Plumbing Code/1984, 6th Edition, the 1985 Supplement to the BOCA Basic/National Plumbing Code, and The District of Columbia Plumbing Code of 1986 as amended by the provisions of this act [<cite doc="D.C. Law 6-216">D.C. Law 6-216</cite>].</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 6-216" type="History" path="§2">Mar. 21, 1987, D.C. Law 6-216, § 2, 34 DCR 1072</annotation>
@@ -74,6 +144,5 @@
     <annotation type="Delegation of Authority">Delegation of Authority Pursuant to DC Law 6-100, the “Litter Control Administration Act of 1985;” DC Law 6-42, the “Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985;” DC Law 5-165, the “DC Air Pollution Control Act of 1984;” DC Law 13-172, the “Rodent Control Act of 2000;” and DC Law 6-126, the “Construction Codes Approval and Amendments Act of 1986”, see Mayor’s Order 2002-5, February 1, 2002 ( 49 DCR 911).</annotation>
     <annotation type="Mayor's Orders">Establishment of Building Code Advisory Committee: See Mayor’s Order 89-257, November 7, 1989.</annotation>
     <annotation type="Editor's Notes">Section 301 of <cite doc="D.C. Law 14-162">D.C. Law 14-162</cite> provided: “Pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § <cite path="§2-501">2-501</cite> et seq.), the Mayor may issue rules to implement the provisions of this act.”</annotation>
-    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§5|(a)" type="History" />
   </annotations>
 </section>

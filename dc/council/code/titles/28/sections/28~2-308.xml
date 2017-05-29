@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2-308</num>
   <heading>Absence of specified place for delivery.</heading>
   <text>Unless otherwise agreed:</text>
@@ -16,6 +16,9 @@
     <text>documents of title may be delivered through customary banking channels.</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 646, Pub. L. 88-243, § 1</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2-308.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 28:2-308.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Prior Uniform Statutory Provision:</strong> Paragraphs (a) and (b)—Section 43(1), Uniform Sales Act; Paragraph (c)—none.</text>
     <text type="Uniform Commercial Code Comment">
@@ -36,8 +39,5 @@
     <text type="Uniform Commercial Code Comment">“Goods”.  Section 2-105.</text>
     <text type="Uniform Commercial Code Comment">“Party”.  Section 1-201.</text>
     <text type="Uniform Commercial Code Comment">“Seller”.  Section 2-103.</text>
-    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 646, Pub. L. 88-243, § 1</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2-308.</annotation>
-    <annotation type="Prior Codifications">1973 Ed., § 28:2-308.</annotation>
   </annotations>
 </section>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-135" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document id="D.C. Law 21-135" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <codify:organic doc="D.C. Code" path="2|12" num-value="IV-B" after="IV-A" heading-value="Made in DC Program." prefix-value="Subchapter" tag="container" technical="true" history="false" />
   <num type="law">21-135</num>
   <num type="bill">21-514</num>
@@ -23,11 +23,11 @@
   <section>
     <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Made in DC Program Establishment Act of 2016".</text>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:organic num-value="2-1208.31" heading-value="Definitions." />
     <num>2</num>
     <heading>Definitions:</heading>
-    <text>For the purposes of <code-cite doc="D.C. Law 21-135">this act</code-cite>, the term:</text>
+    <text>For the purposes of <code-cite>this act</code-cite>, the term:</text>
     <para>
       <num>(1)</num>
       <text>"Department" means the Department of Small and Local Business Development, established by <code-cite doc="D.C. Law 16-33" path="II|N">the Small, Local, and Disadvantaged Business Enterprise Development and Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.01 <em>et seq.</em>)</code-cite>.
@@ -55,7 +55,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>"Fund" means the Made in DC Fund established by <code-cite path="§4" doc="D.C. Law 21-135">section 4</code-cite>.</text>
+      <text>"Fund" means the Made in DC Fund established by <code-cite path="§4">section 4</code-cite>.</text>
     </para>
     <para>
       <num>(4)</num>
@@ -63,7 +63,7 @@
     </para>
     <para>
       <num>(5)</num>
-      <text>"Made in DC" means the brand name developed under the Made in DC program, established by <code-cite path="§3" doc="D.C. Law 21-135">section 3</code-cite>, which may be used by a maker who is registered with the Department as a DBB to promote a product that has been:</text>
+      <text>"Made in DC" means the brand name developed under the Made in DC program, established by <code-cite path="§3">section 3</code-cite>, which may be used by a maker who is registered with the Department as a DBB to promote a product that has been:</text>
       <para>
         <num>(A)</num>
         <text>Created, manufactured, or assembled in the District; and</text>
@@ -79,15 +79,11 @@
     </para>
     <para>
       <num>(7)</num>
-      <text>"Program" means the Made in DC program established by <code-cite path="§3" doc="D.C. Law 21-135">section 3</code-cite>.</text>
+      <text>"Program" means the Made in DC program established by <code-cite path="§3">section 3</code-cite>.</text>
     </para>
-    <div>
-      <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-135" path="">D.C. Law 21-135</cite>: <cite doc="D.C. Law 21-135" path="§7">§ 7 of D.C. Law 21-135</cite> provided that the addition of this section by <cite doc="D.C. Law 21-135" path="§2">§ 2 of D.C. Law 21-135</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-    </div>
+    <codify:not-funded-anno applicability-path="§7" action="addition of" />
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:organic num-value="2-1208.32" />
     <num>3</num>
     <heading>Made in DC program.</heading>
@@ -163,13 +159,9 @@
         <text>Assess obstacles, if any, to the viability of the District maker community and make recommendations to address those obstacles.</text>
       </para>
     </para>
-    <div>
-      <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-135" path="">D.C. Law 21-135</cite>: <cite doc="D.C. Law 21-135" path="§7">§ 7 of D.C. Law 21-135</cite> provided that the addition of this section by <cite doc="D.C. Law 21-135" path="§3">§ 3 of D.C. Law 21-135</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-    </div>
+    <codify:not-funded-anno applicability-path="§7" action="addition of" />
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:organic num-value="2-1208.33" />
     <num>4</num>
     <heading>Made in DC Fund.</heading>
@@ -203,7 +195,7 @@
     </para>
     <para>
       <num>(c)</num>
-      <text>Money in the Fund shall be used for the purposes set forth in <code-cite path="§3" doc="D.C. Law 21-135">section 3</code-cite>.</text>
+      <text>Money in the Fund shall be used for the purposes set forth in <code-cite path="§3">section 3</code-cite>.</text>
     </para>
     <para>
       <num>(d)</num>
@@ -216,19 +208,15 @@
         <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
       </para>
     </para>
-    <div>
-      <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-135" path="">D.C. Law 21-135</cite>: <cite doc="D.C. Law 21-135" path="§7">§ 7 of D.C. Law 21-135</cite> provided that the addition of this section by <cite doc="D.C. Law 21-135" path="§4">§ 4 of D.C. Law 21-135</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-    </div>
+    <codify:not-funded-anno applicability-path="§7" action="addition of" />
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:organic num-value="2-1208.34" />
     <num>5</num>
     <heading>Innovation Space and Marketplace report.</heading>
     <para>
       <num>(a)</num>
-      <text>Within 180 days of the effective date of <code-cite doc="D.C. Law 21-135">this act</code-cite>, the Deputy Mayor for Planning and Economic Development shall submit to the Mayor and the Council a report on opportunities for establishing a District-sponsored Innovation Space and Marketplace to support the local maker community by providing a central venue in which members can work and display and sell their products.</text>
+      <text>Within 180 days of the effective date of <code-cite>this act</code-cite>, the Deputy Mayor for Planning and Economic Development shall submit to the Mayor and the Council a report on opportunities for establishing a District-sponsored Innovation Space and Marketplace to support the local maker community by providing a central venue in which members can work and display and sell their products.</text>
     </para>
     <para>
       <num>(b)</num>
@@ -310,23 +298,15 @@
         <text>The Department.</text>
       </para>
     </para>
-    <div>
-      <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-135" path="">D.C. Law 21-135</cite>: <cite doc="D.C. Law 21-135" path="§7">§ 7 of D.C. Law 21-135</cite> provided that the addition of this section by <cite doc="D.C. Law 21-135" path="§5">§ 5 of D.C. Law 21-135</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-    </div>
+    <codify:not-funded-anno applicability-path="§7" action="addition of" />
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:organic num-value="2-1208.35" />
     <num>6</num>
     <heading>Rules.</heading>
-    <text>The Mayor, pursuant to <code-cite doc="Pub. L. 90-614" path="I">Title 1 of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, shall issue rules to implement the provisions of <code-cite doc="D.C. Law 21-135">this act</code-cite>.
+    <text>The Mayor, pursuant to <code-cite doc="Pub. L. 90-614" path="I">Title 1 of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, shall issue rules to implement the provisions of <code-cite>this act</code-cite>.
     </text>
-    <div>
-      <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-135" path="">D.C. Law 21-135</cite>: <cite doc="D.C. Law 21-135" path="§7">§ 7 of D.C. Law 21-135</cite> provided that the addition of this section by <cite doc="D.C. Law 21-135" path="§6">§ 6 of D.C. Law 21-135</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-    </div>
+    <codify:not-funded-anno applicability-path="§7" action="addition of" />
   </section>
   <section>
     <codify:organic num-value="2-1208.36" />
@@ -353,7 +333,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>The date of publication of the notice of the certification shall not affect the applicability of <code-cite doc="D.C. Law 21-135">this act</code-cite>.</text>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of <code-cite>this act</code-cite>.</text>
       </para>
     </para>
   </section>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-125" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document id="D.C. Law 21-125" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num type="law">21-125</num>
   <num type="bill">21-360</num>
   <num type="act">21-356</num>
@@ -36,7 +36,7 @@
       <prefix>Subtitle</prefix>
       <num>A</num>
       <heading>ESTABLISHMENT OF THE OFFICE OF NEIGHBORHOOD SAFETY AND ENGAGEMENT</heading>
-      <section codify:applicability="notfunded">
+      <section>
         <codify:organic num-value="7-2411" />
         <num>101</num>
         <heading>Office of Neighborhood Safety and Engagement establishment; appointment of Executive Director.</heading>
@@ -48,13 +48,9 @@
           <num>(b)</num>
           <text>The ONSE shall be headed by an Executive Director who shall report to the Deputy Mayor for Public Safety and Justice. The Executive Director shall have at least 3 years of relevant experience in criminal justice, including matters affecting the deterrence of violent criminal behavior.</text>
         </para>
-        <div>
-          <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§101">§ 101 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-        </div>
+        <codify:not-funded-anno applicability-path="§901" />
       </section>
-      <section codify:applicability="notfunded">
+      <section>
         <codify:organic num-value="7-2412" />
         <num>102</num>
         <heading>Duties of the Executive Director.</heading>
@@ -144,15 +140,11 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>The Mayor, pursuant to <code-cite doc="Pub. L. 90-614" path="I">Title I of the District of Columbia Administrative Procedure Act, approved October 21. 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.)</code-cite>, may issue rules to implement the provisions of <code-cite path="I|A" doc="D.C. Law 21-125">this subtitle</code-cite>.</text>
+          <text>The Mayor, pursuant to <code-cite doc="Pub. L. 90-614" path="I">Title I of the District of Columbia Administrative Procedure Act, approved October 21. 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.)</code-cite>, may issue rules to implement the provisions of <code-cite path="I|A">this subtitle</code-cite>.</text>
         </para>
-        <div>
-          <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§102">§ 102 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-        </div>
+        <codify:not-funded-anno applicability-path="§901" />
       </section>
-      <section codify:applicability="notfunded">
+      <section>
         <codify:organic num-value="7-2413" />
         <num codify:value="7-2413">103</num>
         <heading>Neighborhood Safety and Engagement Fund.</heading>
@@ -203,11 +195,7 @@
             <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
           </para>
         </para>
-        <div>
-          <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§103">§ 103 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-        </div>
+        <codify:not-funded-anno applicability-path="§901" />
       </section>
     </container>
     <container>
@@ -215,7 +203,7 @@
       <prefix>Subtitle</prefix>
       <num>B</num>
       <heading>ESTABLISHMENT OF THE OFFICE OF VIOLENCE PREVENTION AND HEALTH EQUITY</heading>
-      <section codify:applicability="notfunded">
+      <section>
         <codify:organic num-value="7-781" />
         <num>104</num>
         <heading>Establishment of the Office of Violence Prevention and Health Equity.</heading>
@@ -241,13 +229,9 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>The Mayor, pursuant to <code-cite doc="Pub. L. 90-614" path="I">Title I of the District of Columbia Administrative Procedure Act, approved October 21. 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.)</code-cite>, may issue rules to implement the provisions of <code-cite path="I|B" doc="D.C. Law 21-125">this subtitle</code-cite>.</text>
+          <text>The Mayor, pursuant to <code-cite doc="Pub. L. 90-614" path="I">Title I of the District of Columbia Administrative Procedure Act, approved October 21. 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.)</code-cite>, may issue rules to implement the provisions of <code-cite path="I|B">this subtitle</code-cite>.</text>
         </para>
-        <div>
-          <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§104">§ 104 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-        </div>
+        <codify:not-funded-anno applicability-path="§901" />
       </section>
     </container>
     <codify:insert doc="D.C. Code" path="5|1" after="XVI-B" history="false">
@@ -262,7 +246,7 @@
       <prefix>Subtitle</prefix>
       <num>C</num>
       <heading> COMMUNITY CRIME PREVENTION TEAM PROGRAM</heading>
-      <section codify:applicability="notfunded">
+      <section>
         <codify:organic num-value="5-132.31" />
         <num>105</num>
         <heading>Community Crime Prevention Team Program.</heading>
@@ -298,11 +282,7 @@
           <num>(e)</num>
           <text>Beginning January 31, 2017, and every January 31 thereafter, the MPD shall collect data on the number and type of referrals for service and the outcomes of the referrals that occur pursuant to this section in that reporting period and in the aggregate, and issue a report to the Mayor and the Council on the Program’s activities and referrals.</text>
         </para>
-        <div>
-          <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§105">§ 105 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-        </div>
+        <codify:not-funded-anno applicability-path="§901" />
       </section>
     </container>
   </container>
@@ -315,7 +295,7 @@
       <prefix>Subtitle</prefix>
       <num>A</num>
       <heading>COMMUNITY POLICING WORKING GROUP</heading>
-      <section codify:applicability="notfunded">
+      <section>
         <codify:organic num-value="5-132.32" />
         <num>201</num>
         <heading>Metropolitan Police Department community policing working group.</heading>
@@ -331,27 +311,19 @@
           <num>(c)</num>
           <text>The working group shall issue a report of its recommendations on best practices in community policing for the MPD’s adoption to the Mayor and the Council no later than July 1, 2017, and biennially thereafter.</text>
         </para>
-        <div>
-          <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§201">§ 201 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-        </div>
+        <codify:not-funded-anno applicability-path="§901" />
       </section>
     </container>
     <container>
       <prefix>Subtitle</prefix>
       <num>B</num>
       <heading>REESTABLISHMENT OF THE COMPREHENSIVE HOMICIDE ELIMINATION STRATEGY TASK FORCE</heading>
-      <section codify:instruction="Restore § 22-4251" codify:applicability="notfunded">
+      <section codify:instruction="Restore § 22-4251">
         <num>202</num>
         <text>Section 260 of the New Columbia Statehood Initiative and Omnibus Boards and Commissions Reform Amendment Act of 2014, effective May 2, 2015 (D.C. Law 20-271; 62 DCR 1884), is repealed.</text>
-        <div>
-          <codify:annotation codify:applicability="effective" type="Editor's Notes" doc="D.C. Law 16-262" path="§501">
-       Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§202">§ 202 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-        </div>
+        <codify:not-funded-anno applicability-path="§901" doc="D.C. Law 16-262" path="§501" />
       </section>
-      <section codify:doc="D.C. Law 16-262" codify:path="§501" codify:applicability="notfunded">
+      <section codify:doc="D.C. Law 16-262" codify:path="§501">
         <num>203</num>
         <text>Section 501 of the Homeland Security, Risk Reduction, and Preparedness Amendment Act of 2006, effective March 14, 2007 (D.C. Law 16-262; D.C. Official Code § 22-4251), is revived and is amended to read as follows:</text>
         <include>
@@ -433,18 +405,14 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <div>
-          <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§203">§ 203 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-        </div>
+        <codify:not-funded-anno applicability-path="§901" />
       </section>
     </container>
     <container>
       <prefix>Subtitle</prefix>
       <num>C</num>
       <heading>POLICE-COMMUNITY RELATIONS SURVEY</heading>
-      <section codify:doc="D.C. Law 14-28" codify:path="§1505" codify:applicability="notfunded">
+      <section codify:doc="D.C. Law 14-28" codify:path="§1505">
         <num>204</num>
         <text>Section 1501 of the Criminal Justice Coordinating Council for the District of Columbia Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 22-4234), is amended by adding a new subsection (b-1) to read as follows:</text>
         <include>
@@ -455,11 +423,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <div>
-          <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§204">§ 204 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-        </div>
+        <codify:not-funded-anno applicability-path="§901" />
       </section>
     </container>
     <container>
@@ -755,7 +719,7 @@
       <prefix>Subtitle</prefix>
       <num>G</num>
       <heading>IMPROVING STOP AND FRISK AND USE OF FORCE DATA COLLECTION</heading>
-      <section codify:doc="R.S., D.C." codify:path="§386" codify:applicability="notfunded">
+      <section codify:doc="R.S., D.C." codify:path="§386">
         <num>209</num>
         <text>Section 386 of the Revised Statutes of the District of Columbia (D.C. Official Code § 5-113.01), is amended as follows:</text>
         <para>
@@ -873,18 +837,14 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <div>
-          <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§209">§ 209 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-        </div>
+        <codify:not-funded-anno applicability-path="§901" />
       </section>
     </container>
     <container>
       <prefix>Subtitle</prefix>
       <num>H</num>
       <heading>CRIME DATA COLLECTION</heading>
-      <section codify:doc="D.C. Law 19-21" codify:path="§3022|(c)" codify:applicability="notfunded">
+      <section codify:doc="D.C. Law 19-21" codify:path="§3022|(c)">
         <num>210</num>
         <text>Section 3022(c) of the Office of the Deputy Mayor for Public Safety and Justice Establishment Act of 2011, effective September 14, 2011 (D.C. Law 19-21; D.C. Official Code § 1-301.191(c)), is amended as follows:</text>
         <para>
@@ -1005,11 +965,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <div>
-          <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§210">§ 210 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </codify:annotation>
-        </div>
+        <codify:not-funded-anno applicability-path="§901" />
       </section>
     </container>
     <container>
@@ -1141,7 +1097,7 @@
         <heading>Private Security Camera System Incentive Program.</heading>
         <para>
           <num>(a)</num>
-          <text>There is established a Private Security Camera System Incentive Program ("Program"), to be administered by the Mayor, to encourage the purchase and installation of a security camera system on the exterior of a building owned or leased by an individual, business, nonprofit, religious institution, or other entity as defined in <cite path="§29-101.02|(10)" doc="D.C. Law 21-125">§ 29-101.02(10)</cite>, and to require registration of the system with the Metropolitan Police Department.</text>
+          <text>There is established a Private Security Camera System Incentive Program ("Program"), to be administered by the Mayor, to encourage the purchase and installation of a security camera system on the exterior of a building owned or leased by an individual, business, nonprofit, religious institution, or other entity as defined in <cite path="§29-101.02|(10)">§ 29-101.02(10)</cite>, and to require registration of the system with the Metropolitan Police Department.</text>
         </para>
         <para>
           <num>(b)</num>
@@ -1174,7 +1130,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>Up to $200 per camera installed on the exterior of a building owned or leased by a business, nonprofit, religious institution, or other entity as defined in <cite path="§29-101.02|(10)" doc="D.C. Law 21-125">§ 29-101.02(10)</cite> with a maximum rebate of up to $750 per system per address.</text>
+              <text>Up to $200 per camera installed on the exterior of a building owned or leased by a business, nonprofit, religious institution, or other entity as defined in <cite path="§29-101.02|(10)">§ 29-101.02(10)</cite> with a maximum rebate of up to $750 per system per address.</text>
             </para>
           </para>
           <para>

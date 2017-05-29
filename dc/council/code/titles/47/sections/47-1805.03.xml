@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>47-1805.03</num>
   <heading>Returns — Filing.</heading>
   <para>
@@ -18,8 +18,6 @@
     <text>Notwithstanding the provisions of— subsection (a) of this section, unrelated business income tax returns of exempt organizations shall be filed on or before the 15th day of the 5th month following the close of the taxable year for the taxpayer.</text>
   </para>
   <annotations>
-    <text type="Editor's Notes">Mayor authorized to issue regulations: Section 9 of <cite doc="D.C. Law 5-32">D.C. Law 5-32</cite> provided that the Mayor shall issue regulations necessary to carry out the provision of the act.</text>
-    <text type="Editor's Notes">Section 203(a) of <cite doc="D.C. Law 13-305">D.C. Law 13-305</cite> provided: “(a) Section 202(a) through (e) shall apply for all tax years beginning after December 31, 2000.”</text>
     <annotation type="History">July 16, 1947, 61 Stat. 342, ch. 258, art. I, title V, § 3</annotation>
     <annotation doc="D.C. Law 2-158" type="History">Mar. 6, 1979, D.C. Law 2-158, § 4, 25 DCR 7002</annotation>
     <annotation doc="D.C. Law 4-118" type="History">June 11, 1982, D.C. Law 4-118, § 107, 29 DCR 1770</annotation>
@@ -31,5 +29,7 @@
     <annotation type="Prior Codifications">1973 Ed., § 47-1564b.</annotation>
     <annotation type="Effect of Amendments">
       <cite doc="D.C. Law 13-305">D.C. Law 13-305</cite> added subsec. (c).</annotation>
+    <text type="Editor's Notes">Mayor authorized to issue regulations: Section 9 of <cite doc="D.C. Law 5-32">D.C. Law 5-32</cite> provided that the Mayor shall issue regulations necessary to carry out the provision of the act.</text>
+    <text type="Editor's Notes">Section 203(a) of <cite doc="D.C. Law 13-305">D.C. Law 13-305</cite> provided: “(a) Section 202(a) through (e) shall apply for all tax years beginning after December 31, 2000.”</text>
   </annotations>
 </section>

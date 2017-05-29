@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2-107</num>
   <heading>Goods to be severed from realty; recording.</heading>
   <para>
@@ -15,6 +15,11 @@
     <text>The provisions of this section are subject to any third party rights provided by the law relating to realty records, and the contract for sale may be executed and recorded as a document transferring an interest in land and shall then constitute notice to third parties of the buyer’s rights under the contract for sale.</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 641, Pub. L. 88-243, § 1</annotation>
+    <annotation doc="D.C. Law 4-85" type="History">Mar. 16, 1982, D.C. Law 4-85, § 4, 29 DCR 309</annotation>
+    <annotation type="Section References">This section is referenced in § <cite path="§28:2-105">28:2-105</cite>.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2-107.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 28:2-107.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Prior Uniform Statutory Provision:</strong> See Section 76, Uniform Sales Act on prior policy; Section 7, Uniform Conditional Sales Act.</text>
     <text type="Uniform Commercial Code Comment">
@@ -37,10 +42,5 @@
     <text type="Uniform Commercial Code Comment">“Seller”.  Section 2-103.</text>
     <text type="Uniform Commercial Code Comment">Reason for 1972 Change [Laws 1977, Ch. 452]</text>
     <text type="Uniform Commercial Code Comment">Several timber-growing states have changed the 1962 Code to make timber to be cut under a contract of severance goods, regardless of the question who is to sever them. The section is revised to adopt this change. Financing of the transaction is facilitated if the timber is treated as goods instead of real estate. A similar change is made in the definition of “goods” in  Section 9-105. To protect persons dealing with timberlands, filing on timber to be cut is required in Part 4 of Article 9 to be made in real estate records in a manner comparable to fixture filing.</text>
-    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 641, Pub. L. 88-243, § 1</annotation>
-    <annotation doc="D.C. Law 4-85" type="History">Mar. 16, 1982, D.C. Law 4-85, § 4, 29 DCR 309</annotation>
-    <annotation type="Section References">This section is referenced in § <cite path="§28:2-105">28:2-105</cite>.</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2-107.</annotation>
-    <annotation type="Prior Codifications">1973 Ed., § 28:2-107.</annotation>
   </annotations>
 </section>

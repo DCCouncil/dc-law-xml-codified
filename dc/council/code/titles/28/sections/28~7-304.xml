@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:7-304</num>
   <heading>Tangible bills of lading in a set.</heading>
   <para>
@@ -23,6 +23,10 @@
     <text>The bailee shall deliver in accordance with Part 4 of this article against the first presented part of a tangible bill of lading lawfully issued in a set. Delivery in this manner discharges the bailee’s obligation on the whole bill.</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 725, Pub. L. 88-243, § 1</annotation>
+    <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 9, 60 DCR 2634</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:7-304.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 28:7-304.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Prior Uniform Statutory Provision:</strong> Section 6, Uniform Bills of Lading Act.</text>
     <text type="Uniform Commercial Code Comment">
@@ -65,9 +69,5 @@
     <text type="Uniform Commercial Code Comment">“Issuer”.  Section 7-102.</text>
     <text type="Uniform Commercial Code Comment">“Person”.  Section 1-201.</text>
     <text type="Uniform Commercial Code Comment">“Receipt of goods”.  Section 2-103.</text>
-    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 725, Pub. L. 88-243, § 1</annotation>
-    <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 9, 60 DCR 2634</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:7-304.</annotation>
-    <annotation type="Prior Codifications">1973 Ed., § 28:7-304.</annotation>
   </annotations>
 </section>

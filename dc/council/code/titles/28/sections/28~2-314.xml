@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2-314</num>
   <heading>Implied warranty: merchantability; usage of trade.</heading>
   <para>
@@ -39,6 +39,9 @@
     <text>Unless excluded or modified (section 28:2-316), or implied warranties may arise from course of dealing or usage of trade.</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 648, Pub. L. 88-243, § 1</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2-314.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 28:2-314.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Prior Uniform Statutory Provision:</strong> Section 15(2), Uniform Sales Act.</text>
     <text type="Uniform Commercial Code Comment">
@@ -71,8 +74,5 @@
     <text type="Uniform Commercial Code Comment">“Goods”.  Section 2-105.</text>
     <text type="Uniform Commercial Code Comment">“Merchant”.  Section 2-104.</text>
     <text type="Uniform Commercial Code Comment">“Seller”.  Section 2-103.</text>
-    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 648, Pub. L. 88-243, § 1</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2-314.</annotation>
-    <annotation type="Prior Codifications">1973 Ed., § 28:2-314.</annotation>
   </annotations>
 </section>

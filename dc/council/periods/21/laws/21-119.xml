@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-119" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document id="D.C. Law 21-119" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <codify:organic doc="D.C. Code" heading-value="Walter Reed Development" num-value="XV" path="2|12" technical="true" tag="container" prefix-value="Subchapter" history="false" />
   <num type="law">21-119</num>
   <num type="bill">21-474</num>
@@ -27,7 +27,7 @@
     <codify:organic num-value="2-1227.01" />
     <num>2</num>
     <heading>Definitions.</heading>
-    <text>For the purposes of <code-cite doc="D.C. Law 21-119">this act</code-cite>, the term:</text>
+    <text>For the purposes of <code-cite>this act</code-cite>, the term:</text>
     <para>
       <num>(1)</num>
       <text>"Army" means the United States Department of the Army.</text>
@@ -70,7 +70,7 @@
     <para>
       <num>(10)</num>
       <text>"LDA" means the Land Disposition Agreement between the District and Developer that memorializes the terms of the disposition of the Walter Reed Redevelopment Site, which shall be consistent with the Term Sheet and 
-        <code-cite doc="D.C. Law 21-119">this act</code-cite>.</text>
+        <code-cite>this act</code-cite>.</text>
     </para>
     <para>
       <num>(11)</num>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>1-611.08</num>
   <heading>Compensation — Members of boards and commissions.</heading>
   <para>
@@ -31,7 +31,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>Repealed.</text>
+      <text>The Chairperson of the District of Columbia Taxicab Commission;</text>
     </para>
     <para>
       <num>(5)</num>
@@ -99,7 +99,14 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Repealed.</text>
+      <para>
+        <num>(A)</num>
+        <text>Public and industry members of the District of Columbia Taxicab Commission shall be entitled to compensation of $25 per meeting or work session, not to exceed $1,350 for each public or industry member per year.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Total compensation for all Commission members shall not exceed $10,800, for all meetings and work sessions.</text>
+      </para>
     </para>
   </para>
   <para>
@@ -115,8 +122,6 @@
     <text>The Mayor shall conduct a comprehensive study of the compensation and stipend levels of the District’s boards and commissions, recognizing the different characteristics of these entities, and examining the best practices in the compensation and stipend policies of surrounding and comparable jurisdictions. Based on this study, the Mayor shall provide a report to the Council by December 31, 2002, with recommendations for a rational compensation and stipend policy applicable to boards and commissions, including any recommendations for changes in specific compensation and stipend levels that could be addressed in the FY 2004 budget and financial plan.</text>
   </para>
   <annotations>
-    <text type="Short Title">Short title of title XXV of Law 14-190: Section 2501 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> provided that title XXV of the act may be cited as the Boards and Commissions Compensation Study Amendment Act of 2002.</text>
-    <text type="Short Title">Short title of subtitle T of title I of Law 15-205: Section 1211 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle T of title I of the act may be cited as Historic Preservation Review Board Stipends Amendment Act of 2004.</text>
     <annotation doc="D.C. Law 2-139" type="History" path="§1108">Mar. 3, 1979, D.C. Law 2-139, § 1108, 25 DCR 5740</annotation>
     <annotation doc="D.C. Law 3-81" type="History">Aug. 7, 1980, D.C. Law 3-81, § 2(k), 27 DCR 2632</annotation>
     <annotation doc="D.C. Law 11-52" type="History">Sept. 26, 1995, D.C. Law 11-52, § 801(b), 42 DCR 3684</annotation>
@@ -204,8 +209,8 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2202 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 3 of the Higher Education Licensure Commission Emergency Amendment Act of 2015 (D.C. Act 21-158, Oct. 16, 2015,  62 DCR 13715).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 3 of the Higher Education Licensure Commission Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-284, Jan. 27, 2016,  63 DCR 1188).</annotation>
+    <text type="Short Title">Short title of title XXV of Law 14-190: Section 2501 of <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> provided that title XXV of the act may be cited as the Boards and Commissions Compensation Study Amendment Act of 2002.</text>
+    <text type="Short Title">Short title of subtitle T of title I of Law 15-205: Section 1211 of <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> provided that subtitle T of title I of the act may be cited as Historic Preservation Review Board Stipends Amendment Act of 2004.</text>
     <annotation type="Editor's Notes">Application of Law 12-60: Section 2002 of <cite doc="D.C. Law 12-60">D.C. Law 12-60</cite> provided that the act shall apply as of October 1, 1997.</annotation>
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(b)|(1)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(b)|(2)" type="History" />
   </annotations>
 </section>

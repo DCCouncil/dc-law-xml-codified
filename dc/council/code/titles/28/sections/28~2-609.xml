@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2-609</num>
   <heading>Right to adequate assurance of performance.</heading>
   <para>
@@ -19,6 +19,10 @@
     <text>After receipt of a justified demand failure to provide within a reasonable time not exceeding thirty days such assurance of due performance as is adequate under the circumstances of the particular case is a repudiation of the contract.</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 662, Pub. L. 88-243, § 1</annotation>
+    <annotation type="Section References">This section is referenced in § <cite path="§28:2-210">28:2-210</cite> and § <cite path="§28:2-611">28:2-611</cite>.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2-609.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 28:2-609.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Prior Uniform Statutory Provision:</strong> See Sections 53, 54(1)(b), 55 and 63(2), Uniform Sales Act.</text>
     <text type="Uniform Commercial Code Comment">
@@ -50,9 +54,5 @@
     <text type="Uniform Commercial Code Comment">“Reasonable time”.  Section 1-204.</text>
     <text type="Uniform Commercial Code Comment">“Rights”.  Section 1-201.</text>
     <text type="Uniform Commercial Code Comment">“Writing”.  Section 1-201.</text>
-    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 662, Pub. L. 88-243, § 1</annotation>
-    <annotation type="Section References">This section is referenced in § <cite path="§28:2-210">28:2-210</cite> and § <cite path="§28:2-611">28:2-611</cite>.</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2-609.</annotation>
-    <annotation type="Prior Codifications">1973 Ed., § 28:2-609.</annotation>
   </annotations>
 </section>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:7-102</num>
   <heading>Definitions and index of definitions.</heading>
   <para>
@@ -87,6 +87,13 @@
     <text>In addition, Article 1 contains general definitions and principles of construction and interpretation applicable throughout this article.</text>
   </para>
   <annotations>
+    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 718, Pub. L. 88-243, § 1</annotation>
+    <annotation doc="D.C. Law 11-255" type="History">Apr. 9, 1997, D.C. Law 11-255, § 27(vv), 44 DCR 1271</annotation>
+    <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 9, 60 DCR 2634</annotation>
+    <annotation type="Section References">This section is referenced in § <cite path="§28:2-103">28:2-103</cite> and § <cite path="§28:9-102">28:9-102</cite>.</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:7-102.</annotation>
+    <annotation type="Prior Codifications">1973 Ed., § 28:7-102.</annotation>
+    <annotation type="Editor's Notes">The National Conference of Commissioners on Uniform State Laws has noted that if a state has enacted Revised Article 1, as the District of Columbia did in 2013, the definitions of “good faith” in subsection (a)(6) and “record” in (a)(10) need not be enacted in this section as they are contained in Article 1,  Section 1-201.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Prior Uniform Statutory Provision:</strong> Section 76, Uniform Sales Act; Section 58, Uniform Warehouse Receipts Act; Sections 1 and 53, Uniform Bills of Lading Act.</text>
     <text type="Uniform Commercial Code Comment">
@@ -141,12 +148,5 @@
     <text type="Uniform Commercial Code Comment">“Receipt of goods”.  Section 2-103.</text>
     <text type="Uniform Commercial Code Comment">“Right”.  Section 1-201.</text>
     <text type="Uniform Commercial Code Comment">“Warehouse receipt”.  Section 1-201.</text>
-    <annotation doc="Pub. L. 88-243" type="History">Dec. 30, 1963, 77 Stat. 718, Pub. L. 88-243, § 1</annotation>
-    <annotation doc="D.C. Law 11-255" type="History">Apr. 9, 1997, D.C. Law 11-255, § 27(vv), 44 DCR 1271</annotation>
-    <annotation doc="D.C. Law 19-299" type="History">Apr. 27, 2013, D.C. Law 19-299, § 9, 60 DCR 2634</annotation>
-    <annotation type="Section References">This section is referenced in § <cite path="§28:2-103">28:2-103</cite> and § <cite path="§28:9-102">28:9-102</cite>.</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:7-102.</annotation>
-    <annotation type="Prior Codifications">1973 Ed., § 28:7-102.</annotation>
-    <annotation type="Editor's Notes">The National Conference of Commissioners on Uniform State Laws has noted that if a state has enacted Revised Article 1, as the District of Columbia did in 2013, the definitions of “good faith” in subsection (a)(6) and “record” in (a)(10) need not be enacted in this section as they are contained in Article 1,  Section 1-201.</annotation>
   </annotations>
 </section>

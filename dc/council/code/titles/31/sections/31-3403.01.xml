@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>31-3403.01</num>
   <heading>Premium tax.</heading>
   <para>
@@ -35,8 +35,6 @@
     <text>For the purposes of this section, the term, “health maintenance organization” shall include prepaid health plans.</text>
   </para>
   <annotations>
-    <text type="Short Title">Short title: Section 5053 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided that subtitle U of title V of the act may be cited as the “Healthy DC Revenue Amendment Act of 2008”.</text>
-    <text type="Short Title">Short title: Section 5021 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle C of title IV of the act may be cited as the “Medicaid Resource Maximization Amendment Act of 2010”.</text>
     <annotation doc="D.C. Law 11-235" type="History" path="§4a">Apr. 9, 1997, D.C. Law 11-235, § 4a</annotation>
     <annotation doc="D.C. Law 17-219" type="History">as added Aug. 16, 2008, D.C. Law 17-219, § 5054, 55 DCR 7598</annotation>
     <annotation doc="D.C. Law 18-104" type="History">Feb. 4, 2010, D.C. Law 18-104, § 4(b), 56 DCR 9182</annotation>
@@ -56,5 +54,7 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 4(b) of Hospital and Medical Services Corporation Regulatory Emergency Amendment Act of 2009 (D.C. Act 18-277, January 11, 2010,  57 DCR 935).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2 of Medicaid Resource Maximization Emergency Amendment Act of 2010 (D.C. Act 18-390, May 7, 2010,  57 DCR 4339).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 5022 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+    <text type="Short Title">Short title: Section 5053 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided that subtitle U of title V of the act may be cited as the “Healthy DC Revenue Amendment Act of 2008”.</text>
+    <text type="Short Title">Short title: Section 5021 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle C of title IV of the act may be cited as the “Medicaid Resource Maximization Amendment Act of 2010”.</text>
   </annotations>
 </section>

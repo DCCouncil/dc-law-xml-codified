@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
   <num>28:2A-406</num>
   <heading>Procedure on excused performance.</heading>
   <para>
@@ -19,6 +19,8 @@
     <text>If, after receipt of a notification from the lessor under § 28:2A-405, the lessee fails so to modify the lease agreement within a reasonable time not exceeding 30 days, the lease contract lapses with respect to any deliveries affected.</text>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
+    <annotation type="Prior Codifications">1981 Ed., § 28:2A-406.</annotation>
     <text type="Uniform Commercial Code Comment">
       <strong>Uniform Statutory Source:</strong>Section 2-616(1) and (2).</text>
     <text type="Uniform Commercial Code Comment">
@@ -40,7 +42,5 @@
     <text type="Uniform Commercial Code Comment">“Termination”. Section 2A-103(1)(z).</text>
     <text type="Uniform Commercial Code Comment">“Value”.  Section 1-201(44).</text>
     <text type="Uniform Commercial Code Comment">“Written”.  Section 1-201(46).</text>
-    <annotation doc="D.C. Law 9-128" type="History">July 22, 1992, D.C. Law 9-128, § 2(b), 39 DCR 3830</annotation>
-    <annotation type="Prior Codifications">1981 Ed., § 28:2A-406.</annotation>
   </annotations>
 </section>
