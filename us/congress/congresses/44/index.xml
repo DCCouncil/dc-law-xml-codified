@@ -1,8 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<collection name="44" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<collection xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="44">
   <heading>The 44th Congress</heading>
   <subheading>Public Laws</subheading>
-  <xi:include href="./laws/public/44-2-ch117.xml" />
-  <xi:include href="./laws/public/44-2-ch105.xml" />
-  <xi:include href="./laws/public/44-1-ch86.xml" />
+  <xi:include href="./laws/public/44-2-ch117.xml"/>
+  <xi:include href="./laws/public/44-2-ch105.xml"/>
+  <xi:include href="./laws/public/44-1-ch86.xml"/>
 </collection>

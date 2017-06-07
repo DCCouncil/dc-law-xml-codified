@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-168" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-168">
   <num type="law">21-168</num>
   <num type="bill">21-316</num>
   <num type="act">21-491</num>
@@ -12,9 +11,9 @@
       <citation type="register">63 DCR 12594</citation>
     </citations>
     <history>
-      <vote date="2016-07-12" reading="Amendment" />
-      <vote date="2016-07-12" reading="First" />
-      <vote date="2016-09-20" reading="Final" />
+      <vote date="2016-07-12" reading="Amendment"/>
+      <vote date="2016-07-12" reading="First"/>
+      <vote date="2016-09-20" reading="Final"/>
       <enacted>2016-10-04</enacted>
       <summary>Law 21-168 establishes a grant program for the cost of installing accessibility modifications for a person with mobility impairment or other physical disability, to improve accessibility in residential housing.  It requires the Mayor to establish a Home Accessibility Modification Grant Program providing individual nontaxable grants of up to $10,000.</summary>
       <committee>Committee on Finance and Revenue and Committee on Housing and Community Development</committee>
@@ -24,13 +23,13 @@
     <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Safe at Home Act of 2016".</text>
   </section>
   <container>
-    <codify:organic doc="D.C. Code" path="|7|5" num-value="C" hisotry="false" />
+    <codify:organic doc="D.C. Code" path="|7|5" num-value="C" hisotry="false"/>
     <prefix>Unit</prefix>
     <num>C</num>
     <heading>Safe at Home Program.</heading>
   </container>
   <section>
-    <codify:organic doc="D.C. Code" path="|7|5|C" num-value="7-551.01" />
+    <codify:organic doc="D.C. Code" path="|7|5|C" num-value="7-551.01"/>
     <num>2</num>
     <text>Home accessibility modification grant program.</text>
     <para>
@@ -151,7 +150,7 @@
     <text>Section 47-1803.02(a)(2) of the District of Columbia Official Code is amended by adding a new subparagraph (CC) to read as follows:</text>
     <include>
       <para>
-        <codify:insert after="(BB)" />
+        <codify:insert after="(BB)"/>
         <num>(CC)</num>
         <text>The amount received by a taxpayer pursuant to section 2(b) of the Safe at Home Act of 2016, passed on 2nd reading on September 20, 2016 (Enrolled version of Bill 21-316).</text>
       </para>

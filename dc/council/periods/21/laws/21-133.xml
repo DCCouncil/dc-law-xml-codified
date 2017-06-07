@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-133" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-133">
   <num type="law">21-133</num>
   <num type="bill">21-318</num>
   <num type="act">21-386</num>
@@ -12,8 +11,8 @@
       <citation type="register">63 DCR 7134</citation>
     </citations>
     <history>
-      <vote date="2016-04-05" reading="First" />
-      <vote date="2016-04-19" reading="Final" />
+      <vote date="2016-04-05" reading="First"/>
+      <vote date="2016-04-19" reading="Final"/>
       <enacted>2016-05-04</enacted>
       <summary>Law 21-133 decreases the circumference requirement of District trees designated as "Special Trees" from 55 inches or more to between 44 inches and 100 inches; redefines the term "Heritage Tree" to signify a tree that has a circumference of 100 inches or more; increases the amount of some permit fees and fines related to the removal of designated trees; expands the permissible uses of the District's Tree Fund; and establishes the Urban Forestry Advisory Council.</summary>
       <committee>Committee on Transportation and the Environment</committee>
@@ -33,7 +32,7 @@
         <text>A new paragraph (3A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(3)" />
+            <codify:insert after="(3)"/>
             <num>(3A)</num>
             <text>"Heritage Tree" means a tree with a circumference of 100 inches or more.</text>
           </para>
@@ -43,7 +42,7 @@
       <para>
         <num>(2)</num>
         <text>Paragraph (5) is amended by striking the phrase "of 55 inches or more" and inserting the phrase "between 44 inches and 100 inches" in its place.</text>
-        <codify:find-replace count="1" find="of 55 inches or more" path="(5)" replace="between 44 inches and 100 inches" />
+        <codify:find-replace count="1" find="of 55 inches or more" path="(5)" replace="between 44 inches and 100 inches"/>
       </para>
       <div>
         <codify:annotation codify:applicability="effective" type="Editor's Notes">
@@ -57,7 +56,7 @@
       <para codify:applicability="notfunded">
         <num>(1)</num>
         <text>Subsection (b)(3) is amended by striking the phrase "equal to $35 for each inch" and inserting the phrase "not less than $55 for each inch" in its place.</text>
-        <codify:find-replace count="1" find="equal to $35 for each inch" path="(b)|(3)" replace="not less than $55 for each inch" />
+        <codify:find-replace count="1" find="equal to $35 for each inch" path="(b)|(3)" replace="not less than $55 for each inch"/>
         <div>
           <codify:annotation codify:applicability="effective" type="Editor's Notes">
        Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4">§ 4 of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(b)|(1)">§ 2(b)(1) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
@@ -67,14 +66,14 @@
       <para>
         <num>(2)</num>
         <text>Subsection (d) is amended by striking the phrase "a fine of not less than $100" and inserting the phrase "a fine of not less than $300" in its place.</text>
-        <codify:find-replace count="1" find="a fine of not less than $100" path="(d)" replace="a fine of not less than $300" />
+        <codify:find-replace count="1" find="a fine of not less than $100" path="(d)" replace="a fine of not less than $300"/>
       </para>
       <para>
         <num>(3)</num>
         <text>A new subsection (e) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert />
+            <codify:insert/>
             <num>(e)</num>
             <text>The Mayor may increase the fee described in subsection (b)(3) of this section or the fine described in subsection (d) of this section by regulation.</text>
           </para>
@@ -87,8 +86,8 @@
       <text>A new section 104a is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert after="§104" history-prefix="as added" />
-          <codify:organic after="§8-651.04" num-value="8-651.04a" />
+          <codify:insert after="§104" history-prefix="as added"/>
+          <codify:organic after="§8-651.04" num-value="8-651.04a"/>
           <num>104a</num>
           <heading>Protection of Heritage Trees.</heading>
           <para>
@@ -139,7 +138,7 @@
         <text>Subsection (b) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="(b)" />
+            <codify:replace path="(b)"/>
             <num>(b)</num>
             <para>
               <num>(1)</num>
@@ -178,7 +177,7 @@
         <text>A new subsection (b-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(b)" />
+            <codify:insert after="(b)"/>
             <num>(b-1)</num>
             <text>The Mayor shall ensure that trees planted pursuant to this section are checked for survival at appropriate intervals to evaluate canopy replacement and inform future planting decisions.</text>
           </para>
@@ -191,8 +190,8 @@
       <text>A new section 109 is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert history-prefix="as added" />
-          <codify:organic num-value="8-651.09" />
+          <codify:insert history-prefix="as added"/>
+          <codify:organic num-value="8-651.09"/>
           <num>109</num>
           <heading>Urban Forestry Advisory Council.</heading>
           <para>
@@ -302,7 +301,7 @@
       <text>Subparagraph (D) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace path="(D)" />
+          <codify:replace path="(D)"/>
           <num>(D)</num>
           <text>Plant and maintain trees on public space and on District-owned land, including parks and school property;</text>
         </para>
@@ -314,12 +313,12 @@
       <text>New subparagraphs (D-i) and (D-ii) are added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(D)" />
+          <codify:insert after="(D)"/>
           <num>(D-i)</num>
           <text>Remove and trim trees citywide;</text>
         </para>
         <para>
-          <codify:insert after="(D-i)" />
+          <codify:insert after="(D-i)"/>
           <num>(D-ii)</num>
           <text>Review construction plans for the District of Columbia Public Schools, the Department of General Services, the Department of Parks and Recreation, and other District agencies to ensure the tree canopy is protected;</text>
         </para>
@@ -333,9 +332,9 @@
     <para>
       <num>(a)</num>
       <text>Section 2(a), (b)(1), and (c) shall not apply to a person or nongovernmental entity who has an application for a Special Tree removal permit pending as of the effective date of this act.</text>
-      <codify:applicability date="notfunded" history="false" path="§2|(a)" />
-      <codify:applicability date="notfunded" history="false" path="§2|(b)|(1)" />
-      <codify:applicability date="notfunded" history="false" path="§2|(c)" />
+      <codify:applicability date="notfunded" history="false" path="§2|(a)"/>
+      <codify:applicability date="notfunded" history="false" path="§2|(b)|(1)"/>
+      <codify:applicability date="notfunded" history="false" path="§2|(c)"/>
     </para>
     <para>
       <num>(b)</num>

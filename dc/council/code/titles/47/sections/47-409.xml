@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <reason>Repealed</reason>
   <num>47-409</num>
   <heading>Disbursement of taxes and appropriations; settlement of accounts.</heading>
@@ -13,6 +12,6 @@
     <annotation type="Prior Codifications">1981 Ed., § 47-409.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 47-309.</annotation>
     <annotation type="Editor's Notes">Office of Collector of Taxes abolished: See Historical and Statutory Notes following § <cite path="§47-401">47-401</cite>.</annotation>
-    <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§13|(b)|(2)" type="History" />
+    <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§13|(b)|(2)" type="History"/>
   </annotations>
 </section>

@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="6 Edw. 1, ch. 5" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
-  <heading />
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="6 Edw. 1, ch. 5">
+  <heading/>
   <meta>
     <effective>1278-01-01</effective>
     <citations>
@@ -9,6 +8,6 @@
   </meta>
   <section>
     <num>1</num>
-    <codified:stub doc="D.C. Code" path="§42-1601" />
+    <codified:stub doc="D.C. Code" path="§42-1601"/>
   </section>
 </document>

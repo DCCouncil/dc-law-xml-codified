@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 20-276" flag="true" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 20-276" flag="true">
   <num type="law">20-276</num>
   <heading type="short">Sex Trafficking of Children Prevention Amendment Act of 2014</heading>
   <meta>
@@ -14,6 +13,6 @@
   </meta>
   <section>
     <num>5</num>
-    <codified:stub doc="D.C. Code" path="§4-1323.01" />
+    <codified:stub doc="D.C. Code" path="§4-1323.01"/>
   </section>
 </document>

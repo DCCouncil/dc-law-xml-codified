@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="Pub. L. 95-94" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pub. L. 95-94">
   <num>95-94</num>
   <heading type="short">Congressional Operations Appropriation Act</heading>
   <heading type="long">Legislative Branch Appropriation Act</heading>
@@ -13,10 +12,10 @@
   <container>
     <prefix>Title</prefix>
     <num>IV</num>
-    <heading />
+    <heading/>
     <section>
       <num>410</num>
-      <codified:stub doc="D.C. Code" path="§50-2201.26" />
+      <codified:stub doc="D.C. Code" path="§50-2201.26"/>
     </section>
   </container>
 </document>

@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-138" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-138">
   <num type="law">21-138</num>
   <num type="bill">21-107</num>
   <num type="act">21-391</num>
@@ -12,12 +11,12 @@
       <citation type="register">63 DCR 7587</citation>
     </citations>
     <history>
-      <vote date="2016-02-02" reading="Not" />
-      <vote date="2016-04-05" reading="Motion" />
-      <vote date="2016-04-05" reading="First" />
-      <vote date="2016-04-19" reading="Motion" />
-      <vote date="2016-04-19" reading="Motion" />
-      <vote date="2016-04-19" reading="Final" />
+      <vote date="2016-02-02" reading="Not"/>
+      <vote date="2016-04-05" reading="Motion"/>
+      <vote date="2016-04-05" reading="First"/>
+      <vote date="2016-04-19" reading="Motion"/>
+      <vote date="2016-04-19" reading="Motion"/>
+      <vote date="2016-04-19" reading="Final"/>
       <enacted>2016-05-09</enacted>
       <summary>Law 21-138 clarifies that private clubs, or any place to which the public is invited, are prohibited from offering marijuana to patrons and prohibits its consumption in private clubs and in public space. It also authorizes the Mayor to revoke any license, certificate of occupancy, or permit held by an entity that knowingly permits a violation. </summary>
       <committee>Committee on Judiciary</committee>
@@ -34,7 +33,7 @@
       <text>Subsection (a)(3) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace path="(a)|(3)" />
+          <codify:replace path="(a)|(3)"/>
           <num>(3)</num>
           <text>Any place to which the public is invited. For the purposes of this subsection, and notwithstanding any other provision of law, a private club, which includes any building, facility, or premises used or operated by an organization or association for a common avocational purpose, such as a fraternal, social, educational, or recreational purpose, is a place to which the public is invited; provided, that a private club does not include a private residence.</text>
         </para>
@@ -46,7 +45,7 @@
       <text>A new subsection (f) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(e)" />
+          <codify:insert after="(e)"/>
           <num>(f)</num>
           <text>No provision of the Legalization of Possession of Minimal Amounts of Marijuana for Personal Use Initiative of 2014, effective February 26, 2015 (D.C. Law 20-153; 62 DCR 880), shall limit or be construed to limit the application of any provision of this section.</text>
         </para>
@@ -60,19 +59,19 @@
     <para>
       <num>(a)</num>
       <text>Subparagraph (B) is amended by striking the phrase "Title 48; or" and inserting the phrase "Title 48;" in its place.</text>
-      <codify:find-replace path="(B)" find="Title 48; or" replace="Title 48;" />
+      <codify:find-replace path="(B)" find="Title 48; or" replace="Title 48;"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Subparagraph (C) is amended by striking the period at the end and inserting the phrase "; or" in its place.</text>
-      <codify:find-replace path="(C)" find="." position="last" replace="; or" />
+      <codify:find-replace path="(C)" find="." position="last" replace="; or"/>
     </para>
     <para>
       <num>(c)</num>
       <text>A new subparagraph (D) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(C)" />
+          <codify:insert after="(C)"/>
           <num>(D)</num>
           <text>Conduct that violates <code-cite doc="D.C. Law 20-126" path="§301|(a)">section 301(a) of the Marijuana Possession Decriminalization Amendment Act of 2014, effective July 17, 2014 (D.C. Law 20-126; D.C. Official Code § 48-911.01(a))</code-cite>. In addition, the Mayor shall revoke any certificate of occupancy or permit associated with the specific address or unit, whichever is more specific, of the holder of a certificate of occupancy or permit who knowingly permits a violation of <code-cite doc="D.C. Law 20-126" path="§301|(a)"> section 301(a) of the Marijuana Possession Decriminalization Amendment Act of 2014, effective July 17, 2014 (D.C. Law 20-126; D.C. Official Code § 48-911.01(a)),</code-cite> to occur at the specific address or unit identified in the certificate of occupancy or permit.</text>
         </para>

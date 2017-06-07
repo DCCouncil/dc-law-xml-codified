@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="Pub. L. 92-349" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pub. L. 92-349">
   <num>92-349</num>
   <heading type="long">An Act to amend the National Capital Transportation Act of 1969 to provide for Federal guarantees of obligations issued by the Washington Metropolitan Area Transit Authority, to authorize an increased contribution by the District of Columbia, and for other purposes</heading>
   <meta>
@@ -12,10 +11,10 @@
   <container>
     <prefix>Title</prefix>
     <num>III</num>
-    <heading />
+    <heading/>
     <section>
       <num>301</num>
-      <codified:stub doc="D.C. Code" path="§9-1107.04" />
+      <codified:stub doc="D.C. Code" path="§9-1107.04"/>
     </section>
   </container>
 </document>

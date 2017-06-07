@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-125" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-125">
   <num type="law">21-125</num>
   <num type="bill">21-360</num>
   <num type="act">21-356</num>
@@ -12,13 +11,13 @@
       <citation type="register">63 DCR 4659</citation>
     </citations>
     <history>
-      <vote date="2016-02-02" reading="Amendment" />
-      <vote date="2016-02-02" reading="First" />
-      <vote date="2016-03-01" reading="Amendment" />
-      <vote date="2016-03-01" reading="Amendment" />
-      <vote date="2016-03-01" reading="Amendment" />
-      <vote date="2016-03-01" reading="Amendment" />
-      <vote date="2016-03-01" reading="Final" />
+      <vote date="2016-02-02" reading="Amendment"/>
+      <vote date="2016-02-02" reading="First"/>
+      <vote date="2016-03-01" reading="Amendment"/>
+      <vote date="2016-03-01" reading="Amendment"/>
+      <vote date="2016-03-01" reading="Amendment"/>
+      <vote date="2016-03-01" reading="Amendment"/>
+      <vote date="2016-03-01" reading="Final"/>
       <enacted>2016-03-26</enacted>
       <summary>Law 21-125 establishes the Office of Neighborhood Safety and Engagement (ONSE) to engage individuals with a high risk of participating in, or being a victim of, violent criminal activity. It establishes an Office of Violence Prevention and Health Equity within the Department of Health, and establishes within the Metropolitan Police Department, a Community Crime Prevention Team Program to reduce crime and increase access to social services.  It requires the ONSE to conduct data collection and analysis on outcomes and report them annually to the Council.  It places social workers in MPD and requires MPD to include training on preventing biased-based policing, and the unlawful use of force. MPD is also required to collect stop and frisk data, use of force data, data regarding citizens complaints as well as in custody deaths.  It expands certain personnel authority of the Chief of Police.  It expands the rights of pretrial defendants and of misdemeanant inmates with regard to work, education release and good behavior.  It also among other things extends the date for implementation of the microstamping requirement for semiautomatic pistols to January 1, 2018.</summary>
       <committee>Committee on Health and Human Services and Committee on Judiciary</committee>
@@ -32,12 +31,12 @@
     <num>I</num>
     <heading>CRIMINAL JUSTICE AND PUBLIC HEALTH REFORMS</heading>
     <container>
-      <codify:organic doc="D.C. Code" path="7" after="24" prefix-value="Chapter" num-value="24A" heading-value="Establishment of the Office of Neigborhood Safety and Engagement" history="false" />
+      <codify:organic doc="D.C. Code" path="7" after="24" prefix-value="Chapter" num-value="24A" heading-value="Establishment of the Office of Neigborhood Safety and Engagement" history="false"/>
       <prefix>Subtitle</prefix>
       <num>A</num>
       <heading>ESTABLISHMENT OF THE OFFICE OF NEIGHBORHOOD SAFETY AND ENGAGEMENT</heading>
       <section codify:applicability="notfunded">
-        <codify:organic num-value="7-2411" />
+        <codify:organic num-value="7-2411"/>
         <num>101</num>
         <heading>Office of Neighborhood Safety and Engagement establishment; appointment of Executive Director.</heading>
         <para>
@@ -55,7 +54,7 @@
         </div>
       </section>
       <section codify:applicability="notfunded">
-        <codify:organic num-value="7-2412" />
+        <codify:organic num-value="7-2412"/>
         <num>102</num>
         <heading>Duties of the Executive Director.</heading>
         <para>
@@ -153,7 +152,7 @@
         </div>
       </section>
       <section codify:applicability="notfunded">
-        <codify:organic num-value="7-2413" />
+        <codify:organic num-value="7-2413"/>
         <num codify:value="7-2413">103</num>
         <heading>Neighborhood Safety and Engagement Fund.</heading>
         <para>
@@ -211,12 +210,12 @@
       </section>
     </container>
     <container>
-      <codify:organic doc="D.C. Code" path="7" num-value="7E" heading-value="Establishment of the Office of Violence Prevention and health Equity" prefix-value="Chapter" after="7D" history="false" />
+      <codify:organic doc="D.C. Code" path="7" num-value="7E" heading-value="Establishment of the Office of Violence Prevention and health Equity" prefix-value="Chapter" after="7D" history="false"/>
       <prefix>Subtitle</prefix>
       <num>B</num>
       <heading>ESTABLISHMENT OF THE OFFICE OF VIOLENCE PREVENTION AND HEALTH EQUITY</heading>
       <section codify:applicability="notfunded">
-        <codify:organic num-value="7-781" />
+        <codify:organic num-value="7-781"/>
         <num>104</num>
         <heading>Establishment of the Office of Violence Prevention and Health Equity.</heading>
         <para>
@@ -258,12 +257,12 @@
       </container>
     </codify:insert>
     <container>
-      <codify:organic doc="D.C. Code" path="5|1|XVI-C" prefix-value="Part" num-value="A" heading-value="Community Crime Prevention Team Program." history="false" />
+      <codify:organic doc="D.C. Code" path="5|1|XVI-C" prefix-value="Part" num-value="A" heading-value="Community Crime Prevention Team Program." history="false"/>
       <prefix>Subtitle</prefix>
       <num>C</num>
       <heading> COMMUNITY CRIME PREVENTION TEAM PROGRAM</heading>
       <section codify:applicability="notfunded">
-        <codify:organic num-value="5-132.31" />
+        <codify:organic num-value="5-132.31"/>
         <num>105</num>
         <heading>Community Crime Prevention Team Program.</heading>
         <para>
@@ -311,12 +310,12 @@
     <num>II</num>
     <heading>POLICING REFORMS</heading>
     <container>
-      <codify:organic doc="D.C. Code" path="5|1|XVI-C" num-value="B" prefix-value="Part" heading-value="Community Policing Working Group." history="false" />
+      <codify:organic doc="D.C. Code" path="5|1|XVI-C" num-value="B" prefix-value="Part" heading-value="Community Policing Working Group." history="false"/>
       <prefix>Subtitle</prefix>
       <num>A</num>
       <heading>COMMUNITY POLICING WORKING GROUP</heading>
       <section codify:applicability="notfunded">
-        <codify:organic num-value="5-132.32" />
+        <codify:organic num-value="5-132.32"/>
         <num>201</num>
         <heading>Metropolitan Police Department community policing working group.</heading>
         <para>
@@ -356,7 +355,7 @@
         <text>Section 501 of the Homeland Security, Risk Reduction, and Preparedness Amendment Act of 2006, effective March 14, 2007 (D.C. Law 16-262; D.C. Official Code § 22-4251), is revived and is amended to read as follows:</text>
         <include>
           <section>
-            <codify:replace />
+            <codify:replace/>
             <num>501</num>
             <heading codify:value="Comprehensive Homicide Elimination Strategy Task Force Established.">Comprehensive Homicide Elimination Strategy Task Force.</heading>
             <para>
@@ -449,7 +448,7 @@
         <text>Section 1501 of the Criminal Justice Coordinating Council for the District of Columbia Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 22-4234), is amended by adding a new subsection (b-1) to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="§1505|(b)" technical="this amends section 1505 not 1501" />
+            <codify:insert after="§1505|(b)" technical="this amends section 1505 not 1501"/>
             <num>(b-1)</num>
             <text>The CJCC shall also conduct a public opinion survey of police-community relations in the District of Columbia and submit an analysis of the results in a report to the Mayor and the Council by January 31, 2017.</text>
           </para>
@@ -471,7 +470,7 @@
         <text>Section 432(b) of the Revised Statutes of the District of Columbia (D.C. Official Code § 22-405(b)), is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace doc="R.S., D.C." path="§432|(b)" />
+            <codify:replace doc="R.S., D.C." path="§432|(b)"/>
             <num>(b)</num>
             <text>Whoever without justifiable and excusable cause assaults a law enforcement officer on account of, or while that law enforcement officer is engaged in the performance of his or her official duties shall be guilty of a misdemeanor and, upon conviction, shall be  imprisoned not more than 6 months or fined not more than the amount set forth in <code-cite doc="D.C. Law 19-317" path="§101">section 101 of the Criminal Fine Proportionality Amendment Act of 2012, effective June 11, 2013 (D.C. Law 19-317; D.C. Official Code § 22-3571.01)</code-cite>, or both.</text>
           </para>
@@ -483,8 +482,8 @@
         <text>A new section 432a of the Revised Statutes of the District of Columbia is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert doc="R.S., D.C." after="§432" history-prefix="as added" />
-            <codify:organic doc="D.C. Code" path="|22|4" after="§22-405" num-value="22-405.01" heading-value="Resisting arrest." />
+            <codify:insert doc="R.S., D.C." after="§432" history-prefix="as added"/>
+            <codify:organic doc="D.C. Code" path="|22|4" after="§22-405" num-value="22-405.01" heading-value="Resisting arrest."/>
             <num>432a</num>
             <para>
               <num>(a)</num>
@@ -525,7 +524,7 @@
           <text>A new subsection (b) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(b)</num>
               <text>The continuing education required by subsection (a) of this section shall include, at a minimum, instruction on:</text>
               <para>
@@ -571,19 +570,19 @@
           <para>
             <num>(1)</num>
             <text>Subsection (b) is amended by striking the phrase "from the date of appointment to a full term".</text>
-            <codify:find-replace path="(b)" find="from the date of appointment to a full term" replace="" count="1" />
+            <codify:find-replace path="(b)" find="from the date of appointment to a full term" replace="" count="1"/>
           </para>
           <para>
             <num>(2)</num>
             <text>Subsection (d) is amended by striking the phrase "and the Chief of the Metropolitan Police Department ("Police Chief")" and inserting the phrase "the Chief of the Metropolitan Police Department ("Police Chief"), and the Director of the District of Columbia Housing Authority ("DCHA Director")" in its place.</text>
-            <codify:find-replace path="(d)" find="and the Chief of the Metropolitan Police Department (“Police Chief”)" replace="the Chief of the Metropolitan Police Department (&quot;Police Chief&quot;), and the Director of the District of Columbia Housing Authority (&quot;DCHA Director&quot;)" count="1" />
+            <codify:find-replace path="(d)" find="and the Chief of the Metropolitan Police Department (“Police Chief”)" replace="the Chief of the Metropolitan Police Department (&quot;Police Chief&quot;), and the Director of the District of Columbia Housing Authority (&quot;DCHA Director&quot;)" count="1"/>
           </para>
           <para>
             <num>(3)</num>
             <text>A new subsection (d-2) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(d-1)" />
+                <codify:insert after="(d-1)"/>
                 <num>(d-2)</num>
                 <para>
                   <num>(1)</num>
@@ -640,14 +639,14 @@
           <para>
             <num>(1)</num>
             <text>Subsection (a) is amended by striking the phrase "The Office shall have the authority to receive and to dismiss, conciliate, mediate, or adjudicate" and inserting the phrase "The MPD and the Office shall have the authority to receive" in its place.</text>
-            <codify:find-replace path="(a)" find="The Office shall have the authority to receive and to dismiss, conciliate, mediate, or adjudicate" replace="The MPD and the Office shall have the authority to receive" count="1" />
+            <codify:find-replace path="(a)" find="The Office shall have the authority to receive and to dismiss, conciliate, mediate, or adjudicate" replace="The MPD and the Office shall have the authority to receive" count="1"/>
           </para>
           <para>
             <num>(2)</num>
             <text>A new subsection (a-1) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(a)" />
+                <codify:insert after="(a)"/>
                 <num>(a-1)</num>
                 <text>If the MPD receives a citizen complaint under subsection (a) of this section, the MPD shall transmit the citizen complaint to the Office within 3 business days after receipt.</text>
               </para>
@@ -657,14 +656,14 @@
           <para>
             <num>(3)</num>
             <text>Subsection (b) is amended by striking the phrase "by the MPD" and inserting the phrase "by the MPD or the District of Columbia Housing Authority Police Department ("HAPD")" in its place.</text>
-            <codify:find-replace path="(b)" find="by the MPD" replace="by the MPD or the District of Columbia Housing Authority Police Department (&quot;HAPD&quot;)" count="1" />
+            <codify:find-replace path="(b)" find="by the MPD" replace="by the MPD or the District of Columbia Housing Authority Police Department (&quot;HAPD&quot;)" count="1"/>
           </para>
           <para>
             <num>(4)</num>
             <text>A new subsection (b-1) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(b)" />
+                <codify:insert after="(b)"/>
                 <num>(b-1)</num>
                 <text>The Office shall have the sole authority to dismiss, conciliate, mediate, adjudicate, or refer for further action to the MPD or the HAPD a citizen complaint received under subsection (a) or (b) of this section.</text>
               </para>
@@ -674,7 +673,7 @@
           <para>
             <num>(5)</num>
             <text>Subsection (d) is amended by striking the phrase "45 days" and inserting the phrase "90 days" in its place.</text>
-            <codify:find-replace path="(d)" find="45 days" replace="90 days" count="1" />
+            <codify:find-replace path="(d)" find="45 days" replace="90 days" count="1"/>
           </para>
           <para codify:path="(g)">
             <num>(6)</num>
@@ -682,19 +681,19 @@
             <para>
               <num>(A)</num>
               <text>Paragraph (4) is amended by striking the word "or".</text>
-              <codify:find-replace path="(4)" find="or" replace="" count="1" />
+              <codify:find-replace path="(4)" find="or" replace="" count="1"/>
             </para>
             <para>
               <num>(B)</num>
               <text>Paragraph (5) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-              <codify:find-replace path="(5)" find="." replace="; or" count="1" />
+              <codify:find-replace path="(5)" find="." replace="; or" count="1"/>
             </para>
             <para>
               <num>(C)</num>
               <text>A new paragraph (6) is added to read as follows:</text>
               <include>
                 <para>
-                  <codify:insert />
+                  <codify:insert/>
                   <num>(6)</num>
                   <text>Refer the subject police officer or officers to complete appropriate policy training by the MPD or the HAPD.</text>
                 </para>
@@ -707,12 +706,12 @@
             <text>New subsections (h-1) and (h-2) are added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(h)" />
+                <codify:insert after="(h)"/>
                 <num>(h-1)</num>
                 <text>The MPD and the HAPD shall notify the Executive Director when a subject police officer or officers completes policy training pursuant to subsection (g)(6) of this section.</text>
               </para>
               <para>
-                <codify:insert after="(h-1)" />
+                <codify:insert after="(h-1)"/>
                 <num>(h-2)</num>
                 <para>
                   <num>(1)</num>
@@ -741,13 +740,13 @@
           <para>
             <num>(8)</num>
             <text>Subsection (j) is amended by striking the phrase “the District of Columbia Housing Authority” and inserting the phrase “the HAPD” in its place.</text>
-            <codify:find-replace path="(j)" find="the District of Columbia Housing Authority Police Department" replace="the [HAPD]" count="1" technical="strike 'Police Department'" />
+            <codify:find-replace path="(j)" find="the District of Columbia Housing Authority Police Department" replace="the [HAPD]" count="1" technical="strike 'Police Department'"/>
           </para>
         </para>
         <para>
           <num>(c)</num>
           <text>Section 13(f) (D.C. Official Code § 5-1112(f)) is amended by striking the phrase "Police Chief, and" and inserting the phrase "Police Chief within 10 business days after the action is taken, and" in its place.</text>
-          <codify:find-replace path="§13|(f)" find="Police Chief, and" replace="Police Chief within 10 business days after the action is taken, and" count="1" />
+          <codify:find-replace path="§13|(f)" find="Police Chief, and" replace="Police Chief within 10 business days after the action is taken, and" count="1"/>
         </para>
       </section>
     </container>
@@ -761,14 +760,14 @@
         <para>
           <num>(a)</num>
           <text>Paragraph (4A) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace path="(4A)" find="; and" replace=";" count="1" />
+          <codify:find-replace path="(4A)" find="; and" replace=";" count="1"/>
         </para>
         <para>
           <num>(b)</num>
           <text>New paragraphs (4B), (4C), and (4D) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(4A)" />
+              <codify:insert after="(4A)"/>
               <num>(4B)</num>
               <text>Records of stops, including:</text>
               <para>
@@ -833,7 +832,7 @@
               </para>
             </para>
             <para>
-              <codify:insert after="(4B)" />
+              <codify:insert after="(4B)"/>
               <num>(4C)</num>
               <text>Use of force incidents, including:</text>
               <para>
@@ -866,7 +865,7 @@
               </para>
             </para>
             <para>
-              <codify:insert after="(4C)" />
+              <codify:insert after="(4C)"/>
               <num>(4D)</num>
               <text>For the purposes of this section, the terms "contact", "frisk", and "stop" shall have the meanings ascribed in Metropolitan Police Department General Order 304.10; and</text>
             </para>
@@ -890,19 +889,19 @@
         <para>
           <num>(a)</num>
           <text>Paragraph (4) is amended by striking the word "and" at the end.</text>
-          <codify:find-replace path="(4)" find="and" replace="" count="1" position="last" />
+          <codify:find-replace path="(4)" find="and" replace="" count="1" position="last"/>
         </para>
         <para>
           <num>(b)</num>
           <text>Paragraph (5)(B) is amending by striking the period  and inserting the phrase "; and" in its place.</text>
-          <codify:find-replace path="(5)|(B)" find="." replace="; and" count="1" position="last" />
+          <codify:find-replace path="(5)|(B)" find="." replace="; and" count="1" position="last"/>
         </para>
         <para>
           <num>(c)</num>
           <text>A new paragraph (6) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(6)</num>
               <text>Beginning December 31, 2017, and by December 31 of each year thereafter, deliver a report to the Mayor and the Council that analyzes the trends associated with the Metropolitan Police Department’s felony crime statistics. The report shall include:</text>
               <para>
@@ -1022,14 +1021,14 @@
         <para>
           <num>(a)</num>
           <text>Subsection (f)(1) is repealed.</text>
-          <codify:repeal path="(f)|(1)" />
+          <codify:repeal path="(f)|(1)"/>
         </para>
         <para>
           <num>(b)</num>
           <text>A new subsection (g) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(g)</num>
               <para>
                 <num>(1)</num>
@@ -1062,17 +1061,17 @@
         <para>
           <num>(a)</num>
           <text>The lead-in language is amended by striking the phrase "As of the effective date of the Metropolitan Police Department Amendment Act of 2006, passed on 2nd reading on December 5, 2006 (Enrolled version of Bill 16-586), to" and inserting the word "To" in its place.</text>
-          <codify:find-replace find="As of March 6, 2007, to" replace="To" count="1" />
+          <codify:find-replace find="As of March 6, 2007, to" replace="To" count="1"/>
         </para>
         <para>
           <num>(b)</num>
           <text>Paragraph (2) is amended by striking the phrase "3 years" and inserting the phrase "2 years" in its place.</text>
-          <codify:find-replace path="(2)" find="3 years" replace="2 years" count="1" />
+          <codify:find-replace path="(2)" find="3 years" replace="2 years" count="1"/>
         </para>
         <para>
           <num>(c)</num>
           <text>Paragraph (3) is amended by striking the phrase "5 years" and inserting the phrase "3 years" in its place.</text>
-          <codify:find-replace path="(3)" find="5 years" replace="3 years" count="1" />
+          <codify:find-replace path="(3)" find="5 years" replace="3 years" count="1"/>
         </para>
       </section>
     </container>
@@ -1088,7 +1087,7 @@
           <text>A new subsection (a-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a)" />
+              <codify:insert after="(a)"/>
               <num>(a-1)</num>
               <text>Except for a disability annuitant, a police officer retired from the Metropolitan Police Department shall be eligible for rehire at the discretion of the Director of the Department of Forensic Sciences as a temporary full-time or temporary part-time employee without jeopardy to the retirement benefits of the employee.</text>
             </para>
@@ -1098,19 +1097,19 @@
         <para>
           <num>(b)</num>
           <text>Subsection (b) is amended by striking the phrase "under this section" and inserting the phrase "under subsection (a) of this section" in its place.</text>
-          <codify:find-replace path="(b)" find="under this section" replace="under subsection (a) of this section" count="1" />
+          <codify:find-replace path="(b)" find="under this section" replace="under subsection (a) of this section" count="1"/>
         </para>
         <para>
           <num>(c)</num>
           <text>Subsection (d) is amended by striking the phrase "under this section" and inserting the phrase "under subsection (a) of this section" in its place.</text>
-          <codify:find-replace path="(d)" find="under this section" replace="under subsection (a) of this section" count="1" />
+          <codify:find-replace path="(d)" find="under this section" replace="under subsection (a) of this section" count="1"/>
         </para>
         <para>
           <num>(d)</num>
           <text>A new subsection (d-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(d)" />
+              <codify:insert after="(d)"/>
               <num>(d-1)</num>
               <text>A retired police officer who is rehired under subsection (a-1) of this section may be rehired in a supervisory or non-supervisory position and shall be paid a salary of no more than the highest grade available for the position assigned.</text>
             </para>
@@ -1120,23 +1119,23 @@
         <para>
           <num>(e)</num>
           <text>Subsection (e) is amended by striking the phrase "subsection (d) of this section" and inserting the phrase "subsections (d) and (d-1) of this section" in its place.</text>
-          <codify:find-replace path="(e)" find="subsection (d) of this section" replace="subsections (d) and (d-1) of this section" count="1" />
+          <codify:find-replace path="(e)" find="subsection (d) of this section" replace="subsections (d) and (d-1) of this section" count="1"/>
         </para>
         <para>
           <num>(f)</num>
           <text>Subsection (f) is amended by striking the phrase "Metropolitan Police Department." and inserting the phrase  "Metropolitan Police Department and the Department of Forensic Sciences." in its place.</text>
-          <codify:find-replace path="(f)" find="Metropolitan Police Department." replace="Metropolitan Police Department and the Department of Forensic Sciences." count="1" />
+          <codify:find-replace path="(f)" find="Metropolitan Police Department." replace="Metropolitan Police Department and the Department of Forensic Sciences." count="1"/>
         </para>
       </section>
     </container>
-    <codify:create-sub-container doc="D.C. Code" path="7|28" num-value="I" prefix-value="Subchapter" heading-value="General" history="false" />
+    <codify:create-sub-container doc="D.C. Code" path="7|28" num-value="I" prefix-value="Subchapter" heading-value="General" history="false"/>
     <container codify:doc="D.C. Code">
-      <codify:organic path="7|28" num-value="II" prefix-value="Subchapter" heading-value="Private Security Camera System Incentive Program." history="false" />
+      <codify:organic path="7|28" num-value="II" prefix-value="Subchapter" heading-value="Private Security Camera System Incentive Program." history="false"/>
       <prefix>Subtitle</prefix>
       <num>K</num>
       <heading>PRIVATE SECURITY CAMERA SYSTEM INCENTIVE PROGRAM</heading>
       <section>
-        <codify:organic num-value="7-2831" />
+        <codify:organic num-value="7-2831"/>
         <num>214</num>
         <heading>Private Security Camera System Incentive Program.</heading>
         <para>
@@ -1291,7 +1290,7 @@
         </para>
       </section>
       <section>
-        <codify:organic num-value="7-2832" />
+        <codify:organic num-value="7-2832"/>
         <num>215</num>
         <heading>Private Security Camera Incentive Fund.</heading>
         <para>
@@ -1376,7 +1375,7 @@
     <section>
       <num>401</num>
       <text>Section 23-1321(c)(1)(B)(xi) of the District of Columbia Official Code is amended by striking the phrase ", except that no person may be released directly from the District of Columbia Jail or the Correctional Treatment Facility for these purposes.".</text>
-      <codify:find-replace doc="D.C. Code" path="§23-1321|(c)|(1)|(B)|(xi)" find=", except that no person may be released directly from the District of Columbia Jail or the Correctional Treatment Facility for these purposes" replace="" technical="the period within the quotation marks should not be included in the amendment" count="1" />
+      <codify:find-replace doc="D.C. Code" path="§23-1321|(c)|(1)|(B)|(xi)" find=", except that no person may be released directly from the District of Columbia Jail or the Correctional Treatment Facility for these purposes" replace="" technical="the period within the quotation marks should not be included in the amendment" count="1"/>
     </section>
   </container>
   <container>
@@ -1386,7 +1385,7 @@
     <section>
       <num>501</num>
       <text>Section 3c(c) of the District of Columbia Good Time Credits Act of 1986, effective May 17, 2011 (D.C. Law 18-732; D.C. Official Code § 24-221.01c(c)), is amended by striking the number "8" and inserting the number "10" in its place.</text>
-      <codify:find-replace doc="D.C. Law 6-218" path="§3c|(c)" find="8" replace="10" count="1" />
+      <codify:find-replace doc="D.C. Law 6-218" path="§3c|(c)" find="8" replace="10" count="1"/>
     </section>
   </container>
   <container>
@@ -1404,7 +1403,7 @@
           <text>Paragraph (11) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace path="(11)" />
+              <codify:replace path="(11)"/>
               <num>(11)</num>
               <text>The White House Complex and its grounds up to and including to the curb of the adjacent sidewalks touching the roadways of the area bounded by Constitution Avenue, N.W., 15th Street, N.W., H Street, N.W., and 17th Street, N.W.;</text>
             </para>
@@ -1416,7 +1415,7 @@
           <text>Paragraph (12) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace path="(12)" />
+              <codify:replace path="(12)"/>
               <num>(12)</num>
               <text>The U.S. Naval Observatory and its fence line, including the area from the perimeter of its fence up to and including to the curb of the adjacent sidewalks touching the roadway of Observatory Circle, from Calvert Street, N.W., to Massachusetts Avenue, N.W., and around Observatory Circle to the far corner of Observatory Lane;</text>
             </para>
@@ -1427,7 +1426,7 @@
       <para>
         <num>(b)</num>
         <text>Subsection (d)(1) is amended by striking the phrase "While he or she is traveling along a public street, road, or highway, including an adjacent public sidewalk that touches the perimeter of any of the premises where the carrying of a concealed pistol is prohibited under subsection (a) and subsection (b) of this section" and inserting the phrase "While he or she is traveling along a public sidewalk that touches the perimeter of any of the premises where the carrying of a concealed pistol is prohibited under subsection (a) and subsection (b) of this section, except for the areas designated in subsection (a)(11) and (a)(12), or along a public street, roadway, or highway" in its place.</text>
-        <codify:find-replace path="(d)|(1)" find="While he or she is traveling along a public street, road, or highway, including an adjacent public sidewalk that touches the perimeter of any of the premises where the carrying of a concealed pistol is prohibited under subsection (a) or subsection (b) of this section" replace="While he or she is traveling along a public sidewalk that touches the perimeter of any of the premises where the carrying of a concealed pistol is prohibited under subsection (a) and subsection (b) of this section, except for the areas designated in subsection (a)(11) and (a)(12), or along a public street, roadway, or highway" technical="should be          subsection (a) or subsection (b) not subsection (a) and subsection (b)" count="1" />
+        <codify:find-replace path="(d)|(1)" find="While he or she is traveling along a public street, road, or highway, including an adjacent public sidewalk that touches the perimeter of any of the premises where the carrying of a concealed pistol is prohibited under subsection (a) or subsection (b) of this section" replace="While he or she is traveling along a public sidewalk that touches the perimeter of any of the premises where the carrying of a concealed pistol is prohibited under subsection (a) and subsection (b) of this section, except for the areas designated in subsection (a)(11) and (a)(12), or along a public street, roadway, or highway" technical="should be          subsection (a) or subsection (b) not subsection (a) and subsection (b)" count="1"/>
       </para>
     </section>
   </container>
@@ -1441,7 +1440,7 @@
       <para>
         <num>(a)</num>
         <text>Section 408(b) (D.C. Official Code § 7-2504.08(b)) is amended by striking the date "January 1, 2016" wherever it appears and inserting the date "January 1, 2018" in its place.</text>
-        <codify:find-replace path="§408|(b)" find="January 1, 2016" replace="January 1, 2018" />
+        <codify:find-replace path="§408|(b)" find="January 1, 2016" replace="January 1, 2018"/>
       </para>
       <para codify:path="§503">
         <num>(b)</num>
@@ -1461,17 +1460,17 @@
             <num>(C)</num>
             <text>Paragraph (3) is amended by striking the date "January 1, 2016" and inserting the date "January 1, 2018" in its place.</text>
           </para>
-          <codify:find-replace path="(b)" find="January 1, 2016" replace="January 1, 2018" count="3" />
+          <codify:find-replace path="(b)" find="January 1, 2016" replace="January 1, 2018" count="3"/>
         </para>
         <para>
           <num>(2)</num>
           <text>Subsection (c)(1) is amended by striking the date "January 1, 2016" and inserting the date "January 1, 2018" in its place.</text>
-          <codify:find-replace path="(c)|(1)" find="January 1, 2016" replace="January 1, 2018" count="1" />
+          <codify:find-replace path="(c)|(1)" find="January 1, 2016" replace="January 1, 2018" count="1"/>
         </para>
         <para>
           <num>(3)</num>
           <text>The lead-in language of subsection (e) is amended by striking the date "January 1, 2016" wherever it appears and inserting the date "January 1, 2018" in its place.</text>
-          <codify:find-replace path="(e)" find="January 1, 2016" replace="January 1, 2018" />
+          <codify:find-replace path="(e)" find="January 1, 2016" replace="January 1, 2018"/>
         </para>
       </para>
     </section>
@@ -1486,19 +1485,19 @@
       <para>
         <num>(a)</num>
         <text>Subsection (a) is amended by striking the phrase "order of detention" and inserting the phrase "order of detention, including an order of temporary detention pursuant to subsections (d-1) and (e) of this section" in its place.</text>
-        <codify:find-replace path="(a)" find="order of detention" replace="order of detention, including an order of temporary detention pursuant to subsections (d-1) and (e) of this section" count="1" />
+        <codify:find-replace path="(a)" find="order of detention" replace="order of detention, including an order of temporary detention pursuant to subsections (d-1) and (e) of this section" count="1"/>
       </para>
       <para>
         <num>(b)</num>
         <text>Subsection (b)(1) is amended by striking the phrase "Proceedings for revocation of release may be initiated on motion of the United States Attorney or on the court’s own motion." and inserting the phrase "Proceedings for revocation of release and temporary placement in custody may be initiated at the request of the Pretrial Services Agency, on motion of the prosecutor, or on the court’s own motion." in its place.</text>
-        <codify:find-replace path="(b)|(1)" find="Proceedings for revocation of release may be initiated on motion of the United States Attorney or on the court’s own motion." replace="Proceedings for revocation of release and temporary placement in custody may be initiated at the request of the Pretrial Services Agency, on motion of the prosecutor, or on the court’s own motion." count="1" />
+        <codify:find-replace path="(b)|(1)" find="Proceedings for revocation of release may be initiated on motion of the United States Attorney or on the court’s own motion." replace="Proceedings for revocation of release and temporary placement in custody may be initiated at the request of the Pretrial Services Agency, on motion of the prosecutor, or on the court’s own motion." count="1"/>
       </para>
       <para>
         <num>(c)</num>
         <text>A new subsection (d-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(d)" />
+            <codify:insert after="(d)"/>
             <num>(d-1)</num>
             <para>
               <num>(1)</num>
@@ -1524,17 +1523,17 @@
       <para>
         <num>(a)</num>
         <text>Sections 101, 102, 103, 104, 105, 201, 202, 203, 204, 209, and 210 shall apply upon the inclusion of their fiscal effect in an approved budget and financial plan.</text>
-        <codify:applicability path="§101" date="notfunded" history="false" />
-        <codify:applicability path="§102" date="notfunded" history="false" />
-        <codify:applicability path="§103" date="notfunded" history="false" />
-        <codify:applicability path="§104" date="notfunded" history="false" />
-        <codify:applicability path="§105" date="notfunded" history="false" />
-        <codify:applicability path="§201" date="notfunded" history="false" />
-        <codify:applicability path="§202" date="notfunded" history="false" />
-        <codify:applicability path="§203" date="notfunded" history="false" />
-        <codify:applicability path="§204" date="notfunded" history="false" />
-        <codify:applicability path="§209" date="notfunded" history="false" />
-        <codify:applicability path="§210" date="notfunded" history="false" />
+        <codify:applicability path="§101" date="notfunded" history="false"/>
+        <codify:applicability path="§102" date="notfunded" history="false"/>
+        <codify:applicability path="§103" date="notfunded" history="false"/>
+        <codify:applicability path="§104" date="notfunded" history="false"/>
+        <codify:applicability path="§105" date="notfunded" history="false"/>
+        <codify:applicability path="§201" date="notfunded" history="false"/>
+        <codify:applicability path="§202" date="notfunded" history="false"/>
+        <codify:applicability path="§203" date="notfunded" history="false"/>
+        <codify:applicability path="§204" date="notfunded" history="false"/>
+        <codify:applicability path="§209" date="notfunded" history="false"/>
+        <codify:applicability path="§210" date="notfunded" history="false"/>
       </para>
       <para>
         <num>(b)</num>

@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="Pub. L. 106-554" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pub. L. 106-554">
   <num>106-554</num>
   <heading type="short">Advisory Council on Community Renewal Act</heading>
   <heading type="long">Consolidated Appropriations Act, 2001</heading>
@@ -13,12 +12,12 @@
   <container>
     <prefix>Title</prefix>
     <num>IX</num>
-    <heading />
+    <heading/>
     <section>
       <num>902</num>
       <para>
         <num>(b)</num>
-        <codified:stub doc="D.C. Code" path="§5-563.02" />
+        <codified:stub doc="D.C. Code" path="§5-563.02"/>
       </para>
     </section>
   </container>

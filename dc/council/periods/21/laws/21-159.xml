@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-159" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
-  <codify:organic doc="D.C. Code" path="2|12" num-value="V-C" after="V-B" heading-value="Incarceration to Incorporation Entrepreneurship Program." prefix-value="Subchapter" tag="container" technical="true" history="false" />
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-159">
+  <codify:organic doc="D.C. Code" path="2|12" num-value="V-C" after="V-B" heading-value="Incarceration to Incorporation Entrepreneurship Program." prefix-value="Subchapter" tag="container" technical="true" history="false"/>
   <num type="law">21-159</num>
   <num type="bill">21-463</num>
   <num type="act">21-487</num>
@@ -13,8 +12,8 @@
       <citation type="register">63 DCR 10771</citation>
     </citations>
     <history>
-      <vote date="2016-06-28" reading="First" />
-      <vote date="2016-07-12" reading="Final" />
+      <vote date="2016-06-28" reading="First"/>
+      <vote date="2016-07-12" reading="Final"/>
       <enacted>2016-08-18</enacted>
       <summary>Law 21-159 requires the Department of Employee Services (DOES) and the Department of Small and Local Business Development (DSLBD) to establish a business development program for returning citizens called the Incarceration to Incorporation Entrepreneurship Program (IIEP). Among other things, the program will provide a fast track GED program, business training, and scholarships for returning citizens to enroll in business classes at the University of the District of Columbia. Within one year of the law's applicability date, and by June 1 every year, thereafter, DOES shall report on the operations of the IIEP to the Mayor and Council. FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statement in "Other Documents" tab.</summary>
       <committee>Committee on Business, Consumer, and Regulatory Affairs</committee>
@@ -24,7 +23,7 @@
     <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Incarceration to Incorporation Entrepreneurship Program Act of 2016".</text>
   </section>
   <section>
-    <codify:organic num-value="2-1210.51" />
+    <codify:organic num-value="2-1210.51"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of this act, the term:</text>
@@ -46,7 +45,7 @@
     </para>
   </section>
   <section>
-    <codify:organic num-value="2-1210.52" />
+    <codify:organic num-value="2-1210.52"/>
     <num>3</num>
     <heading>Incarceration to Incorporation Entrepreneurship Program.</heading>
     <para>
@@ -165,7 +164,7 @@
     </para>
   </section>
   <section>
-    <codify:organic num-value="2-1210.53" />
+    <codify:organic num-value="2-1210.53"/>
     <num>4</num>
     <heading>Incarceration to Incorporation Entrepreneurship Fund.</heading>
     <para>
@@ -217,7 +216,7 @@
     </para>
   </section>
   <section>
-    <codify:organic num-value="2-1210.54" />
+    <codify:organic num-value="2-1210.54"/>
     <num>5</num>
     <heading>Reporting requirements.</heading>
     <para>

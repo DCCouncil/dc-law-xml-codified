@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-118" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-118">
   <num type="law">21-118</num>
   <num type="bill">21-69</num>
   <num type="act">21-355</num>
@@ -12,8 +11,8 @@
       <citation type="register">63 DCR 4645</citation>
     </citations>
     <history>
-      <vote date="2016-02-02" reading="First" />
-      <vote date="2016-03-01" reading="Final" />
+      <vote date="2016-02-02" reading="First"/>
+      <vote date="2016-03-01" reading="Final"/>
       <enacted>2016-03-25</enacted>
       <summary>Law 21-118 amends the District's construction laws to provide for the installation of fire escapes, smoke detectors and carbon monoxide detectors, and authorizes the Mayor to adopt fire safety standards and impose various fees or tax liens to regain funds disbursed while repairing unsafe structures that are not owned by the District.  The bill also provides for the condemnation and removal of structures or portion of structures, and authorizes the Mayor to take action without notice to the owner of the building if immediate danger is present.  It creates a Board for Condemnation of Insanitary Buildings to issue orders of condemnation. </summary>
       <committee>Committee on Business, Consumer, and Regulatory Affairs</committee>
@@ -30,7 +29,7 @@
       <text>Sections 2 and 3 (D.C. Official Code §§ 6-751.01 and 6-751.02) are amended to read as follows.</text>
       <include>
         <section>
-          <codify:replace path="§2" />
+          <codify:replace path="§2"/>
           <num>2</num>
           <heading>Definitions.</heading>
           <text>For the purposes of 
@@ -81,7 +80,7 @@
           </para>
         </section>
         <section>
-          <codify:replace path="§3" />
+          <codify:replace path="§3"/>
           <num>3</num>
           <heading>Duty of owner to install detectors.</heading>
           <text>The owner of each new and existing occupied dwelling unit shall be responsible for installing smoke detectors and carbon monoxide detectors in accordance with the Construction Codes.</text>
@@ -92,19 +91,19 @@
     <para>
       <num>(b)</num>
       <text>Sections 3a, 4, 5, 6, 7, 8, 9, 9a, 9b, and 9c (D.C. Official Code §§ 6-751.02a, 6-751.03, 6-751.04, 6-751.05, 6-751.06, 6-751.07, 6-751.08, 6-751.09, 6-751.10, and 6-751.11) are repealed.</text>
-      <codify:repeal path="§3a" />
-      <codify:repeal path="§4" />
-      <codify:repeal path="§5" />
-      <codify:repeal path="§6" />
-      <codify:repeal path="§7" />
-      <codify:repeal path="§8" />
-      <codify:repeal path="§9" />
-      <codify:repeal path="§9a" />
-      <codify:repeal path="§9b" />
-      <codify:repeal path="§9c" />
+      <codify:repeal path="§3a"/>
+      <codify:repeal path="§4"/>
+      <codify:repeal path="§5"/>
+      <codify:repeal path="§6"/>
+      <codify:repeal path="§7"/>
+      <codify:repeal path="§8"/>
+      <codify:repeal path="§9"/>
+      <codify:repeal path="§9a"/>
+      <codify:repeal path="§9b"/>
+      <codify:repeal path="§9c"/>
     </para>
     <para>
-      <codify:ignore />
+      <codify:ignore/>
       <num>(c)</num>
       <text>Sections 10 through 15 (24 DCR 9064) are repealed.</text>
     </para>
@@ -117,7 +116,7 @@
       <text>Section 1 (D.C. Official Code § 6-801) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§1" />
+          <codify:replace path="§1"/>
           <num>1</num>
           <heading> Unsafe structure or excavation – public safety.</heading>
           <para>
@@ -174,14 +173,14 @@
     <para>
       <num>(b)</num>
       <text>Section 2 (D.C. Official Code § 6-802) is repealed.</text>
-      <codify:repeal path="§2" />
+      <codify:repeal path="§2"/>
     </para>
     <para>
       <num>(c)</num>
       <text>Section 3 (D.C. Official Code § 6-803) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§3" />
+          <codify:replace path="§3"/>
           <num>3</num>
           <heading>Unsafe structure or excavation -- Failure of owner to make safe.</heading>
           <text>Whenever a responsible party to whom notice has been provided pursuant to 
@@ -207,12 +206,12 @@
     <para>
       <num>(d)</num>
       <text>Section 5(a)(5) (D.C. Official Code § 6-807(a)(5)) is amended by striking the phrase "effected, then if published on 3 consecutive days in a daily newspaper published in the District of Columbia; or" and inserting the phrase "effected, or if no address is known or can be ascertained by reasonable diligence, by publishing the notice on 3 consecutive days in a daily newspaper published in the District of Columbia or by posting a copy of the notice in a conspicuous place in or about the structure affected by such notice; or" in its place.</text>
-      <codify:find-replace technical="true" path="§7|(a)" find="effected, then if published on 3 consecutive days in a daily newspaper published in the District of Columbia; or" replace="effected, or if no address is known or can be ascertained by reasonable diligence, by publishing the notice on 3 consecutive days in a daily newspaper published in the District of Columbia or by posting a copy of the notice in a conspicuous place in or about the structure affected by such notice; or" count="1" />
+      <codify:find-replace technical="true" path="§7|(a)" find="effected, then if published on 3 consecutive days in a daily newspaper published in the District of Columbia; or" replace="effected, or if no address is known or can be ascertained by reasonable diligence, by publishing the notice on 3 consecutive days in a daily newspaper published in the District of Columbia or by posting a copy of the notice in a conspicuous place in or about the structure affected by such notice; or" count="1"/>
     </para>
     <para>
       <num>(e)</num>
       <text>Section 8 (D.C. Official Code § 6-808) is amended  by striking the phrase "within 5 days after such notice has been served upon such owner or other interested person, such building" and inserting the phrase "within the period of time specified in the notice, the building" in its place.</text>
-      <codify:find-replace path="§8" find="within 5 days after such notice has been served upon such owner or other interested person, such building" replace="within the period of time specified in the notice, the building" count="1" />
+      <codify:find-replace path="§8" find="within 5 days after such notice has been served upon such owner or other interested person, such building" replace="within the period of time specified in the notice, the building" count="1"/>
     </para>
   </section>
   <section codify:doc="Stat. 59-1-ch2073">
@@ -221,14 +220,14 @@
     <para>
       <num>(a)</num>
       <text>Section 2(a)(1) (D.C. Official Code § 6-902(a)(1)) is amended by striking the phrase "to examine the habitability and sanitary condition of buildings in the District of Columbia, to determine which such buildings are in such insanitary condition as to endanger the lives or health of the occupants thereof or of persons living in the vicinity, and".</text>
-      <codify:find-replace path="§2|(a)|(1)" find="to examine the habitability and sanitary condition of buildings in the District of Columbia, to determine which such buildings are in such insanitary condition as to endanger the lives or health of the occupants thereof or of persons living in the vicinity, and" replace="" count="1" />
+      <codify:find-replace path="§2|(a)|(1)" find="to examine the habitability and sanitary condition of buildings in the District of Columbia, to determine which such buildings are in such insanitary condition as to endanger the lives or health of the occupants thereof or of persons living in the vicinity, and" replace="" count="1"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 3 (D.C. Official Code § 6-903) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§3" />
+          <codify:replace path="§3"/>
           <num>3</num>
           <heading>Condemnation procedure; occupancy of condemned buildings.</heading>
           <para>
@@ -285,7 +284,7 @@
       </text>
       <include>
         <para>
-          <codify:replace path="§10|(a)" />
+          <codify:replace path="§10|(a)"/>
           <num>(a)</num>
           <para>
             <num>(1)</num>
@@ -352,7 +351,7 @@
       <text>Sections 2 and 3 (D.C. Official Code § 6-1401 and 6-1402) are amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§2" />
+          <codify:replace path="§2"/>
           <num>2</num>
           <heading>Definitions.</heading>
           <text>For the purposes of 
@@ -371,7 +370,8 @@
           <para>
             <num>(3)</num>
             <text>"Construction Codes Supplement" means the additions, insertions, deletions, and changes to the Model Codes adopted by the District pursuant to 
-              <code-cite path="§10">section 10.</code-cite></text>
+              <code-cite path="§10">section 10.</code-cite>
+            </text>
           </para>
           <para>
             <num>(4)</num>
@@ -400,7 +400,8 @@
           <para>
             <num>(10)</num>
             <text>"Model Codes" means the codes published by the International Code Council, or by a comparable nationally recognized and accepted code-development organization, that are adopted by the District pursuant to 
-              <code-cite path="§10">section 10.</code-cite></text>
+              <code-cite path="§10">section 10.</code-cite>
+            </text>
           </para>
           <para>
             <num>(11)</num>
@@ -412,7 +413,7 @@
           </para>
         </section>
         <section>
-          <codify:replace path="§3" />
+          <codify:replace path="§3"/>
           <num>3</num>
           <heading>Approval.</heading>
           <text>The Council approves the Construction Codes pursuant to the procedures set forth in 
@@ -427,7 +428,7 @@
       <text>Section 4 (D.C. Official Code § 6-1403) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§4" />
+          <codify:replace path="§4"/>
           <num>4</num>
           <heading>Scope.</heading>
           <para>
@@ -522,7 +523,7 @@
       </text>
       <include>
         <section>
-          <codify:replace path="§5" />
+          <codify:replace path="§5"/>
           <num>5</num>
           <heading>Intent.</heading>
           <text>The Construction Codes shall be construed to secure their expressed intent, which is to ensure public safety, health, and welfare by regulating and governing the conditions and maintenance of premises, buildings, and structures, and mechanical, plumbing, fuel gas and electrical equipment and systems, including by providing standards for structural strength, energy and water conservation, accessibility to persons with disabilities, adequate egress facilities, sanitary equipment, light, ventilation, and fire safety, and the issuance of permits, and, in general, to secure safety to life and property from all hazards incident to the design, construction, erection, repair, removal, demolition, maintenance, use, and occupancy of buildings, structures, and premises, and related equipment and systems.</text>
@@ -535,7 +536,7 @@
       <text>Section 6a (D.C. Official Code § 6-1405.01) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§6a" />
+          <codify:replace path="§6a"/>
           <num>6a</num>
           <heading>Administration of construction regulations.</heading>
           <para>
@@ -604,7 +605,7 @@
       <text>Section 6b (D.C. Official Code § 6-1405.02) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§6b" />
+          <codify:replace path="§6b"/>
           <num>6b</num>
           <heading>Third party plan review.</heading>
           <para>
@@ -684,7 +685,7 @@
       <text>
         Section 6c (D.C. Official Code § 6-1405.03) is repealed.
       </text>
-      <codify:repeal path="§6c" />
+      <codify:repeal path="§6c"/>
     </para>
     <para>
       <num>(g)</num>
@@ -693,7 +694,7 @@
       </text>
       <include>
         <section>
-          <codify:replace path="§6d" />
+          <codify:replace path="§6d"/>
           <num>6d</num>
           <heading>Third party inspections.</heading>
           <para>
@@ -764,14 +765,14 @@
       <para>
         <num>(2)</num>
         <text>The newly designated subsection (a) is amended by striking the phrase "The Office of Zoning" and inserting the phrase "Except as provided in subsection (b) of this section, the Office of Zoning" in its place.</text>
-        <codify:find-replace path="(a)" find="The Office of Zoning" replace="Except as provided in subsection (b) of this section, the Office of Zoning" count="1" />
+        <codify:find-replace path="(a)" find="The Office of Zoning" replace="Except as provided in subsection (b) of this section, the Office of Zoning" count="1"/>
       </para>
       <para>
         <num>(3)</num>
         <text>A new subsection (b) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert />
+            <codify:insert/>
             <num>(b)</num>
             <text>The Building Code Official may amend the administrative fees for the issuance of compliance letters by rulemaking pursuant to 
               <code-cite doc="D.C. Code" path="|2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1202; D.C. Official Code § 2-501 et seq.)</code-cite>.
@@ -786,13 +787,12 @@
       <text>
         Section 9 (D.C. Official Code § 6-1408) is amended by striking the phrase "separately." and inserting the phrase "or be posted electronically on the website of the Secretary of the District of Columbia or other designated District government website." in its place.
       </text>
-      <codify:find-replace path="§9" find="separately." replace="or be posted electronically on the website of the Secretary of the District of Columbia or other designated District government website." count="1" />
+      <codify:find-replace path="§9" find="separately." replace="or be posted electronically on the website of the Secretary of the District of Columbia or other designated District government website." count="1"/>
     </para>
   </section>
   <section codify:doc="Stat. 59-1-ch1626" codify:path="§1">
     <num>6</num>
-    <text>
-      <code-cite path="§1">Section 1 of An Act To provide for the abatement of nuisances in the District of Columbia by the Commissioners of said District, and for other purposes, approved April 14, 1906 (34 Stat. 114; D.C. Official Code § 42-3131.01)</code-cite>, is amended as follows:
+    <text><code-cite path="§1">Section 1 of An Act To provide for the abatement of nuisances in the District of Columbia by the Commissioners of said District, and for other purposes, approved April 14, 1906 (34 Stat. 114; D.C. Official Code § 42-3131.01)</code-cite>, is amended as follows:
     </text>
     <para codify:path="(a)">
       <num>(a)</num>
@@ -800,14 +800,14 @@
       <para>
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the phrase "Except as provided in paragraph 2" and inserting the phrase "Except as provided in paragraphs (2) and (3)" in its place.</text>
-        <codify:find-replace path="(1)" find="Except as provided in paragraph (2)" replace="Except as provided in paragraphs (2) and (3)" count="1" />
+        <codify:find-replace path="(1)" find="Except as provided in paragraph (2)" replace="Except as provided in paragraphs (2) and (3)" count="1"/>
       </para>
       <para>
         <num>(2)</num>
         <text>A new paragraph (3) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(2)" />
+            <codify:insert after="(2)"/>
             <num>(3)</num>
             <text>Summary correction of certain violations without prior notice to the owner is authorized pursuant to subsection (c)(1) of this section.</text>
           </para>
@@ -822,7 +822,7 @@
         <para>
           <num>(c)</num>
           <para>
-            <codify:replace path="(c)|(1)" />
+            <codify:replace path="(c)|(1)"/>
             <num>(1)</num>
             <para>
               <num>(A)</num>
@@ -923,21 +923,21 @@
       <para>
         <num>(1)</num>
         <text>Sections 1 through 4 (D.C. Official Code §§ 6-601.01 through 6-601.04) are repealed.</text>
-        <codify:repeal path="§1" />
-        <codify:repeal path="§2" />
-        <codify:repeal path="§3" />
-        <codify:repeal path="§4" />
+        <codify:repeal path="§1"/>
+        <codify:repeal path="§2"/>
+        <codify:repeal path="§3"/>
+        <codify:repeal path="§4"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Section 6 (D.C. Official Code § 6-601.06) is repealed.</text>
-        <codify:repeal path="§6" />
+        <codify:repeal path="§6"/>
       </para>
     </para>
     <para>
       <num>(b)</num>
       <text>An Act To require the erection of fire escapes in certain buildings in the District of Columbia, and for other purposes, approved March 19, 1906 (34 Stat. 70; D.C. Official Code § 6-701 et seq.), is repealed.</text>
-      <codify:repeal doc="Stat. 59-1-ch957" />
+      <codify:repeal doc="Stat. 59-1-ch957"/>
     </para>
   </section>
   <section>

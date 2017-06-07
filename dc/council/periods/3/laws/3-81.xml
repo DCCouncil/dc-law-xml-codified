@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 3-81" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 3-81">
   <num type="law">3-81</num>
   <meta>
     <effective>1980-08-07</effective>
@@ -15,7 +14,7 @@
     <num>2</num>
     <para>
       <num>(ff)</num>
-      <codified:stub doc="D.C. Code" path="§1-628.05" />
+      <codified:stub doc="D.C. Code" path="§1-628.05"/>
     </para>
   </section>
 </document>

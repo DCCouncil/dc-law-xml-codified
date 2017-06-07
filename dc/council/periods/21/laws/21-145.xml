@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-145" codify:applicability="notfunded" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-145" codify:applicability="notfunded">
   <num type="law">21-145</num>
   <num type="bill">21-178</num>
   <num type="act">21-430</num>
@@ -12,8 +11,8 @@
       <citation type="register">63 DCR 9279</citation>
     </citations>
     <history>
-      <vote date="2016-05-03" reading="First" />
-      <vote date="2016-06-07" reading="Final" />
+      <vote date="2016-05-03" reading="First"/>
+      <vote date="2016-06-07" reading="Final"/>
       <enacted>2016-06-29</enacted>
       <summary>Law 21-145 exempts New Bethany Baptist Church from future property tax assessments. The bill also relieves New Bethany Baptist Church of existing property-tax liability resulting from accrued taxes, fees, penalties, fines, or interest. The property is located on Lots 31, 32, 806, Square 339 and Lots 23, 71, 72, 811, 812, Square 367.</summary>
       <committee>Committee on Finance and Revenue</committee>
@@ -26,7 +25,7 @@
     <num>2</num>
     <text>Chapter 10 of Title 47 of the District of Columbia Official Code is amended as follows:</text>
     <para>
-      <codify:ignore />
+      <codify:ignore/>
       <num>(a)</num>
       <text>The table of contents is amended by adding a new section designation to read as follows:</text>
       <include>
@@ -44,7 +43,7 @@
       <text>A new section 47-1098 is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert after="§47-1097" />
+          <codify:insert after="§47-1097"/>
           <num>47-1098</num>
           <heading>New Bethany Baptist Church; Lots 31, 32, and 806, Square 339; and Lots 23, 71, 72, 811, and 812, Square 367.</heading>
           <para>
@@ -123,7 +122,7 @@
     </div>
   </section>
   <section>
-    <codify:ignore />
+    <codify:ignore/>
     <num>3</num>
     <heading>Equitable tax relief.</heading>
     <text>The Council orders that all unpaid real property taxes, fees, penalties, fines, and interest assessed against the real property described as Lots 31, 32, and 806, Square 339 and Lots 23, 71, 72, 811, and 812, Square 367 beginning with tax year 2009 through the 1st day of the month following the effective date of this act and any sales or income taxes outstanding from public parking sales be forgiven and that any payment already made for this period be refunded.</text>
@@ -134,7 +133,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability date="notfunded" history="false" />
+      <codify:applicability date="notfunded" history="false"/>
     </para>
     <para>
       <num>(b)</num>

@@ -1,8 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<collection name="113" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<collection xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="113">
   <heading>The 113th Congress</heading>
   <subheading>Public Laws</subheading>
-  <xi:include href="./laws/public/113-103.xml" />
-  <xi:include href="./laws/public/113-71.xml" />
-  <xi:include href="./laws/public/113-8.xml" />
+  <xi:include href="./laws/public/113-103.xml"/>
+  <xi:include href="./laws/public/113-71.xml"/>
+  <xi:include href="./laws/public/113-8.xml"/>
 </collection>

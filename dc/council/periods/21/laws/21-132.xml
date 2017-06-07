@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-132" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-132">
   <num type="law">21-132</num>
   <num type="bill">21-230</num>
   <num type="act">21-385</num>
@@ -12,8 +11,8 @@
       <citation type="register">63 DCR 7130</citation>
     </citations>
     <history>
-      <vote date="2016-04-05" reading="First" />
-      <vote date="2016-04-19" reading="Final" />
+      <vote date="2016-04-05" reading="First"/>
+      <vote date="2016-04-19" reading="Final"/>
       <enacted>2016-05-04</enacted>
       <summary>Law 21-132 requires that a hospital provide each patient or authorized representative an opportunity to designate a lay caregiver as soon as practicable, following the patient's inpatient admission into a hospital and before the patient's discharge.  The hospital is also required to notify and meet with the designated lay caregiver along with the patient to discuss the plan of care before the patient's discharge.</summary>
       <committee>Committee on Health and Human Services</committee>
@@ -26,7 +25,7 @@
     <num>2</num>
     <text>Chapter 22 of Title 21 of the District of Columbia Official Code is amended as follows:</text>
     <para>
-      <codify:ignore />
+      <codify:ignore/>
       <num>(a)</num>
       <text>The table of contents is amended by adding a new Subchapter III to read as follows:</text>
       <include>
@@ -65,7 +64,7 @@
       <text>A new Subchapter III is added to read as follows:</text>
       <include>
         <container>
-          <codify:insert />
+          <codify:insert/>
           <prefix>Subchapter</prefix>
           <num>III</num>
           <heading>Hospital Discharge Planning.</heading>

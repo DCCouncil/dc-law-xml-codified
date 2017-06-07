@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-2903</num>
   <heading>Foundation level.</heading>
   <text>The foundation level or cost of providing public education services is $ 9,492 per student for Fiscal Year 2015 and subsequent fiscal years. The foundation level may be revised in subsequent years in accordance with provisions for inflation, revenue unavailability, and periodic review and revision of the Formula, pursuant to §§ <cite path="§38-2909">38-2909</cite>, <cite path="§38-2910">38-2910</cite>, and <cite path="§38-2911">38-2911</cite>.</text>
@@ -27,28 +26,17 @@
     <annotation doc="D.C. Law 20-61" type="History">Dec. 24, 2013, D.C. Law 20-61, § 4002(a), 60 DCR 12472</annotation>
     <annotation doc="D.C. Law 20-155" type="History">Feb. 26, 2015, D.C. Law 20-155, § 4002(a), 61 DCR 9990</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-2903.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> substituted “$6,555 per student for 2003” for “$5,500 per-student for FY 1999,”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-307">D.C. Law 14-307</cite> substituted “$6,419” for “$6,555”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> substituted “$6,551 per student for FY 2004” for “$6,419 per student for 2003”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> substituted “$6,903.60 per student for FY 2005 and subsequent fiscal years” for “$6,551 per student for 2004”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-33">D.C. Law 16-33</cite> substituted “7,307.47 per student for FY 2006” for “$6,903.60 per student for FY 2005”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> substituted “$8,002.06 per student for FY 2007” for “$7,307.47 per student for FY 2006”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> substituted “$8,322.00 per student for fiscal year 2008” for “$8,002.06 per student for FY 2007”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> substituted “$8,770 per student for fiscal year 2009” for “$8,322.00 per student for fiscal year 2008”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> substituted “$8,945 per student for fiscal year 2011” for “$8,770 per student for fiscal year 2009”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> substituted “$8,770 per student for fiscal year 2011” for “$8,945 per student for fiscal year 2011”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> substituted “$8,945 per student for fiscal year 2012” for “$8,770 per student for fiscal year 2011”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-190">D.C. Law 14-190</cite> substituted “$6,555 per student for 2003” for “$5,500 per-student for FY 1999,”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-307">D.C. Law 14-307</cite> substituted “$6,419” for “$6,555”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-39">D.C. Law 15-39</cite> substituted “$6,551 per student for FY 2004” for “$6,419 per student for 2003”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> substituted “$6,903.60 per student for FY 2005 and subsequent fiscal years” for “$6,551 per student for 2004”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-33">D.C. Law 16-33</cite> substituted “7,307.47 per student for FY 2006” for “$6,903.60 per student for FY 2005”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-192">D.C. Law 16-192</cite> substituted “$8,002.06 per student for FY 2007” for “$7,307.47 per student for FY 2006”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> substituted “$8,322.00 per student for fiscal year 2008” for “$8,002.06 per student for FY 2007”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> substituted “$8,770 per student for fiscal year 2009” for “$8,322.00 per student for fiscal year 2008”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> substituted “$8,945 per student for fiscal year 2011” for “$8,770 per student for fiscal year 2009”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> substituted “$8,770 per student for fiscal year 2011” for “$8,945 per student for fiscal year 2011”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> substituted “$8,945 per student for fiscal year 2012” for “$8,770 per student for fiscal year 2011”.</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> substituted “$9,124 per student for fiscal year 2013” for “$8,945 per student for fiscal year 2012” in the first sentence.</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> substituted “$9,306 per student for fiscal year 2014” for “$9,124 per student for fiscal year 2013” in the first sentence.</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> substituted “$ 9,492 per student for Fiscal Year 2015” for “$ 9,306 per student for fiscal year 2014” in the first sentence.</annotation>

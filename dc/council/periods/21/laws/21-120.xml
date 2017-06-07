@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-120" codify:applicability="notfunded" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-120" codify:applicability="notfunded">
   <num type="law">21-120</num>
   <num type="bill">21-361</num>
   <num type="act">21-374</num>
@@ -12,8 +11,8 @@
       <citation type="register">63 DCR 6856</citation>
     </citations>
     <history>
-      <vote date="2016-03-01" reading="First" />
-      <vote date="2016-04-05" reading="Final" />
+      <vote date="2016-03-01" reading="First"/>
+      <vote date="2016-04-05" reading="Final"/>
       <enacted>2016-04-27</enacted>
       <summary>Law 21-120 requires the Office of the State Superintendent for Education (OSSE) to adopt a rule requiring all District teachers and principals in public and charter schools to undergo training on suicide prevention, intervention, and postvention every two years. It requires the Office of the State Superintendent for Education (OSSE) to develop and publish online written guidance to assist LEAs in developing policies and procedures for handling various aspects of student mental and behavioral health. OSSE must examine and evaluate its guidance every 5 years, at minimum, and notify LEAs within 30 days of updating its guidance. The law also requires OSSE to establish and implement a pilot program to collect school climate data (data regarding engagement, safety, and environment) through school climate surveys, and report school climate data to the Mayor and Council annually.</summary>
       <committee>Committee on Education</committee>
@@ -31,19 +30,19 @@
       <para>
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the word "and" at the end.</text>
-        <codify:find-replace path="(1)" find="and" replace="" count="1" position="last" />
+        <codify:find-replace path="(1)" find="and" replace="" count="1" position="last"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Paragraph (2) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace path="(2)" find="." replace="; and" count="1" />
+        <codify:find-replace path="(2)" find="." replace="; and" count="1"/>
       </para>
       <para>
         <num>(3)</num>
         <text>A new paragraph (3) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert />
+            <codify:insert/>
             <num>(3)</num>
             <text>Recognize the warning signs and risk factors for youth suicide and implement best practices for suicide prevention, suicide intervention, and suicide postvention.</text>
           </para>
@@ -54,14 +53,14 @@
     <para>
       <num>(b)</num>
       <text>Subsection (b)(1) is amended by striking the phrase "Starting October 1, 2014, completion of the program shall be mandatory for all:" and inserting the phrase "Starting October 1, 2016, completion of the program shall be mandatory once every 2 years for all:" in its place.</text>
-      <codify:find-replace path="(b)|(1)" find="Starting October 1, 2014, completion of the program shall be mandatory for all:" replace="Starting October 1, 2016, completion of the program shall be mandatory once every 2 years for all:" count="1" />
+      <codify:find-replace path="(b)|(1)" find="Starting October 1, 2014, completion of the program shall be mandatory for all:" replace="Starting October 1, 2016, completion of the program shall be mandatory once every 2 years for all:" count="1"/>
     </para>
     <para>
       <num>(c)</num>
       <text>A new subsection (e) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert />
+          <codify:insert/>
           <num>(e)</num>
           <text>For the purposes of this section, the term:</text>
           <para>
@@ -148,19 +147,19 @@
     <para>
       <num>(a)</num>
       <text>Paragraph (23) is amended by striking the word "and" at the end.</text>
-      <codify:find-replace path="(23)" find="and" replace="" count="1" position="last" />
+      <codify:find-replace path="(23)" find="and" replace="" count="1" position="last"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Paragraph (24)(F) is amended by striking the period and inserting a semicolon in its place.</text>
-      <codify:find-replace path="(24)|(F)" find="." replace=";" count="1" />
+      <codify:find-replace path="(24)|(F)" find="." replace=";" count="1"/>
     </para>
     <para>
       <num>(c)</num>
       <text>New paragraphs (25), (26), and (27) are added to read as follows:</text>
       <include>
         <para>
-          <codify:insert />
+          <codify:insert/>
           <num>(25)</num>
           <para>
             <num>(A)</num>
@@ -276,7 +275,7 @@
           </para>
         </para>
         <para>
-          <codify:insert />
+          <codify:insert/>
           <num>(26)</num>
           <para>
             <num>(A)</num>
@@ -308,7 +307,7 @@
           </para>
         </para>
         <para>
-          <codify:insert />
+          <codify:insert/>
           <num>(27)</num>
           <para>
             <num>(A)</num>
@@ -375,7 +374,7 @@
     </div>
   </section>
   <section>
-    <codify:applicability date="notfunded" history="false" />
+    <codify:applicability date="notfunded" history="false"/>
     <num>4</num>
     <heading>Applicability.</heading>
     <para>

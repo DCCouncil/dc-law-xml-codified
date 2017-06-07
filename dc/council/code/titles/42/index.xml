@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<container containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<container xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <prefix>Title</prefix>
   <num>42</num>
   <heading>Real Property.</heading>
@@ -16,164 +15,164 @@
         <prefix>Part</prefix>
         <num>A</num>
         <heading>Acknowledgments of Deeds.</heading>
-        <xi:include href="./sections/42-101.xml" />
+        <xi:include href="./sections/42-101.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>B</num>
         <heading>Acknowledgment in U.S. Territories.</heading>
-        <xi:include href="./sections/42-111.xml" />
-        <xi:include href="./sections/42-112.xml" />
+        <xi:include href="./sections/42-111.xml"/>
+        <xi:include href="./sections/42-112.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>C</num>
         <heading>Repealed Provisions.</heading>
-        <xi:include href="./sections/42-121.xml" />
-        <xi:include href="./sections/42-122.xml" />
-        <xi:include href="./sections/42-123.xml" />
-        <xi:include href="./sections/42-124.xml" />
-        <xi:include href="./sections/42-125.xml" />
-        <xi:include href="./sections/42-126.xml" />
-        <xi:include href="./sections/42-127.xml" />
-        <xi:include href="./sections/42-128.xml" />
-        <xi:include href="./sections/42-129.xml" />
+        <xi:include href="./sections/42-121.xml"/>
+        <xi:include href="./sections/42-122.xml"/>
+        <xi:include href="./sections/42-123.xml"/>
+        <xi:include href="./sections/42-124.xml"/>
+        <xi:include href="./sections/42-125.xml"/>
+        <xi:include href="./sections/42-126.xml"/>
+        <xi:include href="./sections/42-127.xml"/>
+        <xi:include href="./sections/42-128.xml"/>
+        <xi:include href="./sections/42-129.xml"/>
       </container>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Uniform Notarial Acts.</heading>
-      <xi:include href="./sections/42-141.xml" />
-      <xi:include href="./sections/42-142.xml" />
-      <xi:include href="./sections/42-143.xml" />
-      <xi:include href="./sections/42-144.xml" />
-      <xi:include href="./sections/42-145.xml" />
-      <xi:include href="./sections/42-146.xml" />
-      <xi:include href="./sections/42-147.xml" />
-      <xi:include href="./sections/42-148.xml" />
+      <xi:include href="./sections/42-141.xml"/>
+      <xi:include href="./sections/42-142.xml"/>
+      <xi:include href="./sections/42-143.xml"/>
+      <xi:include href="./sections/42-144.xml"/>
+      <xi:include href="./sections/42-145.xml"/>
+      <xi:include href="./sections/42-146.xml"/>
+      <xi:include href="./sections/42-147.xml"/>
+      <xi:include href="./sections/42-148.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Conservation Easements.</heading>
-    <xi:include href="./sections/42-201.xml" />
-    <xi:include href="./sections/42-202.xml" />
-    <xi:include href="./sections/42-202.01.xml" />
-    <xi:include href="./sections/42-203.xml" />
-    <xi:include href="./sections/42-204.xml" />
-    <xi:include href="./sections/42-205.xml" />
+    <xi:include href="./sections/42-201.xml"/>
+    <xi:include href="./sections/42-202.xml"/>
+    <xi:include href="./sections/42-202.01.xml"/>
+    <xi:include href="./sections/42-203.xml"/>
+    <xi:include href="./sections/42-204.xml"/>
+    <xi:include href="./sections/42-205.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>3</num>
     <heading>Conveyable Estates and Methods of Conveyance.</heading>
-    <xi:include href="./sections/42-301.xml" />
-    <xi:include href="./sections/42-302.xml" />
-    <xi:include href="./sections/42-303.xml" />
-    <xi:include href="./sections/42-304.xml" />
-    <xi:include href="./sections/42-305.xml" />
-    <xi:include href="./sections/42-306.xml" />
-    <xi:include href="./sections/42-307.xml" />
+    <xi:include href="./sections/42-301.xml"/>
+    <xi:include href="./sections/42-302.xml"/>
+    <xi:include href="./sections/42-303.xml"/>
+    <xi:include href="./sections/42-304.xml"/>
+    <xi:include href="./sections/42-305.xml"/>
+    <xi:include href="./sections/42-306.xml"/>
+    <xi:include href="./sections/42-307.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>4</num>
     <heading>Deed Effective and Recordation Dates.</heading>
-    <xi:include href="./sections/42-401.xml" />
-    <xi:include href="./sections/42-402.xml" />
-    <xi:include href="./sections/42-403.xml" />
-    <xi:include href="./sections/42-404.xml" />
-    <xi:include href="./sections/42-405.xml" />
-    <xi:include href="./sections/42-406.xml" />
-    <xi:include href="./sections/42-407.xml" />
-    <xi:include href="./sections/42-408.xml" />
-    <xi:include href="./sections/42-409.xml" />
-    <xi:include href="./sections/42-410.xml" />
+    <xi:include href="./sections/42-401.xml"/>
+    <xi:include href="./sections/42-402.xml"/>
+    <xi:include href="./sections/42-403.xml"/>
+    <xi:include href="./sections/42-404.xml"/>
+    <xi:include href="./sections/42-405.xml"/>
+    <xi:include href="./sections/42-406.xml"/>
+    <xi:include href="./sections/42-407.xml"/>
+    <xi:include href="./sections/42-408.xml"/>
+    <xi:include href="./sections/42-409.xml"/>
+    <xi:include href="./sections/42-410.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>5</num>
     <heading>Estates in Land.</heading>
-    <xi:include href="./sections/42-501.xml" />
-    <xi:include href="./sections/42-502.xml" />
-    <xi:include href="./sections/42-503.xml" />
-    <xi:include href="./sections/42-504.xml" />
-    <xi:include href="./sections/42-505.xml" />
-    <xi:include href="./sections/42-506.xml" />
-    <xi:include href="./sections/42-507.xml" />
-    <xi:include href="./sections/42-508.xml" />
-    <xi:include href="./sections/42-509.xml" />
-    <xi:include href="./sections/42-510.xml" />
-    <xi:include href="./sections/42-511.xml" />
-    <xi:include href="./sections/42-512.xml" />
-    <xi:include href="./sections/42-513.xml" />
-    <xi:include href="./sections/42-514.xml" />
-    <xi:include href="./sections/42-515.xml" />
-    <xi:include href="./sections/42-516.xml" />
-    <xi:include href="./sections/42-517.xml" />
-    <xi:include href="./sections/42-518.xml" />
-    <xi:include href="./sections/42-519.xml" />
-    <xi:include href="./sections/42-520.xml" />
-    <xi:include href="./sections/42-521.xml" />
-    <xi:include href="./sections/42-522.xml" />
-    <xi:include href="./sections/42-523.xml" />
+    <xi:include href="./sections/42-501.xml"/>
+    <xi:include href="./sections/42-502.xml"/>
+    <xi:include href="./sections/42-503.xml"/>
+    <xi:include href="./sections/42-504.xml"/>
+    <xi:include href="./sections/42-505.xml"/>
+    <xi:include href="./sections/42-506.xml"/>
+    <xi:include href="./sections/42-507.xml"/>
+    <xi:include href="./sections/42-508.xml"/>
+    <xi:include href="./sections/42-509.xml"/>
+    <xi:include href="./sections/42-510.xml"/>
+    <xi:include href="./sections/42-511.xml"/>
+    <xi:include href="./sections/42-512.xml"/>
+    <xi:include href="./sections/42-513.xml"/>
+    <xi:include href="./sections/42-514.xml"/>
+    <xi:include href="./sections/42-515.xml"/>
+    <xi:include href="./sections/42-516.xml"/>
+    <xi:include href="./sections/42-517.xml"/>
+    <xi:include href="./sections/42-518.xml"/>
+    <xi:include href="./sections/42-519.xml"/>
+    <xi:include href="./sections/42-520.xml"/>
+    <xi:include href="./sections/42-521.xml"/>
+    <xi:include href="./sections/42-522.xml"/>
+    <xi:include href="./sections/42-523.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>6</num>
     <heading>Forms; Covenants and Warranties.</heading>
-    <xi:include href="./sections/42-601.xml" />
-    <xi:include href="./sections/42-602.xml" />
-    <xi:include href="./sections/42-603.xml" />
-    <xi:include href="./sections/42-604.xml" />
-    <xi:include href="./sections/42-605.xml" />
-    <xi:include href="./sections/42-606.xml" />
-    <xi:include href="./sections/42-607.xml" />
-    <xi:include href="./sections/42-608.xml" />
-    <xi:include href="./sections/42-609.xml" />
+    <xi:include href="./sections/42-601.xml"/>
+    <xi:include href="./sections/42-602.xml"/>
+    <xi:include href="./sections/42-603.xml"/>
+    <xi:include href="./sections/42-604.xml"/>
+    <xi:include href="./sections/42-605.xml"/>
+    <xi:include href="./sections/42-606.xml"/>
+    <xi:include href="./sections/42-607.xml"/>
+    <xi:include href="./sections/42-608.xml"/>
+    <xi:include href="./sections/42-609.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>7</num>
     <heading>Interpretation of Instruments.</heading>
-    <xi:include href="./sections/42-701.xml" />
-    <xi:include href="./sections/42-702.xml" />
-    <xi:include href="./sections/42-703.xml" />
-    <xi:include href="./sections/42-704.xml" />
-    <xi:include href="./sections/42-705.xml" />
+    <xi:include href="./sections/42-701.xml"/>
+    <xi:include href="./sections/42-702.xml"/>
+    <xi:include href="./sections/42-703.xml"/>
+    <xi:include href="./sections/42-704.xml"/>
+    <xi:include href="./sections/42-705.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>8</num>
     <heading>Mortgages and Deeds of Trust.</heading>
-    <xi:include href="./sections/42-801.xml" />
-    <xi:include href="./sections/42-802.xml" />
-    <xi:include href="./sections/42-803.xml" />
-    <xi:include href="./sections/42-804.xml" />
-    <xi:include href="./sections/42-805.xml" />
-    <xi:include href="./sections/42-806.xml" />
-    <xi:include href="./sections/42-807.xml" />
-    <xi:include href="./sections/42-808.xml" />
-    <xi:include href="./sections/42-809.xml" />
-    <xi:include href="./sections/42-810.xml" />
-    <xi:include href="./sections/42-811.xml" />
-    <xi:include href="./sections/42-812.xml" />
-    <xi:include href="./sections/42-813.xml" />
-    <xi:include href="./sections/42-814.xml" />
-    <xi:include href="./sections/42-815.xml" />
-    <xi:include href="./sections/42-815.01.xml" />
-    <xi:include href="./sections/42-815.02.xml" />
-    <xi:include href="./sections/42-815.03.xml" />
-    <xi:include href="./sections/42-815.04.xml" />
-    <xi:include href="./sections/42-816.xml" />
-    <xi:include href="./sections/42-817.xml" />
-    <xi:include href="./sections/42-818.xml" />
-    <xi:include href="./sections/42-818.01.xml" />
-    <xi:include href="./sections/42-818.02.xml" />
-    <xi:include href="./sections/42-819.xml" />
-    <xi:include href="./sections/42-820.xml" />
+    <xi:include href="./sections/42-801.xml"/>
+    <xi:include href="./sections/42-802.xml"/>
+    <xi:include href="./sections/42-803.xml"/>
+    <xi:include href="./sections/42-804.xml"/>
+    <xi:include href="./sections/42-805.xml"/>
+    <xi:include href="./sections/42-806.xml"/>
+    <xi:include href="./sections/42-807.xml"/>
+    <xi:include href="./sections/42-808.xml"/>
+    <xi:include href="./sections/42-809.xml"/>
+    <xi:include href="./sections/42-810.xml"/>
+    <xi:include href="./sections/42-811.xml"/>
+    <xi:include href="./sections/42-812.xml"/>
+    <xi:include href="./sections/42-813.xml"/>
+    <xi:include href="./sections/42-814.xml"/>
+    <xi:include href="./sections/42-815.xml"/>
+    <xi:include href="./sections/42-815.01.xml"/>
+    <xi:include href="./sections/42-815.02.xml"/>
+    <xi:include href="./sections/42-815.03.xml"/>
+    <xi:include href="./sections/42-815.04.xml"/>
+    <xi:include href="./sections/42-816.xml"/>
+    <xi:include href="./sections/42-817.xml"/>
+    <xi:include href="./sections/42-818.xml"/>
+    <xi:include href="./sections/42-818.01.xml"/>
+    <xi:include href="./sections/42-818.02.xml"/>
+    <xi:include href="./sections/42-819.xml"/>
+    <xi:include href="./sections/42-820.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -183,185 +182,185 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Definitions. [Repealed].</heading>
-      <xi:include href="./sections/42-831.01.xml" />
+      <xi:include href="./sections/42-831.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Lien Instruments. [Repealed].</heading>
-      <xi:include href="./sections/42-832.01.xml" />
-      <xi:include href="./sections/42-832.02.xml" />
-      <xi:include href="./sections/42-832.03.xml" />
-      <xi:include href="./sections/42-832.04.xml" />
-      <xi:include href="./sections/42-832.05.xml" />
-      <xi:include href="./sections/42-832.06.xml" />
-      <xi:include href="./sections/42-832.07.xml" />
-      <xi:include href="./sections/42-832.08.xml" />
-      <xi:include href="./sections/42-832.09.xml" />
-      <xi:include href="./sections/42-832.10.xml" />
-      <xi:include href="./sections/42-832.11.xml" />
-      <xi:include href="./sections/42-832.12.xml" />
-      <xi:include href="./sections/42-832.13.xml" />
-      <xi:include href="./sections/42-832.14.xml" />
-      <xi:include href="./sections/42-832.15.xml" />
-      <xi:include href="./sections/42-832.16.xml" />
-      <xi:include href="./sections/42-832.17.xml" />
-      <xi:include href="./sections/42-832.18.xml" />
-      <xi:include href="./sections/42-832.19.xml" />
-      <xi:include href="./sections/42-832.20.xml" />
-      <xi:include href="./sections/42-832.21.xml" />
-      <xi:include href="./sections/42-832.22.xml" />
-      <xi:include href="./sections/42-832.23.xml" />
-      <xi:include href="./sections/42-832.24.xml" />
-      <xi:include href="./sections/42-832.25.xml" />
-      <xi:include href="./sections/42-832.26.xml" />
-      <xi:include href="./sections/42-832.27.xml" />
-      <xi:include href="./sections/42-832.28.xml" />
-      <xi:include href="./sections/42-832.29.xml" />
-      <xi:include href="./sections/42-832.30.xml" />
-      <xi:include href="./sections/42-832.31.xml" />
-      <xi:include href="./sections/42-832.32.xml" />
-      <xi:include href="./sections/42-832.33.xml" />
-      <xi:include href="./sections/42-832.34.xml" />
+      <xi:include href="./sections/42-832.01.xml"/>
+      <xi:include href="./sections/42-832.02.xml"/>
+      <xi:include href="./sections/42-832.03.xml"/>
+      <xi:include href="./sections/42-832.04.xml"/>
+      <xi:include href="./sections/42-832.05.xml"/>
+      <xi:include href="./sections/42-832.06.xml"/>
+      <xi:include href="./sections/42-832.07.xml"/>
+      <xi:include href="./sections/42-832.08.xml"/>
+      <xi:include href="./sections/42-832.09.xml"/>
+      <xi:include href="./sections/42-832.10.xml"/>
+      <xi:include href="./sections/42-832.11.xml"/>
+      <xi:include href="./sections/42-832.12.xml"/>
+      <xi:include href="./sections/42-832.13.xml"/>
+      <xi:include href="./sections/42-832.14.xml"/>
+      <xi:include href="./sections/42-832.15.xml"/>
+      <xi:include href="./sections/42-832.16.xml"/>
+      <xi:include href="./sections/42-832.17.xml"/>
+      <xi:include href="./sections/42-832.18.xml"/>
+      <xi:include href="./sections/42-832.19.xml"/>
+      <xi:include href="./sections/42-832.20.xml"/>
+      <xi:include href="./sections/42-832.21.xml"/>
+      <xi:include href="./sections/42-832.22.xml"/>
+      <xi:include href="./sections/42-832.23.xml"/>
+      <xi:include href="./sections/42-832.24.xml"/>
+      <xi:include href="./sections/42-832.25.xml"/>
+      <xi:include href="./sections/42-832.26.xml"/>
+      <xi:include href="./sections/42-832.27.xml"/>
+      <xi:include href="./sections/42-832.28.xml"/>
+      <xi:include href="./sections/42-832.29.xml"/>
+      <xi:include href="./sections/42-832.30.xml"/>
+      <xi:include href="./sections/42-832.31.xml"/>
+      <xi:include href="./sections/42-832.32.xml"/>
+      <xi:include href="./sections/42-832.33.xml"/>
+      <xi:include href="./sections/42-832.34.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Trustees and Assignees for Foreclosure. [Repealed].</heading>
-      <xi:include href="./sections/42-833.01.xml" />
-      <xi:include href="./sections/42-833.02.xml" />
-      <xi:include href="./sections/42-833.03.xml" />
-      <xi:include href="./sections/42-833.04.xml" />
-      <xi:include href="./sections/42-833.05.xml" />
-      <xi:include href="./sections/42-833.06.xml" />
-      <xi:include href="./sections/42-833.07.xml" />
-      <xi:include href="./sections/42-833.08.xml" />
-      <xi:include href="./sections/42-833.09.xml" />
+      <xi:include href="./sections/42-833.01.xml"/>
+      <xi:include href="./sections/42-833.02.xml"/>
+      <xi:include href="./sections/42-833.03.xml"/>
+      <xi:include href="./sections/42-833.04.xml"/>
+      <xi:include href="./sections/42-833.05.xml"/>
+      <xi:include href="./sections/42-833.06.xml"/>
+      <xi:include href="./sections/42-833.07.xml"/>
+      <xi:include href="./sections/42-833.08.xml"/>
+      <xi:include href="./sections/42-833.09.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Sending of Notices; Default; Late Fees; Notice of Default; Notice of Acceleration; Right to Cure and Reinstate; Right to Redeem. [Repealed].</heading>
-      <xi:include href="./sections/42-834.01.xml" />
-      <xi:include href="./sections/42-834.02.xml" />
-      <xi:include href="./sections/42-834.03.xml" />
-      <xi:include href="./sections/42-834.04.xml" />
-      <xi:include href="./sections/42-834.05.xml" />
-      <xi:include href="./sections/42-834.06.xml" />
-      <xi:include href="./sections/42-834.07.xml" />
+      <xi:include href="./sections/42-834.01.xml"/>
+      <xi:include href="./sections/42-834.02.xml"/>
+      <xi:include href="./sections/42-834.03.xml"/>
+      <xi:include href="./sections/42-834.04.xml"/>
+      <xi:include href="./sections/42-834.05.xml"/>
+      <xi:include href="./sections/42-834.06.xml"/>
+      <xi:include href="./sections/42-834.07.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Commencement of Foreclosure; Required Notices; Compliance with Laws. [Repealed].</heading>
-      <xi:include href="./sections/42-835.01.xml" />
-      <xi:include href="./sections/42-835.02.xml" />
-      <xi:include href="./sections/42-835.03.xml" />
-      <xi:include href="./sections/42-835.04.xml" />
-      <xi:include href="./sections/42-835.05.xml" />
-      <xi:include href="./sections/42-835.06.xml" />
-      <xi:include href="./sections/42-835.07.xml" />
-      <xi:include href="./sections/42-835.08.xml" />
-      <xi:include href="./sections/42-835.09.xml" />
-      <xi:include href="./sections/42-835.10.xml" />
-      <xi:include href="./sections/42-835.11.xml" />
-      <xi:include href="./sections/42-835.12.xml" />
-      <xi:include href="./sections/42-835.13.xml" />
+      <xi:include href="./sections/42-835.01.xml"/>
+      <xi:include href="./sections/42-835.02.xml"/>
+      <xi:include href="./sections/42-835.03.xml"/>
+      <xi:include href="./sections/42-835.04.xml"/>
+      <xi:include href="./sections/42-835.05.xml"/>
+      <xi:include href="./sections/42-835.06.xml"/>
+      <xi:include href="./sections/42-835.07.xml"/>
+      <xi:include href="./sections/42-835.08.xml"/>
+      <xi:include href="./sections/42-835.09.xml"/>
+      <xi:include href="./sections/42-835.10.xml"/>
+      <xi:include href="./sections/42-835.11.xml"/>
+      <xi:include href="./sections/42-835.12.xml"/>
+      <xi:include href="./sections/42-835.13.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Predatory Lending. [Repealed].</heading>
-      <xi:include href="./sections/42-836.01.xml" />
-      <xi:include href="./sections/42-836.02.xml" />
-      <xi:include href="./sections/42-836.03.xml" />
-      <xi:include href="./sections/42-836.04.xml" />
+      <xi:include href="./sections/42-836.01.xml"/>
+      <xi:include href="./sections/42-836.02.xml"/>
+      <xi:include href="./sections/42-836.03.xml"/>
+      <xi:include href="./sections/42-836.04.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VII</num>
       <heading>Circumstances When a Residential Lien Instrument May Be Foreclosed Only by Judicial Foreclosure. [Repealed].</heading>
-      <xi:include href="./sections/42-837.01.xml" />
-      <xi:include href="./sections/42-837.02.xml" />
-      <xi:include href="./sections/42-837.03.xml" />
-      <xi:include href="./sections/42-837.04.xml" />
-      <xi:include href="./sections/42-837.05.xml" />
-      <xi:include href="./sections/42-837.06.xml" />
-      <xi:include href="./sections/42-837.07.xml" />
+      <xi:include href="./sections/42-837.01.xml"/>
+      <xi:include href="./sections/42-837.02.xml"/>
+      <xi:include href="./sections/42-837.03.xml"/>
+      <xi:include href="./sections/42-837.04.xml"/>
+      <xi:include href="./sections/42-837.05.xml"/>
+      <xi:include href="./sections/42-837.06.xml"/>
+      <xi:include href="./sections/42-837.07.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VIII</num>
       <heading>Expedited Hearing. [Repealed].</heading>
-      <xi:include href="./sections/42-838.01.xml" />
-      <xi:include href="./sections/42-838.02.xml" />
+      <xi:include href="./sections/42-838.01.xml"/>
+      <xi:include href="./sections/42-838.02.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IX</num>
       <heading>Judicial Foreclosure. [Repealed].</heading>
-      <xi:include href="./sections/42-839.01.xml" />
-      <xi:include href="./sections/42-839.02.xml" />
-      <xi:include href="./sections/42-839.03.xml" />
+      <xi:include href="./sections/42-839.01.xml"/>
+      <xi:include href="./sections/42-839.02.xml"/>
+      <xi:include href="./sections/42-839.03.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>X</num>
       <heading>Advertising of Foreclosure Sale. [Repealed].</heading>
-      <xi:include href="./sections/42-840.01.xml" />
-      <xi:include href="./sections/42-840.02.xml" />
-      <xi:include href="./sections/42-840.03.xml" />
+      <xi:include href="./sections/42-840.01.xml"/>
+      <xi:include href="./sections/42-840.02.xml"/>
+      <xi:include href="./sections/42-840.03.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>XI</num>
       <heading>Conduct of the Foreclosure Sale. [Repealed].</heading>
-      <xi:include href="./sections/42-841.01.xml" />
-      <xi:include href="./sections/42-841.02.xml" />
-      <xi:include href="./sections/42-841.03.xml" />
-      <xi:include href="./sections/42-841.04.xml" />
-      <xi:include href="./sections/42-841.05.xml" />
-      <xi:include href="./sections/42-841.06.xml" />
-      <xi:include href="./sections/42-841.07.xml" />
-      <xi:include href="./sections/42-841.08.xml" />
-      <xi:include href="./sections/42-841.09.xml" />
-      <xi:include href="./sections/42-841.10.xml" />
-      <xi:include href="./sections/42-841.11.xml" />
-      <xi:include href="./sections/42-841.12.xml" />
+      <xi:include href="./sections/42-841.01.xml"/>
+      <xi:include href="./sections/42-841.02.xml"/>
+      <xi:include href="./sections/42-841.03.xml"/>
+      <xi:include href="./sections/42-841.04.xml"/>
+      <xi:include href="./sections/42-841.05.xml"/>
+      <xi:include href="./sections/42-841.06.xml"/>
+      <xi:include href="./sections/42-841.07.xml"/>
+      <xi:include href="./sections/42-841.08.xml"/>
+      <xi:include href="./sections/42-841.09.xml"/>
+      <xi:include href="./sections/42-841.10.xml"/>
+      <xi:include href="./sections/42-841.11.xml"/>
+      <xi:include href="./sections/42-841.12.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>XII</num>
       <heading>Audit of Foreclosure Sale. [Repealed].</heading>
-      <xi:include href="./sections/42-842.01.xml" />
-      <xi:include href="./sections/42-842.02.xml" />
-      <xi:include href="./sections/42-842.03.xml" />
-      <xi:include href="./sections/42-842.04.xml" />
-      <xi:include href="./sections/42-842.05.xml" />
-      <xi:include href="./sections/42-842.06.xml" />
+      <xi:include href="./sections/42-842.01.xml"/>
+      <xi:include href="./sections/42-842.02.xml"/>
+      <xi:include href="./sections/42-842.03.xml"/>
+      <xi:include href="./sections/42-842.04.xml"/>
+      <xi:include href="./sections/42-842.05.xml"/>
+      <xi:include href="./sections/42-842.06.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>XIII</num>
       <heading>Conveyance of Real Property and Disbursement of Foreclosure Sale Proceeds. [Repealed].</heading>
-      <xi:include href="./sections/42-843.01.xml" />
-      <xi:include href="./sections/42-843.02.xml" />
-      <xi:include href="./sections/42-843.03.xml" />
+      <xi:include href="./sections/42-843.01.xml"/>
+      <xi:include href="./sections/42-843.02.xml"/>
+      <xi:include href="./sections/42-843.03.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>XIV</num>
       <heading>Miscellaneous. [Repealed].</heading>
-      <xi:include href="./sections/42-844.01.xml" />
-      <xi:include href="./sections/42-844.02.xml" />
-      <xi:include href="./sections/42-844.03.xml" />
-      <xi:include href="./sections/42-844.04.xml" />
-      <xi:include href="./sections/42-844.05.xml" />
-      <xi:include href="./sections/42-844.06.xml" />
-      <xi:include href="./sections/42-844.07.xml" />
-      <xi:include href="./sections/42-844.08.xml" />
-      <xi:include href="./sections/42-844.09.xml" />
-      <xi:include href="./sections/42-844.10.xml" />
+      <xi:include href="./sections/42-844.01.xml"/>
+      <xi:include href="./sections/42-844.02.xml"/>
+      <xi:include href="./sections/42-844.03.xml"/>
+      <xi:include href="./sections/42-844.04.xml"/>
+      <xi:include href="./sections/42-844.05.xml"/>
+      <xi:include href="./sections/42-844.06.xml"/>
+      <xi:include href="./sections/42-844.07.xml"/>
+      <xi:include href="./sections/42-844.08.xml"/>
+      <xi:include href="./sections/42-844.09.xml"/>
+      <xi:include href="./sections/42-844.10.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -372,148 +371,148 @@
       <prefix>Subchapter</prefix>
       <num>XVI</num>
       <heading>Applicability. [Repealed].</heading>
-      <xi:include href="./sections/42-846.01.xml" />
-      <xi:include href="./sections/42-846.02.xml" />
+      <xi:include href="./sections/42-846.01.xml"/>
+      <xi:include href="./sections/42-846.02.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>9</num>
     <heading>Ownership of Real Property by Aliens and Nonresidents.</heading>
-    <xi:include href="./sections/42-901.xml" />
-    <xi:include href="./sections/42-902.xml" />
-    <xi:include href="./sections/42-903.xml" />
+    <xi:include href="./sections/42-901.xml"/>
+    <xi:include href="./sections/42-902.xml"/>
+    <xi:include href="./sections/42-903.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>10</num>
     <heading>Powers Relating to Realty.</heading>
-    <xi:include href="./sections/42-1001.xml" />
-    <xi:include href="./sections/42-1002.xml" />
-    <xi:include href="./sections/42-1003.xml" />
-    <xi:include href="./sections/42-1004.xml" />
-    <xi:include href="./sections/42-1005.xml" />
-    <xi:include href="./sections/42-1006.xml" />
-    <xi:include href="./sections/42-1007.xml" />
-    <xi:include href="./sections/42-1008.xml" />
-    <xi:include href="./sections/42-1009.xml" />
-    <xi:include href="./sections/42-1010.xml" />
-    <xi:include href="./sections/42-1011.xml" />
-    <xi:include href="./sections/42-1012.xml" />
-    <xi:include href="./sections/42-1013.xml" />
-    <xi:include href="./sections/42-1014.xml" />
-    <xi:include href="./sections/42-1015.xml" />
-    <xi:include href="./sections/42-1016.xml" />
-    <xi:include href="./sections/42-1017.xml" />
-    <xi:include href="./sections/42-1018.xml" />
-    <xi:include href="./sections/42-1019.xml" />
+    <xi:include href="./sections/42-1001.xml"/>
+    <xi:include href="./sections/42-1002.xml"/>
+    <xi:include href="./sections/42-1003.xml"/>
+    <xi:include href="./sections/42-1004.xml"/>
+    <xi:include href="./sections/42-1005.xml"/>
+    <xi:include href="./sections/42-1006.xml"/>
+    <xi:include href="./sections/42-1007.xml"/>
+    <xi:include href="./sections/42-1008.xml"/>
+    <xi:include href="./sections/42-1009.xml"/>
+    <xi:include href="./sections/42-1010.xml"/>
+    <xi:include href="./sections/42-1011.xml"/>
+    <xi:include href="./sections/42-1012.xml"/>
+    <xi:include href="./sections/42-1013.xml"/>
+    <xi:include href="./sections/42-1014.xml"/>
+    <xi:include href="./sections/42-1015.xml"/>
+    <xi:include href="./sections/42-1016.xml"/>
+    <xi:include href="./sections/42-1017.xml"/>
+    <xi:include href="./sections/42-1018.xml"/>
+    <xi:include href="./sections/42-1019.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>11</num>
     <heading>Recordation Tax on Deeds.</heading>
-    <xi:include href="./sections/42-1101.xml" />
-    <xi:include href="./sections/42-1102.xml" />
-    <xi:include href="./sections/42-1102.01.xml" />
-    <xi:include href="./sections/42-1102.02.xml" />
-    <xi:include href="./sections/42-1103.xml" />
-    <xi:include href="./sections/42-1104.xml" />
-    <xi:include href="./sections/42-1105.xml" />
-    <xi:include href="./sections/42-1106.xml" />
-    <xi:include href="./sections/42-1107.xml" />
-    <xi:include href="./sections/42-1108.xml" />
-    <xi:include href="./sections/42-1108.01.xml" />
-    <xi:include href="./sections/42-1109.xml" />
-    <xi:include href="./sections/42-1110.xml" />
-    <xi:include href="./sections/42-1111.xml" />
-    <xi:include href="./sections/42-1112.xml" />
-    <xi:include href="./sections/42-1113.xml" />
-    <xi:include href="./sections/42-1114.xml" />
-    <xi:include href="./sections/42-1115.xml" />
-    <xi:include href="./sections/42-1116.xml" />
-    <xi:include href="./sections/42-1117.xml" />
-    <xi:include href="./sections/42-1118.xml" />
-    <xi:include href="./sections/42-1119.xml" />
-    <xi:include href="./sections/42-1120.xml" />
-    <xi:include href="./sections/42-1121.xml" />
-    <xi:include href="./sections/42-1122.xml" />
-    <xi:include href="./sections/42-1123.xml" />
-    <xi:include href="./sections/42-1124.xml" />
+    <xi:include href="./sections/42-1101.xml"/>
+    <xi:include href="./sections/42-1102.xml"/>
+    <xi:include href="./sections/42-1102.01.xml"/>
+    <xi:include href="./sections/42-1102.02.xml"/>
+    <xi:include href="./sections/42-1103.xml"/>
+    <xi:include href="./sections/42-1104.xml"/>
+    <xi:include href="./sections/42-1105.xml"/>
+    <xi:include href="./sections/42-1106.xml"/>
+    <xi:include href="./sections/42-1107.xml"/>
+    <xi:include href="./sections/42-1108.xml"/>
+    <xi:include href="./sections/42-1108.01.xml"/>
+    <xi:include href="./sections/42-1109.xml"/>
+    <xi:include href="./sections/42-1110.xml"/>
+    <xi:include href="./sections/42-1111.xml"/>
+    <xi:include href="./sections/42-1112.xml"/>
+    <xi:include href="./sections/42-1113.xml"/>
+    <xi:include href="./sections/42-1114.xml"/>
+    <xi:include href="./sections/42-1115.xml"/>
+    <xi:include href="./sections/42-1116.xml"/>
+    <xi:include href="./sections/42-1117.xml"/>
+    <xi:include href="./sections/42-1118.xml"/>
+    <xi:include href="./sections/42-1119.xml"/>
+    <xi:include href="./sections/42-1120.xml"/>
+    <xi:include href="./sections/42-1121.xml"/>
+    <xi:include href="./sections/42-1122.xml"/>
+    <xi:include href="./sections/42-1123.xml"/>
+    <xi:include href="./sections/42-1124.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>12</num>
     <heading>Recorder of Deeds.</heading>
-    <xi:include href="./sections/42-1201.xml" />
-    <xi:include href="./sections/42-1202.xml" />
-    <xi:include href="./sections/42-1203.xml" />
-    <xi:include href="./sections/42-1204.xml" />
-    <xi:include href="./sections/42-1205.xml" />
-    <xi:include href="./sections/42-1206.xml" />
-    <xi:include href="./sections/42-1207.xml" />
-    <xi:include href="./sections/42-1208.xml" />
-    <xi:include href="./sections/42-1209.xml" />
-    <xi:include href="./sections/42-1210.xml" />
-    <xi:include href="./sections/42-1211.xml" />
-    <xi:include href="./sections/42-1212.xml" />
-    <xi:include href="./sections/42-1213.xml" />
-    <xi:include href="./sections/42-1214.xml" />
-    <xi:include href="./sections/42-1215.xml" />
-    <xi:include href="./sections/42-1216.xml" />
-    <xi:include href="./sections/42-1217.xml" />
-    <xi:include href="./sections/42-1218.xml" />
+    <xi:include href="./sections/42-1201.xml"/>
+    <xi:include href="./sections/42-1202.xml"/>
+    <xi:include href="./sections/42-1203.xml"/>
+    <xi:include href="./sections/42-1204.xml"/>
+    <xi:include href="./sections/42-1205.xml"/>
+    <xi:include href="./sections/42-1206.xml"/>
+    <xi:include href="./sections/42-1207.xml"/>
+    <xi:include href="./sections/42-1208.xml"/>
+    <xi:include href="./sections/42-1209.xml"/>
+    <xi:include href="./sections/42-1210.xml"/>
+    <xi:include href="./sections/42-1211.xml"/>
+    <xi:include href="./sections/42-1212.xml"/>
+    <xi:include href="./sections/42-1213.xml"/>
+    <xi:include href="./sections/42-1214.xml"/>
+    <xi:include href="./sections/42-1215.xml"/>
+    <xi:include href="./sections/42-1216.xml"/>
+    <xi:include href="./sections/42-1217.xml"/>
+    <xi:include href="./sections/42-1218.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>12A</num>
     <heading>Uniform Real Property Electronic Recording.</heading>
-    <xi:include href="./sections/42-1231.xml" />
-    <xi:include href="./sections/42-1232.xml" />
-    <xi:include href="./sections/42-1233.xml" />
-    <xi:include href="./sections/42-1234.xml" />
-    <xi:include href="./sections/42-1235.xml" />
+    <xi:include href="./sections/42-1231.xml"/>
+    <xi:include href="./sections/42-1232.xml"/>
+    <xi:include href="./sections/42-1233.xml"/>
+    <xi:include href="./sections/42-1234.xml"/>
+    <xi:include href="./sections/42-1235.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>13</num>
     <heading>Residential Real Property Seller Disclosures.</heading>
-    <xi:include href="./sections/42-1301.xml" />
-    <xi:include href="./sections/42-1302.xml" />
-    <xi:include href="./sections/42-1303.xml" />
-    <xi:include href="./sections/42-1304.xml" />
-    <xi:include href="./sections/42-1305.xml" />
-    <xi:include href="./sections/42-1306.xml" />
-    <xi:include href="./sections/42-1307.xml" />
-    <xi:include href="./sections/42-1308.xml" />
-    <xi:include href="./sections/42-1309.xml" />
-    <xi:include href="./sections/42-1310.xml" />
-    <xi:include href="./sections/42-1311.xml" />
+    <xi:include href="./sections/42-1301.xml"/>
+    <xi:include href="./sections/42-1302.xml"/>
+    <xi:include href="./sections/42-1303.xml"/>
+    <xi:include href="./sections/42-1304.xml"/>
+    <xi:include href="./sections/42-1305.xml"/>
+    <xi:include href="./sections/42-1306.xml"/>
+    <xi:include href="./sections/42-1307.xml"/>
+    <xi:include href="./sections/42-1308.xml"/>
+    <xi:include href="./sections/42-1309.xml"/>
+    <xi:include href="./sections/42-1310.xml"/>
+    <xi:include href="./sections/42-1311.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>14</num>
     <heading>Sale of Contingent and Limited Interests.</heading>
-    <xi:include href="./sections/42-1401.xml" />
-    <xi:include href="./sections/42-1402.xml" />
-    <xi:include href="./sections/42-1403.xml" />
-    <xi:include href="./sections/42-1404.xml" />
+    <xi:include href="./sections/42-1401.xml"/>
+    <xi:include href="./sections/42-1402.xml"/>
+    <xi:include href="./sections/42-1403.xml"/>
+    <xi:include href="./sections/42-1404.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>15</num>
     <heading>Uses and Trusts.</heading>
-    <xi:include href="./sections/42-1501.xml" />
-    <xi:include href="./sections/42-1502.xml" />
-    <xi:include href="./sections/42-1503.xml" />
+    <xi:include href="./sections/42-1501.xml"/>
+    <xi:include href="./sections/42-1502.xml"/>
+    <xi:include href="./sections/42-1503.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>16</num>
     <heading>Waste.</heading>
-    <xi:include href="./sections/42-1601.xml" />
-    <xi:include href="./sections/42-1602.xml" />
-    <xi:include href="./sections/42-1603.xml" />
-    <xi:include href="./sections/42-1604.xml" />
+    <xi:include href="./sections/42-1601.xml"/>
+    <xi:include href="./sections/42-1602.xml"/>
+    <xi:include href="./sections/42-1603.xml"/>
+    <xi:include href="./sections/42-1604.xml"/>
   </container>
   <subheading>Subtitle II. Brokers and Realtors.</subheading>
   <container>
@@ -524,71 +523,71 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General.</heading>
-      <xi:include href="./sections/42-1701.xml" />
-      <xi:include href="./sections/42-1702.xml" />
-      <xi:include href="./sections/42-1703.xml" />
-      <xi:include href="./sections/42-1704.xml" />
-      <xi:include href="./sections/42-1705.xml" />
-      <xi:include href="./sections/42-1706.xml" />
-      <xi:include href="./sections/42-1707.xml" />
-      <xi:include href="./sections/42-1708.xml" />
-      <xi:include href="./sections/42-1709.xml" />
+      <xi:include href="./sections/42-1701.xml"/>
+      <xi:include href="./sections/42-1702.xml"/>
+      <xi:include href="./sections/42-1703.xml"/>
+      <xi:include href="./sections/42-1704.xml"/>
+      <xi:include href="./sections/42-1705.xml"/>
+      <xi:include href="./sections/42-1706.xml"/>
+      <xi:include href="./sections/42-1707.xml"/>
+      <xi:include href="./sections/42-1708.xml"/>
+      <xi:include href="./sections/42-1709.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Repealed Provisions.</heading>
-      <xi:include href="./sections/42-1721.xml" />
-      <xi:include href="./sections/42-1722.xml" />
-      <xi:include href="./sections/42-1723.xml" />
-      <xi:include href="./sections/42-1724.xml" />
-      <xi:include href="./sections/42-1725.xml" />
-      <xi:include href="./sections/42-1726.xml" />
-      <xi:include href="./sections/42-1727.xml" />
-      <xi:include href="./sections/42-1728.xml" />
-      <xi:include href="./sections/42-1729.xml" />
-      <xi:include href="./sections/42-1730.xml" />
-      <xi:include href="./sections/42-1731.xml" />
-      <xi:include href="./sections/42-1732.xml" />
-      <xi:include href="./sections/42-1733.xml" />
-      <xi:include href="./sections/42-1734.xml" />
-      <xi:include href="./sections/42-1735.xml" />
-      <xi:include href="./sections/42-1736.xml" />
-      <xi:include href="./sections/42-1737.xml" />
-      <xi:include href="./sections/42-1738.xml" />
-      <xi:include href="./sections/42-1739.xml" />
-      <xi:include href="./sections/42-1740.xml" />
-      <xi:include href="./sections/42-1741.xml" />
-      <xi:include href="./sections/42-1742.xml" />
-      <xi:include href="./sections/42-1743.xml" />
-      <xi:include href="./sections/42-1744.xml" />
-      <xi:include href="./sections/42-1745.xml" />
-      <xi:include href="./sections/42-1746.xml" />
-      <xi:include href="./sections/42-1747.xml" />
-      <xi:include href="./sections/42-1748.xml" />
-      <xi:include href="./sections/42-1749.xml" />
-      <xi:include href="./sections/42-1750.xml" />
-      <xi:include href="./sections/42-1751.xml" />
-      <xi:include href="./sections/42-1752.xml" />
-      <xi:include href="./sections/42-1753.xml" />
-      <xi:include href="./sections/42-1754.xml" />
-      <xi:include href="./sections/42-1755.xml" />
-      <xi:include href="./sections/42-1756.xml" />
-      <xi:include href="./sections/42-1757.xml" />
-      <xi:include href="./sections/42-1758.xml" />
-      <xi:include href="./sections/42-1759.xml" />
-      <xi:include href="./sections/42-1760.xml" />
-      <xi:include href="./sections/42-1761.xml" />
-      <xi:include href="./sections/42-1762.xml" />
-      <xi:include href="./sections/42-1763.xml" />
-      <xi:include href="./sections/42-1764.xml" />
+      <xi:include href="./sections/42-1721.xml"/>
+      <xi:include href="./sections/42-1722.xml"/>
+      <xi:include href="./sections/42-1723.xml"/>
+      <xi:include href="./sections/42-1724.xml"/>
+      <xi:include href="./sections/42-1725.xml"/>
+      <xi:include href="./sections/42-1726.xml"/>
+      <xi:include href="./sections/42-1727.xml"/>
+      <xi:include href="./sections/42-1728.xml"/>
+      <xi:include href="./sections/42-1729.xml"/>
+      <xi:include href="./sections/42-1730.xml"/>
+      <xi:include href="./sections/42-1731.xml"/>
+      <xi:include href="./sections/42-1732.xml"/>
+      <xi:include href="./sections/42-1733.xml"/>
+      <xi:include href="./sections/42-1734.xml"/>
+      <xi:include href="./sections/42-1735.xml"/>
+      <xi:include href="./sections/42-1736.xml"/>
+      <xi:include href="./sections/42-1737.xml"/>
+      <xi:include href="./sections/42-1738.xml"/>
+      <xi:include href="./sections/42-1739.xml"/>
+      <xi:include href="./sections/42-1740.xml"/>
+      <xi:include href="./sections/42-1741.xml"/>
+      <xi:include href="./sections/42-1742.xml"/>
+      <xi:include href="./sections/42-1743.xml"/>
+      <xi:include href="./sections/42-1744.xml"/>
+      <xi:include href="./sections/42-1745.xml"/>
+      <xi:include href="./sections/42-1746.xml"/>
+      <xi:include href="./sections/42-1747.xml"/>
+      <xi:include href="./sections/42-1748.xml"/>
+      <xi:include href="./sections/42-1749.xml"/>
+      <xi:include href="./sections/42-1750.xml"/>
+      <xi:include href="./sections/42-1751.xml"/>
+      <xi:include href="./sections/42-1752.xml"/>
+      <xi:include href="./sections/42-1753.xml"/>
+      <xi:include href="./sections/42-1754.xml"/>
+      <xi:include href="./sections/42-1755.xml"/>
+      <xi:include href="./sections/42-1756.xml"/>
+      <xi:include href="./sections/42-1757.xml"/>
+      <xi:include href="./sections/42-1758.xml"/>
+      <xi:include href="./sections/42-1759.xml"/>
+      <xi:include href="./sections/42-1760.xml"/>
+      <xi:include href="./sections/42-1761.xml"/>
+      <xi:include href="./sections/42-1762.xml"/>
+      <xi:include href="./sections/42-1763.xml"/>
+      <xi:include href="./sections/42-1764.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>18</num>
     <heading>Real Estate Sale or Rent Signs.</heading>
-    <xi:include href="./sections/42-1801.xml" />
+    <xi:include href="./sections/42-1801.xml"/>
   </container>
   <subheading>Subtitle III. Condominiums.</subheading>
   <container>
@@ -599,98 +598,98 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General Provisions.</heading>
-      <xi:include href="./sections/42-1901.01.xml" />
-      <xi:include href="./sections/42-1901.02.xml" />
-      <xi:include href="./sections/42-1901.03.xml" />
-      <xi:include href="./sections/42-1901.04.xml" />
-      <xi:include href="./sections/42-1901.05.xml" />
-      <xi:include href="./sections/42-1901.06.xml" />
-      <xi:include href="./sections/42-1901.07.xml" />
-      <xi:include href="./sections/42-1901.08.xml" />
+      <xi:include href="./sections/42-1901.01.xml"/>
+      <xi:include href="./sections/42-1901.02.xml"/>
+      <xi:include href="./sections/42-1901.03.xml"/>
+      <xi:include href="./sections/42-1901.04.xml"/>
+      <xi:include href="./sections/42-1901.05.xml"/>
+      <xi:include href="./sections/42-1901.06.xml"/>
+      <xi:include href="./sections/42-1901.07.xml"/>
+      <xi:include href="./sections/42-1901.08.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Establishment of Condominiums.</heading>
-      <xi:include href="./sections/42-1902.01.xml" />
-      <xi:include href="./sections/42-1902.02.xml" />
-      <xi:include href="./sections/42-1902.03.xml" />
-      <xi:include href="./sections/42-1902.04.xml" />
-      <xi:include href="./sections/42-1902.05.xml" />
-      <xi:include href="./sections/42-1902.06.xml" />
-      <xi:include href="./sections/42-1902.07.xml" />
-      <xi:include href="./sections/42-1902.08.xml" />
-      <xi:include href="./sections/42-1902.09.xml" />
-      <xi:include href="./sections/42-1902.10.xml" />
-      <xi:include href="./sections/42-1902.11.xml" />
-      <xi:include href="./sections/42-1902.12.xml" />
-      <xi:include href="./sections/42-1902.13.xml" />
-      <xi:include href="./sections/42-1902.14.xml" />
-      <xi:include href="./sections/42-1902.15.xml" />
-      <xi:include href="./sections/42-1902.16.xml" />
-      <xi:include href="./sections/42-1902.17.xml" />
-      <xi:include href="./sections/42-1902.18.xml" />
-      <xi:include href="./sections/42-1902.19.xml" />
-      <xi:include href="./sections/42-1902.20.xml" />
-      <xi:include href="./sections/42-1902.21.xml" />
-      <xi:include href="./sections/42-1902.22.xml" />
-      <xi:include href="./sections/42-1902.23.xml" />
-      <xi:include href="./sections/42-1902.24.xml" />
-      <xi:include href="./sections/42-1902.25.xml" />
-      <xi:include href="./sections/42-1902.26.xml" />
-      <xi:include href="./sections/42-1902.27.xml" />
-      <xi:include href="./sections/42-1902.28.xml" />
-      <xi:include href="./sections/42-1902.29.xml" />
-      <xi:include href="./sections/42-1902.30.xml" />
+      <xi:include href="./sections/42-1902.01.xml"/>
+      <xi:include href="./sections/42-1902.02.xml"/>
+      <xi:include href="./sections/42-1902.03.xml"/>
+      <xi:include href="./sections/42-1902.04.xml"/>
+      <xi:include href="./sections/42-1902.05.xml"/>
+      <xi:include href="./sections/42-1902.06.xml"/>
+      <xi:include href="./sections/42-1902.07.xml"/>
+      <xi:include href="./sections/42-1902.08.xml"/>
+      <xi:include href="./sections/42-1902.09.xml"/>
+      <xi:include href="./sections/42-1902.10.xml"/>
+      <xi:include href="./sections/42-1902.11.xml"/>
+      <xi:include href="./sections/42-1902.12.xml"/>
+      <xi:include href="./sections/42-1902.13.xml"/>
+      <xi:include href="./sections/42-1902.14.xml"/>
+      <xi:include href="./sections/42-1902.15.xml"/>
+      <xi:include href="./sections/42-1902.16.xml"/>
+      <xi:include href="./sections/42-1902.17.xml"/>
+      <xi:include href="./sections/42-1902.18.xml"/>
+      <xi:include href="./sections/42-1902.19.xml"/>
+      <xi:include href="./sections/42-1902.20.xml"/>
+      <xi:include href="./sections/42-1902.21.xml"/>
+      <xi:include href="./sections/42-1902.22.xml"/>
+      <xi:include href="./sections/42-1902.23.xml"/>
+      <xi:include href="./sections/42-1902.24.xml"/>
+      <xi:include href="./sections/42-1902.25.xml"/>
+      <xi:include href="./sections/42-1902.26.xml"/>
+      <xi:include href="./sections/42-1902.27.xml"/>
+      <xi:include href="./sections/42-1902.28.xml"/>
+      <xi:include href="./sections/42-1902.29.xml"/>
+      <xi:include href="./sections/42-1902.30.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Control and Governance of Condominiums.</heading>
-      <xi:include href="./sections/42-1903.01.xml" />
-      <xi:include href="./sections/42-1903.02.xml" />
-      <xi:include href="./sections/42-1903.03.xml" />
-      <xi:include href="./sections/42-1903.04.xml" />
-      <xi:include href="./sections/42-1903.05.xml" />
-      <xi:include href="./sections/42-1903.06.xml" />
-      <xi:include href="./sections/42-1903.07.xml" />
-      <xi:include href="./sections/42-1903.08.xml" />
-      <xi:include href="./sections/42-1903.09.xml" />
-      <xi:include href="./sections/42-1903.10.xml" />
-      <xi:include href="./sections/42-1903.11.xml" />
-      <xi:include href="./sections/42-1903.12.xml" />
-      <xi:include href="./sections/42-1903.13.xml" />
-      <xi:include href="./sections/42-1903.14.xml" />
-      <xi:include href="./sections/42-1903.15.xml" />
-      <xi:include href="./sections/42-1903.16.xml" />
-      <xi:include href="./sections/42-1903.17.xml" />
-      <xi:include href="./sections/42-1903.18.xml" />
-      <xi:include href="./sections/42-1903.19.xml" />
-      <xi:include href="./sections/42-1903.20.xml" />
-      <xi:include href="./sections/42-1903.21.xml" />
+      <xi:include href="./sections/42-1903.01.xml"/>
+      <xi:include href="./sections/42-1903.02.xml"/>
+      <xi:include href="./sections/42-1903.03.xml"/>
+      <xi:include href="./sections/42-1903.04.xml"/>
+      <xi:include href="./sections/42-1903.05.xml"/>
+      <xi:include href="./sections/42-1903.06.xml"/>
+      <xi:include href="./sections/42-1903.07.xml"/>
+      <xi:include href="./sections/42-1903.08.xml"/>
+      <xi:include href="./sections/42-1903.09.xml"/>
+      <xi:include href="./sections/42-1903.10.xml"/>
+      <xi:include href="./sections/42-1903.11.xml"/>
+      <xi:include href="./sections/42-1903.12.xml"/>
+      <xi:include href="./sections/42-1903.13.xml"/>
+      <xi:include href="./sections/42-1903.14.xml"/>
+      <xi:include href="./sections/42-1903.15.xml"/>
+      <xi:include href="./sections/42-1903.16.xml"/>
+      <xi:include href="./sections/42-1903.17.xml"/>
+      <xi:include href="./sections/42-1903.18.xml"/>
+      <xi:include href="./sections/42-1903.19.xml"/>
+      <xi:include href="./sections/42-1903.20.xml"/>
+      <xi:include href="./sections/42-1903.21.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Registration and Offering of Condominiums.</heading>
-      <xi:include href="./sections/42-1904.01.xml" />
-      <xi:include href="./sections/42-1904.02.xml" />
-      <xi:include href="./sections/42-1904.03.xml" />
-      <xi:include href="./sections/42-1904.04.xml" />
-      <xi:include href="./sections/42-1904.05.xml" />
-      <xi:include href="./sections/42-1904.06.xml" />
-      <xi:include href="./sections/42-1904.07.xml" />
-      <xi:include href="./sections/42-1904.08.xml" />
-      <xi:include href="./sections/42-1904.09.xml" />
-      <xi:include href="./sections/42-1904.10.xml" />
-      <xi:include href="./sections/42-1904.11.xml" />
-      <xi:include href="./sections/42-1904.12.xml" />
-      <xi:include href="./sections/42-1904.13.xml" />
-      <xi:include href="./sections/42-1904.14.xml" />
-      <xi:include href="./sections/42-1904.15.xml" />
-      <xi:include href="./sections/42-1904.16.xml" />
-      <xi:include href="./sections/42-1904.17.xml" />
-      <xi:include href="./sections/42-1904.18.xml" />
+      <xi:include href="./sections/42-1904.01.xml"/>
+      <xi:include href="./sections/42-1904.02.xml"/>
+      <xi:include href="./sections/42-1904.03.xml"/>
+      <xi:include href="./sections/42-1904.04.xml"/>
+      <xi:include href="./sections/42-1904.05.xml"/>
+      <xi:include href="./sections/42-1904.06.xml"/>
+      <xi:include href="./sections/42-1904.07.xml"/>
+      <xi:include href="./sections/42-1904.08.xml"/>
+      <xi:include href="./sections/42-1904.09.xml"/>
+      <xi:include href="./sections/42-1904.10.xml"/>
+      <xi:include href="./sections/42-1904.11.xml"/>
+      <xi:include href="./sections/42-1904.12.xml"/>
+      <xi:include href="./sections/42-1904.13.xml"/>
+      <xi:include href="./sections/42-1904.14.xml"/>
+      <xi:include href="./sections/42-1904.15.xml"/>
+      <xi:include href="./sections/42-1904.16.xml"/>
+      <xi:include href="./sections/42-1904.17.xml"/>
+      <xi:include href="./sections/42-1904.18.xml"/>
     </container>
   </container>
   <container>
@@ -701,43 +700,43 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General.</heading>
-      <xi:include href="./sections/42-2001.xml" />
-      <xi:include href="./sections/42-2002.xml" />
-      <xi:include href="./sections/42-2003.xml" />
-      <xi:include href="./sections/42-2004.xml" />
-      <xi:include href="./sections/42-2005.xml" />
-      <xi:include href="./sections/42-2006.xml" />
-      <xi:include href="./sections/42-2007.xml" />
-      <xi:include href="./sections/42-2008.xml" />
-      <xi:include href="./sections/42-2009.xml" />
-      <xi:include href="./sections/42-2010.xml" />
-      <xi:include href="./sections/42-2011.xml" />
-      <xi:include href="./sections/42-2012.xml" />
-      <xi:include href="./sections/42-2013.xml" />
-      <xi:include href="./sections/42-2014.xml" />
-      <xi:include href="./sections/42-2015.xml" />
-      <xi:include href="./sections/42-2016.xml" />
-      <xi:include href="./sections/42-2017.xml" />
-      <xi:include href="./sections/42-2018.xml" />
-      <xi:include href="./sections/42-2019.xml" />
-      <xi:include href="./sections/42-2020.xml" />
-      <xi:include href="./sections/42-2021.xml" />
-      <xi:include href="./sections/42-2022.xml" />
-      <xi:include href="./sections/42-2023.xml" />
-      <xi:include href="./sections/42-2024.xml" />
-      <xi:include href="./sections/42-2025.xml" />
-      <xi:include href="./sections/42-2026.xml" />
-      <xi:include href="./sections/42-2027.xml" />
-      <xi:include href="./sections/42-2028.xml" />
-      <xi:include href="./sections/42-2029.xml" />
-      <xi:include href="./sections/42-2030.xml" />
-      <xi:include href="./sections/42-2031.xml" />
+      <xi:include href="./sections/42-2001.xml"/>
+      <xi:include href="./sections/42-2002.xml"/>
+      <xi:include href="./sections/42-2003.xml"/>
+      <xi:include href="./sections/42-2004.xml"/>
+      <xi:include href="./sections/42-2005.xml"/>
+      <xi:include href="./sections/42-2006.xml"/>
+      <xi:include href="./sections/42-2007.xml"/>
+      <xi:include href="./sections/42-2008.xml"/>
+      <xi:include href="./sections/42-2009.xml"/>
+      <xi:include href="./sections/42-2010.xml"/>
+      <xi:include href="./sections/42-2011.xml"/>
+      <xi:include href="./sections/42-2012.xml"/>
+      <xi:include href="./sections/42-2013.xml"/>
+      <xi:include href="./sections/42-2014.xml"/>
+      <xi:include href="./sections/42-2015.xml"/>
+      <xi:include href="./sections/42-2016.xml"/>
+      <xi:include href="./sections/42-2017.xml"/>
+      <xi:include href="./sections/42-2018.xml"/>
+      <xi:include href="./sections/42-2019.xml"/>
+      <xi:include href="./sections/42-2020.xml"/>
+      <xi:include href="./sections/42-2021.xml"/>
+      <xi:include href="./sections/42-2022.xml"/>
+      <xi:include href="./sections/42-2023.xml"/>
+      <xi:include href="./sections/42-2024.xml"/>
+      <xi:include href="./sections/42-2025.xml"/>
+      <xi:include href="./sections/42-2026.xml"/>
+      <xi:include href="./sections/42-2027.xml"/>
+      <xi:include href="./sections/42-2028.xml"/>
+      <xi:include href="./sections/42-2029.xml"/>
+      <xi:include href="./sections/42-2030.xml"/>
+      <xi:include href="./sections/42-2031.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Council Authority.</heading>
-      <xi:include href="./sections/42-2051.xml" />
+      <xi:include href="./sections/42-2051.xml"/>
     </container>
   </container>
   <subheading>Subtitle IV. Housing Enhancement Programs.</subheading>
@@ -745,18 +744,18 @@
     <prefix>Chapter</prefix>
     <num>21</num>
     <heading>Homestead Housing Preservation.</heading>
-    <xi:include href="./sections/42-2101.xml" />
-    <xi:include href="./sections/42-2102.xml" />
-    <xi:include href="./sections/42-2103.xml" />
-    <xi:include href="./sections/42-2104.xml" />
-    <xi:include href="./sections/42-2105.xml" />
-    <xi:include href="./sections/42-2105.01.xml" />
-    <xi:include href="./sections/42-2106.xml" />
-    <xi:include href="./sections/42-2107.xml" />
-    <xi:include href="./sections/42-2108.xml" />
-    <xi:include href="./sections/42-2109.xml" />
-    <xi:include href="./sections/42-2110.xml" />
-    <xi:include href="./sections/42-2111.xml" />
+    <xi:include href="./sections/42-2101.xml"/>
+    <xi:include href="./sections/42-2102.xml"/>
+    <xi:include href="./sections/42-2103.xml"/>
+    <xi:include href="./sections/42-2104.xml"/>
+    <xi:include href="./sections/42-2105.xml"/>
+    <xi:include href="./sections/42-2105.01.xml"/>
+    <xi:include href="./sections/42-2106.xml"/>
+    <xi:include href="./sections/42-2107.xml"/>
+    <xi:include href="./sections/42-2108.xml"/>
+    <xi:include href="./sections/42-2109.xml"/>
+    <xi:include href="./sections/42-2110.xml"/>
+    <xi:include href="./sections/42-2111.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -766,82 +765,82 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Truth in Affordability Reporting.</heading>
-      <xi:include href="./sections/42-2131.xml" />
-      <xi:include href="./sections/42-2132.xml" />
-      <xi:include href="./sections/42-2133.xml" />
-      <xi:include href="./sections/42-2134.xml" />
-      <xi:include href="./sections/42-2135.xml" />
-      <xi:include href="./sections/42-2136.xml" />
+      <xi:include href="./sections/42-2131.xml"/>
+      <xi:include href="./sections/42-2132.xml"/>
+      <xi:include href="./sections/42-2133.xml"/>
+      <xi:include href="./sections/42-2134.xml"/>
+      <xi:include href="./sections/42-2135.xml"/>
+      <xi:include href="./sections/42-2136.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Comprehensive Tracking Plan for Affordable Housing Inventory.</heading>
-      <xi:include href="./sections/42-2141.xml" />
-      <xi:include href="./sections/42-2142.xml" />
+      <xi:include href="./sections/42-2141.xml"/>
+      <xi:include href="./sections/42-2142.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Truth in Affordability Reporting.</heading>
-      <xi:include href="./sections/42-2151.01.xml" />
-      <xi:include href="./sections/42-2151.02.xml" />
+      <xi:include href="./sections/42-2151.01.xml"/>
+      <xi:include href="./sections/42-2151.02.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>22</num>
     <heading>Senior Citizens’ Home Repair and Improvement Program Fund.</heading>
-    <xi:include href="./sections/42-2201.xml" />
-    <xi:include href="./sections/42-2202.xml" />
-    <xi:include href="./sections/42-2203.xml" />
-    <xi:include href="./sections/42-2204.xml" />
-    <xi:include href="./sections/42-2205.xml" />
-    <xi:include href="./sections/42-2206.xml" />
-    <xi:include href="./sections/42-2207.xml" />
+    <xi:include href="./sections/42-2201.xml"/>
+    <xi:include href="./sections/42-2202.xml"/>
+    <xi:include href="./sections/42-2203.xml"/>
+    <xi:include href="./sections/42-2204.xml"/>
+    <xi:include href="./sections/42-2205.xml"/>
+    <xi:include href="./sections/42-2206.xml"/>
+    <xi:include href="./sections/42-2207.xml"/>
   </container>
   <subheading>Subtitle V. Housing Finance and Assistance.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>23</num>
     <heading>Credit Line Deeds of Trust.</heading>
-    <xi:include href="./sections/42-2301.xml" />
-    <xi:include href="./sections/42-2302.xml" />
-    <xi:include href="./sections/42-2303.xml" />
+    <xi:include href="./sections/42-2301.xml"/>
+    <xi:include href="./sections/42-2302.xml"/>
+    <xi:include href="./sections/42-2303.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>24</num>
     <heading>Disbursement of Settlement Proceeds.</heading>
-    <xi:include href="./sections/42-2401.xml" />
-    <xi:include href="./sections/42-2402.xml" />
-    <xi:include href="./sections/42-2403.xml" />
-    <xi:include href="./sections/42-2404.xml" />
-    <xi:include href="./sections/42-2405.xml" />
-    <xi:include href="./sections/42-2406.xml" />
-    <xi:include href="./sections/42-2407.xml" />
+    <xi:include href="./sections/42-2401.xml"/>
+    <xi:include href="./sections/42-2402.xml"/>
+    <xi:include href="./sections/42-2403.xml"/>
+    <xi:include href="./sections/42-2404.xml"/>
+    <xi:include href="./sections/42-2405.xml"/>
+    <xi:include href="./sections/42-2406.xml"/>
+    <xi:include href="./sections/42-2407.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>24A</num>
     <heading>Foreclosure Rescue Prohibited.</heading>
-    <xi:include href="./sections/42-2431.xml" />
-    <xi:include href="./sections/42-2432.xml" />
-    <xi:include href="./sections/42-2433.xml" />
-    <xi:include href="./sections/42-2434.xml" />
-    <xi:include href="./sections/42-2435.xml" />
+    <xi:include href="./sections/42-2431.xml"/>
+    <xi:include href="./sections/42-2432.xml"/>
+    <xi:include href="./sections/42-2433.xml"/>
+    <xi:include href="./sections/42-2434.xml"/>
+    <xi:include href="./sections/42-2435.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>25</num>
     <heading>Government Employer-Assisted Housing Program.</heading>
-    <xi:include href="./sections/42-2501.xml" />
-    <xi:include href="./sections/42-2502.xml" />
-    <xi:include href="./sections/42-2503.xml" />
-    <xi:include href="./sections/42-2504.xml" />
-    <xi:include href="./sections/42-2505.xml" />
-    <xi:include href="./sections/42-2506.xml" />
-    <xi:include href="./sections/42-2507.xml" />
+    <xi:include href="./sections/42-2501.xml"/>
+    <xi:include href="./sections/42-2502.xml"/>
+    <xi:include href="./sections/42-2503.xml"/>
+    <xi:include href="./sections/42-2504.xml"/>
+    <xi:include href="./sections/42-2505.xml"/>
+    <xi:include href="./sections/42-2506.xml"/>
+    <xi:include href="./sections/42-2507.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -851,30 +850,65 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General Provisions.</heading>
-      <xi:include href="./sections/42-2601.xml" />
-      <xi:include href="./sections/42-2602.xml" />
-      <xi:include href="./sections/42-2602.01.xml" />
-      <xi:include href="./sections/42-2603.xml" />
-      <xi:include href="./sections/42-2604.xml" />
-      <xi:include href="./sections/42-2605.xml" />
+      <xi:include href="./sections/42-2601.xml"/>
+      <xi:include href="./sections/42-2602.xml"/>
+      <section>
+        <num>42-2602.01</num>
+        <heading>Home Purchase Assistance Program Revision.</heading>
+        <para>
+          <num>(a)</num>
+          <text>The Mayor shall review and revise the repayment structure of the Home Purchase Assistance Program ("Program"), established by Chapter 25 of Title 14 of the District of Columbia Municipal Regulations, to include greater flexibility in the Program by supplementing the Program with additional repayment options for the lowest income loan recipients.</text>
+          <para>
+            <num>(1)</num>
+            <text>Examples of additional repayment options include:</text>
+            <para>
+              <num>(A)</num>
+              <text>A graduated repayment system;</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The postponement of the repayment of individual loans until the sale of a home; and</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>An exploration of the establishment of an incentive program to forgive a portion of the loan if cash refinancing is carried out within a certain timeframe.</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>The maximum amount of down payment assistance for the lowest income applicant available under the Program shall be $80,000, and shall be adjusted based on the applicant's income according to 14 DCMR § 2503.1(b)(1).</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>The Mayor shall submit the revised repayment system to the Council for review, pursuant to <cite path="§42-2604|(a)">§ 42-2604(a)</cite>, within 60 days after July 1, 2016.</text>
+        </para>
+        <annotations>
+          <annotation app="1978-09-12" doc="D.C. Law 2-103" eff="1978-09-12" path="§3a" type="History"/>
+          <annotation app="2016-07-01" doc="D.C. Law 21-139" eff="2016-07-01" path="§2" prefix="as added" type="History"/>
+        </annotations>
+      </section>
+      <xi:include href="./sections/42-2603.xml"/>
+      <xi:include href="./sections/42-2604.xml"/>
+      <xi:include href="./sections/42-2605.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Step Up Program.</heading>
-      <xi:include href="./sections/42-2621.xml" />
-      <xi:include href="./sections/42-2622.xml" />
-      <xi:include href="./sections/42-2623.xml" />
-      <xi:include href="./sections/42-2624.xml" />
-      <xi:include href="./sections/42-2625.xml" />
-      <xi:include href="./sections/42-2626.xml" />
+      <xi:include href="./sections/42-2621.xml"/>
+      <xi:include href="./sections/42-2622.xml"/>
+      <xi:include href="./sections/42-2623.xml"/>
+      <xi:include href="./sections/42-2624.xml"/>
+      <xi:include href="./sections/42-2625.xml"/>
+      <xi:include href="./sections/42-2626.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>26A</num>
     <heading>Homeownership Counseling.</heading>
-    <xi:include href="./sections/42-2651.xml" />
+    <xi:include href="./sections/42-2651.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -884,71 +918,71 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Policy and Definitions.</heading>
-      <xi:include href="./sections/42-2701.01.xml" />
-      <xi:include href="./sections/42-2701.02.xml" />
+      <xi:include href="./sections/42-2701.01.xml"/>
+      <xi:include href="./sections/42-2701.02.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Establishment of the Agency.</heading>
-      <xi:include href="./sections/42-2702.01.xml" />
-      <xi:include href="./sections/42-2702.02.xml" />
-      <xi:include href="./sections/42-2702.03.xml" />
-      <xi:include href="./sections/42-2702.04.xml" />
-      <xi:include href="./sections/42-2702.05.xml" />
-      <xi:include href="./sections/42-2702.06.xml" />
-      <xi:include href="./sections/42-2702.07.xml" />
+      <xi:include href="./sections/42-2702.01.xml"/>
+      <xi:include href="./sections/42-2702.02.xml"/>
+      <xi:include href="./sections/42-2702.03.xml"/>
+      <xi:include href="./sections/42-2702.04.xml"/>
+      <xi:include href="./sections/42-2702.05.xml"/>
+      <xi:include href="./sections/42-2702.06.xml"/>
+      <xi:include href="./sections/42-2702.07.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Operations of the Agency.</heading>
-      <xi:include href="./sections/42-2703.01.xml" />
-      <xi:include href="./sections/42-2703.02.xml" />
-      <xi:include href="./sections/42-2703.03.xml" />
-      <xi:include href="./sections/42-2703.04.xml" />
-      <xi:include href="./sections/42-2703.05.xml" />
-      <xi:include href="./sections/42-2703.06.xml" />
-      <xi:include href="./sections/42-2703.07.xml" />
-      <xi:include href="./sections/42-2703.08.xml" />
+      <xi:include href="./sections/42-2703.01.xml"/>
+      <xi:include href="./sections/42-2703.02.xml"/>
+      <xi:include href="./sections/42-2703.03.xml"/>
+      <xi:include href="./sections/42-2703.04.xml"/>
+      <xi:include href="./sections/42-2703.05.xml"/>
+      <xi:include href="./sections/42-2703.06.xml"/>
+      <xi:include href="./sections/42-2703.07.xml"/>
+      <xi:include href="./sections/42-2703.08.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Financial Affairs of the Agency.</heading>
-      <xi:include href="./sections/42-2704.01.xml" />
-      <xi:include href="./sections/42-2704.01a.xml" />
-      <xi:include href="./sections/42-2704.02.xml" />
-      <xi:include href="./sections/42-2704.03.xml" />
-      <xi:include href="./sections/42-2704.04.xml" />
-      <xi:include href="./sections/42-2704.05.xml" />
-      <xi:include href="./sections/42-2704.06.xml" />
-      <xi:include href="./sections/42-2704.07.xml" />
-      <xi:include href="./sections/42-2704.08.xml" />
-      <xi:include href="./sections/42-2704.09.xml" />
-      <xi:include href="./sections/42-2704.10.xml" />
-      <xi:include href="./sections/42-2704.11.xml" />
-      <xi:include href="./sections/42-2704.12.xml" />
-      <xi:include href="./sections/42-2704.13.xml" />
+      <xi:include href="./sections/42-2704.01.xml"/>
+      <xi:include href="./sections/42-2704.01a.xml"/>
+      <xi:include href="./sections/42-2704.02.xml"/>
+      <xi:include href="./sections/42-2704.03.xml"/>
+      <xi:include href="./sections/42-2704.04.xml"/>
+      <xi:include href="./sections/42-2704.05.xml"/>
+      <xi:include href="./sections/42-2704.06.xml"/>
+      <xi:include href="./sections/42-2704.07.xml"/>
+      <xi:include href="./sections/42-2704.08.xml"/>
+      <xi:include href="./sections/42-2704.09.xml"/>
+      <xi:include href="./sections/42-2704.10.xml"/>
+      <xi:include href="./sections/42-2704.11.xml"/>
+      <xi:include href="./sections/42-2704.12.xml"/>
+      <xi:include href="./sections/42-2704.13.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Public Accountability.</heading>
-      <xi:include href="./sections/42-2705.01.xml" />
-      <xi:include href="./sections/42-2705.02.xml" />
-      <xi:include href="./sections/42-2705.03.xml" />
-      <xi:include href="./sections/42-2705.04.xml" />
+      <xi:include href="./sections/42-2705.01.xml"/>
+      <xi:include href="./sections/42-2705.02.xml"/>
+      <xi:include href="./sections/42-2705.03.xml"/>
+      <xi:include href="./sections/42-2705.04.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Miscellaneous Provisions.</heading>
-      <xi:include href="./sections/42-2706.01.xml" />
-      <xi:include href="./sections/42-2706.02.xml" />
-      <xi:include href="./sections/42-2706.03.xml" />
-      <xi:include href="./sections/42-2706.04.xml" />
-      <xi:include href="./sections/42-2706.05.xml" />
+      <xi:include href="./sections/42-2706.01.xml"/>
+      <xi:include href="./sections/42-2706.02.xml"/>
+      <xi:include href="./sections/42-2706.03.xml"/>
+      <xi:include href="./sections/42-2706.04.xml"/>
+      <xi:include href="./sections/42-2706.05.xml"/>
     </container>
   </container>
   <container>
@@ -959,100 +993,100 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General Provisions.</heading>
-      <xi:include href="./sections/42-2801.xml" />
-      <xi:include href="./sections/42-2802.xml" />
-      <xi:include href="./sections/42-2802.01.xml" />
-      <xi:include href="./sections/42-2802.02.xml" />
-      <xi:include href="./sections/42-2803.xml" />
-      <xi:include href="./sections/42-2803.01.xml" />
-      <xi:include href="./sections/42-2804.xml" />
+      <xi:include href="./sections/42-2801.xml"/>
+      <xi:include href="./sections/42-2802.xml"/>
+      <xi:include href="./sections/42-2802.01.xml"/>
+      <xi:include href="./sections/42-2802.02.xml"/>
+      <xi:include href="./sections/42-2803.xml"/>
+      <xi:include href="./sections/42-2803.01.xml"/>
+      <xi:include href="./sections/42-2804.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Bond Authorization.</heading>
-      <xi:include href="./sections/42-2812.01.xml" />
-      <xi:include href="./sections/42-2812.02.xml" />
-      <xi:include href="./sections/42-2812.03.xml" />
-      <xi:include href="./sections/42-2812.04.xml" />
-      <xi:include href="./sections/42-2812.05.xml" />
-      <xi:include href="./sections/42-2812.06.xml" />
-      <xi:include href="./sections/42-2812.07.xml" />
-      <xi:include href="./sections/42-2812.08.xml" />
-      <xi:include href="./sections/42-2812.09.xml" />
-      <xi:include href="./sections/42-2812.10.xml" />
-      <xi:include href="./sections/42-2812.11.xml" />
-      <xi:include href="./sections/42-2812.12.xml" />
+      <xi:include href="./sections/42-2812.01.xml"/>
+      <xi:include href="./sections/42-2812.02.xml"/>
+      <xi:include href="./sections/42-2812.03.xml"/>
+      <xi:include href="./sections/42-2812.04.xml"/>
+      <xi:include href="./sections/42-2812.05.xml"/>
+      <xi:include href="./sections/42-2812.06.xml"/>
+      <xi:include href="./sections/42-2812.07.xml"/>
+      <xi:include href="./sections/42-2812.08.xml"/>
+      <xi:include href="./sections/42-2812.09.xml"/>
+      <xi:include href="./sections/42-2812.10.xml"/>
+      <xi:include href="./sections/42-2812.11.xml"/>
+      <xi:include href="./sections/42-2812.12.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>28A</num>
     <heading>Low-Income Housing Preservation and Protection.</heading>
-    <xi:include href="./sections/42-2851.01.xml" />
-    <xi:include href="./sections/42-2851.02.xml" />
-    <xi:include href="./sections/42-2851.03.xml" />
-    <xi:include href="./sections/42-2851.04.xml" />
-    <xi:include href="./sections/42-2851.05.xml" />
-    <xi:include href="./sections/42-2851.06.xml" />
-    <xi:include href="./sections/42-2851.07.xml" />
-    <xi:include href="./sections/42-2851.08.xml" />
+    <xi:include href="./sections/42-2851.01.xml"/>
+    <xi:include href="./sections/42-2851.02.xml"/>
+    <xi:include href="./sections/42-2851.03.xml"/>
+    <xi:include href="./sections/42-2851.04.xml"/>
+    <xi:include href="./sections/42-2851.05.xml"/>
+    <xi:include href="./sections/42-2851.06.xml"/>
+    <xi:include href="./sections/42-2851.07.xml"/>
+    <xi:include href="./sections/42-2851.08.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>28B</num>
     <heading>Low-Income Housing Tax Credit Fund.</heading>
-    <xi:include href="./sections/42-2853.01.xml" />
-    <xi:include href="./sections/42-2853.02.xml" />
+    <xi:include href="./sections/42-2853.01.xml"/>
+    <xi:include href="./sections/42-2853.02.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>28C</num>
     <heading>Comprehensive Housing Task Force Fund.</heading>
-    <xi:include href="./sections/42-2855.01.xml" />
+    <xi:include href="./sections/42-2855.01.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>28D</num>
     <heading>Department of Housing and Community Development Unified Fund.</heading>
-    <xi:include href="./sections/42-2857.01.xml" />
+    <xi:include href="./sections/42-2857.01.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>29</num>
     <heading>Metropolitan Police Housing Assistance and Community Safety Program.</heading>
-    <xi:include href="./sections/42-2901.xml" />
-    <xi:include href="./sections/42-2902.xml" />
-    <xi:include href="./sections/42-2903.xml" />
+    <xi:include href="./sections/42-2901.xml"/>
+    <xi:include href="./sections/42-2902.xml"/>
+    <xi:include href="./sections/42-2903.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>30</num>
     <heading>Servicemen’s Readjustment.</heading>
-    <xi:include href="./sections/42-3001.xml" />
-    <xi:include href="./sections/42-3002.xml" />
+    <xi:include href="./sections/42-3001.xml"/>
+    <xi:include href="./sections/42-3002.xml"/>
   </container>
   <subheading>Subtitle VI. Nuisance Property.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>31</num>
     <heading>Drug-, Firearm-, or Prostitution-Related Nuisance Abatement.</heading>
-    <xi:include href="./sections/42-3101.xml" />
-    <xi:include href="./sections/42-3102.xml" />
-    <xi:include href="./sections/42-3102.01.xml" />
-    <xi:include href="./sections/42-3103.xml" />
-    <xi:include href="./sections/42-3104.xml" />
-    <xi:include href="./sections/42-3105.xml" />
-    <xi:include href="./sections/42-3106.xml" />
-    <xi:include href="./sections/42-3107.xml" />
-    <xi:include href="./sections/42-3108.xml" />
-    <xi:include href="./sections/42-3109.xml" />
-    <xi:include href="./sections/42-3110.xml" />
-    <xi:include href="./sections/42-3111.xml" />
-    <xi:include href="./sections/42-3111.01.xml" />
-    <xi:include href="./sections/42-3112.xml" />
-    <xi:include href="./sections/42-3113.xml" />
-    <xi:include href="./sections/42-3114.xml" />
+    <xi:include href="./sections/42-3101.xml"/>
+    <xi:include href="./sections/42-3102.xml"/>
+    <xi:include href="./sections/42-3102.01.xml"/>
+    <xi:include href="./sections/42-3103.xml"/>
+    <xi:include href="./sections/42-3104.xml"/>
+    <xi:include href="./sections/42-3105.xml"/>
+    <xi:include href="./sections/42-3106.xml"/>
+    <xi:include href="./sections/42-3107.xml"/>
+    <xi:include href="./sections/42-3108.xml"/>
+    <xi:include href="./sections/42-3109.xml"/>
+    <xi:include href="./sections/42-3110.xml"/>
+    <xi:include href="./sections/42-3111.xml"/>
+    <xi:include href="./sections/42-3111.01.xml"/>
+    <xi:include href="./sections/42-3112.xml"/>
+    <xi:include href="./sections/42-3113.xml"/>
+    <xi:include href="./sections/42-3114.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1062,64 +1096,443 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General.</heading>
-      <xi:include href="./sections/42-3131.01.xml" />
-      <xi:include href="./sections/42-3131.02.xml" />
-      <xi:include href="./sections/42-3131.03.xml" />
-      <xi:include href="./sections/42-3131.04.xml" />
+      <section>
+        <num>42-3131.01</num>
+        <heading>Mayor may correct conditions violative of law; assessment of cost; lien on property; fund to pay costs; summary corrective action of life-or-health threatening condition.</heading>
+        <para>
+          <num>(a)</num>
+          <para>
+            <num>(1)</num>
+            <text>Except as provided in paragraphs (2) and (3) of this subsection, whenever the owner of any real property in the District of Columbia shall fail or refuse, after the service of reasonable notice in the manner provided in § <cite path="§42-3131.03">42-3131.03</cite>, to correct any condition which exists on or has arisen from such property in violation of law or of any regulation made by authority of law, with the correction of which condition said owner is by law or by said regulation chargeable, or to show cause, sufficient in the judgment of the Mayor of said District, why he should not be required to correct such condition, then, and in that instance, the Mayor of the District of Columbia is authorized to: Cause such condition to be corrected; assess the fair market value of the correction of the condition or the actual cost of the correction, whichever is higher, and all expenses incident thereto (including the cost of publication, if any, herein provided for) as a tax against the property on which such condition existed or from which such condition arose, as the case may be; and carry such tax on the regular tax rolls of the District, and collect such tax in the same manner as general taxes in said District are collected; provided, that the correction of any condition aforesaid by the Mayor of said District under authority of this section shall not relieve the owner of the property on which such condition existed, or from which such condition arose, from criminal prosecution and punishment for having caused or allowed such unlawful condition to arise or for having failed or refused to correct the same.</text>
+          </para>
+          <para>
+            <num>(1A)</num>
+            <text>The Mayor may request the Office of Administrative Hearings to issue, and the Office of Administrative Hearings may issue, a final order converting a special assessment lien to an administrative judgment. The Mayor may then cause the final order to be entered as a judgment against the owner in the Superior Court of the District of Columbia. The Mayor may enforce the judgment in the same manner as any other civil judgment may be enforced under District law.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Whenever the owner of any vacant building, as defined in § <cite path="§42-3131.05">42-3131.05</cite>(5), shall fail to enclose the doors, windows, areaways, or other openings of the property, the Mayor may immediately enclose the property to meet the standard described in § <cite path="§42-3131.12">42-3131.12</cite>. Subsequent to the enclosure, the Mayor shall give the owner notice as prescribed in § <cite path="§42-3131.03">42-3131.03</cite>.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Summary correction of certain violations without prior notice to the owner is authorized pursuant to subsection (c)(1) of this section.</text>
+          </para>
+        </para>
+        <para>
+          <num>(b)</num>
+          <para>
+            <num>(1)</num>
+            <para>
+              <num>(A)</num>
+              <text>There is established in the District of Columbia, and accounted for within the General Fund, a separate revenue source allocable to provide authorization for the purpose of paying the costs of correction of any condition, and all expenses incident thereto, that the Mayor may order or cause pursuant to subsection (a) of this section and for the purposes of demolishing or enclosing a structure under subchapter II of Chapter 31C of this title. Any unexpended balance at the end of the year shall be reserved as a restricted fund balance and used to provide authorization to expend for subsequent years subject to the direction of the Mayor.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>There is established within the fund established by subparagraph (A) of this paragraph an account in which fees and penalties collected under § <cite path="§6-916">6-916</cite>(b), shall be deposited, to be expended for the purposes set forth in § <cite path="§6-916">6-916</cite>(b).</text>
+            </para>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>There shall be deposited to the credit of the fund such amounts as may be appropriated for the fund or for the purposes of the fund; grants, donations, or restitution from any source to the fund or to the District of Columbia for the purposes of the fund; interest earned from the deposit or investment of monies of the fund; if an accounting is made in accordance with, and subject to, § <cite path="§47-1340">47-1340</cite>(f), amounts assessed and collected as a tax against real property under subsection (a) of this section including any interest and any penalties thereon, or otherwise received to recoup any amounts, incidental expenses or costs incurred, obligated or expended for the purposes of the fund and funds collected pursuant to subchapter II of Chapter 31C of this title; all fees and penalties collected under § <cite path="§6-916">6-916</cite>(b) (to be deposited in the account established under paragraph (1)(B) of this subsection) recoveries from enforcement action brought by the Office of the Attorney General on behalf of the District of Columbia or District of Columbia agencies for the abatement of violations of Chapters 1 through 16 of Title 14 of the District of Columbia Code of Municipal Regulations, excluding funds obtained through administrative proceedings; and all other receipts of whatever nature derived from the operation of the fund.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The Mayor shall include in the budget estimates of the District of Columbia for each fiscal year, and there are authorized to be appropriated annually, such amounts out of the revenues of the District of Columbia as may be necessary for the capitalization of the fund.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>Not later than 6 months after the end of each fiscal year, the Mayor shall submit to the Council a report of the financial condition of the fund, and any other special purpose revenue funds or capital project funds used for nuisance abatement activities, and the results of the operations and collections for the fiscal year. The report shall include an itemized accounting of all unrecovered taxes and penalties, the names of delinquent property owners, the nature of corrected building violations, and a detailed accounting of each expenditure. All funding sources shall be separately listed.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <para>
+            <num>(1)</num>
+            <para>
+              <num>(A)</num>
+              <text>The Mayor may order the summary correction of housing regulation violations or violations of the Construction Codes where there is imminent danger, as determined by the Mayor.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Except in the case of a vacant building, the Mayor shall promptly notify the owner or authorized agent that the correction is ordered within a specified time period; provided, that the Mayor is authorized to take emergency action, including putting in temporary safeguards, without prior notification when the Mayor determines there is imminent danger due to an unsafe condition and immediate emergency action is necessary to alleviate the danger.</text>
+            </para>
+            <para>
+              <num>(C)</num>
+              <text>Any person ordered to take emergency measures or actions shall immediately comply with any notice or order.  Where notice is provided under this section, if at the time of the notice, the owner is engaged in a good-faith effort to make the necessary correction, the Mayor shall not commence corrective action unless and until the owner interrupts or ceases the corrective effort or the Mayor determines that emergency repairs or temporary safeguards are required.</text>
+            </para>
+            <para>
+              <num>(D)</num>
+              <para>
+                <num>(i)</num>
+                <text>The owner or authorized agent shall be notified by personal service or by registered mail to the last known address and by conspicuous posting on the property. If the owner or address is unknown, or cannot be located, notice shall be provided by conspicuous posting on the property.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>The Mayor may assess all reasonable costs of correcting the condition and all expenses incident to the corrective action as a tax against the property.</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>A tax placed against a property pursuant to this subsection shall be carried on the regular tax rolls and collected in the same manner as real estate taxes are collected.</text>
+              </para>
+              <para>
+                <num>(iv)</num>
+                <text>The Mayor shall provide an opportunity for review of the summary corrective action without prejudice to the Mayor's authority to take and complete that action.</text>
+              </para>
+            </para>
+            <para>
+              <num>(E)</num>
+              <text>Monies in the fund established by subsection (b)(1) of this section shall be available to cover the costs of the summary corrections authorized by this subsection.</text>
+            </para>
+            <para>
+              <num>(F)</num>
+              <text>For the purposes of this paragraph, the term:</text>
+              <para>
+                <num>(i)</num>
+                <text>"Good faith effort" means one that is likely to cause the correction of the condition at least as soon as it could be corrected by the Mayor.</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <para>
+                  <num>(I)</num>
+                  <text>"Imminent danger"  means:</text>
+                  <para>
+                    <num>(aa)</num>
+                    <text>There is an immediate danger of the failure or collapse of a building or other structure that endangers life;</text>
+                  </para>
+                  <para>
+                    <num>(bb)</num>
+                    <text>When any structure or part of a structure has fallen and life is endangered by the occupation of the structure;</text>
+                  </para>
+                  <para>
+                    <num>(cc)</num>
+                    <text>When there is actual or potential danger to the building occupants or those in the proximity of any structure because of explosives, explosive fumes or vapors, the presence of toxic fumes, gases, or materials; or</text>
+                  </para>
+                  <para>
+                    <num>(dd)</num>
+                    <text>When the health or safety of occupants of the premises or those in the proximity of the premises is immediately endangered by an insanitary condition or the operation of defective or dangerous equipment.</text>
+                  </para>
+                </para>
+                <para>
+                  <num>(II)</num>
+                  <text>The term "imminent danger" may also include:</text>
+                  <para>
+                    <num>(aa)</num>
+                    <text>A vacant building, as defined in 
+                      <cite path="§42-3131.05|(5)">§ 42-3131.05(5)</cite>;
+                    </text>
+                  </para>
+                  <para>
+                    <num>(bb)</num>
+                    <text>The interruption of electrical, heat, gas, water, or other essential services, when the interruption results from other than natural causes; or</text>
+                  </para>
+                  <para>
+                    <num>(cc)</num>
+                    <text>The presence of graffiti.</text>
+                  </para>
+                </para>
+              </para>
+            </para>
+          </para>
+          <para>
+            <num>(1A)</num>
+            <text>The Mayor may request the Office of Administrative Hearings to issue, and the Office of Administrative Hearings may issue, a final order converting a special assessment lien to an administrative judgment. The Mayor may then cause the final order to be entered as a judgment against the owner in the Superior Court of the District of Columbia. The Mayor may enforce the judgment in the same manner as any other civil judgment may be enforced under District law.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>For the purposes of this subsection, the presence of graffiti shall be deemed to be a housing regulation violation.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>In the case of graffiti which does not constitute a life-or-health threatening condition, but which constitutes a nuisance, the Mayor may order the removal of the graffiti within a specified time period and, subject to 7 days’ notice to the owner or an authorized agent in the manner provided under paragraph (1) of this subsection and an opportunity for review of the order, the Mayor may remove the graffiti if the owner does not comply.</text>
+          </para>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>The Mayor may charge any property owner whose property is the subject of corrective action, as provided in subsection (c) of this section, or any property owner who receives a notice to correct wrongful conditions pursuant to § <cite path="§6-804">6-804</cite>(c) a fee to cover the administrative costs incurred by the District of Columbia in its efforts to provide that the violation be corrected. The Mayor may assess this fee as a tax against the property, may carry this tax on the regular tax rolls, and may collect this tax in the same manner as real estate taxes are collected.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>The Mayor may defer or forgive, in whole or in part, any cost or fee assessed pursuant to §§ <cite path="§42-3131.01">42-3131.01</cite> to 42-3131.03 with respect to any qualified real property approved pursuant to § <cite path="§6-1503">6-1503</cite>.</text>
+        </para>
+        <annotations>
+          <text type="Short Title">Short title: Section 2019 of <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> provided that subtitle H of title II of the act may be cited as the “Nuisance Properties Abatement Implementation Amendment Act of 2008”.</text>
+          <text type="Short Title">Short title: Section 2140 of <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> provided that subtitle O of title II of the act may be cited as the “Abatement Property Nuisance Fund Amendment Act of 2009”.</text>
+          <text type="Short Title">Short title: Section 2061 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle F of title II of the act may be cited as the “Administrative Judgments of Nuisance Property Amendment Act of 2010”.</text>
+          <annotation type="History" doc="Stat. 59-1-ch1626" path="§1">Apr. 14, 1906, 34 Stat. 114, ch. 1626, § 1</annotation>
+          <annotation doc="D.C. Law 3-45" type="History">Jan. 5, 1980, D.C. Law 3-45, § 2, 26 DCR 2305</annotation>
+          <annotation doc="D.C. Law 3-70" type="History">June 14, 1980, D.C. Law 3-70, § 7(m), 27 DCR 1776</annotation>
+          <annotation doc="D.C. Law 4-205" type="History">Mar. 10, 1983, D.C. Law 4-205, § 2, 30 DCR 188</annotation>
+          <annotation doc="D.C. Law 7-177" type="History">Oct. 20, 1988, D.C. Law 7-177, § 8, 35 DCR 6158</annotation>
+          <annotation doc="D.C. Law 12-52" type="History">Feb. 27, 1998, D.C. Law 12-52, § 2, 44 DCR 6226</annotation>
+          <annotation doc="D.C. Law 12-201" type="History">Mar. 26, 1999, D.C. Law 12-201, § 2, 45 DCR 8410</annotation>
+          <annotation doc="D.C. Law 13-305" type="History">June 9, 2001, D.C. Law 13-305, § 508(b), 48 DCR 334</annotation>
+          <annotation doc="D.C. Law 14-114" type="History">Apr. 19, 2002, D.C. Law 14-114, § 102, 49 DCR 1468</annotation>
+          <annotation doc="D.C. Law 14-213" type="History">Oct. 19, 2002, D.C. Law 14-213, § 11, 49 DCR 8140</annotation>
+          <annotation doc="D.C. Law 15-105" type="History">Mar. 13, 2004, D.C. Law 15-105, § 42, 51 DCR 881</annotation>
+          <annotation doc="D.C. Law 15-205" type="History">Dec. 7, 2004, D.C. Law 15-205, § 2073, 51 DCR 8441</annotation>
+          <annotation doc="D.C. Law 16-209" type="History">Mar. 2, 2007, D.C. Law 16-209, § 2, 53 DCR 9080</annotation>
+          <annotation doc="D.C. Law 16-241" type="History">Mar. 8, 2007, D.C. Law 16-241, § 2, 54 DCR 599</annotation>
+          <annotation doc="D.C. Law 17-219" type="History">Aug. 16, 2008, D.C. Law 17-219, § 2020, 55 DCR 7598</annotation>
+          <annotation doc="D.C. Law 17-319" type="History">Mar. 21, 2009, D.C. Law 17-319, § 2(a), 56 DCR 214</annotation>
+          <annotation doc="D.C. Law 17-353" type="History">Mar. 25, 2009, D.C. Law 17-353, §§ 155, 244(b), 56 DCR 1117</annotation>
+          <annotation doc="D.C. Law 18-111" type="History">Mar. 3, 2010, D.C. Law 18-111,§ 2141, 57 DCR 181</annotation>
+          <annotation doc="D.C. Law 18-223" type="History">Sept. 24, 2010, D.C. Law 18-223, § 2062, 57 DCR 6242</annotation>
+          <annotation type="Cross References">Ownership by nonresidents, vacant property, maintenance by resident agent, see § <cite path="§42-903">42-903</cite>.</annotation>
+          <annotation type="Cross References">Special assessments, removal of nuisances and payment, see § <cite path="§47-1205">47-1205</cite>.</annotation>
+          <annotation type="Section References">This section is referenced in § <cite path="§6-711.01">6-711.01</cite>, § <cite path="§6-916">6-916</cite>, § <cite path="§42-3131.02">42-3131.02</cite>, § <cite path="§42-3131.14">42-3131.14</cite>, § <cite path="§42-3173.11">42-3173.11</cite>, § <cite path="§42-3504.01">42-3504.01</cite>, and § <cite path="§47-1205">47-1205</cite>.</annotation>
+          <annotation type="Prior Codifications">2001 Ed., § <cite path="§6-711.01">6-711.01</cite>.</annotation>
+          <annotation type="Prior Codifications">1981 Ed., § 5-513.</annotation>
+          <annotation type="Prior Codifications">1973 Ed., § 5-313.</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-305">D.C. Law 13-305</cite>, in subsec. (b)(2), substituted “if an accounting is made in accordance with, and subject to § <cite path="§47-1340">47-1340</cite>(f), amounts assessed and collected as a tax against real property under subsection (a) of this section” for “amounts assessed and collected as a tax against real property pursuant to subsection (a) of this section”.</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-114">D.C. Law 14-114</cite>, in subsec. (b)(1), substituted “subsection (a) of this section and for the purposes of demolishing or enclosing a structure under subchapter II of Chapter 31C of this title” for “subsection (a) of this section”; and, in subsec. (b)(2), substituted “expended for the purposes of the fund and funds collected pursuant to subchapter II of Chapter 31C of this title” for “expended for the purposes of the fund”.</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsecs. (b)(1) and (b)(2), validated a previously made technical correction.</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (b)(2), validated a previously made technical correction.</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, in par. (1) of subsec. (b), designated the existing text as subparagraph (A), and added subpar. (B); and, in par. (2) of subsec. (b), substituted “; all fees and penalties collected under § <cite path="§6-916">6-916</cite>(b) (to be deposited in the account established under paragraph (1)(B) of this subsection); and all other receipts” for “; and all other receipts”.</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-209">D.C. Law 16-209</cite>, in subsec. (c), designated existing text as par. (1); in newly designated par. (1), inserted “ The condition may also include the presence of graffiti.”; and added pars. (2) and (3).</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-241">D.C. Law 16-241</cite> designated the existing text of subsec. (a) as subsec. (a)(1); in subsec. (a)(1), inserted “Except as provided in paragraph (2) of this subsection, whenever”; added subsec. (a)(2); and, in subsec. (c)(1), inserted “a vacant building, as defined in § <cite path="§42-3131.05">42-3131.05</cite>(5), or” and “Except in the case of a vacant building,”.</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> rewrote subsec. (b)(4), which had read as follows: “(4) Not later than 6 months after the end of each fiscal year, the Mayor shall submit to the Council of the District of Columbia a report of the financial condition of the fund and the results of the operations and collections for such fiscal year. Said report should include, but not be limited to, the itemized amounts of unrecovered taxes and penalties, the names of delinquent property owners, and the nature of corrected building violations.”</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-319">D.C. Law 17-319</cite>, in subsec. (c)(1), substituted “housing regulation violations or violations of the construction codes” for “housing regulation violations”.</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated previously made technical corrections in subsecs. (b)(4) and (c).</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsec. (b)(2), substituted “grants, donations, or restitution from any source” for “grants from any source” and substituted “recoveries from enforcement action brought by the Office of the Attorney General on behalf of the District of Columbia or District of Columbia agencies for the abatement of violations of Chapters 1 through 16 of Title 14 of the District of Columbia Code of Municipal Regulations, excluding funds obtained through administrative proceedings; and all other receipts” for “; and all other receipts”.</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> added subsecs. (a)(1A) and (c)(1A).</annotation>
+          <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 8(b) of the Real Property Tax Clarity and Litter Control Administration Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-8">D.C. Law 14-8</cite>, June 13, 2001, law notification  48 DCR 5916).</annotation>
+          <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2(a) of Abatement of Nuisance Properties and Tenant Receivership Temporary amendment Act of 2008 (<cite doc="D.C. Law 17-237">D.C. Law 17-237</cite>, October 21, 2008, law notification  55 DCR 11700).</annotation>
+          <annotation type="Emergency Legislation">For temporary (90-day) amendment of section, see § 2 of the Nuisance Repairs Emergency Amendment Act of 1997 (D.C. Act 12-101, July 2, 1997,  44 DCR 4195), § 2 of the Nuisance Repairs Legislative Review Emergency Amendment Act of 1997 (D.C. Act 12-159, October 16, 1997,  44 DCR 6053), and § 2 of the Nuisance Repairs Congressional Review Emergency Amendment Act of 1997 (D.C. Act 12-241, January 13, 1998,  45 DCR 636).</annotation>
+          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 8(b) of Real Property Tax Clarity and Litter Control Administration Emergency Act of 2001 (D.C. Act 14-22, March 16, 2001,  48 DCR 2706).</annotation>
+          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2073 of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2073 of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+          <annotation type="Emergency Legislation">For temporary (90 day) amendment, see § 2(a) of Abatement of Nuisance Properties and Tenant Receivership Emergency Amendment Act of 2008 (D.C. Act 17-420, July 8, 2008,  55 DCR 7703).</annotation>
+          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(a) of Abatement of Nuisance Properties and Tenant Receivership Congressional Review Emergency Amendment Act of 2008 (D.C. Act 17-563, October 27, 2008,  55 DCR 12019).</annotation>
+          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2141 of Fiscal Year 2010 Budget Support Second Emergency Act of 2009 (D.C. Act 18-207, October 15, 2009,  56 DCR 8234).</annotation>
+          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2141 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
+          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2062 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+          <annotation type="Editor's Notes">Mayor authorized to issue rules: Section 13 of <cite doc="D.C. Law 7-177">D.C. Law 7-177</cite> provided that the Mayor shall issue rules to implement the provisions of the act.</annotation>
+          <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§6|(a)|(1)" type="History"/>
+          <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§6|(a)|(2)" type="History"/>
+          <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§6|(b)" type="History"/>
+        </annotations>
+      </section>
+      <xi:include href="./sections/42-3131.02.xml"/>
+      <xi:include href="./sections/42-3131.03.xml"/>
+      <xi:include href="./sections/42-3131.04.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Registration of Vacant Buildings.</heading>
-      <xi:include href="./sections/42-3131.05.xml" />
-      <xi:include href="./sections/42-3131.05a.xml" />
-      <xi:include href="./sections/42-3131.06.xml" />
-      <xi:include href="./sections/42-3131.07.xml" />
-      <xi:include href="./sections/42-3131.08.xml" />
-      <xi:include href="./sections/42-3131.09.xml" />
-      <xi:include href="./sections/42-3131.10.xml" />
-      <xi:include href="./sections/42-3131.11.xml" />
-      <xi:include href="./sections/42-3131.12.xml" />
-      <xi:include href="./sections/42-3131.13.xml" />
-      <xi:include href="./sections/42-3131.14.xml" />
-      <xi:include href="./sections/42-3131.15.xml" />
-      <xi:include href="./sections/42-3131.16.xml" />
-      <xi:include href="./sections/42-3131.17.xml" />
+      <xi:include href="./sections/42-3131.05.xml"/>
+      <xi:include href="./sections/42-3131.05a.xml"/>
+      <section>
+        <num>42-3131.06</num>
+        <heading>Registration of vacant buildings.</heading>
+        <para>
+          <num>(a)</num>
+          <text>Except as provided in subsections (b) and (c) of this section, the owner of a vacant building shall maintain the building in compliance with the requirements of § <cite path="§42-3131.12">42-3131.12</cite> and, within 30 days after it becomes a vacant building, register the building with the Mayor, and pay the registration fee. The Mayor, in his sole discretion, may extend the time for good cause.</text>
+        </para>
+        <para>
+          <num>(b)</num>
+          <text>A vacant building shall not be included on the list compiled pursuant to § <cite path="§42-3131.16">42-3131.16</cite> or subject to the registration fee pursuant to § <cite path="§42-3131.09">42-3131.09</cite> if it is:</text>
+          <para>
+            <num>(1)</num>
+            <text>Owned by the government of the United States or its instrumentalities;</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Owned by a foreign government or its instrumentalities;</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>Under active construction or undergoing active rehabilitation, renovation, or repair, and there is a building permit to make the building fit for occupancy that was issued, renewed, or extended within 12 months of the required registration date;</text>
+          </para>
+          <para>
+            <num>(3A)</num>
+            <text>Repealed.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>In compliance with the requirements of § <cite path="§42-3131.12">42-3131.12</cite> and the housing regulations of the District of Columbia and the owner or his agent has been actively seeking in good faith to rent or sell it; provided, that:</text>
+            <para>
+              <num>(A)</num>
+              <text>The time period for sale or rent shall not exceed:</text>
+              <para>
+                <num>(i)</num>
+                <text>One year from the initial listing, offer, or advertisement of sale in the case of residential buildings;</text>
+              </para>
+              <para>
+                <num>(ii)</num>
+                <text>Two years from the initial listing, offer, or advertisement of sale in the case of commercial buildings; or</text>
+              </para>
+              <para>
+                <num>(iii)</num>
+                <text>One year from the initial listing, offer, or advertisement to rent; and;</text>
+              </para>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>Any leased property exempt under this paragraph shall have a valid certificate of occupancy;</text>
+            </para>
+          </para>
+          <para>
+            <num>(5)</num>
+            <para>
+              <num>(A)</num>
+              <text>Exempted by the Mayor in extraordinary circumstances and upon a showing of substantial undue economic hardship.</text>
+            </para>
+            <para>
+              <num>(B)</num>
+              <text>The exemption may be granted for a period not to exceed 12 months from the required registration date, subject to renewal on the basis of continuing extraordinary circumstances and substantial undue economic hardship. The Mayor may withdraw the exemption at any time. Any exemption shall be published in the District of Columbia Register.</text>
+            </para>
+          </para>
+          <para>
+            <num>(6)</num>
+            <text>Repealed.</text>
+          </para>
+          <para>
+            <num>(7)</num>
+            <text>For a period not to exceed 24 months, the subject of a probate proceeding or the title is the subject of litigation (not including a foreclosure of the right of redemption action brought under Chapter 13A of Title 47 [§ <cite path="§47-1330">47-1330</cite> et seq.]); </text>
+          </para>
+          <para>
+            <num>(8)</num>
+            <text>For a period not to exceed 12 months, the subject of a pending application for a necessary approval for development before the Board of Zoning Adjustment, the Zoning Commission for the District of Columbia, the Commission on Fine Arts, the Historic Preservation Review Board, the Mayor’s Agent for Historic Preservation, the Department of Public Works, or the National Capital Planning Commission; or</text>
+          </para>
+          <para>
+            <num>(9)</num>
+            <text technical="true">Located on the Water Reed Redevelopment Site, for so long as the building and the land on which the building sits is subject to the ground lease to the Developer.</text>
+          </para>
+        </para>
+        <para>
+          <num>(c)</num>
+          <text>If a vacant building is owned by the District of Columbia or its instrumentalities, it shall be subject to the registration requirements in subsection (a) of this section and the maintenance requirements in § <cite path="§42-3131.12">42-3131.12</cite>, but shall not be subject to the fee requirements under subsection (a) of this section or the fines and penalties collected under § <cite path="§42-3131.10">42-3131.10</cite>.</text>
+        </para>
+        <para>
+          <num>(d)</num>
+          <text>If a present interest in a vacant building registered under this chapter is transferred or otherwise conveyed, a deed shall not be recorded by the Recorder of Deeds until a new registration is filed with the Mayor and the applicable fees are paid.</text>
+        </para>
+        <para>
+          <num>(e)</num>
+          <text>If the name or address of an owner of a vacant building changes for any reason other than by transfer or conveyance, the change shall be reported to the Mayor in writing within 30 days in the manner provided in § <cite path="§42-405">42-405</cite>(b-1).</text>
+        </para>
+        <para>
+          <num>(f)</num>
+          <para>
+            <num>(1)</num>
+            <text>The cumulative time period for exemption from registration and fee requirements for a vacant building under the same, substantially similar, or related ownership shall not exceed 3 real property tax years.</text>
+          </para>
+          <para>
+            <num>(2)</num>
+            <text>Notwithstanding paragraph (1) of this subsection, any exemption shall be terminated at the end of the 2007 real property tax year if the building under the same, substantially similar, or related ownership benefited from an exemption under this section or under § <cite path="§47-813">47-813</cite>(c-6) during 3 or more real property tax years.</text>
+          </para>
+          <para>
+            <num>(3)</num>
+            <text>The limitations set forth in paragraphs (1) and (2) of this subsection shall not apply to vacant buildings that benefit from the exemption under subsection (b)(1) or (b)(2) of this section.</text>
+          </para>
+          <para>
+            <num>(4)</num>
+            <text>A vacant building benefiting from an exemption under this section or § <cite path="§47-813">47-813</cite>(c-6)(2)(C) or (c-6)(3)(C), on December 27, 2006, shall continue to benefit from the exemption and shall not be required to register or pay fees for the duration permitted under those provisions; provided, that the exemption shall not be valid after September 30, 2007; provided further, that the vacant building may qualify for an exemption in effect after December 28, 2006 and subject to the time restriction and exclusion set forth in paragraphs (2) and (3) of this subsection.</text>
+          </para>
+        </para>
+        <para>
+          <num>(g)</num>
+          <text>The total cumulative time for any exemption granted to any property shall not exceed 5 years in any 12-year period, excluding exemptions granted under subsections (b)(1) and (b)(2) of this section.</text>
+        </para>
+        <para>
+          <num>(h)</num>
+          <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2 [§ <cite path="§2-501">2-501</cite> et seq.], may issue rules to implement the provisions of this chapter. The rules may include a schedule of fines for violations of this chapter.</text>
+        </para>
+        <annotations>
+          <annotation type="History" doc="Stat. 59-1-ch1626" path="§6">Apr. 14, 1906, 34 Stat. 115, ch. 1626, § 6</annotation>
+          <annotation doc="D.C. Law 13-281" type="History">as added Apr. 27, 2001, D.C. Law 13-281, § 101, 48 DCR 1888</annotation>
+          <annotation doc="D.C. Law 16-23" type="History">Oct. 18, 2005, D.C. Law 16-23, § 2(a), 52 DCR 8078</annotation>
+          <annotation doc="D.C. Law 17-216" type="History">Aug. 15, 2008, D.C. Law 17-216, § 3(c), 55 DCR 7500</annotation>
+          <annotation doc="D.C. Law 18-223" type="History">Sept. 24, 2010, D.C. Law 18-223, § 2042(b), 57 DCR 6242</annotation>
+          <annotation type="Section References">This section is referenced in § <cite path="§42-3131.09">42-3131.09</cite>, § <cite path="§42-3131.10">42-3131.10</cite>, § <cite path="§42-3131.14">42-3131.14</cite>, and § <cite path="§47-813">47-813</cite>.</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-23">D.C. Law 16-23</cite>, in subsec. (b)(3), substituted “and if there is a valid building permit that was issued within 60 days of the required registration date;” for “and if there is a valid building permit that was issued within 60 days of the required registration date; provided, that the scope of the permit is not limited to electrical or plumbing work; provided further, that this exemption shall not exceed one year from the date of issuance of the first building permit for rehabilitation, renovation or repair;”; and, in subsec. (b)(4), substituted “the owner or his agent has been actively seeking to rent or sell it;” for “the owner or his agent has been actively seeking to rent or sell it; provided, that the time period for sale or rent shall not exceed one year from the initial listing, offer, or advertisement of sale, or 90 days from the initial listing, offer, or advertisement to rent;”.</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-216">D.C. Law 17-216</cite> rewrote the section.</annotation>
+          <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsecs. (b) and (h).</annotation>
+          <annotation type="Temporary Legislation">Section 3(c) of <cite doc="D.C. Law 16-259">D.C. Law 16-259</cite>, in subsec. (b), in par. (4), substituted “8 months” for “one year from the initial listing, offer, or advertisement of sale, or 90 days from the initial listing, offer, or advertisement to rent”; and amended pars. (3) and (5), and added pars. (6), (7), (8), and (9) to read as follows:</annotation>
+          <annotation type="Temporary Legislation">“(3) Under active construction or undergoing active rehabilitation, renovation, or repair, and there is a valid building permit to make the building fit for occupancy that was issued, renewed, or extended within 12 months of the required registration date;”</annotation>
+          <annotation type="Temporary Legislation">“(5) Exempted by the Mayor in his or her sole discretion; provided, that the exemption may be withdrawn upon notice in the same manner as if the building were designated as vacant under section 11;</annotation>
+          <annotation type="Temporary Legislation">“(6) Occupied at the time of a fire, flood, or other casualty which occurred within the preceding 12 months and which was not intentionally caused by the owner;</annotation>
+          <annotation type="Temporary Legislation">“(7) For a period not to exceed 24 months, the subject of a probate proceeding or the title is the subject of litigation (not including a foreclosure of the right of redemption action brought under Chapter 13A of Title 47 of the District of Columbia Official Code);</annotation>
+          <annotation type="Temporary Legislation">“(8) For a period not to exceed 12 months, the subject of a pending application for a necessary approval for development before the Board of Zoning Adjustment, the Zoning Commission for the District of Columbia, the Commission on Fine Arts, the Historic Preservation Review Board, the Mayor’s Agent for Historic Preservation, or the National Capital Planning Commission; or</annotation>
+          <annotation type="Temporary Legislation">“(9) For a period not to exceed 12 months, owned by a qualifying nonprofit housing organization under D.C. Official Code § <cite path="§47-3505">47-3505</cite>(a).” In subsec. (e), substituted “30 days in the manner provided in section 499d(b-1) of An Act To establish a code of law for the District of Columbia, effective October 23, 1997 (<cite doc="D.C. Law 14-282">D.C. Law 14-282</cite>; D.C. Official Code § <cite path="§42-405">42-405</cite>(b-1)).” for “30 days”; and added subsecs. (f) and (g) to read as follows:</annotation>
+          <annotation type="Temporary Legislation">“(f)(1) The cumulative time period for exemption from registration and fee requirements for a vacant building under the same, substantially similar, or related ownership shall not exceed 3 real property tax years.</annotation>
+          <annotation type="Temporary Legislation">“(2) Notwithstanding paragraph (1) of this subsection, any exemption shall be terminated at the end of the 2007 real property tax year if the building under the same, substantially similar, or related ownership benefitted from an exemption under this section or under D.C. Official Code § <cite path="§47-813">47-813</cite>(c-6) during 3 or more real property tax years.</annotation>
+          <annotation type="Temporary Legislation">“(3) The limitations set forth in paragraphs (1) and (2) of this subsection shall not apply to vacant buildings that benefit from the exemption under subsection (b)(1), (b)(2), or (b)(5) of this section.</annotation>
+          <annotation type="Temporary Legislation">“(4) A vacant building benefitting from an exemption under this section or D.C. Official Code § <cite path="§47-813">47-813</cite>(c-6)(2)(C) or (c-6)(3)(C), immediately preceding the effective date of the Nuisance Properties Abatement Reform and Real Property Classification Temporary Amendment Act of 2006, passed on 2nd reading on December 19, 2006 (Enrolled version of Bill 16-1036), shall continue to benefit from the exemption and shall not be required to register or pay fees for the duration permitted under those provisions; provided, that the exemption shall not be valid after September 30, 2007; provided further, that the vacant building may qualify for an exemption in effect after the effective date of the Nuisance Properties Abatement Reform and Real Property Classification Temporary Amendment Act of 2006, passed on 2nd reading on December 19, 2006 (Enrolled version of Bill 16-1036), and subject to the time restriction and exclusion set forth in paragraphs (2) and (3) of this subsection.</annotation>
+          <annotation type="Temporary Legislation">“(5) For purposes of this subsection, ownership shall be related if a deduction for a loss from the sale or exchange of properties between taxpayers would be disallowed under  section 267 of the Internal Revenue Code of 1986, approved August 16, 1954 (68A Stat. 78;  26 U.S.C. § 267); provided, that the exclusion under section 267(a)(1) for a loss in a distribution in a complete liquidation shall not apply.</annotation>
+          <annotation type="Temporary Legislation">“(g) The Mayor shall issue proposed rules to implement the provisions of this title on or before June 30, 2007. The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 45-day review period, the proposed rules shall be deemed disapproved.”</annotation>
+          <annotation type="Temporary Legislation">Section 7(b) of <cite doc="D.C. Law 16-259">D.C. Law 16-259</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+          <annotation type="Temporary Legislation">Section 3(c) of <cite doc="D.C. Law 17-102">D.C. Law 17-102</cite>, in subsec. (b), in par. (4), substituted “8 months” for “one year from the initial listing, offer, or advertisement of sale, or 90 days from the initial listing, offer, or advertisement to rent”, and amended pars. (3) and (5) and added pars. (6), (7), (8), and (9) to read as follows:</annotation>
+          <annotation type="Temporary Legislation">“(3) Under active construction or undergoing active rehabilitation, renovation, or repair, and there is a valid building permit to make the building fit for occupancy that was issued, renewed, or extended within 12 months of the required registration date;”</annotation>
+          <annotation type="Temporary Legislation">“(5) Exempted by the Mayor in his or her sole discretion; provided, that the exemption may be withdrawn upon notice in the same manner as if the building were designated as vacant under section 11;</annotation>
+          <annotation type="Temporary Legislation">“(6) Occupied at the time of a fire, flood, or other casualty which occurred within the preceding 12 months and which was not intentionally caused by the owner;</annotation>
+          <annotation type="Temporary Legislation">“(7) For a period not to exceed 24 months, the subject of a probate proceeding or the title is the subject of litigation (not including a foreclosure of the right of redemption action brought under Chapter 13A of Title 47 of the District of Columbia Official Code);</annotation>
+          <annotation type="Temporary Legislation">“(8) For a period not to exceed 12 months, the subject of a pending application for a necessary approval for development before the Board of Zoning Adjustment, the Zoning Commission for the District of Columbia, the Commission on Fine Arts, the Historic Preservation Review Board, the Mayor’s Agent for Historic Preservation, or the National Capital Planning Commission; or</annotation>
+          <annotation type="Temporary Legislation">“(9) For a period not to exceed 12 months, owned by a qualifying nonprofit housing organization under D.C. Official Code § <cite path="§47-3505">47-3505</cite>(a).”; in subsec. (e), substituted “30 days in the manner provided in section 499d(b-1) of An Act To establish a code of law for the District of Columbia, effective October 23, 1997 (<cite doc="D.C. Law 14-282">D.C. Law 14-282</cite>; D.C. Official Code § <cite path="§42-405">42-405</cite>(b-1))” for “30 days”; and added subsecs. (f) and (g) to read as follows:</annotation>
+          <annotation type="Temporary Legislation">“(f)(1) The cumulative time period for exemption from registration and fee requirements for a vacant building under the same, substantially similar, or related ownership shall not exceed 3 real property tax years.</annotation>
+          <annotation type="Temporary Legislation">“(2) Notwithstanding paragraph (1) of this subsection, any exemption shall be terminated at the end of the 2007 real property tax year if the building under the same, substantially similar, or related ownership benefitted from an exemption under this section or under D.C. Official Code § <cite path="§47-813">47-813</cite>(c-6) during 3 or more real property tax years.</annotation>
+          <annotation type="Temporary Legislation">“(3) The limitations set forth in paragraphs (1) and (2) of this subsection shall not apply to vacant buildings that benefit from the exemption under subsection (b)(1), (b)(2), or (b)(5) of this section.</annotation>
+          <annotation type="Temporary Legislation">“(4) A vacant building benefitting from an exemption under this section or D.C. Official Code § <cite path="§47-813">47-813</cite>(c-6)(2)(C) or (c-6)(3)(C), immediately preceding March 8, 2007, shall continue to benefit from the exemption and shall not be required to register or pay fees for the duration permitted under those provisions; provided, that the exemption shall not be valid after September 30, 2007; provided further, that the vacant building may qualify for an exemption in effect after March 8, 2007, and subject to the time restriction and exclusion set forth in paragraphs (2) and (3) of this subsection.</annotation>
+          <annotation type="Temporary Legislation">“(5) For the purposes of this subsection, ownership shall be related if a deduction for a loss from the sale or exchange of properties between taxpayers would be disallowed under  section 267 of the Internal Revenue Code of 1986, approved August 16, 1954 (68A Stat. 78;  26 U.S.C. § 267); provided, that the exclusion under section 267(a)(1) for a loss in a distribution in a complete liquidation shall not apply.</annotation>
+          <annotation type="Temporary Legislation">“(g) The Mayor shall issue proposed rules to implement the provisions of this act on or before June 30, 2007. The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within this 45-day review period, the proposed rules shall be deemed disapproved.”</annotation>
+          <annotation type="Temporary Legislation">Section 7(b) of <cite doc="D.C. Law 17-102">D.C. Law 17-102</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 3(c) of Nuisance Properties Abatement Reform and Real Property Classification Emergency Amendment Act of 2006 (D.C. Act 16-586, December 28, 2006,  54 DCR 353).</annotation>
+          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 3(c) of Nuisance Properties Abatement Reform and Real Property Classification Emergency Amendment Act of 2007 (D.C. Act 17-173, November 2, 2007,  54 DCR 11204).</annotation>
+          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 3(c) of Nuisance Properties Abatement Reform and Real Property Classification Congressional Review Emergency Act of 2008 (D.C. Act 17-436, July 16, 2008,  55 DCR 8272).</annotation>
+          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2042(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+          <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 8 of the Walter Reed Development Omnibus Emergency Act of 2016 (D.C. Act 21-349, Mar. 23, 2016,  63 DCR 4628).</annotation>
+          <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§8|(a)" type="History"/>
+          <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§8|(b)" type="History"/>
+          <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§8|(c)" type="History"/>
+        </annotations>
+      </section>
+      <xi:include href="./sections/42-3131.07.xml"/>
+      <xi:include href="./sections/42-3131.08.xml"/>
+      <xi:include href="./sections/42-3131.09.xml"/>
+      <xi:include href="./sections/42-3131.10.xml"/>
+      <xi:include href="./sections/42-3131.11.xml"/>
+      <xi:include href="./sections/42-3131.12.xml"/>
+      <xi:include href="./sections/42-3131.13.xml"/>
+      <xi:include href="./sections/42-3131.14.xml"/>
+      <xi:include href="./sections/42-3131.15.xml"/>
+      <xi:include href="./sections/42-3131.16.xml"/>
+      <xi:include href="./sections/42-3131.17.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>31A1</num>
     <heading>Abatement of Graffiti.</heading>
-    <xi:include href="./sections/42-3141.01.xml" />
-    <xi:include href="./sections/42-3141.02.xml" />
-    <xi:include href="./sections/42-3141.03.xml" />
-    <xi:include href="./sections/42-3141.04.xml" />
-    <xi:include href="./sections/42-3141.05.xml" />
-    <xi:include href="./sections/42-3141.06.xml" />
-    <xi:include href="./sections/42-3141.07.xml" />
-    <xi:include href="./sections/42-3141.08.xml" />
-    <xi:include href="./sections/42-3141.09.xml" />
-    <xi:include href="./sections/42-3141.10.xml" />
-    <xi:include href="./sections/42-3141.11.xml" />
+    <xi:include href="./sections/42-3141.01.xml"/>
+    <xi:include href="./sections/42-3141.02.xml"/>
+    <xi:include href="./sections/42-3141.03.xml"/>
+    <xi:include href="./sections/42-3141.04.xml"/>
+    <xi:include href="./sections/42-3141.05.xml"/>
+    <xi:include href="./sections/42-3141.06.xml"/>
+    <xi:include href="./sections/42-3141.07.xml"/>
+    <xi:include href="./sections/42-3141.08.xml"/>
+    <xi:include href="./sections/42-3141.09.xml"/>
+    <xi:include href="./sections/42-3141.10.xml"/>
+    <xi:include href="./sections/42-3141.11.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>31B</num>
     <heading>Quick Acquisition of Abandoned and Nuisance Property. [Repealed].</heading>
-    <xi:include href="./sections/42-3151.01.xml" />
-    <xi:include href="./sections/42-3151.02.xml" />
-    <xi:include href="./sections/42-3151.03.xml" />
-    <xi:include href="./sections/42-3151.04.xml" />
-    <xi:include href="./sections/42-3151.05.xml" />
-    <xi:include href="./sections/42-3151.06.xml" />
-    <xi:include href="./sections/42-3151.07.xml" />
-    <xi:include href="./sections/42-3151.08.xml" />
-    <xi:include href="./sections/42-3151.09.xml" />
-    <xi:include href="./sections/42-3151.10.xml" />
-    <xi:include href="./sections/42-3151.11.xml" />
-    <xi:include href="./sections/42-3151.12.xml" />
-    <xi:include href="./sections/42-3151.13.xml" />
+    <xi:include href="./sections/42-3151.01.xml"/>
+    <xi:include href="./sections/42-3151.02.xml"/>
+    <xi:include href="./sections/42-3151.03.xml"/>
+    <xi:include href="./sections/42-3151.04.xml"/>
+    <xi:include href="./sections/42-3151.05.xml"/>
+    <xi:include href="./sections/42-3151.06.xml"/>
+    <xi:include href="./sections/42-3151.07.xml"/>
+    <xi:include href="./sections/42-3151.08.xml"/>
+    <xi:include href="./sections/42-3151.09.xml"/>
+    <xi:include href="./sections/42-3151.10.xml"/>
+    <xi:include href="./sections/42-3151.11.xml"/>
+    <xi:include href="./sections/42-3151.12.xml"/>
+    <xi:include href="./sections/42-3151.13.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1129,27 +1542,27 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Acquisition and Disposal of Abandoned and Deteriorated Properties.</heading>
-      <xi:include href="./sections/42-3171.01.xml" />
-      <xi:include href="./sections/42-3171.02.xml" />
-      <xi:include href="./sections/42-3171.03.xml" />
-      <xi:include href="./sections/42-3171.04.xml" />
+      <xi:include href="./sections/42-3171.01.xml"/>
+      <xi:include href="./sections/42-3171.02.xml"/>
+      <xi:include href="./sections/42-3171.03.xml"/>
+      <xi:include href="./sections/42-3171.04.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Due Process Demolition.</heading>
-      <xi:include href="./sections/42-3173.01.xml" />
-      <xi:include href="./sections/42-3173.02.xml" />
-      <xi:include href="./sections/42-3173.03.xml" />
-      <xi:include href="./sections/42-3173.04.xml" />
-      <xi:include href="./sections/42-3173.05.xml" />
-      <xi:include href="./sections/42-3173.06.xml" />
-      <xi:include href="./sections/42-3173.07.xml" />
-      <xi:include href="./sections/42-3173.08.xml" />
-      <xi:include href="./sections/42-3173.09.xml" />
-      <xi:include href="./sections/42-3173.10.xml" />
-      <xi:include href="./sections/42-3173.11.xml" />
-      <xi:include href="./sections/42-3173.12.xml" />
+      <xi:include href="./sections/42-3173.01.xml"/>
+      <xi:include href="./sections/42-3173.02.xml"/>
+      <xi:include href="./sections/42-3173.03.xml"/>
+      <xi:include href="./sections/42-3173.04.xml"/>
+      <xi:include href="./sections/42-3173.05.xml"/>
+      <xi:include href="./sections/42-3173.06.xml"/>
+      <xi:include href="./sections/42-3173.07.xml"/>
+      <xi:include href="./sections/42-3173.08.xml"/>
+      <xi:include href="./sections/42-3173.09.xml"/>
+      <xi:include href="./sections/42-3173.10.xml"/>
+      <xi:include href="./sections/42-3173.11.xml"/>
+      <xi:include href="./sections/42-3173.12.xml"/>
     </container>
   </container>
   <subheading>Subtitle VII. Rental Housing.</subheading>
@@ -1157,60 +1570,60 @@
     <prefix>Chapter</prefix>
     <num>32</num>
     <heading>Landlord and Tenant.</heading>
-    <xi:include href="./sections/42-3201.xml" />
-    <xi:include href="./sections/42-3202.xml" />
-    <xi:include href="./sections/42-3203.xml" />
-    <xi:include href="./sections/42-3204.xml" />
-    <xi:include href="./sections/42-3205.xml" />
-    <xi:include href="./sections/42-3206.xml" />
-    <xi:include href="./sections/42-3207.xml" />
-    <xi:include href="./sections/42-3208.xml" />
-    <xi:include href="./sections/42-3209.xml" />
-    <xi:include href="./sections/42-3210.xml" />
-    <xi:include href="./sections/42-3211.xml" />
-    <xi:include href="./sections/42-3212.xml" />
-    <xi:include href="./sections/42-3213.xml" />
-    <xi:include href="./sections/42-3214.xml" />
-    <xi:include href="./sections/42-3215.xml" />
-    <xi:include href="./sections/42-3216.xml" />
-    <xi:include href="./sections/42-3217.xml" />
-    <xi:include href="./sections/42-3218.xml" />
-    <xi:include href="./sections/42-3219.xml" />
-    <xi:include href="./sections/42-3220.xml" />
-    <xi:include href="./sections/42-3221.xml" />
-    <xi:include href="./sections/42-3222.xml" />
-    <xi:include href="./sections/42-3223.xml" />
-    <xi:include href="./sections/42-3224.xml" />
-    <xi:include href="./sections/42-3225.xml" />
-    <xi:include href="./sections/42-3226.xml" />
-    <xi:include href="./sections/42-3227.xml" />
-    <xi:include href="./sections/42-3228.xml" />
-    <xi:include href="./sections/42-3229.xml" />
-    <xi:include href="./sections/42-3230.xml" />
-    <xi:include href="./sections/42-3231.xml" />
-    <xi:include href="./sections/42-3232.xml" />
+    <xi:include href="./sections/42-3201.xml"/>
+    <xi:include href="./sections/42-3202.xml"/>
+    <xi:include href="./sections/42-3203.xml"/>
+    <xi:include href="./sections/42-3204.xml"/>
+    <xi:include href="./sections/42-3205.xml"/>
+    <xi:include href="./sections/42-3206.xml"/>
+    <xi:include href="./sections/42-3207.xml"/>
+    <xi:include href="./sections/42-3208.xml"/>
+    <xi:include href="./sections/42-3209.xml"/>
+    <xi:include href="./sections/42-3210.xml"/>
+    <xi:include href="./sections/42-3211.xml"/>
+    <xi:include href="./sections/42-3212.xml"/>
+    <xi:include href="./sections/42-3213.xml"/>
+    <xi:include href="./sections/42-3214.xml"/>
+    <xi:include href="./sections/42-3215.xml"/>
+    <xi:include href="./sections/42-3216.xml"/>
+    <xi:include href="./sections/42-3217.xml"/>
+    <xi:include href="./sections/42-3218.xml"/>
+    <xi:include href="./sections/42-3219.xml"/>
+    <xi:include href="./sections/42-3220.xml"/>
+    <xi:include href="./sections/42-3221.xml"/>
+    <xi:include href="./sections/42-3222.xml"/>
+    <xi:include href="./sections/42-3223.xml"/>
+    <xi:include href="./sections/42-3224.xml"/>
+    <xi:include href="./sections/42-3225.xml"/>
+    <xi:include href="./sections/42-3226.xml"/>
+    <xi:include href="./sections/42-3227.xml"/>
+    <xi:include href="./sections/42-3228.xml"/>
+    <xi:include href="./sections/42-3229.xml"/>
+    <xi:include href="./sections/42-3230.xml"/>
+    <xi:include href="./sections/42-3231.xml"/>
+    <xi:include href="./sections/42-3232.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>32A</num>
     <heading>Lead Level Test of Water in Multiple Dwellings.</heading>
-    <xi:include href="./sections/42-3251.xml" />
-    <xi:include href="./sections/42-3252.xml" />
-    <xi:include href="./sections/42-3253.xml" />
-    <xi:include href="./sections/42-3254.xml" />
-    <xi:include href="./sections/42-3255.xml" />
+    <xi:include href="./sections/42-3251.xml"/>
+    <xi:include href="./sections/42-3252.xml"/>
+    <xi:include href="./sections/42-3253.xml"/>
+    <xi:include href="./sections/42-3254.xml"/>
+    <xi:include href="./sections/42-3255.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>33</num>
     <heading>Master-Metered Apartment Buildings.</heading>
-    <xi:include href="./sections/42-3301.xml" />
-    <xi:include href="./sections/42-3302.xml" />
-    <xi:include href="./sections/42-3303.xml" />
-    <xi:include href="./sections/42-3304.xml" />
-    <xi:include href="./sections/42-3305.xml" />
-    <xi:include href="./sections/42-3306.xml" />
-    <xi:include href="./sections/42-3307.xml" />
+    <xi:include href="./sections/42-3301.xml"/>
+    <xi:include href="./sections/42-3302.xml"/>
+    <xi:include href="./sections/42-3303.xml"/>
+    <xi:include href="./sections/42-3304.xml"/>
+    <xi:include href="./sections/42-3305.xml"/>
+    <xi:include href="./sections/42-3306.xml"/>
+    <xi:include href="./sections/42-3307.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1220,93 +1633,93 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Findings; Purposes; Definitions.</heading>
-      <xi:include href="./sections/42-3401.01.xml" />
-      <xi:include href="./sections/42-3401.02.xml" />
-      <xi:include href="./sections/42-3401.03.xml" />
-      <xi:include href="./sections/42-3401.04.xml" />
+      <xi:include href="./sections/42-3401.01.xml"/>
+      <xi:include href="./sections/42-3401.02.xml"/>
+      <xi:include href="./sections/42-3401.03.xml"/>
+      <xi:include href="./sections/42-3401.04.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Conversion Procedures.</heading>
-      <xi:include href="./sections/42-3402.01.xml" />
-      <xi:include href="./sections/42-3402.02.xml" />
-      <xi:include href="./sections/42-3402.03.xml" />
-      <xi:include href="./sections/42-3402.04.xml" />
-      <xi:include href="./sections/42-3402.05.xml" />
-      <xi:include href="./sections/42-3402.05a.xml" />
-      <xi:include href="./sections/42-3402.06.xml" />
-      <xi:include href="./sections/42-3402.07.xml" />
-      <xi:include href="./sections/42-3402.08.xml" />
-      <xi:include href="./sections/42-3402.09.xml" />
-      <xi:include href="./sections/42-3402.10.xml" />
-      <xi:include href="./sections/42-3402.11.xml" />
+      <xi:include href="./sections/42-3402.01.xml"/>
+      <xi:include href="./sections/42-3402.02.xml"/>
+      <xi:include href="./sections/42-3402.03.xml"/>
+      <xi:include href="./sections/42-3402.04.xml"/>
+      <xi:include href="./sections/42-3402.05.xml"/>
+      <xi:include href="./sections/42-3402.05a.xml"/>
+      <xi:include href="./sections/42-3402.06.xml"/>
+      <xi:include href="./sections/42-3402.07.xml"/>
+      <xi:include href="./sections/42-3402.08.xml"/>
+      <xi:include href="./sections/42-3402.09.xml"/>
+      <xi:include href="./sections/42-3402.10.xml"/>
+      <xi:include href="./sections/42-3402.11.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Relocation Assistance.</heading>
-      <xi:include href="./sections/42-3403.01.xml" />
-      <xi:include href="./sections/42-3403.02.xml" />
-      <xi:include href="./sections/42-3403.03.xml" />
-      <xi:include href="./sections/42-3403.04.xml" />
-      <xi:include href="./sections/42-3403.05.xml" />
-      <xi:include href="./sections/42-3403.06.xml" />
-      <xi:include href="./sections/42-3403.07.xml" />
-      <xi:include href="./sections/42-3403.08.xml" />
-      <xi:include href="./sections/42-3403.09.xml" />
+      <xi:include href="./sections/42-3403.01.xml"/>
+      <xi:include href="./sections/42-3403.02.xml"/>
+      <xi:include href="./sections/42-3403.03.xml"/>
+      <xi:include href="./sections/42-3403.04.xml"/>
+      <xi:include href="./sections/42-3403.05.xml"/>
+      <xi:include href="./sections/42-3403.06.xml"/>
+      <xi:include href="./sections/42-3403.07.xml"/>
+      <xi:include href="./sections/42-3403.08.xml"/>
+      <xi:include href="./sections/42-3403.09.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Opportunity to Purchase.</heading>
-      <xi:include href="./sections/42-3404.01.xml" />
-      <xi:include href="./sections/42-3404.02.xml" />
-      <xi:include href="./sections/42-3404.02a.xml" />
-      <xi:include href="./sections/42-3404.03.xml" />
-      <xi:include href="./sections/42-3404.04.xml" />
-      <xi:include href="./sections/42-3404.05.xml" />
-      <xi:include href="./sections/42-3404.06.xml" />
-      <xi:include href="./sections/42-3404.07.xml" />
-      <xi:include href="./sections/42-3404.08.xml" />
-      <xi:include href="./sections/42-3404.09.xml" />
-      <xi:include href="./sections/42-3404.10.xml" />
-      <xi:include href="./sections/42-3404.11.xml" />
-      <xi:include href="./sections/42-3404.12.xml" />
-      <xi:include href="./sections/42-3404.13.xml" />
+      <xi:include href="./sections/42-3404.01.xml"/>
+      <xi:include href="./sections/42-3404.02.xml"/>
+      <xi:include href="./sections/42-3404.02a.xml"/>
+      <xi:include href="./sections/42-3404.03.xml"/>
+      <xi:include href="./sections/42-3404.04.xml"/>
+      <xi:include href="./sections/42-3404.05.xml"/>
+      <xi:include href="./sections/42-3404.06.xml"/>
+      <xi:include href="./sections/42-3404.07.xml"/>
+      <xi:include href="./sections/42-3404.08.xml"/>
+      <xi:include href="./sections/42-3404.09.xml"/>
+      <xi:include href="./sections/42-3404.10.xml"/>
+      <xi:include href="./sections/42-3404.11.xml"/>
+      <xi:include href="./sections/42-3404.12.xml"/>
+      <xi:include href="./sections/42-3404.13.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV-A</num>
       <heading>District’s Opportunity to Purchase.</heading>
-      <xi:include href="./sections/42-3404.31.xml" />
-      <xi:include href="./sections/42-3404.32.xml" />
-      <xi:include href="./sections/42-3404.33.xml" />
-      <xi:include href="./sections/42-3404.34.xml" />
-      <xi:include href="./sections/42-3404.35.xml" />
-      <xi:include href="./sections/42-3404.36.xml" />
-      <xi:include href="./sections/42-3404.37.xml" />
+      <xi:include href="./sections/42-3404.31.xml"/>
+      <xi:include href="./sections/42-3404.32.xml"/>
+      <xi:include href="./sections/42-3404.33.xml"/>
+      <xi:include href="./sections/42-3404.34.xml"/>
+      <xi:include href="./sections/42-3404.35.xml"/>
+      <xi:include href="./sections/42-3404.36.xml"/>
+      <xi:include href="./sections/42-3404.37.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Implementation and Enforcement.</heading>
-      <xi:include href="./sections/42-3405.01.xml" />
-      <xi:include href="./sections/42-3405.02.xml" />
-      <xi:include href="./sections/42-3405.03.xml" />
-      <xi:include href="./sections/42-3405.03a.xml" />
-      <xi:include href="./sections/42-3405.03b.xml" />
-      <xi:include href="./sections/42-3405.04.xml" />
-      <xi:include href="./sections/42-3405.05.xml" />
-      <xi:include href="./sections/42-3405.06.xml" />
-      <xi:include href="./sections/42-3405.07.xml" />
-      <xi:include href="./sections/42-3405.08.xml" />
-      <xi:include href="./sections/42-3405.09.xml" />
-      <xi:include href="./sections/42-3405.10.xml" />
-      <xi:include href="./sections/42-3405.10a.xml" />
-      <xi:include href="./sections/42-3405.11.xml" />
-      <xi:include href="./sections/42-3405.12.xml" />
-      <xi:include href="./sections/42-3405.13.xml" />
+      <xi:include href="./sections/42-3405.01.xml"/>
+      <xi:include href="./sections/42-3405.02.xml"/>
+      <xi:include href="./sections/42-3405.03.xml"/>
+      <xi:include href="./sections/42-3405.03a.xml"/>
+      <xi:include href="./sections/42-3405.03b.xml"/>
+      <xi:include href="./sections/42-3405.04.xml"/>
+      <xi:include href="./sections/42-3405.05.xml"/>
+      <xi:include href="./sections/42-3405.06.xml"/>
+      <xi:include href="./sections/42-3405.07.xml"/>
+      <xi:include href="./sections/42-3405.08.xml"/>
+      <xi:include href="./sections/42-3405.09.xml"/>
+      <xi:include href="./sections/42-3405.10.xml"/>
+      <xi:include href="./sections/42-3405.10a.xml"/>
+      <xi:include href="./sections/42-3405.11.xml"/>
+      <xi:include href="./sections/42-3405.12.xml"/>
+      <xi:include href="./sections/42-3405.13.xml"/>
     </container>
   </container>
   <container>
@@ -1317,134 +1730,134 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Findings; Purposes; Definitions.</heading>
-      <xi:include href="./sections/42-3501.01.xml" />
-      <xi:include href="./sections/42-3501.02.xml" />
-      <xi:include href="./sections/42-3501.03.xml" />
+      <xi:include href="./sections/42-3501.01.xml"/>
+      <xi:include href="./sections/42-3501.02.xml"/>
+      <xi:include href="./sections/42-3501.03.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Rent Stabilization Program.</heading>
-      <xi:include href="./sections/42-3502.01.xml" />
-      <xi:include href="./sections/42-3502.02.xml" />
-      <xi:include href="./sections/42-3502.02a.xml" />
-      <xi:include href="./sections/42-3502.03.xml" />
-      <xi:include href="./sections/42-3502.03a.xml" />
-      <xi:include href="./sections/42-3502.03b.xml" />
-      <xi:include href="./sections/42-3502.03c.xml" />
-      <xi:include href="./sections/42-3502.04.xml" />
-      <xi:include href="./sections/42-3502.04a.xml" />
-      <xi:include href="./sections/42-3502.04b.xml" />
-      <xi:include href="./sections/42-3502.04c.xml" />
-      <xi:include href="./sections/42-3502.05.xml" />
-      <xi:include href="./sections/42-3502.06.xml" />
-      <xi:include href="./sections/42-3502.07.xml" />
-      <xi:include href="./sections/42-3502.08.xml" />
-      <xi:include href="./sections/42-3502.09.xml" />
-      <xi:include href="./sections/42-3502.10.xml" />
-      <xi:include href="./sections/42-3502.11.xml" />
-      <xi:include href="./sections/42-3502.12.xml" />
-      <xi:include href="./sections/42-3502.13.xml" />
-      <xi:include href="./sections/42-3502.14.xml" />
-      <xi:include href="./sections/42-3502.15.xml" />
-      <xi:include href="./sections/42-3502.16.xml" />
-      <xi:include href="./sections/42-3502.16a.xml" />
-      <xi:include href="./sections/42-3502.17.xml" />
-      <xi:include href="./sections/42-3502.18.xml" />
-      <xi:include href="./sections/42-3502.19.xml" />
-      <xi:include href="./sections/42-3502.20.xml" />
-      <xi:include href="./sections/42-3502.21.xml" />
-      <xi:include href="./sections/42-3502.22.xml" />
-      <xi:include href="./sections/42-3502.23.xml" />
+      <xi:include href="./sections/42-3502.01.xml"/>
+      <xi:include href="./sections/42-3502.02.xml"/>
+      <xi:include href="./sections/42-3502.02a.xml"/>
+      <xi:include href="./sections/42-3502.03.xml"/>
+      <xi:include href="./sections/42-3502.03a.xml"/>
+      <xi:include href="./sections/42-3502.03b.xml"/>
+      <xi:include href="./sections/42-3502.03c.xml"/>
+      <xi:include href="./sections/42-3502.04.xml"/>
+      <xi:include href="./sections/42-3502.04a.xml"/>
+      <xi:include href="./sections/42-3502.04b.xml"/>
+      <xi:include href="./sections/42-3502.04c.xml"/>
+      <xi:include href="./sections/42-3502.05.xml"/>
+      <xi:include href="./sections/42-3502.06.xml"/>
+      <xi:include href="./sections/42-3502.07.xml"/>
+      <xi:include href="./sections/42-3502.08.xml"/>
+      <xi:include href="./sections/42-3502.09.xml"/>
+      <xi:include href="./sections/42-3502.10.xml"/>
+      <xi:include href="./sections/42-3502.11.xml"/>
+      <xi:include href="./sections/42-3502.12.xml"/>
+      <xi:include href="./sections/42-3502.13.xml"/>
+      <xi:include href="./sections/42-3502.14.xml"/>
+      <xi:include href="./sections/42-3502.15.xml"/>
+      <xi:include href="./sections/42-3502.16.xml"/>
+      <xi:include href="./sections/42-3502.16a.xml"/>
+      <xi:include href="./sections/42-3502.17.xml"/>
+      <xi:include href="./sections/42-3502.18.xml"/>
+      <xi:include href="./sections/42-3502.19.xml"/>
+      <xi:include href="./sections/42-3502.20.xml"/>
+      <xi:include href="./sections/42-3502.21.xml"/>
+      <xi:include href="./sections/42-3502.22.xml"/>
+      <xi:include href="./sections/42-3502.23.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Tenant Assistance Program.</heading>
-      <xi:include href="./sections/42-3503.01.xml" />
-      <xi:include href="./sections/42-3503.02.xml" />
-      <xi:include href="./sections/42-3503.03.xml" />
-      <xi:include href="./sections/42-3503.04.xml" />
-      <xi:include href="./sections/42-3503.05.xml" />
-      <xi:include href="./sections/42-3503.06.xml" />
-      <xi:include href="./sections/42-3503.07.xml" />
-      <xi:include href="./sections/42-3503.08.xml" />
+      <xi:include href="./sections/42-3503.01.xml"/>
+      <xi:include href="./sections/42-3503.02.xml"/>
+      <xi:include href="./sections/42-3503.03.xml"/>
+      <xi:include href="./sections/42-3503.04.xml"/>
+      <xi:include href="./sections/42-3503.05.xml"/>
+      <xi:include href="./sections/42-3503.06.xml"/>
+      <xi:include href="./sections/42-3503.07.xml"/>
+      <xi:include href="./sections/42-3503.08.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Revenue.</heading>
-      <xi:include href="./sections/42-3504.01.xml" />
+      <xi:include href="./sections/42-3504.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Evictions; Retaliatory Action; and Other Matters.</heading>
-      <xi:include href="./sections/42-3505.01.xml" />
-      <xi:include href="./sections/42-3505.02.xml" />
-      <xi:include href="./sections/42-3505.03.xml" />
-      <xi:include href="./sections/42-3505.04.xml" />
-      <xi:include href="./sections/42-3505.05.xml" />
-      <xi:include href="./sections/42-3505.06.xml" />
-      <xi:include href="./sections/42-3505.07.xml" />
-      <xi:include href="./sections/42-3505.08.xml" />
+      <xi:include href="./sections/42-3505.01.xml"/>
+      <xi:include href="./sections/42-3505.02.xml"/>
+      <xi:include href="./sections/42-3505.03.xml"/>
+      <xi:include href="./sections/42-3505.04.xml"/>
+      <xi:include href="./sections/42-3505.05.xml"/>
+      <xi:include href="./sections/42-3505.06.xml"/>
+      <xi:include href="./sections/42-3505.07.xml"/>
+      <xi:include href="./sections/42-3505.08.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Conversion or Demolition of Rental Housing for Hotels, Motels, or Inns.</heading>
-      <xi:include href="./sections/42-3506.01.xml" />
-      <xi:include href="./sections/42-3506.02.xml" />
+      <xi:include href="./sections/42-3506.01.xml"/>
+      <xi:include href="./sections/42-3506.02.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VII</num>
       <heading>Relocation Assistance for Tenants Displaced by Substantial Rehabilitation, Demolition, or Housing Discontinuance.</heading>
-      <xi:include href="./sections/42-3507.01.xml" />
-      <xi:include href="./sections/42-3507.02.xml" />
-      <xi:include href="./sections/42-3507.03.xml" />
-      <xi:include href="./sections/42-3507.04.xml" />
-      <xi:include href="./sections/42-3507.05.xml" />
+      <xi:include href="./sections/42-3507.01.xml"/>
+      <xi:include href="./sections/42-3507.02.xml"/>
+      <xi:include href="./sections/42-3507.03.xml"/>
+      <xi:include href="./sections/42-3507.04.xml"/>
+      <xi:include href="./sections/42-3507.05.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VIII</num>
       <heading>New and Vacant Rental Housing and Distressed Property.</heading>
-      <xi:include href="./sections/42-3508.01.xml" />
-      <xi:include href="./sections/42-3508.02.xml" />
-      <xi:include href="./sections/42-3508.03.xml" />
-      <xi:include href="./sections/42-3508.04.xml" />
-      <xi:include href="./sections/42-3508.05.xml" />
-      <xi:include href="./sections/42-3508.06.xml" />
+      <xi:include href="./sections/42-3508.01.xml"/>
+      <xi:include href="./sections/42-3508.02.xml"/>
+      <xi:include href="./sections/42-3508.03.xml"/>
+      <xi:include href="./sections/42-3508.04.xml"/>
+      <xi:include href="./sections/42-3508.05.xml"/>
+      <xi:include href="./sections/42-3508.06.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IX</num>
       <heading>Miscellaneous Provisions.</heading>
-      <xi:include href="./sections/42-3509.01.xml" />
-      <xi:include href="./sections/42-3509.02.xml" />
-      <xi:include href="./sections/42-3509.03.xml" />
-      <xi:include href="./sections/42-3509.04.xml" />
-      <xi:include href="./sections/42-3509.05.xml" />
-      <xi:include href="./sections/42-3509.06.xml" />
-      <xi:include href="./sections/42-3509.07.xml" />
-      <xi:include href="./sections/42-3509.08.xml" />
+      <xi:include href="./sections/42-3509.01.xml"/>
+      <xi:include href="./sections/42-3509.02.xml"/>
+      <xi:include href="./sections/42-3509.03.xml"/>
+      <xi:include href="./sections/42-3509.04.xml"/>
+      <xi:include href="./sections/42-3509.05.xml"/>
+      <xi:include href="./sections/42-3509.06.xml"/>
+      <xi:include href="./sections/42-3509.07.xml"/>
+      <xi:include href="./sections/42-3509.08.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>35A</num>
     <heading>Rental Housing: Tenant Advocacy.</heading>
-    <xi:include href="./sections/42-3531.01.xml" />
-    <xi:include href="./sections/42-3531.02.xml" />
-    <xi:include href="./sections/42-3531.03.xml" />
-    <xi:include href="./sections/42-3531.04.xml" />
-    <xi:include href="./sections/42-3531.05.xml" />
-    <xi:include href="./sections/42-3531.06.xml" />
-    <xi:include href="./sections/42-3531.07.xml" />
-    <xi:include href="./sections/42-3531.08.xml" />
-    <xi:include href="./sections/42-3531.09.xml" />
-    <xi:include href="./sections/42-3531.10.xml" />
+    <xi:include href="./sections/42-3531.01.xml"/>
+    <xi:include href="./sections/42-3531.02.xml"/>
+    <xi:include href="./sections/42-3531.03.xml"/>
+    <xi:include href="./sections/42-3531.04.xml"/>
+    <xi:include href="./sections/42-3531.05.xml"/>
+    <xi:include href="./sections/42-3531.06.xml"/>
+    <xi:include href="./sections/42-3531.07.xml"/>
+    <xi:include href="./sections/42-3531.08.xml"/>
+    <xi:include href="./sections/42-3531.09.xml"/>
+    <xi:include href="./sections/42-3531.10.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1454,126 +1867,126 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Residential Drug-Related Evictions.</heading>
-      <xi:include href="./sections/42-3601.xml" />
-      <xi:include href="./sections/42-3602.xml" />
-      <xi:include href="./sections/42-3603.xml" />
-      <xi:include href="./sections/42-3604.xml" />
-      <xi:include href="./sections/42-3605.xml" />
-      <xi:include href="./sections/42-3606.xml" />
-      <xi:include href="./sections/42-3607.xml" />
-      <xi:include href="./sections/42-3608.xml" />
-      <xi:include href="./sections/42-3609.xml" />
-      <xi:include href="./sections/42-3610.xml" />
+      <xi:include href="./sections/42-3601.xml"/>
+      <xi:include href="./sections/42-3602.xml"/>
+      <xi:include href="./sections/42-3603.xml"/>
+      <xi:include href="./sections/42-3604.xml"/>
+      <xi:include href="./sections/42-3605.xml"/>
+      <xi:include href="./sections/42-3606.xml"/>
+      <xi:include href="./sections/42-3607.xml"/>
+      <xi:include href="./sections/42-3608.xml"/>
+      <xi:include href="./sections/42-3609.xml"/>
+      <xi:include href="./sections/42-3610.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Expired Provisions.</heading>
-      <xi:include href="./sections/42-3631.xml" />
-      <xi:include href="./sections/42-3632.xml" />
-      <xi:include href="./sections/42-3633.xml" />
-      <xi:include href="./sections/42-3634.xml" />
-      <xi:include href="./sections/42-3635.xml" />
-      <xi:include href="./sections/42-3636.xml" />
-      <xi:include href="./sections/42-3637.xml" />
-      <xi:include href="./sections/42-3638.xml" />
-      <xi:include href="./sections/42-3639.xml" />
-      <xi:include href="./sections/42-3640.xml" />
+      <xi:include href="./sections/42-3631.xml"/>
+      <xi:include href="./sections/42-3632.xml"/>
+      <xi:include href="./sections/42-3633.xml"/>
+      <xi:include href="./sections/42-3634.xml"/>
+      <xi:include href="./sections/42-3635.xml"/>
+      <xi:include href="./sections/42-3636.xml"/>
+      <xi:include href="./sections/42-3637.xml"/>
+      <xi:include href="./sections/42-3638.xml"/>
+      <xi:include href="./sections/42-3639.xml"/>
+      <xi:include href="./sections/42-3640.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>36A</num>
     <heading>Tenant Receivership.</heading>
-    <xi:include href="./sections/42-3651.01.xml" />
-    <xi:include href="./sections/42-3651.02.xml" />
-    <xi:include href="./sections/42-3651.03.xml" />
-    <xi:include href="./sections/42-3651.04.xml" />
-    <xi:include href="./sections/42-3651.05.xml" />
-    <xi:include href="./sections/42-3651.06.xml" />
-    <xi:include href="./sections/42-3651.07.xml" />
-    <xi:include href="./sections/42-3651.08.xml" />
+    <xi:include href="./sections/42-3651.01.xml"/>
+    <xi:include href="./sections/42-3651.02.xml"/>
+    <xi:include href="./sections/42-3651.03.xml"/>
+    <xi:include href="./sections/42-3651.04.xml"/>
+    <xi:include href="./sections/42-3651.05.xml"/>
+    <xi:include href="./sections/42-3651.06.xml"/>
+    <xi:include href="./sections/42-3651.07.xml"/>
+    <xi:include href="./sections/42-3651.08.xml"/>
   </container>
   <subheading>Subtitle VII-A. Personal Property.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>36B</num>
     <heading>Lease-Purchase Agreements.</heading>
-    <xi:include href="./sections/42-3671.01.xml" />
-    <xi:include href="./sections/42-3671.02.xml" />
-    <xi:include href="./sections/42-3671.03.xml" />
-    <xi:include href="./sections/42-3671.04.xml" />
-    <xi:include href="./sections/42-3671.05.xml" />
-    <xi:include href="./sections/42-3671.06.xml" />
-    <xi:include href="./sections/42-3671.07.xml" />
-    <xi:include href="./sections/42-3671.08.xml" />
-    <xi:include href="./sections/42-3671.09.xml" />
-    <xi:include href="./sections/42-3671.10.xml" />
-    <xi:include href="./sections/42-3671.11.xml" />
-    <xi:include href="./sections/42-3671.12.xml" />
-    <xi:include href="./sections/42-3671.13.xml" />
-    <xi:include href="./sections/42-3671.14.xml" />
+    <xi:include href="./sections/42-3671.01.xml"/>
+    <xi:include href="./sections/42-3671.02.xml"/>
+    <xi:include href="./sections/42-3671.03.xml"/>
+    <xi:include href="./sections/42-3671.04.xml"/>
+    <xi:include href="./sections/42-3671.05.xml"/>
+    <xi:include href="./sections/42-3671.06.xml"/>
+    <xi:include href="./sections/42-3671.07.xml"/>
+    <xi:include href="./sections/42-3671.08.xml"/>
+    <xi:include href="./sections/42-3671.09.xml"/>
+    <xi:include href="./sections/42-3671.10.xml"/>
+    <xi:include href="./sections/42-3671.11.xml"/>
+    <xi:include href="./sections/42-3671.12.xml"/>
+    <xi:include href="./sections/42-3671.13.xml"/>
+    <xi:include href="./sections/42-3671.14.xml"/>
   </container>
   <subheading>Subtitle VIII. Repealed and Expired Provisions.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>37</num>
     <heading>Delinquent Home Mortgage Payments Fund.</heading>
-    <xi:include href="./sections/42-3701.xml" />
-    <xi:include href="./sections/42-3702.xml" />
-    <xi:include href="./sections/42-3703.xml" />
-    <xi:include href="./sections/42-3704.xml" />
-    <xi:include href="./sections/42-3705.xml" />
-    <xi:include href="./sections/42-3706.xml" />
-    <xi:include href="./sections/42-3707.xml" />
+    <xi:include href="./sections/42-3701.xml"/>
+    <xi:include href="./sections/42-3702.xml"/>
+    <xi:include href="./sections/42-3703.xml"/>
+    <xi:include href="./sections/42-3704.xml"/>
+    <xi:include href="./sections/42-3705.xml"/>
+    <xi:include href="./sections/42-3706.xml"/>
+    <xi:include href="./sections/42-3707.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>38</num>
     <heading>Government Employer-Assisted Housing. [Repealed].</heading>
-    <xi:include href="./sections/42-3801.xml" />
-    <xi:include href="./sections/42-3802.xml" />
-    <xi:include href="./sections/42-3803.xml" />
-    <xi:include href="./sections/42-3804.xml" />
-    <xi:include href="./sections/42-3805.xml" />
-    <xi:include href="./sections/42-3806.xml" />
+    <xi:include href="./sections/42-3801.xml"/>
+    <xi:include href="./sections/42-3802.xml"/>
+    <xi:include href="./sections/42-3803.xml"/>
+    <xi:include href="./sections/42-3804.xml"/>
+    <xi:include href="./sections/42-3805.xml"/>
+    <xi:include href="./sections/42-3806.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>39</num>
     <heading>Real Estate Appraisers. [Repealed].</heading>
-    <xi:include href="./sections/42-3901.xml" />
-    <xi:include href="./sections/42-3902.xml" />
-    <xi:include href="./sections/42-3903.xml" />
-    <xi:include href="./sections/42-3904.xml" />
-    <xi:include href="./sections/42-3905.xml" />
-    <xi:include href="./sections/42-3906.xml" />
-    <xi:include href="./sections/42-3907.xml" />
-    <xi:include href="./sections/42-3908.xml" />
-    <xi:include href="./sections/42-3909.xml" />
-    <xi:include href="./sections/42-3910.xml" />
-    <xi:include href="./sections/42-3911.xml" />
-    <xi:include href="./sections/42-3912.xml" />
-    <xi:include href="./sections/42-3913.xml" />
-    <xi:include href="./sections/42-3914.xml" />
-    <xi:include href="./sections/42-3915.xml" />
-    <xi:include href="./sections/42-3916.xml" />
-    <xi:include href="./sections/42-3917.xml" />
-    <xi:include href="./sections/42-3918.xml" />
-    <xi:include href="./sections/42-3919.xml" />
-    <xi:include href="./sections/42-3920.xml" />
-    <xi:include href="./sections/42-3921.xml" />
-    <xi:include href="./sections/42-3922.xml" />
-    <xi:include href="./sections/42-3923.xml" />
-    <xi:include href="./sections/42-3924.xml" />
-    <xi:include href="./sections/42-3925.xml" />
-    <xi:include href="./sections/42-3926.xml" />
-    <xi:include href="./sections/42-3927.xml" />
-    <xi:include href="./sections/42-3928.xml" />
-    <xi:include href="./sections/42-3929.xml" />
-    <xi:include href="./sections/42-3930.xml" />
-    <xi:include href="./sections/42-3931.xml" />
-    <xi:include href="./sections/42-3932.xml" />
+    <xi:include href="./sections/42-3901.xml"/>
+    <xi:include href="./sections/42-3902.xml"/>
+    <xi:include href="./sections/42-3903.xml"/>
+    <xi:include href="./sections/42-3904.xml"/>
+    <xi:include href="./sections/42-3905.xml"/>
+    <xi:include href="./sections/42-3906.xml"/>
+    <xi:include href="./sections/42-3907.xml"/>
+    <xi:include href="./sections/42-3908.xml"/>
+    <xi:include href="./sections/42-3909.xml"/>
+    <xi:include href="./sections/42-3910.xml"/>
+    <xi:include href="./sections/42-3911.xml"/>
+    <xi:include href="./sections/42-3912.xml"/>
+    <xi:include href="./sections/42-3913.xml"/>
+    <xi:include href="./sections/42-3914.xml"/>
+    <xi:include href="./sections/42-3915.xml"/>
+    <xi:include href="./sections/42-3916.xml"/>
+    <xi:include href="./sections/42-3917.xml"/>
+    <xi:include href="./sections/42-3918.xml"/>
+    <xi:include href="./sections/42-3919.xml"/>
+    <xi:include href="./sections/42-3920.xml"/>
+    <xi:include href="./sections/42-3921.xml"/>
+    <xi:include href="./sections/42-3922.xml"/>
+    <xi:include href="./sections/42-3923.xml"/>
+    <xi:include href="./sections/42-3924.xml"/>
+    <xi:include href="./sections/42-3925.xml"/>
+    <xi:include href="./sections/42-3926.xml"/>
+    <xi:include href="./sections/42-3927.xml"/>
+    <xi:include href="./sections/42-3928.xml"/>
+    <xi:include href="./sections/42-3929.xml"/>
+    <xi:include href="./sections/42-3930.xml"/>
+    <xi:include href="./sections/42-3931.xml"/>
+    <xi:include href="./sections/42-3932.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1583,92 +1996,92 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Findings; Purposes; Definitions.</heading>
-      <xi:include href="./sections/42-4001.xml" />
-      <xi:include href="./sections/42-4002.xml" />
-      <xi:include href="./sections/42-4003.xml" />
+      <xi:include href="./sections/42-4001.xml"/>
+      <xi:include href="./sections/42-4002.xml"/>
+      <xi:include href="./sections/42-4003.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Rent Stabilization Program.</heading>
-      <xi:include href="./sections/42-4011.xml" />
-      <xi:include href="./sections/42-4012.xml" />
-      <xi:include href="./sections/42-4013.xml" />
-      <xi:include href="./sections/42-4014.xml" />
-      <xi:include href="./sections/42-4015.xml" />
-      <xi:include href="./sections/42-4016.xml" />
-      <xi:include href="./sections/42-4017.xml" />
-      <xi:include href="./sections/42-4018.xml" />
-      <xi:include href="./sections/42-4019.xml" />
-      <xi:include href="./sections/42-4020.xml" />
-      <xi:include href="./sections/42-4021.xml" />
-      <xi:include href="./sections/42-4022.xml" />
-      <xi:include href="./sections/42-4023.xml" />
-      <xi:include href="./sections/42-4024.xml" />
-      <xi:include href="./sections/42-4025.xml" />
-      <xi:include href="./sections/42-4026.xml" />
-      <xi:include href="./sections/42-4027.xml" />
-      <xi:include href="./sections/42-4028.xml" />
-      <xi:include href="./sections/42-4029.xml" />
-      <xi:include href="./sections/42-4030.xml" />
+      <xi:include href="./sections/42-4011.xml"/>
+      <xi:include href="./sections/42-4012.xml"/>
+      <xi:include href="./sections/42-4013.xml"/>
+      <xi:include href="./sections/42-4014.xml"/>
+      <xi:include href="./sections/42-4015.xml"/>
+      <xi:include href="./sections/42-4016.xml"/>
+      <xi:include href="./sections/42-4017.xml"/>
+      <xi:include href="./sections/42-4018.xml"/>
+      <xi:include href="./sections/42-4019.xml"/>
+      <xi:include href="./sections/42-4020.xml"/>
+      <xi:include href="./sections/42-4021.xml"/>
+      <xi:include href="./sections/42-4022.xml"/>
+      <xi:include href="./sections/42-4023.xml"/>
+      <xi:include href="./sections/42-4024.xml"/>
+      <xi:include href="./sections/42-4025.xml"/>
+      <xi:include href="./sections/42-4026.xml"/>
+      <xi:include href="./sections/42-4027.xml"/>
+      <xi:include href="./sections/42-4028.xml"/>
+      <xi:include href="./sections/42-4029.xml"/>
+      <xi:include href="./sections/42-4030.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Rental Supplement Program.</heading>
-      <xi:include href="./sections/42-4041.xml" />
-      <xi:include href="./sections/42-4042.xml" />
-      <xi:include href="./sections/42-4043.xml" />
-      <xi:include href="./sections/42-4044.xml" />
-      <xi:include href="./sections/42-4045.xml" />
-      <xi:include href="./sections/42-4046.xml" />
-      <xi:include href="./sections/42-4047.xml" />
-      <xi:include href="./sections/42-4048.xml" />
+      <xi:include href="./sections/42-4041.xml"/>
+      <xi:include href="./sections/42-4042.xml"/>
+      <xi:include href="./sections/42-4043.xml"/>
+      <xi:include href="./sections/42-4044.xml"/>
+      <xi:include href="./sections/42-4045.xml"/>
+      <xi:include href="./sections/42-4046.xml"/>
+      <xi:include href="./sections/42-4047.xml"/>
+      <xi:include href="./sections/42-4048.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Revenue.</heading>
-      <xi:include href="./sections/42-4051.xml" />
+      <xi:include href="./sections/42-4051.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Evictions; Retaliatory Action.</heading>
-      <xi:include href="./sections/42-4061.xml" />
-      <xi:include href="./sections/42-4062.xml" />
-      <xi:include href="./sections/42-4063.xml" />
-      <xi:include href="./sections/42-4064.xml" />
-      <xi:include href="./sections/42-4065.xml" />
+      <xi:include href="./sections/42-4061.xml"/>
+      <xi:include href="./sections/42-4062.xml"/>
+      <xi:include href="./sections/42-4063.xml"/>
+      <xi:include href="./sections/42-4064.xml"/>
+      <xi:include href="./sections/42-4065.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Conversion or Demolition of Rental Housing.</heading>
-      <xi:include href="./sections/42-4071.xml" />
-      <xi:include href="./sections/42-4072.xml" />
+      <xi:include href="./sections/42-4071.xml"/>
+      <xi:include href="./sections/42-4072.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VII</num>
       <heading>Relocation Assistance for Tenants Displaced by Substantial Rehabilitation, Demolition, or Housing Discontinuance.</heading>
-      <xi:include href="./sections/42-4081.xml" />
-      <xi:include href="./sections/42-4082.xml" />
-      <xi:include href="./sections/42-4083.xml" />
-      <xi:include href="./sections/42-4084.xml" />
-      <xi:include href="./sections/42-4085.xml" />
+      <xi:include href="./sections/42-4081.xml"/>
+      <xi:include href="./sections/42-4082.xml"/>
+      <xi:include href="./sections/42-4083.xml"/>
+      <xi:include href="./sections/42-4084.xml"/>
+      <xi:include href="./sections/42-4085.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VIII</num>
       <heading>Miscellaneous Provisions.</heading>
-      <xi:include href="./sections/42-4091.xml" />
-      <xi:include href="./sections/42-4092.xml" />
-      <xi:include href="./sections/42-4093.xml" />
-      <xi:include href="./sections/42-4094.xml" />
-      <xi:include href="./sections/42-4095.xml" />
-      <xi:include href="./sections/42-4096.xml" />
-      <xi:include href="./sections/42-4097.xml" />
+      <xi:include href="./sections/42-4091.xml"/>
+      <xi:include href="./sections/42-4092.xml"/>
+      <xi:include href="./sections/42-4093.xml"/>
+      <xi:include href="./sections/42-4094.xml"/>
+      <xi:include href="./sections/42-4095.xml"/>
+      <xi:include href="./sections/42-4096.xml"/>
+      <xi:include href="./sections/42-4097.xml"/>
     </container>
   </container>
 </container>

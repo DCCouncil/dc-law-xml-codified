@@ -1,8 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<collection name="43" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<collection xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" name="43">
   <heading>The 43rd Congress</heading>
   <subheading>Public Laws</subheading>
-  <xi:include href="./laws/public/43-2-ch117.xml" />
-  <xi:include href="./laws/public/43-1-ch480.xml" />
-  <xi:include href="./laws/public/43-1-ch337.xml" />
+  <xi:include href="./laws/public/43-2-ch117.xml"/>
+  <xi:include href="./laws/public/43-1-ch480.xml"/>
+  <xi:include href="./laws/public/43-1-ch337.xml"/>
 </collection>

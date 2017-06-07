@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-128" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-128">
   <num type="law">21-128</num>
   <num type="bill">21-700</num>
   <num type="act">21-381</num>
@@ -13,10 +12,10 @@
       <citation type="register">63 DCR 7104</citation>
     </citations>
     <history>
-      <vote date="2016-04-05" reading="First" />
-      <vote date="2016-04-19" reading="Final" />
+      <vote date="2016-04-05" reading="First"/>
+      <vote date="2016-04-19" reading="Final"/>
       <enacted>2016-05-04</enacted>
-      <summary />
+      <summary/>
       <committee>Retained by the Council</committee>
     </history>
   </meta>

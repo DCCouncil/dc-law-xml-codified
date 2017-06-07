@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-2206.13</num>
   <heading>Penalties for driving under the influence of alcohol or a drug.</heading>
   <para>
@@ -67,6 +66,17 @@
     <text>An additional 30-day mandatory-minimum term of incarceration shall be imposed for each additional violation of any one or more provisions of § <cite path="§50-2206.11">50-2206.11</cite> or § <cite path="§50-2206.12">50-2206.12</cite> if the person has 3 prior offenses under § <cite path="§50-2206.11">50-2206.11</cite>, § <cite path="§50-2206.12">50-2206.12</cite>, or § <cite path="§50-2206.14">50-2206.14</cite> and is being sentenced on the current offense.</text>
   </para>
   <para>
+    <num>(d-1)</num>
+    <para>
+      <num>(1)</num>
+      <text>In addition to any other penalty provided by law, and notwithstanding section 10a of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat 1119; D.C. Official Code § 50-2201.05a), and section 3t(a-1)(1), a person violating any provision of section 3b or 3c when the person has 2 prior offenses under section 3b, 3c, or 3e within the past 5 years and is being sentenced on the current offense shall have his or her driver's license or privilege to operate a motor vehicle in the District permanently revoked without the ability to be reinstated.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Notwithstanding paragraph (1) of this subsection, a person whose driver's license or privilege to operate in the District was revoked pursuant to paragraph (1) of this subsection may, after 5 years from the date of revocation, apply to the Department for reinstatement. Upon receipt of an application, the Department may reinstate the persons driver's license or privilege to operate a motor vehicle in the District for good cause shown.</text>
+    </para>
+  </para>
+  <para>
     <num>(e)</num>
     <text>The fines set forth in this section shall not be limited by § <cite path="§22-3571.01">22-3571.01</cite>.</text>
   </para>
@@ -81,5 +91,6 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 113(f)(1) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) addition of this section, see § 103(e)(3) of the Comprehensive Impaired Driving and Alcohol Testing Program Second Congressional Review Emergency Act of 2013 (D.C. Act 20-51, April 17, 2013,  60 DCR 6344, 20 DCSTAT 1360).</annotation>
     <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§702|(a)" type="History"/>
   </annotations>
 </section>

@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 14-309" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 14-309">
   <num type="law">14-309</num>
   <heading type="short">Urban Forest Preservation Act of 2002</heading>
   <meta>
@@ -13,56 +12,56 @@
     </history>
   </meta>
   <container>
-    <codified:at doc="D.C. Code" path="8|6B" />
+    <codified:at doc="D.C. Code" path="8|6B"/>
     <prefix>Title</prefix>
     <num>I</num>
     <heading>Urban Forest Preservation.</heading>
     <section>
       <num>101</num>
-      <codified:stub doc="D.C. Code" path="§8-651.01" />
+      <codified:stub doc="D.C. Code" path="§8-651.01"/>
     </section>
     <section>
       <num>102</num>
-      <codified:stub doc="D.C. Code" path="§8-651.02" />
+      <codified:stub doc="D.C. Code" path="§8-651.02"/>
     </section>
     <section>
       <num>103</num>
-      <codified:stub doc="D.C. Code" path="§8-651.03" />
+      <codified:stub doc="D.C. Code" path="§8-651.03"/>
     </section>
     <section>
       <num>104</num>
-      <codified:stub doc="D.C. Code" path="§8-651.04" />
+      <codified:stub doc="D.C. Code" path="§8-651.04"/>
     </section>
     <section>
-      <codify:organic after="§8-651.04" num-value="8-651.04a" />
+      <codify:organic after="§8-651.04" num-value="8-651.04a"/>
       <reason>Not Funded</reason>
       <num>104a</num>
       <heading>Protection of Heritage Trees.</heading>
       <text>[Not Funded].</text>
-      <annotation app="notfunded" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(c)" prefix="as added" type="History" />
-      <annotation type="Editor's Notes" path="§104a" app="2016-07-01" eff="2016-07-01">
+      <annotation app="notfunded" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(c)" prefix="as added" type="History"/>
+      <annotation type="Editor's Notes" path="§2|(c)" app="2016-07-01" eff="2016-07-01" doc="D.C. Law 21-133">
        Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4">§ 4 of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(c)">§ 2(c) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
       </annotation>
-      <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(c)" type="History" />
+      <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(c)" type="History"/>
     </section>
     <section>
       <num>105</num>
-      <codified:stub doc="D.C. Code" path="§8-651.05" />
+      <codified:stub doc="D.C. Code" path="§8-651.05"/>
     </section>
     <section>
       <num>106</num>
-      <codified:stub doc="D.C. Code" path="§8-651.06" />
+      <codified:stub doc="D.C. Code" path="§8-651.06"/>
     </section>
     <section>
       <num>107</num>
-      <codified:stub doc="D.C. Code" path="§8-651.07" />
+      <codified:stub doc="D.C. Code" path="§8-651.07"/>
     </section>
     <section>
       <num>108</num>
-      <codified:stub doc="D.C. Code" path="§8-651.08" />
+      <codified:stub doc="D.C. Code" path="§8-651.08"/>
     </section>
     <section>
-      <codify:organic num-value="8-651.09" />
+      <codify:organic num-value="8-651.09"/>
       <num>109</num>
       <heading>Urban Forestry Advisory Council.</heading>
       <para>
@@ -159,7 +158,7 @@
         <num>(g)</num>
         <text>The District Department of Transportation and the District Department of the Environment shall provide the UFAC with an annual operating budget, which shall include funds to maintain a website where the UFAC shall provide a public listing of members, meeting notices, and meeting minutes.</text>
       </para>
-      <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(e)" prefix="as added" type="History" />
+      <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(e)" prefix="as added" type="History"/>
     </section>
   </container>
 </document>

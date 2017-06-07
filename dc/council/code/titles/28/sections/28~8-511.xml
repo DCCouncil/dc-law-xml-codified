@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:8-511</num>
   <heading>Priority among security interests and entitlement holders.</heading>
   <para>
@@ -23,8 +22,7 @@
     <text type="Uniform Commercial Code Comment">If a failed brokerage has violated the customer protection regulations and does not have sufficient securities to satisfy customers’ claims, its customers are protected against loss from a shortfall by the Securities Investor Protection Act (“SIPA”). Securities firms required to register as brokers or dealers are also required to become members of the Securities Investor Protection Corporation (“SIPC”), which provides their customers with protection somewhat similar to that provided by FDIC and other deposit insurance programs for bank depositors. When a member firm fails, SIPC is authorized to initiate a liquidation proceeding under the provisions of SIPA. If the assets of the securities firm are insufficient to satisfy all customer claims, SIPA makes contributions to the estate from a fund financed by assessments on its members to protect customers against losses up to $500,000 for cash and securities held at member firms.</text>
     <text type="Uniform Commercial Code Comment">Article 8 is premised on the view that the important policy of protecting investors against the risk of wrongful conduct by their intermediaries is sufficiently treated by other law.</text>
     <text type="Uniform Commercial Code Comment">3. Subsection (c) sets out a special rule for secured financing provided to enable clearing corporations to complete settlement. The reasons that secured financing arrangements are needed in such circumstances are explained in Comment 7 to  Section 9-115. In order to permit clearing corporations to establish liquidity facilities where necessary to ensure completion of settlement, subsection (c) provides a priority for secured lenders to such clearing corporations. Subsection (c) does not turn on control because the clearing corporation may be the top tier securities intermediary for the securities pledged, so that there may be no practicable method for conferring control on the lender.</text>
-    <text type="Uniform Commercial Code Comment">
-      <strong>Definitional Cross References</strong> “Clearing corporation”.  Section 8-102(a)(5).</text>
+    <text type="Uniform Commercial Code Comment"><strong>Definitional Cross References</strong> “Clearing corporation”.  Section 8-102(a)(5).</text>
     <text type="Uniform Commercial Code Comment">“Control”.  Section 8-106.</text>
     <text type="Uniform Commercial Code Comment">“Entitlement holder”.  Section 8-102(a)(7).</text>
     <text type="Uniform Commercial Code Comment">“Financial asset”.  Section 8-102(a)(9).</text>

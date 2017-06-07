@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-1301.02</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter:</text>
@@ -359,8 +358,7 @@
     <annotation type="Section References">This section is referenced in § <cite path="§2-1402.21">2-1402.21</cite>, § <cite path="§4-1301.06b">4-1301.06b</cite>, § <cite path="§4-1303.03">4-1303.03</cite>, § <cite path="§16-914">16-914</cite>, and § <cite path="§42-3505.07">42-3505.07</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-2101.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 6-2101.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-136">D.C. Law 13-136</cite> rewrote this section, which formerly read:</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-136">D.C. Law 13-136</cite> rewrote this section, which formerly read:</annotation>
     <annotation type="Effect of Amendments">“For the purposes of this act:</annotation>
     <annotation type="Effect of Amendments">“(1) ‘Child Protection Register’ means the confidential index of all reports established pursuant to § <cite path="§6-2111">6-2111</cite>.</annotation>
     <annotation type="Effect of Amendments">“(2) ‘Credible evidence’ means any evidence which indicates that a child is an abused or neglected child, including the statement of any person worthy of belief.</annotation>
@@ -375,27 +373,17 @@
     <annotation type="Effect of Amendments">“(11) ‘Drug-related activity’ means the use, sale, distribution, or manufacture of a drug or drug paraphernalia without a legally valid license or medical prescription.</annotation>
     <annotation type="Effect of Amendments">“(12) ‘Law enforcement officer’ means a sworn officer of the Metropolitan Police Department of the District of Columbia.</annotation>
     <annotation type="Effect of Amendments">“(13) ‘Abused,’ when used with reference to a child, means a child whose parent, guardian or custodian inflicts or fails to make reasonable efforts to prevent the infliction of physical or mental injury upon the child, including excessive corporal punishment, an act of sexual abuse, molestation, or exploitation, or an injury that results from exposure to drug-related activity.”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-277">D.C. Law 13-277</cite> added par. (2A) and rewrote par. (6) which had read:</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-277">D.C. Law 13-277</cite> added par. (2A) and rewrote par. (6) which had read:</annotation>
     <annotation type="Effect of Amendments">“(6) ‘Division’ means the Child Protective Services Division of the District of Columbia Department of Human Services.”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-206">D.C. Law 14-206</cite> rewrote par. (1); added pars. (12A), (14A), (18A), and (19A); and repealed pars. (17) and (20).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-341">D.C. Law 15-341</cite> added pars. (2B) and (15B).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in pars. (13A), (15A), (18), (19A), (20A), and (21), validated previously made technical corrections.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in par. (15B), validated a previously made technical correction.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-231">D.C. Law 17-231</cite> added par. (6A); and, in pars. (12) and (14)(D)(i), substituted “marriage, domestic partnership,” for “marriage,”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-162">D.C. Law 18-162</cite> added par. (4A).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-228">D.C. Law 18-228</cite> added par. (9A).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-312">D.C. Law 18-312</cite> added pars. (3)(F) and (G).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-141">D.C. Law 19-141</cite> added pars. (2A-i), (2A-ii), (2A-iii), (15C), and (22).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-206">D.C. Law 14-206</cite> rewrote par. (1); added pars. (12A), (14A), (18A), and (19A); and repealed pars. (17) and (20).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-341">D.C. Law 15-341</cite> added pars. (2B) and (15B).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in pars. (13A), (15A), (18), (19A), (20A), and (21), validated previously made technical corrections.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in par. (15B), validated a previously made technical correction.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-231">D.C. Law 17-231</cite> added par. (6A); and, in pars. (12) and (14)(D)(i), substituted “marriage, domestic partnership,” for “marriage,”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-162">D.C. Law 18-162</cite> added par. (4A).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-228">D.C. Law 18-228</cite> added par. (9A).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-312">D.C. Law 18-312</cite> added pars. (3)(F) and (G).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-141">D.C. Law 19-141</cite> added pars. (2A-i), (2A-ii), (2A-iii), (15C), and (22).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 3 of Prevention of Child Neglect Temporary Amendment Act of 1993 (<cite doc="D.C. Law 10-61">D.C. Law 10-61</cite>, November 20, 1993, law notification  40 DCR 8454).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 201(a) of Adoption and Safe Families Temporary Amendment Act of 1999 (<cite doc="D.C. Law 13-56">D.C. Law 13-56</cite>, March 7, 2000, law notification  47 DCR 1978).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2(a) of Adoption and Safe Families Compliance Temporary Amendment Act of 2000 (<cite doc="D.C. Law 13-193">D.C. Law 13-193</cite>, October 21, 2000, law notification  47 DCR 8983).</annotation>
@@ -449,6 +437,6 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2(a) of the Encouraging Foster Children To Have Connections with Siblings Emergency Amendment Act of 2015 (D.C. Act 21-240, Dec. 21, 2015,  63 DCR 11).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2(a) of the Supporting Normalcy and Empowering Children in Foster Care Emergency Amendment Act of 2016 (D.C. Act 21-333, Mar. 16, 2016,  63 DCR 4306).</annotation>
     <annotation type="References in Text">“Title IV of this act”, referenced in par. (2A), is title IV of Law 2-22, which is codified to 16-2304, 16-2310, 16-2313, 16-2315, 16-2319, 16-2320, 16-2323 to 16-2338, and 16-2351 to 16-2365.</annotation>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§4-1301.02" app="2016-06-17" eff="2016-06-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 21-123" path="§2|(a)">§ 2(a) of Supporting Normalcy and Empowering Children in Foster Care Temporary Amendment Act of 2016 (D.C. Law 21-123, June 17, 2016, 63 DCR 6866)</cite>.</annotation>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 21-123" path="§2|(a)" app="2016-06-17" eff="2016-06-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 21-123" path="§2|(a)">§ 2(a) of Supporting Normalcy and Empowering Children in Foster Care Temporary Amendment Act of 2016 (D.C. Law 21-123, June 17, 2016, 63 DCR 6866)</cite>.</annotation>
   </annotations>
 </section>

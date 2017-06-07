@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-1215.58</num>
   <heading>Capitol Riverfront BID.</heading>
   <para>
@@ -60,10 +59,8 @@
     <annotation doc="D.C. Law 19-161" type="History">July 13, 2012, D.C. Law 19-161, § 2, 59 DCR 5704</annotation>
     <annotation doc="D.C. Law 20-161" type="History">Feb. 26, 2015, D.C. Law 20-161, § 2(w), 61 DCR 10741</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§47-857.11">47-857.11</cite>.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in subsec. (c)(3).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-161">D.C. Law 19-161</cite> rewrote subsec. (c)(1), which formerly read:</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in subsec. (c)(3).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-161">D.C. Law 19-161</cite> rewrote subsec. (c)(1), which formerly read:</annotation>
     <annotation type="Effect of Amendments">“(c)(1) The BID taxes for the nonexempt real properties in the Capitol Riverfront BID shall be:</annotation>
     <annotation type="Effect of Amendments">“(A) The amount of $0.09 per $100 of the assessed value of real property containing less than 50,000 square feet of gross building area;</annotation>
     <annotation type="Effect of Amendments">“(B) The amount of $0.04 per $100 of the assessed value of land and buildings which have a certificate of occupancy or other District license indicating that the land or building has an existing active industrial, utility, or storage use;</annotation>

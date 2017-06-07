@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 1-23" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 1-23">
   <num type="law">1-23</num>
   <meta>
     <effective>1975-10-21</effective>
@@ -14,25 +13,25 @@
   <container>
     <prefix>Title</prefix>
     <num>VII</num>
-    <heading />
+    <heading/>
     <section>
       <num>701</num>
       <para>
         <num>(b)</num>
-        <codified:stub doc="D.C. Code" path="§34-2105" />
+        <codified:stub doc="D.C. Code" path="§34-2105"/>
       </para>
       <para>
         <num>(c)</num>
-        <codified:stub doc="D.C. Code" path="§34-2401.05" />
+        <codified:stub doc="D.C. Code" path="§34-2401.05"/>
       </para>
       <para>
         <num>(a)</num>
-        <codified:stub doc="D.C. Code" path="§34-2413.09" />
+        <codified:stub doc="D.C. Code" path="§34-2413.09"/>
       </para>
     </section>
     <section>
       <num>703</num>
-      <codified:stub doc="D.C. Code" path="§34-2401.06" />
+      <codified:stub doc="D.C. Code" path="§34-2401.06"/>
     </section>
   </container>
 </document>

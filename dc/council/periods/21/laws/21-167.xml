@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-167" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
-  <codify:organic doc="D.C. Code" path="50|22" num-value="II-B" after="II" heading-value="Motor Vehicle Collision Recovery." prefix-value="Subchapter" tag="container" technical="true" history="false" />
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-167">
+  <codify:organic doc="D.C. Code" path="50|22" num-value="II-B" after="II" heading-value="Motor Vehicle Collision Recovery." prefix-value="Subchapter" tag="container" technical="true" history="false"/>
   <num type="law">21-167</num>
   <num type="bill">21-4</num>
   <num type="act">21-490</num>
@@ -13,9 +12,9 @@
       <citation type="register">63 DCR 12592</citation>
     </citations>
     <history>
-      <vote date="2016-06-28" reading="Motion" />
-      <vote date="2016-07-12" reading="First" />
-      <vote date="2016-09-20" reading="Final" />
+      <vote date="2016-06-28" reading="Motion"/>
+      <vote date="2016-07-12" reading="First"/>
+      <vote date="2016-09-20" reading="Final"/>
       <enacted>2016-10-04</enacted>
       <summary>Law 21-167 changes the District's legal negligence standard in automobile accidents involving a motor vehicle and pedestrians, bicyclists, or other persons not driving a vehicle. </summary>
       <committee>Committee on Judiciary</committee>
@@ -25,7 +24,7 @@
     <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Motor Vehicle Collision Recovery Act of 2016".</text>
   </section>
   <section>
-    <codify:organic num-value="50-2204.51" />
+    <codify:organic num-value="50-2204.51"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of this act, the term:</text>
@@ -47,7 +46,7 @@
     </para>
   </section>
   <section>
-    <codify:organic num-value="50-2204.52" />
+    <codify:organic num-value="50-2204.52"/>
     <num>3</num>
     <heading>Contributory negligence limitation.</heading>
     <para>
@@ -84,7 +83,7 @@
     </para>
   </section>
   <section>
-    <codify:organic num-value="50-2204.53" />
+    <codify:organic num-value="50-2204.53"/>
     <num>4</num>
     <text>Non-severability.</text>
     <text>If any provision of this act or its application to any person or circumstance is held to be unconstitutional, beyond the statutory authority of the Council, or otherwise invalid, then all provisions of this act shall be deemed invalid.</text>

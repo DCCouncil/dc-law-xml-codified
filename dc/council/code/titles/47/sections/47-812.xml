@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-812</num>
   <heading>Establishment of rates.</heading>
   <para>
@@ -495,24 +494,15 @@
     <annotation type="Section References">This section is referenced in § <cite path="§47-811">47-811</cite>, § <cite path="§47-815">47-815</cite>, § <cite path="§47-1005.01">47-1005.01</cite>, and § <cite path="§47-4640">47-4640</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 47-812.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 47-632.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-38">D.C. Law 13-38</cite> added subsec. (b-3), (b-4) and (b-5).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-91">D.C. Law 13-91</cite> validated a previously made technical amendment in subsec. (b-2)(3).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-307">D.C. Law 14-307</cite> repealed par. (2) of subsec. (b-5); and added subsec. (b-6). Prior to repeal, par. (2) of subsec. (b-5) had read as follows: “(2) $0.9531 for each $100 of assessed value for Class 2 Property;”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-33">D.C. Law 16-33</cite>, added subsecs. (b-7) and (b-8).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-123">D.C. Law 17-123</cite> repealed subsec. (b-8)(2)(A) and added subsec. (b-9). Prior to repeal, subsec. (b-8)(2)(A), read as follows: “(A) $1.85 for each $100 of assessed value for Class 2 Property; and”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-216">D.C. Law 17-216</cite> added subsec. (b-10).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> rewrote subsec. (b-9).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsec. (b-10), which had read as follows: “(b-10) Notwithstanding the provisions of subsection (a) of this section, the sum of the real property tax rates and special real property tax rates for taxable Class 3 Properties in the District of Columbia for the tax year beginning October 1, 2008, and each tax year thereafter, shall be $10 for each $100 of assessed value.”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (b-9)(2)(A)(i), substituted “subparagraph (B) of this paragraph; provided, that for the tax year beginning October 1, 2011, the tax rate shall be $1.65 of each $100 of assessed value; and” for “subparagraph (B) of this paragraph; and”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-38">D.C. Law 13-38</cite> added subsec. (b-3), (b-4) and (b-5).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite> validated a previously made technical amendment in subsec. (b-2)(3).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-307">D.C. Law 14-307</cite> repealed par. (2) of subsec. (b-5); and added subsec. (b-6). Prior to repeal, par. (2) of subsec. (b-5) had read as follows: “(2) $0.9531 for each $100 of assessed value for Class 2 Property;”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-33">D.C. Law 16-33</cite>, added subsecs. (b-7) and (b-8).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-123">D.C. Law 17-123</cite> repealed subsec. (b-8)(2)(A) and added subsec. (b-9). Prior to repeal, subsec. (b-8)(2)(A), read as follows: “(A) $1.85 for each $100 of assessed value for Class 2 Property; and”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-216">D.C. Law 17-216</cite> added subsec. (b-10).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> rewrote subsec. (b-9).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsec. (b-10), which had read as follows: “(b-10) Notwithstanding the provisions of subsection (a) of this section, the sum of the real property tax rates and special real property tax rates for taxable Class 3 Properties in the District of Columbia for the tax year beginning October 1, 2008, and each tax year thereafter, shall be $10 for each $100 of assessed value.”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (b-9)(2)(A)(i), substituted “subparagraph (B) of this paragraph; provided, that for the tax year beginning October 1, 2011, the tax rate shall be $1.65 of each $100 of assessed value; and” for “subparagraph (B) of this paragraph; and”.</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> deleted “as certified in the latest revenue estimate” following “taxes estimated to be collected” in (b-8)(1)(A)(iv)(I); rewrote (b-8)(1)(A)(iv)(II); repealed (b-8)(2); rewrote (b-9)(1)(A) and (b-9)(2)(A)(i); substituted “estimated to be received” for “received” in (b-9)(2)(B)(ii)(I); substituted “in the tax year based upon the applicable rates in effect for Class 2 Properties during the prior tax year” for “for Class 2 Properties based upon a rate of $ 1.85 of each $ 100 of assessed value” in in (b-9)(2)(B)(ii)(II); substituted “By January 5 of each tax year” for “Before September 16 of each year” in in (b-9)(2)(B)(iii); and added (f).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see 102(a) of Tax Parity Rates and Unincorporated Business Franchise Tax Rate Clarification Temporary Act of 2002 (<cite doc="D.C. Law 14-163">D.C. Law 14-163</cite>, June 25, 2002, law notification  49 DCR 6499).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 102(a) of Tax Parity Rates and Unincorporated Business Franchise Tax Rate Clarification Emergency Act of 2002 (D.C. Act 14-309, March 25, 2002,  49 DCR 3416).</annotation>

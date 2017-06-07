@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<container containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<container xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <prefix>Title</prefix>
   <num>34</num>
   <heading>Public Utilities.</heading>
@@ -8,87 +7,87 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Applicability of Subtitle.</heading>
-    <xi:include href="./sections/34-101.xml" />
-    <xi:include href="./sections/34-102.xml" />
+    <xi:include href="./sections/34-101.xml"/>
+    <xi:include href="./sections/34-102.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Definitions Applicable to Subtitle.</heading>
-    <xi:include href="./sections/34-201.xml" />
-    <xi:include href="./sections/34-202.xml" />
-    <xi:include href="./sections/34-203.xml" />
-    <xi:include href="./sections/34-204.xml" />
-    <xi:include href="./sections/34-205.xml" />
-    <xi:include href="./sections/34-206.xml" />
-    <xi:include href="./sections/34-207.xml" />
-    <xi:include href="./sections/34-208.xml" />
-    <xi:include href="./sections/34-209.xml" />
-    <xi:include href="./sections/34-210.xml" />
-    <xi:include href="./sections/34-211.xml" />
-    <xi:include href="./sections/34-212.xml" />
-    <xi:include href="./sections/34-213.xml" />
-    <xi:include href="./sections/34-214.xml" />
-    <xi:include href="./sections/34-215.xml" />
-    <xi:include href="./sections/34-216.xml" />
-    <xi:include href="./sections/34-217.xml" />
-    <xi:include href="./sections/34-218.xml" />
-    <xi:include href="./sections/34-219.xml" />
-    <xi:include href="./sections/34-220.xml" />
-    <xi:include href="./sections/34-221.xml" />
-    <xi:include href="./sections/34-222.xml" />
+    <xi:include href="./sections/34-201.xml"/>
+    <xi:include href="./sections/34-202.xml"/>
+    <xi:include href="./sections/34-203.xml"/>
+    <xi:include href="./sections/34-204.xml"/>
+    <xi:include href="./sections/34-205.xml"/>
+    <xi:include href="./sections/34-206.xml"/>
+    <xi:include href="./sections/34-207.xml"/>
+    <xi:include href="./sections/34-208.xml"/>
+    <xi:include href="./sections/34-209.xml"/>
+    <xi:include href="./sections/34-210.xml"/>
+    <xi:include href="./sections/34-211.xml"/>
+    <xi:include href="./sections/34-212.xml"/>
+    <xi:include href="./sections/34-213.xml"/>
+    <xi:include href="./sections/34-214.xml"/>
+    <xi:include href="./sections/34-215.xml"/>
+    <xi:include href="./sections/34-216.xml"/>
+    <xi:include href="./sections/34-217.xml"/>
+    <xi:include href="./sections/34-218.xml"/>
+    <xi:include href="./sections/34-219.xml"/>
+    <xi:include href="./sections/34-220.xml"/>
+    <xi:include href="./sections/34-221.xml"/>
+    <xi:include href="./sections/34-222.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>3</num>
     <heading>Gas and Electric Corporations.</heading>
-    <xi:include href="./sections/34-301.xml" />
-    <xi:include href="./sections/34-302.xml" />
-    <xi:include href="./sections/34-302.01.xml" />
-    <xi:include href="./sections/34-303.xml" />
-    <xi:include href="./sections/34-304.xml" />
-    <xi:include href="./sections/34-305.xml" />
-    <xi:include href="./sections/34-306.xml" />
+    <xi:include href="./sections/34-301.xml"/>
+    <xi:include href="./sections/34-302.xml"/>
+    <xi:include href="./sections/34-302.01.xml"/>
+    <xi:include href="./sections/34-303.xml"/>
+    <xi:include href="./sections/34-304.xml"/>
+    <xi:include href="./sections/34-305.xml"/>
+    <xi:include href="./sections/34-306.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>4</num>
     <heading>General Provisions.</heading>
-    <xi:include href="./sections/34-401.xml" />
-    <xi:include href="./sections/34-402.xml" />
-    <xi:include href="./sections/34-403.xml" />
-    <xi:include href="./sections/34-404.xml" />
-    <xi:include href="./sections/34-405.xml" />
-    <xi:include href="./sections/34-406.xml" />
-    <xi:include href="./sections/34-407.xml" />
+    <xi:include href="./sections/34-401.xml"/>
+    <xi:include href="./sections/34-402.xml"/>
+    <xi:include href="./sections/34-403.xml"/>
+    <xi:include href="./sections/34-404.xml"/>
+    <xi:include href="./sections/34-405.xml"/>
+    <xi:include href="./sections/34-406.xml"/>
+    <xi:include href="./sections/34-407.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>5</num>
     <heading>Issuance of Securities.</heading>
-    <xi:include href="./sections/34-501.xml" />
-    <xi:include href="./sections/34-502.xml" />
-    <xi:include href="./sections/34-503.xml" />
-    <xi:include href="./sections/34-504.xml" />
-    <xi:include href="./sections/34-505.xml" />
-    <xi:include href="./sections/34-506.xml" />
-    <xi:include href="./sections/34-507.xml" />
+    <xi:include href="./sections/34-501.xml"/>
+    <xi:include href="./sections/34-502.xml"/>
+    <xi:include href="./sections/34-503.xml"/>
+    <xi:include href="./sections/34-504.xml"/>
+    <xi:include href="./sections/34-505.xml"/>
+    <xi:include href="./sections/34-506.xml"/>
+    <xi:include href="./sections/34-507.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>6</num>
     <heading>Orders and Court Proceedings.</heading>
-    <xi:include href="./sections/34-601.xml" />
-    <xi:include href="./sections/34-602.xml" />
-    <xi:include href="./sections/34-603.xml" />
-    <xi:include href="./sections/34-604.xml" />
-    <xi:include href="./sections/34-605.xml" />
-    <xi:include href="./sections/34-606.xml" />
-    <xi:include href="./sections/34-607.xml" />
-    <xi:include href="./sections/34-608.xml" />
-    <xi:include href="./sections/34-609.xml" />
-    <xi:include href="./sections/34-610.xml" />
-    <xi:include href="./sections/34-611.xml" />
+    <xi:include href="./sections/34-601.xml"/>
+    <xi:include href="./sections/34-602.xml"/>
+    <xi:include href="./sections/34-603.xml"/>
+    <xi:include href="./sections/34-604.xml"/>
+    <xi:include href="./sections/34-605.xml"/>
+    <xi:include href="./sections/34-606.xml"/>
+    <xi:include href="./sections/34-607.xml"/>
+    <xi:include href="./sections/34-608.xml"/>
+    <xi:include href="./sections/34-609.xml"/>
+    <xi:include href="./sections/34-610.xml"/>
+    <xi:include href="./sections/34-611.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -98,111 +97,286 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General.</heading>
-      <xi:include href="./sections/34-701.xml" />
-      <xi:include href="./sections/34-702.xml" />
-      <xi:include href="./sections/34-703.xml" />
-      <xi:include href="./sections/34-704.xml" />
-      <xi:include href="./sections/34-705.xml" />
-      <xi:include href="./sections/34-706.xml" />
-      <xi:include href="./sections/34-707.xml" />
-      <xi:include href="./sections/34-708.xml" />
-      <xi:include href="./sections/34-709.xml" />
-      <xi:include href="./sections/34-710.xml" />
-      <xi:include href="./sections/34-711.xml" />
+      <xi:include href="./sections/34-701.xml"/>
+      <xi:include href="./sections/34-702.xml"/>
+      <xi:include href="./sections/34-703.xml"/>
+      <xi:include href="./sections/34-704.xml"/>
+      <xi:include href="./sections/34-705.xml"/>
+      <xi:include href="./sections/34-706.xml"/>
+      <xi:include href="./sections/34-707.xml"/>
+      <xi:include href="./sections/34-708.xml"/>
+      <xi:include href="./sections/34-709.xml"/>
+      <xi:include href="./sections/34-710.xml"/>
+      <xi:include href="./sections/34-711.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Prosecution for Violation of Public Service Commission Rules.</heading>
-      <xi:include href="./sections/34-731.xml" />
-      <xi:include href="./sections/34-732.xml" />
+      <xi:include href="./sections/34-731.xml"/>
+      <xi:include href="./sections/34-732.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>8</num>
     <heading>Public Service Commission; Members; Counsel; Employees.</heading>
-    <xi:include href="./sections/34-801.xml" />
-    <xi:include href="./sections/34-802.xml" />
-    <xi:include href="./sections/34-803.xml" />
-    <xi:include href="./sections/34-804.xml" />
-    <xi:include href="./sections/34-805.xml" />
-    <xi:include href="./sections/34-806.xml" />
-    <xi:include href="./sections/34-807.xml" />
-    <xi:include href="./sections/34-808.xml" />
-    <xi:include href="./sections/34-808.01.xml" />
-    <xi:include href="./sections/34-808.02.xml" />
-    <xi:include href="./sections/34-809.xml" />
+    <xi:include href="./sections/34-801.xml"/>
+    <xi:include href="./sections/34-802.xml"/>
+    <xi:include href="./sections/34-803.xml"/>
+    <xi:include href="./sections/34-804.xml"/>
+    <xi:include href="./sections/34-805.xml"/>
+    <xi:include href="./sections/34-806.xml"/>
+    <xi:include href="./sections/34-807.xml"/>
+    <xi:include href="./sections/34-808.xml"/>
+    <xi:include href="./sections/34-808.01.xml"/>
+    <xi:include href="./sections/34-808.02.xml"/>
+    <xi:include href="./sections/34-809.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>9</num>
     <heading>Rates, Examinations, Investigations, and Hearings.</heading>
-    <xi:include href="./sections/34-901.xml" />
-    <xi:include href="./sections/34-902.xml" />
-    <xi:include href="./sections/34-903.xml" />
-    <xi:include href="./sections/34-904.xml" />
-    <xi:include href="./sections/34-905.xml" />
-    <xi:include href="./sections/34-906.xml" />
-    <xi:include href="./sections/34-907.xml" />
-    <xi:include href="./sections/34-908.xml" />
-    <xi:include href="./sections/34-909.xml" />
-    <xi:include href="./sections/34-910.xml" />
-    <xi:include href="./sections/34-911.xml" />
-    <xi:include href="./sections/34-912.xml" />
-    <xi:include href="./sections/34-913.xml" />
-    <xi:include href="./sections/34-914.xml" />
-    <xi:include href="./sections/34-915.xml" />
-    <xi:include href="./sections/34-916.xml" />
-    <xi:include href="./sections/34-917.xml" />
-    <xi:include href="./sections/34-918.xml" />
-    <xi:include href="./sections/34-919.xml" />
-    <xi:include href="./sections/34-920.xml" />
-    <xi:include href="./sections/34-921.xml" />
-    <xi:include href="./sections/34-922.xml" />
+    <xi:include href="./sections/34-901.xml"/>
+    <xi:include href="./sections/34-902.xml"/>
+    <xi:include href="./sections/34-903.xml"/>
+    <xi:include href="./sections/34-904.xml"/>
+    <xi:include href="./sections/34-905.xml"/>
+    <xi:include href="./sections/34-906.xml"/>
+    <xi:include href="./sections/34-907.xml"/>
+    <xi:include href="./sections/34-908.xml"/>
+    <xi:include href="./sections/34-909.xml"/>
+    <xi:include href="./sections/34-910.xml"/>
+    <xi:include href="./sections/34-911.xml"/>
+    <section>
+      <num>34-912</num>
+      <heading>Expenses of investigation to be borne by utility; deposit for costs; limitation of expenditures in hearings; reimbursement fee.</heading>
+      <para>
+        <num>(a)</num>
+        <para>
+          <num>(1)</num>
+          <text>There are established within the District of Columbia treasury 2 fiduciary funds to be known as the “Public Service Commission Agency Fund” and the “Office of the People’s Counsel Agency Fund”. These funds shall be accounted for under procedures established pursuant to subchapter V of Chapter 3 of Title 47, or any other applicable law. The Public Service Commission Agency Fund shall be used exclusively by the Commission for the payment of its expenses and the Office of the People’s Counsel Agency Fund shall be used exclusively by the Office for the payment of its expenses arising from any investigation, valuation, revaluation, or proceeding of any nature by the Commission of or concerning any public utility operating in the District of Columbia, and all expenses of any litigation, including appeals, arising from any such investigation, valuation, revaluation, or proceeding or from any other order or action of the Commission. Expenses shall be deemed to include, but not be limited to, the cost of independent contractors, such as attorneys. Funding for both funds shall be provided through a special franchise tax which shall be paid by each public utility being investigated, valued, revalued, or otherwise affected through a proceeding of the Commission, subject to the limitations enumerated in paragraph (3) of this subsection. Any deposits made through this special franchise tax to each agency fund by any public utility may be amortized over whatever period the Commission shall deem proper and shall be allowed for in the rates to be charged by each utility.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>When any such investigation, valuation, revaluation, or other proceeding of any nature is begun by the Commission or the Office of the People’s Counsel, either the Commission or the Office of the People’s Counsel shall, according to rules issued pursuant to paragraph (5) of this subsection, determine from time to time the reasonable and necessary expenditures required to fully carry out their respective statutory responsibilities with regard to such investigation, valuation, revaluation, or other proceeding. Once the Commission has determined its requirements, the Commission may call upon the utility in question from time to time for the prompt deposit of the special franchise tax deposit to the Public Service Commission Agency Fund determined by the Commission to be reasonable and necessary, subject to the limitations provided in paragraph (3) of this subsection. Once the Office of the People’s Counsel has determined its requirements, the Office shall submit its determination for review by the Commission. Based on the record established by the Office’s determination of its requirement for special franchise tax funds, the Commission shall review the Office’s determination solely to determine whether it is consistent with the statutory authority of and rules issued by the Office, whether it is supported by findings, whether those findings are sustained by substantial evidence in the record submitted to the Commission, and whether it is within the limitations enumerated in paragraph (3) of this subsection. The Commission shall complete its review within 10 days (excluding Saturdays, Sundays, and holidays) of receipt of the Office’s determination. After completing its review, the Commission shall either call upon the utilities for the prompt deposit of the special franchise tax deposit to the Office of the People’s Counsel Agency Fund or inform the Office in writing of any specific failures of the Office to meet the Commission’s enumerated standard of review. Within 10 days (excluding Saturdays, Sundays, and holidays) of any resubmission by the Office, the Commission shall similarly act. If the Commission still notes a failure to meet its standard of review, the Office may appeal to the District of Columbia Court of Appeals under procedures enumerated in § <cite path="§34-605">34-605</cite>. If the Commission fails to take action on any submission or resubmission by the Office within the required time frame, the submission or resubmission shall be deemed approved, and the Commission shall carry out its duty to obtain the requested deposit. All such sums shall be deposited in the District of Columbia Treasury. Those sums which are to be used by the Commission for its expenses shall be deposited in the Public Service Commission Agency Fund and those sums which are requested by the Commission on behalf of the Office shall be deposited in the Office of the People’s Counsel Agency Fund, to be disbursed in the manner provided for by law for other expenditures of the government of the District of Columbia. The balance of any sums for a specific proceeding remaining in each fund after a 12-month period in which actual expenditures for that proceeding were 5% or less of the fund balance, shall be returned to the utility which made the deposit. The balance of any sums for a specific proceeding remaining after the final disposition of the proceeding or any litigation arising therefrom shall be returned promptly to the utility which made the deposit.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In any valuation or rate case, neither the Commission nor the Office may individually seek special franchise tax deposits of more than one-quarter of one percent of the jurisdictional valuation of the public utility which is the subject of the proceeding. In all other investigations docketed as formal proceedings by the Commission, neither the Commission nor the Office shall individually seek special franchise tax deposits in any one year of more than one-twentieth of one percent of the jurisdictional valuation of each public utility which is the subject of one or more investigations during that year; provided, that the Office may seek special franchise tax deposits of not more than one-quarter of one percent of the jurisdictional valuation of the public utility which is the subject of the proceeding in any instance where the public utility alleges in a proceeding before a federal court or federal agency that the bankruptcy of a company with whom it has contracts may have adverse consequences to ratepayers of the District of Columbia. For the purposes of this paragraph, the Commission may determine the jurisdictional valuation of the public utility which is the subject of the formal proceeding whenever it deems necessary, in accordance with § <cite path="§34-1106">34-1106</cite>, based on the operations of the utility over whatever 12-month period it deems appropriate.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Should any public utility fail to make any special franchise tax deposit ordered by the Commission pursuant to this section, the Commission shall certify this failure to the Mayor for collection pursuant to the provisions of subchapter XIII of Chapter 18 of Title 47.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The Commission and the Office shall issue rules reasonable and necessary to provide procedures for the determination of their needs for funds from their respective agency funds. These rules shall include provisions for full disclosure of all special franchise tax deposits prior to the issuance of the deposit orders by the Commission on its own behalf and on behalf of the Office. Full disclosure shall include, but not be limited to, the name of each contractor to be hired, the qualifications of each contractor, a brief description of the work to be done by each contractor, the number of persons employed by each contractor and the hourly rate to be charged by each person thus employed, and the estimated value of each contract.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Repealed.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>The Commission and the Office shall issue reports to the Mayor and the Council by February 15 of the succeeding fiscal year on deposits to and disbursements from their respective agency funds during each fiscal year. Copies of the reports shall be provided to each public utility.</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Neither the staff of the Commission nor any consultant hired by the Commission shall appear as a party to, advocate, or intervenor in any Commission proceeding. Individual staff members and consultants may appear on behalf of the Commission as expert witnesses at the direction of the Commission to present testimony on selected issues after the Commission makes a finding of the issues to be decided in the proceeding and a determination that testimony in addition to that to be presented by the parties or intervenors is required by the Commission to develop a complete record. The staff members and consultants shall not advocate a position on the merits. Expert witnesses may be represented by counsel appointed by the Commission for this purpose. The General Counsel or the General Counsel’s designee may, at the direction of the Commission and on behalf of the Commission, cross-examine any witness in any proceeding before the Commission.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <para>
+            <num>(A)</num>
+            <text>Each public utility shall furnish the Commission a statement of all costs of participation to be incurred in each Commission and related court proceeding or in complying with the provisions of this title. The statement shall include, but is not limited to, the projected costs and expenses both direct and indirect, an allocation of all projected internal overhead, expenses, and salaries, the name of each contractor to be hired and the value of each contract. This statement shall be compiled and filed with the Commission, with a copy to the Office of People’s Counsel, when filing a request for a change in rates or services with the Commission. Each public utility shall also file annually with the Commission, with a copy to the Office, a statement of costs for the previous fiscal year no later than 3 months after the completion of the fiscal year.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The records to be kept and the information presented in the annual statement shall be by case, matter, investigation, or proceeding and shall describe all costs and expenses, external and internal, retained and employed, direct and indirect, including an allocation of all internal overhead, expenses, and employee salaries to each proceeding or matter. If an allocation of costs is made, the report shall fully explain the allocation method used. If any services were provided to the public utility by consultants or contractors, copies of the relevant contracts shall be provided with the annual statement. The Office of the People’s Counsel may submit to the public utility a request for further information concerning the annual statement.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <para>
+          <num>(1)</num>
+          <text>All amounts appropriated for the Public Service Commission and the Office of the People’s Counsel for each fiscal year shall be repaid during such fiscal year by the public utilities, natural gas suppliers, electricity suppliers, and telecommunications service providers as a reimbursement fee.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Public Service Commission shall annually determine the amount of the reimbursement fee to be paid by each natural gas supplier, electricity supplier, and telecommunications service provider authorized to provide service in the District, excluding the local exchange carrier, and the formula by which the amount shall be determined.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <para>
+            <num>(A)</num>
+            <text>The amount of the reimbursement fee to be paid by each public utility other than those subject to paragraph (2) of this subsection shall be equal to the amounts appropriated, less the amount to be reimbursed by the providers subject to paragraph (2) of this subsection, multiplied by the fraction, as determined by the Mayor, represented by the gross revenues of the public utility derived from utility operations in the District of Columbia that are regulated by the Public Service Commission during the immediately preceding fiscal year (or other 12-month period as the Mayor may designate), divided by the gross revenues of all public utilities from utility operations in the District of Columbia during such period. The fee shall be paid by the public utilities during such fiscal year to the Treasurer of the District of Columbia, at such time or times and in such manner as the Mayor by regulation may require.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>If the total amount paid or obligated by the Public Service Commission and the People’s Counsel during such fiscal year pursuant to appropriations for such fiscal year is less than the amounts appropriated by more than 5%, the Mayor shall refund to or credit each public utility, natural gas supplier, electricity supplier, and telecommunications service provider subject to subparagraph (A) of this paragraph and paragraph (2) of this subsection a portion of the difference, rounded to the nearest dollar, as equals the difference multiplied by the fraction, representing the gross revenues of the public utility, natural gas supplier, electricity supplier, or telecommunications service provider, divided by the gross revenues of all public utilities, natural gas suppliers, electricity suppliers, and telecommunications service providers.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Subparagraph (B) of this paragraph shall apply as of Fiscal Year 2012.</text>
+          </para>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Repealed.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The funding provisions of subsection (a) of this section shall not apply to local exchange carriers that are not the incumbent local exchange carrier; except, that such providers may be assessed for a proportionate share of the costs of the proceeding required under § <cite path="§34-2002">34-2002</cite>(k), up to a maximum amount of $25,000 each.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Repealed.</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <para>
+            <num>(A)</num>
+            <text>For any proceeding required to arbitrate disputes between carriers pursuant to the procedures established in this chapter, the Commission may assess, on a nondiscriminatory basis, each local exchange carrier who is a participant in any dispute, an amount equal to the actual cost to the Commission of conducting the arbitration, and the Commission shall present to the Council along with its annual budget request, an accounting of the expenditures of the PSC for each proceeding.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>For any proceeding, other than the proceeding called for in § <cite path="§34-2002">34-2002</cite>(k) and the proceedings referenced in subparagraph (A) of this paragraph, which the Commission may determine is necessary to carry out the purposes of this chapter, the Commission and, when appropriate to its mission, the Office of the People’s Counsel, may assess, on a nondiscriminatory basis, the parties who are participants in the proceeding in an amount equal to the actual costs of the proceeding, and the Commission and the Office of the People’s Counsel shall present to the Council along with each agency’s annual budget request, an accounting of the expenditures of each agency for each proceeding.</text>
+          </para>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>Five dollars of the license tax paid for each passenger vehicle for hire by common carriers under § <cite path="§47-2829">47-2829</cite>(d), shall be deemed the reimbursement fee payable by such common carriers under this subsection.</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>The Mayor, pursuant to subchapter I of Chapter 5 of Title 2, may issue regulations to carry out this subsection, and may delegate all or any of the authority vested in the Mayor by this subsection to such agency or agencies, including the Public Service Commission and the Office of the People’s Counsel, as the Mayor may deem appropriate.</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>A public utility or service provider that fails to comply with a reimbursement order issued by the Commission pursuant to this section shall be subject to the penalty provisions set forth in § <cite path="§34-706">34-706</cite>.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Nothing in this chapter shall be construed to prevent the Commission from using the Public Service Commission Agency Fund for the payment of any and all expenses that it incurs in the performance of its duties.</text>
+      </para>
+      <annotations>
+        <text type="Short Title">Short title of subtitle A of title II of Law 16-33: Section 2001 of <cite doc="D.C. Law 16-33">D.C. Law 16-33</cite> provided that subtitle A of title II of the act may be cited as the Office of People’s Counsel Amendment Act of 2005.</text>
+        <text type="Short Title">Short title: Section 2221 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle S of title II of the act may be cited as the “Public Service Commission Amendment Act of 2010”.</text>
+        <text type="Editor's Notes">The phrase “this chapter” was substituted for “this act” in (c), pursuant to instructions from Codification Counsel, notwithstanding that some sections herein were not part of the organic act.</text>
+        <text type="Editor's Notes">Former § 43-613 1981 Ed., D.C. Law 3-88, § 3,  27 DCR 3004, provided for application of the provisions of subsec. (b) of this section with respect to such portion, if any, of fiscal year 1980 beginning on September 13, 1980, and ending on September 30, 1980, and with respect to each fiscal year thereafter.</text>
+        <text type="Editor's Notes">Former § 43-910 1981 Ed., 49 Stat. 885, ch. 742, § 4, provided that if any provision this section or the application to any person or circumstances is held invalid, the invalidity of the remainder of said sections and of the application of such provision to other persons and circumstances shall not be affected thereby.</text>
+        <annotation type="History" doc="Stat. 62-3-ch150" path="§8|42">Mar. 4, 1913, 37 Stat. 984, ch. 150, § 8, par. 42</annotation>
+        <annotation type="History">Mar. 3, 1927, 44 Stat. 1351, ch. 304</annotation>
+        <annotation type="History">Aug. 27, 1935, 49 Stat. 884, ch. 742, § 3</annotation>
+        <annotation doc="Pub. L. 88-503" type="History">Aug. 30, 1964, 78 Stat. 634, Pub. L. 88-503, § 21</annotation>
+        <annotation doc="Pub. L. 93-614" type="History">Jan. 2, 1975, 88 Stat. 1976, Pub. L. 93-614, § 2</annotation>
+        <annotation doc="D.C. Law 1-70" type="History">June 15, 1976, D.C. Law 1-70, title VI, § 606, 23 DCR 553</annotation>
+        <annotation doc="D.C. Law 3-88" type="History">Sept. 13, 1980, D.C. Law 3-88, § 2, 27 DCR 3004</annotation>
+        <annotation doc="D.C. Law 5-104" type="History">Aug. 10, 1984, D.C. Law 5-104, §§ 2, 3(b), 31 DCR 3037</annotation>
+        <annotation doc="D.C. Law 5-153" type="History">Mar. 14, 1985, D.C. Law 5-153, § 3(e), 31 DCR 6440</annotation>
+        <annotation doc="D.C. Law 6-9" type="History">July 17, 1985, D.C. Law 6-9, § 2(b), 32 DCR 2961</annotation>
+        <annotation doc="D.C. Law 11-152" type="History">Aug. 1, 1996, D.C. Law 11-152, § 403, 43 DCR 2978</annotation>
+        <annotation doc="D.C. Law 11-154" type="History">Sept. 9, 1996, D.C. Law 11-154, § 9, 43 DCR 3736</annotation>
+        <annotation doc="D.C. Law 12-263" type="History">Apr. 20, 1999, D.C. Law 12-263, § 13(c)(1), 46 DCR 2111</annotation>
+        <annotation doc="D.C. Law 13-107" type="History">May 9, 2000, D.C. Law 13-107, § 201(g), 47 DCR 1091</annotation>
+        <annotation doc="D.C. Law 15-227" type="History">Mar. 16, 2005, D.C. Law 15-227, § 17(e), 51 DCR 10549</annotation>
+        <annotation doc="D.C. Law 15-342" type="History">Apr. 12, 2005, D.C. Law 15-342, § 303(e), 52 DCR 2346</annotation>
+        <annotation doc="D.C. Law 16-33" type="History">Oct. 20, 2005, D.C. Law 16-33, § 2002, 52 DCR 7503</annotation>
+        <annotation doc="D.C. Law 16-191" type="History">Mar. 2, 2007, D.C. Law 16-191, §§ 5(j), 58(b), 53 DCR 6794</annotation>
+        <annotation doc="D.C. Law 18-223" type="History">Sept. 24, 2010, D.C. Law 18-223, § 2222(a), 57 DCR 6242</annotation>
+        <annotation doc="D.C. Law 19-21" type="History">Sept. 14, 2011, D.C. Law 19-21, § 2082(b), 58</annotation>
+        <annotation doc="D.C. Law 20-155" type="History">Feb. 26, 2015, D.C. Law 20-155, § 2032, 61 DCR 9990</annotation>
+        <annotation type="Cross References">Budget and financial management, fund accounting, organization of fund structure, see § <cite path="§47-373">47-373</cite>.</annotation>
+        <annotation type="Cross References">Creation of Public Service Commission, Office of People’s Counsel appropriations, see § <cite path="§34-805">34-805</cite>.</annotation>
+        <annotation type="Cross References">Office of the People’s Counsel, creation, powers and duties, see § <cite path="§34-804">34-804</cite>.</annotation>
+        <annotation type="Cross References">Real property tax sales, refunds, taxes erroneously paid, see § <cite path="§47-1317">47-1317</cite>.</annotation>
+        <annotation type="Cross References">Taxicab commission fund established, see § <cite path="§50-320">50-320</cite>.</annotation>
+        <annotation type="Cross References">Valuation of public utilities by Commission, see § <cite path="§34-1105">34-1105</cite> et seq.</annotation>
+        <annotation type="Section References">This section is referenced in § <cite path="§34-804">34-804</cite>, § <cite path="§34-805">34-805</cite>, § <cite path="§34-1314.01">34-1314.01</cite>, § <cite path="§47-1317">47-1317</cite>, and § <cite path="§50-320">50-320</cite>.</annotation>
+        <annotation type="Prior Codifications">1981 Ed., § 43-612.</annotation>
+        <annotation type="Prior Codifications">1973 Ed., § 43-412.</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-107">D.C. Law 13-107</cite> in subsec. (a)(3) substituted “public utility” for “company”; in subsec. (b)(1) substituted “electricity suppliers” for “public utilities”; substituted in subsec. (b)(2) “each electricity supplier and local” for “each local”; and, rewrote the third sentence of subsec. (b)(3) which formerly provided: “If the total amount paid or obligated by the Public Service Commission and the People’s Counsel during such fiscal year pursuant to appropriations for such fiscal year is less than the amounts appropriated by more than 5%, the Mayor shall refund to each public utility or credit each public utility with such part of the difference, rounded to the nearest dollar, as equals the product of such difference multiplied by the fraction, as set forth above, representing the gross revenue of such public utility relative to the gross revenues of all public utilities.”</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-227">D.C. Law 15-227</cite>, in subsec. (b), substituted “natural gas suppliers, electricity suppliers” for “electricity suppliers” in par. (1), substituted “natural gas supplier, and electricity supplier” for “electricity supplier” in par. (2), and substituted “natural gas suppliers, and electricity suppliers” for “electricity suppliers” in the third sentence of par. (3).</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-342">D.C. Law 15-342</cite>, in subsec. (a)(2), substituted “The balance of any sums for a specific proceeding remaining in each fund after a 12-month period in which actual expenditures for that proceeding were 5% or less of the fund balance, shall be returned to the utility which made the deposit. The balance of any sums for a specific proceeding remaining after the final disposition of the proceeding or any litigation arising therefrom shall be returned promptly to the utility which made the deposit.” for “Any deposits made through this special franchise tax to each agency fund by any public utility may be amortized over whatever period the Commission shall deem proper and shall be allowed for in the rates to be charged by each utility.”; and rewrote subsecs. (a)(7) which had read:</annotation>
+        <annotation type="Effect of Amendments">“(7) The Commission and the Office shall issue reports to the Mayor and the Council by January 1 of the succeeding fiscal year on deposits to and disbursements from their respective agency funds during each fiscal year. The reports shall include, but not be limited to, the following information:</annotation>
+        <annotation type="Effect of Amendments">“(A) The dollar amount of each deposit;</annotation>
+        <annotation type="Effect of Amendments">“(B) The total amount disbursed for each proceeding;</annotation>
+        <annotation type="Effect of Amendments">“(C) The name of each contractor hired, the expertise of each contractor, the type of work performed by each contractor, the hourly rate of each contractor, and the total amount received by each contractor, by proceeding;</annotation>
+        <annotation type="Effect of Amendments">“(D) The amount reimbursed to the utility companies, by proceeding; and</annotation>
+        <annotation type="Effect of Amendments">“(E) The dollar amount of contracts awarded to minority and District-based firms.”</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-33">D.C. Law 16-33</cite>, in subsec. (a)(3), substituted “special franchise tax deposits in any one year of more than one- twentieth of one percent of the jurisdictional valuation of each public utility which is the subject of one or more investigations during that year; provided, that the Office may seek special franchise tax deposits of not more than one-quarter of one percent of the jurisdictional valuation of the public utility which is the subject of the proceeding in any instance where the public utility alleges in a proceeding before a federal court or federal agency that the bankruptcy of a company with whom it has contracts may have adverse consequences to ratepayers of the District of Columbia.” for “special franchise tax deposits in any one year of more than one-twentieth of one percent of the jurisdictional valuation of each public utility which is the subject of one or more investigations during that year”.</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in subsec. (b), validated previously made technical corrections.</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite>, in subsec. (b)(5), deleted the last sentence which had read: “Any such amount shall be credited against the reimbursement fee of any such LEC pursuant to paragraph (2) of this subsection, in subsequent years.”; repealed subsec. (b)(6); and added subsec. (b)(10). Prior to repeal, subsec. (b)(6) read as follows: “(6) Any local exchange carrier, other than the incumbent local exchange carrier, that seeks certification by the Commission within 5 years of September 9, 1996 shall be assessed in an amount equal to the amount assessed pursuant to paragraph (5) of this subsection, and that assessment shall be reimbursed by the Commission, in equal amounts to the incumbent local exchange carrier, and each local exchange carrier whose authorization from the Commission to provide local exchange service was received during the period in which the proceeding required under § <cite path="§34-2002">34-2002</cite>(k) took place.”</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> repealed subsec. (b)(4), which formerly read:</annotation>
+        <annotation type="Effect of Amendments">“(4) Notwithstanding the requirements of paragraph (2) of this subsection, in the case of a local exchange carrier that is not the incumbent local exchange carrier, the amount of the fee payable in the first year such service is provided shall be no less than $25,000.”</annotation>
+        <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> rewrote (b)(1), (2), and (3).</annotation>
+        <annotation type="Emergency Legislation">For temporary amendment of section, see § 403 of the Fiscal Year 1996 Budget Support Emergency Act of 1996 (D.C. Act 11-264, April 26, 1996,  43 DCR 2412), and § 303 of the Fiscal Year 1996 Budget Support Congressional Review Emergency Act of 1996 (D.C. Act 11-335, August 1, 1996,  43 DCR 4256).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90-day) amendment of section, see § 3(1) of Public Service Commission Independent Authority Emergency Amendment Act of 1999 (D.C. Act 13-52, April 6, 1999,  46 DCR 3638).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 303(e) of Omnibus Utility Emergency Amendment Act of 2005 (D.C. Act 16-12, January 28, 2005,  52 DCR 2945).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2002 of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005,  52 DCR 7667).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2222(a) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2032 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2032 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  2032 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+        <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§8" type="History"/>
+      </annotations>
+    </section>
+    <xi:include href="./sections/34-913.xml"/>
+    <xi:include href="./sections/34-914.xml"/>
+    <xi:include href="./sections/34-915.xml"/>
+    <xi:include href="./sections/34-916.xml"/>
+    <xi:include href="./sections/34-917.xml"/>
+    <xi:include href="./sections/34-918.xml"/>
+    <xi:include href="./sections/34-919.xml"/>
+    <xi:include href="./sections/34-920.xml"/>
+    <xi:include href="./sections/34-921.xml"/>
+    <xi:include href="./sections/34-922.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>10</num>
     <heading>Sale and Merger of Utilities.</heading>
-    <xi:include href="./sections/34-1001.xml" />
-    <xi:include href="./sections/34-1002.xml" />
+    <xi:include href="./sections/34-1001.xml"/>
+    <xi:include href="./sections/34-1002.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>11</num>
     <heading>Service, Valuation, Accounts.</heading>
-    <xi:include href="./sections/34-1101.xml" />
-    <xi:include href="./sections/34-1102.xml" />
-    <xi:include href="./sections/34-1103.xml" />
-    <xi:include href="./sections/34-1104.xml" />
-    <xi:include href="./sections/34-1105.xml" />
-    <xi:include href="./sections/34-1106.xml" />
-    <xi:include href="./sections/34-1107.xml" />
-    <xi:include href="./sections/34-1108.xml" />
-    <xi:include href="./sections/34-1109.xml" />
-    <xi:include href="./sections/34-1110.xml" />
-    <xi:include href="./sections/34-1111.xml" />
-    <xi:include href="./sections/34-1112.xml" />
-    <xi:include href="./sections/34-1113.xml" />
-    <xi:include href="./sections/34-1114.xml" />
-    <xi:include href="./sections/34-1115.xml" />
-    <xi:include href="./sections/34-1116.xml" />
-    <xi:include href="./sections/34-1117.xml" />
-    <xi:include href="./sections/34-1118.xml" />
-    <xi:include href="./sections/34-1119.xml" />
-    <xi:include href="./sections/34-1120.xml" />
-    <xi:include href="./sections/34-1121.xml" />
-    <xi:include href="./sections/34-1122.xml" />
-    <xi:include href="./sections/34-1123.xml" />
-    <xi:include href="./sections/34-1124.xml" />
-    <xi:include href="./sections/34-1125.xml" />
-    <xi:include href="./sections/34-1126.xml" />
-    <xi:include href="./sections/34-1127.xml" />
-    <xi:include href="./sections/34-1128.xml" />
-    <xi:include href="./sections/34-1129.xml" />
-    <xi:include href="./sections/34-1130.xml" />
-    <xi:include href="./sections/34-1131.xml" />
+    <xi:include href="./sections/34-1101.xml"/>
+    <xi:include href="./sections/34-1102.xml"/>
+    <xi:include href="./sections/34-1103.xml"/>
+    <xi:include href="./sections/34-1104.xml"/>
+    <xi:include href="./sections/34-1105.xml"/>
+    <xi:include href="./sections/34-1106.xml"/>
+    <xi:include href="./sections/34-1107.xml"/>
+    <xi:include href="./sections/34-1108.xml"/>
+    <xi:include href="./sections/34-1109.xml"/>
+    <xi:include href="./sections/34-1110.xml"/>
+    <xi:include href="./sections/34-1111.xml"/>
+    <xi:include href="./sections/34-1112.xml"/>
+    <xi:include href="./sections/34-1113.xml"/>
+    <xi:include href="./sections/34-1114.xml"/>
+    <xi:include href="./sections/34-1115.xml"/>
+    <xi:include href="./sections/34-1116.xml"/>
+    <xi:include href="./sections/34-1117.xml"/>
+    <xi:include href="./sections/34-1118.xml"/>
+    <xi:include href="./sections/34-1119.xml"/>
+    <xi:include href="./sections/34-1120.xml"/>
+    <xi:include href="./sections/34-1121.xml"/>
+    <xi:include href="./sections/34-1122.xml"/>
+    <xi:include href="./sections/34-1123.xml"/>
+    <xi:include href="./sections/34-1124.xml"/>
+    <xi:include href="./sections/34-1125.xml"/>
+    <xi:include href="./sections/34-1126.xml"/>
+    <xi:include href="./sections/34-1127.xml"/>
+    <xi:include href="./sections/34-1128.xml"/>
+    <xi:include href="./sections/34-1129.xml"/>
+    <xi:include href="./sections/34-1130.xml"/>
+    <xi:include href="./sections/34-1131.xml"/>
   </container>
   <subheading>Subtitle II. Cable Television.</subheading>
   <container>
@@ -213,64 +387,64 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Cable Television Reform Act of 1981. [Repealed].</heading>
-      <xi:include href="./sections/34-1201.xml" />
-      <xi:include href="./sections/34-1202.xml" />
-      <xi:include href="./sections/34-1202.01.xml" />
-      <xi:include href="./sections/34-1203.xml" />
-      <xi:include href="./sections/34-1204.xml" />
-      <xi:include href="./sections/34-1205.xml" />
-      <xi:include href="./sections/34-1206.xml" />
-      <xi:include href="./sections/34-1207.xml" />
-      <xi:include href="./sections/34-1207.01.xml" />
-      <xi:include href="./sections/34-1208.xml" />
-      <xi:include href="./sections/34-1209.xml" />
-      <xi:include href="./sections/34-1210.xml" />
-      <xi:include href="./sections/34-1211.xml" />
-      <xi:include href="./sections/34-1212.xml" />
-      <xi:include href="./sections/34-1213.xml" />
-      <xi:include href="./sections/34-1213.01.xml" />
-      <xi:include href="./sections/34-1214.xml" />
-      <xi:include href="./sections/34-1215.xml" />
-      <xi:include href="./sections/34-1216.xml" />
-      <xi:include href="./sections/34-1217.xml" />
-      <xi:include href="./sections/34-1218.xml" />
-      <xi:include href="./sections/34-1219.xml" />
-      <xi:include href="./sections/34-1220.xml" />
-      <xi:include href="./sections/34-1221.xml" />
-      <xi:include href="./sections/34-1222.xml" />
-      <xi:include href="./sections/34-1223.xml" />
-      <xi:include href="./sections/34-1224.xml" />
-      <xi:include href="./sections/34-1225.xml" />
-      <xi:include href="./sections/34-1226.xml" />
-      <xi:include href="./sections/34-1226.01.xml" />
-      <xi:include href="./sections/34-1226.02.xml" />
-      <xi:include href="./sections/34-1227.xml" />
-      <xi:include href="./sections/34-1228.xml" />
-      <xi:include href="./sections/34-1229.xml" />
-      <xi:include href="./sections/34-1229.01.xml" />
-      <xi:include href="./sections/34-1230.xml" />
-      <xi:include href="./sections/34-1231.xml" />
-      <xi:include href="./sections/34-1232.xml" />
-      <xi:include href="./sections/34-1233.xml" />
-      <xi:include href="./sections/34-1234.xml" />
-      <xi:include href="./sections/34-1235.xml" />
-      <xi:include href="./sections/34-1236.xml" />
-      <xi:include href="./sections/34-1237.xml" />
-      <xi:include href="./sections/34-1238.xml" />
-      <xi:include href="./sections/34-1239.xml" />
-      <xi:include href="./sections/34-1240.xml" />
-      <xi:include href="./sections/34-1241.xml" />
-      <xi:include href="./sections/34-1242.xml" />
-      <xi:include href="./sections/34-1243.xml" />
-      <xi:include href="./sections/34-1244.xml" />
-      <xi:include href="./sections/34-1244.01.xml" />
-      <xi:include href="./sections/34-1245.xml" />
-      <xi:include href="./sections/34-1246.xml" />
-      <xi:include href="./sections/34-1247.xml" />
-      <xi:include href="./sections/34-1248.xml" />
-      <xi:include href="./sections/34-1248.01.xml" />
-      <xi:include href="./sections/34-1249.xml" />
-      <xi:include href="./sections/34-1250.xml" />
+      <xi:include href="./sections/34-1201.xml"/>
+      <xi:include href="./sections/34-1202.xml"/>
+      <xi:include href="./sections/34-1202.01.xml"/>
+      <xi:include href="./sections/34-1203.xml"/>
+      <xi:include href="./sections/34-1204.xml"/>
+      <xi:include href="./sections/34-1205.xml"/>
+      <xi:include href="./sections/34-1206.xml"/>
+      <xi:include href="./sections/34-1207.xml"/>
+      <xi:include href="./sections/34-1207.01.xml"/>
+      <xi:include href="./sections/34-1208.xml"/>
+      <xi:include href="./sections/34-1209.xml"/>
+      <xi:include href="./sections/34-1210.xml"/>
+      <xi:include href="./sections/34-1211.xml"/>
+      <xi:include href="./sections/34-1212.xml"/>
+      <xi:include href="./sections/34-1213.xml"/>
+      <xi:include href="./sections/34-1213.01.xml"/>
+      <xi:include href="./sections/34-1214.xml"/>
+      <xi:include href="./sections/34-1215.xml"/>
+      <xi:include href="./sections/34-1216.xml"/>
+      <xi:include href="./sections/34-1217.xml"/>
+      <xi:include href="./sections/34-1218.xml"/>
+      <xi:include href="./sections/34-1219.xml"/>
+      <xi:include href="./sections/34-1220.xml"/>
+      <xi:include href="./sections/34-1221.xml"/>
+      <xi:include href="./sections/34-1222.xml"/>
+      <xi:include href="./sections/34-1223.xml"/>
+      <xi:include href="./sections/34-1224.xml"/>
+      <xi:include href="./sections/34-1225.xml"/>
+      <xi:include href="./sections/34-1226.xml"/>
+      <xi:include href="./sections/34-1226.01.xml"/>
+      <xi:include href="./sections/34-1226.02.xml"/>
+      <xi:include href="./sections/34-1227.xml"/>
+      <xi:include href="./sections/34-1228.xml"/>
+      <xi:include href="./sections/34-1229.xml"/>
+      <xi:include href="./sections/34-1229.01.xml"/>
+      <xi:include href="./sections/34-1230.xml"/>
+      <xi:include href="./sections/34-1231.xml"/>
+      <xi:include href="./sections/34-1232.xml"/>
+      <xi:include href="./sections/34-1233.xml"/>
+      <xi:include href="./sections/34-1234.xml"/>
+      <xi:include href="./sections/34-1235.xml"/>
+      <xi:include href="./sections/34-1236.xml"/>
+      <xi:include href="./sections/34-1237.xml"/>
+      <xi:include href="./sections/34-1238.xml"/>
+      <xi:include href="./sections/34-1239.xml"/>
+      <xi:include href="./sections/34-1240.xml"/>
+      <xi:include href="./sections/34-1241.xml"/>
+      <xi:include href="./sections/34-1242.xml"/>
+      <xi:include href="./sections/34-1243.xml"/>
+      <xi:include href="./sections/34-1244.xml"/>
+      <xi:include href="./sections/34-1244.01.xml"/>
+      <xi:include href="./sections/34-1245.xml"/>
+      <xi:include href="./sections/34-1246.xml"/>
+      <xi:include href="./sections/34-1247.xml"/>
+      <xi:include href="./sections/34-1248.xml"/>
+      <xi:include href="./sections/34-1248.01.xml"/>
+      <xi:include href="./sections/34-1249.xml"/>
+      <xi:include href="./sections/34-1250.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -280,134 +454,134 @@
         <prefix>Part</prefix>
         <num>A</num>
         <heading>General Provisions.</heading>
-        <xi:include href="./sections/34-1251.01.xml" />
-        <xi:include href="./sections/34-1251.02.xml" />
-        <xi:include href="./sections/34-1251.03.xml" />
-        <xi:include href="./sections/34-1251.04.xml" />
+        <xi:include href="./sections/34-1251.01.xml"/>
+        <xi:include href="./sections/34-1251.02.xml"/>
+        <xi:include href="./sections/34-1251.03.xml"/>
+        <xi:include href="./sections/34-1251.04.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>B</num>
         <heading>Office of Cable Television, Film, Music, and Entertainment.</heading>
-        <xi:include href="./sections/34-1252.01.xml" />
-        <xi:include href="./sections/34-1252.02.xml" />
-        <xi:include href="./sections/34-1252.03.xml" />
+        <xi:include href="./sections/34-1252.01.xml"/>
+        <xi:include href="./sections/34-1252.02.xml"/>
+        <xi:include href="./sections/34-1252.03.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>C</num>
         <heading>Other Cable Entities.</heading>
-        <xi:include href="./sections/34-1253.01.xml" />
-        <xi:include href="./sections/34-1253.02.xml" />
-        <xi:include href="./sections/34-1253.03.xml" />
+        <xi:include href="./sections/34-1253.01.xml"/>
+        <xi:include href="./sections/34-1253.02.xml"/>
+        <xi:include href="./sections/34-1253.03.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>D</num>
         <heading>Franchising and Re-Franchising Process.</heading>
-        <xi:include href="./sections/34-1254.01.xml" />
-        <xi:include href="./sections/34-1254.02.xml" />
-        <xi:include href="./sections/34-1254.03.xml" />
-        <xi:include href="./sections/34-1254.04.xml" />
-        <xi:include href="./sections/34-1254.05.xml" />
-        <xi:include href="./sections/34-1254.06.xml" />
-        <xi:include href="./sections/34-1254.07.xml" />
-        <xi:include href="./sections/34-1254.08.xml" />
+        <xi:include href="./sections/34-1254.01.xml"/>
+        <xi:include href="./sections/34-1254.02.xml"/>
+        <xi:include href="./sections/34-1254.03.xml"/>
+        <xi:include href="./sections/34-1254.04.xml"/>
+        <xi:include href="./sections/34-1254.05.xml"/>
+        <xi:include href="./sections/34-1254.06.xml"/>
+        <xi:include href="./sections/34-1254.07.xml"/>
+        <xi:include href="./sections/34-1254.08.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>E</num>
         <heading>Transfer or Revocation of Franchise.</heading>
-        <xi:include href="./sections/34-1255.01.xml" />
-        <xi:include href="./sections/34-1255.02.xml" />
-        <xi:include href="./sections/34-1255.03.xml" />
-        <xi:include href="./sections/34-1255.04.xml" />
-        <xi:include href="./sections/34-1255.05.xml" />
-        <xi:include href="./sections/34-1255.06.xml" />
-        <xi:include href="./sections/34-1255.07.xml" />
+        <xi:include href="./sections/34-1255.01.xml"/>
+        <xi:include href="./sections/34-1255.02.xml"/>
+        <xi:include href="./sections/34-1255.03.xml"/>
+        <xi:include href="./sections/34-1255.04.xml"/>
+        <xi:include href="./sections/34-1255.05.xml"/>
+        <xi:include href="./sections/34-1255.06.xml"/>
+        <xi:include href="./sections/34-1255.07.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>F</num>
         <heading>Required Payments; Insurance and Indemnification.</heading>
-        <xi:include href="./sections/34-1256.01.xml" />
-        <xi:include href="./sections/34-1256.02.xml" />
-        <xi:include href="./sections/34-1256.03.xml" />
-        <xi:include href="./sections/34-1256.04.xml" />
-        <xi:include href="./sections/34-1256.05.xml" />
+        <xi:include href="./sections/34-1256.01.xml"/>
+        <xi:include href="./sections/34-1256.02.xml"/>
+        <xi:include href="./sections/34-1256.03.xml"/>
+        <xi:include href="./sections/34-1256.04.xml"/>
+        <xi:include href="./sections/34-1256.05.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>G</num>
         <heading>Construction and Operation of the Cable System.</heading>
-        <xi:include href="./sections/34-1257.01.xml" />
-        <xi:include href="./sections/34-1257.02.xml" />
-        <xi:include href="./sections/34-1257.03.xml" />
-        <xi:include href="./sections/34-1257.04.xml" />
-        <xi:include href="./sections/34-1257.05.xml" />
-        <xi:include href="./sections/34-1257.06.xml" />
+        <xi:include href="./sections/34-1257.01.xml"/>
+        <xi:include href="./sections/34-1257.02.xml"/>
+        <xi:include href="./sections/34-1257.03.xml"/>
+        <xi:include href="./sections/34-1257.04.xml"/>
+        <xi:include href="./sections/34-1257.05.xml"/>
+        <xi:include href="./sections/34-1257.06.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>H</num>
         <heading>Public, Educational, and Government Channels.</heading>
-        <xi:include href="./sections/34-1258.01.xml" />
-        <xi:include href="./sections/34-1258.02.xml" />
-        <xi:include href="./sections/34-1258.03.xml" />
+        <xi:include href="./sections/34-1258.01.xml"/>
+        <xi:include href="./sections/34-1258.02.xml"/>
+        <xi:include href="./sections/34-1258.03.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>I</num>
         <heading>Regulation, Oversight, and Inspection of Cable System and Records.</heading>
-        <xi:include href="./sections/34-1259.01.xml" />
-        <xi:include href="./sections/34-1259.02.xml" />
-        <xi:include href="./sections/34-1259.03.xml" />
-        <xi:include href="./sections/34-1259.04.xml" />
-        <xi:include href="./sections/34-1259.05.xml" />
-        <xi:include href="./sections/34-1259.06.xml" />
-        <xi:include href="./sections/34-1259.07.xml" />
-        <xi:include href="./sections/34-1259.08.xml" />
-        <xi:include href="./sections/34-1259.09.xml" />
+        <xi:include href="./sections/34-1259.01.xml"/>
+        <xi:include href="./sections/34-1259.02.xml"/>
+        <xi:include href="./sections/34-1259.03.xml"/>
+        <xi:include href="./sections/34-1259.04.xml"/>
+        <xi:include href="./sections/34-1259.05.xml"/>
+        <xi:include href="./sections/34-1259.06.xml"/>
+        <xi:include href="./sections/34-1259.07.xml"/>
+        <xi:include href="./sections/34-1259.08.xml"/>
+        <xi:include href="./sections/34-1259.09.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>J</num>
         <heading>Consumer Protection.</heading>
-        <xi:include href="./sections/34-1260.01.xml" />
-        <xi:include href="./sections/34-1260.02.xml" />
+        <xi:include href="./sections/34-1260.01.xml"/>
+        <xi:include href="./sections/34-1260.02.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>K</num>
         <heading>Competition and Customer Choice.</heading>
-        <xi:include href="./sections/34-1261.01.xml" />
+        <xi:include href="./sections/34-1261.01.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>L</num>
         <heading>Employment and Non-Discrimination.</heading>
-        <xi:include href="./sections/34-1262.01.xml" />
-        <xi:include href="./sections/34-1262.02.xml" />
-        <xi:include href="./sections/34-1262.03.xml" />
+        <xi:include href="./sections/34-1262.01.xml"/>
+        <xi:include href="./sections/34-1262.02.xml"/>
+        <xi:include href="./sections/34-1262.03.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>M</num>
         <heading>Compliance.</heading>
-        <xi:include href="./sections/34-1263.01.xml" />
-        <xi:include href="./sections/34-1263.02.xml" />
-        <xi:include href="./sections/34-1263.03.xml" />
+        <xi:include href="./sections/34-1263.01.xml"/>
+        <xi:include href="./sections/34-1263.02.xml"/>
+        <xi:include href="./sections/34-1263.03.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>N</num>
         <heading>Miscellaneous Provisions.</heading>
-        <xi:include href="./sections/34-1264.01.xml" />
-        <xi:include href="./sections/34-1264.02.xml" />
-        <xi:include href="./sections/34-1264.03.xml" />
-        <xi:include href="./sections/34-1264.04.xml" />
-        <xi:include href="./sections/34-1264.05.xml" />
-        <xi:include href="./sections/34-1264.06.xml" />
+        <xi:include href="./sections/34-1264.01.xml"/>
+        <xi:include href="./sections/34-1264.02.xml"/>
+        <xi:include href="./sections/34-1264.03.xml"/>
+        <xi:include href="./sections/34-1264.04.xml"/>
+        <xi:include href="./sections/34-1264.05.xml"/>
+        <xi:include href="./sections/34-1264.06.xml"/>
       </container>
     </container>
   </container>
@@ -416,10 +590,10 @@
     <prefix>Chapter</prefix>
     <num>13</num>
     <heading>Cogeneration Facilities Appropriateness Standards. [Repealed].</heading>
-    <xi:include href="./sections/34-1301.xml" />
-    <xi:include href="./sections/34-1302.xml" />
-    <xi:include href="./sections/34-1303.xml" />
-    <xi:include href="./sections/34-1304.xml" />
+    <xi:include href="./sections/34-1301.xml"/>
+    <xi:include href="./sections/34-1302.xml"/>
+    <xi:include href="./sections/34-1303.xml"/>
+    <xi:include href="./sections/34-1304.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -429,25 +603,25 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Definitions and Findings.</heading>
-      <xi:include href="./sections/34-1311.01.xml" />
-      <xi:include href="./sections/34-1311.02.xml" />
+      <xi:include href="./sections/34-1311.01.xml"/>
+      <xi:include href="./sections/34-1311.02.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Issuance of Bonds; Security Interest in DDOT Underground Electric Company Infrastructure Improvement Revenue.</heading>
-      <xi:include href="./sections/34-1312.01.xml" />
-      <xi:include href="./sections/34-1312.02.xml" />
-      <xi:include href="./sections/34-1312.03.xml" />
-      <xi:include href="./sections/34-1312.04.xml" />
-      <xi:include href="./sections/34-1312.05.xml" />
-      <xi:include href="./sections/34-1312.06.xml" />
-      <xi:include href="./sections/34-1312.07.xml" />
-      <xi:include href="./sections/34-1312.08.xml" />
-      <xi:include href="./sections/34-1312.09.xml" />
-      <xi:include href="./sections/34-1312.10.xml" />
-      <xi:include href="./sections/34-1312.11.xml" />
-      <xi:include href="./sections/34-1312.12.xml" />
+      <xi:include href="./sections/34-1312.01.xml"/>
+      <xi:include href="./sections/34-1312.02.xml"/>
+      <xi:include href="./sections/34-1312.03.xml"/>
+      <xi:include href="./sections/34-1312.04.xml"/>
+      <xi:include href="./sections/34-1312.05.xml"/>
+      <xi:include href="./sections/34-1312.06.xml"/>
+      <xi:include href="./sections/34-1312.07.xml"/>
+      <xi:include href="./sections/34-1312.08.xml"/>
+      <xi:include href="./sections/34-1312.09.xml"/>
+      <xi:include href="./sections/34-1312.10.xml"/>
+      <xi:include href="./sections/34-1312.11.xml"/>
+      <xi:include href="./sections/34-1312.12.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -457,218 +631,806 @@
         <prefix>Part</prefix>
         <num>A</num>
         <heading>Financing Orders.</heading>
-        <xi:include href="./sections/34-1313.01.xml" />
-        <xi:include href="./sections/34-1313.02.xml" />
-        <xi:include href="./sections/34-1313.03.xml" />
-        <xi:include href="./sections/34-1313.04.xml" />
-        <xi:include href="./sections/34-1313.05.xml" />
-        <xi:include href="./sections/34-1313.06.xml" />
+        <xi:include href="./sections/34-1313.01.xml"/>
+        <xi:include href="./sections/34-1313.02.xml"/>
+        <xi:include href="./sections/34-1313.03.xml"/>
+        <xi:include href="./sections/34-1313.04.xml"/>
+        <xi:include href="./sections/34-1313.05.xml"/>
+        <xi:include href="./sections/34-1313.06.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>B</num>
         <heading>Selection and Construction of Underground Infrastructure Improvement Projects.</heading>
-        <xi:include href="./sections/34-1313.07.xml" />
-        <xi:include href="./sections/34-1313.08.xml" />
-        <xi:include href="./sections/34-1313.09.xml" />
-        <xi:include href="./sections/34-1313.10.xml" />
-        <xi:include href="./sections/34-1313.11.xml" />
-        <xi:include href="./sections/34-1313.12.xml" />
-        <xi:include href="./sections/34-1313.13.xml" />
-        <xi:include href="./sections/34-1313.14.xml" />
-        <xi:include href="./sections/34-1313.15.xml" />
+        <xi:include href="./sections/34-1313.07.xml"/>
+        <xi:include href="./sections/34-1313.08.xml"/>
+        <xi:include href="./sections/34-1313.09.xml"/>
+        <xi:include href="./sections/34-1313.10.xml"/>
+        <xi:include href="./sections/34-1313.11.xml"/>
+        <xi:include href="./sections/34-1313.12.xml"/>
+        <xi:include href="./sections/34-1313.13.xml"/>
+        <xi:include href="./sections/34-1313.14.xml"/>
+        <xi:include href="./sections/34-1313.15.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>C</num>
         <heading>Expedition; Reconsideration; Judicial Review; Review and Analysis.</heading>
-        <xi:include href="./sections/34-1313.16.xml" />
-        <xi:include href="./sections/34-1313.17.xml" />
-        <xi:include href="./sections/34-1313.18.xml" />
-        <xi:include href="./sections/34-1313.19.xml" />
+        <xi:include href="./sections/34-1313.16.xml"/>
+        <xi:include href="./sections/34-1313.17.xml"/>
+        <xi:include href="./sections/34-1313.18.xml"/>
+        <xi:include href="./sections/34-1313.19.xml"/>
       </container>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Commission and OPC Funding; Commission Rules and Regulations.</heading>
-      <xi:include href="./sections/34-1314.01.xml" />
-      <xi:include href="./sections/34-1314.02.xml" />
-      <xi:include href="./sections/34-1314.03.xml" />
-      <xi:include href="./sections/34-1314.04.xml" />
+      <xi:include href="./sections/34-1314.01.xml"/>
+      <xi:include href="./sections/34-1314.02.xml"/>
+      <xi:include href="./sections/34-1314.03.xml"/>
+      <xi:include href="./sections/34-1314.04.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>General Provisions.</heading>
-      <xi:include href="./sections/34-1315.01.xml" />
+      <xi:include href="./sections/34-1315.01.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>14</num>
     <heading>Electric Light and Power Companies.</heading>
-    <xi:include href="./sections/34-1401.xml" />
-    <xi:include href="./sections/34-1402.xml" />
-    <xi:include href="./sections/34-1403.xml" />
-    <xi:include href="./sections/34-1404.xml" />
-    <xi:include href="./sections/34-1405.xml" />
-    <xi:include href="./sections/34-1406.xml" />
-    <xi:include href="./sections/34-1407.xml" />
-    <xi:include href="./sections/34-1408.xml" />
+    <xi:include href="./sections/34-1401.xml"/>
+    <xi:include href="./sections/34-1402.xml"/>
+    <xi:include href="./sections/34-1403.xml"/>
+    <xi:include href="./sections/34-1404.xml"/>
+    <xi:include href="./sections/34-1405.xml"/>
+    <xi:include href="./sections/34-1406.xml"/>
+    <xi:include href="./sections/34-1407.xml"/>
+    <xi:include href="./sections/34-1408.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>14A</num>
     <heading>Renewable Energy Portfolio Standards.</heading>
-    <xi:include href="./sections/34-1431.xml" />
-    <xi:include href="./sections/34-1432.xml" />
-    <xi:include href="./sections/34-1433.xml" />
-    <xi:include href="./sections/34-1434.xml" />
-    <xi:include href="./sections/34-1435.xml" />
-    <xi:include href="./sections/34-1436.xml" />
-    <xi:include href="./sections/34-1437.xml" />
-    <xi:include href="./sections/34-1438.xml" />
-    <xi:include href="./sections/34-1439.xml" />
-    <xi:include href="./sections/34-1440.xml" />
+    <section>
+      <num>34-1431</num>
+      <heading>Definitions.</heading>
+      <text>For the purposes of this chapter, the term:</text>
+      <para>
+        <num>(1)</num>
+        <text>“Black liquor” means the spent cooking liquor from the Kraft process of paper making.</text>
+      </para>
+      <para>
+        <num>(1A)</num>
+        <text>“Brush” means shrubs and stands of short, scrubby trees that do not reach merchantable size.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>“Commission” means the Public Service Commission.</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>“Customer generation” means generation that is not principally dedicated to selling power into the wholesale market.</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>“Dunnage” means loose materials or padding used to support or protect cargo within shipping containers.</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>“Energy Office” means the District of Columbia Energy Office.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>“Electricity supplier” means a person, including an aggregator, broker, or marketer, who generates electricity; sells electricity; or purchases, brokers, arranges or, markets electricity for sale to customers. The term excludes the following:</text>
+        <para>
+          <num>(A)</num>
+          <text>Building owners, lessees, or managers who manage the internal distribution system serving such building and who supply electricity solely to occupants of the building for use by the occupants;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <para>
+            <num>(i)</num>
+            <text>Any person who purchases electricity for its own use or for the use of its subsidiaries or affiliates; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Any apartment building or office building manager who aggregates electric service requirements for his or her building or buildings, and who does not:</text>
+            <para>
+              <num>(I)</num>
+              <text>Take title to electricity;</text>
+            </para>
+            <para>
+              <num>(II)</num>
+              <text>Market electric services to the individually-metered tenants of his or her building; or</text>
+            </para>
+            <para>
+              <num>(III)</num>
+              <text>Engage in the resale of electric services to others;</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Property owners who supply small amounts of power, at cost, as an accommodation to lessors or licensees of the property; and</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>A consolidator.</text>
+        </para>
+      </para>
+      <para>
+        <num>(6A)</num>
+        <text>“Fuel input” means the higher heating value of the input fuel type, measured in BTU/LB, based on the standardized heating value of fuel type, multiplied by the annual fuel used in as delivered tons, multiplied by 2000.</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>“Fund” means the District of Columbia Renewable Energy Development Fund.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>“PJM Interconnection” means the regional transmission organization that is regulated by the Federal Energy Regulatory Commission that functionally controls the transmission system for the region that includes the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>“Qualifying biomass” means a solid, nonhazardous, cellulosic waste material that is segregated from other waste materials, and is derived from any of the following forest-related resources, with the exception of old growth timber, construction and demolition-derived wood, whole trees not part of a closed-loop biomass system that are cleared solely for the purpose of energy production, unsegregated solid waste, or post-consumer wastepaper:</text>
+        <para>
+          <num>(A)</num>
+          <text>Mill residue;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Repealed.</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Slash;</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Brush;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Yard waste;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>A waste pallet, crate, or dunnage;</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>Agricultural sources, including tree crops, vineyard materials, grain, legumes, sugar, and other crop by-products or residues; or</text>
+        </para>
+        <para>
+          <num>(H)</num>
+          <text>Cofired biomass, subject to the condition under § <cite path="§34-1433">34-1433</cite>(f).</text>
+        </para>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>“Renewable energy credit” or “credit” means a credit representing one megawatt-hour of energy produced by a tier one or tier two renewable source located within the PJM Interconnection region or within a state that is adjacent to the PJM Interconnection region.</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>“Renewable energy portfolio standard” or “standard” means the percentage of electricity sales at retail in the District of Columbia that is to be derived from tier one renewable sources and tier two renewable sources in accordance with § <cite path="§34-1432">34-1432</cite>(c).</text>
+      </para>
+      <para>
+        <num>(12)</num>
+        <text>“Renewable on-site generator” means a person that generates electricity on site from a tier one renewable source or tier two renewable source for the person’s own use.</text>
+      </para>
+      <para>
+        <num>(13)</num>
+        <text>“Slash” means:</text>
+        <para>
+          <num>(A)</num>
+          <text>Tree tops, branches, bark, or other residue left on the ground after logging or other forestry operations; or</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Tree debris left after a natural catastrophe.</text>
+        </para>
+      </para>
+      <para>
+        <num>(14)</num>
+        <text>“Solar energy” means radiant energy, direct, diffuse, or reflected, received from the sun at wavelengths suitable for conversion into thermal, chemical, or electrical energy, that is collected, generated, or stored for use at a later time.</text>
+      </para>
+      <para>
+        <num>(15)</num>
+        <text>“Tier one renewable source” means one or more of the following types of energy sources:</text>
+        <para>
+          <num>(A)</num>
+          <text>Solar energy;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Wind;</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Qualifying biomass used at a generation unit that achieves a total system efficiency of at least 65% on an annual basis, can demonstrate that they achieved a total system efficiency of at least 65% on an annual basis through actual operational data after one year, and that started commercial operation after January 1, 2007.</text>
+        </para>
+        <para>
+          <num>(D)</num>
+          <text>Methane from the anaerobic decomposition of organic materials in a landfill or wastewater treatment plant;</text>
+        </para>
+        <para>
+          <num>(E)</num>
+          <text>Geothermal;</text>
+        </para>
+        <para>
+          <num>(F)</num>
+          <text>Ocean, including energy from waves, tides, currents, and thermal differences;</text>
+        </para>
+        <para>
+          <num>(G)</num>
+          <text>Fuel cells producing electricity from a tier one renewable source under subparagraph (C) or (D) of this paragraph; and</text>
+        </para>
+        <para>
+          <num>(H)</num>
+          <text>Raw or treated wastewater used as a heat source or sink for a heating or cooling system.</text>
+        </para>
+      </para>
+      <para>
+        <num>(16)</num>
+        <text>“Tier two renewable source” means one or more of the following types of energy sources:</text>
+        <para>
+          <num>(A)</num>
+          <text>Hydroelectric power other than pumped storage generation;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Waste-to-energy; or</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Qualifying biomass used at a generation unit that:</text>
+          <para>
+            <num>(i)</num>
+            <text>Started commercial operation on or before December 31, 2006; or</text>
+          </para>
+          <para>
+            <num>(ii)</num>
+            <text>Achieves a total system efficiency of less than 65%; or</text>
+          </para>
+          <para>
+            <num>(iii)</num>
+            <text>Uses black liquor.</text>
+          </para>
+        </para>
+        <para>
+          <num>(17)</num>
+          <text>“Total system efficiency” means the sum of the net useful thermal energy output measured in BTUs divided by the total fuel input. For the purposes of this paragraph, the term “useful thermal energy output” means energy in the form of direct heat, steam, hot water, or other thermal form that is used in production and beneficial measures for heating, cooling, humidity control, process use, or other valid thermal end use energy requirements and for which fuel or electricity would otherwise be consumed. The term “useful thermal energy output” does not include thermal energy used for the purpose of drying or refining biomass fuel.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="D.C. Law 15-340" type="History" path="§3">Apr. 12, 2005, D.C. Law 15-340, § 3, 52 DCR 2285</annotation>
+        <annotation doc="D.C. Law 17-250" type="History">Oct. 22, 2008, D.C. Law 17-250, § 301(a), 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 18-223" type="History">Sept. 24, 2010, D.C. Law 18-223, § 2223(a), 57 DCR 6242</annotation>
+        <annotation doc="D.C. Law 20-245" type="History">Apr. 30, 2015, D.C. Law 20-245, § 2(a), 62 DCR 1492</annotation>
+        <annotation type="Section References">This section is referenced in § <cite path="§34-1433">34-1433</cite>, § <cite path="§34-1501">34-1501</cite>, § <cite path="§34-1518">34-1518</cite>, and § <cite path="§47-1508">47-1508</cite>.</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> rewrote par. (14), which had read as follows: “(14) ‘Solar energy’ means radiant energy, direct, diffuse, or reflected, received from the sun at wavelengths suitable for conversion into thermal, chemical, or electrical energy.”</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote par. (10).</annotation>
+        <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-245">D.C. Law 20-245</cite> added (1); redesignated former (1) as (1A); added (6A); added “construction and demolition-derived wood, whole trees not part of a closed-loop biomass system that are cleared solely for the purpose of energy production” in the introductory language of (9); repealed (9)(B); rewrote (15)(C); added (16)(C) and made related changes; and added (17).</annotation>
+        <annotation type="Temporary Legislation">Section 2(a) of <cite doc="D.C. Law 18-217">D.C. Law 18-217</cite>, in the lead-in language of par. (10), deleted “consumed”.</annotation>
+        <annotation type="Temporary Legislation">Section 4(b) of <cite doc="D.C. Law 18-217">D.C. Law 18-217</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 301(a) of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(a) of Solar Thermal Incentive Emergency Amendment Act of 2010 (D.C. Act 18-426, May 21, 2010,  57 DCR 4775).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2223(a) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(a)|(1)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(a)|(2)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(a)|(3)" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>34-1432</num>
+      <heading>Renewable energy portfolio standard.</heading>
+      <para>
+        <num>(a)</num>
+        <text>The Commission shall implement a renewable energy portfolio standard which applies to all District of Columbia retail electricity sales, except as provided under subsection (b) of this section.</text>
+      </para>
+      <para>
+        <num>(a-1)</num>
+        <para>
+          <num>(1)</num>
+          <text>For nonresidential solar heating, cooling, or process heat property systems producing or displacing greater than 10,000 kilowatt hours per year, the solar collectors used shall be SRCC OG-100 certified and the energy output shall be determined by an onsite energy meter that meets performance standards established by OIML.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For nonresidential solar heating, cooling, or process heat property systems producing or displacing 10,000 or less than 10,000 kilowatt hours per year, the solar collectors used shall be SRCC OG-100 certified and the energy output shall be determined by the SRCC OG-300 annual system performance rating protocol or the solar collectors used shall be SRCC OG-100 certified and the energy output shall be determined by an onsite energy meter that meets performance standards established by OIML; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>For residential solar thermal systems, the systems shall be SRCC OG-300 system certified and the energy output shall be determined by the SRCC OG-300 annual rating protocol or the solar collectors used shall be SRCC OG-100 certified and the energy output shall be determined by an onsite energy meter that meets performance standards established by OIML.</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If the standard becomes applicable to electricity sold to a customer after the start of a calendar year, the standard shall not apply to electricity sold to the customer during that portion of the year before the standard became applicable.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The renewable energy portfolio standard shall be as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>In 2011, 4% from tier one renewable sources, 2.5% from tier two renewable sources, and not less than 0.40% from solar energy;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>In 2012, 5% from tier one renewable sources, 2.5% from tier two renewable sources, and not less than 0.50% from solar energy;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>In 2013, 6.5% from tier one renewable sources, 2.5% from tier two renewable sources, and not less than 0.50% from solar energy;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>In 2014, 8% from tier one renewable sources; 2.5% from tier two renewable sources, and not less than 0.60% from solar energy;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>In 2015, 9.5% from tier one renewable sources, 2.5% from tier two renewable sources, and not less than 0.70% from solar energy;</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>In 2016, 11.5% from tier one renewable sources, 2% from tier two renewable sources, and not less than 0.825% from solar energy;</text>
+        </para>
+        <para>
+          <num>(7)</num>
+          <text>In 2017, 13.5% from tier one renewable sources, 1.5% from tier two renewable sources, and not less than 0.98% from solar energy;</text>
+        </para>
+        <para>
+          <num>(8)</num>
+          <text>In 2018, 15.5% from tier one renewable sources, 1% from tier two renewable sources, and not less than 1.15% from solar energy;</text>
+        </para>
+        <para>
+          <num>(9)</num>
+          <text>In 2019, 17.5% from tier one renewable sources, 0.5% from tier two renewable sources, and not less than 1.35% from solar energy;</text>
+        </para>
+        <para>
+          <num>(10)</num>
+          <text>In 2020, 20% from tier one renewable sources, 0% from tier two renewable sources, and not less than 1.58% from solar energy;</text>
+        </para>
+        <para>
+          <num>(11)</num>
+          <text>In 2021, 20% from tier one renewable sources, 0% from tier two renewable sources, and not less than 1.85% from solar energy;</text>
+        </para>
+        <para>
+          <num>(12)</num>
+          <text>In 2022, 20% from tier one renewable sources, 0% from tier two renewable sources, and not less than 2.175% from solar energy;</text>
+        </para>
+        <para>
+          <num>(13)</num>
+          <text>In 2023, 20% from tier one renewable sources, 0% from tier two renewable sources, and not less than 2;50% from solar energy;</text>
+        </para>
+        <para>
+          <num>(14)</num>
+          <text>In 2024, not less than 23% from tier one renewable sources, 0% from tier two renewable sources, and not less than 2.6% from solar energy;</text>
+        </para>
+        <para>
+          <num>(15)</num>
+          <text>In 2025, not less than 26% from tier one renewable sources, 0% from tier two renewable sources, and not less than 2.85% from solar energy;</text>
+        </para>
+        <para>
+          <num>(16)</num>
+          <text>In 2026, not less than 29% from tier one renewable sources, 0% from tier two renewable sources, and not less than 3.15% from solar energy;</text>
+        </para>
+        <para>
+          <num>(17)</num>
+          <text>In 2027, not less than 32% from tier one renewable sources, 0% from tier two renewable sources, and not less than 3.45% from solar energy;</text>
+        </para>
+        <para>
+          <num>(18)</num>
+          <text>In 2028, not less than 35% from tier one renewable sources, 0% from tier two renewable sources, and not less than 3.75% from solar energy;</text>
+        </para>
+        <para>
+          <num>(19)</num>
+          <text>In 2029, not less than 38% from tier one renewable sources, 0% from tier two renewable sources, and not less than 4.1% from solar energy;</text>
+        </para>
+        <para>
+          <num>(20)</num>
+          <text>In 2030, not less than 42% from tier one renewable sources, 0% from tier two renewable sources, and not less than 4.5% from solar energy;</text>
+        </para>
+        <para>
+          <num>(21)</num>
+          <text>In 2031, not less than 46% from tier one renewable sources, 0% from tier two renewable sources, and not less than 4.75% from solar energy; and</text>
+        </para>
+        <para>
+          <num>(22)</num>
+          <text>In 2032 and thereafter, not less than 50% from tier one renewable sources, 0% from tier two renewable sources, and not less than 5.0% from solar energy.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Subject to subsections (a) and (c) of this section, an electricity supplier shall meet the standard by obtaining the equivalent amount of renewable energy credits that equal the percentage required under this section for each electricity product sold at retail by the electricity supplier.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <para>
+          <num>(1)</num>
+          <text>Subject to subsections (a) and (c) of this section, an electricity supplier shall meet the solar requirement by obtaining the equivalent amount of renewable energy credits from solar energy systems no larger than 15MW in capacity located within the District or in locations served by a distribution feeder serving the District; provided, that renewable energy credits from solar energy systems larger than 15MW in capacity located on property owned by the District, or by any agency or independent authority of the District, may be used to meet the solar requirement.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>As of January 1, 2015, notwithstanding paragraph (1) of this subsection, an electricity supplier may meet the remaining non-solar tier one renewable source requirement of the renewable energy portfolio standard by obtaining the equivalent amount of renewable energy credits from solar energy systems that do not satisfy the requirements under paragraph (1) of this subsection.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation doc="D.C. Law 15-340" type="History" path="§4">Apr. 12, 2005, D.C. Law 15-340, § 4, 52 DCR 2285</annotation>
+        <annotation doc="D.C. Law 17-250" type="History">Oct. 22, 2008, D.C. Law 17-250, § 301(b), 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 18-223" type="History">Sept. 24, 2010, D.C. Law 18-223, § 2223(b), 57 DCR 6242</annotation>
+        <annotation doc="D.C. Law 19-36" type="History">Oct. 20, 2011, D.C. Law 19-36, § 2(a), 58 DCR 6837</annotation>
+        <annotation doc="D.C. Law 20-155" type="History">Feb. 26, 2015, D.C. Law 20-155, § 6052, 61 DCR 9990</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> added subsecs. (a-1) and (e); and rewrote subsec. (c).</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsec. (e), which had read as follows: “(e) Subject to subsections (a) and (c) of this section, an electricity supplier shall meet the solar requirement by obtaining the equivalent amount of renewable energy credits from solar energy systems interconnected to the distribution grid serving the District of Columbia. Only after an electricity supplier exhausts all opportunity to meet this requirement that the solar energy systems be connected to the grid within the District of Columbia, can that supplier obtain renewable energy credits from jurisdictions outside the District of Columbia.”</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-36">D.C. Law 19-36</cite> rewrote subsecs. (a-1), (c), and (e).</annotation>
+        <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> added “provided, that renewable energy credits from solar energy systems larger than 5MW in capacity located on property owned by the District, or by any agency or independent authority of the District, may be used to meet the solar requirement” in (e)(1); and rewrote (e)(2).</annotation>
+        <annotation type="Temporary Legislation">Section 2(b) of <cite doc="D.C. Law 18-217">D.C. Law 18-217</cite> substituted “located within the District” for “interconnected to the distribution grid serving the District of Columbia”; and deleted “that the solar energy systems be connected to the grid within the District of Columbia,”.</annotation>
+        <annotation type="Temporary Legislation">Section 4(b) of <cite doc="D.C. Law 18-217">D.C. Law 18-217</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation type="Temporary Legislation">Section 2 of <cite doc="D.C. Law 18-303">D.C. Law 18-303</cite> amended subsec. (a-1) to read as follows:</annotation>
+        <annotation type="Temporary Legislation">“(a-1)(1) For nonresidential solar heating, cooling, or process heat property systems producing or displacing greater than 10,000 kilowatt hours per year, the solar collectors used shall be SRCC OG-100 certified and the energy output shall be determined by an onsite energy meter that meets performance standards established by the International Organization of Legal Meterology (’OIML’).</annotation>
+        <annotation type="Temporary Legislation">“(2) For nonresidential solar heating, cooling, or process heat property systems producing not more than 10,000 kilowatt hours per year, the solar collectors used shall be SRCC OG-100 certified and the energy output shall be determined by the SRCC OG-300 annual system performance rating protocol or by an onsite energy meter that meets performance standards established by OIML.</annotation>
+        <annotation type="Temporary Legislation">“(3) For residential solar thermal systems, the systems shall be SRCC OG-300 system certified and the energy output shall be determined by the SRCC OG-300 annual rating protocol or by an onsite energy meter that meets performance standards established by OIML.”</annotation>
+        <annotation type="Temporary Legislation">Section 4(b) of <cite doc="D.C. Law 18-303">D.C. Law 18-303</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 301(b) of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(b) of Solar Thermal Incentive Emergency Amendment Act of 2010 (D.C. Act 18-426, May 21, 2010,  57 DCR 4775).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2223(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2 of Solar Collector Certification Emergency Amendment Act of 2010 (D.C. Act 18-600, November 17, 2010,  57 DCR 11035).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(a) of Distributed Generation Emergency Amendment Act of 2011 (D.C. Act 19-126, August 1, 2011,  58 DCR 6766).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(a) of Distributed Generation Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-192, October 18, 2011,  58 DCR 9154).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6062 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6052 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6052 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+        <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-36">D.C. Law 19-36</cite>: Section 3 of <cite doc="D.C. Law 19-36">D.C. Law 19-36</cite>, as amended by <cite doc="D.C. Law 20-245">D.C. Law 20-245</cite>, § 3, provided that the act (a) shall apply as of July 12, 2011; and (b) shall not apply to contracts entered into before August 1, 2011, provided that, for a contract entered into before August 1, 2011, the act shall apply to an extension or renewal of that contract executed on or after August 1, 2011.</annotation>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(A)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(B)|(i)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(B)|(ii)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(2)" type="History"/>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(3)" type="History"/>
+      </annotations>
+      <para>
+        <num>(f)</num>
+        <text>No later than March 1, 2017, the Commission shall provide a report to the Council that includes:</text>
+        <para>
+          <num>(1)</num>
+          <text>An estimate of the amount of solar energy generated annually by solar energy systems in the District that could qualify to be used to meet the annual solar energy requirement, but for which renewable energy credits cannot be purchased by electricity suppliers to meet the solar energy requirement; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A recommendation for how the Commission could adjust the annual solar requirement to account for the amount of solar generation identified in paragraph (1) of this subsection.</text>
+        </para>
+      </para>
+    </section>
+    <xi:include href="./sections/34-1433.xml"/>
+    <section>
+      <num>34-1434</num>
+      <heading>Reporting requirements and compliance fee.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each electricity supplier shall submit an annual compliance report to the Commission, by a date and in a form prescribed by the Commission.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <para>
+          <num>(1)</num>
+          <text>Each report shall include clear and concise information that:</text>
+          <para>
+            <num>(A)</num>
+            <text>Demonstrates that the electricity supplier has complied with the applicable standard under § <cite path="§34-1432">34-1432</cite> and includes the submission of the required amount of renewable energy credits; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Demonstrates the amount of electricity sales by which the electricity supplier fails to meet the applicable renewable energy portfolio standard.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Each report shall also include any other information that the Commission by regulation or order may consider relevant.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If an electricity supplier fails to comply with the renewable energy portfolio standard for the applicable year, the electricity supplier shall pay into the Fund a compliance fee of:</text>
+        <para>
+          <num>(1)</num>
+          <text>Five cents for each kilowatt-hour of shortfall from required tier one renewable sources;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>One cent for each kilowatt-hour of shortfall from required tier two renewable sources; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Fifty cents in 2016 through 2023, 40 cents in 2024 through 2028, 30 cents in 2029 through 2032, and 5 cents in 2033 and thereafter for each kilowatt-hour of shortfall from required solar energy sources.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Beginning on March 1, 2010, and annually thereafter, energy companies that sell electricity in the District of Columbia shall file an energy portfolio report for the preceding calendar year with DDOE, which shall include a breakdown of the average cost per kilowatt hour of electricity that the company sold in the District of Columbia by source of generation, to include coal, gas, oil, nuclear, solar, land-based wind, off-shore wind, and other renewable sources. The breakdown of cost should also include the average capital cost per kilowatt, as well as the average fixed and variable costs associated with operations and maintenance per megawatt.</text>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Repealed.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The District Department of the Environment shall publish on its website at least annually a report that describes progress towards the solar generation goals provided in the renewable energy portfolio standard and a comparison with other sources of energy used in the District. Each report shall detail the equitable distribution of resources consistent with the policy findings in § <cite path="§34-1501.01">34-1501.01</cite>.</text>
+      </para>
+      <annotations>
+        <annotation doc="D.C. Law 15-340" type="History" path="§6">Apr. 12, 2005, D.C. Law 15-340, § 6, 52 DCR 2285</annotation>
+        <annotation doc="D.C. Law 17-250" type="History">Oct. 22, 2008, D.C. Law 17-250, § 301(c), 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 19-36" type="History">Oct. 20, 2011, D.C. Law 19-36, § 2(b), 58 DCR 6837</annotation>
+        <annotation doc="D.C. Law 20-47" type="History">Dec. 13, 2013, D.C. Law 20-47, § 3, 60 DCR 15138</annotation>
+        <annotation type="Section References">This section is referenced in § <cite path="§34-1435">34-1435</cite> and § <cite path="§34-1436">34-1436</cite>.</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> rewrote subsecs. (c)(1) and (3); and added subsecs. (c)(4), (5).</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-36">D.C. Law 19-36</cite> rewrote subsec. (c)(3); redesignated subsec. (c)(4) as subsec. (d); redesignated subsec. (c)(5) as subsec. (e); and repealed newly designated subsec. (e).</annotation>
+        <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-47">D.C. Law 20-47</cite> added (f).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 301(c) of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(b) of Distributed Generation Emergency Amendment Act of 2011 (D.C. Act 19-126, August 1, 2011,  58 DCR 6766).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(b) of Distributed Generation Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-192, October 18, 2011,  58 DCR 9154).</annotation>
+        <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-36">D.C. Law 19-36</cite>: Section 3 of <cite doc="D.C. Law 19-36">D.C. Law 19-36</cite>, as amended by <cite doc="D.C. Law 20-245">D.C. Law 20-245</cite>, § 3, provided that the act (a) shall apply as of July 12, 2011; and (b) shall not apply to contracts entered into before August 1, 2011, provided that, for a contract entered into before August 1, 2011, the act shall apply to an extension or renewal of that contract executed on or after August 1, 2011.</annotation>
+        <annotation path="§4" history="false" type="Editor's Notes" app="2016-10-08" eff="2016-10-08" doc="D.C. Law 21-154"><cite doc="D.C. Law 21-154" path="§4">Section 4 of Law 21-154</cite> provides: For 5 years after October 8, 2016, section 2(c) shall not apply to any contract entered into before October 8, 2016; provided, that section 2(c) shall apply to an extension or renewal of such a contract.</annotation>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(c)" type="History"/>
+      </annotations>
+    </section>
+    <xi:include href="./sections/34-1435.xml"/>
+    <section>
+      <num>34-1436</num>
+      <heading>Renewable Energy Development Fund.</heading>
+      <para>
+        <num>(a)</num>
+        <text>There is established a fund designated as the Renewable Energy Development Fund, which shall be separate from the General Fund of the District of Columbia and shall be used solely for the purposes set forth in this section. All fees, payment, investment earnings, or other funds received, and all interest on the funds, shall be deposited into the Fund without regard to fiscal year limitation and shall not any time be transferred to, or lapse into, or be commingled with the General Fund of the District of Columbia or any other fund or account of the District of Columbia, except as delineated in this section. The Fund shall be continually available for the uses and purposes set forth in subsection (c) of this section.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The Fund established by this section shall be administered by the Energy Office. The Energy Office may receive and review applications for loans, grants, rebates, and other financial incentives for eligible projects from the Fund.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <para>
+          <num>(1)</num>
+          <text>The Fund shall be used for the purpose of:</text>
+          <para>
+            <num>(A)</num>
+            <text>Supporting the creation of new solar energy sources in the District, including activities that support the use of solar energy sources, such as electrical upgrades, structural improvements, and the installation of electrical or thermal storage systems;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Funding the Solar for All Program established by <cite path="§8-1774.16">§ 8-1774.16</cite>;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Otherwise administering the Fund; and</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Covering any costs to the District associated with implementing the Renewable Portfolio Standard Expansion Amendment Act of 2016, October 8, 2016 (D.C. Law 21-154).</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The Fund may be used to supplement programs supporting the creation of new solar energy sources in the District through the Sustainable Energy Utility contract established by <cite path="8|17N|II">subchapter II of Chapter 17N of Title 8</cite>.
+            </text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Proceeds for the Fund shall be collected from the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>Compliance fees paid under § <cite path="§34-1434">34-1434</cite>;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Payments received in repayment of a loan;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Investment earnings of the Fund; and</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Any other money from any other source accepted for the benefit of the Fund.</text>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>The Energy Office shall establish the eligibility criteria for projects supported by the Fund. The Energy Office may allow the use of money of the Fund for administrative expenses related to the Fund and project review and oversight.</text>
+      </para>
+      <para>
+        <num>(f)</num>
+        <text>The DDOE shall provide to the Council a quarterly report detailing:</text>
+        <para>
+          <num>(1)</num>
+          <text>Expenditures from the Renewable Energy Development Fund; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The performance of programs or projects funded by the Renewable Energy Development Fund.</text>
+        </para>
+      </para>
+      <para>
+        <num>(g)</num>
+        <text>Any compliance fees paid into the Fund by an electricity supplier that were charged to the District of Columbia government through a cost recovery surcharge authorized in § <cite path="§34-1435">34-1435</cite>(c) shall be transferred from the Fund to the General Fund of the District of Columbia and used to cover any surcharge owed by the District of Columbia government.</text>
+      </para>
+      <annotations>
+        <text type="Short Title">Short title: Section 1111 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle L of title I of the act may be cited as the “Renewable Energy Development Amendment Act of 2010”.</text>
+        <text type="Short Title">See note to §  32-1301.</text>
+        <annotation doc="D.C. Law 15-340" type="History" path="§8">Apr. 12, 2005, D.C. Law 15-340, § 8, 52 DCR 2285</annotation>
+        <annotation doc="D.C. Law 17-250" type="History">Oct. 22, 2008, D.C. Law 17-250, § 301(d), 55 DCR 9225</annotation>
+        <annotation doc="D.C. Law 18-223" type="History">Sept. 24, 2010, D.C. Law 18-223, § 1112, 57 DCR 6242</annotation>
+        <annotation doc="D.C. Law 19-36" type="History">Oct. 20, 2011, D.C. Law 19-36, § 2(c), 58 DCR 6837</annotation>
+        <annotation doc="D.C. Law 20-155" type="History">Feb. 26, 2015, D.C. Law 20-155, § 6063, 61 DCR 9990</annotation>
+        <annotation type="Section References">This section is referenced in § <cite path="§47-1508">47-1508</cite>.</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> added subsec. (f).</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite>, in subsecs. (b) and (c), substituted “loans, grants, rebates, and other financial incentives” for “loans and grants”.</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-36">D.C. Law 19-36</cite>, in subsec. (a), substituted “account of the District of Columbia, except as delineated in this section” for “account of the District of Columbia”; and added subsec. (g).</annotation>
+        <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> substituted “may receive” for “shall receive” in (b); and added the last sentence in (c).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 301(d) of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008,  55 DCR 10856).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 1112 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(c) of Distributed Generation Emergency Amendment Act of 2011 (D.C. Act 19-126, August 1, 2011,  58 DCR 6766).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(c) of Distributed Generation Congressional Review Emergency Amendment Act of 2011 (D.C. Act 19-192, October 18, 2011,  58 DCR 9154).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6073 of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6063 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  2032 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+        <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-36">D.C. Law 19-36</cite>: Section 3 of <cite doc="D.C. Law 19-36">D.C. Law 19-36</cite>, as amended by <cite doc="D.C. Law 20-245">D.C. Law 20-245</cite>, § 3, provided that the act (a) shall apply as of July 12, 2011; and (b) shall not apply to contracts entered into before August 1, 2011, provided that, for a contract entered into before August 1, 2011, the act shall apply to an extension or renewal of that contract executed on or after August 1, 2011.</annotation>
+        <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(d)" type="History"/>
+      </annotations>
+    </section>
+    <xi:include href="./sections/34-1437.xml"/>
+    <xi:include href="./sections/34-1438.xml"/>
+    <xi:include href="./sections/34-1439.xml"/>
+    <xi:include href="./sections/34-1440.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>15</num>
     <heading>Retail Electric Competition and Consumer Protection.</heading>
-    <xi:include href="./sections/34-1501.xml" />
-    <xi:include href="./sections/34-1501.01.xml" />
-    <xi:include href="./sections/34-1502.xml" />
-    <xi:include href="./sections/34-1503.xml" />
-    <xi:include href="./sections/34-1504.xml" />
-    <xi:include href="./sections/34-1505.xml" />
-    <xi:include href="./sections/34-1506.xml" />
-    <xi:include href="./sections/34-1506.01.xml" />
-    <xi:include href="./sections/34-1507.xml" />
-    <xi:include href="./sections/34-1508.xml" />
-    <xi:include href="./sections/34-1509.xml" />
-    <xi:include href="./sections/34-1510.xml" />
-    <xi:include href="./sections/34-1511.xml" />
-    <xi:include href="./sections/34-1512.xml" />
-    <xi:include href="./sections/34-1513.xml" />
-    <xi:include href="./sections/34-1514.xml" />
-    <xi:include href="./sections/34-1515.xml" />
-    <xi:include href="./sections/34-1516.xml" />
-    <xi:include href="./sections/34-1517.xml" />
-    <xi:include href="./sections/34-1518.xml" />
-    <xi:include href="./sections/34-1518.01.xml" />
-    <xi:include href="./sections/34-1519.xml" />
-    <xi:include href="./sections/34-1520.xml" />
-    <xi:include href="./sections/34-1521.xml" />
-    <xi:include href="./sections/34-1522.xml" />
+    <xi:include href="./sections/34-1501.xml"/>
+    <xi:include href="./sections/34-1501.01.xml"/>
+    <xi:include href="./sections/34-1502.xml"/>
+    <xi:include href="./sections/34-1503.xml"/>
+    <xi:include href="./sections/34-1504.xml"/>
+    <xi:include href="./sections/34-1505.xml"/>
+    <xi:include href="./sections/34-1506.xml"/>
+    <xi:include href="./sections/34-1506.01.xml"/>
+    <xi:include href="./sections/34-1507.xml"/>
+    <xi:include href="./sections/34-1508.xml"/>
+    <xi:include href="./sections/34-1509.xml"/>
+    <xi:include href="./sections/34-1510.xml"/>
+    <xi:include href="./sections/34-1511.xml"/>
+    <xi:include href="./sections/34-1512.xml"/>
+    <xi:include href="./sections/34-1513.xml"/>
+    <xi:include href="./sections/34-1514.xml"/>
+    <xi:include href="./sections/34-1515.xml"/>
+    <xi:include href="./sections/34-1516.xml"/>
+    <xi:include href="./sections/34-1517.xml"/>
+    <xi:include href="./sections/34-1518.xml"/>
+    <xi:include href="./sections/34-1518.01.xml"/>
+    <xi:include href="./sections/34-1519.xml"/>
+    <xi:include href="./sections/34-1520.xml"/>
+    <xi:include href="./sections/34-1521.xml"/>
+    <xi:include href="./sections/34-1522.xml"/>
   </container>
   <subheading>Subtitle IIIA. Electrical and Natural Gas Metering.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>15A</num>
     <heading>Installation of Submetering Equipment.</heading>
-    <xi:include href="./sections/34-1551.xml" />
-    <xi:include href="./sections/34-1552.xml" />
-    <xi:include href="./sections/34-1553.xml" />
+    <xi:include href="./sections/34-1551.xml"/>
+    <xi:include href="./sections/34-1552.xml"/>
+    <xi:include href="./sections/34-1553.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>15B</num>
     <heading>Advanced Metering Infrastructure.</heading>
-    <xi:include href="./sections/34-1561.xml" />
-    <xi:include href="./sections/34-1562.xml" />
+    <xi:include href="./sections/34-1561.xml"/>
+    <xi:include href="./sections/34-1562.xml"/>
   </container>
   <subheading>Subtitle IV. Natural Gas.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>16</num>
     <heading>Gas Companies.</heading>
-    <xi:include href="./sections/34-1601.xml" />
-    <xi:include href="./sections/34-1602.xml" />
-    <xi:include href="./sections/34-1603.xml" />
-    <xi:include href="./sections/34-1604.xml" />
-    <xi:include href="./sections/34-1605.xml" />
-    <xi:include href="./sections/34-1606.xml" />
-    <xi:include href="./sections/34-1607.xml" />
-    <xi:include href="./sections/34-1608.xml" />
+    <xi:include href="./sections/34-1601.xml"/>
+    <xi:include href="./sections/34-1602.xml"/>
+    <xi:include href="./sections/34-1603.xml"/>
+    <xi:include href="./sections/34-1604.xml"/>
+    <xi:include href="./sections/34-1605.xml"/>
+    <xi:include href="./sections/34-1606.xml"/>
+    <xi:include href="./sections/34-1607.xml"/>
+    <xi:include href="./sections/34-1608.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>16A</num>
     <heading>Unauthorized Switching of Customer Natural Gas Accounts.</heading>
-    <xi:include href="./sections/34-1631.xml" />
-    <xi:include href="./sections/34-1632.xml" />
-    <xi:include href="./sections/34-1633.xml" />
-    <xi:include href="./sections/34-1634.xml" />
+    <xi:include href="./sections/34-1631.xml"/>
+    <xi:include href="./sections/34-1632.xml"/>
+    <xi:include href="./sections/34-1633.xml"/>
+    <xi:include href="./sections/34-1634.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>16B</num>
     <heading>Natural Gas Trust Fund.</heading>
-    <xi:include href="./sections/34-1651.xml" />
+    <xi:include href="./sections/34-1651.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>16C</num>
     <heading>Retail Natural Gas Supplier Licensing and Consumer Protection.</heading>
-    <xi:include href="./sections/34-1671.01.xml" />
-    <xi:include href="./sections/34-1671.02.xml" />
-    <xi:include href="./sections/34-1671.03.xml" />
-    <xi:include href="./sections/34-1671.04.xml" />
-    <xi:include href="./sections/34-1671.05.xml" />
-    <xi:include href="./sections/34-1671.06.xml" />
-    <xi:include href="./sections/34-1671.06a.xml" />
-    <xi:include href="./sections/34-1671.07.xml" />
-    <xi:include href="./sections/34-1671.08.xml" />
-    <xi:include href="./sections/34-1671.09.xml" />
-    <xi:include href="./sections/34-1671.10.xml" />
-    <xi:include href="./sections/34-1671.11.xml" />
-    <xi:include href="./sections/34-1671.12.xml" />
-    <xi:include href="./sections/34-1671.13.xml" />
-    <xi:include href="./sections/34-1671.14.xml" />
+    <xi:include href="./sections/34-1671.01.xml"/>
+    <xi:include href="./sections/34-1671.02.xml"/>
+    <xi:include href="./sections/34-1671.03.xml"/>
+    <xi:include href="./sections/34-1671.04.xml"/>
+    <xi:include href="./sections/34-1671.05.xml"/>
+    <xi:include href="./sections/34-1671.06.xml"/>
+    <xi:include href="./sections/34-1671.06a.xml"/>
+    <xi:include href="./sections/34-1671.07.xml"/>
+    <xi:include href="./sections/34-1671.08.xml"/>
+    <xi:include href="./sections/34-1671.09.xml"/>
+    <xi:include href="./sections/34-1671.10.xml"/>
+    <xi:include href="./sections/34-1671.11.xml"/>
+    <xi:include href="./sections/34-1671.12.xml"/>
+    <xi:include href="./sections/34-1671.13.xml"/>
+    <xi:include href="./sections/34-1671.14.xml"/>
   </container>
   <subheading>Subtitle V. Telecommunications.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>17</num>
     <heading>Ban on Automated Dialing Systems.</heading>
-    <xi:include href="./sections/34-1701.xml" />
+    <xi:include href="./sections/34-1701.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>17A</num>
     <heading>Digital Inclusion.</heading>
-    <xi:include href="./sections/34-1731.01.xml" />
-    <xi:include href="./sections/34-1731.02.xml" />
-    <xi:include href="./sections/34-1731.03.xml" />
-    <xi:include href="./sections/34-1731.04.xml" />
-    <xi:include href="./sections/34-1731.05.xml" />
-    <xi:include href="./sections/34-1731.06.xml" />
-    <xi:include href="./sections/34-1731.07.xml" />
-    <xi:include href="./sections/34-1731.08.xml" />
-    <xi:include href="./sections/34-1731.09.xml" />
-    <xi:include href="./sections/34-1731.10.xml" />
-    <xi:include href="./sections/34-1731.11.xml" />
+    <xi:include href="./sections/34-1731.01.xml"/>
+    <xi:include href="./sections/34-1731.02.xml"/>
+    <xi:include href="./sections/34-1731.03.xml"/>
+    <xi:include href="./sections/34-1731.04.xml"/>
+    <xi:include href="./sections/34-1731.05.xml"/>
+    <xi:include href="./sections/34-1731.06.xml"/>
+    <xi:include href="./sections/34-1731.07.xml"/>
+    <xi:include href="./sections/34-1731.08.xml"/>
+    <xi:include href="./sections/34-1731.09.xml"/>
+    <xi:include href="./sections/34-1731.10.xml"/>
+    <xi:include href="./sections/34-1731.11.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>18</num>
     <heading>Emergency and Non-Emergency Number Telephone System Assessments Fund.</heading>
-    <xi:include href="./sections/34-1801.xml" />
-    <xi:include href="./sections/34-1802.xml" />
-    <xi:include href="./sections/34-1803.xml" />
-    <xi:include href="./sections/34-1803.01.xml" />
-    <xi:include href="./sections/34-1803.02.xml" />
-    <xi:include href="./sections/34-1803.03.xml" />
-    <xi:include href="./sections/34-1804.xml" />
-    <xi:include href="./sections/34-1805.xml" />
-    <xi:include href="./sections/34-1806.xml" />
+    <xi:include href="./sections/34-1801.xml"/>
+    <xi:include href="./sections/34-1802.xml"/>
+    <xi:include href="./sections/34-1803.xml"/>
+    <xi:include href="./sections/34-1803.01.xml"/>
+    <xi:include href="./sections/34-1803.02.xml"/>
+    <xi:include href="./sections/34-1803.03.xml"/>
+    <xi:include href="./sections/34-1804.xml"/>
+    <xi:include href="./sections/34-1805.xml"/>
+    <xi:include href="./sections/34-1806.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>18A</num>
     <heading>Pay Telephones.</heading>
-    <xi:include href="./sections/34-1831.xml" />
+    <xi:include href="./sections/34-1831.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -678,48 +1440,48 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Additional Poles, Wires, and Conduits, 1888.</heading>
-      <xi:include href="./sections/34-1901.01.xml" />
+      <xi:include href="./sections/34-1901.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Telephone Poles, Wires, and Conduits, 1902.</heading>
-      <xi:include href="./sections/34-1911.01.xml" />
-      <xi:include href="./sections/34-1911.02.xml" />
-      <xi:include href="./sections/34-1911.03.xml" />
-      <xi:include href="./sections/34-1911.04.xml" />
-      <xi:include href="./sections/34-1911.05.xml" />
-      <xi:include href="./sections/34-1911.06.xml" />
-      <xi:include href="./sections/34-1911.07.xml" />
+      <xi:include href="./sections/34-1911.01.xml"/>
+      <xi:include href="./sections/34-1911.02.xml"/>
+      <xi:include href="./sections/34-1911.03.xml"/>
+      <xi:include href="./sections/34-1911.04.xml"/>
+      <xi:include href="./sections/34-1911.05.xml"/>
+      <xi:include href="./sections/34-1911.06.xml"/>
+      <xi:include href="./sections/34-1911.07.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Telephone Poles, Wires, and Conduits, 1905.</heading>
-      <xi:include href="./sections/34-1921.01.xml" />
-      <xi:include href="./sections/34-1921.02.xml" />
-      <xi:include href="./sections/34-1921.03.xml" />
-      <xi:include href="./sections/34-1921.04.xml" />
-      <xi:include href="./sections/34-1921.04a.xml" />
-      <xi:include href="./sections/34-1921.05.xml" />
-      <xi:include href="./sections/34-1921.06.xml" />
-      <xi:include href="./sections/34-1921.07.xml" />
-      <xi:include href="./sections/34-1921.08.xml" />
+      <xi:include href="./sections/34-1921.01.xml"/>
+      <xi:include href="./sections/34-1921.02.xml"/>
+      <xi:include href="./sections/34-1921.03.xml"/>
+      <xi:include href="./sections/34-1921.04.xml"/>
+      <xi:include href="./sections/34-1921.04a.xml"/>
+      <xi:include href="./sections/34-1921.05.xml"/>
+      <xi:include href="./sections/34-1921.06.xml"/>
+      <xi:include href="./sections/34-1921.07.xml"/>
+      <xi:include href="./sections/34-1921.08.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>20</num>
     <heading>Telecommunications Competition.</heading>
-    <xi:include href="./sections/34-2001.xml" />
-    <xi:include href="./sections/34-2002.xml" />
-    <xi:include href="./sections/34-2003.xml" />
-    <xi:include href="./sections/34-2003.01.xml" />
-    <xi:include href="./sections/34-2004.xml" />
-    <xi:include href="./sections/34-2005.xml" />
-    <xi:include href="./sections/34-2006.xml" />
-    <xi:include href="./sections/34-2007.xml" />
-    <xi:include href="./sections/34-2008.xml" />
+    <xi:include href="./sections/34-2001.xml"/>
+    <xi:include href="./sections/34-2002.xml"/>
+    <xi:include href="./sections/34-2003.xml"/>
+    <xi:include href="./sections/34-2003.01.xml"/>
+    <xi:include href="./sections/34-2004.xml"/>
+    <xi:include href="./sections/34-2005.xml"/>
+    <xi:include href="./sections/34-2006.xml"/>
+    <xi:include href="./sections/34-2007.xml"/>
+    <xi:include href="./sections/34-2008.xml"/>
   </container>
   <subheading>Subtitle VI. Water and Sewer.</subheading>
   <container>
@@ -730,47 +1492,47 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>District Sanitary Sewage Works.</heading>
-      <xi:include href="./sections/34-2101.xml" />
-      <xi:include href="./sections/34-2102.xml" />
-      <xi:include href="./sections/34-2103.xml" />
-      <xi:include href="./sections/34-2104.xml" />
-      <xi:include href="./sections/34-2105.xml" />
-      <xi:include href="./sections/34-2105.01.xml" />
-      <xi:include href="./sections/34-2105.02.xml" />
-      <xi:include href="./sections/34-2105.03.xml" />
-      <xi:include href="./sections/34-2105.04.xml" />
-      <xi:include href="./sections/34-2105.05.xml" />
-      <xi:include href="./sections/34-2106.xml" />
-      <xi:include href="./sections/34-2107.xml" />
-      <xi:include href="./sections/34-2108.xml" />
-      <xi:include href="./sections/34-2109.xml" />
-      <xi:include href="./sections/34-2110.xml" />
-      <xi:include href="./sections/34-2111.xml" />
-      <xi:include href="./sections/34-2112.xml" />
-      <xi:include href="./sections/34-2113.xml" />
-      <xi:include href="./sections/34-2114.xml" />
+      <xi:include href="./sections/34-2101.xml"/>
+      <xi:include href="./sections/34-2102.xml"/>
+      <xi:include href="./sections/34-2103.xml"/>
+      <xi:include href="./sections/34-2104.xml"/>
+      <xi:include href="./sections/34-2105.xml"/>
+      <xi:include href="./sections/34-2105.01.xml"/>
+      <xi:include href="./sections/34-2105.02.xml"/>
+      <xi:include href="./sections/34-2105.03.xml"/>
+      <xi:include href="./sections/34-2105.04.xml"/>
+      <xi:include href="./sections/34-2105.05.xml"/>
+      <xi:include href="./sections/34-2106.xml"/>
+      <xi:include href="./sections/34-2107.xml"/>
+      <xi:include href="./sections/34-2108.xml"/>
+      <xi:include href="./sections/34-2109.xml"/>
+      <xi:include href="./sections/34-2110.xml"/>
+      <xi:include href="./sections/34-2111.xml"/>
+      <xi:include href="./sections/34-2112.xml"/>
+      <xi:include href="./sections/34-2113.xml"/>
+      <xi:include href="./sections/34-2114.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Dulles International Airport Sanitary Sewer.</heading>
-      <xi:include href="./sections/34-2131.xml" />
-      <xi:include href="./sections/34-2132.xml" />
-      <xi:include href="./sections/34-2133.xml" />
-      <xi:include href="./sections/34-2134.xml" />
+      <xi:include href="./sections/34-2131.xml"/>
+      <xi:include href="./sections/34-2132.xml"/>
+      <xi:include href="./sections/34-2133.xml"/>
+      <xi:include href="./sections/34-2134.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>21A</num>
     <heading>Lead Service Line Replacement Assistance.</heading>
-    <xi:include href="./sections/34-2151.xml" />
-    <xi:include href="./sections/34-2152.xml" />
-    <xi:include href="./sections/34-2153.xml" />
-    <xi:include href="./sections/34-2154.xml" />
-    <xi:include href="./sections/34-2155.xml" />
-    <xi:include href="./sections/34-2156.xml" />
-    <xi:include href="./sections/34-2157.xml" />
+    <xi:include href="./sections/34-2151.xml"/>
+    <xi:include href="./sections/34-2152.xml"/>
+    <xi:include href="./sections/34-2153.xml"/>
+    <xi:include href="./sections/34-2154.xml"/>
+    <xi:include href="./sections/34-2155.xml"/>
+    <xi:include href="./sections/34-2156.xml"/>
+    <xi:include href="./sections/34-2157.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -780,60 +1542,60 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Declaration of Policy.</heading>
-      <xi:include href="./sections/34-2201.01.xml" />
+      <xi:include href="./sections/34-2201.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>General Provisions.</heading>
-      <xi:include href="./sections/34-2202.01.xml" />
-      <xi:include href="./sections/34-2202.02.xml" />
-      <xi:include href="./sections/34-2202.03.xml" />
-      <xi:include href="./sections/34-2202.04.xml" />
-      <xi:include href="./sections/34-2202.05.xml" />
-      <xi:include href="./sections/34-2202.06.xml" />
-      <xi:include href="./sections/34-2202.06a.xml" />
-      <xi:include href="./sections/34-2202.06b.xml" />
-      <xi:include href="./sections/34-2202.06c.xml" />
-      <xi:include href="./sections/34-2202.06d.xml" />
-      <xi:include href="./sections/34-2202.06e.xml" />
-      <xi:include href="./sections/34-2202.06f.xml" />
-      <xi:include href="./sections/34-2202.06g.xml" />
-      <xi:include href="./sections/34-2202.06h.xml" />
-      <xi:include href="./sections/34-2202.07.xml" />
-      <xi:include href="./sections/34-2202.08.xml" />
-      <xi:include href="./sections/34-2202.09.xml" />
-      <xi:include href="./sections/34-2202.10.xml" />
-      <xi:include href="./sections/34-2202.11.xml" />
-      <xi:include href="./sections/34-2202.12.xml" />
-      <xi:include href="./sections/34-2202.13.xml" />
-      <xi:include href="./sections/34-2202.13a.xml" />
-      <xi:include href="./sections/34-2202.14.xml" />
-      <xi:include href="./sections/34-2202.15.xml" />
-      <xi:include href="./sections/34-2202.16.xml" />
-      <xi:include href="./sections/34-2202.16a.xml" />
-      <xi:include href="./sections/34-2202.17.xml" />
-      <xi:include href="./sections/34-2202.18.xml" />
-      <xi:include href="./sections/34-2202.19.xml" />
-      <xi:include href="./sections/34-2202.20.xml" />
+      <xi:include href="./sections/34-2202.01.xml"/>
+      <xi:include href="./sections/34-2202.02.xml"/>
+      <xi:include href="./sections/34-2202.03.xml"/>
+      <xi:include href="./sections/34-2202.04.xml"/>
+      <xi:include href="./sections/34-2202.05.xml"/>
+      <xi:include href="./sections/34-2202.06.xml"/>
+      <xi:include href="./sections/34-2202.06a.xml"/>
+      <xi:include href="./sections/34-2202.06b.xml"/>
+      <xi:include href="./sections/34-2202.06c.xml"/>
+      <xi:include href="./sections/34-2202.06d.xml"/>
+      <xi:include href="./sections/34-2202.06e.xml"/>
+      <xi:include href="./sections/34-2202.06f.xml"/>
+      <xi:include href="./sections/34-2202.06g.xml"/>
+      <xi:include href="./sections/34-2202.06h.xml"/>
+      <xi:include href="./sections/34-2202.07.xml"/>
+      <xi:include href="./sections/34-2202.08.xml"/>
+      <xi:include href="./sections/34-2202.09.xml"/>
+      <xi:include href="./sections/34-2202.10.xml"/>
+      <xi:include href="./sections/34-2202.11.xml"/>
+      <xi:include href="./sections/34-2202.12.xml"/>
+      <xi:include href="./sections/34-2202.13.xml"/>
+      <xi:include href="./sections/34-2202.13a.xml"/>
+      <xi:include href="./sections/34-2202.14.xml"/>
+      <xi:include href="./sections/34-2202.15.xml"/>
+      <xi:include href="./sections/34-2202.16.xml"/>
+      <xi:include href="./sections/34-2202.16a.xml"/>
+      <xi:include href="./sections/34-2202.17.xml"/>
+      <xi:include href="./sections/34-2202.18.xml"/>
+      <xi:include href="./sections/34-2202.19.xml"/>
+      <xi:include href="./sections/34-2202.20.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Enterprise Fund Operation and Maintenance Account.</heading>
-      <xi:include href="./sections/34-2202.41.xml" />
+      <xi:include href="./sections/34-2202.41.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>23</num>
     <heading>Water and Sewer Services Amnesty Program, Receivership Provision, and Administrative Review.</heading>
-    <xi:include href="./sections/34-2301.xml" />
-    <xi:include href="./sections/34-2302.xml" />
-    <xi:include href="./sections/34-2303.xml" />
-    <xi:include href="./sections/34-2304.xml" />
-    <xi:include href="./sections/34-2305.xml" />
-    <xi:include href="./sections/34-2306.xml" />
+    <xi:include href="./sections/34-2301.xml"/>
+    <xi:include href="./sections/34-2302.xml"/>
+    <xi:include href="./sections/34-2303.xml"/>
+    <xi:include href="./sections/34-2304.xml"/>
+    <xi:include href="./sections/34-2305.xml"/>
+    <xi:include href="./sections/34-2306.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -843,107 +1605,107 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General Provisions.</heading>
-      <xi:include href="./sections/34-2401.01.xml" />
-      <xi:include href="./sections/34-2401.02.xml" />
-      <xi:include href="./sections/34-2401.03.xml" />
-      <xi:include href="./sections/34-2401.04.xml" />
-      <xi:include href="./sections/34-2401.05.xml" />
-      <xi:include href="./sections/34-2401.06.xml" />
-      <xi:include href="./sections/34-2401.07.xml" />
-      <xi:include href="./sections/34-2401.08.xml" />
-      <xi:include href="./sections/34-2401.09.xml" />
-      <xi:include href="./sections/34-2401.10.xml" />
-      <xi:include href="./sections/34-2401.11.xml" />
-      <xi:include href="./sections/34-2401.12.xml" />
-      <xi:include href="./sections/34-2401.13.xml" />
-      <xi:include href="./sections/34-2401.14.xml" />
-      <xi:include href="./sections/34-2401.15.xml" />
-      <xi:include href="./sections/34-2401.16.xml" />
-      <xi:include href="./sections/34-2401.17.xml" />
-      <xi:include href="./sections/34-2401.18.xml" />
-      <xi:include href="./sections/34-2401.19.xml" />
-      <xi:include href="./sections/34-2401.20.xml" />
-      <xi:include href="./sections/34-2401.21.xml" />
-      <xi:include href="./sections/34-2401.22.xml" />
-      <xi:include href="./sections/34-2401.23.xml" />
-      <xi:include href="./sections/34-2401.24.xml" />
-      <xi:include href="./sections/34-2401.25.xml" />
-      <xi:include href="./sections/34-2401.25a.xml" />
-      <xi:include href="./sections/34-2401.26.xml" />
-      <xi:include href="./sections/34-2401.27.xml" />
+      <xi:include href="./sections/34-2401.01.xml"/>
+      <xi:include href="./sections/34-2401.02.xml"/>
+      <xi:include href="./sections/34-2401.03.xml"/>
+      <xi:include href="./sections/34-2401.04.xml"/>
+      <xi:include href="./sections/34-2401.05.xml"/>
+      <xi:include href="./sections/34-2401.06.xml"/>
+      <xi:include href="./sections/34-2401.07.xml"/>
+      <xi:include href="./sections/34-2401.08.xml"/>
+      <xi:include href="./sections/34-2401.09.xml"/>
+      <xi:include href="./sections/34-2401.10.xml"/>
+      <xi:include href="./sections/34-2401.11.xml"/>
+      <xi:include href="./sections/34-2401.12.xml"/>
+      <xi:include href="./sections/34-2401.13.xml"/>
+      <xi:include href="./sections/34-2401.14.xml"/>
+      <xi:include href="./sections/34-2401.15.xml"/>
+      <xi:include href="./sections/34-2401.16.xml"/>
+      <xi:include href="./sections/34-2401.17.xml"/>
+      <xi:include href="./sections/34-2401.18.xml"/>
+      <xi:include href="./sections/34-2401.19.xml"/>
+      <xi:include href="./sections/34-2401.20.xml"/>
+      <xi:include href="./sections/34-2401.21.xml"/>
+      <xi:include href="./sections/34-2401.22.xml"/>
+      <xi:include href="./sections/34-2401.23.xml"/>
+      <xi:include href="./sections/34-2401.24.xml"/>
+      <xi:include href="./sections/34-2401.25.xml"/>
+      <xi:include href="./sections/34-2401.25a.xml"/>
+      <xi:include href="./sections/34-2401.26.xml"/>
+      <xi:include href="./sections/34-2401.27.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Prevention of Water Waste; Water Use by Manufacturers.</heading>
-      <xi:include href="./sections/34-2403.01.xml" />
-      <xi:include href="./sections/34-2403.02.xml" />
-      <xi:include href="./sections/34-2403.03.xml" />
+      <xi:include href="./sections/34-2403.01.xml"/>
+      <xi:include href="./sections/34-2403.02.xml"/>
+      <xi:include href="./sections/34-2403.03.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Water Mains.</heading>
-      <xi:include href="./sections/34-2405.01.xml" />
-      <xi:include href="./sections/34-2405.02.xml" />
-      <xi:include href="./sections/34-2405.03.xml" />
-      <xi:include href="./sections/34-2405.04.xml" />
-      <xi:include href="./sections/34-2405.05.xml" />
-      <xi:include href="./sections/34-2405.06.xml" />
-      <xi:include href="./sections/34-2405.07.xml" />
-      <xi:include href="./sections/34-2405.08.xml" />
+      <xi:include href="./sections/34-2405.01.xml"/>
+      <xi:include href="./sections/34-2405.02.xml"/>
+      <xi:include href="./sections/34-2405.03.xml"/>
+      <xi:include href="./sections/34-2405.04.xml"/>
+      <xi:include href="./sections/34-2405.05.xml"/>
+      <xi:include href="./sections/34-2405.06.xml"/>
+      <xi:include href="./sections/34-2405.07.xml"/>
+      <xi:include href="./sections/34-2405.08.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Discontinuance of Service.</heading>
-      <xi:include href="./sections/34-2407.01.xml" />
-      <xi:include href="./sections/34-2407.02.xml" />
-      <xi:include href="./sections/34-2407.03.xml" />
+      <xi:include href="./sections/34-2407.01.xml"/>
+      <xi:include href="./sections/34-2407.02.xml"/>
+      <xi:include href="./sections/34-2407.03.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Fireplug Tax.</heading>
-      <xi:include href="./sections/34-2409.01.xml" />
-      <xi:include href="./sections/34-2409.02.xml" />
-      <xi:include href="./sections/34-2409.03.xml" />
-      <xi:include href="./sections/34-2409.04.xml" />
+      <xi:include href="./sections/34-2409.01.xml"/>
+      <xi:include href="./sections/34-2409.02.xml"/>
+      <xi:include href="./sections/34-2409.03.xml"/>
+      <xi:include href="./sections/34-2409.04.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V-A</num>
       <heading>Private Fire Hydrants.</heading>
-      <xi:include href="./sections/34-2410.01.xml" />
-      <xi:include href="./sections/34-2410.02.xml" />
-      <xi:include href="./sections/34-2410.03.xml" />
-      <xi:include href="./sections/34-2410.04.xml" />
-      <xi:include href="./sections/34-2410.05.xml" />
-      <xi:include href="./sections/34-2410.06.xml" />
+      <xi:include href="./sections/34-2410.01.xml"/>
+      <xi:include href="./sections/34-2410.02.xml"/>
+      <xi:include href="./sections/34-2410.03.xml"/>
+      <xi:include href="./sections/34-2410.04.xml"/>
+      <xi:include href="./sections/34-2410.05.xml"/>
+      <xi:include href="./sections/34-2410.06.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Delivery of Water.</heading>
-      <xi:include href="./sections/34-2411.01.xml" />
-      <xi:include href="./sections/34-2411.02.xml" />
-      <xi:include href="./sections/34-2411.03.xml" />
+      <xi:include href="./sections/34-2411.01.xml"/>
+      <xi:include href="./sections/34-2411.02.xml"/>
+      <xi:include href="./sections/34-2411.03.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VII</num>
       <heading>Repealed Provisions.</heading>
-      <xi:include href="./sections/34-2413.01.xml" />
-      <xi:include href="./sections/34-2413.02.xml" />
-      <xi:include href="./sections/34-2413.03.xml" />
-      <xi:include href="./sections/34-2413.04.xml" />
-      <xi:include href="./sections/34-2413.05.xml" />
-      <xi:include href="./sections/34-2413.06.xml" />
-      <xi:include href="./sections/34-2413.07.xml" />
-      <xi:include href="./sections/34-2413.08.xml" />
-      <xi:include href="./sections/34-2413.09.xml" />
-      <xi:include href="./sections/34-2413.10.xml" />
-      <xi:include href="./sections/34-2413.11.xml" />
+      <xi:include href="./sections/34-2413.01.xml"/>
+      <xi:include href="./sections/34-2413.02.xml"/>
+      <xi:include href="./sections/34-2413.03.xml"/>
+      <xi:include href="./sections/34-2413.04.xml"/>
+      <xi:include href="./sections/34-2413.05.xml"/>
+      <xi:include href="./sections/34-2413.06.xml"/>
+      <xi:include href="./sections/34-2413.07.xml"/>
+      <xi:include href="./sections/34-2413.08.xml"/>
+      <xi:include href="./sections/34-2413.09.xml"/>
+      <xi:include href="./sections/34-2413.10.xml"/>
+      <xi:include href="./sections/34-2413.11.xml"/>
     </container>
   </container>
   <subheading>Subtitle VII. Miscellaneous.</subheading>
@@ -951,32 +1713,32 @@
     <prefix>Chapter</prefix>
     <num>25</num>
     <heading>Private Conduits.</heading>
-    <xi:include href="./sections/34-2501.xml" />
-    <xi:include href="./sections/34-2502.xml" />
-    <xi:include href="./sections/34-2503.xml" />
-    <xi:include href="./sections/34-2504.xml" />
+    <xi:include href="./sections/34-2501.xml"/>
+    <xi:include href="./sections/34-2502.xml"/>
+    <xi:include href="./sections/34-2503.xml"/>
+    <xi:include href="./sections/34-2504.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>26</num>
     <heading>Public Utility Environmental Impact Statement Requirements.</heading>
-    <xi:include href="./sections/34-2601.xml" />
-    <xi:include href="./sections/34-2602.xml" />
-    <xi:include href="./sections/34-2603.xml" />
-    <xi:include href="./sections/34-2604.xml" />
+    <xi:include href="./sections/34-2601.xml"/>
+    <xi:include href="./sections/34-2602.xml"/>
+    <xi:include href="./sections/34-2603.xml"/>
+    <xi:include href="./sections/34-2604.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>27</num>
     <heading>Underground Facilities Protection.</heading>
-    <xi:include href="./sections/34-2701.xml" />
-    <xi:include href="./sections/34-2702.xml" />
-    <xi:include href="./sections/34-2703.xml" />
-    <xi:include href="./sections/34-2704.xml" />
-    <xi:include href="./sections/34-2705.xml" />
-    <xi:include href="./sections/34-2706.xml" />
-    <xi:include href="./sections/34-2707.xml" />
-    <xi:include href="./sections/34-2708.xml" />
-    <xi:include href="./sections/34-2709.xml" />
+    <xi:include href="./sections/34-2701.xml"/>
+    <xi:include href="./sections/34-2702.xml"/>
+    <xi:include href="./sections/34-2703.xml"/>
+    <xi:include href="./sections/34-2704.xml"/>
+    <xi:include href="./sections/34-2705.xml"/>
+    <xi:include href="./sections/34-2706.xml"/>
+    <xi:include href="./sections/34-2707.xml"/>
+    <xi:include href="./sections/34-2708.xml"/>
+    <xi:include href="./sections/34-2709.xml"/>
   </container>
 </container>

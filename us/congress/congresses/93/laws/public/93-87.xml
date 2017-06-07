@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="Pub. L. 93-87" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pub. L. 93-87">
   <num>93-87</num>
   <heading type="long">Federal-Aid Highway Act</heading>
   <meta>
@@ -12,14 +11,14 @@
   <container>
     <prefix>Title</prefix>
     <num>I</num>
-    <heading />
+    <heading/>
     <section>
       <num>135</num>
-      <codified:stub doc="D.C. Code" path="§9-103.06" />
+      <codified:stub doc="D.C. Code" path="§9-103.06"/>
     </section>
     <section>
       <num>140</num>
-      <codified:stub doc="D.C. Code" path="§9-1111.17" />
+      <codified:stub doc="D.C. Code" path="§9-1111.17"/>
     </section>
   </container>
 </document>

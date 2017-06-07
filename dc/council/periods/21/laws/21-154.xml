@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-154" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-154">
   <num type="law">21-154</num>
   <num type="bill">21-650</num>
   <num type="act">21-466</num>
@@ -12,9 +11,9 @@
       <citation type="register">63 DCR 10138</citation>
     </citations>
     <history>
-      <vote date="2016-06-07" reading="First" />
-      <vote date="2016-06-28" reading="Amendment" />
-      <vote date="2016-06-28" reading="Final" />
+      <vote date="2016-06-07" reading="First"/>
+      <vote date="2016-06-28" reading="Amendment"/>
+      <vote date="2016-06-28" reading="Final"/>
       <enacted>2016-07-25</enacted>
       <summary>Law 21-154 adds waste heat from combined and sanitary sewage systems, and effluence from wastewater treatment to the list of Tier 1 renewable sources; raises the renewable portfolio and solar requirements to 50% and 5% by the year 2032, respectively; increases financial penalties for electricity suppliers who fail to comply with the renewable energy portfolio standard for the applicable year; and establishes a program within the Department of Energy and the Environment to assist low-income households, seniors, nonprofits, and small local businesses increase their access to the benefits of solar power. The program is required to reduce by at least 50% the electric bills of at least 100,000 of the District's low-income households with high energy burdens by December 31, 2032.</summary>
       <committee>Committee on Transportation and the Environment</committee>
@@ -34,19 +33,19 @@
       <para>
         <num>(1)</num>
         <text>Subparagraph (F) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-        <codify:find-replace path="(F)" find="; and" replace=";" count="1" />
+        <codify:find-replace path="(F)" find="; and" replace=";" count="1"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Subparagraph (G) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace path="(G)" find="." replace="; and" count="1" />
+        <codify:find-replace path="(G)" find="." replace="; and" count="1"/>
       </para>
       <para>
         <num>(3)</num>
         <text>A new subparagraph (H) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert />
+            <codify:insert/>
             <num>(H)</num>
             <text>Raw or treated wastewater used as a heat source or sink for a heating or cooling system.</text>
           </para>
@@ -63,7 +62,7 @@
         <para>
           <num>(A)</num>
           <text>Paragraph (12) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace path="(12)" find="; and" replace=";" count="1" />
+          <codify:find-replace path="(12)" find="; and" replace=";" count="1"/>
         </para>
         <para>
           <num>(B)</num>
@@ -71,12 +70,12 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "In 2023 and thereafter" and insert the phrase "In 2023" in its place.</text>
-            <codify:find-replace path="(13)" find="In 2023 and thereafter" replace="In 2023" count="1" />
+            <codify:find-replace path="(13)" find="In 2023 and thereafter" replace="In 2023" count="1"/>
           </para>
           <para>
             <num>(ii)</num>
             <text>Strike the period and insert a semicolon in its place.</text>
-            <codify:find-replace path="(13)" find="." replace=";" location="last" />
+            <codify:find-replace path="(13)" find="." replace=";" location="last"/>
           </para>
         </para>
         <para>
@@ -84,47 +83,47 @@
           <text>New paragraphs (14), (15), (16), (17), (18), (19), (20), (21), and (22) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(14)</num>
               <text>In 2024, not less than 23% from tier one renewable sources, 0% from tier two renewable sources, and not less than 2.6% from solar energy;</text>
             </para>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(15)</num>
               <text>In 2025, not less than 26% from tier one renewable sources, 0% from tier two renewable sources, and not less than 2.85% from solar energy;</text>
             </para>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(16)</num>
               <text>In 2026, not less than 29% from tier one renewable sources, 0% from tier two renewable sources, and not less than 3.15% from solar energy;</text>
             </para>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(17)</num>
               <text>In 2027, not less than 32% from tier one renewable sources, 0% from tier two renewable sources, and not less than 3.45% from solar energy;</text>
             </para>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(18)</num>
               <text>In 2028, not less than 35% from tier one renewable sources, 0% from tier two renewable sources, and not less than 3.75% from solar energy;</text>
             </para>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(19)</num>
               <text>In 2029, not less than 38% from tier one renewable sources, 0% from tier two renewable sources, and not less than 4.1% from solar energy;</text>
             </para>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(20)</num>
               <text>In 2030, not less than 42% from tier one renewable sources, 0% from tier two renewable sources, and not less than 4.5% from solar energy;</text>
             </para>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(21)</num>
               <text>In 2031, not less than 46% from tier one renewable sources, 0% from tier two renewable sources, and not less than 4.75% from solar energy; and</text>
             </para>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(22)</num>
               <text>In 2032 and thereafter, not less than 50% from tier one renewable sources, 0% from tier two renewable sources, and not less than 5.0% from solar energy.</text>
             </para>
@@ -135,14 +134,14 @@
       <para>
         <num>(2)</num>
         <text>Subsection (e)(1) is amended by striking the phrase "larger than 5MW" both times it appears and inserting the phrase "larger than 15MW" in its place.</text>
-        <codify:find-replace path="(e)|(1)" find="larger than 5MW" replace="larger than 15MW" count="2" />
+        <codify:find-replace path="(e)|(1)" find="larger than 5MW" replace="larger than 15MW" count="2"/>
       </para>
       <para>
         <num>(3)</num>
         <text>A new subsection (f) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert />
+            <codify:insert/>
             <num>(f)</num>
             <text>No later than March 1, 2017, the Commission shall provide a report to the Council that includes:</text>
             <para>
@@ -163,21 +162,20 @@
       <text>Section 6(c)(3) (D.C. Official Code § 34-1434(c)(3)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace path="§6|(c)|(3)" />
+          <codify:replace path="§6|(c)|(3)"/>
           <num>(3)</num>
           <text>Fifty cents in 2016 through 2023, 40 cents in 2024 through 2028, 30 cents in 2029 through 2032, and 5 cents in 2033 and thereafter for each kilowatt-hour of shortfall from required solar energy sources.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
-      <annotation path="§2|(c)" history="false" type="Editor's Notes" app="2016-10-08" eff="2016-10-08">
-        <cite doc="D.C. Law 21-154" path="§4">Section 4 of Law 21-154</cite> provides: For 5 years after October 8, 2016, section 2(c) shall not apply to any contract entered into before October 8, 2016; provided, that section 2(c) shall apply to an extension or renewal of such a contract.</annotation>
+      <annotation path="§4" history="false" type="Editor's Notes" app="2016-10-08" eff="2016-10-08" doc="D.C. Law 21-154"><cite doc="D.C. Law 21-154" path="§4">Section 4 of Law 21-154</cite> provides: For 5 years after October 8, 2016, section 2(c) shall not apply to any contract entered into before October 8, 2016; provided, that section 2(c) shall apply to an extension or renewal of such a contract.</annotation>
     </para>
     <para codify:path="§8|(c)">
       <num>(d)</num>
       <text>Section 8(c) (D.C. Official Code § 34-1436(c)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace />
+          <codify:replace/>
           <num>(c)</num>
           <para>
             <num>(1)</num>
@@ -223,14 +221,14 @@
         <para codify:path="(C)">
           <num>(A)</num>
           <text>Subparagraph (C) is amended by striking the phrase "in fiscal year 2011 and each year thereafter." and inserting the phrase "in fiscal year 2011 through fiscal year 2016;" in its place.</text>
-          <codify:find-replace find="in fiscal year 2011 and each year thereafter." replace="in fiscal year 2011 through fiscal year 2016;" count="1" />
+          <codify:find-replace find="in fiscal year 2011 and each year thereafter." replace="in fiscal year 2011 through fiscal year 2016;" count="1"/>
         </para>
         <para>
           <num>(B)</num>
           <text>A new subparagraph (D) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(D)</num>
               <text>The amount of $.01505 in fiscal year 2017 and each year thereafter.</text>
             </para>
@@ -244,14 +242,14 @@
         <para codify:path="(C)">
           <num>(A)</num>
           <text>Subparagraph (C) is amended by striking the phrase "in fiscal year 2011 and each year thereafter." and inserting the phrase "in fiscal year 2011 through fiscal year 2016;" in its place.</text>
-          <codify:find-replace find="in fiscal year 2011 and each year thereafter." replace="in fiscal year 2011 through fiscal year 2016;" count="1" />
+          <codify:find-replace find="in fiscal year 2011 and each year thereafter." replace="in fiscal year 2011 through fiscal year 2016;" count="1"/>
         </para>
         <para>
           <num>(B)</num>
           <text>A new subparagraph (D) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(D)</num>
               <text>The amount of $.001612 in fiscal year 2017 and each year thereafter.</text>
             </para>
@@ -265,8 +263,8 @@
       <text>A new section 216 is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert history-prefix="as added" />
-          <codify:organic num-value="8-1774.16" />
+          <codify:insert history-prefix="as added"/>
+          <codify:organic num-value="8-1774.16"/>
           <num>216</num>
           <heading>Solar for All Program.</heading>
           <para>
@@ -361,8 +359,7 @@
     <num>4</num>
     <heading>Applicability.</heading>
     <text>For 5 years after the effective date of this act, section 2(c) shall not apply to any contract entered into before the effective date of this act; provided, that section 2(c) shall apply to an extension or renewal of such a contract.</text>
-    <codify:annotation path="§2|(c)" history="false" type="Editor's Notes">
-      <cite doc="D.C. Law 21-154" path="§4">Section 4 of Law 21-154</cite> provides: For 5 years after October 8, 2016, section 2(c) shall not apply to any contract entered into before October 8, 2016; provided, that section 2(c) shall apply to an extension or renewal of such a contract.</codify:annotation>
+    <codify:annotation path="§2|(c)" history="false" type="Editor's Notes"><cite doc="D.C. Law 21-154" path="§4">Section 4 of Law 21-154</cite> provides: For 5 years after October 8, 2016, section 2(c) shall not apply to any contract entered into before October 8, 2016; provided, that section 2(c) shall apply to an extension or renewal of such a contract.</codify:annotation>
   </section>
   <section>
     <num>5</num>

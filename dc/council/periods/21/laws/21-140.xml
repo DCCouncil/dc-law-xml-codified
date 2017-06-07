@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-140" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-140">
   <num type="law">21-140</num>
   <num type="bill">21-508</num>
   <num type="act">21-411</num>
@@ -12,9 +11,9 @@
       <citation type="register">63 DCR 8207</citation>
     </citations>
     <history>
-      <vote date="2016-04-19" reading="First" />
-      <vote date="2016-05-03" reading="Amendment" />
-      <vote date="2016-05-03" reading="Final" />
+      <vote date="2016-04-19" reading="First"/>
+      <vote date="2016-05-03" reading="Amendment"/>
+      <vote date="2016-05-03" reading="Final"/>
       <enacted>2016-06-01</enacted>
       <summary>District law requires that school-aged children attend school regularly and educational institutions monitor the attendance of enrolled students. Law 21-140 specifies that local education agencies may not remove public school students from enrollment for unexcused absences or late arrivals to school unless the minor has accumulated 20 or more full school day consecutive unexcused absences, and that a full school day is the entirety of instructional hours regularly provided on a regular school day. It requires guardians to provide valid excuses in writing within five days of a minor's absence; prohibits the expulsion, suspension, or de-enrollment of a student because of an unexcused absence or late arrival; requires educational institutions and the Superintendent of Education to collect, publish, and make public data concerning absenteeism, withdrawals from school, and referrals to District agencies and offices, including Child and Family Services, Court Social Services and the Office of the Attorney General Juvenile Section; requires law enforcement officers to return children suspected of truancy to school instead of truancy centers; requires schools to receive truant minors that are returned to school by law enforcement officials; permits educational institutions to exercise discretion when unexcused absences are within the last ten days of the school year; and requires the State Superintendent to send written notice of the provisions of this law to each local educational agency and school.</summary>
       <committee>Committee on Education and Committee of the Whole</committee>
@@ -35,7 +34,7 @@
         <text>A new paragraph (1A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(1)" />
+            <codify:insert after="(1)"/>
             <num>(1A)</num>
             <text>"Chronic absenteeism" means the incidence of students missing more than 10% of school days, including excused and unexcused absences.</text>
           </para>
@@ -47,7 +46,7 @@
         <text>A new paragraph (2B) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(2A)" />
+            <codify:insert after="(2A)"/>
             <num>(2B)</num>
             <text>"Full school day" means the entirety of the instructional hours regularly provided on a single school day.</text>
           </para>
@@ -61,12 +60,12 @@
       <para>
         <num>(1)</num>
         <text>Subsection (c) is amended by striking the phrase "Superintendent of Schools" and inserting the phrase "head of the educational institution in which the minor is enrolled" in its place.</text>
-        <codify:find-replace path="(c)" find="Superintendent of Schools" replace="head of the educational institution in which the minor is enrolled" count="1" />
+        <codify:find-replace path="(c)" find="Superintendent of Schools" replace="head of the educational institution in which the minor is enrolled" count="1"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Subsection (d) is amended by striking the phrase "to govern the validity of applications for permission to be absent from school,".</text>
-        <codify:find-replace path="(d)" find="to govern the validity of applications for permission to be absent from school," replace="" count="1" />
+        <codify:find-replace path="(d)" find="to govern the validity of applications for permission to be absent from school," replace="" count="1"/>
       </para>
     </para>
     <para codify:path="II|2">
@@ -75,12 +74,12 @@
       <para>
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "Superintendent of Schools" and inserting the phrase "State Superintendent of Education" in its place.</text>
-        <codify:find-replace path="(a)" find="Superintendent of Schools" replace="State Superintendent of Education" count="1" />
+        <codify:find-replace path="(a)" find="Superintendent of Schools" replace="State Superintendent of Education" count="1"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Subsection (b) is repealed.</text>
-        <codify:repeal path="(b)" />
+        <codify:repeal path="(b)"/>
       </para>
       <para codify:path="(c)">
         <num>(3)</num>
@@ -100,7 +99,7 @@
           <text>A new paragraph (2) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert />
+              <codify:insert/>
               <num>(2)</num>
               <text>An absence of a minor covered by <code-cite path="II|1|(a)">section 1(a) of this article</code-cite> who is enrolled in a public school is deemed unexcused unless the minor's parent, guardian, or other person who has custody or control of the minor provides the school with a valid excuse for the minor's absence within 5 school days upon the minor's return to school.</text>
             </para>
@@ -113,12 +112,12 @@
         <text>New subsections (f-1) and (f-2) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(f)" />
+            <codify:insert after="(f)"/>
             <num>(f-1)</num>
             <text>Beginning school year 2016-2017, no minor covered by <code-cite path="II|1|(a)">section 1(a) of this article</code-cite> who is enrolled in a public school may be expelled or receive an out-of-school suspension due to an unexcused absence or due to a late arrival to school.</text>
           </para>
           <para>
-            <codify:insert after="(f-1)" />
+            <codify:insert after="(f-1)"/>
             <num>(f-2)</num>
             <text>Beginning school year 2016-2017, no minor covered by <code-cite path="II|1|(a)">section 1(a) of this article</code-cite> who is enrolled in a public school, other than an adult education program, may be unenrolled from the local education agency due to an unexcused absence or due to a late arrival to school unless the minor has accumulated 20 or more full school day consecutive unexcused absences.</text>
           </para>
@@ -128,14 +127,14 @@
       <para>
         <num>(5)</num>
         <text>Subsection (i) is amended by striking the phrase "to the Mayor, or the Mayor's designee, and make publicly available, the following data based on the preceding school year:" in the lead-in language and inserting the phrase "to the Office of the State Superintendent of Education, and make publicly available the following data for each school or campus under its authority based on the preceding school year:" in its place.</text>
-        <codify:find-replace find="to the Mayor, or the Mayor's designee, and make publicly available, the following data based on the preceding school year:" replace="to the Office of the State Superintendent of Education, and make publicly available the following data for each school or campus under its authority based on the preceding school year:" count="1" />
+        <codify:find-replace find="to the Mayor, or the Mayor's designee, and make publicly available, the following data based on the preceding school year:" replace="to the Office of the State Superintendent of Education, and make publicly available the following data for each school or campus under its authority based on the preceding school year:" count="1"/>
       </para>
       <para>
         <num>(6)</num>
         <text>A new subsection (k) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert />
+            <codify:insert/>
             <num>(k)</num>
             <text>By October 1 of each year, the Office of the State Superintendent of Education shall publicly report on the state of absenteeism in the District based on data from the preceding school year, including an analysis of truancy and chronic absenteeism by school or campus and the impact of current laws on improving school attendance.</text>
           </para>
@@ -148,7 +147,7 @@
       <text>Section 4 of Article II (D.C. Official Code § 38-205) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace />
+          <codify:replace/>
           <num>4</num>
           <text>By October 5 of each year, each public, independent, private, and parochial school shall report to the Office of the State Superintendent of Education the name, address, sex, and date of birth of each minor who resides permanently or temporarily in the District who is currently enrolled in their school. By the 5th of every month thereafter, each school shall report any changes in enrollment, including withdrawals, to the Office of the State Superintendent of Education.</text>
         </section>
@@ -160,7 +159,7 @@
       <text>Section 6(a) of Article II (D.C. Official Code § 38-207(a)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace />
+          <codify:replace/>
           <num>(a)</num>
           <para>
             <num>(1)</num>
@@ -184,7 +183,7 @@
       <para>
         <num>(1)</num>
         <text>Subsection (a) is repealed.</text>
-        <codify:repeal path="(a)" />
+        <codify:repeal path="(a)"/>
       </para>
       <para codify:path="(c)">
         <num>(2)</num>
@@ -192,7 +191,7 @@
         <para>
           <num>(A)</num>
           <text>The lead-in language is amended by striking the phrase "subsections (a) and" and inserting the word "subsection" in its place.</text>
-          <codify:find-replace path="text" count="1" find="subsections (a) and" replace="subsection" />
+          <codify:find-replace path="text" count="1" find="subsections (a) and" replace="subsection"/>
         </para>
         <para codify:path="(1)">
           <num>(B)</num>
@@ -203,12 +202,12 @@
             <para>
               <num>(I)</num>
               <text>Strike the phrase "The educational institution" and insert the phrase "Beginning in the 2016-2017 school year, the educational institution" in its place.</text>
-              <codify:find-replace path="(A)" count="1" find="The educational institution" replace="Beginning in the 2016-2017 school year, the educational institution" />
+              <codify:find-replace path="(A)" count="1" find="The educational institution" replace="Beginning in the 2016-2017 school year, the educational institution"/>
             </para>
             <para>
               <num>(II)</num>
               <text>Strike the phrase "10 unexcused absences" and insert the phrase "10 unexcused full school day absences" in its place.</text>
-              <codify:find-replace path="(A)" count="1" find="10 unexcused absences" replace="10 unexcused full school day absences" />
+              <codify:find-replace path="(A)" count="1" find="10 unexcused absences" replace="10 unexcused full school day absences"/>
             </para>
           </para>
           <para>
@@ -217,12 +216,12 @@
             <para>
               <num>(I)</num>
               <text>Strike the phrase "Beginning in the 2013-2014 school year" and insert the phrase "Beginning in the 2016-2017 school year" in its place.</text>
-              <codify:find-replace path="(B)" count="1" find="Beginning in the 2013-2014 school year" replace="Beginning in the 2016-2017 school year" />
+              <codify:find-replace path="(B)" count="1" find="Beginning in the 2013-2014 school year" replace="Beginning in the 2016-2017 school year"/>
             </para>
             <para>
               <num>(II)</num>
               <text>Strike the phrase "15 unexcused absences" and insert the phrase "15 unexcused full school day absences" in its place.</text>
-              <codify:find-replace path="(B)" count="1" find="15 unexcused absences" replace="15 unexcused full school day absences" />
+              <codify:find-replace path="(B)" count="1" find="15 unexcused absences" replace="15 unexcused full school day absences"/>
             </para>
           </para>
         </para>
@@ -231,7 +230,7 @@
           <text>A new subparagraph (C) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert path="(1)" technical="this should be (B)(iii)" />
+              <codify:insert path="(1)" technical="this should be (B)(iii)"/>
               <num>(C)</num>
               <text>The educational institution shall have discretion with regard to the referral requirements set forth in subparagraphs (A) and (B) of this paragraph if a minor student accrues the 10th or 15th unexcused absence, respectively, within the final 10 school days of a school year.</text>
             </para>
@@ -244,7 +243,7 @@
         <text>A new subsection (d) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert />
+            <codify:insert/>
             <num>(d)</num>
             <text>By July 1 of each year, the State Superintendent of Education shall send written notice to each educational institution outlining the attendance and reporting requirements outlined in <code-cite>this act</code-cite>.</text>
           </para>
@@ -258,7 +257,7 @@
     <text>Section 2206(g) of the District of Columbia School Reform Act of 1995, approved April 26, 1996 (110 Stat. 1321; D.C. Official Code § 38-1802.06(g)), is amended to read as follows:</text>
     <include>
       <para>
-        <codify:replace />
+        <codify:replace/>
         <num>(g)</num>
         <heading codify:value="Expulsion and suspension. –">– Expulsion and suspension. –</heading>
         <text>The principal of a public charter school may expel or suspend a student from the school based on criteria set forth in the charter granted to the school; provided, that:</text>
@@ -283,7 +282,7 @@
     <aftertext>.</aftertext>
   </section>
   <section>
-    <codify:ignore />
+    <codify:ignore/>
     <num>4</num>
     <text>Chapter 21 of Subtitle A of Title 5 of the District of Columbia Municipal Regulations (5 DCMR § A2100
       <em>et seq</em>.) is amended as follows:

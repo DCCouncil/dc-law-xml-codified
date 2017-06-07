@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:2A-531</num>
   <heading>Standing to sue third parties for injury to goods.</heading>
   <para>
@@ -35,12 +34,9 @@
     <text>Either party with the consent of the other may sue for the benefit of whom it may concern.</text>
   </para>
   <annotations>
-    <text type="Uniform Commercial Code Comment">
-      <strong>Uniform Statutory Source:</strong>Section 2-722.</text>
-    <text type="Uniform Commercial Code Comment">
-      <strong>Changes:</strong> Revised to reflect leasing practices and terminology.</text>
-    <text type="Uniform Commercial Code Comment">
-      <strong>Definitional Cross References:</strong> “Action”.  Section 1-201(1).</text>
+    <text type="Uniform Commercial Code Comment"><strong>Uniform Statutory Source:</strong>Section 2-722.</text>
+    <text type="Uniform Commercial Code Comment"><strong>Changes:</strong> Revised to reflect leasing practices and terminology.</text>
+    <text type="Uniform Commercial Code Comment"><strong>Definitional Cross References:</strong> “Action”.  Section 1-201(1).</text>
     <text type="Uniform Commercial Code Comment">“Goods”. Section 2A-103(1)(h).</text>
     <text type="Uniform Commercial Code Comment">“Lease contract”. Section 2A-103(1)(l).</text>
     <text type="Uniform Commercial Code Comment">“Lessee”. Section 2A-103(1)(n).</text>

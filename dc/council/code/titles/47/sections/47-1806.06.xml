@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-1806.06</num>
   <heading>Tax on residents and nonresidents — Credits — Property taxes.</heading>
   <para>
@@ -55,10 +54,12 @@
             <tr>
               <th>If adjusted gross income is:</th>
               <th>Tax credit equals:</th>
-              <tr />
+              <tr>
+			</tr>
               <td>$0 — $24,999</td>
               <td>100% of property tax* exceeding 3.0% of adjusted gross income of the tax filing unit</td>
-              <tr />
+              <tr>
+			</tr>
               <td>$25,000 — $40,000</td>
               <td>100% of property tax* exceeding 4.0% of adjusted gross income of the tax filing unit</td>
             </tr>
@@ -297,10 +298,8 @@
     <annotation type="Section References">This section is referenced in § <cite path="§42-2851.02">42-2851.02</cite>, § <cite path="§47-857.01">47-857.01</cite>, and § <cite path="§47-865">47-865</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 47-1806.6.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 47-1567g.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-305">D.C. Law 16-305</cite> substituted “claimants with disabilities” for “disabled claimants”, throughout the section.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-231">D.C. Law 17-231</cite>, in subsec. (b)(5), substituted “spouse or domestic partner” for “spouse”; and, in subsec. (j)(2), substituted “spouses or domestic partners” for “husband and wife”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite> substituted “claimants with disabilities” for “disabled claimants”, throughout the section.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-231">D.C. Law 17-231</cite>, in subsec. (b)(5), substituted “spouse or domestic partner” for “spouse”; and, in subsec. (j)(2), substituted “spouses or domestic partners” for “husband and wife”.</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-283">D.C. Law 19-283</cite>, in (a)(1), substituted “20% of rent” for “15% of rent” and substituted “$1,000” for “$750”; added (a)(2)(B) and (C); repealed (a)(3); substituted “Only one claimant per tax filing unit per year shall be entitled to relief under this section” for “Only 1 claimant per home and per household per year shall be entitled to relief under this section” in (b)(4); repealed (b)(5), (6), and (7); substituted “20% of the rent” for “15% of the rent” in (b)(8)(B); rewrote (j)(1); and added (r).</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> added “other than eligible senior claimants” in (a)(2)(C); added (a)(2A) and (b)(9); and added “($ 60,000 for eligible senior claimants)” in (r).</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “2013” for “2014” in (a)(2A); and substituted “ Sections 47-845,  47-845.02 and  47-845.03” for “ Section 47-845” in (e)(1).</annotation>

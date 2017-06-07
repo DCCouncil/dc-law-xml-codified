@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-166" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-166">
   <num type="law">21-166</num>
   <num type="bill">21-326</num>
   <num type="act">21-484</num>
@@ -12,10 +11,10 @@
       <citation type="register">63 DCR 10733</citation>
     </citations>
     <history>
-      <vote date="2016-06-28" reading="Amendment" />
-      <vote date="2016-06-28" reading="First" />
-      <vote date="2016-07-12" reading="Amendment" />
-      <vote date="2016-07-12" reading="Final" />
+      <vote date="2016-06-28" reading="Amendment"/>
+      <vote date="2016-06-28" reading="First"/>
+      <vote date="2016-07-12" reading="Amendment"/>
+      <vote date="2016-07-12" reading="Final"/>
       <enacted>2016-08-18</enacted>
       <summary>Law 21-166 redefines the term vulnerable adults and changes the age of enhanced penalties regarding crimes against seniors from 60 to persons aged 65 and older.  It expands the crimes of criminal abuse and neglect of vulnerable adults to include financial exploitation of a vulnerable adult or elderly person. It defines undue influence and establishes factors to determine whether a result was produced by undue influence.  It establishes criminal and civil penalties for a vulnerable adult or elderly person.  Among other things it gives the Attorney General the authority to issue subpoenas and to seek injunctive relief when prosecuting these crimes. </summary>
       <committee>Committee on Judiciary</committee>
@@ -31,12 +30,12 @@
     <para>
       <num>(a)</num>
       <text>Section 112(c) (D.C. Official Code § 22-3212(c)) is amended by striking the number "10" and inserting the number "15" in its place.</text>
-      <codify:find-replace path="§112|(c)" find="10" replace="15" count="1" />
+      <codify:find-replace path="§112|(c)" find="10" replace="15" count="1"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 127c(c) (D.C. Official Code § 22-3227.03(c)) is repealed.</text>
-      <codify:repeal path="§127c|(c)" />
+      <codify:repeal path="§127c|(c)"/>
     </para>
     <para codify:path="§201">
       <num>(c)</num>
@@ -44,17 +43,17 @@
       <para>
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the number "60" and inserting the number "65" in its place.</text>
-        <codify:find-replace path="(a)" find="60" replace="65" count="1" />
+        <codify:find-replace path="(a)" find="60" replace="65" count="1"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Subsection (b) is amended by striking the phrase "or an attempt or conspiracy" and inserting the phrase "identity theft, financial exploitation of a vulnerable adult or elderly person, or an attempt or conspiracy" in its place.</text>
-        <codify:find-replace path="(b)" find="or an attempt or conspiracy" replace="identity theft, financial exploitation of a vulnerable adult or elderly person, or an attempt or conspiracy" count="1" />
+        <codify:find-replace path="(b)" find="or an attempt or conspiracy" replace="identity theft, financial exploitation of a vulnerable adult or elderly person, or an attempt or conspiracy" count="1"/>
       </para>
       <para>
         <num>(3)</num>
         <text>Subsection (c) is amended by striking the number "60" and inserting the number "65" in its place.</text>
-        <codify:find-replace path="(c)" find="60" replace="65" count="1" />
+        <codify:find-replace path="(c)" find="60" replace="65" count="1"/>
       </para>
     </para>
   </section>
@@ -65,14 +64,14 @@
     <para>
       <num>(a)</num>
       <text>Section 201 (D.C. Official Code § 22-931) is amended by striking the phrase "Criminal Abuse and Neglect of Vulnerable Adults" and inserting the phrase "Criminal Abuse, Neglect,  and Financial Exploitation of Vulnerable Adults and the Elderly" in its place.</text>
-      <codify:find-replace path="§201" find="Criminal Abuse and Neglect of Vulnerable Adults" replace="Criminal Abuse, Neglect,  and Financial Exploitation of Vulnerable Adults and the Elderly" count="1" />
+      <codify:find-replace path="§201" find="Criminal Abuse and Neglect of Vulnerable Adults" replace="Criminal Abuse, Neglect,  and Financial Exploitation of Vulnerable Adults and the Elderly" count="1"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 202 (D.C. Official Code § 22-932) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§202" />
+          <codify:replace path="§202"/>
           <num>202</num>
           <heading>Definitions.</heading>
           <text>For the purposes of this title, the term:</text>
@@ -103,7 +102,7 @@
     <para>
       <num>(c)</num>
       <text>Section 203 (D.C. Official Code § 22-933) is amended by striking the phrase in the lead-in language "a vulnerable adult" and inserting the phrase "a vulnerable adult or elderly person" in its place.</text>
-      <codify:find-replace path="§203" find="a vulnerable adult" replace="a vulnerable adult or elderly person" count="2" />
+      <codify:find-replace path="§203" find="a vulnerable adult" replace="a vulnerable adult or elderly person" count="2"/>
     </para>
     <para>
       <num>(d)</num>
@@ -143,12 +142,12 @@
     <para>
       <num>(e)</num>
       <text>Section 204 (D.C. Official Code § 22-934) is amended by striking the phrase "vulnerable adult" both times it appears and inserting the phrase "vulnerable adult or elderly person" in its place.</text>
-      <codify:find-replace path="§204" find="vulnerable adult" replace="vulnerable adult or elderly person" count="2" />
+      <codify:find-replace path="§204" find="vulnerable adult" replace="vulnerable adult or elderly person" count="2"/>
     </para>
     <para>
       <num>(f)</num>
       <text>Section 205 (D.C. Official Code § 22-935) is amended by striking the phrase "vulnerable adult" both times it appears and inserting the phrase "vulnerable adult or elderly person" in its place.</text>
-      <codify:find-replace path="§205" find="vulnerable adult" replace="vulnerable adult or elderly person" count="2" />
+      <codify:find-replace path="§205" find="vulnerable adult" replace="vulnerable adult or elderly person" count="2"/>
     </para>
     <para codify:path="§206">
       <num>(g)</num>
@@ -156,17 +155,17 @@
       <para>
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "vulnerable person" and inserting the phrase "vulnerable adult or elderly person" in its place.</text>
-        <codify:find-replace path="(a)" find="vulnerable person" replace="vulnerable adult or elderly person" count="1" />
+        <codify:find-replace path="(a)" find="vulnerable person" replace="vulnerable adult or elderly person" count="1"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Subsection (b) is amended by striking the phrase "vulnerable adult" and inserting the phrase "vulnerable adult or elderly person" in its place.</text>
-        <codify:find-replace path="(b)" find="vulnerable adult" replace="vulnerable adult or elderly person" count="1" />
+        <codify:find-replace path="(b)" find="vulnerable adult" replace="vulnerable adult or elderly person" count="1"/>
       </para>
       <para>
         <num>(3)</num>
         <text>Subsection (c) is amended by striking the phrase "vulnerable adult" and inserting the phrase "vulnerable adult or elderly person" in its place.</text>
-        <codify:find-replace path="(c)" find="vulnerable adult" replace="vulnerable adult or elderly person" count="1" />
+        <codify:find-replace path="(c)" find="vulnerable adult" replace="vulnerable adult or elderly person" count="1"/>
       </para>
     </para>
     <para>

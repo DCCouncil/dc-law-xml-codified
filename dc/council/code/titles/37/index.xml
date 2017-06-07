@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<container containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<container xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <prefix>Title</prefix>
   <num>37</num>
   <heading>Weights, Measures, and Markets.</heading>
@@ -7,34 +6,60 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Eastern Market Management and Regulation.</heading>
-    <xi:include href="./sections/37-101.xml" />
-    <xi:include href="./sections/37-102.xml" />
-    <xi:include href="./sections/37-103.xml" />
-    <xi:include href="./sections/37-104.xml" />
-    <xi:include href="./sections/37-105.xml" />
-    <xi:include href="./sections/37-106.xml" />
-    <xi:include href="./sections/37-107.xml" />
-    <xi:include href="./sections/37-108.xml" />
-    <xi:include href="./sections/37-109.xml" />
-    <xi:include href="./sections/37-110.xml" />
-    <xi:include href="./sections/37-111.xml" />
-    <xi:include href="./sections/37-112.xml" />
-    <xi:include href="./sections/37-113.xml" />
+    <xi:include href="./sections/37-101.xml"/>
+    <xi:include href="./sections/37-102.xml"/>
+    <section>
+      <num>37-103</num>
+      <heading>Enterprise Fund.</heading>
+      <para>
+        <num>(a)</num>
+        <text>There is established the Eastern Market Enterprise Fund (“Fund”), an interest-bearing account, pursuant to § <cite path="§47-373">47-373</cite>(2)(C). The Fund shall be operated by the CPMO in accordance with general accepted accounting principles.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The CPMO shall deposit into the Fund all revenues, proceeds, and moneys from whatever source derived which are collected or received by the CPMO on behalf of Eastern Market. These revenues, proceeds, and moneys shall be credited to the Fund and shall not, at anytime, be transferred to, lapse into, or be commingled with the General Fund of the District of Columbia, the Cash Management Pool, or any other funds or accounts of the District of Columbia, except for funds transferred to the District of Columbia Treasurer to pay all expenses related to the management and maintenance of the Eastern Market Square.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Repealed.</text>
+      </para>
+      <annotations>
+        <annotation doc="D.C. Law 12-228" type="History" path="§4">Apr. 16, 1999, D.C. Law 12-228, § 4, 46 DCR 1066</annotation>
+        <annotation doc="D.C. Law 12-264" type="History">Apr. 20, 1999, D.C. Law 12-264, § 22(b), 46 DCR 1066</annotation>
+        <annotation doc="D.C. Law 15-205" type="History">Dec. 7, 2004, D.C. Law 15-205, § 1192(d), 51 DCR 8441</annotation>
+        <annotation type="Section References">This section is referenced in § <cite path="§37-111">37-111</cite>.</annotation>
+        <annotation type="Prior Codifications">1981 Ed., § 10-303.</annotation>
+        <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, in subsec. (c), substituted “biennially” for “annually”.</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 1192(d) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
+        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 1192(d) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
+        <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§9" type="History"/>
+      </annotations>
+    </section>
+    <xi:include href="./sections/37-104.xml"/>
+    <xi:include href="./sections/37-105.xml"/>
+    <xi:include href="./sections/37-106.xml"/>
+    <xi:include href="./sections/37-107.xml"/>
+    <xi:include href="./sections/37-108.xml"/>
+    <xi:include href="./sections/37-109.xml"/>
+    <xi:include href="./sections/37-110.xml"/>
+    <xi:include href="./sections/37-111.xml"/>
+    <xi:include href="./sections/37-112.xml"/>
+    <xi:include href="./sections/37-113.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>1A</num>
     <heading>Vending Regulation.</heading>
-    <xi:include href="./sections/37-131.01.xml" />
-    <xi:include href="./sections/37-131.02.xml" />
-    <xi:include href="./sections/37-131.03.xml" />
-    <xi:include href="./sections/37-131.04.xml" />
-    <xi:include href="./sections/37-131.05.xml" />
-    <xi:include href="./sections/37-131.06.xml" />
-    <xi:include href="./sections/37-131.07.xml" />
-    <xi:include href="./sections/37-131.08.xml" />
-    <xi:include href="./sections/37-131.09.xml" />
-    <xi:include href="./sections/37-131.10.xml" />
+    <xi:include href="./sections/37-131.01.xml"/>
+    <xi:include href="./sections/37-131.02.xml"/>
+    <xi:include href="./sections/37-131.03.xml"/>
+    <xi:include href="./sections/37-131.04.xml"/>
+    <xi:include href="./sections/37-131.05.xml"/>
+    <xi:include href="./sections/37-131.06.xml"/>
+    <xi:include href="./sections/37-131.07.xml"/>
+    <xi:include href="./sections/37-131.08.xml"/>
+    <xi:include href="./sections/37-131.09.xml"/>
+    <xi:include href="./sections/37-131.10.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -44,55 +69,55 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Weights and Measures Generally.</heading>
-      <xi:include href="./sections/37-201.01.xml" />
-      <xi:include href="./sections/37-201.02.xml" />
-      <xi:include href="./sections/37-201.03.xml" />
-      <xi:include href="./sections/37-201.04.xml" />
-      <xi:include href="./sections/37-201.05.xml" />
-      <xi:include href="./sections/37-201.06.xml" />
-      <xi:include href="./sections/37-201.07.xml" />
-      <xi:include href="./sections/37-201.08.xml" />
-      <xi:include href="./sections/37-201.09.xml" />
-      <xi:include href="./sections/37-201.10.xml" />
-      <xi:include href="./sections/37-201.11.xml" />
-      <xi:include href="./sections/37-201.12.xml" />
-      <xi:include href="./sections/37-201.13.xml" />
-      <xi:include href="./sections/37-201.14.xml" />
-      <xi:include href="./sections/37-201.15.xml" />
-      <xi:include href="./sections/37-201.16.xml" />
-      <xi:include href="./sections/37-201.16a.xml" />
-      <xi:include href="./sections/37-201.17.xml" />
-      <xi:include href="./sections/37-201.18.xml" />
-      <xi:include href="./sections/37-201.18a.xml" />
-      <xi:include href="./sections/37-201.19.xml" />
-      <xi:include href="./sections/37-201.20.xml" />
-      <xi:include href="./sections/37-201.21.xml" />
-      <xi:include href="./sections/37-201.22.xml" />
-      <xi:include href="./sections/37-201.22a.xml" />
-      <xi:include href="./sections/37-201.23.xml" />
-      <xi:include href="./sections/37-201.24.xml" />
-      <xi:include href="./sections/37-201.25.xml" />
-      <xi:include href="./sections/37-201.26.xml" />
-      <xi:include href="./sections/37-201.27.xml" />
-      <xi:include href="./sections/37-201.28.xml" />
-      <xi:include href="./sections/37-201.29.xml" />
-      <xi:include href="./sections/37-201.30.xml" />
-      <xi:include href="./sections/37-201.31.xml" />
-      <xi:include href="./sections/37-201.32.xml" />
-      <xi:include href="./sections/37-201.33.xml" />
+      <xi:include href="./sections/37-201.01.xml"/>
+      <xi:include href="./sections/37-201.02.xml"/>
+      <xi:include href="./sections/37-201.03.xml"/>
+      <xi:include href="./sections/37-201.04.xml"/>
+      <xi:include href="./sections/37-201.05.xml"/>
+      <xi:include href="./sections/37-201.06.xml"/>
+      <xi:include href="./sections/37-201.07.xml"/>
+      <xi:include href="./sections/37-201.08.xml"/>
+      <xi:include href="./sections/37-201.09.xml"/>
+      <xi:include href="./sections/37-201.10.xml"/>
+      <xi:include href="./sections/37-201.11.xml"/>
+      <xi:include href="./sections/37-201.12.xml"/>
+      <xi:include href="./sections/37-201.13.xml"/>
+      <xi:include href="./sections/37-201.14.xml"/>
+      <xi:include href="./sections/37-201.15.xml"/>
+      <xi:include href="./sections/37-201.16.xml"/>
+      <xi:include href="./sections/37-201.16a.xml"/>
+      <xi:include href="./sections/37-201.17.xml"/>
+      <xi:include href="./sections/37-201.18.xml"/>
+      <xi:include href="./sections/37-201.18a.xml"/>
+      <xi:include href="./sections/37-201.19.xml"/>
+      <xi:include href="./sections/37-201.20.xml"/>
+      <xi:include href="./sections/37-201.21.xml"/>
+      <xi:include href="./sections/37-201.22.xml"/>
+      <xi:include href="./sections/37-201.22a.xml"/>
+      <xi:include href="./sections/37-201.23.xml"/>
+      <xi:include href="./sections/37-201.24.xml"/>
+      <xi:include href="./sections/37-201.25.xml"/>
+      <xi:include href="./sections/37-201.26.xml"/>
+      <xi:include href="./sections/37-201.27.xml"/>
+      <xi:include href="./sections/37-201.28.xml"/>
+      <xi:include href="./sections/37-201.29.xml"/>
+      <xi:include href="./sections/37-201.30.xml"/>
+      <xi:include href="./sections/37-201.31.xml"/>
+      <xi:include href="./sections/37-201.32.xml"/>
+      <xi:include href="./sections/37-201.33.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Definition of “Barrel of Corn.”</heading>
-      <xi:include href="./sections/37-203.01.xml" />
+      <xi:include href="./sections/37-203.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Markets Generally.</heading>
-      <xi:include href="./sections/37-205.01.xml" />
-      <xi:include href="./sections/37-205.02.xml" />
+      <xi:include href="./sections/37-205.01.xml"/>
+      <xi:include href="./sections/37-205.02.xml"/>
     </container>
   </container>
 </container>

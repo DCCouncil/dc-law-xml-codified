@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-137" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-137">
   <num type="law">21-137</num>
   <num type="bill">21-112</num>
   <num type="act">21-390</num>
@@ -12,8 +11,8 @@
       <citation type="register">63 DCR 7148</citation>
     </citations>
     <history>
-      <vote date="2016-04-05" reading="First" />
-      <vote date="2016-04-19" reading="Final" />
+      <vote date="2016-04-05" reading="First"/>
+      <vote date="2016-04-19" reading="Final"/>
       <enacted>2016-05-04</enacted>
       <summary>Law 21-137  increases the fee for a notarial act to $5 at a minimum.  </summary>
       <committee>Committee of the Whole</committee>
@@ -28,12 +27,12 @@
     <para>
       <num>(a)</num>
       <text>Subsection (a) is amended by striking the phrase "charged by notaries public." and inserting the phrase "charged by notaries public; provided, that the schedule of fees shall not include a fee for a notarial act in an amount less than the fee established for that act by subsection (c) of this section." in its place.</text>
-      <codify:find-replace path="§571|(a)" find="charged by notaries public." replace="charged by notaries public; provided, that the schedule of fees shall not include a fee for a notarial act in an amount less than the fee established for that act by subsection (c) of this section." count="1" />
+      <codify:find-replace path="§571|(a)" find="charged by notaries public." replace="charged by notaries public; provided, that the schedule of fees shall not include a fee for a notarial act in an amount less than the fee established for that act by subsection (c) of this section." count="1"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Subsection (c) is amended by striking the figure "$2" wherever it appears and inserting the figure "$5" in its place.</text>
-      <codify:find-replace path="§571|(c)" find="$2" replace="$5" />
+      <codify:find-replace path="§571|(c)" find="$2" replace="$5"/>
     </para>
   </section>
   <section>
