@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>22-405.01</num>
   <heading>Resisting arrest.</heading>
   <para>
@@ -15,7 +14,7 @@
     <text>It is neither justifiable nor excusable cause for a person to use force to resist an arrest when such an arrest is made by an individual he or she has reason to believe is a law enforcement officer, whether or not such arrest is lawful.</text>
   </para>
   <annotations>
-    <annotation app="0000-00-02" doc="R.S., D.C." eff="0000-00-02" path="§432a" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§206" prefix="as added" type="History" />
+    <annotation app="0000-00-02" doc="R.S., D.C." eff="0000-00-02" path="§432a" type="History"/>
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§206" prefix="as added" type="History"/>
   </annotations>
 </section>

@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-2301.10</num>
   <heading>Reports to Department of Public Works and the District Department of Transportation.</heading>
   <para>
@@ -43,7 +42,7 @@
     <text>On a quarterly basis, the Department shall transmit a report to DPW and DDOT describing relevant trends in parking infraction adjudication and dismissals of respondents who deny the commission of parking infractions.</text>
   </para>
   <annotations>
-    <annotation app="1978-09-12" doc="D.C. Law 2-104" eff="1978-09-12" path="§110" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§201" prefix="as added" type="History" />
+    <annotation app="1978-09-12" doc="D.C. Law 2-104" eff="1978-09-12" path="§110" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§201" prefix="as added" type="History"/>
   </annotations>
 </section>

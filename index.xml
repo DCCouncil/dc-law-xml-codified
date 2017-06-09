@@ -1,6 +1,6 @@
 <library xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <heading>D.C. Law Library</heading>
-  <xi:include href="./dc/council/code/index.xml"/>
+  <xi:include href="dc/council/code/index.xml"/>
   <collection name="dclaws">
     <heading>D.C. Laws</heading>
     <xi:include href="./dc/council/periods/21/laws/index.xml"/>

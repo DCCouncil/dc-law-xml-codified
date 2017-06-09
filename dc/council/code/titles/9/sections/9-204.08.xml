@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <reason>Repealed</reason>
   <num>9-204.08</num>
   <heading>Proposal to name or rename to be submitted to affected property owners.</heading>
@@ -7,6 +6,6 @@
   <annotations>
     <annotation doc="D.C. Law 4-201" type="History" path="§408">Mar. 10, 1983, D.C. Law 4-201, § 408, 30 DCR 148</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 7-458.</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-161" eff="2016-10-08" path="§2|(e)" type="History" />
+    <annotation app="2016-10-08" doc="D.C. Law 21-161" eff="2016-10-08" path="§2|(e)" type="History"/>
   </annotations>
 </section>

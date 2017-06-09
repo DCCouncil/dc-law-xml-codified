@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-1227.04</num>
   <heading>Approval of disposition of Walter Reed Redevelopment Site.</heading>
   <text>Notwithstanding 
@@ -21,6 +20,6 @@
     <text>Portions of the Walter Reed Redevelopment Site by easement to public utilities to the extent necessary for the development of the Horizontal Development and Vertical Development.</text>
   </para>
   <annotations>
-    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§5" type="History" />
+    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§5" type="History"/>
   </annotations>
 </section>

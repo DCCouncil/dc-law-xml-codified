@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <reason>Repealed</reason>
   <num>1-301.183</num>
   <heading>Reporting requirements.</heading>
@@ -9,6 +8,6 @@
     <annotation doc="D.C. Law 19-171" type="History">Sept. 26, 2012, D.C. Law 19-171, § 5, 59 DCR 6190</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> added “of this section” following “subsection (b)” in (c).</annotation>
     <annotation type="Editor's Notes">Section 6 of Law 17-176 provided: “This act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan.”</annotation>
-    <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§2|(c)" type="History" />
+    <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§2|(c)" type="History"/>
   </annotations>
 </section>

@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-2602.01</num>
   <heading>Home Purchase Assistance Program Revision.</heading>
   <para>
@@ -31,7 +30,7 @@
     <text>The Mayor shall submit the revised repayment system to the Council for review, pursuant to <cite path="§42-2604|(a)">§ 42-2604(a)</cite>, within 60 days after July 1, 2016.</text>
   </para>
   <annotations>
-    <annotation app="1978-09-12" doc="D.C. Law 2-103" eff="1978-09-12" path="§3a" type="History" />
-    <annotation app="2016-07-01" doc="D.C. Law 21-139" eff="2016-07-01" path="§2" prefix="as added" type="History" />
+    <annotation app="1978-09-12" doc="D.C. Law 2-103" eff="1978-09-12" path="§3a" type="History"/>
+    <annotation app="2016-07-01" doc="D.C. Law 21-139" eff="2016-07-01" path="§2" prefix="as added" type="History"/>
   </annotations>
 </section>

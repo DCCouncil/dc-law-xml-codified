@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-2973.05</num>
   <heading>Audit of capital improvement projects.</heading>
   <para>
@@ -12,6 +11,6 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 16-123" type="History" path="§205">June 8, 2006, D.C. Law 16-123, § 205, 53 DCR 2843</annotation>
-    <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§12" type="History" />
+    <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§12" type="History"/>
   </annotations>
 </section>

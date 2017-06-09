@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-301.20</num>
   <heading>Public Vehicles-for-Hire Consumer Service Fund.</heading>
   <para>
@@ -143,10 +142,8 @@
     <annotation type="Section References">This section is referenced in § <cite path="§50-301.03">50-301.03</cite> and § <cite path="§50-301.07">50-301.07</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-1720.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§50-320">50-320</cite>.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-172">D.C. Law 13-172</cite> in the first sentence substituted “Beginning in 2001, on February 1st” for “On October 15th”, and in the fourth sentence substituted “90th day” for “45th day”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsec. (a), substituted “The Fund shall consist of all assessments levied by the Commission” for “This fund shall consist of all assessments levied by the Public Service Commission of the District of Columbia”; rewrote subsec. (b); in subsec. (c), substituted “taxicab and passenger vehicle for hire operators” for “taxicab operators” and substituted “taxicab and passenger vehicle for hire rates” for “taxicab rates”; and, in subsec. (d), substituted “taxicab and passenger vehicle for hire operator” for “taxicab operator”; and repealed (e) and (f).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-172">D.C. Law 13-172</cite> in the first sentence substituted “Beginning in 2001, on February 1st” for “On October 15th”, and in the fourth sentence substituted “90th day” for “45th day”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsec. (a), substituted “The Fund shall consist of all assessments levied by the Commission” for “This fund shall consist of all assessments levied by the Public Service Commission of the District of Columbia”; rewrote subsec. (b); in subsec. (c), substituted “taxicab and passenger vehicle for hire operators” for “taxicab operators” and substituted “taxicab and passenger vehicle for hire rates” for “taxicab rates”; and, in subsec. (d), substituted “taxicab and passenger vehicle for hire operator” for “taxicab operator”; and repealed (e) and (f).</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> rewrote (a).</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-184">D.C. Law 19-184</cite>, § 2(q), rewrote (a) and (b); and added (g), (h), (i), (j), and (k).</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-184">D.C. Law 19-184</cite>, § 5, repealed the amendment of (a) by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite>, § 6052.</annotation>
@@ -168,6 +165,6 @@
     <annotation type="Emergency Legislation">For temporary (90 days) repeal of <cite doc="D.C. Law 19-270">D.C. Law 19-270</cite>, § 5, see § 7017 of the Fiscal Year 2014 Budget Support Emergency Act of 2013 (D.C. Act 20-130, July 30, 2013,  60 DCR 11384, 20 DCSTAT 1827).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) repeal of <cite doc="D.C. Law 19-270">D.C. Law 19-270</cite>, § 5, see 7017 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
     <annotation type="Delegation of Authority">Delegation of Authority Under the Taxicab Driver Security Revolving Fund Temporary Act of 2001, see Mayor’s Order 2002-109, July 19, 2002 ( 49 DCR 6872).</annotation>
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(u)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(u)" type="History"/>
   </annotations>
 </section>

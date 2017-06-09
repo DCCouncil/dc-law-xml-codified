@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>8-651.09</num>
   <heading>Urban Forestry Advisory Council.</heading>
   <para>
@@ -97,7 +96,7 @@
     <text>The District Department of Transportation and the District Department of the Environment shall provide the UFAC with an annual operating budget, which shall include funds to maintain a website where the UFAC shall provide a public listing of members, meeting notices, and meeting minutes.</text>
   </para>
   <annotations>
-    <annotation app="2003-06-12" doc="D.C. Law 14-309" eff="2003-06-12" path="§109" type="History" />
-    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(e)" prefix="as added" type="History" />
+    <annotation app="2003-06-12" doc="D.C. Law 14-309" eff="2003-06-12" path="§109" type="History"/>
+    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(e)" prefix="as added" type="History"/>
   </annotations>
 </section>

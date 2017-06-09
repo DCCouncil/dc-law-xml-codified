@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>8-1774.16</num>
   <heading>Solar for All Program.</heading>
   <para>
@@ -86,7 +85,7 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2008-10-22" doc="D.C. Law 17-250" eff="2008-10-22" path="§216" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§3|(b)" prefix="as added" type="History" />
+    <annotation app="2008-10-22" doc="D.C. Law 17-250" eff="2008-10-22" path="§216" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§3|(b)" prefix="as added" type="History"/>
   </annotations>
 </section>

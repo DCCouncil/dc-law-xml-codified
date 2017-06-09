@@ -15,229 +15,229 @@
         <prefix>Part</prefix>
         <num>A</num>
         <heading>General.</heading>
-        <xi:include href="./sections/8-101.xml"/>
-        <xi:include href="./sections/8-101.01.xml"/>
-        <xi:include href="./sections/8-101.02.xml"/>
-        <xi:include href="./sections/8-101.03.xml"/>
-        <xi:include href="./sections/8-101.04.xml"/>
-        <xi:include href="./sections/8-101.05.xml"/>
-        <xi:include href="./sections/8-101.05a.xml"/>
-        <xi:include href="./sections/8-101.05c.xml"/>
-        <xi:include href="./sections/8-101.05d.xml"/>
-        <xi:include href="./sections/8-101.05e.xml"/>
-        <xi:include href="./sections/8-101.05f.xml"/>
-        <xi:include href="./sections/8-101.05g.xml"/>
-        <xi:include href="./sections/8-101.05h.xml"/>
-        <xi:include href="./sections/8-101.06.xml"/>
+        <xi:include href="sections/8-101.xml"/>
+        <xi:include href="sections/8-101.01.xml"/>
+        <xi:include href="sections/8-101.02.xml"/>
+        <xi:include href="sections/8-101.03.xml"/>
+        <xi:include href="sections/8-101.04.xml"/>
+        <xi:include href="sections/8-101.05.xml"/>
+        <xi:include href="sections/8-101.05a.xml"/>
+        <xi:include href="sections/8-101.05c.xml"/>
+        <xi:include href="sections/8-101.05d.xml"/>
+        <xi:include href="sections/8-101.05e.xml"/>
+        <xi:include href="sections/8-101.05f.xml"/>
+        <xi:include href="sections/8-101.05g.xml"/>
+        <xi:include href="sections/8-101.05h.xml"/>
+        <xi:include href="sections/8-101.06.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>B</num>
         <heading>Demand Response Electrical Generating Sources.</heading>
-        <xi:include href="./sections/8-101.11.xml"/>
-        <xi:include href="./sections/8-101.12.xml"/>
-        <xi:include href="./sections/8-101.13.xml"/>
-        <xi:include href="./sections/8-101.14.xml"/>
+        <xi:include href="sections/8-101.11.xml"/>
+        <xi:include href="sections/8-101.12.xml"/>
+        <xi:include href="sections/8-101.13.xml"/>
+        <xi:include href="sections/8-101.14.xml"/>
       </container>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>I-A</num>
       <heading>Anacostia River Clean Up and Protection.</heading>
-      <xi:include href="./sections/8-102.01.xml"/>
-      <xi:include href="./sections/8-102.02.xml"/>
-      <xi:include href="./sections/8-102.03.xml"/>
-      <xi:include href="./sections/8-102.04.xml"/>
-      <xi:include href="./sections/8-102.05.xml"/>
-      <xi:include href="./sections/8-102.06.xml"/>
-      <xi:include href="./sections/8-102.06a.xml"/>
-      <xi:include href="./sections/8-102.07.xml"/>
+      <xi:include href="sections/8-102.01.xml"/>
+      <xi:include href="sections/8-102.02.xml"/>
+      <xi:include href="sections/8-102.03.xml"/>
+      <xi:include href="sections/8-102.04.xml"/>
+      <xi:include href="sections/8-102.05.xml"/>
+      <xi:include href="sections/8-102.06.xml"/>
+      <xi:include href="sections/8-102.06a.xml"/>
+      <xi:include href="sections/8-102.07.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Water Pollution Control.</heading>
-      <xi:include href="./sections/8-103.01.xml"/>
-      <xi:include href="./sections/8-103.02.xml"/>
-      <xi:include href="./sections/8-103.03.xml"/>
-      <xi:include href="./sections/8-103.04.xml"/>
-      <xi:include href="./sections/8-103.05.xml"/>
-      <xi:include href="./sections/8-103.06.xml"/>
-      <xi:include href="./sections/8-103.07.xml"/>
-      <xi:include href="./sections/8-103.08.xml"/>
-      <xi:include href="./sections/8-103.09.xml"/>
-      <xi:include href="./sections/8-103.09a.xml"/>
-      <xi:include href="./sections/8-103.09b.xml"/>
-      <xi:include href="./sections/8-103.10.xml"/>
-      <xi:include href="./sections/8-103.11.xml"/>
-      <xi:include href="./sections/8-103.12.xml"/>
-      <xi:include href="./sections/8-103.13.xml"/>
-      <xi:include href="./sections/8-103.13a.xml"/>
-      <xi:include href="./sections/8-103.13b.xml"/>
-      <xi:include href="./sections/8-103.14.xml"/>
-      <xi:include href="./sections/8-103.15.xml"/>
-      <xi:include href="./sections/8-103.16.xml"/>
-      <xi:include href="./sections/8-103.17.xml"/>
-      <xi:include href="./sections/8-103.18.xml"/>
-      <xi:include href="./sections/8-103.19.xml"/>
-      <xi:include href="./sections/8-103.20.xml"/>
+      <xi:include href="sections/8-103.01.xml"/>
+      <xi:include href="sections/8-103.02.xml"/>
+      <xi:include href="sections/8-103.03.xml"/>
+      <xi:include href="sections/8-103.04.xml"/>
+      <xi:include href="sections/8-103.05.xml"/>
+      <xi:include href="sections/8-103.06.xml"/>
+      <xi:include href="sections/8-103.07.xml"/>
+      <xi:include href="sections/8-103.08.xml"/>
+      <xi:include href="sections/8-103.09.xml"/>
+      <xi:include href="sections/8-103.09a.xml"/>
+      <xi:include href="sections/8-103.09b.xml"/>
+      <xi:include href="sections/8-103.10.xml"/>
+      <xi:include href="sections/8-103.11.xml"/>
+      <xi:include href="sections/8-103.12.xml"/>
+      <xi:include href="sections/8-103.13.xml"/>
+      <xi:include href="sections/8-103.13a.xml"/>
+      <xi:include href="sections/8-103.13b.xml"/>
+      <xi:include href="sections/8-103.14.xml"/>
+      <xi:include href="sections/8-103.15.xml"/>
+      <xi:include href="sections/8-103.16.xml"/>
+      <xi:include href="sections/8-103.17.xml"/>
+      <xi:include href="sections/8-103.18.xml"/>
+      <xi:include href="sections/8-103.19.xml"/>
+      <xi:include href="sections/8-103.20.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II-A</num>
       <heading>Anacostia River Clean Up and Protection Fertilizer Act.</heading>
-      <xi:include href="./sections/8-104.01.xml"/>
-      <xi:include href="./sections/8-104.02.xml"/>
-      <xi:include href="./sections/8-104.03.xml"/>
-      <xi:include href="./sections/8-104.04.xml"/>
-      <xi:include href="./sections/8-104.05.xml"/>
-      <xi:include href="./sections/8-104.06.xml"/>
-      <xi:include href="./sections/8-104.07.xml"/>
+      <xi:include href="sections/8-104.01.xml"/>
+      <xi:include href="sections/8-104.02.xml"/>
+      <xi:include href="sections/8-104.03.xml"/>
+      <xi:include href="sections/8-104.04.xml"/>
+      <xi:include href="sections/8-104.05.xml"/>
+      <xi:include href="sections/8-104.06.xml"/>
+      <xi:include href="sections/8-104.07.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II-B</num>
       <heading>Anacostia River Toxics Remediation.</heading>
-      <xi:include href="./sections/8-104.31.xml"/>
+      <xi:include href="sections/8-104.31.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Wastewater Control.</heading>
-      <xi:include href="./sections/8-105.01.xml"/>
-      <xi:include href="./sections/8-105.02.xml"/>
-      <xi:include href="./sections/8-105.03.xml"/>
-      <xi:include href="./sections/8-105.04.xml"/>
-      <xi:include href="./sections/8-105.05.xml"/>
-      <xi:include href="./sections/8-105.06.xml"/>
-      <xi:include href="./sections/8-105.07.xml"/>
-      <xi:include href="./sections/8-105.08.xml"/>
-      <xi:include href="./sections/8-105.09.xml"/>
-      <xi:include href="./sections/8-105.10.xml"/>
-      <xi:include href="./sections/8-105.11.xml"/>
-      <xi:include href="./sections/8-105.12.xml"/>
-      <xi:include href="./sections/8-105.13.xml"/>
-      <xi:include href="./sections/8-105.14.xml"/>
-      <xi:include href="./sections/8-105.15.xml"/>
+      <xi:include href="sections/8-105.01.xml"/>
+      <xi:include href="sections/8-105.02.xml"/>
+      <xi:include href="sections/8-105.03.xml"/>
+      <xi:include href="sections/8-105.04.xml"/>
+      <xi:include href="sections/8-105.05.xml"/>
+      <xi:include href="sections/8-105.06.xml"/>
+      <xi:include href="sections/8-105.07.xml"/>
+      <xi:include href="sections/8-105.08.xml"/>
+      <xi:include href="sections/8-105.09.xml"/>
+      <xi:include href="sections/8-105.10.xml"/>
+      <xi:include href="sections/8-105.11.xml"/>
+      <xi:include href="sections/8-105.12.xml"/>
+      <xi:include href="sections/8-105.13.xml"/>
+      <xi:include href="sections/8-105.14.xml"/>
+      <xi:include href="sections/8-105.15.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III-A</num>
       <heading>Bloomingdale and LeDroit Park Backwater Valves.</heading>
-      <xi:include href="./sections/8-105.51.xml"/>
-      <xi:include href="./sections/8-105.52.xml"/>
-      <xi:include href="./sections/8-105.53.xml"/>
-      <xi:include href="./sections/8-105.54.xml"/>
-      <xi:include href="./sections/8-105.55.xml"/>
-      <xi:include href="./sections/8-105.56.xml"/>
-      <xi:include href="./sections/8-105.57.xml"/>
-      <xi:include href="./sections/8-105.58.xml"/>
+      <xi:include href="sections/8-105.51.xml"/>
+      <xi:include href="sections/8-105.52.xml"/>
+      <xi:include href="sections/8-105.53.xml"/>
+      <xi:include href="sections/8-105.54.xml"/>
+      <xi:include href="sections/8-105.55.xml"/>
+      <xi:include href="sections/8-105.56.xml"/>
+      <xi:include href="sections/8-105.57.xml"/>
+      <xi:include href="sections/8-105.58.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III-B</num>
       <heading>District of Columbia Flood Assistance Fund.</heading>
-      <xi:include href="./sections/8-105.71.xml"/>
-      <xi:include href="./sections/8-105.72.xml"/>
-      <xi:include href="./sections/8-105.73.xml"/>
-      <xi:include href="./sections/8-105.74.xml"/>
-      <xi:include href="./sections/8-105.75.xml"/>
+      <xi:include href="sections/8-105.71.xml"/>
+      <xi:include href="sections/8-105.72.xml"/>
+      <xi:include href="sections/8-105.73.xml"/>
+      <xi:include href="sections/8-105.74.xml"/>
+      <xi:include href="sections/8-105.75.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Restrictions on Phosphate Cleaners.</heading>
-      <xi:include href="./sections/8-107.01.xml"/>
-      <xi:include href="./sections/8-107.02.xml"/>
-      <xi:include href="./sections/8-107.03.xml"/>
-      <xi:include href="./sections/8-107.04.xml"/>
+      <xi:include href="sections/8-107.01.xml"/>
+      <xi:include href="sections/8-107.02.xml"/>
+      <xi:include href="sections/8-107.03.xml"/>
+      <xi:include href="sections/8-107.04.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV-A</num>
       <heading>Restrictions on Bisphenol-A, Polybrominated Diphenyl Ethers, and Perchloroethylene.</heading>
-      <xi:include href="./sections/8-108.01.xml"/>
-      <xi:include href="./sections/8-108.02.xml"/>
-      <xi:include href="./sections/8-108.02a.xml"/>
-      <xi:include href="./sections/8-108.02b.xml"/>
-      <xi:include href="./sections/8-108.03.xml"/>
-      <xi:include href="./sections/8-108.04.xml"/>
-      <xi:include href="./sections/8-108.04a.xml"/>
-      <xi:include href="./sections/8-108.05.xml"/>
+      <xi:include href="sections/8-108.01.xml"/>
+      <xi:include href="sections/8-108.02.xml"/>
+      <xi:include href="sections/8-108.02a.xml"/>
+      <xi:include href="sections/8-108.02b.xml"/>
+      <xi:include href="sections/8-108.03.xml"/>
+      <xi:include href="sections/8-108.04.xml"/>
+      <xi:include href="sections/8-108.04a.xml"/>
+      <xi:include href="sections/8-108.05.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Environmental Impact Statements.</heading>
-      <xi:include href="./sections/8-109.01.xml"/>
-      <xi:include href="./sections/8-109.02.xml"/>
-      <xi:include href="./sections/8-109.03.xml"/>
-      <xi:include href="./sections/8-109.04.xml"/>
-      <xi:include href="./sections/8-109.05.xml"/>
-      <xi:include href="./sections/8-109.06.xml"/>
-      <xi:include href="./sections/8-109.07.xml"/>
-      <xi:include href="./sections/8-109.08.xml"/>
-      <xi:include href="./sections/8-109.09.xml"/>
-      <xi:include href="./sections/8-109.10.xml"/>
-      <xi:include href="./sections/8-109.11.xml"/>
-      <xi:include href="./sections/8-109.12.xml"/>
+      <xi:include href="sections/8-109.01.xml"/>
+      <xi:include href="sections/8-109.02.xml"/>
+      <xi:include href="sections/8-109.03.xml"/>
+      <xi:include href="sections/8-109.04.xml"/>
+      <xi:include href="sections/8-109.05.xml"/>
+      <xi:include href="sections/8-109.06.xml"/>
+      <xi:include href="sections/8-109.07.xml"/>
+      <xi:include href="sections/8-109.08.xml"/>
+      <xi:include href="sections/8-109.09.xml"/>
+      <xi:include href="sections/8-109.10.xml"/>
+      <xi:include href="sections/8-109.11.xml"/>
+      <xi:include href="sections/8-109.12.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Asbestos Licensing and Control.</heading>
-      <xi:include href="./sections/8-111.01.xml"/>
-      <xi:include href="./sections/8-111.02.xml"/>
-      <xi:include href="./sections/8-111.03.xml"/>
-      <xi:include href="./sections/8-111.04.xml"/>
-      <xi:include href="./sections/8-111.05.xml"/>
-      <xi:include href="./sections/8-111.06.xml"/>
-      <xi:include href="./sections/8-111.07.xml"/>
-      <xi:include href="./sections/8-111.08.xml"/>
-      <xi:include href="./sections/8-111.09.xml"/>
-      <xi:include href="./sections/8-111.10.xml"/>
-      <xi:include href="./sections/8-111.11.xml"/>
-      <xi:include href="./sections/8-111.12.xml"/>
-      <xi:include href="./sections/8-111.13.xml"/>
-      <xi:include href="./sections/8-111.14.xml"/>
+      <xi:include href="sections/8-111.01.xml"/>
+      <xi:include href="sections/8-111.02.xml"/>
+      <xi:include href="sections/8-111.03.xml"/>
+      <xi:include href="sections/8-111.04.xml"/>
+      <xi:include href="sections/8-111.05.xml"/>
+      <xi:include href="sections/8-111.06.xml"/>
+      <xi:include href="sections/8-111.07.xml"/>
+      <xi:include href="sections/8-111.08.xml"/>
+      <xi:include href="sections/8-111.09.xml"/>
+      <xi:include href="sections/8-111.10.xml"/>
+      <xi:include href="sections/8-111.11.xml"/>
+      <xi:include href="sections/8-111.12.xml"/>
+      <xi:include href="sections/8-111.13.xml"/>
+      <xi:include href="sections/8-111.14.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VII</num>
       <heading>Underground Storage Tank Management.</heading>
-      <xi:include href="./sections/8-113.01.xml"/>
-      <xi:include href="./sections/8-113.02.xml"/>
-      <xi:include href="./sections/8-113.03.xml"/>
-      <xi:include href="./sections/8-113.04.xml"/>
-      <xi:include href="./sections/8-113.05.xml"/>
-      <xi:include href="./sections/8-113.06.xml"/>
-      <xi:include href="./sections/8-113.07.xml"/>
-      <xi:include href="./sections/8-113.08.xml"/>
-      <xi:include href="./sections/8-113.09.xml"/>
-      <xi:include href="./sections/8-113.10.xml"/>
-      <xi:include href="./sections/8-113.11.xml"/>
-      <xi:include href="./sections/8-113.12.xml"/>
+      <xi:include href="sections/8-113.01.xml"/>
+      <xi:include href="sections/8-113.02.xml"/>
+      <xi:include href="sections/8-113.03.xml"/>
+      <xi:include href="sections/8-113.04.xml"/>
+      <xi:include href="sections/8-113.05.xml"/>
+      <xi:include href="sections/8-113.06.xml"/>
+      <xi:include href="sections/8-113.07.xml"/>
+      <xi:include href="sections/8-113.08.xml"/>
+      <xi:include href="sections/8-113.09.xml"/>
+      <xi:include href="sections/8-113.10.xml"/>
+      <xi:include href="sections/8-113.11.xml"/>
+      <xi:include href="sections/8-113.12.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VIII</num>
       <heading>Lead-Based Paint Abatement and Control.</heading>
-      <xi:include href="./sections/8-115.01.xml"/>
-      <xi:include href="./sections/8-115.02.xml"/>
-      <xi:include href="./sections/8-115.03.xml"/>
-      <xi:include href="./sections/8-115.04.xml"/>
-      <xi:include href="./sections/8-115.05.xml"/>
-      <xi:include href="./sections/8-115.05a.xml"/>
-      <xi:include href="./sections/8-115.06.xml"/>
-      <xi:include href="./sections/8-115.07.xml"/>
-      <xi:include href="./sections/8-115.07a.xml"/>
-      <xi:include href="./sections/8-115.08.xml"/>
-      <xi:include href="./sections/8-115.09.xml"/>
-      <xi:include href="./sections/8-115.10.xml"/>
-      <xi:include href="./sections/8-115.11.xml"/>
-      <xi:include href="./sections/8-115.12.xml"/>
-      <xi:include href="./sections/8-115.13.xml"/>
-      <xi:include href="./sections/8-115.14.xml"/>
+      <xi:include href="sections/8-115.01.xml"/>
+      <xi:include href="sections/8-115.02.xml"/>
+      <xi:include href="sections/8-115.03.xml"/>
+      <xi:include href="sections/8-115.04.xml"/>
+      <xi:include href="sections/8-115.05.xml"/>
+      <xi:include href="sections/8-115.05a.xml"/>
+      <xi:include href="sections/8-115.06.xml"/>
+      <xi:include href="sections/8-115.07.xml"/>
+      <xi:include href="sections/8-115.07a.xml"/>
+      <xi:include href="sections/8-115.08.xml"/>
+      <xi:include href="sections/8-115.09.xml"/>
+      <xi:include href="sections/8-115.10.xml"/>
+      <xi:include href="sections/8-115.11.xml"/>
+      <xi:include href="sections/8-115.12.xml"/>
+      <xi:include href="sections/8-115.13.xml"/>
+      <xi:include href="sections/8-115.14.xml"/>
     </container>
   </container>
   <container>
@@ -248,60 +248,60 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General.</heading>
-      <xi:include href="./sections/8-151.01.xml"/>
-      <xi:include href="./sections/8-151.02.xml"/>
-      <xi:include href="./sections/8-151.03.xml"/>
-      <xi:include href="./sections/8-151.04.xml"/>
-      <xi:include href="./sections/8-151.05.xml"/>
-      <xi:include href="./sections/8-151.06.xml"/>
-      <xi:include href="./sections/8-151.07.xml"/>
-      <xi:include href="./sections/8-151.08.xml"/>
-      <xi:include href="./sections/8-151.09.xml"/>
-      <xi:include href="./sections/8-151.10.xml"/>
-      <xi:include href="./sections/8-151.11.xml"/>
-      <xi:include href="./sections/8-151.12.xml"/>
-      <xi:include href="./sections/8-151.13.xml"/>
-      <xi:include href="./sections/8-151.14.xml"/>
-      <xi:include href="./sections/8-151.15.xml"/>
+      <xi:include href="sections/8-151.01.xml"/>
+      <xi:include href="sections/8-151.02.xml"/>
+      <xi:include href="sections/8-151.03.xml"/>
+      <xi:include href="sections/8-151.04.xml"/>
+      <xi:include href="sections/8-151.05.xml"/>
+      <xi:include href="sections/8-151.06.xml"/>
+      <xi:include href="sections/8-151.07.xml"/>
+      <xi:include href="sections/8-151.08.xml"/>
+      <xi:include href="sections/8-151.09.xml"/>
+      <xi:include href="sections/8-151.10.xml"/>
+      <xi:include href="sections/8-151.11.xml"/>
+      <xi:include href="sections/8-151.12.xml"/>
+      <xi:include href="sections/8-151.13.xml"/>
+      <xi:include href="sections/8-151.14.xml"/>
+      <xi:include href="sections/8-151.15.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Stormwater Management.</heading>
-      <xi:include href="./sections/8-152.01.xml"/>
-      <xi:include href="./sections/8-152.02.xml"/>
-      <xi:include href="./sections/8-152.03.xml"/>
-      <xi:include href="./sections/8-152.04.xml"/>
-      <xi:include href="./sections/8-152.05.xml"/>
+      <xi:include href="sections/8-152.01.xml"/>
+      <xi:include href="sections/8-152.02.xml"/>
+      <xi:include href="sections/8-152.03.xml"/>
+      <xi:include href="sections/8-152.04.xml"/>
+      <xi:include href="sections/8-152.05.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Product Limitation of Stormwater Management.</heading>
-      <xi:include href="./sections/8-153.01.xml"/>
+      <xi:include href="sections/8-153.01.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>1B</num>
     <heading>District of Columbia Office of Energy.</heading>
-    <xi:include href="./sections/8-171.01.xml"/>
-    <xi:include href="./sections/8-171.02.xml"/>
-    <xi:include href="./sections/8-171.03.xml"/>
-    <xi:include href="./sections/8-171.04.xml"/>
-    <xi:include href="./sections/8-171.05.xml"/>
-    <xi:include href="./sections/8-171.06.xml"/>
-    <xi:include href="./sections/8-171.07.xml"/>
+    <xi:include href="sections/8-171.01.xml"/>
+    <xi:include href="sections/8-171.02.xml"/>
+    <xi:include href="sections/8-171.03.xml"/>
+    <xi:include href="sections/8-171.04.xml"/>
+    <xi:include href="sections/8-171.05.xml"/>
+    <xi:include href="sections/8-171.06.xml"/>
+    <xi:include href="sections/8-171.07.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Drainage of Lots.</heading>
-    <xi:include href="./sections/8-201.xml"/>
-    <xi:include href="./sections/8-202.xml"/>
-    <xi:include href="./sections/8-203.xml"/>
-    <xi:include href="./sections/8-204.xml"/>
-    <xi:include href="./sections/8-205.xml"/>
+    <xi:include href="sections/8-201.xml"/>
+    <xi:include href="sections/8-202.xml"/>
+    <xi:include href="sections/8-203.xml"/>
+    <xi:include href="sections/8-204.xml"/>
+    <xi:include href="sections/8-205.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -311,63 +311,63 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Lead-Hazard Prevention and Elimination.</heading>
-      <xi:include href="./sections/8-231.01.xml"/>
-      <xi:include href="./sections/8-231.02.xml"/>
-      <xi:include href="./sections/8-231.03.xml"/>
-      <xi:include href="./sections/8-231.04.xml"/>
-      <xi:include href="./sections/8-231.05.xml"/>
-      <xi:include href="./sections/8-231.06.xml"/>
-      <xi:include href="./sections/8-231.07.xml"/>
-      <xi:include href="./sections/8-231.08.xml"/>
-      <xi:include href="./sections/8-231.09.xml"/>
-      <xi:include href="./sections/8-231.10.xml"/>
-      <xi:include href="./sections/8-231.11.xml"/>
-      <xi:include href="./sections/8-231.12.xml"/>
-      <xi:include href="./sections/8-231.13.xml"/>
-      <xi:include href="./sections/8-231.14.xml"/>
-      <xi:include href="./sections/8-231.15.xml"/>
-      <xi:include href="./sections/8-231.16.xml"/>
-      <xi:include href="./sections/8-231.17.xml"/>
-      <xi:include href="./sections/8-231.18.xml"/>
-      <xi:include href="./sections/8-231.18a.xml"/>
-      <xi:include href="./sections/8-231.19.xml"/>
-      <xi:include href="./sections/8-231.20.xml"/>
+      <xi:include href="sections/8-231.01.xml"/>
+      <xi:include href="sections/8-231.02.xml"/>
+      <xi:include href="sections/8-231.03.xml"/>
+      <xi:include href="sections/8-231.04.xml"/>
+      <xi:include href="sections/8-231.05.xml"/>
+      <xi:include href="sections/8-231.06.xml"/>
+      <xi:include href="sections/8-231.07.xml"/>
+      <xi:include href="sections/8-231.08.xml"/>
+      <xi:include href="sections/8-231.09.xml"/>
+      <xi:include href="sections/8-231.10.xml"/>
+      <xi:include href="sections/8-231.11.xml"/>
+      <xi:include href="sections/8-231.12.xml"/>
+      <xi:include href="sections/8-231.13.xml"/>
+      <xi:include href="sections/8-231.14.xml"/>
+      <xi:include href="sections/8-231.15.xml"/>
+      <xi:include href="sections/8-231.16.xml"/>
+      <xi:include href="sections/8-231.17.xml"/>
+      <xi:include href="sections/8-231.18.xml"/>
+      <xi:include href="sections/8-231.18a.xml"/>
+      <xi:include href="sections/8-231.19.xml"/>
+      <xi:include href="sections/8-231.20.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Paint Stewardship.</heading>
-      <xi:include href="./sections/8-233.01.xml"/>
-      <xi:include href="./sections/8-233.02.xml"/>
-      <xi:include href="./sections/8-233.03.xml"/>
-      <xi:include href="./sections/8-233.04.xml"/>
-      <xi:include href="./sections/8-233.05.xml"/>
-      <xi:include href="./sections/8-233.06.xml"/>
+      <xi:include href="sections/8-233.01.xml"/>
+      <xi:include href="sections/8-233.02.xml"/>
+      <xi:include href="sections/8-233.03.xml"/>
+      <xi:include href="sections/8-233.04.xml"/>
+      <xi:include href="sections/8-233.05.xml"/>
+      <xi:include href="sections/8-233.06.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>2B</num>
     <heading>Residential Indoor Mold Assessment and Remediation.</heading>
-    <xi:include href="./sections/8-241.01.xml"/>
-    <xi:include href="./sections/8-241.02.xml"/>
-    <xi:include href="./sections/8-241.03.xml"/>
-    <xi:include href="./sections/8-241.04.xml"/>
-    <xi:include href="./sections/8-241.05.xml"/>
-    <xi:include href="./sections/8-241.06.xml"/>
-    <xi:include href="./sections/8-241.07.xml"/>
-    <xi:include href="./sections/8-241.08.xml"/>
-    <xi:include href="./sections/8-241.09.xml"/>
+    <xi:include href="sections/8-241.01.xml"/>
+    <xi:include href="sections/8-241.02.xml"/>
+    <xi:include href="sections/8-241.03.xml"/>
+    <xi:include href="sections/8-241.04.xml"/>
+    <xi:include href="sections/8-241.05.xml"/>
+    <xi:include href="sections/8-241.06.xml"/>
+    <xi:include href="sections/8-241.07.xml"/>
+    <xi:include href="sections/8-241.08.xml"/>
+    <xi:include href="sections/8-241.09.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>3</num>
     <heading>Weeds and Plant Diseases.</heading>
-    <xi:include href="./sections/8-301.xml"/>
-    <xi:include href="./sections/8-302.xml"/>
-    <xi:include href="./sections/8-303.xml"/>
-    <xi:include href="./sections/8-304.xml"/>
-    <xi:include href="./sections/8-305.xml"/>
+    <xi:include href="sections/8-301.xml"/>
+    <xi:include href="sections/8-302.xml"/>
+    <xi:include href="sections/8-303.xml"/>
+    <xi:include href="sections/8-304.xml"/>
+    <xi:include href="sections/8-305.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -377,69 +377,69 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Pesticide Operations.</heading>
-      <xi:include href="./sections/8-401.xml"/>
-      <xi:include href="./sections/8-402.xml"/>
-      <xi:include href="./sections/8-403.xml"/>
-      <xi:include href="./sections/8-403.01.xml"/>
-      <xi:include href="./sections/8-403.02.xml"/>
-      <xi:include href="./sections/8-403.03.xml"/>
-      <xi:include href="./sections/8-403.04.xml"/>
-      <xi:include href="./sections/8-403.05.xml"/>
-      <xi:include href="./sections/8-404.xml"/>
-      <xi:include href="./sections/8-405.xml"/>
-      <xi:include href="./sections/8-406.xml"/>
-      <xi:include href="./sections/8-407.xml"/>
-      <xi:include href="./sections/8-408.xml"/>
-      <xi:include href="./sections/8-409.xml"/>
-      <xi:include href="./sections/8-410.xml"/>
-      <xi:include href="./sections/8-411.xml"/>
-      <xi:include href="./sections/8-412.xml"/>
-      <xi:include href="./sections/8-413.xml"/>
-      <xi:include href="./sections/8-414.xml"/>
-      <xi:include href="./sections/8-415.xml"/>
-      <xi:include href="./sections/8-416.xml"/>
-      <xi:include href="./sections/8-417.xml"/>
-      <xi:include href="./sections/8-418.xml"/>
-      <xi:include href="./sections/8-419.xml"/>
+      <xi:include href="sections/8-401.xml"/>
+      <xi:include href="sections/8-402.xml"/>
+      <xi:include href="sections/8-403.xml"/>
+      <xi:include href="sections/8-403.01.xml"/>
+      <xi:include href="sections/8-403.02.xml"/>
+      <xi:include href="sections/8-403.03.xml"/>
+      <xi:include href="sections/8-403.04.xml"/>
+      <xi:include href="sections/8-403.05.xml"/>
+      <xi:include href="sections/8-404.xml"/>
+      <xi:include href="sections/8-405.xml"/>
+      <xi:include href="sections/8-406.xml"/>
+      <xi:include href="sections/8-407.xml"/>
+      <xi:include href="sections/8-408.xml"/>
+      <xi:include href="sections/8-409.xml"/>
+      <xi:include href="sections/8-410.xml"/>
+      <xi:include href="sections/8-411.xml"/>
+      <xi:include href="sections/8-412.xml"/>
+      <xi:include href="sections/8-413.xml"/>
+      <xi:include href="sections/8-414.xml"/>
+      <xi:include href="sections/8-415.xml"/>
+      <xi:include href="sections/8-416.xml"/>
+      <xi:include href="sections/8-417.xml"/>
+      <xi:include href="sections/8-418.xml"/>
+      <xi:include href="sections/8-419.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Pesticide Education and Control.</heading>
-      <xi:include href="./sections/8-431.xml"/>
-      <xi:include href="./sections/8-432.xml"/>
-      <xi:include href="./sections/8-433.xml"/>
-      <xi:include href="./sections/8-434.xml"/>
-      <xi:include href="./sections/8-435.xml"/>
-      <xi:include href="./sections/8-436.xml"/>
-      <xi:include href="./sections/8-437.xml"/>
-      <xi:include href="./sections/8-438.xml"/>
-      <xi:include href="./sections/8-438.01.xml"/>
-      <xi:include href="./sections/8-439.xml"/>
-      <xi:include href="./sections/8-440.xml"/>
+      <xi:include href="sections/8-431.xml"/>
+      <xi:include href="sections/8-432.xml"/>
+      <xi:include href="sections/8-433.xml"/>
+      <xi:include href="sections/8-434.xml"/>
+      <xi:include href="sections/8-435.xml"/>
+      <xi:include href="sections/8-436.xml"/>
+      <xi:include href="sections/8-437.xml"/>
+      <xi:include href="sections/8-438.xml"/>
+      <xi:include href="sections/8-438.01.xml"/>
+      <xi:include href="sections/8-439.xml"/>
+      <xi:include href="sections/8-440.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>5</num>
     <heading>Manufacture, Renovation, and Sale of Mattresses.</heading>
-    <xi:include href="./sections/8-501.xml"/>
-    <xi:include href="./sections/8-502.xml"/>
-    <xi:include href="./sections/8-503.xml"/>
-    <xi:include href="./sections/8-504.xml"/>
-    <xi:include href="./sections/8-505.xml"/>
-    <xi:include href="./sections/8-506.xml"/>
-    <xi:include href="./sections/8-507.xml"/>
-    <xi:include href="./sections/8-508.xml"/>
+    <xi:include href="sections/8-501.xml"/>
+    <xi:include href="sections/8-502.xml"/>
+    <xi:include href="sections/8-503.xml"/>
+    <xi:include href="sections/8-504.xml"/>
+    <xi:include href="sections/8-505.xml"/>
+    <xi:include href="sections/8-506.xml"/>
+    <xi:include href="sections/8-507.xml"/>
+    <xi:include href="sections/8-508.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>6</num>
     <heading>Privies.</heading>
-    <xi:include href="./sections/8-601.xml"/>
-    <xi:include href="./sections/8-602.xml"/>
-    <xi:include href="./sections/8-603.xml"/>
-    <xi:include href="./sections/8-604.xml"/>
+    <xi:include href="sections/8-601.xml"/>
+    <xi:include href="sections/8-602.xml"/>
+    <xi:include href="sections/8-603.xml"/>
+    <xi:include href="sections/8-604.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -449,447 +449,176 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Purposes, Findings, Definitions.</heading>
-      <xi:include href="./sections/8-631.01.xml"/>
-      <xi:include href="./sections/8-631.02.xml"/>
+      <xi:include href="sections/8-631.01.xml"/>
+      <xi:include href="sections/8-631.02.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Liabilities and Defenses.</heading>
-      <xi:include href="./sections/8-632.01.xml"/>
-      <xi:include href="./sections/8-632.02.xml"/>
-      <xi:include href="./sections/8-632.03.xml"/>
+      <xi:include href="sections/8-632.01.xml"/>
+      <xi:include href="sections/8-632.02.xml"/>
+      <xi:include href="sections/8-632.03.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Voluntary Cleanup Program.</heading>
-      <xi:include href="./sections/8-633.01.xml"/>
-      <xi:include href="./sections/8-633.02.xml"/>
-      <xi:include href="./sections/8-633.03.xml"/>
-      <xi:include href="./sections/8-633.04.xml"/>
-      <xi:include href="./sections/8-633.05.xml"/>
-      <xi:include href="./sections/8-633.06.xml"/>
-      <xi:include href="./sections/8-633.07.xml"/>
-      <xi:include href="./sections/8-633.08.xml"/>
+      <xi:include href="sections/8-633.01.xml"/>
+      <xi:include href="sections/8-633.02.xml"/>
+      <xi:include href="sections/8-633.03.xml"/>
+      <xi:include href="sections/8-633.04.xml"/>
+      <xi:include href="sections/8-633.05.xml"/>
+      <xi:include href="sections/8-633.06.xml"/>
+      <xi:include href="sections/8-633.07.xml"/>
+      <xi:include href="sections/8-633.08.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Hazardous Substance Response.</heading>
-      <xi:include href="./sections/8-634.01.xml"/>
-      <xi:include href="./sections/8-634.02.xml"/>
-      <xi:include href="./sections/8-634.03.xml"/>
-      <xi:include href="./sections/8-634.04.xml"/>
-      <xi:include href="./sections/8-634.05.xml"/>
-      <xi:include href="./sections/8-634.06.xml"/>
-      <xi:include href="./sections/8-634.07.xml"/>
-      <xi:include href="./sections/8-634.08.xml"/>
-      <xi:include href="./sections/8-634.09.xml"/>
-      <xi:include href="./sections/8-634.10.xml"/>
-      <xi:include href="./sections/8-634.11.xml"/>
+      <xi:include href="sections/8-634.01.xml"/>
+      <xi:include href="sections/8-634.02.xml"/>
+      <xi:include href="sections/8-634.03.xml"/>
+      <xi:include href="sections/8-634.04.xml"/>
+      <xi:include href="sections/8-634.05.xml"/>
+      <xi:include href="sections/8-634.06.xml"/>
+      <xi:include href="sections/8-634.07.xml"/>
+      <xi:include href="sections/8-634.08.xml"/>
+      <xi:include href="sections/8-634.09.xml"/>
+      <xi:include href="sections/8-634.10.xml"/>
+      <xi:include href="sections/8-634.11.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Institutional Controls.</heading>
-      <xi:include href="./sections/8-635.01.xml"/>
+      <xi:include href="sections/8-635.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Public Notice, Involvement.</heading>
-      <xi:include href="./sections/8-636.01.xml"/>
-      <xi:include href="./sections/8-636.02.xml"/>
-      <xi:include href="./sections/8-636.03.xml"/>
+      <xi:include href="sections/8-636.01.xml"/>
+      <xi:include href="sections/8-636.02.xml"/>
+      <xi:include href="sections/8-636.03.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VII</num>
       <heading>Cleanup Incentives.</heading>
-      <xi:include href="./sections/8-637.01.xml"/>
-      <xi:include href="./sections/8-637.02.xml"/>
-      <xi:include href="./sections/8-637.03.xml"/>
-      <xi:include href="./sections/8-637.04.xml"/>
+      <xi:include href="sections/8-637.01.xml"/>
+      <xi:include href="sections/8-637.02.xml"/>
+      <xi:include href="sections/8-637.03.xml"/>
+      <xi:include href="sections/8-637.04.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VIII</num>
       <heading>Rules, Fiscal Impact, Effective Date.</heading>
-      <xi:include href="./sections/8-638.01.xml"/>
+      <xi:include href="sections/8-638.01.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>6B</num>
     <heading>Urban Forest Preservation.</heading>
-    <xi:include href="./sections/8-651.01.xml"/>
-    <section>
-      <num>8-651.02</num>
-      <heading>Definitions.</heading>
-      <text>For the purposes of this chapter, the term:</text>
-      <para>
-        <num>(1)</num>
-        <text>“Circumference” means the linear distance around the trunk of a tree, when measured at a height of 4 1/2 feet.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>“Director” means the Director of the Department of Transportation.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <text>“Hazardous tree” means a tree that, in the opinion of a certified arborist, is defective, diseased, dying, or dead and should be removed; poses a high risk of failure or fracture with the potential to cause injury to people or damage to property and should be removed; or is causing damage to property or structures that cannot be mitigated in any manner other than removal of the tree. In any case, the Mayor shall have the authority to determine that a tree is not hazardous.</text>
-      </para>
-      <para>
-        <num>(3A)</num>
-        <text>[Not Funded].</text>
-      </para>
-      <para>
-        <num>(4)</num>
-        <text>“Public parking” means that area of public space devoted to open space, greenery, parks, or parking that lies between the property line, which may or may not coincide with the building restriction line, and the edge of the actual or planned sidewalk that is nearer to the property line, as the property line and sidewalk are shown on the records of the District.</text>
-      </para>
-      <para>
-        <num>(5)</num>
-        <text>“Special Tree” means a tree with a circumference of 55 inches or more.</text>
-      </para>
-      <para>
-        <num>(6)</num>
-        <text>“Top” means, as defined by the latest edition of the ANSI-A300 pruning standards, the unacceptable act of tree pruning resulting in the indiscriminate reduction of the tree’s crown leading to disfigurement or death of the tree.</text>
-      </para>
-      <para>
-        <num>(7)</num>
-        <text>“Tree Fund” means the Tree Fund established pursuant to § <cite path="§8-651.07">8-651.07</cite>.</text>
-      </para>
-      <annotations>
-        <annotation doc="D.C. Law 14-309" type="History" path="§102">June 12, 2003, D.C. Law 14-309, § 102, 50 DCR 888</annotation>
-        <annotation app="notfunded" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(a)|(1)" type="History"/>
-        <annotation type="Editor's Notes" app="2016-07-01" eff="2016-07-01" doc="D.C. Law 21-133" path="§2|(a)">
-       Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4">§ 4 of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(a)">§ 2(a) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </annotation>
-        <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(a)" type="History"/>
-      </annotations>
-    </section>
-    <xi:include href="./sections/8-651.03.xml"/>
-    <section>
-      <num>8-651.04</num>
-      <heading>Preservation of Special Trees; permits; penalties.</heading>
-      <para>
-        <num>(a)</num>
-        <text>It shall be unlawful for any person or nongovernmental entity, without a Special Tree removal permit issued by the Mayor, to top, cut down, remove, girdle, break, or destroy any Special Tree.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>The Mayor shall issue a Special Tree removal permit under this section where the applicant has:</text>
-        <para>
-          <num>(1)</num>
-          <text>Shown that the Special Tree in question is a Hazardous Tree;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Shown that the Special Tree in question is of a species that has been identified, by regulation, as appropriate for removal; or</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Paid into the Tree Fund an amount equal to $35 for each inch of the circumference of the Special Tree in question.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Repealed.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>Repealed.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>A violation of subsection (a) of this section, or a failure to comply with the conditions contained in a Special Tree removal permit, shall constitute a violation subject to a fine of not less than $300 per each inch of the circumference of the Special Tree in question.</text>
-      </para>
-      <annotations>
-        <annotation doc="D.C. Law 14-309" type="History" path="§104">June 12, 2003, D.C. Law 14-309, § 104, 50 DCR 888</annotation>
-        <annotation doc="D.C. Law 20-142" type="History">Dec. 17, 2014, D.C. Law 20-142, § 421, 61 DCR 8045</annotation>
-        <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> repealed (b)(4) and (c) and made related changes.</annotation>
-        <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite>: Section 502(h) of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> provided that § 421 of the act shall apply as of December 17, 2014.</annotation>
-        <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(b)|(2)" type="History"/>
-        <annotation type="Editor's Notes" app="2016-07-01" eff="2016-07-01" doc="D.C. Law 21-133" path="§2|(b)|(1)">
-       Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4">§ 4 of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(b)|(1)">§ 2(b)(1) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </annotation>
-        <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(b)|(1)" type="History"/>
-        <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(b)|(3)" type="History"/>
-      </annotations>
-      <para>
-        <num>(e)</num>
-        <text>The Mayor may increase the fee described in subsection (b)(3) of this section or the fine described in subsection (d) of this section by regulation.</text>
-      </para>
-    </section>
-    <section>
-      <reason>Not Funded</reason>
-      <num>8-651.04a</num>
-      <heading>Protection of Heritage Trees.</heading>
-      <text>[Not Funded].</text>
-      <annotations>
-        <annotation app="2003-06-12" doc="D.C. Law 14-309" eff="2003-06-12" path="§104a" type="History"/>
-        <annotation app="notfunded" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(c)" prefix="as added" type="History"/>
-        <annotation type="Editor's Notes" path="§2|(c)" app="2016-07-01" eff="2016-07-01" doc="D.C. Law 21-133">
-       Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4">§ 4 of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(c)">§ 2(c) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
-      </annotation>
-        <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(c)" type="History"/>
-      </annotations>
-    </section>
-    <xi:include href="./sections/8-651.05.xml"/>
-    <xi:include href="./sections/8-651.06.xml"/>
-    <section>
-      <num>8-651.07</num>
-      <heading>Tree Fund.</heading>
-      <para>
-        <num>(a)</num>
-        <text>There shall be established a fund designated as the Tree Fund, which shall be a sub-fund of the Local Road Construction and Maintenance Fund and separate from the General Fund of the District of Columbia. Monies deposited into the Tree Fund shall not revert to the General Fund of the District of Columbia at the end of any fiscal year or at any other time, but shall be continually available for the uses and purposes set forth in subsection (b) of this section pursuant to an act of Congress. Donations, fees and penalties collected pursuant to this chapter or any rules established to implement this chapter shall be deposited into the Tree Fund. All receipts shall be deposited as soon as practicable. The Director shall maintain the fund in coordination with the Chief Financial Officer of the District of Columbia.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <para>
-          <num>(1)</num>
-          <text>The Fund shall be used to:</text>
-          <para>
-            <num>(A)</num>
-            <text>Plant trees on public space and on District-owned land, including parks and school property; and</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>Provide income-contingent subsidies to assist District residents with costs related to the removal and replacement of hazardous trees.</text>
-          </para>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The Fund may be used:</text>
-          <para>
-            <num>(A)</num>
-            <text>In coordination with the District Department of the Environment, to support tree planting on private land;</text>
-          </para>
-          <para>
-            <num>(B)</num>
-            <text>To conduct survival checks of replacement trees planted on public or private land; and</text>
-          </para>
-          <para>
-            <num>(C)</num>
-            <text>For any associated costs incurred by the District in administering <cite path="8|6B">this chapter</cite>.</text>
-          </para>
-        </para>
-      </para>
-      <para>
-        <num>(b-1)</num>
-        <text>The Mayor shall ensure that trees planted pursuant to this section are checked for survival at appropriate intervals to evaluate canopy replacement and inform future planting decisions.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <text>The Chief Financial Officer shall submit to the Mayor and to the Council an annual statement of all receipts and disbursements for the Fund.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>Private voluntary donations to the Fund shall be tax deductible for purposes of District income and franchise taxes.</text>
-      </para>
-      <annotations>
-        <annotation doc="D.C. Law 14-309" type="History" path="§107">June 12, 2003, D.C. Law 14-309, § 107, 50 DCR 888</annotation>
-        <annotation doc="D.C. Law 15-354" type="History">Apr. 13, 2005, D.C. Law 15-354, § 21(a), 52 DCR 2638</annotation>
-        <annotation doc="D.C. Law 17-20" type="History">Sept. 18, 2007, D.C. Law 17-20, § 6102, 54 DCR 7052</annotation>
-        <annotation type="Section References">This section is referenced in § <cite path="§8-651.02">8-651.02</cite>.</annotation>
-        <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in subsec. (a), validated a previously made technical correction.</annotation>
-        <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> rewrote subsec. (b), which had read as follows: “(b) The Fund shall be used to plant trees and for any associated costs incurred by the District in administering this chapter, and may include providing income contingent subsidies that assist District residents with the removal costs of hazardous trees in accordance with regulations provided for in § <cite path="§8-651.03">8-651.03</cite>.”</annotation>
-        <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 6102 of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007,  54 DCR 7549).</annotation>
-        <annotation type="Short Title">Short title: Section 6101 of <cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> provided that subtitle K of title VI of the act may be cited as the “Hazardous Tree Removal Subsidies for Low-Income Homeowners Amendment Act of 2007”.</annotation>
-        <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(d)|(1)" type="History"/>
-        <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(d)|(2)" type="History"/>
-      </annotations>
-    </section>
-    <xi:include href="./sections/8-651.08.xml"/>
-    <section>
-      <num>8-651.09</num>
-      <heading>Urban Forestry Advisory Council.</heading>
-      <para>
-        <num>(a)</num>
-        <text>There is established an Urban Forestry Advisory Council ("UFAC").</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>The UFAC shall be composed of 12 members, as follows:</text>
-        <para>
-          <num>(1)</num>
-          <text>The Director of the District Department of Transportation, or the Director's designee;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The Director of the District Department of the Environment, or the Director's designee;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>The Director of the Department of Parks and Recreation, or the Director's designee;</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>The Director of the Department of General Services, or the Director's designee;</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>The General Manager of District of Columbia Water and Sewer Authority, or the General Manager's designee;</text>
-        </para>
-        <para>
-          <num>(6)</num>
-          <text>A representative of the U.S. National Park Service;</text>
-        </para>
-        <para>
-          <num>(7)</num>
-          <text>A representative of the U.S. General Services Administration;</text>
-        </para>
-        <para>
-          <num>(8)</num>
-          <text>A representative of the District's electric utility;</text>
-        </para>
-        <para>
-          <num>(9)</num>
-          <text>Three community representatives appointed by the Mayor knowledgeable in the fields of urban forestry, public policy, environmental protection, public administration, or environmental justice and equity; and</text>
-        </para>
-        <para>
-          <num>(10)</num>
-          <text>One community representative appointed by the Chairperson of the Council committee with oversight of the District Department of the Environment.</text>
-        </para>
-      </para>
-      <para>
-        <num>(c)</num>
-        <para>
-          <num>(1)</num>
-          <text>The community representatives shall be appointed for a term of 3 years, with initial staggered appointments of one community representative appointed for one year, 2 community representatives appointed for 2 years, and one community representative appointed for 3 years. The community representative to serve the one-year term, the community representatives to serve the 2-year term, and the community representative to serve the 3-year term shall be determined by lot at the first meeting of the UFAC.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Vacancies shall be filled in the same manner as the original appointment to the position that became vacant. Community representatives who are appointed to fill vacancies that occur before the expiration of a community representative's full term shall serve only the unexpired portion of the community representative's term.</text>
-        </para>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>The UFAC shall be co-chaired by the Director of the District Department of Transportation and the Director of the District Department of the Environment, or their designees. The UFAC may designate other officers and create temporary, ad-hoc committees as necessary.</text>
-      </para>
-      <para>
-        <num>(e)</num>
-        <para>
-          <num>(1)</num>
-          <text>The UFAC shall hold at least 3 meetings per year.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The UFAC shall conduct its meetings in compliance with <cite path="2|5|IV">subchapter IV of Chapter 5 of Title 2</cite>.</text>
-        </para>
-      </para>
-      <para>
-        <num>(f)</num>
-        <text>The purpose of the UFAC shall be to:</text>
-        <para>
-          <num>(1)</num>
-          <text>Ensure coordination between the District agencies responsible for achieving the District's tree canopy goals and partners engaged in programs and activities geared toward achieving those goals.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Advise District agencies responsible for achieving the District's tree canopy goals regarding policies, programs, and partnerships for the purpose of maintaining, protecting, and increasing the District's tree canopy; and</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Provide input on the 5-year urban forest report and master plan required by <cite path="§8-651.03|(c)">§ 8-651.03(c)</cite>.</text>
-        </para>
-      </para>
-      <para>
-        <num>(g)</num>
-        <text>The District Department of Transportation and the District Department of the Environment shall provide the UFAC with an annual operating budget, which shall include funds to maintain a website where the UFAC shall provide a public listing of members, meeting notices, and meeting minutes.</text>
-      </para>
-      <annotations>
-        <annotation app="2003-06-12" doc="D.C. Law 14-309" eff="2003-06-12" path="§109" type="History"/>
-        <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(e)" prefix="as added" type="History"/>
-      </annotations>
-    </section>
+    <xi:include href="sections/8-651.01.xml"/>
+    <xi:include href="sections/8-651.02.xml"/>
+    <xi:include href="sections/8-651.03.xml"/>
+    <xi:include href="sections/8-651.04.xml"/>
+    <xi:include href="sections/8-651.04a.xml"/>
+    <xi:include href="sections/8-651.05.xml"/>
+    <xi:include href="sections/8-651.06.xml"/>
+    <xi:include href="sections/8-651.07.xml"/>
+    <xi:include href="sections/8-651.08.xml"/>
+    <xi:include href="sections/8-651.09.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>6C</num>
     <heading>Uniform Environmental Covenants.</heading>
-    <xi:include href="./sections/8-671.01.xml"/>
-    <xi:include href="./sections/8-671.02.xml"/>
-    <xi:include href="./sections/8-671.03.xml"/>
-    <xi:include href="./sections/8-671.04.xml"/>
-    <xi:include href="./sections/8-671.05.xml"/>
-    <xi:include href="./sections/8-671.06.xml"/>
-    <xi:include href="./sections/8-671.07.xml"/>
-    <xi:include href="./sections/8-671.08.xml"/>
-    <xi:include href="./sections/8-671.09.xml"/>
-    <xi:include href="./sections/8-671.10.xml"/>
-    <xi:include href="./sections/8-671.11.xml"/>
-    <xi:include href="./sections/8-671.12.xml"/>
-    <xi:include href="./sections/8-671.13.xml"/>
-    <xi:include href="./sections/8-671.14.xml"/>
+    <xi:include href="sections/8-671.01.xml"/>
+    <xi:include href="sections/8-671.02.xml"/>
+    <xi:include href="sections/8-671.03.xml"/>
+    <xi:include href="sections/8-671.04.xml"/>
+    <xi:include href="sections/8-671.05.xml"/>
+    <xi:include href="sections/8-671.06.xml"/>
+    <xi:include href="sections/8-671.07.xml"/>
+    <xi:include href="sections/8-671.08.xml"/>
+    <xi:include href="sections/8-671.09.xml"/>
+    <xi:include href="sections/8-671.10.xml"/>
+    <xi:include href="sections/8-671.11.xml"/>
+    <xi:include href="sections/8-671.12.xml"/>
+    <xi:include href="sections/8-671.13.xml"/>
+    <xi:include href="sections/8-671.14.xml"/>
   </container>
   <subheading>Subtitle B. WASTE DISPOSAL AND MANAGEMENT.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>7</num>
     <heading>Garbage.</heading>
-    <xi:include href="./sections/8-701.xml"/>
-    <xi:include href="./sections/8-702.xml"/>
-    <xi:include href="./sections/8-703.xml"/>
-    <xi:include href="./sections/8-704.xml"/>
-    <xi:include href="./sections/8-705.xml"/>
-    <xi:include href="./sections/8-706.xml"/>
-    <xi:include href="./sections/8-707.xml"/>
-    <xi:include href="./sections/8-708.xml"/>
-    <xi:include href="./sections/8-709.xml"/>
-    <xi:include href="./sections/8-710.xml"/>
-    <xi:include href="./sections/8-711.xml"/>
+    <xi:include href="sections/8-701.xml"/>
+    <xi:include href="sections/8-702.xml"/>
+    <xi:include href="sections/8-703.xml"/>
+    <xi:include href="sections/8-704.xml"/>
+    <xi:include href="sections/8-705.xml"/>
+    <xi:include href="sections/8-706.xml"/>
+    <xi:include href="sections/8-707.xml"/>
+    <xi:include href="sections/8-708.xml"/>
+    <xi:include href="sections/8-709.xml"/>
+    <xi:include href="sections/8-710.xml"/>
+    <xi:include href="sections/8-711.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>7A</num>
     <heading>Trash Collection Noise Violation Abatement.</heading>
-    <xi:include href="./sections/8-731.xml"/>
-    <xi:include href="./sections/8-732.xml"/>
+    <xi:include href="sections/8-731.xml"/>
+    <xi:include href="sections/8-732.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>7B</num>
     <heading>Collection and Disposal of Refuse Authorized</heading>
-    <xi:include href="./sections/8-741.xml"/>
+    <xi:include href="sections/8-741.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>7C</num>
     <heading>Trash Compactor Grant Program.</heading>
-    <xi:include href="./sections/8-751.xml"/>
-    <xi:include href="./sections/8-752.xml"/>
-    <xi:include href="./sections/8-753.xml"/>
+    <xi:include href="sections/8-751.xml"/>
+    <xi:include href="sections/8-752.xml"/>
+    <xi:include href="sections/8-753.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>8</num>
     <heading>Litter Control Administration.</heading>
-    <xi:include href="./sections/8-801.xml"/>
-    <xi:include href="./sections/8-802.xml"/>
-    <xi:include href="./sections/8-803.xml"/>
-    <xi:include href="./sections/8-804.xml"/>
-    <xi:include href="./sections/8-805.xml"/>
-    <xi:include href="./sections/8-806.xml"/>
-    <xi:include href="./sections/8-807.xml"/>
-    <xi:include href="./sections/8-807.01.xml"/>
-    <xi:include href="./sections/8-808.xml"/>
-    <xi:include href="./sections/8-809.xml"/>
-    <xi:include href="./sections/8-810.xml"/>
-    <xi:include href="./sections/8-811.xml"/>
-    <xi:include href="./sections/8-812.xml"/>
+    <xi:include href="sections/8-801.xml"/>
+    <xi:include href="sections/8-802.xml"/>
+    <xi:include href="sections/8-803.xml"/>
+    <xi:include href="sections/8-804.xml"/>
+    <xi:include href="sections/8-805.xml"/>
+    <xi:include href="sections/8-806.xml"/>
+    <xi:include href="sections/8-807.xml"/>
+    <xi:include href="sections/8-807.01.xml"/>
+    <xi:include href="sections/8-808.xml"/>
+    <xi:include href="sections/8-809.xml"/>
+    <xi:include href="sections/8-810.xml"/>
+    <xi:include href="sections/8-811.xml"/>
+    <xi:include href="sections/8-812.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>9</num>
     <heading>Illegal Dumping Enforcement.</heading>
-    <xi:include href="./sections/8-901.xml"/>
-    <xi:include href="./sections/8-902.xml"/>
-    <xi:include href="./sections/8-903.xml"/>
-    <xi:include href="./sections/8-904.xml"/>
-    <xi:include href="./sections/8-905.xml"/>
-    <xi:include href="./sections/8-906.xml"/>
+    <xi:include href="sections/8-901.xml"/>
+    <xi:include href="sections/8-902.xml"/>
+    <xi:include href="sections/8-903.xml"/>
+    <xi:include href="sections/8-904.xml"/>
+    <xi:include href="sections/8-905.xml"/>
+    <xi:include href="sections/8-906.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -899,116 +628,116 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General Provisions.</heading>
-      <xi:include href="./sections/8-1001.xml"/>
-      <xi:include href="./sections/8-1002.xml"/>
-      <xi:include href="./sections/8-1003.xml"/>
-      <xi:include href="./sections/8-1004.xml"/>
-      <xi:include href="./sections/8-1005.xml"/>
-      <xi:include href="./sections/8-1006.xml"/>
-      <xi:include href="./sections/8-1007.xml"/>
-      <xi:include href="./sections/8-1008.xml"/>
-      <xi:include href="./sections/8-1009.xml"/>
-      <xi:include href="./sections/8-1010.xml"/>
-      <xi:include href="./sections/8-1011.xml"/>
-      <xi:include href="./sections/8-1012.xml"/>
-      <xi:include href="./sections/8-1013.xml"/>
-      <xi:include href="./sections/8-1014.xml"/>
-      <xi:include href="./sections/8-1015.xml"/>
-      <xi:include href="./sections/8-1016.xml"/>
-      <xi:include href="./sections/8-1017.xml"/>
-      <xi:include href="./sections/8-1017.01.xml"/>
-      <xi:include href="./sections/8-1018.xml"/>
-      <xi:include href="./sections/8-1019.xml"/>
-      <xi:include href="./sections/8-1020.xml"/>
-      <xi:include href="./sections/8-1021.xml"/>
-      <xi:include href="./sections/8-1022.xml"/>
-      <xi:include href="./sections/8-1022.01.xml"/>
-      <xi:include href="./sections/8-1023.xml"/>
+      <xi:include href="sections/8-1001.xml"/>
+      <xi:include href="sections/8-1002.xml"/>
+      <xi:include href="sections/8-1003.xml"/>
+      <xi:include href="sections/8-1004.xml"/>
+      <xi:include href="sections/8-1005.xml"/>
+      <xi:include href="sections/8-1006.xml"/>
+      <xi:include href="sections/8-1007.xml"/>
+      <xi:include href="sections/8-1008.xml"/>
+      <xi:include href="sections/8-1009.xml"/>
+      <xi:include href="sections/8-1010.xml"/>
+      <xi:include href="sections/8-1011.xml"/>
+      <xi:include href="sections/8-1012.xml"/>
+      <xi:include href="sections/8-1013.xml"/>
+      <xi:include href="sections/8-1014.xml"/>
+      <xi:include href="sections/8-1015.xml"/>
+      <xi:include href="sections/8-1016.xml"/>
+      <xi:include href="sections/8-1017.xml"/>
+      <xi:include href="sections/8-1017.01.xml"/>
+      <xi:include href="sections/8-1018.xml"/>
+      <xi:include href="sections/8-1019.xml"/>
+      <xi:include href="sections/8-1020.xml"/>
+      <xi:include href="sections/8-1021.xml"/>
+      <xi:include href="sections/8-1022.xml"/>
+      <xi:include href="sections/8-1022.01.xml"/>
+      <xi:include href="sections/8-1023.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>10A</num>
     <heading>Solid Waste Reduction and Recovery.</heading>
-    <xi:include href="./sections/8-1031.01.xml"/>
-    <xi:include href="./sections/8-1031.02.xml"/>
-    <xi:include href="./sections/8-1031.03.xml"/>
-    <xi:include href="./sections/8-1031.04.xml"/>
-    <xi:include href="./sections/8-1031.05.xml"/>
-    <xi:include href="./sections/8-1031.06.xml"/>
-    <xi:include href="./sections/8-1031.07.xml"/>
-    <xi:include href="./sections/8-1031.08.xml"/>
-    <xi:include href="./sections/8-1031.09.xml"/>
-    <xi:include href="./sections/8-1031.10.xml"/>
-    <xi:include href="./sections/8-1031.11.xml"/>
-    <xi:include href="./sections/8-1031.12.xml"/>
-    <xi:include href="./sections/8-1031.13.xml"/>
-    <xi:include href="./sections/8-1031.14.xml"/>
+    <xi:include href="sections/8-1031.01.xml"/>
+    <xi:include href="sections/8-1031.02.xml"/>
+    <xi:include href="sections/8-1031.03.xml"/>
+    <xi:include href="sections/8-1031.04.xml"/>
+    <xi:include href="sections/8-1031.05.xml"/>
+    <xi:include href="sections/8-1031.06.xml"/>
+    <xi:include href="sections/8-1031.07.xml"/>
+    <xi:include href="sections/8-1031.08.xml"/>
+    <xi:include href="sections/8-1031.09.xml"/>
+    <xi:include href="sections/8-1031.10.xml"/>
+    <xi:include href="sections/8-1031.11.xml"/>
+    <xi:include href="sections/8-1031.12.xml"/>
+    <xi:include href="sections/8-1031.13.xml"/>
+    <xi:include href="sections/8-1031.14.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>10B</num>
     <heading>Extended Manufacturer Responsibility for Electronic Waste.</heading>
-    <xi:include href="./sections/8-1041.01.xml"/>
-    <xi:include href="./sections/8-1041.02.xml"/>
-    <xi:include href="./sections/8-1041.03.xml"/>
-    <xi:include href="./sections/8-1041.04.xml"/>
-    <xi:include href="./sections/8-1041.05.xml"/>
-    <xi:include href="./sections/8-1041.06.xml"/>
-    <xi:include href="./sections/8-1041.07.xml"/>
-    <xi:include href="./sections/8-1041.08.xml"/>
-    <xi:include href="./sections/8-1041.09.xml"/>
-    <xi:include href="./sections/8-1041.10.xml"/>
-    <xi:include href="./sections/8-1041.11.xml"/>
-    <xi:include href="./sections/8-1041.12.xml"/>
+    <xi:include href="sections/8-1041.01.xml"/>
+    <xi:include href="sections/8-1041.02.xml"/>
+    <xi:include href="sections/8-1041.03.xml"/>
+    <xi:include href="sections/8-1041.04.xml"/>
+    <xi:include href="sections/8-1041.05.xml"/>
+    <xi:include href="sections/8-1041.06.xml"/>
+    <xi:include href="sections/8-1041.07.xml"/>
+    <xi:include href="sections/8-1041.08.xml"/>
+    <xi:include href="sections/8-1041.09.xml"/>
+    <xi:include href="sections/8-1041.10.xml"/>
+    <xi:include href="sections/8-1041.11.xml"/>
+    <xi:include href="sections/8-1041.12.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>10C</num>
     <heading>Solid Waste Facility Permits.</heading>
-    <xi:include href="./sections/8-1051.xml"/>
-    <xi:include href="./sections/8-1052.xml"/>
-    <xi:include href="./sections/8-1053.xml"/>
-    <xi:include href="./sections/8-1054.xml"/>
-    <xi:include href="./sections/8-1055.xml"/>
-    <xi:include href="./sections/8-1056.xml"/>
-    <xi:include href="./sections/8-1057.xml"/>
-    <xi:include href="./sections/8-1058.xml"/>
-    <xi:include href="./sections/8-1059.xml"/>
-    <xi:include href="./sections/8-1060.xml"/>
-    <xi:include href="./sections/8-1061.xml"/>
-    <xi:include href="./sections/8-1062.xml"/>
-    <xi:include href="./sections/8-1063.xml"/>
+    <xi:include href="sections/8-1051.xml"/>
+    <xi:include href="sections/8-1052.xml"/>
+    <xi:include href="sections/8-1053.xml"/>
+    <xi:include href="sections/8-1054.xml"/>
+    <xi:include href="sections/8-1055.xml"/>
+    <xi:include href="sections/8-1056.xml"/>
+    <xi:include href="sections/8-1057.xml"/>
+    <xi:include href="sections/8-1058.xml"/>
+    <xi:include href="sections/8-1059.xml"/>
+    <xi:include href="sections/8-1060.xml"/>
+    <xi:include href="sections/8-1061.xml"/>
+    <xi:include href="sections/8-1062.xml"/>
+    <xi:include href="sections/8-1063.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>10D</num>
     <heading>Construction and Demolition Waste Recycling Accountability.</heading>
-    <xi:include href="./sections/8-1071.xml"/>
-    <xi:include href="./sections/8-1072.xml"/>
-    <xi:include href="./sections/8-1073.xml"/>
-    <xi:include href="./sections/8-1074.xml"/>
-    <xi:include href="./sections/8-1075.xml"/>
-    <xi:include href="./sections/8-1076.xml"/>
-    <xi:include href="./sections/8-1077.xml"/>
+    <xi:include href="sections/8-1071.xml"/>
+    <xi:include href="sections/8-1072.xml"/>
+    <xi:include href="sections/8-1073.xml"/>
+    <xi:include href="sections/8-1074.xml"/>
+    <xi:include href="sections/8-1075.xml"/>
+    <xi:include href="sections/8-1076.xml"/>
+    <xi:include href="sections/8-1077.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>11</num>
     <heading>Multi-Material Recycling Systems.</heading>
-    <xi:include href="./sections/8-1101.xml"/>
-    <xi:include href="./sections/8-1102.xml"/>
+    <xi:include href="sections/8-1101.xml"/>
+    <xi:include href="sections/8-1102.xml"/>
   </container>
   <subheading>Subtitle C. HAZARDOUS WASTE AND MATERIALS DISPOSAL AND MANAGEMENT.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>12</num>
     <heading>Hazardous Materials Study Commission. [Repealed].</heading>
-    <xi:include href="./sections/8-1201.xml"/>
-    <xi:include href="./sections/8-1202.xml"/>
-    <xi:include href="./sections/8-1203.xml"/>
-    <xi:include href="./sections/8-1204.xml"/>
-    <xi:include href="./sections/8-1205.xml"/>
+    <xi:include href="sections/8-1201.xml"/>
+    <xi:include href="sections/8-1202.xml"/>
+    <xi:include href="sections/8-1203.xml"/>
+    <xi:include href="sections/8-1204.xml"/>
+    <xi:include href="sections/8-1205.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1018,33 +747,33 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General Provisions.</heading>
-      <xi:include href="./sections/8-1301.xml"/>
-      <xi:include href="./sections/8-1302.xml"/>
-      <xi:include href="./sections/8-1303.xml"/>
-      <xi:include href="./sections/8-1304.xml"/>
-      <xi:include href="./sections/8-1305.xml"/>
-      <xi:include href="./sections/8-1306.xml"/>
-      <xi:include href="./sections/8-1307.xml"/>
-      <xi:include href="./sections/8-1308.xml"/>
-      <xi:include href="./sections/8-1309.xml"/>
-      <xi:include href="./sections/8-1310.xml"/>
-      <xi:include href="./sections/8-1311.xml"/>
-      <xi:include href="./sections/8-1312.xml"/>
-      <xi:include href="./sections/8-1313.xml"/>
-      <xi:include href="./sections/8-1314.xml"/>
+      <xi:include href="sections/8-1301.xml"/>
+      <xi:include href="sections/8-1302.xml"/>
+      <xi:include href="sections/8-1303.xml"/>
+      <xi:include href="sections/8-1304.xml"/>
+      <xi:include href="sections/8-1305.xml"/>
+      <xi:include href="sections/8-1306.xml"/>
+      <xi:include href="sections/8-1307.xml"/>
+      <xi:include href="sections/8-1308.xml"/>
+      <xi:include href="sections/8-1309.xml"/>
+      <xi:include href="sections/8-1310.xml"/>
+      <xi:include href="sections/8-1311.xml"/>
+      <xi:include href="sections/8-1312.xml"/>
+      <xi:include href="sections/8-1313.xml"/>
+      <xi:include href="sections/8-1314.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Toxic Source Reduction.</heading>
-      <xi:include href="./sections/8-1315.xml"/>
-      <xi:include href="./sections/8-1316.xml"/>
-      <xi:include href="./sections/8-1317.xml"/>
-      <xi:include href="./sections/8-1318.xml"/>
-      <xi:include href="./sections/8-1319.xml"/>
-      <xi:include href="./sections/8-1320.xml"/>
-      <xi:include href="./sections/8-1321.xml"/>
-      <xi:include href="./sections/8-1322.xml"/>
+      <xi:include href="sections/8-1315.xml"/>
+      <xi:include href="sections/8-1316.xml"/>
+      <xi:include href="sections/8-1317.xml"/>
+      <xi:include href="sections/8-1318.xml"/>
+      <xi:include href="sections/8-1319.xml"/>
+      <xi:include href="sections/8-1320.xml"/>
+      <xi:include href="sections/8-1321.xml"/>
+      <xi:include href="sections/8-1322.xml"/>
     </container>
   </container>
   <container>
@@ -1055,69 +784,69 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General.</heading>
-      <xi:include href="./sections/8-1401.xml"/>
-      <xi:include href="./sections/8-1402.xml"/>
-      <xi:include href="./sections/8-1403.xml"/>
-      <xi:include href="./sections/8-1403.01.xml"/>
-      <xi:include href="./sections/8-1403.02.xml"/>
-      <xi:include href="./sections/8-1404.xml"/>
-      <xi:include href="./sections/8-1404.01.xml"/>
-      <xi:include href="./sections/8-1405.xml"/>
+      <xi:include href="sections/8-1401.xml"/>
+      <xi:include href="sections/8-1402.xml"/>
+      <xi:include href="sections/8-1403.xml"/>
+      <xi:include href="sections/8-1403.01.xml"/>
+      <xi:include href="sections/8-1403.02.xml"/>
+      <xi:include href="sections/8-1404.xml"/>
+      <xi:include href="sections/8-1404.01.xml"/>
+      <xi:include href="sections/8-1405.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Terrorism Prevention in Hazardous Materials Transportation.</heading>
-      <xi:include href="./sections/8-1421.xml"/>
-      <xi:include href="./sections/8-1422.xml"/>
-      <xi:include href="./sections/8-1423.xml"/>
-      <xi:include href="./sections/8-1424.xml"/>
-      <xi:include href="./sections/8-1425.xml"/>
-      <xi:include href="./sections/8-1426.xml"/>
+      <xi:include href="sections/8-1421.xml"/>
+      <xi:include href="sections/8-1422.xml"/>
+      <xi:include href="sections/8-1423.xml"/>
+      <xi:include href="sections/8-1424.xml"/>
+      <xi:include href="sections/8-1425.xml"/>
+      <xi:include href="sections/8-1426.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Strict Liability for Release of Hazardous Materials During Transport.</heading>
-      <xi:include href="./sections/8-1441.xml"/>
-      <xi:include href="./sections/8-1442.xml"/>
-      <xi:include href="./sections/8-1443.xml"/>
-      <xi:include href="./sections/8-1444.xml"/>
-      <xi:include href="./sections/8-1445.xml"/>
-      <xi:include href="./sections/8-1446.xml"/>
-      <xi:include href="./sections/8-1447.xml"/>
+      <xi:include href="sections/8-1441.xml"/>
+      <xi:include href="sections/8-1442.xml"/>
+      <xi:include href="sections/8-1443.xml"/>
+      <xi:include href="sections/8-1444.xml"/>
+      <xi:include href="sections/8-1445.xml"/>
+      <xi:include href="sections/8-1446.xml"/>
+      <xi:include href="sections/8-1447.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>15</num>
     <heading>Low-Level Radioactive Waste Generator Regulatory Policy.</heading>
-    <xi:include href="./sections/8-1501.xml"/>
-    <xi:include href="./sections/8-1502.xml"/>
-    <xi:include href="./sections/8-1503.xml"/>
-    <xi:include href="./sections/8-1504.xml"/>
-    <xi:include href="./sections/8-1505.xml"/>
-    <xi:include href="./sections/8-1506.xml"/>
+    <xi:include href="sections/8-1501.xml"/>
+    <xi:include href="sections/8-1502.xml"/>
+    <xi:include href="sections/8-1503.xml"/>
+    <xi:include href="sections/8-1504.xml"/>
+    <xi:include href="sections/8-1505.xml"/>
+    <xi:include href="sections/8-1506.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>15A</num>
     <heading>Management of Disposable Food Service Ware.</heading>
-    <xi:include href="./sections/8-1531.xml"/>
-    <xi:include href="./sections/8-1532.xml"/>
-    <xi:include href="./sections/8-1533.xml"/>
-    <xi:include href="./sections/8-1534.xml"/>
-    <xi:include href="./sections/8-1535.xml"/>
-    <xi:include href="./sections/8-1536.xml"/>
-    <xi:include href="./sections/8-1537.xml"/>
+    <xi:include href="sections/8-1531.xml"/>
+    <xi:include href="sections/8-1532.xml"/>
+    <xi:include href="sections/8-1533.xml"/>
+    <xi:include href="sections/8-1534.xml"/>
+    <xi:include href="sections/8-1535.xml"/>
+    <xi:include href="sections/8-1536.xml"/>
+    <xi:include href="sections/8-1537.xml"/>
   </container>
   <subheading>Subtitle D. Soil And Water Conservation.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>16</num>
     <heading>Potomac River Basin Compact.</heading>
-    <xi:include href="./sections/8-1601.xml"/>
-    <xi:include href="./sections/8-1602.xml"/>
+    <xi:include href="sections/8-1601.xml"/>
+    <xi:include href="sections/8-1602.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1127,26 +856,26 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Soil and Water Conservation District.</heading>
-      <xi:include href="./sections/8-1701.xml"/>
-      <xi:include href="./sections/8-1702.xml"/>
-      <xi:include href="./sections/8-1703.xml"/>
-      <xi:include href="./sections/8-1704.xml"/>
-      <xi:include href="./sections/8-1705.xml"/>
-      <xi:include href="./sections/8-1706.xml"/>
-      <xi:include href="./sections/8-1707.xml"/>
-      <xi:include href="./sections/8-1708.xml"/>
-      <xi:include href="./sections/8-1709.xml"/>
-      <xi:include href="./sections/8-1710.xml"/>
-      <xi:include href="./sections/8-1711.xml"/>
-      <xi:include href="./sections/8-1712.xml"/>
-      <xi:include href="./sections/8-1713.xml"/>
-      <xi:include href="./sections/8-1714.xml"/>
+      <xi:include href="sections/8-1701.xml"/>
+      <xi:include href="sections/8-1702.xml"/>
+      <xi:include href="sections/8-1703.xml"/>
+      <xi:include href="sections/8-1704.xml"/>
+      <xi:include href="sections/8-1705.xml"/>
+      <xi:include href="sections/8-1706.xml"/>
+      <xi:include href="sections/8-1707.xml"/>
+      <xi:include href="sections/8-1708.xml"/>
+      <xi:include href="sections/8-1709.xml"/>
+      <xi:include href="sections/8-1710.xml"/>
+      <xi:include href="sections/8-1711.xml"/>
+      <xi:include href="sections/8-1712.xml"/>
+      <xi:include href="sections/8-1713.xml"/>
+      <xi:include href="sections/8-1714.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Reestablishment.</heading>
-      <xi:include href="./sections/8-1721.xml"/>
+      <xi:include href="sections/8-1721.xml"/>
     </container>
   </container>
   <subheading>Subtitle D-I. Energy Conservation.</subheading>
@@ -1154,20 +883,20 @@
     <prefix>Chapter</prefix>
     <num>17M</num>
     <heading>Energy Efficiency Standards.</heading>
-    <xi:include href="./sections/8-1771.01.xml"/>
-    <xi:include href="./sections/8-1771.02.xml"/>
-    <xi:include href="./sections/8-1771.03.xml"/>
-    <xi:include href="./sections/8-1771.04.xml"/>
-    <xi:include href="./sections/8-1771.05.xml"/>
-    <xi:include href="./sections/8-1771.06.xml"/>
+    <xi:include href="sections/8-1771.01.xml"/>
+    <xi:include href="sections/8-1771.02.xml"/>
+    <xi:include href="sections/8-1771.03.xml"/>
+    <xi:include href="sections/8-1771.04.xml"/>
+    <xi:include href="sections/8-1771.05.xml"/>
+    <xi:include href="sections/8-1771.06.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>17M1</num>
     <heading>Commercial Energy Conservation.</heading>
-    <xi:include href="./sections/8-1772.01.xml"/>
-    <xi:include href="./sections/8-1772.02.xml"/>
-    <xi:include href="./sections/8-1772.03.xml"/>
+    <xi:include href="sections/8-1772.01.xml"/>
+    <xi:include href="sections/8-1772.02.xml"/>
+    <xi:include href="sections/8-1772.03.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1177,328 +906,48 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Definitions.</heading>
-      <xi:include href="./sections/8-1773.01.xml"/>
+      <xi:include href="sections/8-1773.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Management of Sustainable Energy Programs.</heading>
-      <xi:include href="./sections/8-1774.01.xml"/>
-      <xi:include href="./sections/8-1774.02.xml"/>
-      <xi:include href="./sections/8-1774.03.xml"/>
-      <xi:include href="./sections/8-1774.04.xml"/>
-      <xi:include href="./sections/8-1774.05.xml"/>
-      <xi:include href="./sections/8-1774.06.xml"/>
-      <xi:include href="./sections/8-1774.07.xml"/>
-      <xi:include href="./sections/8-1774.08.xml"/>
-      <xi:include href="./sections/8-1774.09.xml"/>
-      <section>
-        <num>8-1774.10</num>
-        <heading>Sustainable Energy Trust Fund.</heading>
-        <para>
-          <num>(a)</num>
-          <para>
-            <num>(1)</num>
-            <text>There is established as a special fund the Sustainable Energy Trust Fund, which shall be used solely for the purposes stated in subsection (c) of this section. The Sustainable Energy Trust Fund shall be funded by an assessment on the natural gas and electric companies under subsection (b) of this section and from the sale of credits associated with the Regional Greenhouse Gas Initiative or any successor program. All funds collected from these sources shall be deposited into the SETF and shall be disbursed by the Fiscal Agent.</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
-          </para>
-        </para>
-        <para>
-          <num>(b)</num>
-          <para>
-            <num>(1)</num>
-            <text>There is imposed upon the natural gas company an assessment calculated on sales on a per-therm basis as follows:</text>
-            <para>
-              <num>(A)</num>
-              <text>The amount of $.011 in fiscal year 2009;</text>
-            </para>
-            <para>
-              <num>(B)</num>
-              <text>The amount of $.012 in fiscal year 2010;</text>
-            </para>
-            <para>
-              <num>(C)</num>
-              <text>The amount of $.014 in fiscal year 2011 through fiscal year 2016;</text>
-            </para>
-            <para>
-              <num>(D)</num>
-              <text>The amount of $.01505 in fiscal year 2017 and each year thereafter.</text>
-            </para>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>There is imposed upon the electric company an assessment calculated on sales on a per-kilowatt hour basis as follows:</text>
-            <para>
-              <num>(A)</num>
-              <text>The amount of $.0011 in fiscal year 2009;</text>
-            </para>
-            <para>
-              <num>(B)</num>
-              <text>The amount of $.0013 in fiscal year 2010;</text>
-            </para>
-            <para>
-              <num>(C)</num>
-              <text>The amount of $.0015 in fiscal year 2011 through fiscal year 2016;</text>
-            </para>
-            <para>
-              <num>(D)</num>
-              <text>The amount of $.001612 in fiscal year 2017 and each year thereafter.</text>
-            </para>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>The assessments shall be paid to the Fiscal Agent before the 21st day of each month, beginning in November, 2008, or the 1st full month following October 22, 2008, whichever is later, for sales for the preceding billing period.</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>The assessment shall be applied to the sale of every kilowatt hour and therm in the District, except to those sold to residents participating in the Residential Essential Service or Residential Aid Discount programs established by the Commission.</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>Nothing in this subchapter shall be construed to prohibit the electric company or natural gas company from recovering the assessment imposed under paragraphs (1) and (2) of this section, respectively, in its rates as a surcharge on customers’ bills.</text>
-          </para>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>The funds in the Sustainable Energy Trust Fund shall be used solely to fund:</text>
-          <para>
-            <num>(1)</num>
-            <text>The SEU contract in an amount of at least $20 million annually;</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>The administration of the SEU contract and the development of a comprehensive energy plan by DDOE, on an annual basis, equal to 10% of the authorized contract level in that fiscal year;</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>An independent review of the performance of the SEU under § <cite path="§8-1774.05">8-1774.05</cite>(k) in the amount of $100,000 annually, beginning in fiscal year 2012;</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>The activities of the SEU Advisory Board under § <cite path="§8-1774.03">8-1774.03</cite> in the amount of $9,800 annually;</text>
-          </para>
-          <para>
-            <num>(5)</num>
-            <text>Repealed;</text>
-          </para>
-          <para>
-            <num>(6)</num>
-            <text>Repealed;</text>
-          </para>
-          <para>
-            <num>(7)</num>
-            <text>Repealed;</text>
-          </para>
-          <para>
-            <num>(8)</num>
-            <text>Repealed;</text>
-          </para>
-          <para>
-            <num>(9)</num>
-            <text>Implementation of the EnergyStar® benchmarking program required by § <cite path="§6-1451.03">6-1451.03</cite>; provided, that the program does not require an allocation of funds other than those already set forth in this section; and</text>
-          </para>
-          <para>
-            <num>(10)</num>
-            <text>The Low Income Home Energy Assistance Program, in the amount of no more than $1.5 million in Fiscal Year 2016.</text>
-          </para>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>If, at the beginning of a fiscal year, the fund balance of the SETF exceeds the projected annual cost of all programs pursuant to subsection (c) of this section in that fiscal year by at least $10 million, the Fiscal Agent shall suspend payment and the collection of the SETF assessment, until such excess is estimated by the Fiscal Agent to be $5 million.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <text>The DDOE shall submit to the Council a quarterly report detailing:</text>
-          <para>
-            <num>(1)</num>
-            <text>Expenditures from the SETF; and</text>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>The performance of SETF programs operated by the DDOE.</text>
-          </para>
-        </para>
-        <annotations>
-          <text type="Editor's Notes">Section 6073 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided: “This subtitle shall apply as of October 1, 2011.”</text>
-          <text type="Editor's Notes">Section 613 of <cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> provided: “Sec. 613. Applicability. This subtitle shall apply as of October 1, 2010.”</text>
-          <text type="Editor's Notes">Section 212(a)(2) of <cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> provided: “(2) One-half of the funds remaining in the Reliable Energy Trust Fund shall be transferred to the Sustainable Energy Trust Fund and 1/2 of the funds shall be transferred to the Energy Assistance Fund.”</text>
-          <text type="Editor's Notes">Section 212(b)(2) of <cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> provided: “(2) One-half of the funds remaining in the Natural Gas Trust Fund shall be transferred to the Energy Assistance Trust Fund and 1/2 of the funds shall be transferred to the Sustainable Energy Trust Fund.”</text>
-          <text type="Editor's Notes">Section 3 of <cite doc="D.C. Law 18-195">D.C. Law 18-195</cite> provided: “Sec. 3. Applicability. Section 2(b) shall apply as of June 1, 2010.”</text>
-          <text type="Editor's Notes">Section 122(b)(1) of <cite doc="D.C. Law 19-262">D.C. Law 19-262</cite> would have substituted “the amount of $1.106 million for fiscal year 2011, $2 million in fiscal year 2012, and $1 million for fiscal year 2013” for “the amount of $1.106 million for fiscal year 2011 and $2 million in fiscal year 2012” in (c)(7).</text>
-          <text type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-262">D.C. Law 19-262</cite>, § 122: Section 401 of <cite doc="D.C. Law 19-262">D.C. Law 19-262</cite> provided that § 122 of the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan, as certified by the Chief Financial Officer to the Budget Director of the Council in a certification published by the Council in the District of Columbia Register. The remaining sections shall apply as of April 20, 2013, unless otherwise noted.</text>
-          <annotation doc="D.C. Law 17-250" type="History" path="§210">Oct. 22, 2008, D.C. Law 17-250, § 210, 55 DCR 9225</annotation>
-          <annotation doc="D.C. Law 18-195" type="History">July 23, 2010, D.C. Law 18-195, § 2(b), 57 DCR 4519</annotation>
-          <annotation doc="D.C. Law 18-223" type="History">Sept. 24, 2010, D.C. Law 18-223, § 6072, 57 DCR 6242</annotation>
-          <annotation doc="D.C. Law 18-370" type="History">Apr. 8, 2011, D.C. Law 18-370, § 612(b), 58 DCR 1008</annotation>
-          <annotation doc="D.C. Law 19-168" type="History">Sept. 20, 2012, D.C. Law 19-168, § 6072, 59 DCR 8025</annotation>
-          <annotation doc="D.C. Law 19-171" type="History">Sept. 26, 2012, D.C. Law 19-171, § 62(b), 59 DCR 6190</annotation>
-          <annotation doc="D.C. Law 19-262" type="History">Apr. 20, 2013, D.C. Law 19-262, § 132, 60 DCR 1300</annotation>
-          <annotation doc="D.C. Law 20-155" type="History">Feb. 26, 2015, D.C. Law 20-155, § 6062(c), 61 DCR 9990</annotation>
-          <annotation doc="D.C. Law 21-36" type="History">Oct. 22, 2015, D.C. Law 21-36, §§   6042, 6092(e), 62 DCR 10905</annotation>
-          <annotation type="Section References">This section is referenced in § <cite path="§8-1773.01">8-1773.01</cite>, § <cite path="§8-1774.02">8-1774.02</cite>, § <cite path="§8-1774.07">8-1774.07</cite>, and § <cite path="§8-1774.09">8-1774.09</cite>.</annotation>
-          <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-195">D.C. Law 18-195</cite>, in subsec. (b)(4), substituted “established by the Commission” for “operated by DDOE”.</annotation>
-          <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsec. (c).</annotation>
-          <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-370">D.C. Law 18-370</cite>, in subsec. (c)(2), substituted “authorized contract level” for “payments under the contract”; in subsec. (c)(4), substituted “$9,800” for “$13,000”; in subsec. (c)(5), substituted “$2.375 million” for “$2.773 million”; in subsec. (c)(6), substituted “$1.073 million” for “$1.5 million”; and, in subsec. (c)(7), substituted “$1.106 million” for “$1.455 million”.</annotation>
-          <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> added (c)(8); and made a related change.</annotation>
-          <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> validated a previously made technical correction in (c)(3).</annotation>
-          <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-262">D.C. Law 19-262</cite>, § 132, added added the paragraph designated herein as (c)(9); and made related changes.</annotation>
-          <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> substituted “special fund” for “nonlapsing fund” in (a)(1); rewrote (a)(2); added (a)(3); rewrote (c)(1); and repealed (c)(5) to (c)(8).</annotation>
-          <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> substituted “administration of the SEU contract and the development of a comprehensive energy plan by DDOE” for “administration of the SEU contract by DDOE” in (c)(2); and added (c)(10).</annotation>
-          <annotation type="Temporary Legislation">Section 2(a) of <cite doc="D.C. Law 18-56">D.C. Law 18-56</cite>, in subsec. (c), substituted “$1,874,000” for “$916,000” in par. (6), deleted “and” at the end of par. (8), substituted a semicolon for a period at the end of par. (9), and added pars. (10) and (11) to read as follows:</annotation>
-          <annotation type="Temporary Legislation">“(10) A Small Business Energy Efficiency program in the amount of $480,000 for fiscal year 2009; and</annotation>
-          <annotation type="Temporary Legislation">“(11) A Government Building Energy Efficiency program in the amount of $2 million for fiscal year 2009.”.</annotation>
-          <annotation type="Temporary Legislation">Section 4(b) of <cite doc="D.C. Law 18-56">D.C. Law 18-56</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
-          <annotation type="Temporary Legislation">Section 2 of <cite doc="D.C. Law 18-144">D.C. Law 18-144</cite> rewrote subsec. (c)(11) to read as follows:</annotation>
-          <annotation type="Temporary Legislation">“(11) A Government Building Energy Efficiency program in the amount of $1,618,750 for fiscal year 2010.”.</annotation>
-          <annotation type="Temporary Legislation">Section 4(b) of <cite doc="D.C. Law 18-144">D.C. Law 18-144</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
-          <annotation type="Temporary Legislation">Section 2(b) of <cite doc="D.C. Law 18-214">D.C. Law 18-214</cite>, in subsec. (c)(8), substituted “systems; provided, that the amount for fiscal year 2010 shall be $3.167 million; and” for “systems; and”.</annotation>
-          <annotation type="Temporary Legislation">Section 4(a) of <cite doc="D.C. Law 18-214">D.C. Law 18-214</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
-          <annotation type="Temporary Legislation">Section 2 of <cite doc="D.C. Law 19-10">D.C. Law 19-10</cite>, in subsec. (c)(7), substituted “1.806 million” for “1.106 million”.</annotation>
-          <annotation type="Temporary Legislation">Section 3 of <cite doc="D.C. Law 19-10">D.C. Law 19-10</cite> amended Section 6073 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> by substituting “October 1, 2010” for “October 1, 2011”.</annotation>
-          <annotation type="Temporary Legislation">Section 5(b) of <cite doc="D.C. Law 19-10">D.C. Law 19-10</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
-          <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 210 of Clean and Affordable Energy Emergency Act of 2008 (D.C. Act 17-508, September 25, 2008  55 DCR 10856).</annotation>
-          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(a) of Clean and Affordable Energy Fund Balance Emergency Amendment Act of 2009 (D.C. Act 18-108, June 18, 2009,  56 DCR 4932).</annotation>
-          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2 of Clean and Affordable Energy Fiscal Year 2010 Fund Balance Emergency Amendment Act of 2009 (D.C. Act 18-309, February 3, 2010,  57 DCR 1505).</annotation>
-          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(b) of Residential Aid Discount Subsidy Stabilization Emergency Amendment Act of 2010 (D.C. Act 18-398, May 10, 2010,  57 DCR 4362).</annotation>
-          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(b) of Renewable Energy Incentive Program Fund Balance Rollover Emergency Amendment Act of 2010 (D.C. Act 18-422, May 21, 2010,  57 DCR 4767).</annotation>
-          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 612(b) of Fiscal Year 2011 Supplemental Budget Support Emergency Act of 2010 (D.C. Act 18-694, January 19, 2011,  58 DCR 662).</annotation>
-          <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2 of Clean and Affordable Energy Fiscal Year 2011 Fund Balance Emergency Amendment Act of 2011 (D.C. Act 19-43, March 26, 2011,  58 DCR 2923).</annotation>
-          <annotation type="Emergency Legislation">For temporary (90 day) amendment of § 6073 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite>, see § 3 of Clean and Affordable Energy Fiscal Year 2011 Fund Balance Emergency Amendment Act of 2011 (D.C. Act 19-43, March 26, 2011,  58 DCR 2923).</annotation>
-          <annotation type="Emergency Legislation">For temporary amendment of (c)(7), see § 2(b) of the Renewable Energy Incentive Program Emergency Amendment Act of 2012, (D.C. Act 19-569, December 18, 2012,  59 DCR 15068), applicable upon the inclusion of its fiscal effect in an approved budget and financial plan.</annotation>
-          <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6072(c) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
-          <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6062(c) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
-          <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6062(c) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
-          <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §§ 6042 and 6092(e) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
-          <annotation type="Short Title">Short title: Section 6071 of <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> provided that subtitle H of title VI of the act may be cited as “Clean and Affordable Energy Amendment Act of 2010”.</annotation>
-          <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§3|(a)|(1)|(A)" type="History"/>
-          <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§3|(a)|(1)|(B)" type="History"/>
-          <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§3|(a)|(2)|(A)" type="History"/>
-          <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§3|(a)|(2)|(B)" type="History"/>
-        </annotations>
-      </section>
-      <xi:include href="./sections/8-1774.11.xml"/>
-      <xi:include href="./sections/8-1774.12.xml"/>
-      <xi:include href="./sections/8-1774.13.xml"/>
-      <xi:include href="./sections/8-1774.14.xml"/>
-      <xi:include href="./sections/8-1774.15.xml"/>
-      <section>
-        <num>8-1774.16</num>
-        <heading>Solar for All Program.</heading>
-        <para>
-          <num>(a)</num>
-          <text>There is established the Solar for All Program ("Program") to increase the access of seniors, small local businesses, nonprofits, and low-income households in the District to the benefits of solar power. The Program shall reduce by at least 50% the electric bills of at least 100,000 of the District's low-income households with high energy burdens by December 31, 2032.</text>
-        </para>
-        <para>
-          <num>(b)</num>
-          <text>The Program shall be administered by DOEE and operate until the end of Fiscal Year 2032. In administering the Program, DOEE shall coordinate with the Sustainable Energy Utility.</text>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>From Fiscal Year 2017 through Fiscal Year 2032, the Program shall be funded annually from the Renewable Energy Development Fund established by <cite path="§34-1436">§ 34-1436</cite>.</text>
-        </para>
-        <para>
-          <num>(d)</num>
-          <text>The funding allocated in subsection (c) of this section may be used to supplement programs supporting the creation of new solar energy sources in the District through the Sustainable Energy Utility contract established by <cite path="§8-1774.01">§ 8-1774.01</cite>.</text>
-        </para>
-        <para>
-          <num>(e)</num>
-          <para>
-            <num>(1)</num>
-            <text>By February 1, 2017, DOEE shall develop, publish on its website, and submit to the Council a plan to implement the Program. The plan shall include:</text>
-            <para>
-              <num>(A)</num>
-              <text>A description of programs to be implemented by DOEE that would target seniors, small local businesses, nonprofits, and low-income households in the District;</text>
-            </para>
-            <para>
-              <num>(B)</num>
-              <text>An estimated timeline for implementation of the programs described in subparagraph (A) of this paragraph; and</text>
-            </para>
-            <para>
-              <num>(C)</num>
-              <text>Annual benchmarks for reducing by at least 50% the electric bills of at least 100,000 of the District's low-income households with high energy burdens by December 31, 2032.</text>
-            </para>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>If DOEE revises or updates the plan, DOEE shall publish on its website the revision or update within 30 days of its completion.</text>
-          </para>
-        </para>
-        <para>
-          <num>(f)</num>
-          <text>Beginning December 1, 2017, DOEE shall publish on its website and submit to the Council an annual report on the expenditure of the funds allocated to the Program, the amount of progress toward achieving the benchmarks established in subsection (e)(1)(C) of this section, and the number of solar systems installed pursuant to this section in the previous fiscal year.</text>
-        </para>
-        <para>
-          <num>(g)</num>
-          <text>For the purposes of this section, the term:</text>
-          <para>
-            <num>(1)</num>
-            <text>"Area median income" means:</text>
-            <para>
-              <num>(A)</num>
-              <text>For a household of 4 persons, the area median income for a household of 4 persons in the Washington Metropolitan Statistical Area as set forth in the periodic calculation provided by the United States Department of Housing and Urban Development;</text>
-            </para>
-            <para>
-              <num>(B)</num>
-              <text>For a household of 3 persons, 90% of the area median income for a household of 4 persons, as described in subparagraph (A) of this paragraph;</text>
-            </para>
-            <para>
-              <num>(C)</num>
-              <text>For a household of 2 persons, 80% of the area median income for a household of 4 persons, as described in subparagraph (A) of this paragraph;</text>
-            </para>
-            <para>
-              <num>(D)</num>
-              <text>For a household of one person, 70% of the area median income for a household of 4 persons, as described in subparagraph (A) of this paragraph; and</text>
-            </para>
-            <para>
-              <num>(E)</num>
-              <text>For a household of more than 4 persons, the area median income for a household of 4 persons, as described in subparagraph (A) of this paragraph, increased by 10% for each person in the household in excess of 4 persons (for example, the area median income for a household of 5 persons shall be 110% of the area median income for a household of 4 persons, as described in subparagraph (A) of this paragraph, and the area median income for a household of 6 persons shall be 120% of the area median income for a household of 4 persons, as described in subparagraph (A) of this paragraph).</text>
-            </para>
-          </para>
-          <para>
-            <num>(2)</num>
-            <text>"Energy burden" means the percentage of household income spent on home energy bills.</text>
-          </para>
-          <para>
-            <num>(3)</num>
-            <text>"Low-income" means a household income equal to, or less than, 80% of the area median income.</text>
-          </para>
-          <para>
-            <num>(4)</num>
-            <text>"Solar system" means a solar photovoltaic or solar thermal system.</text>
-          </para>
-        </para>
-        <annotations>
-          <annotation app="2008-10-22" doc="D.C. Law 17-250" eff="2008-10-22" path="§216" type="History"/>
-          <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§3|(b)" prefix="as added" type="History"/>
-        </annotations>
-      </section>
+      <xi:include href="sections/8-1774.01.xml"/>
+      <xi:include href="sections/8-1774.02.xml"/>
+      <xi:include href="sections/8-1774.03.xml"/>
+      <xi:include href="sections/8-1774.04.xml"/>
+      <xi:include href="sections/8-1774.05.xml"/>
+      <xi:include href="sections/8-1774.06.xml"/>
+      <xi:include href="sections/8-1774.07.xml"/>
+      <xi:include href="sections/8-1774.08.xml"/>
+      <xi:include href="sections/8-1774.09.xml"/>
+      <xi:include href="sections/8-1774.10.xml"/>
+      <xi:include href="sections/8-1774.11.xml"/>
+      <xi:include href="sections/8-1774.12.xml"/>
+      <xi:include href="sections/8-1774.13.xml"/>
+      <xi:include href="sections/8-1774.14.xml"/>
+      <xi:include href="sections/8-1774.15.xml"/>
+      <xi:include href="sections/8-1774.16.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>17O</num>
     <heading>Wind Energy.</heading>
-    <xi:include href="./sections/8-1775.01.xml"/>
+    <xi:include href="sections/8-1775.01.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>17P</num>
     <heading>Smart Lighting.</heading>
-    <xi:include href="./sections/8-1776.01.xml"/>
-    <xi:include href="./sections/8-1776.02.xml"/>
+    <xi:include href="sections/8-1776.01.xml"/>
+    <xi:include href="sections/8-1776.02.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>17Q</num>
     <heading>Government Energy Reduction.</heading>
-    <xi:include href="./sections/8-1777.01.xml"/>
+    <xi:include href="sections/8-1777.01.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1508,46 +957,46 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Definitions and Purpose.</heading>
-      <xi:include href="./sections/8-1778.01.xml"/>
-      <xi:include href="./sections/8-1778.02.xml"/>
+      <xi:include href="sections/8-1778.01.xml"/>
+      <xi:include href="sections/8-1778.02.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Bond Financing.</heading>
-      <xi:include href="./sections/8-1778.21.xml"/>
-      <xi:include href="./sections/8-1778.22.xml"/>
-      <xi:include href="./sections/8-1778.23.xml"/>
-      <xi:include href="./sections/8-1778.24.xml"/>
-      <xi:include href="./sections/8-1778.25.xml"/>
-      <xi:include href="./sections/8-1778.26.xml"/>
-      <xi:include href="./sections/8-1778.27.xml"/>
-      <xi:include href="./sections/8-1778.28.xml"/>
-      <xi:include href="./sections/8-1778.29.xml"/>
-      <xi:include href="./sections/8-1778.30.xml"/>
-      <xi:include href="./sections/8-1778.31.xml"/>
+      <xi:include href="sections/8-1778.21.xml"/>
+      <xi:include href="sections/8-1778.22.xml"/>
+      <xi:include href="sections/8-1778.23.xml"/>
+      <xi:include href="sections/8-1778.24.xml"/>
+      <xi:include href="sections/8-1778.25.xml"/>
+      <xi:include href="sections/8-1778.26.xml"/>
+      <xi:include href="sections/8-1778.27.xml"/>
+      <xi:include href="sections/8-1778.28.xml"/>
+      <xi:include href="sections/8-1778.29.xml"/>
+      <xi:include href="sections/8-1778.30.xml"/>
+      <xi:include href="sections/8-1778.31.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Establishment of the National Capital Energy Fund and Energy Efficiency Loan Program.</heading>
-      <xi:include href="./sections/8-1778.41.xml"/>
-      <xi:include href="./sections/8-1778.42.xml"/>
-      <xi:include href="./sections/8-1778.43.xml"/>
-      <xi:include href="./sections/8-1778.44.xml"/>
-      <xi:include href="./sections/8-1778.45.xml"/>
-      <xi:include href="./sections/8-1778.46.xml"/>
-      <xi:include href="./sections/8-1778.47.xml"/>
-      <xi:include href="./sections/8-1778.48.xml"/>
+      <xi:include href="sections/8-1778.41.xml"/>
+      <xi:include href="sections/8-1778.42.xml"/>
+      <xi:include href="sections/8-1778.43.xml"/>
+      <xi:include href="sections/8-1778.44.xml"/>
+      <xi:include href="sections/8-1778.45.xml"/>
+      <xi:include href="sections/8-1778.46.xml"/>
+      <xi:include href="sections/8-1778.47.xml"/>
+      <xi:include href="sections/8-1778.48.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>17S</num>
     <heading>Submission of State Energy Plans.</heading>
-    <xi:include href="./sections/8-1779.01.xml"/>
-    <xi:include href="./sections/8-1779.02.xml"/>
-    <xi:include href="./sections/8-1779.03.xml"/>
+    <xi:include href="sections/8-1779.01.xml"/>
+    <xi:include href="sections/8-1779.02.xml"/>
+    <xi:include href="sections/8-1779.03.xml"/>
   </container>
   <subheading>Subtitle E. Animal Control and Protection.</subheading>
   <container>
@@ -1558,116 +1007,116 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General.</heading>
-      <xi:include href="./sections/8-1801.xml"/>
-      <xi:include href="./sections/8-1802.xml"/>
-      <xi:include href="./sections/8-1803.xml"/>
-      <xi:include href="./sections/8-1804.xml"/>
-      <xi:include href="./sections/8-1805.xml"/>
-      <xi:include href="./sections/8-1806.xml"/>
-      <xi:include href="./sections/8-1807.xml"/>
-      <xi:include href="./sections/8-1808.xml"/>
-      <xi:include href="./sections/8-1808.01.xml"/>
-      <xi:include href="./sections/8-1809.xml"/>
-      <xi:include href="./sections/8-1810.xml"/>
-      <xi:include href="./sections/8-1811.xml"/>
-      <xi:include href="./sections/8-1812.xml"/>
-      <xi:include href="./sections/8-1813.xml"/>
+      <xi:include href="sections/8-1801.xml"/>
+      <xi:include href="sections/8-1802.xml"/>
+      <xi:include href="sections/8-1803.xml"/>
+      <xi:include href="sections/8-1804.xml"/>
+      <xi:include href="sections/8-1805.xml"/>
+      <xi:include href="sections/8-1806.xml"/>
+      <xi:include href="sections/8-1807.xml"/>
+      <xi:include href="sections/8-1808.xml"/>
+      <xi:include href="sections/8-1808.01.xml"/>
+      <xi:include href="sections/8-1809.xml"/>
+      <xi:include href="sections/8-1810.xml"/>
+      <xi:include href="sections/8-1811.xml"/>
+      <xi:include href="sections/8-1812.xml"/>
+      <xi:include href="sections/8-1813.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Commercial Licensing Requirement.</heading>
-      <xi:include href="./sections/8-1821.01.xml"/>
-      <xi:include href="./sections/8-1821.02.xml"/>
+      <xi:include href="sections/8-1821.01.xml"/>
+      <xi:include href="sections/8-1821.02.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II-A</num>
       <heading>Sustainable Urban Agriculture Apiculture.</heading>
-      <xi:include href="./sections/8-1825.01.xml"/>
-      <xi:include href="./sections/8-1825.02.xml"/>
-      <xi:include href="./sections/8-1825.03.xml"/>
-      <xi:include href="./sections/8-1825.04.xml"/>
-      <xi:include href="./sections/8-1825.05.xml"/>
-      <xi:include href="./sections/8-1825.06.xml"/>
-      <xi:include href="./sections/8-1825.07.xml"/>
-      <xi:include href="./sections/8-1825.08.xml"/>
-      <xi:include href="./sections/8-1825.09.xml"/>
+      <xi:include href="sections/8-1825.01.xml"/>
+      <xi:include href="sections/8-1825.02.xml"/>
+      <xi:include href="sections/8-1825.03.xml"/>
+      <xi:include href="sections/8-1825.04.xml"/>
+      <xi:include href="sections/8-1825.05.xml"/>
+      <xi:include href="sections/8-1825.06.xml"/>
+      <xi:include href="sections/8-1825.07.xml"/>
+      <xi:include href="sections/8-1825.08.xml"/>
+      <xi:include href="sections/8-1825.09.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Release of Animals.</heading>
-      <xi:include href="./sections/8-1831.01.xml"/>
+      <xi:include href="sections/8-1831.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Commercial Guard Dogs.</heading>
-      <xi:include href="./sections/8-1841.01.xml"/>
-      <xi:include href="./sections/8-1841.02.xml"/>
-      <xi:include href="./sections/8-1841.03.xml"/>
-      <xi:include href="./sections/8-1841.04.xml"/>
-      <xi:include href="./sections/8-1841.05.xml"/>
-      <xi:include href="./sections/8-1841.06.xml"/>
-      <xi:include href="./sections/8-1841.07.xml"/>
-      <xi:include href="./sections/8-1841.08.xml"/>
-      <xi:include href="./sections/8-1841.09.xml"/>
+      <xi:include href="sections/8-1841.01.xml"/>
+      <xi:include href="sections/8-1841.02.xml"/>
+      <xi:include href="sections/8-1841.03.xml"/>
+      <xi:include href="sections/8-1841.04.xml"/>
+      <xi:include href="sections/8-1841.05.xml"/>
+      <xi:include href="sections/8-1841.06.xml"/>
+      <xi:include href="sections/8-1841.07.xml"/>
+      <xi:include href="sections/8-1841.08.xml"/>
+      <xi:include href="sections/8-1841.09.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Classroom Animals.</heading>
-      <xi:include href="./sections/8-1851.01.xml"/>
-      <xi:include href="./sections/8-1851.02.xml"/>
+      <xi:include href="sections/8-1851.01.xml"/>
+      <xi:include href="sections/8-1851.02.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Animal Emergency Preparedness.</heading>
-      <xi:include href="./sections/8-1861.01.xml"/>
+      <xi:include href="sections/8-1861.01.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>19</num>
     <heading>Dangerous Dogs.</heading>
-    <xi:include href="./sections/8-1901.xml"/>
-    <xi:include href="./sections/8-1902.xml"/>
-    <xi:include href="./sections/8-1903.xml"/>
-    <xi:include href="./sections/8-1904.xml"/>
-    <xi:include href="./sections/8-1905.xml"/>
-    <xi:include href="./sections/8-1906.xml"/>
-    <xi:include href="./sections/8-1907.xml"/>
-    <xi:include href="./sections/8-1908.xml"/>
+    <xi:include href="sections/8-1901.xml"/>
+    <xi:include href="sections/8-1902.xml"/>
+    <xi:include href="sections/8-1903.xml"/>
+    <xi:include href="sections/8-1904.xml"/>
+    <xi:include href="sections/8-1905.xml"/>
+    <xi:include href="sections/8-1906.xml"/>
+    <xi:include href="sections/8-1907.xml"/>
+    <xi:include href="sections/8-1908.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>20</num>
     <heading>Horse-Drawn Carriages.</heading>
-    <xi:include href="./sections/8-2001.xml"/>
-    <xi:include href="./sections/8-2002.xml"/>
-    <xi:include href="./sections/8-2003.xml"/>
-    <xi:include href="./sections/8-2004.xml"/>
-    <xi:include href="./sections/8-2005.xml"/>
-    <xi:include href="./sections/8-2006.xml"/>
-    <xi:include href="./sections/8-2007.xml"/>
-    <xi:include href="./sections/8-2008.xml"/>
-    <xi:include href="./sections/8-2009.xml"/>
-    <xi:include href="./sections/8-2010.xml"/>
-    <xi:include href="./sections/8-2011.xml"/>
-    <xi:include href="./sections/8-2012.xml"/>
-    <xi:include href="./sections/8-2013.xml"/>
+    <xi:include href="sections/8-2001.xml"/>
+    <xi:include href="sections/8-2002.xml"/>
+    <xi:include href="sections/8-2003.xml"/>
+    <xi:include href="sections/8-2004.xml"/>
+    <xi:include href="sections/8-2005.xml"/>
+    <xi:include href="sections/8-2006.xml"/>
+    <xi:include href="sections/8-2007.xml"/>
+    <xi:include href="sections/8-2008.xml"/>
+    <xi:include href="sections/8-2009.xml"/>
+    <xi:include href="sections/8-2010.xml"/>
+    <xi:include href="sections/8-2011.xml"/>
+    <xi:include href="sections/8-2012.xml"/>
+    <xi:include href="sections/8-2013.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>20A</num>
     <heading>Pet Ownership Restriction in Assisted Housing.</heading>
-    <xi:include href="./sections/8-2031.xml"/>
-    <xi:include href="./sections/8-2032.xml"/>
-    <xi:include href="./sections/8-2033.xml"/>
-    <xi:include href="./sections/8-2034.xml"/>
-    <xi:include href="./sections/8-2035.xml"/>
+    <xi:include href="sections/8-2031.xml"/>
+    <xi:include href="sections/8-2032.xml"/>
+    <xi:include href="sections/8-2033.xml"/>
+    <xi:include href="sections/8-2034.xml"/>
+    <xi:include href="sections/8-2035.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1677,18 +1126,18 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Bureau of Rodent Control.</heading>
-      <xi:include href="./sections/8-2101.01.xml"/>
-      <xi:include href="./sections/8-2101.02.xml"/>
+      <xi:include href="sections/8-2101.01.xml"/>
+      <xi:include href="sections/8-2101.02.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Rodent Abatement Program.</heading>
-      <xi:include href="./sections/8-2103.01.xml"/>
-      <xi:include href="./sections/8-2103.02.xml"/>
-      <xi:include href="./sections/8-2103.03.xml"/>
-      <xi:include href="./sections/8-2103.04.xml"/>
-      <xi:include href="./sections/8-2103.05.xml"/>
+      <xi:include href="sections/8-2103.01.xml"/>
+      <xi:include href="sections/8-2103.02.xml"/>
+      <xi:include href="sections/8-2103.03.xml"/>
+      <xi:include href="sections/8-2103.04.xml"/>
+      <xi:include href="sections/8-2103.05.xml"/>
     </container>
   </container>
   <container>
@@ -1699,38 +1148,38 @@
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General.</heading>
-      <xi:include href="./sections/8-2131.01.xml"/>
-      <xi:include href="./sections/8-2131.02.xml"/>
-      <xi:include href="./sections/8-2131.03.xml"/>
-      <xi:include href="./sections/8-2131.04.xml"/>
-      <xi:include href="./sections/8-2131.05.xml"/>
-      <xi:include href="./sections/8-2131.06.xml"/>
-      <xi:include href="./sections/8-2131.07.xml"/>
-      <xi:include href="./sections/8-2131.08.xml"/>
-      <xi:include href="./sections/8-2131.09.xml"/>
+      <xi:include href="sections/8-2131.01.xml"/>
+      <xi:include href="sections/8-2131.02.xml"/>
+      <xi:include href="sections/8-2131.03.xml"/>
+      <xi:include href="sections/8-2131.04.xml"/>
+      <xi:include href="sections/8-2131.05.xml"/>
+      <xi:include href="sections/8-2131.06.xml"/>
+      <xi:include href="sections/8-2131.07.xml"/>
+      <xi:include href="sections/8-2131.08.xml"/>
+      <xi:include href="sections/8-2131.09.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Mosquito Control and Abatement.</heading>
-      <xi:include href="./sections/8-2141.01.xml"/>
+      <xi:include href="sections/8-2141.01.xml"/>
     </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>22</num>
     <heading>Wildlife Protection.</heading>
-    <xi:include href="./sections/8-2201.xml"/>
-    <xi:include href="./sections/8-2202.xml"/>
-    <xi:include href="./sections/8-2203.xml"/>
-    <xi:include href="./sections/8-2204.xml"/>
-    <xi:include href="./sections/8-2205.xml"/>
-    <xi:include href="./sections/8-2206.xml"/>
-    <xi:include href="./sections/8-2207.xml"/>
-    <xi:include href="./sections/8-2208.xml"/>
-    <xi:include href="./sections/8-2209.xml"/>
-    <xi:include href="./sections/8-2210.xml"/>
-    <xi:include href="./sections/8-2211.xml"/>
-    <xi:include href="./sections/8-2212.xml"/>
+    <xi:include href="sections/8-2201.xml"/>
+    <xi:include href="sections/8-2202.xml"/>
+    <xi:include href="sections/8-2203.xml"/>
+    <xi:include href="sections/8-2204.xml"/>
+    <xi:include href="sections/8-2205.xml"/>
+    <xi:include href="sections/8-2206.xml"/>
+    <xi:include href="sections/8-2207.xml"/>
+    <xi:include href="sections/8-2208.xml"/>
+    <xi:include href="sections/8-2209.xml"/>
+    <xi:include href="sections/8-2210.xml"/>
+    <xi:include href="sections/8-2211.xml"/>
+    <xi:include href="sections/8-2212.xml"/>
   </container>
 </container>

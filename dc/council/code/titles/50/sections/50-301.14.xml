@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-301.14</num>
   <heading>Insurance.</heading>
   <para>
@@ -53,7 +52,7 @@
     <annotation type="Prior Codifications">1981 Ed., § 40-1714.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§50-314">50-314</cite>.</annotation>
     <annotation type="References in Text">The “Compulsory/No Fault Motor Vehicle Insurance Act of 1982 Amendments Act of 1985”, referred to at the end of subsections (a) and (b), is <cite doc="D.C. Law 6-96">D.C. Law 6-96</cite>.</annotation>
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(p)|(1)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(p)|(2)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(p)|(1)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(p)|(2)" type="History"/>
   </annotations>
 </section>

@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-301.05</num>
   <heading>Department of For-Hire Vehicles – Director.</heading>
   <para>
@@ -30,8 +29,7 @@
     <annotation type="Section References">This section is referenced in § <cite path="§1-611.08">1-611.08</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-1705.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§50-305">50-305</cite>.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-190">D.C. Law 14-190</cite>, in subsec. (c), designated par. (1) and in that paragraph substituted “pursuant to § <cite path="§1-611.08">1-611.08</cite>(c)(2)(K)” for “pursuant to § <cite path="§1-612.08">1-612.08</cite>(b)”; and added par. (2).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-190">D.C. Law 14-190</cite>, in subsec. (c), designated par. (1) and in that paragraph substituted “pursuant to § <cite path="§1-611.08">1-611.08</cite>(c)(2)(K)” for “pursuant to § <cite path="§1-612.08">1-612.08</cite>(b)”; and added par. (2).</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-184">D.C. Law 19-184</cite>, in (a), substituted “the field of transportation administration or regulation, the hospitality industry, public safety, or taxicab management or operations” for “taxicab industry operations” in the second sentence, and deleted the last sentence; substituted “Commission staff” for “Chief of the Office” in (d); and added (e).</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-271">D.C. Law 20-271</cite> substituted “pursuant to § <cite path="§1-611.08">1-611.08</cite>(c-2)(3)” for “pursuant to § <cite path="§1-611.08">1-611.08</cite>(c)(2)(K)” in (c)(1).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 501(a) of Fiscal Year 1997 Budget Support Temporary Amendment Act of 1996 (<cite doc="D.C. Law 11-226">D.C. Law 11-226</cite>, April 9, 1997, law notification  44 DCR 2584).</annotation>
@@ -43,6 +41,6 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  317 of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Emergency Amendment Act of 2014 (D.C. Act 20-481, November 18, 2014, 61 DCR 12133, 20 STAT 4405).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 317 of the New Columbia Statehood Initiative, Omnibus Boards and Commissions, and Election Transition Reform Congressional Review Emergency Amendment Act of 2015 (D.C. Act 21-7, Feb. 26, 2015,  62 DCR 2646, 21 STAT 807).</annotation>
     <annotation type="Effective Dates">Section 24(b) of <cite doc="D.C. Law 6-97">D.C. Law 6-97</cite> provided that sections 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, and 23 shall take effect 1 year after March 25, 1986.</annotation>
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(e)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(e)" type="History"/>
   </annotations>
 </section>

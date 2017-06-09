@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <reason>Repealed</reason>
   <num>38-804</num>
   <heading>Deposit of revenues and receipts.</heading>
@@ -12,8 +11,7 @@
     <annotation type="Section References">This section is referenced in § <cite path="§38-806">38-806</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-804.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 31-1404.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> substituted “the fiscal year shall revert to the unrestricted fund balance of the General Fund of the District of Columbia” for “the year shall be reserved as a restricted fund balance and used to provide authorization to expend for subsequent years subject to the direction of the Board of Education”.</annotation>
-    <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§10" type="History" />
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> substituted “the fiscal year shall revert to the unrestricted fund balance of the General Fund of the District of Columbia” for “the year shall be reserved as a restricted fund balance and used to provide authorization to expend for subsequent years subject to the direction of the Board of Education”.</annotation>
+    <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§10" type="History"/>
   </annotations>
 </section>

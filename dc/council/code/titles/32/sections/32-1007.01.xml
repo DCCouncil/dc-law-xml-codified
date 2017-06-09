@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>32-1007.01</num>
   <heading>Reporting.</heading>
   <text>The Mayor shall submit biannually a report to the Council regarding any audits or inspections conducted related to compliance with <cite path="32|10|I">this subchapter</cite> or any regulation issued pursuant to <cite path="32|10|I">this subchapter</cite>. Each report shall include:</text>
@@ -20,7 +19,7 @@
     <text>An explication of the actions the Mayor took pursuant to <cite path="§32-1011">§ 32-1011</cite> against each employer charged with violating <cite path="32|10|I">this subchapter</cite> or any regulation issued pursuant to <cite path="32|10|I">this subchapter</cite>, including a list of fines assessed against the employer.</text>
   </para>
   <annotations>
-    <annotation app="1993-03-25" doc="D.C. Law 9-248" eff="1993-03-25" path="§8a" type="History" />
-    <annotation app="2016-08-19" doc="D.C. Law 21-144" eff="2016-08-19" path="§2|(d)" prefix="as added" type="History" />
+    <annotation app="1993-03-25" doc="D.C. Law 9-248" eff="1993-03-25" path="§8a" type="History"/>
+    <annotation app="2016-08-19" doc="D.C. Law 21-144" eff="2016-08-19" path="§2|(d)" prefix="as added" type="History"/>
   </annotations>
 </section>

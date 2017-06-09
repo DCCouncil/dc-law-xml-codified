@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>22-405</num>
   <heading>Assault on member of police force, campus or university special police, or fire department.</heading>
   <para>
@@ -37,8 +36,7 @@
     <annotation type="Section References">This section is referenced in § <cite path="§23-524">23-524</cite>, § <cite path="§24-112">24-112</cite>, § <cite path="§24-261.03">24-261.03</cite>, § <cite path="§24-403">24-403</cite>, and § <cite path="§24-403.01">24-403.01</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 22-505.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 22-505.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-306">D.C. Law 16-306</cite> rewrote the section.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-306">D.C. Law 16-306</cite> rewrote the section.</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite>” for “not more than $1,000” in (b) and for “not more than $10,000” in (c).</annotation>
     <annotation type="Temporary Legislation">Section 2 of <cite doc="D.C. Law 12-282">D.C. Law 12-282</cite> inserted “any designated civilian employee of the Metropolitan Police Department” near the beginning of (a).</annotation>
     <annotation type="Temporary Legislation">Section 13(b) of <cite doc="D.C. Law 12-282">D.C. Law 12-282</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
@@ -49,6 +47,6 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 208 of Omnibus Public Safety Second Congressional Review Emergency Amendment Act of 2007 (D.C. Act 17-25, April 19, 2007,  54 DCR 4036).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 202(a) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
     <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§205" type="History" />
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§205" type="History"/>
   </annotations>
 </section>

@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <reason>Repealed</reason>
   <num>6-751.06</num>
   <heading>Maintenance.</heading>
@@ -8,6 +7,6 @@
     <annotation doc="D.C. Law 2-81" type="History" path="§7">June 20, 1978, D.C. Law 2-81, § 7, 24 DCR 9050</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 5-534.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 5-333.</annotation>
-    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§2|(b)" type="History" />
+    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§2|(b)" type="History"/>
   </annotations>
 </section>

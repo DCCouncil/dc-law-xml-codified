@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>32-1051.04</num>
   <heading>Posting requirements.</heading>
   <para>
@@ -18,6 +17,6 @@
     <text>A covered employer who fails to comply with the posting requirements of this section shall be subject to the penalty set forth in section 8.</text>
   </para>
   <annotations>
-    <annotation app="2016-10-08" doc="D.C. Law 21-157" eff="2016-10-08" path="§5" type="History" />
+    <annotation app="2016-10-08" doc="D.C. Law 21-157" eff="2016-10-08" path="§5" type="History"/>
   </annotations>
 </section>

@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-2204.51</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this act, the term:</text>
@@ -20,6 +19,6 @@
     <text>"Public highway" shall have the same meaning as provided in section 2(i) of the Motor Vehicle Safety Responsibility Act of the District of Columbia, approved May 25, 1954 (68 Stat. 120; D.C. Official Code § 50-1301.02(9)).</text>
   </para>
   <annotations>
-    <annotation app="2016-11-26" doc="D.C. Law 21-167" eff="2016-11-26" path="§2" type="History" />
+    <annotation app="2016-11-26" doc="D.C. Law 21-167" eff="2016-11-26" path="§2" type="History"/>
   </annotations>
 </section>

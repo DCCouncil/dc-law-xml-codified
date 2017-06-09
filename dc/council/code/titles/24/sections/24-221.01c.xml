@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>24-221.01c</num>
   <heading>Credits for good behavior, rehabilitation programs, work details, and special projects.</heading>
   <para>
@@ -21,6 +20,6 @@
   <annotations>
     <annotation doc="D.C. Law 6-218" type="History" path="§3c">Apr. 11, 1987, D.C. Law 6-218, § 3c</annotation>
     <annotation doc="D.C. Law 18-372" type="History">as added May 17, 2011, D.C. Law 18-372, § 2(a), 58 DCR 7</annotation>
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§501" type="History" />
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§501" type="History"/>
   </annotations>
 </section>

@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-2371</num>
   <heading>Bicycle and Pedestrian Priority Area Program.</heading>
   <para>
@@ -67,8 +66,7 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 
-          <em>et seq.</em>), may issue rules to implement the provisions of this section.
+    <text>The Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, may issue rules to implement the provisions of this section.
         </text>
   </para>
   <para>
@@ -76,14 +74,16 @@
     <text>For the purposes of this section, the term:</text>
     <para>
       <num>(1)</num>
-      <text>"Collision" shall have the same meaning as provided in section 2(3) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(3)).</text>
+      <text>"Collision" shall have the same meaning as provided in <cite path="§50-2201.02|(3)">§ 50-2201.02(3)</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>"Motor vehicle" shall have the same meaning as provided in section 2(11) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(11)).</text>
+      <text>"Motor vehicle" shall have the same meaning as provided in <cite path="§50-2201.02|(11)">§ 50-2201.02(11)</cite>.</text>
     </para>
   </para>
   <annotations>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§201" type="History" />
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§201" type="History"/>
+    <annotation doc="D.C. Law 21-155" type="Editor's Notes" path="§703" history="false" app="2016-10-08" eff="2016-10-08">For requirement of the issuance of rules to implement title 7 of Law 21-155, see <cite doc="D.C. Law 21-155">§ 703 of D.C. Law 21-155</cite>.
+      </annotation>
   </annotations>
 </section>

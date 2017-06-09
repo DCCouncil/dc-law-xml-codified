@@ -1,11 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-531</num>
   <heading>Definitions.</heading>
-  <text>For the purposes of this title, the term:</text>
+  <text>For the purposes of <cite path="50|5A">this chapter</cite>, the term:</text>
   <para>
     <num>(1)</num>
-    <text>"Bicyclist" means a person operating a bicycle, as that term is defined in section 10(1) of the District of Columbia Comprehensive Bicycle Transportation and Safety Act of 1984, effective March 6, 1985 (D.C. Law 5-179; D.C. Official Code § 50-1609(1)).</text>
+    <text>"Bicyclist" means a person operating a bicycle, as that term is defined in <cite path="§50-1609|(1)">§ 50-1609(1)</cite>.</text>
   </para>
   <para>
     <num>(2)</num>
@@ -28,6 +27,8 @@
     <text>"Person" means any natural person, firm, copartnership, association, government, government agency, or instrumentality.</text>
   </para>
   <annotations>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§401" type="History" />
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§401" type="History"/>
+    <annotation doc="D.C. Law 21-155" type="Editor's Notes" path="§703" history="false" app="2016-10-08" eff="2016-10-08">For requirement of the issuance of rules to implement title 7 of Law 21-155, see <cite doc="D.C. Law 21-155">§ 703 of D.C. Law 21-155</cite>.
+      </annotation>
   </annotations>
 </section>

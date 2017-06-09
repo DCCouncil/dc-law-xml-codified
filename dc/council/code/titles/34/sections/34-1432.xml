@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>34-1432</num>
   <heading>Renewable energy portfolio standard.</heading>
   <para>
@@ -138,12 +137,9 @@
     <annotation doc="D.C. Law 18-223" type="History">Sept. 24, 2010, D.C. Law 18-223, § 2223(b), 57 DCR 6242</annotation>
     <annotation doc="D.C. Law 19-36" type="History">Oct. 20, 2011, D.C. Law 19-36, § 2(a), 58 DCR 6837</annotation>
     <annotation doc="D.C. Law 20-155" type="History">Feb. 26, 2015, D.C. Law 20-155, § 6052, 61 DCR 9990</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> added subsecs. (a-1) and (e); and rewrote subsec. (c).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsec. (e), which had read as follows: “(e) Subject to subsections (a) and (c) of this section, an electricity supplier shall meet the solar requirement by obtaining the equivalent amount of renewable energy credits from solar energy systems interconnected to the distribution grid serving the District of Columbia. Only after an electricity supplier exhausts all opportunity to meet this requirement that the solar energy systems be connected to the grid within the District of Columbia, can that supplier obtain renewable energy credits from jurisdictions outside the District of Columbia.”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-36">D.C. Law 19-36</cite> rewrote subsecs. (a-1), (c), and (e).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-250">D.C. Law 17-250</cite> added subsecs. (a-1) and (e); and rewrote subsec. (c).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsec. (e), which had read as follows: “(e) Subject to subsections (a) and (c) of this section, an electricity supplier shall meet the solar requirement by obtaining the equivalent amount of renewable energy credits from solar energy systems interconnected to the distribution grid serving the District of Columbia. Only after an electricity supplier exhausts all opportunity to meet this requirement that the solar energy systems be connected to the grid within the District of Columbia, can that supplier obtain renewable energy credits from jurisdictions outside the District of Columbia.”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-36">D.C. Law 19-36</cite> rewrote subsecs. (a-1), (c), and (e).</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> added “provided, that renewable energy credits from solar energy systems larger than 5MW in capacity located on property owned by the District, or by any agency or independent authority of the District, may be used to meet the solar requirement” in (e)(1); and rewrote (e)(2).</annotation>
     <annotation type="Temporary Legislation">Section 2(b) of <cite doc="D.C. Law 18-217">D.C. Law 18-217</cite> substituted “located within the District” for “interconnected to the distribution grid serving the District of Columbia”; and deleted “that the solar energy systems be connected to the grid within the District of Columbia,”.</annotation>
     <annotation type="Temporary Legislation">Section 4(b) of <cite doc="D.C. Law 18-217">D.C. Law 18-217</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
@@ -162,20 +158,20 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6052 of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 6052 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
     <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-36">D.C. Law 19-36</cite>: Section 3 of <cite doc="D.C. Law 19-36">D.C. Law 19-36</cite>, as amended by <cite doc="D.C. Law 20-245">D.C. Law 20-245</cite>, § 3, provided that the act (a) shall apply as of July 12, 2011; and (b) shall not apply to contracts entered into before August 1, 2011, provided that, for a contract entered into before August 1, 2011, the act shall apply to an extension or renewal of that contract executed on or after August 1, 2011.</annotation>
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(A)" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(B)|(i)" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(B)|(ii)" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(2)" type="History" />
-    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(3)" type="History" />
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(A)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(B)|(i)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(B)|(ii)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(1)|(C)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(b)|(3)" type="History"/>
   </annotations>
   <para>
     <num>(f)</num>

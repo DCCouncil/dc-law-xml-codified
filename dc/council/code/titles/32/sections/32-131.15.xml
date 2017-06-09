@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>32-131.15</num>
   <heading>Report by the District of Columbia Auditor.</heading>
   <text>The District of Columbia Auditor shall prepare and submit to the Mayor and Council, annually, a report of this chapter’s economic impact on the private sector. Among other things, the District of Columbia Auditor shall audit a sample of District businesses to determine:</text>
@@ -24,9 +23,9 @@
     <annotation type="Emergency Legislation">For temporary (90 days) repeal of <cite doc="D.C. Law 20-89">D.C. Law 20-89</cite>, § 3, see § 7003 of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) repeal of <cite doc="D.C. Law 20-157">D.C. Law 20-157</cite>, §  7, see §  4 of the Wage Theft Prevention Correction and Clarification Emergency Amendment Act of 2015 (D.C. Act 21-188, Oct. 27, 2015,  62 DCR 14224).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) repeal of <cite doc="D.C. Law 20-157">D.C. Law 20-157</cite>, § 7, see § 4 of the Wage Theft Prevention Correction and Clarification Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-293, Jan. 27, 2016, 63 DCR 1215).</annotation>
-    <annotation type="Editor's Notes" app="2016-08-17" eff="2016-08-17">
+    <annotation type="Editor's Notes" app="2016-08-17" eff="2016-08-17" doc="D.C. Law 21-143" path="§7">
        Applicability of <cite doc="D.C. Law 21-143" path="">D.C. Law 21-143</cite>: <cite doc="D.C. Law 21-143" path="§14">§ 14 of D.C. Law 21-143</cite> provided that the change made to this section by <cite doc="D.C. Law 21-143" path="§7">§ 7 of D.C. Law 21-143</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
       </annotation>
-    <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§7" type="History" />
+    <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§7" type="History"/>
   </annotations>
 </section>

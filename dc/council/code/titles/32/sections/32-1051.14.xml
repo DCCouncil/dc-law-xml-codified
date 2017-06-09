@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>32-1051.14</num>
   <heading>Costs and attorney's fees.</heading>
   <para>
@@ -23,6 +22,6 @@
     <text>The Mayor shall not be required to pay the filing fee or other costs or fees of any nature or to file bond or other security of any nature in connection with any action or proceeding under this act.</text>
   </para>
   <annotations>
-    <annotation app="2016-10-08" doc="D.C. Law 21-157" eff="2016-10-08" path="§15" type="History" />
+    <annotation app="2016-10-08" doc="D.C. Law 21-157" eff="2016-10-08" path="§15" type="History"/>
   </annotations>
 </section>

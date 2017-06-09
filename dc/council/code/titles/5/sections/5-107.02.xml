@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns="https://code.dccouncil.us/schemas/dc-library">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-107.02</num>
   <heading>Mandatory continuing education program for sworn members of the Metropolitan Police Department.</heading>
   <para>
@@ -8,8 +7,8 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 13-160" type="History" path="§203">Oct. 4, 2000, D.C. Law 13-160, § 203, 47 DCR 4619</annotation>
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§207|(a)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§207|(b)" type="History" />
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§207|(a)" type="History"/>
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§207|(b)" type="History"/>
   </annotations>
   <para>
     <num>(b)</num>
