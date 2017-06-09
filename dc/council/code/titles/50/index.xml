@@ -884,17 +884,17 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>II-A</num>
+      <heading>Aggressive Driving.</heading>
+      <xi:include href="sections/50-2204.01.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>II-B</num>
       <heading>Motor Vehicle Collision Recovery.</heading>
       <xi:include href="sections/50-2204.51.xml"/>
       <xi:include href="sections/50-2204.52.xml"/>
       <xi:include href="sections/50-2204.53.xml"/>
-    </container>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>IIA</num>
-      <heading>Aggressive Driving.</heading>
-      <xi:include href="sections/50-2204.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
