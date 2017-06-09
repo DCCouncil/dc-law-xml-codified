@@ -129,7 +129,7 @@
         <text>If complete data about a collision is not available at the time of publication, the Mayor shall publish online the information that is available at the time of publication, and update the data as additional information becomes available.</text>
       </para>
     </section>
-    <section>
+    <section codify:applicability="notfunded">
       <codify:insert num-value="50-1951.03"/>
       <num>103</num>
       <heading>Publication of moving infraction data.</heading>
@@ -181,6 +181,11 @@
         <num>(b)</num>
         <text>If complete data about a notice of infraction is not available at the time of publication, the Mayor shall publish the information that is available at the time of publication, and update the data as additional information becomes available.</text>
       </para>
+      <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+        <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the creation of this section by <cite doc="D.C. Law 21-155" path="§103">§ 103 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+      </div>
     </section>
     <section>
       <codify:insert num-value="50-1951.04"/>
@@ -1043,6 +1048,11 @@
         </section>
       </include>
       <aftertext>.</aftertext>
+      <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+        <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the modification of subsection (e)(2) of this section by <cite doc="D.C. Law 21-155" path="§701">§ 701 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+      </div>
     </section>
     <section codify:doc="D.C. Code">
       <num>702</num>
@@ -1145,13 +1155,13 @@
     <prefix>TITLE</prefix>
     <num>VIII</num>
     <heading>MAJOR CRASH REVIEW</heading>
-    <section codify:doc="D.C. Code" codify:path="|50|22|V|A">
+    <section codify:doc="D.C. Code" codify:path="|50|22|V|A" codify:applicability="notfunded">
       <num>801</num>
       <text>Title IX of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01 <em>et seq.</em>), is amended by adding a new section 904 to read as follows:
       </text>
       <include>
         <section>
-          <codify:insert num-value="50-2209.04"/>
+          <codify:insert num-value="50-2209.04" history-prefix="as added"/>
           <num>904</num>
           <heading>Access to automated traffic enforcement and District-owned camera photographs and video footage.</heading>
           <para>
@@ -1184,9 +1194,17 @@
             <num>(d)</num>
             <text>For the purposes of this section, the term "District-owned camera" shall not include a body-worn camera.</text>
           </para>
+          <annotations>
+            <annotation doc="D.C. Law 11-198" type="History" path="§903">Apr. 9, 1997, D.C. Law 11-198, § 903, 43 DCR 4569</annotation>
+          </annotations>
         </section>
       </include>
       <aftertext>.</aftertext>
+      <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+        <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the creation of this section by <cite doc="D.C. Law 21-155" path="§801">§ 801 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+      </div>
     </section>
     <codify:insert doc="D.C. Code" path="|50" after="18" history="false">
       <container>
@@ -1255,6 +1273,14 @@
       <para>
         <num>(a)</num>
         <text>Sections 103 and 801 and the amendatory section 10a(e)(2) of the District of Columbia Traffic Act, 1925 within section 701, shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
+        <codify:applicability path="§103" date="notfunded" history="false"/>
+        <codify:applicability path="§801" date="notfunded" history="false"/>
+        <codify:replace doc="D.C. Code" path="§50-2201.05a|(e)|(2)" history="false">
+          <para>
+            <num>(2)</num>
+            <text>[Not funded].</text>
+          </para>
+        </codify:replace>
       </para>
       <para>
         <num>(b)</num>
