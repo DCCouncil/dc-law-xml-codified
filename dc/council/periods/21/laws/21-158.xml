@@ -16,9 +16,7 @@
       <vote date="2016-07-12" reading="Amendment"/>
       <vote date="2016-07-12" reading="Final"/>
       <enacted>2016-08-23</enacted>
-      <summary>Law 21-158 reforms the District's procurement processes. Among other structural and procedural reforms, it establishes the Office of the Ombudsman for Contracting and Procurement; makes changes to the Council's review of contracts; sets guidelines for privatization contracts; and provides for enhanced transparency in the District's contracting and procurement practices. 
-
-FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statement in "Other Documents" tab.</summary>
+      <summary>Law 21-158 reforms the District's procurement processes. Among other structural and procedural reforms, it establishes the Office of the Ombudsman for Contracting and Procurement; makes changes to the Council's review of contracts; sets guidelines for privatization contracts; and provides for enhanced transparency in the District's contracting and procurement practices.</summary>
       <committee>Committee of the Whole</committee>
     </history>
   </meta>
@@ -298,15 +296,19 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
         <para>
           <num>(E)</num>
           <text>Paragraph (4) is amended by striking the phrase "prior performance on contracts with the District government;" and inserting the phrase "performance on past or current government or private-sector contracts with requirements similar to those of the proposed contract;" in its place.</text>
+          <codify:find-replace path="(4)" count="1">
+            <find>prior performance on contracts with the District government;</find>
+            <replace>performance on past or current government or private-sector contracts with requirements similar to those of the proposed contract;</replace>
+          </codify:find-replace>
         </para>
         <para>
           <num>(F)</num>
           <text>A new paragraph (4A) is added to read as follows:</text>
           <include>
             <para>
+              <codify:insert after="(4)"/>
               <num>(4A)</num>
-              <text>A summary of the subcontracting plan required under section 2346 of the Small, Local, and Disadvantaged Business Enterprise Development and Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.46), to include a certification by the District that the subcontracting plan meets the minimum requirements of  the Small, Local, and Disadvantaged Business Enterprise Development and Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.01 
-                <em>et seq.</em>), and the dollar volume of the portion of the contract to be subcontracted, expressed both in total dollars and as a percentage of the total contract amount;
+              <text>A summary of the subcontracting plan required under section 2346 of the Small, Local, and Disadvantaged Business Enterprise Development and Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.46), to include a certification by the District that the subcontracting plan meets the minimum requirements of  the Small, Local, and Disadvantaged Business Enterprise Development and Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.01 <em>et seq.</em>), and the dollar volume of the portion of the contract to be subcontracted, expressed both in total dollars and as a percentage of the total contract amount;
               </text>
             </para>
           </include>
@@ -317,6 +319,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
           <text>A new paragraph (5A) is added to read as follows:</text>
           <include>
             <para>
+              <codify:insert after="(5)"/>
               <num>(5A)</num>
               <text>The amount and date of any expenditure of funds by the District pursuant to the contract before its submission to the Council for approval;</text>
             </para>
@@ -328,6 +331,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
           <text>Paragraph (8) is amended to read as follows:</text>
           <include>
             <para>
+              <codify:replace path="(8)"/>
               <num>(8)</num>
               <para>
                 <num>(A)</num>
@@ -354,6 +358,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
           <text>A new paragraph (8A) is added to read as follows:</text>
           <include>
             <para>
+              <codify:insert after="(8)"/>
               <num>(8A)</num>
               <text>A certification from the proposed contractor that it is current with its federal taxes, or has worked out and is current with a payment schedule approved by the federal government.</text>
             </para>
@@ -363,12 +368,17 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
         <para>
           <num>(J)</num>
           <text>Paragraph (11) is amended by striking the phrase "debarment; and" and inserting the phrase "debarment;" in its place.</text>
+          <codify:find-replace path="(11)" count="1">
+            <find>debarment; and</find>
+            <replace>debarment;</replace>
+          </codify:find-replace>
         </para>
         <para>
           <num>(K)</num>
           <text>A new paragraph (11A) is added to read as follows:</text>
           <include>
             <para>
+              <codify:insert after="(11)"/>
               <num>(11A)</num>
               <text>Any determination and findings issued in relation to the contract's formation, including any determination and findings made under section 205;</text>
             </para>
@@ -380,6 +390,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
           <text>Paragraph (12) is amended to read as follows:</text>
           <include>
             <para>
+              <codify:replace path="(12)"/>
               <num>(12)</num>
               <text>Where the contract, and any amendments or modifications, if executed, will be made available online; and</text>
             </para>
@@ -391,6 +402,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
           <text>A new paragraph (13) is added to read as follows:</text>
           <include>
             <para>
+              <codify:insert after="(12)"/>
               <num>(13)</num>
               <text>Where the original solicitation, and any amendments or modifications, will be made available online.</text>
             </para>
@@ -403,6 +415,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
         <text>New subsections (c-1), (c-2), and (c-3) are added to read as follows:</text>
         <include>
           <para>
+            <codify:insert after="(c)"/>
             <num>(c-1)</num>
             <text>A proposed change to the scope or amount of a contract, including the exercise of an option period, a modification, a change order, or any similar change that is submitted to the Council pursuant to this section and seeks from the Council retroactive approval of an action or authorization for payment, shall include the summary required under subsection (c) of this section and also shall include:</text>
             <para>
@@ -435,10 +448,12 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
             </para>
           </para>
           <para>
+            <codify:insert after="(c-1)"/>
             <num>(c-2)</num>
             <text>Any proposed change submitted to the Council for its review in accordance with subsection (c-1) of this section shall be referred to the Inspector General who may examine the contract for possible corruption, mismanagement, waste, fraud, or abuse pursuant to section 208(a-1)(2) of the District of Columbia Procurement Practices Act of 1985, effective February 21, 1986 (D.C. Law 6-85; D.C. Official Code § 1-301.115a(a-1)(2)).</text>
           </para>
           <para>
+            <codify:insert after="(c-2)"/>
             <num>(c-3)</num>
             <text>The proposed exercise of an option period pursuant to subsection (a)(2) of this section may be submitted electronically and shall contain a summary, including the following:</text>
             <para>
@@ -464,14 +479,19 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
       <para>
         <num>(4)</num>
         <text>Subsection (e) is amended by striking the phrase "contained therein." and inserting the phrase "contained therein; provided, that a copy of the underlying letter contract be transmitted to the Council with the definitive contract." in its place.</text>
+        <codify:find-replace path="(e)" count="1">
+          <find>contained therein.</find>
+          <replace>contained therein; provided, that a copy of the underlying letter contract be transmitted to the Council with the definitive contract.</replace>
+        </codify:find-replace>
       </para>
     </para>
-    <para>
+    <para codify:doc="D.C. Code" codify:path="§2-352.05">
       <num>(e)</num>
       <text>Section 205 (D.C. Official Code § 2-352.05) is amended to read as follows:</text>
       <include>
         <section>
-          <num>205</num>
+          <codify:replace/>
+          <num codify:value="2-352.05">205</num>
           <heading>Privatization contracts.</heading>
           <para>
             <num>(a)</num>
@@ -573,8 +593,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
             </para>
             <para>
               <num>(2)</num>
-              <text>Any District employee who is displaced as a result of a privatization contract and is hired by the contractor who was awarded the contract, shall be entitled to the benefits provided by the Service Contract Act of 1965, approved October 22, 1965 (79 Stat. 1034; 41 U.S.C. § 6701 
-                <em>et seq.</em>);
+              <text>Any District employee who is displaced as a result of a privatization contract and is hired by the contractor who was awarded the contract, shall be entitled to the benefits provided by the Service Contract Act of 1965, approved October 22, 1965 (79 Stat. 1034; 41 U.S.C. § 6701 <em>et seq.</em>);
               </text>
             </para>
             <para>
@@ -701,6 +720,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
       <text>A new section 205a is added to read as follows:</text>
       <include>
         <section>
+          <codify:insert doc="D.C. Code" path="|2|3A|II" after="§2-352.05" num-value="2-352.05a" history-prefix="as added"/>
           <num>205a</num>
           <heading>Inherently governmental functions.</heading>
           <para>
@@ -795,6 +815,9 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
             <num>(f)</num>
             <text>Notwithstanding subsection (e) of this section, the requirements of this section shall apply to any contract or option period in effect 5 years after the effective date of the Procurement Act.</text>
           </para>
+          <annotations>
+            <annotation doc="D.C. Law 18-371" type="History" path="§205a">Apr. 8, 2011, D.C. Law 18-371, § 205a, 58 DCR 1185</annotation>
+          </annotations>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -804,6 +827,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
       <text>A new section 207 is added to read as follows:</text>
       <include>
         <section>
+          <codify:insert doc="D.C. Code" path="|2|3A|II" after="§2-352.06" num-value="2-352.07" history-prefix="as added"/>
           <num>207</num>
           <heading>Ombudsman for contracting and procurement.</heading>
           <para>
@@ -842,11 +866,14 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
               <text>Identify systemic concerns and recommend to the CPO and the Council policy changes, and strategies to improve the contracting and procurement process.</text>
             </para>
           </para>
+          <annotations>
+            <annotation doc="D.C. Law 18-371" type="History" path="§207">Apr. 8, 2011, D.C. Law 18-371, § 207, 58 DCR 1185</annotation>
+          </annotations>
         </section>
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para>
+    <para codify:doc="D.C. Code" codify:path="§2-353.01">
       <num>(h)</num>
       <text>Section 301 (D.C. Official Code § 2-353.01) is amended as follows:</text>
       <para>
@@ -856,12 +883,17 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
       <para>
         <num>(2)</num>
         <text>Paragraph (9) is amended by striking the phrase "delinquent status" and inserting the phrase "delinquent status of more than the greater of $1,000 or 1% of the contract value, up to $25,000" in its place.</text>
+        <codify:find-replace path="(9)" count="1">
+          <find>delinquent status</find>
+          <replace>delinquent status of more than the greater of $1,000 or 1% of the contract value, up to $25,000</replace>
+        </codify:find-replace>
       </para>
       <para>
         <num>(3)</num>
         <text>A new subsection (b) is added to read as follows:</text>
         <include>
           <para>
+            <codify:insert/>
             <num>(b)</num>
             <text>If the District awards a contract to a prospective contractor that has an outstanding debt with the District in a delinquent status that is in an amount less than the amount required to disqualify the prospective contractor pursuant to subsection (a)(9) of this section, the District shall recoup the outstanding debt by offsetting it against any payment due to the contractor under the contract.</text>
           </para>
@@ -872,12 +904,14 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
     <para>
       <num>(i)</num>
       <text>Section 401(b) (D.C. Official Code § 2-354.01(b)) is repealed.</text>
+      <codify:repeal doc="D.C. Code" path="§2-354.01|(b)"/>
     </para>
     <para>
       <num>(j)</num>
       <text>A new section 401a is added to read as follows:</text>
       <include>
         <section>
+          <codify:insert doc="D.C. Code" path="|2|3A|IV" after="§2-354.01" num-value="2-354.01a" history-prefix="as added"/>
           <num>401a</num>
           <heading>Prohibited contacts during source selection.</heading>
           <para>
@@ -942,11 +976,14 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
             <num>(g)</num>
             <text>Nothing in this section shall be construed to prevent any contact or communications by any offeror, bidder, or District employee or official with respect to allegations of improper conduct to the Office of the Attorney General, the Office of the Inspector General, the Office of the District of Columbia Auditor, the CPO, the Council of the District of Columbia, or the Contract Appeals Board or any other tribunal or court of competent jurisdiction.</text>
           </para>
+          <annotations>
+            <annotation doc="D.C. Law 18-371" type="History" path="§401a">Apr. 8, 2011, D.C. Law 18-371, § 401a, 58 DCR 1185</annotation>
+          </annotations>
         </section>
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para>
+    <para codify:doc="D.C. Code" codify:path="§2-354.03">
       <num>(k)</num>
       <text>Section 403 (D.C. Official Code § 2-354.03) is amended as follows:</text>
       <para>
@@ -954,6 +991,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
         <text>Subsection (d) is amended to read as follows:</text>
         <include>
           <para>
+            <codify:replace path="(d)"/>
             <num>(d)</num>
             <text>Each RFP shall include a statement of work or other description of the District's specific needs, which shall be used as a basis for the evaluation of proposals.</text>
           </para>
@@ -965,6 +1003,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
         <text>A new subsection (d-2) is added to read as follows:</text>
         <include>
           <para>
+            <codify:insert after="(d-1)"/>
             <num>(d-2)</num>
             <para>
               <num>(1)</num>
@@ -1004,6 +1043,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
       <text>A new section 605 is added to read as follows:</text>
       <include>
         <section>
+          <codify:insert doc="D.C. Code" path="|2|3A|VI" after="§2-356.04" num-value="2-356.05" history-prefix="as added"/>
           <num>605</num>
           <heading>Estimate of construction costs.</heading>
           <para>
@@ -1028,6 +1068,9 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
               <em>et seq.</em>), shall issue rules to implement the provisions of this section.
             </text>
           </para>
+          <annotations>
+            <annotation doc="D.C. Law 18-371" type="History" path="§605">Apr. 8, 2011, D.C. Law 18-371, § 605, 58 DCR 1185</annotation>
+          </annotations>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -1037,6 +1080,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
       <text>A new section 606 is added to read as follows:</text>
       <include>
         <section>
+          <codify:insert doc="D.C. Code" path="|2|3A|VI" after="§2-356.05" num-value="2-356.06" history-prefix="as added"/>
           <num>606</num>
           <heading>Use of project labor agreements for construction projects.</heading>
           <para>
@@ -1091,15 +1135,19 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
               <text>A project labor agreement would be contrary to the interests of the District.</text>
             </para>
           </para>
+          <annotations>
+            <annotation doc="D.C. Law 18-371" type="History" path="§606">Apr. 8, 2011, D.C. Law 18-371, § 606, 58 DCR 1185</annotation>
+          </annotations>
         </section>
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para>
+    <para codify:doc="D.C. Code" codify:path="§2-357.02|(b)">
       <num>(n)</num>
       <text>Section 702(b) (D.C. Official Code § 2-357.02(b)) is amended to read as follows:</text>
       <include>
         <para>
+          <codify:replace/>
           <num>(b)</num>
           <text>The CPO may:</text>
           <para>
@@ -1135,25 +1183,34 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
       <text>A new section 702a is added to read as follows:</text>
       <include>
         <section>
+          <codify:insert doc="D.C. Code" path="|2|3A|VII" after="§2-357.02" num-value="2-357.02a" history-prefix="as added"/>
           <num>702a</num>
           <heading>Security in non-construction service contracts.</heading>
           <text>The CPO shall issue rules pursuant to section 1106 to require performance bonds, payment bonds, letters of credit, or other forms of security for non-construction service contract prime contractors in cases in which such security may be effective in furthering the District's interests or such security may assist subcontractors doing business under a prime contract to receive payment for goods or services.</text>
+          <annotations>
+            <annotation doc="D.C. Law 18-371" type="History" path="§702a">Apr. 8, 2011, D.C. Law 18-371, § 702a, 58 DCR 1185</annotation>
+          </annotations>
         </section>
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para>
+    <para codify:doc="D.C. Code" codify:path="§2-360.08">
       <num>(p)</num>
       <text>Section 1008 (D.C. Official Code § 2-360.08) is amended as follows:</text>
       <para>
         <num>(1)</num>
         <text>Subsection (d) is amended by striking the phrase "proceeding shall be de novo and the".</text>
+        <codify:find-replace path="(d)" count="1">
+          <find>proceeding shall be de novo and the</find>
+          <replace/>
+        </codify:find-replace>
       </para>
       <para>
         <num>(2)</num>
         <text>A new subsection (d-1) is added to read as follows:</text>
         <include>
           <para>
+            <codify:insert after="(d)"/>
             <num>(d-1)</num>
             <text>An agency's determination of its minimum needs and its determination of the best method of accommodating those minimum needs are business judgments primarily within the agency's discretion.  The Board may not sustain a protest on the basis of either determination unless a protester demonstrates by clear and convincing evidence that the determination lacked a reasonable basis.</text>
           </para>
@@ -1161,12 +1218,13 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
         <aftertext>.</aftertext>
       </para>
     </para>
-    <para>
+    <para codify:doc="D.C. Code" codify:path="§2-361.04">
       <num>(q)</num>
       <text>Section 1104 (D.C. Official Code § 2-361.04) is amended to read as follows:</text>
       <include>
         <section>
-          <num>1104</num>
+          <codify:replace/>
+          <num codify:value="2-361.04">1104</num>
           <heading>Transparency in contracting.</heading>
           <para>
             <num>(a)</num>
@@ -1235,7 +1293,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para>
+    <para codify:doc="D.C. Code" codify:path="§2-361.05">
       <num>(r)</num>
       <text>Section 1105 (D.C. Official Code § 2-361.05) is amended as follows:</text>
       <para>
@@ -1243,6 +1301,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
         <text>A new subsection (a-1) is added to read as follows:</text>
         <include>
           <para>
+            <codify:insert after="(a)"/>
             <num>(a-1)</num>
             <text>At a minimum, each agency acquisition plan shall contain anticipated procurement needs of the coming fiscal year with specific information on the following:</text>
             <para>
@@ -1285,21 +1344,25 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
         <aftertext>.</aftertext>
       </para>
     </para>
-    <para>
+    <para codify:doc="D.C. Code" codify:path="§2-361.06|(a)">
       <num>(s)</num>
       <text>Section 1106(a) (D.C. Official Code § 2-361.06(a)) is amended as follows:</text>
       <para>
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the phrase "act, except Title VI." and inserting the phrase "act." in its place.</text>
+        <codify:find-replace path="(1)" count="1">
+          <find>this chapter, except subchapter VI of this chapter.</find>
+          <replace>this chapter.</replace>
+        </codify:find-replace>
       </para>
       <para>
         <num>(2)</num>
         <text>Paragraph (2) is amended to read as follows:</text>
         <include>
           <para>
+            <codify:replace path="(2)"/>
             <num>(2)</num>
-            <text>Notwithstanding paragraph (1) of this subsection, the Department of General Services, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 
-              <em>et seq</em>.), shall issue rules to implement the provisions of Title VI of this act for contracts within the authority of the Department of General Services.
+            <text>Notwithstanding paragraph (1) of this subsection, the Department of General Services, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.), shall issue rules to implement the provisions of Title VI of this act for contracts within the authority of the Department of General Services.
             </text>
           </para>
         </include>
@@ -1307,11 +1370,12 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
       </para>
     </para>
   </section>
-  <section>
+  <section codify:doc="D.C. Code" codify:path="§10-551.07|(c)">
     <num>4</num>
     <text>Section 1028(c) of the Department of General Services Establishment Act of 2011, effective September 14, 2011 (D.C. Law 19-21; D.C. Official Code § 10-551.07(c)), is amended to read as follows:</text>
     <include>
       <para>
+        <codify:replace/>
         <num>(c)</num>
         <text>The representative shall perform an analysis of all aspects of the proposed contract or real-estate transaction, including the costs and benefits, and shall negotiate on behalf of the District; provided, that the representative shall not bind the District or direct District government employees and the terms of the contract shall be approved by the Director and, if applicable, the Council.</text>
       </para>
