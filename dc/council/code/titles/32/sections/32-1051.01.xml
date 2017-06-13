@@ -1,4 +1,4 @@
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:applicability="notfunded" containing-doc="D.C. Code">
   <num>32-1051.01</num>
   <heading>Definitions.</heading>
   <text>For the purposes of <cite path="32|10A">this chapter</cite>, the term:</text>
@@ -55,7 +55,12 @@
     <num>(7)</num>
     <text>"Work week" means a fixed regularly recurring period of 168 hours or 7 consecutive 24-hour periods.</text>
   </para>
+  <div/>
   <annotations>
+    <annotation app="2016-10-08" doc="D.C. Law 21-157" eff="2016-10-08" path="§2" type="History"/>
+    <annotation type="Editor's Notes" app="2016-10-08" eff="2016-10-08" doc="D.C. Law 21-157" path="§2">
+       Applicability of <cite doc="D.C. Law 21-157" path="">D.C. Law 21-157</cite>: <cite doc="D.C. Law 21-157" path="§18">§ 18 of D.C. Law 21-157</cite> provided that the creation of this section by <cite doc="D.C. Law 21-157" path="§2">§ 2 of D.C. Law 21-157</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-157" eff="2016-10-08" path="§2" type="History"/>
   </annotations>
 </section>

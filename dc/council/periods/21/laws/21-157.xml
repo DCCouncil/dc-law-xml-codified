@@ -80,6 +80,11 @@
       <num>(7)</num>
       <text>"Work week" means a fixed regularly recurring period of 168 hours or 7 consecutive 24-hour periods.</text>
     </para>
+    <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+      <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-157" path="">D.C. Law 21-157</cite>: <cite doc="D.C. Law 21-157" path="§18">§ 18 of D.C. Law 21-157</cite> provided that the creation of this section by <cite doc="D.C. Law 21-157" path="§2">§ 2 of D.C. Law 21-157</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+    </div>
   </section>
   <section>
     <codify:organic num-value="32-1051.02"/>
@@ -933,6 +938,7 @@
     <para>
       <num>(a)</num>
       <text><code-cite doc="D.C. Code" path="|32|10A">this act</code-cite> shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability path="§32-1051.01" date="notfunded" history="false"/>
     </para>
     <para>
       <num>(b)</num>
@@ -947,10 +953,13 @@
       <para>
         <num>(2)</num>
         <text>The date of publication of the notice of the certification shall not affect the applicability of  <code-cite doc="D.C. Code" path="|32|10A">this act</code-cite>.</text>
-        <text>Sec. .  Fiscal impact statement.</text>
-        <text>The Council adopts the fiscal impact statement in the committee report as the fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).</text>
       </para>
     </para>
+  </section>
+  <section>
+    <num>19</num>
+    <heading>Sec. .  Fiscal impact statement.</heading>
+    <text>The Council adopts the fiscal impact statement in the committee report as the fiscal impact statement required by section 4a of the General Legislative Procedures Act of 1975, approved October 16, 2006 (120 Stat. 2038; D.C. Official Code § 1-301.47a).</text>
   </section>
   <section>
     <num>20</num>
