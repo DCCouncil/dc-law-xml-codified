@@ -87,12 +87,7 @@
         <para>
           <num>(A)</num>
           <text>The existing text is designated as paragraph (1).</text>
-          <codify:replace path="text">
-            <para>
-              <num>(1)</num>
-              <text>The absence of a minor covered by § <cite path="§38-202">38-202</cite>(a) without valid excuse shall be unlawful.</text>
-            </para>
-          </codify:replace>
+          <codify:redesignate-para num-value="(1)"/>
         </para>
         <para>
           <num>(B)</num>
