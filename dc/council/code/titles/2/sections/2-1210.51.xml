@@ -1,24 +1,13 @@
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:applicability="notfunded" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <reason>Not Funded</reason>
   <num>2-1210.51</num>
   <heading>Definitions.</heading>
-  <text>For the purposes of <cite path="2|12|V-C">this subchapter</cite>, the term:</text>
-  <para>
-    <num>(1)</num>
-    <text>"DOES" means the Department of Employment Services.</text>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>"DSLBD" means the Department of Small and Local Business Development.</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>"Fund" means the Incarceration to Incorporation Entrepreneurship Fund established by <cite path="§2-1210.53">§ 2-1210.53</cite></text>
-  </para>
-  <para>
-    <num>(4)</num>
-    <text>"IIEP" means the Incarceration to Incorporation Entrepreneurship Program established by <cite path="§2-1210.52">§ 2-1210.52</cite></text>
-  </para>
+  <text>[Not Funded].</text>
   <annotations>
+    <annotation app="notfunded" doc="D.C. Law 21-159" eff="2016-10-08" path="§2" type="History"/>
+    <annotation type="Editor's Notes" app="2016-10-08" eff="2016-10-08" doc="D.C. Law 21-159" path="§2">
+       Applicability of <cite doc="D.C. Law 21-159" path="">D.C. Law 21-159</cite>: <cite doc="D.C. Law 21-159" path="§6">§ 6 of D.C. Law 21-159</cite> provided that the creation of this section by <cite doc="D.C. Law 21-159" path="§2">§ 2 of D.C. Law 21-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-159" eff="2016-10-08" path="§2" type="History"/>
   </annotations>
 </section>

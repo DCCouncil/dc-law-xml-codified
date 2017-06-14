@@ -1,4 +1,4 @@
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-159">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-159" codify:applicability="notfunded">
   <codify:organic doc="D.C. Code" path="2|12" num-value="V-C" after="V-B" heading-value="Incarceration to Incorporation Entrepreneurship Program." prefix-value="Subchapter" tag="container" technical="true" history="false"/>
   <num type="law">21-159</num>
   <num type="bill">21-463</num>
@@ -43,6 +43,11 @@
       <num>(4)</num>
       <text>"IIEP" means the Incarceration to Incorporation Entrepreneurship Program established by <code-cite doc="D.C. Code" path="§2-1210.52">section 3.</code-cite></text>
     </para>
+    <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+      <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-159" path="">D.C. Law 21-159</cite>: <cite doc="D.C. Law 21-159" path="§6">§ 6 of D.C. Law 21-159</cite> provided that the creation of this section by <cite doc="D.C. Law 21-159" path="§2">§ 2 of D.C. Law 21-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+    </div>
   </section>
   <section>
     <codify:organic num-value="2-1210.52"/>
@@ -222,6 +227,11 @@
       <num>(f)</num>
       <text>The Fund shall be subject to a yearly audit by the Office of the District of Columbia Auditor and the Office of the Chief Financial Officer.</text>
     </para>
+    <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+      <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-159" path="">D.C. Law 21-159</cite>: <cite doc="D.C. Law 21-159" path="§6">§ 6 of D.C. Law 21-159</cite> provided that the creation of this section by <cite doc="D.C. Law 21-159" path="§4">§ 4 of D.C. Law 21-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+    </div>
   </section>
   <section>
     <codify:organic num-value="2-1210.54"/>
@@ -259,15 +269,20 @@
       <num>(c)</num>
       <text>IIEP participants may expressly authorize that their anonymity be preserved in the report.</text>
     </para>
+    <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+      <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-159" path="">D.C. Law 21-159</cite>: <cite doc="D.C. Law 21-159" path="§6">§ 6 of D.C. Law 21-159</cite> provided that the creation of this section by <cite doc="D.C. Law 21-159" path="§5">§ 5 of D.C. Law 21-159</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+    </div>
   </section>
-  <section>
+  <section codify:applicability="effective">
     <codify:organic num-value="2-1210.55"/>
     <num>6</num>
     <heading>Applicability.</heading>
     <para>
       <num>(a)</num>
       <text><code-cite doc="D.C. Code" path="|2|12|V-C">this act</code-cite> shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability path="§2-1210.51" date="notfunded" history="false"/>
+      <codify:applicability doc="D.C. Law 21-159" date="notfunded" history="false"/>
     </para>
     <para>
       <num>(b)</num>
