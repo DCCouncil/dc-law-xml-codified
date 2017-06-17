@@ -1,6 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-119" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
-  <codify:organic doc="D.C. Code" heading-value="Walter Reed Development" num-value="XV" path="2|12" technical="true" tag="container" prefix-value="Subchapter" history="false" />
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-119">
+  <codify:organic doc="D.C. Code" heading-value="Walter Reed Development" num-value="XV" path="2|12" technical="true" tag="container" prefix-value="Subchapter" history="false"/>
   <num type="law">21-119</num>
   <num type="bill">21-474</num>
   <num type="act">21-357</num>
@@ -13,8 +12,8 @@
       <citation type="register">63 DCR 4678</citation>
     </citations>
     <history>
-      <vote date="2016-02-16" reading="First" />
-      <vote date="2016-03-01" reading="Final" />
+      <vote date="2016-02-16" reading="First"/>
+      <vote date="2016-03-01" reading="Final"/>
       <enacted>2016-03-25</enacted>
       <summary>Law 21-119 relates to the acquisition and disposition of real property located within the boundaries of Fern Street, N.W., and Alaska Avenue, N.W., to the north, 16th Street, N.W., to the west, Aspen Street, N.W., to the south, and Georgia Avenue, N.W. to the eaast, known as Walter Reed Army Medical Center.  It establishes a Walter Reed Reuse Plan, which includes expanding retail opportunities, creation of jobs, and housing options.</summary>
       <committee>Committee of the Whole</committee>
@@ -24,7 +23,7 @@
     <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Walter Reed Development Omnibus Act of 2016".</text>
   </section>
   <section>
-    <codify:organic num-value="2-1227.01" />
+    <codify:organic num-value="2-1227.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of <code-cite doc="D.C. Law 21-119">this act</code-cite>, the term:</text>
@@ -107,7 +106,7 @@
     </para>
   </section>
   <section>
-    <codify:organic num-value="2-1227.02" />
+    <codify:organic num-value="2-1227.02"/>
     <num>3</num>
     <heading>Findings.</heading>
     <para>
@@ -188,14 +187,14 @@
     </para>
   </section>
   <section>
-    <codify:organic num-value="2-1227.03" />
+    <codify:organic num-value="2-1227.03"/>
     <num>4</num>
     <heading>EDC Agreement approval.</heading>
     <text>Consistent with 
       <code-cite doc="Pub. L. 93-198" path="§451|(b)">section 451(b) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 803; D.C. Official Code § 1-204.51(b))</code-cite>, the Mayor shall transmit the EDC Agreement to the Council for its approval.</text>
   </section>
   <section>
-    <codify:organic num-value="2-1227.04" />
+    <codify:organic num-value="2-1227.04"/>
     <num>5</num>
     <heading>Approval of disposition of Walter Reed Redevelopment Site.</heading>
     <text>Notwithstanding 
@@ -218,7 +217,7 @@
     </para>
   </section>
   <section>
-    <codify:organic num-value="2-1227.05" />
+    <codify:organic num-value="2-1227.05"/>
     <num>6</num>
     <heading>Walter Reed Reinvestment Fund.</heading>
     <para>
@@ -318,7 +317,7 @@
     </para>
   </section>
   <section>
-    <codify:organic num-value="2-1227.06" />
+    <codify:organic num-value="2-1227.06"/>
     <num>7</num>
     <heading>Walter Reed Redevelopment Fund.</heading>
     <para>
@@ -357,19 +356,19 @@
     <para>
       <num>(a)</num>
       <text>Paragraph (7) is amended by striking the word "or" at the end.</text>
-      <codify:find-replace count="1" find="or" path="(7)" position="last" replace="" />
+      <codify:find-replace count="1" find="or" path="(7)" position="last" replace=""/>
     </para>
     <para>
       <num>(b)</num>
       <text>Paragraph (8) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-      <codify:find-replace count="1" find="." path="(8)" position="last" replace="; or" />
+      <codify:find-replace count="1" find="." path="(8)" position="last" replace="; or"/>
     </para>
     <para>
       <num>(c)</num>
       <text>A new paragraph (9) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert />
+          <codify:insert/>
           <num>(9)</num>
           <text technical="true">Located on the Water Reed Redevelopment Site, for so long as the building and the land on which the building sits is subject to the ground lease to the Developer.</text>
         </para>

@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-1215.04</num>
   <heading>Establishment of Business Improvement District.</heading>
   <para>
@@ -96,31 +95,19 @@
     <annotation doc="D.C. Law 20-161" type="History">Feb. 26, 2015, D.C. Law 20-161, § 2(d), 61 DCR 10741</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-1215.05">2-1215.05</cite>, § <cite path="§2-1215.06">2-1215.06</cite>, § <cite path="§2-1215.15">2-1215.15</cite>, § <cite path="§2-1215.51">2-1215.51</cite>, § <cite path="§2-1215.57">2-1215.57</cite>, § <cite path="§2-1215.58">2-1215.58</cite>, and § <cite path="§2-1215.59">2-1215.59</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-2274.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-213">D.C. Law 13-213</cite> rewrote subsec. (b) which prior thereto read:</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-213">D.C. Law 13-213</cite> rewrote subsec. (b) which prior thereto read:</annotation>
     <annotation type="Effect of Amendments">“(b) With respect to areas outside the central employment area and Georgetown, a BID may be established if the requirements of subsection (a)(2)-(8) of this section are met, if the statement is signed by at least 51% of the number of commercial tenants occupying nonexempt real properties in the geographic area of the proposed BID, and if owners who own at least 51% of the interest in the assessed value of the commercial properties within the proposed BID area and owners who own at least 51% of the individual properties within the proposed BID area agree to do so.”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-183">D.C. Law 14-183</cite> added subsec. (c-1).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-198">D.C. Law 14-198</cite>, in subsec. (c), substituted “Fourteen” for “Twelve” in pars. (1), (2), and (4), and substituted “Fifty” for “Sixty” in par. (3).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-268">D.C. Law 14-268</cite> added subsec. (e-2).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-105">D.C. Law 15-105</cite> validated previously made technical corrections.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-257">D.C. Law 15-257</cite> rewrote the section.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-56">D.C. Law 16-56</cite>, in subsec. (b), substituted “Mount Vernon Triangle, or Adams Morgan” for “or Mount Vernon Triangle”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-91">D.C. Law 16-91</cite> made a technical change in the enacting clause of <cite doc="D.C. Law 15-257">D.C. Law 15-257</cite> which resulted in no change in text and, in subpar. (a)(5)(C), validated previously made technical corrections.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-245">D.C. Law 16-245</cite> substituted “Adams Morgan, or NoMa” for “or Adams Morgan”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-27">D.C. Law 17-27</cite>, in subsec. (b), substituted “NoMa, or Capitol Riverfront” for “or NoMa”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-99">D.C. Law 18-99</cite>, in subsec. (b), substituted “Capital Riverfront, or Anacostia” for “or Capital Riverfront”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-363">D.C. Law 18-363</cite>, in subsec. (a)(1), substituted “Real Property Tax Appeals Commission for the District of Columbia” for “District’s Board of Real Property Assessments and Appeals”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-183">D.C. Law 14-183</cite> added subsec. (c-1).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-198">D.C. Law 14-198</cite>, in subsec. (c), substituted “Fourteen” for “Twelve” in pars. (1), (2), and (4), and substituted “Fifty” for “Sixty” in par. (3).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-268">D.C. Law 14-268</cite> added subsec. (e-2).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite> validated previously made technical corrections.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-257">D.C. Law 15-257</cite> rewrote the section.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-56">D.C. Law 16-56</cite>, in subsec. (b), substituted “Mount Vernon Triangle, or Adams Morgan” for “or Mount Vernon Triangle”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-91">D.C. Law 16-91</cite> made a technical change in the enacting clause of <cite doc="D.C. Law 15-257">D.C. Law 15-257</cite> which resulted in no change in text and, in subpar. (a)(5)(C), validated previously made technical corrections.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-245">D.C. Law 16-245</cite> substituted “Adams Morgan, or NoMa” for “or Adams Morgan”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-27">D.C. Law 17-27</cite>, in subsec. (b), substituted “NoMa, or Capitol Riverfront” for “or NoMa”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-99">D.C. Law 18-99</cite>, in subsec. (b), substituted “Capital Riverfront, or Anacostia” for “or Capital Riverfront”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-363">D.C. Law 18-363</cite>, in subsec. (a)(1), substituted “Real Property Tax Appeals Commission for the District of Columbia” for “District’s Board of Real Property Assessments and Appeals”.</annotation>
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-136">D.C. Law 20-136</cite> added “or Southwest” in (b).</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-161">D.C. Law 20-161</cite> substituted “Department of Small and Local Business Development, or a successor thereto” for “Deputy City Administrator for Business Services and Economic Development” in the introductory language of (a); in (a)(1), substituted “taxable properties” for “nonexempt real properties” and “nonexempt properties,” and substituted “assessing BID” for “assessing and levying any BID”; substituted “taxable property” for “nonexempt real property” in (a)(1) and (a)(6); and repealed (b).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2 of the Business Improvement Districts Temporary Amendment Act of 1997 (<cite doc="D.C. Law 12-23">D.C. Law 12-23</cite>, September 23, 1997, law notification  44 DCR 5762).</annotation>
@@ -148,6 +135,6 @@
     <annotation type="Emergency Legislation">For  temporary (90 days) amendment of this section, see § 2(b) of the Southwest Business Improvement District Emergency Amendment Act of 2014 (D.C. Act 20-410, Aug. 1, 2014,  61 DCR 8299).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2(d) of the  Business Improvement Districts Emergency Amendment Act of 2014 (D.C. Act 20-435, Oct. 7, 2014, 61 DCR 10717, 20 STAT 4154).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2(d) of the  Business Improvement Districts Congressional Review Emergency Amendment Act of 2014 (D.C. Act 20-582, Jan. 13, 2015, 62 DCR 1269, 21 STAT 735).</annotation>
-    <annotation type="Delegation of Authority">Delegation of authority pursuant to <cite doc="D.C. Law 11-34">D.C. Law 11-34</cite><cite doc="D.C. Law 11-134">D.C. Law 11-134</cite>, the “Business Improvement Districts Act of 1996”, see Mayor’s Order 97-129, July 17, 1997 ( 44 DCR 4543).</annotation>
+    <annotation type="Delegation of Authority">Delegation of authority pursuant to <cite doc="D.C. Law 11-34">D.C. Law 11-34</cite> <cite doc="D.C. Law 11-134">D.C. Law 11-134</cite>, the “Business Improvement Districts Act of 1996”, see Mayor’s Order 97-129, July 17, 1997 ( 44 DCR 4543).</annotation>
   </annotations>
 </section>

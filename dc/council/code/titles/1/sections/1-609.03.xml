@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-609.03</num>
   <heading>Number of Excepted Service employees; redelegation of authority to appoint; publication requirement.</heading>
   <para>
@@ -171,31 +170,20 @@
     <annotation doc="D.C. Law 20-61" type="History">Dec. 24, 2013, D.C. Law 20-61, §§ 1072(a), 4062, 60 DCR 12472</annotation>
     <annotation doc="D.C. Law 20-267" type="History">May 2, 2015, D.C. Law 20-267, § 2(b), 62 DCR 1543</annotation>
     <annotation doc="D.C. Law 21-36" type="History">Oct. 22, 2015, D.C. Law 21-36, §§  1033(d), 3032, 62 DCR 10905</annotation>
-    <annotation type="Cross References">
-      <cite doc="D.C. Law 19-284">D.C. Law 19-284</cite> is published at 20 DCSTAT 927.</annotation>
-    <annotation type="Cross References">
-      <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> is published at 20 DCSTAT 2229.</annotation>
+    <annotation type="Cross References"><cite doc="D.C. Law 19-284">D.C. Law 19-284</cite> is published at 20 DCSTAT 927.</annotation>
+    <annotation type="Cross References"><cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> is published at 20 DCSTAT 2229.</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§1-604.06">1-604.06</cite>, § <cite path="§1-608.01a">1-608.01a</cite>, § <cite path="§1-609.02">1-609.02</cite>, § <cite path="§1-609.58">1-609.58</cite>, § <cite path="§1-611.11">1-611.11</cite>, and § <cite path="§1-1161.01">1-1161.01</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-610.3.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-339.3.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-27">D.C. Law 13-27</cite> added subsec. (h).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-52">D.C. Law 13-52</cite>, in subsec. (f), added “provided that, the individual has been a District government employee for at least one year prior to the separation; otherwise the separation pay shall not exceed 4 weeks of the agency head’s basic pay”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-172">D.C. Law 13-172</cite>, in subsec. (a), inserted par. (3A).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-28">D.C. Law 14-28</cite>, in subsec. (a)(2), substituted a period for a semicolon at the end of the third sentence and inserted “In addition to the 220 Excepted Service positions, and notwithstanding any other law or regulation, the Chief of the Fire and Emergency Medical Services Department may designate up to 11 positions as Excepted Service policy positions, no more than 4 of which may be filled by sworn members;”; and added subsecs. (a)(6B) and (6C).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-190">D.C. Law 15-190</cite>, in par. (6C) of subsec. (a), substituted “District of Columbia Sentencing Commission” for “Advisory Commission on Sentencing”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-91">D.C. Law 16-91</cite>, in subsec. (a)(3), substituted “General Counsel and those in the Legal Service” for “General Counsel”; and repealed subsec. (a)(6), which had read as follows: “(6) The District of Columbia General Hospital Commission may appoint 10 persons;”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-126">D.C. Law 16-126</cite>, in subsec. (a)(6C), substituted “Sentencing and Criminal Code Revision Commission” for “Sentencing Commission”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-122">D.C. Law 17-122</cite> rewrote subsec. (a)(4), which had read as follows: “(4) The District of Columbia Board of Education may appoint 25 persons;”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-115">D.C. Law 19-115</cite> rewrote subsecs. (a), (c), (f), and (g).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-27">D.C. Law 13-27</cite> added subsec. (h).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-52">D.C. Law 13-52</cite>, in subsec. (f), added “provided that, the individual has been a District government employee for at least one year prior to the separation; otherwise the separation pay shall not exceed 4 weeks of the agency head’s basic pay”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-172">D.C. Law 13-172</cite>, in subsec. (a), inserted par. (3A).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-28">D.C. Law 14-28</cite>, in subsec. (a)(2), substituted a period for a semicolon at the end of the third sentence and inserted “In addition to the 220 Excepted Service positions, and notwithstanding any other law or regulation, the Chief of the Fire and Emergency Medical Services Department may designate up to 11 positions as Excepted Service policy positions, no more than 4 of which may be filled by sworn members;”; and added subsecs. (a)(6B) and (6C).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-190">D.C. Law 15-190</cite>, in par. (6C) of subsec. (a), substituted “District of Columbia Sentencing Commission” for “Advisory Commission on Sentencing”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-91">D.C. Law 16-91</cite>, in subsec. (a)(3), substituted “General Counsel and those in the Legal Service” for “General Counsel”; and repealed subsec. (a)(6), which had read as follows: “(6) The District of Columbia General Hospital Commission may appoint 10 persons;”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-126">D.C. Law 16-126</cite>, in subsec. (a)(6C), substituted “Sentencing and Criminal Code Revision Commission” for “Sentencing Commission”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-122">D.C. Law 17-122</cite> rewrote subsec. (a)(4), which had read as follows: “(4) The District of Columbia Board of Education may appoint 25 persons;”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-115">D.C. Law 19-115</cite> rewrote subsecs. (a), (c), (f), and (g).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-284">D.C. Law 19-284</cite> added (a)(10); redesignated former (a)(10) as (a)(11); and substituted “paragraphs (1) through (10)” for “paragraphs (1) through (9)” in (a)(11).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>, § 1072(a), deleted “no more than 2 of whom may be appointed or detailed to a single agency, other than the Executive Office of the Mayor or the Office of the City Administrator” following “persons” in (a)(1); and substituted “10 persons” for “6 persons” in (a)(9).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite>, § 4062, rewrote (a)(10).</annotation>

@@ -1,15 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <reason>Not Funded</reason>
   <num>8-651.04a</num>
   <heading>Protection of Heritage Trees.</heading>
   <text>[Not Funded].</text>
   <annotations>
-    <annotation app="2003-06-12" doc="D.C. Law 14-309" eff="2003-06-12" path="§104a" type="History" />
-    <annotation app="notfunded" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(c)" prefix="as added" type="History" />
-    <annotation type="Editor's Notes" path="§104a" app="2016-07-01" eff="2016-07-01">
-      <cite doc="D.C. Law 21-133" path="§4">§ 4 of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(c)">§ 2(c) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+    <annotation app="2003-06-12" doc="D.C. Law 14-309" eff="2003-06-12" path="§104a" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(c)" prefix="as added" type="History"/>
+    <annotation type="Editor's Notes" path="§2|(c)" app="2016-07-01" eff="2016-07-01" doc="D.C. Law 21-133">
+       Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4">§ 4 of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(c)">§ 2(c) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
       </annotation>
-    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(c)" type="History" />
+    <annotation app="2016-07-01" doc="D.C. Law 21-133" eff="2016-07-01" path="§2|(c)" type="History"/>
   </annotations>
 </section>

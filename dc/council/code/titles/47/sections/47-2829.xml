@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-2829</num>
   <heading>Vehicles for hire; identification tags on vehicles; vehicles for school children; ambulances, private vehicles for funeral purposes; issuance of licenses; payment of fees.</heading>
   <para>
@@ -73,7 +72,7 @@
       <text>Upon March 15, 1985, the following additional licensing requirements shall apply to all persons who apply for a license to operate any public vehicle-for-hire licensed under the terms of subsections (d) and (h) of this section:</text>
       <para>
         <num>(A)</num>
-        <text>Completion of the primary public passenger vehicle-for-hire license training course as established by the Department of For-Hire Vehicles for a fee of no less than $100 per person. Upon completion of the course, the applicant shall be issued a certificate of completion that shall include the date of completion and shall be presented to the Office of Client Services of the Department of For-Hire Vehicles with the application for a license. Before issuing the certificate, each person shall have passed an examination consisting of the subject matters taught in the course and an evaluation of the person’s English communication skills. At a minimum, the training course shall be designed to develop the applicant’s knowledge of the following:</text>
+        <text>Completion of the primary public passenger vehicle-for-hire license training course as established by the Department of For-Hire Vehicles for a fee of no less than $100 per person. Upon completion of the course, the applicant shall be issued a certificate of completion that shall include the date of completion and shall be presented to the Office of Client Services of the Department of For-Hire Vehicles with the application for a license. Before issuing the certificate, each person shall have passed an examination consisting of the subject matters taught in the course and an evaluation of the person’s English communication skills. At a minimum, the training course and any refresher course provided by the Department of For-Hire Vehicles shall be designed to develop the applicant’s knowledge of the following:</text>
         <para>
           <num>(i)</num>
           <text>The geography of the District, with particular emphasis on major streets throughout the District, significant government buildings, attractions, and tourist sites, and historical knowledge of the District;</text>
@@ -84,7 +83,19 @@
         </para>
         <para>
           <num>(iii)</num>
-          <text>District traffic laws and regulations, including the rights and duties of motorists, pedestrians, and bicyclists and the penalties for violating these laws and regulations;</text>
+          <text>District traffic laws and regulations and the penalties for violating these laws and regulations, including:</text>
+          <para>
+            <num>(I)</num>
+            <text>The rights and duties of motorists, which include not blocking the crosswalk or intersection, and not driving or stopping in a bicycle lane;</text>
+          </para>
+          <para>
+            <num>(II)</num>
+            <text>The rights and duties of pedestrians; and</text>
+          </para>
+          <para>
+            <num>(III)</num>
+            <text>The rights and duties of bicyclists.</text>
+          </para>
         </para>
         <para>
           <num>(iv)</num>
@@ -267,18 +278,12 @@
     <annotation type="Section References">This section is referenced in § <cite path="§7-1703">7-1703</cite>, § <cite path="§34-912">34-912</cite>, § <cite path="§47-2313">47-2313</cite>, § <cite path="§47-2853.04">47-2853.04</cite>, § <cite path="§50-303">50-303</cite>, § <cite path="§50-307">50-307</cite>, § <cite path="§50-320">50-320</cite>, § <cite path="§50-329.02">50-329.02</cite>, § <cite path="§50-331">50-331</cite>, § <cite path="§50-1401.01">50-1401.01</cite>, and § <cite path="§50-1501.03">50-1501.03</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 47-2829.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 47-2331.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-38">D.C. Law 15-38</cite>, in subsec. (h), substituted “an Inspected Sales and Services endorsement to a basic business license under the basic” for “a Class A Inspected Sales and Services endorsement to a master business license under the master”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-175">D.C. Law 16-175</cite> repealed subsec. (c).:</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-279">D.C. Law 16-279</cite>, rewrote subsec. (a); repealed subsec. (c); and in subsec. (d), deleted the last sentence which had read as follows: “Annual licenses required by this subsection shall be issued by the Department of Public Works.” Subsection (c), was previously repealed by Law 16-175.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-294">D.C. Law 16-294</cite> made a technical correction that resulted in no change in text.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in the repeal of subsec. (c).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsec. (e)(1), substituted “$75” for “$35” and “$200” for “$100”; and, in subsec. (i), substituted “$75” for “$5” and “$200” for “$100”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-38">D.C. Law 15-38</cite>, in subsec. (h), substituted “an Inspected Sales and Services endorsement to a basic business license under the basic” for “a Class A Inspected Sales and Services endorsement to a master business license under the master”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-175">D.C. Law 16-175</cite> repealed subsec. (c).:</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-279">D.C. Law 16-279</cite>, rewrote subsec. (a); repealed subsec. (c); and in subsec. (d), deleted the last sentence which had read as follows: “Annual licenses required by this subsection shall be issued by the Department of Public Works.” Subsection (c), was previously repealed by Law 16-175.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-294">D.C. Law 16-294</cite> made a technical correction that resulted in no change in text.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated a previously made technical correction in the repeal of subsec. (c).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsec. (e)(1), substituted “$75” for “$35” and “$200” for “$100”; and, in subsec. (i), substituted “$75” for “$5” and “$200” for “$100”.</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-184">D.C. Law 19-184</cite> substituted “an amount set by the District of Columbia Taxicab Commission” for “$25 or an amount set by the District of Columbia Taxicab Commission, but in no event to exceed $100” in (d); rewrote (e) and (e-1); substituted “where applicable” for “and any points assessed against the licensee in accordance with subsection (e-1) of this section; where applicable” in (e-2); substituted “Commission” for “Commission’s Panel on Rates and Rules” in (e-3); in (e-4), substituted “regular mail” for “registered mail” in the first sentence, deleted “which shall come before the Council of the District of Columbia (’Council’) for a 45-day period of review, excluding Saturdays, Sundays, holidays, and days of Council recess” from the end of the third sentence, and deleted fourth sentence; rewrote the first sentence in (h); substituted “license fee of an amount set by the Mayor” for “license fee of $75 or an amount set by the Mayor, but in no event to exceed $200” in (i); and added (j)(1) to (j)(3).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-270">D.C. Law 19-270</cite> added (j)(4) and (j)(5).</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-197">D.C. Law 20-197</cite> added (k) and (l).</annotation>
@@ -296,26 +301,28 @@
     <annotation type="Emergency Legislation">For temporary (90 days) repeal of <cite doc="D.C. Law 19-270">D.C. Law 19-270</cite>, § 5, see 7017 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
     <annotation type="Effective Dates">Section 24(b) of <cite doc="D.C. Law 6-97">D.C. Law 6-97</cite> provided that §§ 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, and 23 shall take effect 1 year after March 25, 1986.</annotation>
     <annotation type="Short Title">Section 7001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle A of Title VII of the act may be cited as the “Subject to Appropriations Repealers Amendment Act of 2013”.</annotation>
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(1)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(2)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(3)|(A)|(i)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(3)|(A)|(ii)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(3)|(B)|(i)|(I)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(3)|(B)|(i)|(II)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(3)|(B)|(ii)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(4)|(A)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(4)|(B)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(4)|(C)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(5)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(6)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(7)|(A)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(7)|(B)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(8)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(9)|(A)|(i)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(9)|(A)|(ii)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(9)|(B)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(9)|(C)|(i)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(9)|(C)|(ii)" type="History" />
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(9)|(D)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(1)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(2)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(3)|(A)|(i)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(3)|(A)|(ii)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(3)|(B)|(i)|(I)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(3)|(B)|(i)|(II)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(3)|(B)|(ii)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(4)|(A)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(4)|(B)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(4)|(C)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(5)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(6)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(7)|(A)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(7)|(B)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(8)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(9)|(A)|(i)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(9)|(A)|(ii)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(9)|(B)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(9)|(C)|(i)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(9)|(C)|(ii)" type="History"/>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§501|(d)|(9)|(D)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§601|(a)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§601|(b)" type="History"/>
   </annotations>
 </section>

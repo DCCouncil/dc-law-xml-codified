@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-361.06</num>
   <heading>Rules.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>The CPO, pursuant to subchapter I of Chapter 5 of this title [§ <cite path="§2-501">2-501</cite> et seq.], shall issue rules to implement the provisions of this chapter, except subchapter VI of this chapter.</text>
+      <text>The CPO, pursuant to subchapter I of Chapter 5 of this title [§ <cite path="§2-501">2-501</cite> et seq.], shall issue rules to implement the provisions of <cite path="2|3A">this chapter</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The Department of Real Estate Services, pursuant to subchapter I of Chapter 5 of this title [§ <cite path="§2-501">2-501</cite> et seq.], shall issue rules to implement the provisions of subchapter VI of this chapter.</text>
+      <text>Notwithstanding paragraph (1) of this subsection, the Department of General Services, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of this title</cite>, shall issue rules to implement the provisions of <cite path="2|3A|VI">subchapter VI of this chapter</cite> for contracts within the authority of the Department of General Services.
+            </text>
     </para>
   </para>
   <para>
@@ -23,5 +23,7 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-371" type="History" path="§1106">Apr. 8, 2011, D.C. Law 18-371, § 1106, 58 DCR 1185</annotation>
+    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(s)|(1)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(s)|(2)" type="History"/>
   </annotations>
 </section>

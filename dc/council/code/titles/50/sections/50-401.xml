@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-401</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
@@ -41,7 +40,6 @@
     <annotation doc="D.C. Law 8-161" type="History" path="§2">Sept. 20, 1990, D.C. Law 8-161, § 2, 37 DCR 4665</annotation>
     <annotation doc="D.C. Law 13-289" type="History">Apr. 27, 2001, D.C. Law 13-289, § 501(a), 48 DCR 2057</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-1801.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-289">D.C. Law 13-289</cite> added par. (5).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-289">D.C. Law 13-289</cite> added par. (5).</annotation>
   </annotations>
 </section>

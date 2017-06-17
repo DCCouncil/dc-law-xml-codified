@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <reason>Repealed</reason>
   <num>6-601.01</num>
   <heading>Nonfireproof dwellings.</heading>
@@ -12,6 +11,6 @@
     <annotation type="Section References">This section is referenced in § <cite path="§6-601.04">6-601.04</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 5-401.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 5-401.</annotation>
-    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§7|(a)|(1)" type="History" />
+    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§7|(a)|(1)" type="History"/>
   </annotations>
 </section>

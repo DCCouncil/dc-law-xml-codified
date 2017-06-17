@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-1803.02</num>
   <heading>Gross income — Items included and excluded; “adjusted gross income” defined.</heading>
   <para>
@@ -268,36 +267,22 @@
     <annotation type="Section References">This section is referenced in § <cite path="§4-1701.01">4-1701.01</cite>, § <cite path="§42-2851.05">42-2851.05</cite>, § <cite path="§47-1806.06">47-1806.06</cite>, § <cite path="§47-1806.09">47-1806.09</cite>, § <cite path="§47-1809.10">47-1809.10</cite>, § <cite path="§47-1810.01">47-1810.01</cite>, and § <cite path="§47-1812.08">47-1812.08</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 47-1803.2.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 47-1557a.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-256">D.C. Law 13-256</cite> added subsec. (a)(2)(Q).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-114">D.C. Law 14-114</cite> added subsecs. (a)(2)(R), (S), (T) and (a)(3).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-165">D.C. Law 14-165</cite> added subsec. (a)(2)(U).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsec. (a)(2)(Q), validated previously made technical corrections.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (a)(2)(U), deleted “employment”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-33">D.C. Law 16-33</cite> added subsec. (a)(2)(V).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-59">D.C. Law 16-59</cite> added subsec. (a)(2)(W).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-294">D.C. Law 16-294</cite> added subsec. (a)(2)(X).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-305">D.C. Law 16-305</cite>, in subsec. (a)(2)(V), substituted “have a permanent and total disability” for “be permanently and totally disabled”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-55">D.C. Law 18-55</cite> added subsec. (a)(2)(Y).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> added subsecs. (a)(2)(Z) and (a-1).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-316">D.C. Law 18-316</cite> rewrote subsecs. (a)(2)(D) and (P), which formerly read:</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-256">D.C. Law 13-256</cite> added subsec. (a)(2)(Q).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-114">D.C. Law 14-114</cite> added subsecs. (a)(2)(R), (S), (T) and (a)(3).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-165">D.C. Law 14-165</cite> added subsec. (a)(2)(U).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsec. (a)(2)(Q), validated previously made technical corrections.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (a)(2)(U), deleted “employment”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-33">D.C. Law 16-33</cite> added subsec. (a)(2)(V).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-59">D.C. Law 16-59</cite> added subsec. (a)(2)(W).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-294">D.C. Law 16-294</cite> added subsec. (a)(2)(X).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite>, in subsec. (a)(2)(V), substituted “have a permanent and total disability” for “be permanently and totally disabled”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-55">D.C. Law 18-55</cite> added subsec. (a)(2)(Y).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite> added subsecs. (a)(2)(Z) and (a-1).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-316">D.C. Law 18-316</cite> rewrote subsecs. (a)(2)(D) and (P), which formerly read:</annotation>
     <annotation type="Effect of Amendments">“(D) The distributive share of a trade or business net income that is subject to the unincorporated business franchise tax imposed under subchapter VIII of this chapter.”</annotation>
     <annotation type="Effect of Amendments">“(P) In the case of any person entitled to a share in the income of any corporation which is a small business corporation as defined in  § 1371 of the Internal Revenue Code of 1954, making an election under  § 1372(a) of the Internal Revenue Code of 1954, or an S corporation as defined in § 1361(a) and (b) of the Internal Revenue Code of 1986, making an election under  § 1362(a) of the Internal Revenue Code of 1986, and which is subject to tax under the provisions of subchapter VII of this chapter, an amount equal to the pro rata share of the income, to the extent that the portion of the income so excluded is reported by and taxed against the corporation under the provisions of subchapter VII of this chapter.”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-331">D.C. Law 18-331</cite> added subsec. (a)(2)(AA).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> rewrote subsec. (a)(1); and added subsec. (a)(1A). Prior to amendment, subsec. (a)(1) read as follows: “(1) Interest upon the obligations of a state, territory of the United States, or any political subdivision thereof, but not including the District of Columbia, shall be included in the computation of District gross income; except, that individuals, estates and trusts shall not include interest on the obligations of the District of Columbia, a state, a territory of the United States, or any political subdivision thereof, in the computation of District gross income.”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-331">D.C. Law 18-331</cite> added subsec. (a)(2)(AA).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> rewrote subsec. (a)(1); and added subsec. (a)(1A). Prior to amendment, subsec. (a)(1) read as follows: “(1) Interest upon the obligations of a state, territory of the United States, or any political subdivision thereof, but not including the District of Columbia, shall be included in the computation of District gross income; except, that individuals, estates and trusts shall not include interest on the obligations of the District of Columbia, a state, a territory of the United States, or any political subdivision thereof, in the computation of District gross income.”</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite>, § 7152, substituted “January 1, 2013” for “October 1, 2011” in (a)(1)(B); and repealed (a)(1A).</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite>, § 8009(a), in (a)(1)(B), substituted “Individuals” for “For individuals,” substituted “shall not include interest on” for “interest upon,” added “the District of Columbia,” and deleted “but not including the District, acquired by the taxpayer on or after October 1, 2011, shall be included” following “subdivision thereof”; and made a stylistic change.</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> validated a previously made technical correction in (a)(2)(Z).</annotation>

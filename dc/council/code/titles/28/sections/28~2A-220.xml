@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:2A-220</num>
   <heading>Effect of default on risk of loss.</heading>
   <para>
@@ -19,12 +18,9 @@
     <text>Whether or not risk of loss is to pass to the lessee, if the lessee as to conforming goods already identified to a lease contract repudiates or is otherwise in default under the lease contract, the lessor, or, in the case of a finance lease, the supplier, to the extent of any deficiency in his or her effective insurance coverage may treat the risk of loss as resting on the lessee for a commercially reasonable time.</text>
   </para>
   <annotations>
-    <text type="Uniform Commercial Code Comment">
-      <strong>Uniform Statutory Source:</strong>Section 2-510.</text>
-    <text type="Uniform Commercial Code Comment">
-      <strong>Changes:</strong> Revised to reflect leasing practices and terminology. The rule in Section (1)(b) does not allow the lessee under a finance lease to treat the risk of loss as having remained with the supplier from the beginning. This is appropriate given the limited circumstances under which the lessee under a finance lease is allowed to revoke acceptance. Section 2A-517 and Section 2A-516 official comment.</text>
-    <text type="Uniform Commercial Code Comment">
-      <strong>Definitional Cross References:</strong> “Conforming”. Section 2A-103(1)(d).</text>
+    <text type="Uniform Commercial Code Comment"><strong>Uniform Statutory Source:</strong>Section 2-510.</text>
+    <text type="Uniform Commercial Code Comment"><strong>Changes:</strong> Revised to reflect leasing practices and terminology. The rule in Section (1)(b) does not allow the lessee under a finance lease to treat the risk of loss as having remained with the supplier from the beginning. This is appropriate given the limited circumstances under which the lessee under a finance lease is allowed to revoke acceptance. Section 2A-517 and Section 2A-516 official comment.</text>
+    <text type="Uniform Commercial Code Comment"><strong>Definitional Cross References:</strong> “Conforming”. Section 2A-103(1)(d).</text>
     <text type="Uniform Commercial Code Comment">“Delivery”.  Section 1-201(14).</text>
     <text type="Uniform Commercial Code Comment">“Finance lease”. Section 2A-103(1)(g).</text>
     <text type="Uniform Commercial Code Comment">“Goods”. Section 2A-103(1)(h).</text>

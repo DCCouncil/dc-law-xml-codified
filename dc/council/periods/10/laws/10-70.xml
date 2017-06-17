@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 10-70" flag="true" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 10-70" flag="true">
   <num type="law">10-70</num>
   <heading type="short">METROPOLITAN POLICE HOUSING ASSISTANCE PROGRAM AND COMMUNITY SAFETY ACT OF 1993</heading>
   <meta>
@@ -8,18 +7,18 @@
       <citation type="law" url="./docs/10-70.pdf">D.C. Law 10-70</citation>
       <citation type="register">40 DCR 7575</citation>
     </citations>
-    <history url="http://lims.dccouncil.us/Legislation/B10-0325" />
+    <history url="http://lims.dccouncil.us/Legislation/B10-0325"/>
   </meta>
   <section>
     <num>2</num>
-    <codified:at doc="D.C. Code" path="§42-2901" />
+    <codified:stub doc="D.C. Code" path="§42-2901"/>
   </section>
   <section>
     <num>3</num>
-    <codified:at doc="D.C. Code" path="§42-2902" />
+    <codified:stub doc="D.C. Code" path="§42-2902"/>
   </section>
   <section>
     <num>4</num>
-    <codified:at doc="D.C. Code" path="§42-2903" />
+    <codified:stub doc="D.C. Code" path="§42-2903"/>
   </section>
 </document>

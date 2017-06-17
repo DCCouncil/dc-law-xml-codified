@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-611.03</num>
   <heading>Compensation policy; compensatory time off; overtime pay.</heading>
   <para>
@@ -215,20 +214,13 @@
     <annotation type="Prior Codifications">1973 Ed., § 1-341.3.</annotation>
     <annotation type="Prior Codifications">Section 1002 of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> provided for bonus and special pay limitations for fiscal year 2014.</annotation>
     <annotation type="Prior Codifications">Applicability of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite>: Section 11001 of <cite doc="D.C. Law 20-155">D.C. Law 20-155</cite> provided that, except as otherwise provided, the act shall apply as of October 1, 2014.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-91">D.C. Law 13-91</cite>, in the introductory portion of subsec. (a), inserted “Legal,”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-28">D.C. Law 14-28</cite> added subsec. (f).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsec. (a), substituted “Excepted, and the Management Supervisory Services” for “and the Excepted Services”; and repealed par (6) of subsec. (a).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-207">D.C. Law 15-207</cite>, in the second sentence of subsec. (b), inserted “ 5 U.S.C. § 8331,” following “received by the reemployed individual pursuant to”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-135">D.C. Law 17-135</cite> added subsec. (a)(7).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsec. (f)(2); and added subsec. (f)(4). Prior to amendment, subsec. (f)(2) read as follows: “(2) Uniformed members of the Fire and Emergency Medical Services Department at the rank of Assistant Fire Chief and above shall not receive overtime compensation for work performed in excess of 40 hours in an administrative workweek and in excess of 48 hours in a workweek for those uniformed members of the Fire and Emergency Medical Services Department at the rank of Assistant Fire Chief and above in the Firefighting Division.”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (f)(2)(B), substituted “For fiscal years 2011 and 2012” for “For fiscal year 2011”; and rewrote subsec. (f)(4), which formerly read:</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite>, in the introductory portion of subsec. (a), inserted “Legal,”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-28">D.C. Law 14-28</cite> added subsec. (f).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsec. (a), substituted “Excepted, and the Management Supervisory Services” for “and the Excepted Services”; and repealed par (6) of subsec. (a).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-207">D.C. Law 15-207</cite>, in the second sentence of subsec. (b), inserted “ 5 U.S.C. § 8331,” following “received by the reemployed individual pursuant to”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-135">D.C. Law 17-135</cite> added subsec. (a)(7).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsec. (f)(2); and added subsec. (f)(4). Prior to amendment, subsec. (f)(2) read as follows: “(2) Uniformed members of the Fire and Emergency Medical Services Department at the rank of Assistant Fire Chief and above shall not receive overtime compensation for work performed in excess of 40 hours in an administrative workweek and in excess of 48 hours in a workweek for those uniformed members of the Fire and Emergency Medical Services Department at the rank of Assistant Fire Chief and above in the Firefighting Division.”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (f)(2)(B), substituted “For fiscal years 2011 and 2012” for “For fiscal year 2011”; and rewrote subsec. (f)(4), which formerly read:</annotation>
     <annotation type="Effect of Amendments">“(4) For fiscal year 2011, no officer or member of the Fire and Emergency Medical Services Department who is authorized to receive overtime compensation under this subsection may earn overtime in excess of $20,000 in the fiscal year.”</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> substituted “fiscal years 2011, 2012, and 2013” for “fiscal years 2011 and 2012” in (f)(2)(B) and (f)(4)(A); and added (f)(4)(C).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> rewrote (f)(2)(B); and substituted “2011, 2012, 2013, and 2014” for “2011, 2012, and 2013” in (f)(4)(A).</annotation>
@@ -317,8 +309,8 @@
     <annotation type="Effective Dates">Section 10 of <cite doc="D.C. Law 4-78">D.C. Law 4-78</cite> provided that the amendment effected by § 8(a) shall be deemed to have taken effect on October 1, 1981, and no employee affected by subsection (a)(2), as amended by the act, shall suffer a reduction in pay.</annotation>
     <annotation type="References in Text">The “Retired Police Officer Public Schools Security Personnel Deployment Amendment Act of 1994”, referred to in (b), is <cite doc="D.C. Law 10-136">D.C. Law 10-136</cite>, which is codified as this section, § <cite path="§5-762">5-762</cite>, and § <cite path="§5-723">5-723</cite>, and in notes to § <cite path="§5-762">5-762</cite> and this section.</annotation>
     <annotation type="Resolutions">Resolution 17-903, the “Operation Enduring Freedom and Operation Iraqi Freedom Active Duty Pay Differential Rulemaking Approval Resolution of 2008”, was approved effective December 16, 2008.</annotation>
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§211|(a)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§211|(b)" type="History" />
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§211|(a)" type="History"/>
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§211|(b)" type="History"/>
   </annotations>
   <para>
     <num>(g)</num>

@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-3131.06</num>
   <heading>Registration of vacant buildings.</heading>
   <para>
@@ -123,12 +122,9 @@
     <annotation doc="D.C. Law 17-216" type="History">Aug. 15, 2008, D.C. Law 17-216, § 3(c), 55 DCR 7500</annotation>
     <annotation doc="D.C. Law 18-223" type="History">Sept. 24, 2010, D.C. Law 18-223, § 2042(b), 57 DCR 6242</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§42-3131.09">42-3131.09</cite>, § <cite path="§42-3131.10">42-3131.10</cite>, § <cite path="§42-3131.14">42-3131.14</cite>, and § <cite path="§47-813">47-813</cite>.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-23">D.C. Law 16-23</cite>, in subsec. (b)(3), substituted “and if there is a valid building permit that was issued within 60 days of the required registration date;” for “and if there is a valid building permit that was issued within 60 days of the required registration date; provided, that the scope of the permit is not limited to electrical or plumbing work; provided further, that this exemption shall not exceed one year from the date of issuance of the first building permit for rehabilitation, renovation or repair;”; and, in subsec. (b)(4), substituted “the owner or his agent has been actively seeking to rent or sell it;” for “the owner or his agent has been actively seeking to rent or sell it; provided, that the time period for sale or rent shall not exceed one year from the initial listing, offer, or advertisement of sale, or 90 days from the initial listing, offer, or advertisement to rent;”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-216">D.C. Law 17-216</cite> rewrote the section.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsecs. (b) and (h).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-23">D.C. Law 16-23</cite>, in subsec. (b)(3), substituted “and if there is a valid building permit that was issued within 60 days of the required registration date;” for “and if there is a valid building permit that was issued within 60 days of the required registration date; provided, that the scope of the permit is not limited to electrical or plumbing work; provided further, that this exemption shall not exceed one year from the date of issuance of the first building permit for rehabilitation, renovation or repair;”; and, in subsec. (b)(4), substituted “the owner or his agent has been actively seeking to rent or sell it;” for “the owner or his agent has been actively seeking to rent or sell it; provided, that the time period for sale or rent shall not exceed one year from the initial listing, offer, or advertisement of sale, or 90 days from the initial listing, offer, or advertisement to rent;”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-216">D.C. Law 17-216</cite> rewrote the section.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> rewrote subsecs. (b) and (h).</annotation>
     <annotation type="Temporary Legislation">Section 3(c) of <cite doc="D.C. Law 16-259">D.C. Law 16-259</cite>, in subsec. (b), in par. (4), substituted “8 months” for “one year from the initial listing, offer, or advertisement of sale, or 90 days from the initial listing, offer, or advertisement to rent”; and amended pars. (3) and (5), and added pars. (6), (7), (8), and (9) to read as follows:</annotation>
     <annotation type="Temporary Legislation">“(3) Under active construction or undergoing active rehabilitation, renovation, or repair, and there is a valid building permit to make the building fit for occupancy that was issued, renewed, or extended within 12 months of the required registration date;”</annotation>
     <annotation type="Temporary Legislation">“(5) Exempted by the Mayor in his or her sole discretion; provided, that the exemption may be withdrawn upon notice in the same manner as if the building were designated as vacant under section 11;</annotation>
@@ -162,8 +158,8 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 3(c) of Nuisance Properties Abatement Reform and Real Property Classification Congressional Review Emergency Act of 2008 (D.C. Act 17-436, July 16, 2008,  55 DCR 8272).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2042(b) of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 8 of the Walter Reed Development Omnibus Emergency Act of 2016 (D.C. Act 21-349, Mar. 23, 2016,  63 DCR 4628).</annotation>
-    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§8|(a)" type="History" />
-    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§8|(b)" type="History" />
-    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§8|(c)" type="History" />
+    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§8|(a)" type="History"/>
+    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§8|(b)" type="History"/>
+    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§8|(c)" type="History"/>
   </annotations>
 </section>

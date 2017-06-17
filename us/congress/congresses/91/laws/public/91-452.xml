@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="Pub. L. 91-452" doc-type="fedlaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pub. L. 91-452">
   <num>91-452</num>
   <heading type="long">An Act relating to the control of organized crime in the United States</heading>
   <meta>
@@ -12,10 +11,10 @@
   <container>
     <prefix>Title</prefix>
     <num>II</num>
-    <heading />
+    <heading/>
     <section>
       <num>256</num>
-      <codified:at doc="D.C. Code" path="§22-2721" />
+      <codified:stub doc="D.C. Code" path="§22-2721"/>
     </section>
   </container>
 </document>

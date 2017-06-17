@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-357.02</num>
   <heading>Contract performance and payment bonds in construction contracts.</heading>
   <para>
@@ -23,7 +22,31 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>Pursuant to rules promulgated under this chapter, the CPO may reduce the amount of performance and payment bonds to 50% of the amounts established in subsection (a) of this section.</text>
+    <text>The CPO may:</text>
+    <para>
+      <num>(1)</num>
+      <text>Reduce the amount of performance and payment bonds for construction contracts to 50% of the amounts established in subsection (a) of this section;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Substitute for a bond required by subsection (a) of this section, a letter of credit in an amount equal to at least 10% of the portion of the contract price that does not include the cost of operation, maintenance, and finance, in cases in which the contractor:</text>
+      <para>
+        <num>(A)</num>
+        <text>Is a nonprofit corporation, as defined in <cite path="§29-401.02|(6)">§ 29-401.02(6)</cite>, or an entity controlled, directly or indirectly, by a nonprofit corporation;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Had a net worth of at least $1 million in the preceding fiscal year;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Is a licensed general contractor; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Has done business as a construction contractor for at least 5 years.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(c)</num>
@@ -50,5 +73,6 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-371" type="History" path="§702">Apr. 8, 2011, D.C. Law 18-371, § 702, 58 DCR 1185</annotation>
+    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(n)" type="History"/>
   </annotations>
 </section>

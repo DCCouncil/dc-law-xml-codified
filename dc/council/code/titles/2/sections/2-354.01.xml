@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-354.01</num>
   <heading>Source selection methods.</heading>
   <para>
@@ -63,17 +62,11 @@
   </para>
   <para>
     <num>(b)</num>
-    <para>
-      <num>(1)</num>
-      <text>Except for members of a technical advisory group, a District employee or official shall not attempt to influence a procurement professional with respect to source selection; provided, that an employee or official may attempt to prevent a procurement professional from violating law or rules.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Any employee or official who violates this section shall be subject to suspension, dismissal, or other disciplinary action under the procedures pursuant to subchapter XVI-A of Chapter 6 of Title 1 [§ <cite path="§1-616.51">1-616.51</cite> et seq.].</text>
-    </para>
+    <text>Repealed.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-371" type="History" path="§401">Apr. 8, 2011, D.C. Law 18-371, § 401, 58 DCR 1185</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-356.02">2-356.02</cite>.</annotation>
+    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(i)" type="History"/>
   </annotations>
 </section>

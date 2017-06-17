@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <reason>Repealed</reason>
   <num>50-301.16</num>
   <heading>Reporting by Commissioner.</heading>
@@ -9,6 +8,6 @@
     <annotation doc="D.C. Law 11-268" type="History">May 21, 1997, D.C. Law 11-268, § 10(ii)(2), 44 DCR 1730</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-1716.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§50-316">50-316</cite>.</annotation>
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(q)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(q)" type="History"/>
   </annotations>
 </section>

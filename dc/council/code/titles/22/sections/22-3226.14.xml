@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>22-3226.14</num>
   <heading>Fraud Prevention Fund.</heading>
   <para>
@@ -16,11 +15,12 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>The District of Columbia Auditor shall perform an annual audit of the Fraud Prevention Fund.</text>
+    <text>Repealed.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 4-164" type="History" path="§126n">Dec. 1, 1982, D.C. Law 4-164, § 126n</annotation>
     <annotation doc="D.C. Law 13-301" type="History">as added June 8, 2001, D.C. Law 13-301, § 102, 47 DCR 7039</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§22-3226.09">22-3226.09</cite>.</annotation>
+    <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§6" type="History"/>
   </annotations>
 </section>

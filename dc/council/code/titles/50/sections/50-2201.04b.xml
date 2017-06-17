@@ -1,10 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-2201.04b</num>
-  <heading>Operation of all-terrain vehicles and dirt bikes.</heading>
+  <heading>All-terrain vehicles and dirt bikes.</heading>
   <para>
     <num>(a)</num>
-    <text>No person shall operate at any time an all-terrain vehicle or dirt bike on public property including any public space in the District.</text>
+    <text>No person shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Operate at any time an all-terrain vehicle or dirt bike on public property, including any public space in the District; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Park at any time an all-terrain vehicle or dirt bike on public property, including any public space in the District.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -12,7 +19,20 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>Any individual violating any provision of this section shall upon conviction be fined not more than the amount set forth in § <cite path="§22-3571.01">22-3571.01</cite> or imprisoned not more than 30 days, or both. All such prosecutions shall be in the Superior Court of the District of Columbia upon information filed by the Attorney General of the District of Columbia or any of his assistants in the name of the District of Columbia.</text>
+    <text>A person violating any provision of this section shall upon conviction be fined no more than the amount set forth in <cite path="§22-3571.01">§ 22-3571.01</cite>, or incarcerated for no more than 30 days, or both.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>In addition to the penalties described in subsection (c) of this section, a person who is convicted of violating subsection (a)(1) of this section shall, upon a second or subsequent conviction for violating subsection (a)(1) of this section, have his or her driver's license, or privilege to operate a motor vehicle in the District, suspended for one year from the date of conviction; provided, that the period of suspension shall toll during a period of incarceration.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The Attorney General for the District of Columbia, or his or her assistants, shall prosecute violations of this section, in the name of the District of Columbia.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>An all-terrain vehicle or dirt bike operated or parked in violation of this section shall be subject to forfeiture pursuant to the standards and procedures set forth in <cite path="41|3">Chapter 3 of Title 41</cite>.
+            </text>
   </para>
   <annotations>
     <annotation type="History" doc="Stat. 68-2-ch443" path="§9b">Mar. 3, 1925, ch. 443, § 9b</annotation>
@@ -27,5 +47,6 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 271(b) of the Criminal Fine Proportionality Emergency Act of 2013 (D.C. Act 20-45, April 1, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 102(d) of the Comprehensive Impaired Driving and Alcohol Testing Program Second Congressional Review Emergency Act of 2013 (D.C. Act 20-51, April 17, 2013,  60 DCR 6344, 20 DCSTAT 1360).</annotation>
     <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite>: Section 401 of <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> provided that the act shall apply only to offenses committed on or after June 11, 2013.</annotation>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§607" type="History"/>
   </annotations>
 </section>

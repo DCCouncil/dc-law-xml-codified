@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-111" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-111">
   <num type="law">21-111</num>
   <num type="bill">21-388</num>
   <num type="act">21-339</num>
@@ -12,8 +11,8 @@
       <citation type="register">63 DCR 4324</citation>
     </citations>
     <history>
-      <vote date="2016-02-02" reading="First" />
-      <vote date="2016-03-01" reading="Final" />
+      <vote date="2016-02-02" reading="First"/>
+      <vote date="2016-03-01" reading="Final"/>
       <enacted>2016-03-16</enacted>
       <summary>Law 21-111 requires that if a person entitled to worker's compensation institutes proceedings and recovers an amount against a third person, court costs and attorney's fees shall be proportionally shared between the person entitled to the compensation, and the employer relative to the amount each received in the settlement against the third person. </summary>
       <committee>Committee on Business, Consumer, and Regulatory Affairs</committee>
@@ -28,14 +27,14 @@
     <para>
       <num>(a)</num>
       <text>Subsection (f) is amended by striking the word "ascribed" and inserting the word "described" in its place.</text>
-      <codify:find-replace path="(f)" find="ascribed" replace="described" />
+      <codify:find-replace path="(f)" find="ascribed" replace="described"/>
     </para>
     <para>
       <num>(b)</num>
       <text>A new subsection (f-1) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(f)" />
+          <codify:insert after="(f)"/>
           <num>(f-1)</num>
           <text>If the person entitled to compensation institutes proceedings within the period described in subsection (b) of this section and recovers an amount against a third person, the costs of litigation and attorneys’ fees shall be proportionally shared between the person entitled to compensation, or the employee’s eligible survivors or legal representative, and the employer relative to the amount each received in the settlement against the third person.</text>
         </para>

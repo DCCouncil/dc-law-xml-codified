@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-1001.05</num>
   <heading>Board of Elections — Duties.</heading>
   <para>
@@ -458,32 +457,19 @@
     <annotation type="Section References">This section is referenced in § <cite path="§1-1001.07">1-1001.07</cite>, § <cite path="§1-1001.10">1-1001.10</cite>, § <cite path="§1-1001.15">1-1001.15</cite>, and § <cite path="§1-1001.17">1-1001.17</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-1306.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-1105.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-40">D.C. Law 13-40</cite> added subsec. (h).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-18">D.C. Law 15-18</cite>, in subsec. (b)(1), substituted “2nd Tuesday in January” for “1st Tuesday in May”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-188">D.C. Law 15-188</cite> added par. (4) of subsec. (e).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-218">D.C. Law 15-218</cite> rewrote pars. (1) and (10) of subsec. (a); repealed par. (13) of subsec. (a); and added subsecs. (i) and (j).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-91">D.C. Law 16-91</cite>, in subsec. (a)(10), substituted “United States Election” for “Federal Election”; and, in subsecs. (a) and (j), validated other previously made technical corrections.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-305">D.C. Law 16-305</cite>, in subsec. (a)(15), substituted “blind persons and person with physical and developmental disabilities” for “blind, physically handicapped, and developmentally disabled persons”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-26">D.C. Law 17-26</cite>, in subsec. (b)(1), substituted “2nd Tuesday in February” for “2nd Tuesday in January”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-108">D.C. Law 17-108</cite>, in subsec. (e)(1), designated the existing text as subpar. (A) and added subpars. (B) and (C).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-103">D.C. Law 18-103</cite> added subsecs. (a-1) and (k); and rewrote subsec. (e)(4).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-330">D.C. Law 18-330</cite>, in subsec. (a)(15), deleted “and” from the end; and added subsec. (a)(15A).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-7">D.C. Law 19-7</cite>, in subsec. (b)(1), substituted “shall, on the 1st Tuesday in April of each presidential election year,” for “shall, on the 2nd Tuesday in February of each presidential election year,”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-124">D.C. Law 19-124</cite>, in the subsection heading, substituted “Board of Elections” for “Board of Elections and Ethics”; in subsecs. (a)(14) and (g), substituted “Chapter 11A of this title” for “subchapter I of Chapter 11 of this title”; and, in subsec. (f)(2), substituted “§ <cite path="§1-1161.01">1-1161.01</cite>” for “§ <cite path="§1-1101.01">1-1101.01</cite>”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-137">D.C. Law 19-137</cite>, in subsec. (a), substituted “subchapter VII of this chapter, and related acts” for “and related acts” in par. (14), deleted “and” from the end of par. (15), substituted “; and” for a period the end of par. (16), and added par. (17); and, in subsecs. (b)(2), (3)(A)(i) to (iv), substituted “90 days” for “60 days”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-40">D.C. Law 13-40</cite> added subsec. (h).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-18">D.C. Law 15-18</cite>, in subsec. (b)(1), substituted “2nd Tuesday in January” for “1st Tuesday in May”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-188">D.C. Law 15-188</cite> added par. (4) of subsec. (e).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-218">D.C. Law 15-218</cite> rewrote pars. (1) and (10) of subsec. (a); repealed par. (13) of subsec. (a); and added subsecs. (i) and (j).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-91">D.C. Law 16-91</cite>, in subsec. (a)(10), substituted “United States Election” for “Federal Election”; and, in subsecs. (a) and (j), validated other previously made technical corrections.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite>, in subsec. (a)(15), substituted “blind persons and person with physical and developmental disabilities” for “blind, physically handicapped, and developmentally disabled persons”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-26">D.C. Law 17-26</cite>, in subsec. (b)(1), substituted “2nd Tuesday in February” for “2nd Tuesday in January”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-108">D.C. Law 17-108</cite>, in subsec. (e)(1), designated the existing text as subpar. (A) and added subpars. (B) and (C).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-103">D.C. Law 18-103</cite> added subsecs. (a-1) and (k); and rewrote subsec. (e)(4).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-330">D.C. Law 18-330</cite>, in subsec. (a)(15), deleted “and” from the end; and added subsec. (a)(15A).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-7">D.C. Law 19-7</cite>, in subsec. (b)(1), substituted “shall, on the 1st Tuesday in April of each presidential election year,” for “shall, on the 2nd Tuesday in February of each presidential election year,”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-124">D.C. Law 19-124</cite>, in the subsection heading, substituted “Board of Elections” for “Board of Elections and Ethics”; in subsecs. (a)(14) and (g), substituted “Chapter 11A of this title” for “subchapter I of Chapter 11 of this title”; and, in subsec. (f)(2), substituted “§ <cite path="§1-1161.01">1-1161.01</cite>” for “§ <cite path="§1-1101.01">1-1101.01</cite>”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-137">D.C. Law 19-137</cite>, in subsec. (a), substituted “subchapter VII of this chapter, and related acts” for “and related acts” in par. (14), deleted “and” from the end of par. (15), substituted “; and” for a period the end of par. (16), and added par. (17); and, in subsecs. (b)(2), (3)(A)(i) to (iv), substituted “90 days” for “60 days”.</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-273">D.C. Law 20-273</cite> rewrote (a)(4) and (a)(11); added (a)(10) and (a)(18); substituted “shall, on the 2nd Tuesday in June” for “shall, on the 1st Tuesday in April” in (b)(1); and added (i)(7) and (k)(7A).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2 of Board of Elections and Ethics Subpoena Authority Temporary Amendment Act of 1998 (<cite doc="D.C. Law 12-179">D.C. Law 12-179</cite>, March 26, 1999, law notification  46 DCR 3405).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2 of Youth Pollworker Temporary Amendment Act of 2002 (<cite doc="D.C. Law 14-169">D.C. Law 14-169</cite>, June 28, 2002, law notification 49 DCR 7278).</annotation>
@@ -494,7 +480,7 @@
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2 of the Presidential Primary Ballot Access Temporary Amendment Act of 2008 (<cite doc="D.C. Law 17-127">D.C. Law 17-127</cite>, March 20, 2008, law notification  55 DCR 4279).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 121 of the Uniform Military and Overseas Voters Temporary Act of 2011 (<cite doc="D.C. Law 19-88">D.C. Law 19-88</cite>, December 6, 2011).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) addition of sections, see §§ 101 - 120 of the Uniform Military and Overseas Voters Temporary Act of 2011 (<cite doc="D.C. Law 19-88">D.C. Law 19-88</cite>, December 6, 2011).</annotation>
-    <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2 of the <TODO note="add law title" /> (<cite doc="D.C. Law 19-95">D.C. Law 19-95</cite>, <TODO note="add date" />).</annotation>
+    <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2 of the <TODO note="add law title"/> (<cite doc="D.C. Law 19-95">D.C. Law 19-95</cite>, <TODO note="add date"/>).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 days) repeal of <cite doc="D.C. Law 20-273">D.C. Law 20-273</cite>, § 5, see § 21 of the Fiscal Year 2016 Budget Support Clarification Temporary Amendment Act of 2015 (<cite doc="D.C. Law 21-76">D.C. Law 21-76</cite>, Feb. 27, 2016,  63 DCR 264).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 days) amendment of section, see § 2 of the Presidential Primary Ballot Access Temporary Amendment Act of 2016 <cite doc="D.C. Law 21-100"> D.C. Law 21-100</cite>, April 6, 2016, 63 DCR 2218, 20 DCSTAT 3140).</annotation>
     <annotation type="Emergency Legislation">For temporary amendment of section, see § 2 of the District of Columbia Board of Elections and Ethics Subpoena Authority Emergency Amendment Act of 1998 (D.C. Act 12-409, July 22, 1998,  45 DCR 5178), see § 2 of the Board of Elections and Ethics Subpoena Authority Congressional Review Emergency Amendment Act of 1998 (D.C. Act 12-462, October 28, 1998,  45 DCR 7816), and see § 2 of the Board of Elections and Ethics Subpoena Authority Congressional Review Emergency Amendment Act of 1999 (D.C. Act 13-2, February 8, 1999,  46 DCR 2286).</annotation>

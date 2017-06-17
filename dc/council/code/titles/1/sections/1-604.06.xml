@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-604.06</num>
   <heading>Personnel authority.</heading>
   <para>
@@ -170,30 +169,18 @@
     <annotation type="Section References">This section is referenced in § <cite path="§1-606.11">1-606.11</cite>, § <cite path="§1-609.05">1-609.05</cite>, and § <cite path="§50-305">50-305</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-604.6.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 1-334.6.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-91">D.C. Law 13-91</cite> validated a previously made technical amendment in par. (13) of subsec. (b).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-277">D.C. Law 13-277</cite> added par. (17).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-28">D.C. Law 14-28</cite>, in subsec. (b), added pars. (18) and (19).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-56">D.C. Law 14-56</cite>, in subsec. (b), added par. (20).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-80">D.C. Law 14-80</cite>, in subsec. (b), added par. (3A).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (a), validated previously made technical corrections.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-187">D.C. Law 15-187</cite> added a new par. (17) (21) of subsec. (b).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-190">D.C. Law 15-190</cite>, in par. (19) of subsec. (b), substituted “District of Columbia Sentencing Commission” for “Advisory Commission on Sentencing” in two places.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-91">D.C. Law 16-91</cite>, in subsec. (b)(3)(A), inserted “Council and the employees in the Legal Services employed by the Council of the District of Columbia; and, in subsecs. (b)(19), (20), and (21), validated previously made technical corrections.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-126">D.C. Law 16-126</cite>, in subsec. (b)(19), substituted “Sentencing and Criminal Code Revision Commission” for “Sentencing Commission” in two places.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsec. (b)(3)(A), designated the existing text as sub-sub par. (i) and added sub-sub par. (ii).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-124">D.C. Law 19-124</cite>, in subsec. (b)(4), substituted “Board of Elections” for “District of Columbia Board of Elections and Ethics” both times it appears, and substituted “§ <cite path="§1-1163.02">1-1163.02</cite>” for “D.C. Official Code, § <cite path="§1-1103.01">1-1103.01</cite>”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite> validated a previously made technical amendment in par. (13) of subsec. (b).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-277">D.C. Law 13-277</cite> added par. (17).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-28">D.C. Law 14-28</cite>, in subsec. (b), added pars. (18) and (19).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-56">D.C. Law 14-56</cite>, in subsec. (b), added par. (20).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-80">D.C. Law 14-80</cite>, in subsec. (b), added par. (3A).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (a), validated previously made technical corrections.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-187">D.C. Law 15-187</cite> added a new par. (17) (21) of subsec. (b).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-190">D.C. Law 15-190</cite>, in par. (19) of subsec. (b), substituted “District of Columbia Sentencing Commission” for “Advisory Commission on Sentencing” in two places.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-91">D.C. Law 16-91</cite>, in subsec. (b)(3)(A), inserted “Council and the employees in the Legal Services employed by the Council of the District of Columbia; and, in subsecs. (b)(19), (20), and (21), validated previously made technical corrections.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-126">D.C. Law 16-126</cite>, in subsec. (b)(19), substituted “Sentencing and Criminal Code Revision Commission” for “Sentencing Commission” in two places.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsec. (b)(3)(A), designated the existing text as sub-sub par. (i) and added sub-sub par. (ii).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-124">D.C. Law 19-124</cite>, in subsec. (b)(4), substituted “Board of Elections” for “District of Columbia Board of Elections and Ethics” both times it appears, and substituted “§ <cite path="§1-1163.02">1-1163.02</cite>” for “D.C. Official Code, § <cite path="§1-1103.01">1-1103.01</cite>”.</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-284">D.C. Law 19-284</cite> added (b)(22); and made related changes.</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-271">D.C. Law 20-271</cite> substituted “the personnel authority is the Chairman of the Council” for “the personnel authority is the District of Columbia Law Revision Commission” in (b)(11); and added (b)(23) and made related changes.</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 21-36">D.C. Law 21-36</cite> added the subsection designated herein as (b)(24) and made related changes.</annotation>

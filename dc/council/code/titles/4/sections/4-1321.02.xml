@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-1321.02</num>
   <heading>Persons required to make reports; procedure.</heading>
   <para>
@@ -66,22 +65,14 @@
     <annotation type="Section References">This section is referenced in § <cite path="§3-1205.14">3-1205.14</cite>, § <cite path="§4-1301.06b">4-1301.06b</cite>, § <cite path="§4-1451.06">4-1451.06</cite>, § <cite path="§16-1056">16-1056</cite>, § <cite path="§22-3020.52">22-3020.52</cite>, § <cite path="§38-203">38-203</cite>, and § <cite path="§38-208">38-208</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-1352.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 2-162.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-204">D.C. Law 16-204</cite>, in subsec. (b), substituted “domestic violence counselor as defined in § <cite path="§14-310">14-310</cite>(a)(2), and mental health professional as defined in § <cite path="§7-1201.01">7-1201.01</cite>(11)” for “and mental health professional”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-306">D.C. Law 16-306</cite>, in subsec. (a), substituted “Child and Family Services Agency” for “Child Protective Services Division of the Department of Human Services”; in subsec. (b), inserted “Child and Family Services Agency employees, agents, and contractors, and” following “include”, and inserted “athletic coach, Department of Parks and Recreation employee, public housing resident manager,” following “teacher,”; in subsecs. (b), (c) and (d), substituted “Child and Family Services Agency” for “Child Protective Services Division of the Department of Human Services”; and added subsec. (e).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-198">D.C. Law 17-198</cite>, in subsec. (b), inserted “Such persons are not required to report when employed by a lawyer who is providing representation in a criminal, civil, including family law, or delinquency matter and the basis for the suspicion arises solely in the course of that representation.”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-281">D.C. Law 17-281</cite>, in subsecs. (b) and (d), substituted “law-enforcement officer, humane officer of any agency charged with the enforcement of animal cruelty laws,” for “law-enforcement officer,”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated previously made technical corrections in subsec. (b).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-239">D.C. Law 18-239</cite>, in subsec. (b), substituted “day care worker, human trafficking counselor as defined in § <cite path="§14-311">14-311</cite>(2),” for “day care worker,”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-242">D.C. Law 18-242</cite> added subsecs. (a-1) and (a-2).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-164">D.C. Law 19-164</cite> added subsec. (f).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-204">D.C. Law 16-204</cite>, in subsec. (b), substituted “domestic violence counselor as defined in § <cite path="§14-310">14-310</cite>(a)(2), and mental health professional as defined in § <cite path="§7-1201.01">7-1201.01</cite>(11)” for “and mental health professional”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-306">D.C. Law 16-306</cite>, in subsec. (a), substituted “Child and Family Services Agency” for “Child Protective Services Division of the Department of Human Services”; in subsec. (b), inserted “Child and Family Services Agency employees, agents, and contractors, and” following “include”, and inserted “athletic coach, Department of Parks and Recreation employee, public housing resident manager,” following “teacher,”; in subsecs. (b), (c) and (d), substituted “Child and Family Services Agency” for “Child Protective Services Division of the Department of Human Services”; and added subsec. (e).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-198">D.C. Law 17-198</cite>, in subsec. (b), inserted “Such persons are not required to report when employed by a lawyer who is providing representation in a criminal, civil, including family law, or delinquency matter and the basis for the suspicion arises solely in the course of that representation.”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-281">D.C. Law 17-281</cite>, in subsecs. (b) and (d), substituted “law-enforcement officer, humane officer of any agency charged with the enforcement of animal cruelty laws,” for “law-enforcement officer,”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated previously made technical corrections in subsec. (b).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-239">D.C. Law 18-239</cite>, in subsec. (b), substituted “day care worker, human trafficking counselor as defined in § <cite path="§14-311">14-311</cite>(2),” for “day care worker,”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-242">D.C. Law 18-242</cite> added subsecs. (a-1) and (a-2).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-164">D.C. Law 19-164</cite> added subsec. (f).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-315">D.C. Law 19-315</cite> added (g).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 20-17">D.C. Law 20-17</cite> amended (a-2)(3) to read “This subsection shall expire September 19, 2013.”</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-276">D.C. Law 20-276</cite> added (h).</annotation>

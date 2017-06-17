@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-3651.02</num>
   <heading>Grounds for appointment of a receiver.</heading>
   <para>
@@ -38,10 +37,8 @@
     <annotation doc="D.C. Law 14-213" type="History">Oct. 19, 2002, D.C. Law 14-213, § 32(c), 49 DCR 8140</annotation>
     <annotation doc="D.C. Law 17-319" type="History">Mar. 21, 2009, D.C. Law 17-319, § 5(a), 56 DCR 214</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§42-3651.03">42-3651.03</cite>, § <cite path="§42-3651.04">42-3651.04</cite>, and § <cite path="§42-3651.05">42-3651.05</cite>.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in par. (1), validated a previously made technical correction.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-319">D.C. Law 17-319</cite> rewrote the section.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in par. (1), validated a previously made technical correction.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-319">D.C. Law 17-319</cite> rewrote the section.</annotation>
     <annotation type="Temporary Legislation">Section 5(a) of <cite doc="D.C. Law 17-237">D.C. Law 17-237</cite> amended this section to read as follows:</annotation>
     <annotation type="Temporary Legislation">“Sec. 502. Grounds for appointment of a receiver.</annotation>
     <annotation type="Temporary Legislation">“(a)(1) A receiver may be appointed if a rental housing accommodation has been cited by the Department of Consumer and Regulatory Affairs for a violation of chapters 1 through 16 of Title 14 of the District of Columbia Municipal Regulations or Title 12 of the District of Columbia Municipal Regulations, or its equivalent, which violation poses a serious threat to the health, safety, or security of the tenants; and</annotation>

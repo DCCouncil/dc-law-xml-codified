@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:8-306</num>
   <heading>Effect of guaranteeing signature, indorsement, or instruction.</heading>
   <para>
@@ -77,8 +76,7 @@
     <text type="Uniform Commercial Code Comment">5. Subsection (d) makes clear that the warranties of a signature guarantor are limited to those specified in this section and do not include a general warranty of rightfulness. On the other hand subsections (e) and (f) provide that a person guaranteeing an indorsement or an instruction does warrant that the transfer is rightful in all respects.</text>
     <text type="Uniform Commercial Code Comment">6. Subsection (g) makes clear what can be inferred from the combination of  Sections 8-401 and  8-402, that the issuer may not require as a condition to transfer a guaranty of the indorsement or instruction nor may it require a special signature guaranty.</text>
     <text type="Uniform Commercial Code Comment">7. Subsection (h) specifies to whom the warranties in this section run, and also provides that a person who gives a guaranty under this section has an action against the indorser or originator for any loss suffered by the guarantor.</text>
-    <text type="Uniform Commercial Code Comment">
-      <strong>Definitional Cross References</strong> “Appropriate person”.  Section 8-107.</text>
+    <text type="Uniform Commercial Code Comment"><strong>Definitional Cross References</strong> “Appropriate person”.  Section 8-107.</text>
     <text type="Uniform Commercial Code Comment">“Genuine”.  Section 1-201(18).</text>
     <text type="Uniform Commercial Code Comment">“Indorsement”.  Section 8-102(a)(11).</text>
     <text type="Uniform Commercial Code Comment">“Instruction”.  Section 8-102(a)(12).</text>

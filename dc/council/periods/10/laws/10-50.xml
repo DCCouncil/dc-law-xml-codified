@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 10-50" flag="true" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 10-50" flag="true">
   <num type="law">10-50</num>
   <heading type="short">Life Insurance Actuarial Opinion of Reserves Act of 1993, Bill 10-133</heading>
   <meta>
@@ -8,10 +7,10 @@
       <citation type="law" url="./docs/10-50.pdf">D.C. Law 10-50</citation>
       <citation type="register">40 DCR 6117</citation>
     </citations>
-    <history url="http://lims.dccouncil.us/Legislation/B10-0133" />
+    <history url="http://lims.dccouncil.us/Legislation/B10-0133"/>
   </meta>
   <section>
     <num>2</num>
-    <codified:at doc="D.C. Code" path="§31-4901" />
+    <codified:stub doc="D.C. Code" path="§31-4901"/>
   </section>
 </document>

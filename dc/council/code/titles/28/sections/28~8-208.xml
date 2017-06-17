@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:8-208</num>
   <heading>Effect of signature of authenticating trustee, registrar, or transfer agent.</heading>
   <para>
@@ -30,8 +29,7 @@
     <text type="Uniform Commercial Code Comment">5. Aside from questions of genuineness and excess issue, these parties are not held to certify as to the validity of the security unless they specifically undertake to do so. The case law which has recognized a unique responsibility on the transfer agent’s part to testify as to the validity of any security which it countersigns is rejected.</text>
     <text type="Uniform Commercial Code Comment">6. This provision does not prevent a transfer agent or issuer from agreeing with a registrar of stock to protect the registrar in respect of the genuineness and proper form of a security certificate signed by the issuer or the transfer agent or both. Nor does it interfere with proper indemnity arrangements between the issuer and trustees, transfer agents, registrars, and the like.</text>
     <text type="Uniform Commercial Code Comment">7. An unauthorized signature is a signature for purposes of this section if and only if it is made effective by  Section 8-205.</text>
-    <text type="Uniform Commercial Code Comment">
-      <strong>Definitional Cross References</strong> “Certificated security”.  Section 8-102(a)(4).</text>
+    <text type="Uniform Commercial Code Comment"><strong>Definitional Cross References</strong> “Certificated security”.  Section 8-102(a)(4).</text>
     <text type="Uniform Commercial Code Comment">“Genuine”.  Section 1-201(18).</text>
     <text type="Uniform Commercial Code Comment">“Issuer”.  Section 8-201.</text>
     <text type="Uniform Commercial Code Comment">“Notice”.  Section 1-201(25).</text>

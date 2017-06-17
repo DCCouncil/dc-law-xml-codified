@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="Pub. L. 89-610" doc-type="fedlaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="Pub. L. 89-610">
   <num>89-610</num>
   <heading type="long">An Act to provide revenue for the District of Columbia, and for other purposes</heading>
   <meta>
@@ -12,10 +11,10 @@
   <container>
     <prefix>Title</prefix>
     <num>X</num>
-    <heading />
+    <heading/>
     <section>
       <num>1006</num>
-      <codified:at doc="D.C. Code" path="§9-1101.01" />
+      <codified:stub doc="D.C. Code" path="§9-1101.01"/>
     </section>
   </container>
 </document>

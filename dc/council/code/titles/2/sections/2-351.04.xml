@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-351.04</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter, the term:</text>
@@ -259,6 +258,10 @@
     </para>
   </para>
   <para>
+    <num>(34A)</num>
+    <text>"Function closely associated with an inherently governmental function" means a function that is not an inherently governmental function, but is similar to an inherently governmental function because of the nature of the function, the manner in which the contractor performs the function, or the manner in which the government administers the contractor's performance of the function, as determined by application of the criteria set forth under section 205a.</text>
+  </para>
+  <para>
     <num>(35)</num>
     <text>“Goods” means all personal property, tangible or intangible.</text>
   </para>
@@ -275,8 +278,16 @@
     <text>“Public infrastructure facility” includes any public structure, public building, any element of the Integrated Premium Transit System, as that term is defined in §  50-921.04(b)(2), and other public improvements of any kind to real property.</text>
   </para>
   <para>
+    <num>(37B)</num>
+    <text>"Inherently governmental function" means a function that is so intimately related to the public interest as to require performance by District government employees, as determined by application of the criteria set forth under <cite path="§2-352.05a">§ 2-352.05a</cite>.</text>
+  </para>
+  <para>
     <num>(38)</num>
     <text>“Invitation for Bids” means all documents, including documents attached or incorporated by reference, used for soliciting bids pursuant to § <cite path="§2-354.02">2-354.02</cite>.</text>
+  </para>
+  <para>
+    <num>(38A)</num>
+    <text>"Labor organization" shall have the same meaning as provided in <cite path="§2-1401.02|(15)">§ 2-1401.02(15)</cite>.</text>
   </para>
   <para>
     <num>(39)</num>
@@ -337,6 +348,10 @@
   <para>
     <num>(53)</num>
     <text>“Request for Qualifications” or “RFQ” means a written document inviting prospective contractors to submit a statement of their qualifications to provide certain goods or services.</text>
+  </para>
+  <para>
+    <num>(53A)</num>
+    <text>"Restricted period" means the period of time commencing with the earliest written notice, advertisement, or solicitation of a request for proposal, invitation for bids, or any other method of soliciting a response from offerors or bidders intended to result in a contract with the District, and ending with either the execution of the final contract and its approval by the District or submission of the contract to the Council for its review when such submission is required pursuant to <cite path="§1-204.51">§ 1-204.51</cite>.</text>
   </para>
   <para>
     <num>(54)</num>
@@ -410,5 +425,9 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  6044(a) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014, 61 DCR 7598, 20 STAT 3696).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  6034(a) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  6034(a) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
+    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(a)|(1)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(a)|(2)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(a)|(3)" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(a)|(4)" type="History"/>
   </annotations>
 </section>

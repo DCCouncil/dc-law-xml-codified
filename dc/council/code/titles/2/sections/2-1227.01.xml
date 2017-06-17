@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-1227.01</num>
   <heading>Definitions.</heading>
   <text>For the purposes of <cite path="2|12|XV">this subchapter</cite>, the term:</text>
@@ -81,6 +80,6 @@
         <cite path="§10-1903">§ 10-1903</cite>.</text>
   </para>
   <annotations>
-    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§2" type="History" />
+    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§2" type="History"/>
   </annotations>
 </section>

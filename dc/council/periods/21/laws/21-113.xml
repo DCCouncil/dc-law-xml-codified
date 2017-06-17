@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-113" doc-type="dclaw" codify:applicability="notfunded" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-113" codify:applicability="notfunded">
   <num type="law">21-113</num>
   <num type="bill">21-488</num>
   <num type="act">21-341</num>
@@ -12,8 +11,8 @@
       <citation type="register">63 DCR 4328</citation>
     </citations>
     <history>
-      <vote date="2016-02-02" reading="First" />
-      <vote date="2016-03-01" reading="Final" />
+      <vote date="2016-02-02" reading="First"/>
+      <vote date="2016-03-01" reading="Final"/>
       <enacted>2016-03-16</enacted>
       <summary>Law 21-113 exempts from real property taxes, real property leased by foundations to colleges and universities that are used to provide dormitory, classroom, and other related facilities for its students.</summary>
       <committee>Committee on Finance and Revenue</committee>
@@ -27,7 +26,7 @@
     <text>Section 47-1002 of the District of Columbia Official Code is amended by adding a new paragraph (10A) to read as follows:</text>
     <include>
       <para>
-        <codify:insert after="(10)" />
+        <codify:insert after="(10)"/>
         <num>(10A)</num>
         <para>
           <num>(A)</num>
@@ -40,14 +39,14 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <div>
+    <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
       <codify:annotation codify:applicability="effective" type="Editor's Notes">
-        <cite doc="D.C. Law 21-113" path="§3">§ 3 of D.C. Law 21-113</cite> provided that the change made to this section by <cite doc="D.C. Law 21-113" path="§2">§ 2 of D.C. Law 21-113</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+       Applicability of <cite doc="D.C. Law 21-113" path="">D.C. Law 21-113</cite>: <cite doc="D.C. Law 21-113" path="§3">§ 3 of D.C. Law 21-113</cite> provided that the change made to this section by <cite doc="D.C. Law 21-113" path="§2">§ 2 of D.C. Law 21-113</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
       </codify:annotation>
     </div>
   </section>
   <section>
-    <codify:applicability date="notfunded" history="false" />
+    <codify:applicability date="notfunded" history="false"/>
     <num>3</num>
     <heading>Applicability.</heading>
     <para>

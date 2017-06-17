@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-1501.02</num>
   <heading>Motor vehicles and trailers; expiration; certificates and tags; sale or transfer; Mayor to issue rules.</heading>
   <para>
@@ -331,22 +330,15 @@
     <annotation type="Section References">This section is referenced in § <cite path="§20-357">20-357</cite>, § <cite path="§47-2001">47-2001</cite>, § <cite path="§47-2829">47-2829</cite>, § <cite path="§47-2862">47-2862</cite>, § <cite path="§50-1401.02">50-1401.02</cite>, § <cite path="§50-1501.02a">50-1501.02a</cite>, § <cite path="§50-1501.03">50-1501.03</cite>, § <cite path="§50-1503.01">50-1503.01</cite>, and § <cite path="§50-2201.03">50-2201.03</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 40-102.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 40-102.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-289">D.C. Law 13-289</cite>, in subsec. (c), rewrote par. (2), deleted “and” at the end of par. (3), substituted “; and” for the period at the end of par. (4), and added par. (5); and rewrote subsec. (d), par. (2). Subsec. (c), par. (2) and subsec. (d), par. (2) had read:</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-289">D.C. Law 13-289</cite>, in subsec. (c), rewrote par. (2), deleted “and” at the end of par. (3), substituted “; and” for the period at the end of par. (4), and added par. (5); and rewrote subsec. (d), par. (2). Subsec. (c), par. (2) and subsec. (d), par. (2) had read:</annotation>
     <annotation type="Effect of Amendments">“(2) Has paid all applicable fines, fees, and taxes for the motor vehicle or trailer;”</annotation>
     <annotation type="Effect of Amendments">“(2) The Mayor shall issue, without charge, registration certificates and identification tags for all motor vehicles and trailers owned by the United States, the District of Columbia, and the Washington Metropolitan Area Transit Authority;”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-307">D.C. Law 14-307</cite>, in subsec. (d), rewrote par. (4)(C), and substituted “$13” for “$10” in both pars. (5)(A) and (5)(B). Prior to amendment, par. (4)(C) of subsec. (d) had read as follows: “(C) A fee of $5 shall be paid for each duplicate registration certificate issued, a fee of $5 shall be paid for each replacement tag issued, and a fee of $15 shall be paid for each dealer’s proof of ownership certificate issued; and”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-176">D.C. Law 15-176</cite>, in par. (4) of subsec. (e), substituted “spouse, or domestic partner as defined in § <cite path="§32-701">32-701</cite>(3),” for “spouse”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-307">D.C. Law 15-307</cite>, in subsec. (b), designated the existing text as par. (1), and added par. (2); rewrote subsec. (c)(5); in subsec. (d)(5)(A), substituted “45” for “30”; in subsec. (g), substituted “DCMR, or who knowingly provides or obtains a counterfeit, stolen, or otherwise fraudulent temporary identification tag; and” for “DCMR; and” in par. (2), and added subpar. (C) in par. (3); and added subsecs. (h) and (i). Prior to amendment, subsec. (c)(5) read as follows: “(5) Is domiciled in the District of Columbia.”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-279">D.C. Law 16-279</cite>, in subsec. (d)(4)(C), increased the dealer’s proof of ownership certificate fee from $15 to $26; in subsec. (e), increased fees from $5 to $7; and added subsec. (j).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-130">D.C. Law 17-130</cite> rewrote subsec. (c)(5).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (d)(4)(C), substituted “$20” for “$7”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-307">D.C. Law 14-307</cite>, in subsec. (d), rewrote par. (4)(C), and substituted “$13” for “$10” in both pars. (5)(A) and (5)(B). Prior to amendment, par. (4)(C) of subsec. (d) had read as follows: “(C) A fee of $5 shall be paid for each duplicate registration certificate issued, a fee of $5 shall be paid for each replacement tag issued, and a fee of $15 shall be paid for each dealer’s proof of ownership certificate issued; and”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-176">D.C. Law 15-176</cite>, in par. (4) of subsec. (e), substituted “spouse, or domestic partner as defined in § <cite path="§32-701">32-701</cite>(3),” for “spouse”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-307">D.C. Law 15-307</cite>, in subsec. (b), designated the existing text as par. (1), and added par. (2); rewrote subsec. (c)(5); in subsec. (d)(5)(A), substituted “45” for “30”; in subsec. (g), substituted “DCMR, or who knowingly provides or obtains a counterfeit, stolen, or otherwise fraudulent temporary identification tag; and” for “DCMR; and” in par. (2), and added subpar. (C) in par. (3); and added subsecs. (h) and (i). Prior to amendment, subsec. (c)(5) read as follows: “(5) Is domiciled in the District of Columbia.”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-279">D.C. Law 16-279</cite>, in subsec. (d)(4)(C), increased the dealer’s proof of ownership certificate fee from $15 to $26; in subsec. (e), increased fees from $5 to $7; and added subsec. (j).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-130">D.C. Law 17-130</cite> rewrote subsec. (c)(5).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in subsec. (d)(4)(C), substituted “$20” for “$7”.</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-244">D.C. Law 19-244</cite> rewrote (c)(5)(A)(i)(I); and substituted “lessee” for “owner” in (c)(5)(A)(i)(III).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-252">D.C. Law 19-252</cite> added (k).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 106(a) of Omnibus Budget Support Temporary Act of 1991 (<cite doc="D.C. Law 9-19">D.C. Law 9-19</cite>, June 21, 1991, law notification  38 DCR 5786).</annotation>

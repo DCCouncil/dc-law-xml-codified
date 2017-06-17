@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <reason>Repealed</reason>
   <num>47-409</num>
   <heading>Disbursement of taxes and appropriations; settlement of accounts.</heading>
-  <text>All taxes collected shall be paid into the Treasury of the United States, and the same, as well as the appropriations made by Congress for the expenses of the District of Columbia, shall be disbursed for the expenses of said District, on itemized vouchers, which shall have been audited and approved by the Auditor of the District of Columbia, certified by the Mayor of the District of Columbia; and the accounts of the Mayor, and the tax collectors, and all other officers required to account, shall be settled and adjusted by the General Accounting Office.</text>
+  <text>Repealed.</text>
   <annotations>
     <annotation type="History">June 11, 1878, 20 Stat. 105, ch. 180, § 4</annotation>
     <annotation type="History">June 10, 1921, 42 Stat. 24, ch. 18, § 305</annotation>
@@ -12,5 +12,6 @@
     <annotation type="Prior Codifications">1981 Ed., § 47-409.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 47-309.</annotation>
     <annotation type="Editor's Notes">Office of Collector of Taxes abolished: See Historical and Statutory Notes following § <cite path="§47-401">47-401</cite>.</annotation>
+    <annotation app="2016-08-17" doc="D.C. Law 21-143" eff="2016-08-17" path="§13|(b)|(2)" type="History"/>
   </annotations>
 </section>

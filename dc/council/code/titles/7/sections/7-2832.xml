@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-2832</num>
   <heading>Private Security Camera Incentive Fund.</heading>
   <para>
@@ -54,6 +53,6 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§215" type="History" />
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§215" type="History"/>
   </annotations>
 </section>

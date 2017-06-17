@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>26-1103</num>
   <heading>License requirements.</heading>
   <para>
@@ -246,13 +245,10 @@
     <annotation doc="D.C. Law 18-38" type="History">July 18, 2009, D.C. Law 18-38, § 2(c), 56 DCR 4290</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§26-1104">26-1104</cite>, § <cite path="§26-1106">26-1106</cite>, and § <cite path="§26-1107">26-1107</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 26-1003.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-28">D.C. Law 14-28</cite> rewrote subsec. (f)(3), which had read:</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-28">D.C. Law 14-28</cite> rewrote subsec. (f)(3), which had read:</annotation>
     <annotation type="Effect of Amendments">“(3) A license fee of $500.”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-38">D.C. Law 15-38</cite>, in subsec. (j), substituted “Financial Services endorsement to a basic business license under the basic” for “Class A Financial Services endorsement to a master business license under the master”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-38">D.C. Law 18-38</cite> rewrote the section.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-38">D.C. Law 15-38</cite>, in subsec. (j), substituted “Financial Services endorsement to a basic business license under the basic” for “Class A Financial Services endorsement to a master business license under the master”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-38">D.C. Law 18-38</cite> rewrote the section.</annotation>
     <annotation type="Temporary Legislation">Section 2(c) of <cite doc="D.C. Law 17-350">D.C. Law 17-350</cite> rewrote subsecs. (a), (b)(1), and (b)(3) to read as follows:</annotation>
     <annotation type="Temporary Legislation">“(a)(1) No person shall engage in business as a mortgage loan originator, loan officer, mortgage lender, mortgage broker, or any permissible combination thereof, or hold himself out to the public to be a mortgage loan originator, loan officer, mortgage lender, mortgage broker, or any permissible combination thereof, unless such person has first obtained a license under this act. Each licensee shall register with and maintain a valid unique identifier issued by the NMLSR.</annotation>
     <annotation type="Temporary Legislation">“(2) Each independent contractor loan processor or underwriter licensed as a mortgage loan originator shall have, and maintain, a valid unique identifier issued by the NMLSR.</annotation>

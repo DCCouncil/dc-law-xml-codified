@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-107" doc-type="dclaw" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-107">
   <num type="law">21-107</num>
   <num type="bill">21-71</num>
   <num type="act">21-335</num>
@@ -12,8 +11,8 @@
       <citation type="register">63 DCR 4311</citation>
     </citations>
     <history>
-      <vote date="2016-02-02" reading="First" />
-      <vote date="2016-03-01" reading="Final" />
+      <vote date="2016-02-02" reading="First"/>
+      <vote date="2016-03-01" reading="Final"/>
       <enacted>2016-03-16</enacted>
       <summary>Law 21-107 provides clarifying language regarding how perquisite or in-kind compensation (such as any profit that is incidental to salary or wages) is factored into gross income.  It allows a judicial officer to enter a minimum order where the paying parent is uncooperative and no reliable income information exists.  It expands factors to be considered by a judiciary officer to determine whether a presumptive minimum award has been rebutted. Among other things, the legislation increases the minimum child support payment from $50 to $75.</summary>
       <committee>Committee on Judiciary</committee>
@@ -90,7 +89,6 @@
         <text>Paragraph (2) is amended by striking the phrase "shall order the parent to pay only the amount that the judicial officer determines the parent is able to pay" and inserting the phrase "shall determine the amount that the parent is able to pay" in its place.</text>
       </para>
       <para>
-        <!--Best way to do this??  -->
         <num>(3)</num>
         <text>Paragraph (3) is amended as follows:</text>
         <para>

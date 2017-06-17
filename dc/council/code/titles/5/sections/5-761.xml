@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-761</num>
   <heading>Retired police officer redeployment.</heading>
   <para>
@@ -63,11 +62,11 @@
     <annotation type="Emergency Legislation">For temporary eligibility of police officers retired from the Metropolitan Police Force to be rehired at the discretion of the Superintendent of the D.C. Public Schools as D.C. public school security personnel without jeopardy to their retirement benefits, see § 2 of the Retired Police Officer Public Schools Security Personnel Deployment Emergency Amendment Act of 1993 (D.C. Act 10-21, April 29, 1993,  40 DCR 2864).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2 of the Crime Scene Investigator Hiring Clarification Emergency Amendment Act of 2016 (D.C. Act 21-327, Mar. 3, 2016,  63 DCR 3665).</annotation>
     <annotation type="Effective Dates">Section 3 of <cite doc="D.C. Law 10-17">D.C. Law 10-17</cite> provided that the provisions of the act shall be retroactive to the effective Dates of the Retired Police Officer Redeployment Amendment Act of 1992, effective September 29, 1992 (<cite doc="D.C. Law 9-163">D.C. Law 9-163</cite>;  39 DCR 5705).</annotation>
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§213|(a)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§213|(b)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§213|(c)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§213|(d)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§213|(e)" type="History" />
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§213|(f)" type="History" />
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§213|(a)" type="History"/>
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§213|(b)" type="History"/>
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§213|(c)" type="History"/>
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§213|(d)" type="History"/>
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§213|(e)" type="History"/>
+    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§213|(f)" type="History"/>
   </annotations>
 </section>

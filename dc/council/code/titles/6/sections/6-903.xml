@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>6-903</num>
   <heading>Condemnation procedure; occupancy of condemned buildings.</heading>
   <para>
@@ -55,14 +54,11 @@
     <annotation type="Section References">This section is referenced in § <cite path="§6-916">6-916</cite>, § <cite path="§6-919">6-919</cite>, and § <cite path="§8-411">8-411</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 5-703.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 5-618.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-281">D.C. Law 13-281</cite> substituted “5 days” for “ten days”, substituted “60 days” for “not less than six months”, substituted “habitable or sanitary condition” for “sanitary condition”, and substituted “uninhabitable or insanitary condition” for “insanitary condition”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-213">D.C. Law 14-213</cite> validated a previously made technical correction.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> substituted “30 days” for “60 days”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-281">D.C. Law 13-281</cite> substituted “5 days” for “ten days”, substituted “60 days” for “not less than six months”, substituted “habitable or sanitary condition” for “sanitary condition”, and substituted “uninhabitable or insanitary condition” for “insanitary condition”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite> validated a previously made technical correction.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> substituted “30 days” for “60 days”.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2072(b) of Fiscal Year 2005 Budget Support Emergency Act of 2004 (D.C. Act 15-486, August 2, 2004,  51 DCR 8236).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2072(b) of Fiscal Year 2005 Budget Support Congressional Review Emergency Act of 2004 (D.C. Act 15-594, October 26, 2004,  51 DCR 11725).</annotation>
-    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§4|(b)" type="History" />
+    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§4|(b)" type="History"/>
   </annotations>
 </section>

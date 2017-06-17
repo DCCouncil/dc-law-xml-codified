@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-3131.01</num>
   <heading>Mayor may correct conditions violative of law; assessment of cost; lien on property; fund to pay costs; summary corrective action of life-or-health threatening condition.</heading>
   <para>
@@ -186,30 +185,18 @@
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§6-711.01">6-711.01</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 5-513.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 5-313.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-305">D.C. Law 13-305</cite>, in subsec. (b)(2), substituted “if an accounting is made in accordance with, and subject to § <cite path="§47-1340">47-1340</cite>(f), amounts assessed and collected as a tax against real property under subsection (a) of this section” for “amounts assessed and collected as a tax against real property pursuant to subsection (a) of this section”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-114">D.C. Law 14-114</cite>, in subsec. (b)(1), substituted “subsection (a) of this section and for the purposes of demolishing or enclosing a structure under subchapter II of Chapter 31C of this title” for “subsection (a) of this section”; and, in subsec. (b)(2), substituted “expended for the purposes of the fund and funds collected pursuant to subchapter II of Chapter 31C of this title” for “expended for the purposes of the fund”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsecs. (b)(1) and (b)(2), validated a previously made technical correction.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (b)(2), validated a previously made technical correction.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, in par. (1) of subsec. (b), designated the existing text as subparagraph (A), and added subpar. (B); and, in par. (2) of subsec. (b), substituted “; all fees and penalties collected under § <cite path="§6-916">6-916</cite>(b) (to be deposited in the account established under paragraph (1)(B) of this subsection); and all other receipts” for “; and all other receipts”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-209">D.C. Law 16-209</cite>, in subsec. (c), designated existing text as par. (1); in newly designated par. (1), inserted “ The condition may also include the presence of graffiti.”; and added pars. (2) and (3).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-241">D.C. Law 16-241</cite> designated the existing text of subsec. (a) as subsec. (a)(1); in subsec. (a)(1), inserted “Except as provided in paragraph (2) of this subsection, whenever”; added subsec. (a)(2); and, in subsec. (c)(1), inserted “a vacant building, as defined in § <cite path="§42-3131.05">42-3131.05</cite>(5), or” and “Except in the case of a vacant building,”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> rewrote subsec. (b)(4), which had read as follows: “(4) Not later than 6 months after the end of each fiscal year, the Mayor shall submit to the Council of the District of Columbia a report of the financial condition of the fund and the results of the operations and collections for such fiscal year. Said report should include, but not be limited to, the itemized amounts of unrecovered taxes and penalties, the names of delinquent property owners, and the nature of corrected building violations.”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-319">D.C. Law 17-319</cite>, in subsec. (c)(1), substituted “housing regulation violations or violations of the construction codes” for “housing regulation violations”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated previously made technical corrections in subsecs. (b)(4) and (c).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsec. (b)(2), substituted “grants, donations, or restitution from any source” for “grants from any source” and substituted “recoveries from enforcement action brought by the Office of the Attorney General on behalf of the District of Columbia or District of Columbia agencies for the abatement of violations of Chapters 1 through 16 of Title 14 of the District of Columbia Code of Municipal Regulations, excluding funds obtained through administrative proceedings; and all other receipts” for “; and all other receipts”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> added subsecs. (a)(1A) and (c)(1A).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-305">D.C. Law 13-305</cite>, in subsec. (b)(2), substituted “if an accounting is made in accordance with, and subject to § <cite path="§47-1340">47-1340</cite>(f), amounts assessed and collected as a tax against real property under subsection (a) of this section” for “amounts assessed and collected as a tax against real property pursuant to subsection (a) of this section”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-114">D.C. Law 14-114</cite>, in subsec. (b)(1), substituted “subsection (a) of this section and for the purposes of demolishing or enclosing a structure under subchapter II of Chapter 31C of this title” for “subsection (a) of this section”; and, in subsec. (b)(2), substituted “expended for the purposes of the fund and funds collected pursuant to subchapter II of Chapter 31C of this title” for “expended for the purposes of the fund”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-213">D.C. Law 14-213</cite>, in subsecs. (b)(1) and (b)(2), validated a previously made technical correction.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (b)(2), validated a previously made technical correction.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, in par. (1) of subsec. (b), designated the existing text as subparagraph (A), and added subpar. (B); and, in par. (2) of subsec. (b), substituted “; all fees and penalties collected under § <cite path="§6-916">6-916</cite>(b) (to be deposited in the account established under paragraph (1)(B) of this subsection); and all other receipts” for “; and all other receipts”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-209">D.C. Law 16-209</cite>, in subsec. (c), designated existing text as par. (1); in newly designated par. (1), inserted “ The condition may also include the presence of graffiti.”; and added pars. (2) and (3).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-241">D.C. Law 16-241</cite> designated the existing text of subsec. (a) as subsec. (a)(1); in subsec. (a)(1), inserted “Except as provided in paragraph (2) of this subsection, whenever”; added subsec. (a)(2); and, in subsec. (c)(1), inserted “a vacant building, as defined in § <cite path="§42-3131.05">42-3131.05</cite>(5), or” and “Except in the case of a vacant building,”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-219">D.C. Law 17-219</cite> rewrote subsec. (b)(4), which had read as follows: “(4) Not later than 6 months after the end of each fiscal year, the Mayor shall submit to the Council of the District of Columbia a report of the financial condition of the fund and the results of the operations and collections for such fiscal year. Said report should include, but not be limited to, the itemized amounts of unrecovered taxes and penalties, the names of delinquent property owners, and the nature of corrected building violations.”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-319">D.C. Law 17-319</cite>, in subsec. (c)(1), substituted “housing regulation violations or violations of the construction codes” for “housing regulation violations”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite> validated previously made technical corrections in subsecs. (b)(4) and (c).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsec. (b)(2), substituted “grants, donations, or restitution from any source” for “grants from any source” and substituted “recoveries from enforcement action brought by the Office of the Attorney General on behalf of the District of Columbia or District of Columbia agencies for the abatement of violations of Chapters 1 through 16 of Title 14 of the District of Columbia Code of Municipal Regulations, excluding funds obtained through administrative proceedings; and all other receipts” for “; and all other receipts”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-223">D.C. Law 18-223</cite> added subsecs. (a)(1A) and (c)(1A).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 8(b) of the Real Property Tax Clarity and Litter Control Administration Temporary Amendment Act of 2001 (<cite doc="D.C. Law 14-8">D.C. Law 14-8</cite>, June 13, 2001, law notification  48 DCR 5916).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2(a) of Abatement of Nuisance Properties and Tenant Receivership Temporary amendment Act of 2008 (<cite doc="D.C. Law 17-237">D.C. Law 17-237</cite>, October 21, 2008, law notification  55 DCR 11700).</annotation>
     <annotation type="Emergency Legislation">For temporary (90-day) amendment of section, see § 2 of the Nuisance Repairs Emergency Amendment Act of 1997 (D.C. Act 12-101, July 2, 1997,  44 DCR 4195), § 2 of the Nuisance Repairs Legislative Review Emergency Amendment Act of 1997 (D.C. Act 12-159, October 16, 1997,  44 DCR 6053), and § 2 of the Nuisance Repairs Congressional Review Emergency Amendment Act of 1997 (D.C. Act 12-241, January 13, 1998,  45 DCR 636).</annotation>
@@ -222,8 +209,8 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2141 of Fiscal Year Budget Support Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-260, January 4, 2010,  57 DCR 345).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2062 of Fiscal Year 2011 Budget Support Emergency Act of 2010 (D.C. Act 18-463, July 2, 2010,  57 DCR 6542).</annotation>
     <annotation type="Editor's Notes">Mayor authorized to issue rules: Section 13 of <cite doc="D.C. Law 7-177">D.C. Law 7-177</cite> provided that the Mayor shall issue rules to implement the provisions of the act.</annotation>
-    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§6|(a)|(1)" type="History" />
-    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§6|(a)|(2)" type="History" />
-    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§6|(b)" type="History" />
+    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§6|(a)|(1)" type="History"/>
+    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§6|(a)|(2)" type="History"/>
+    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§6|(b)" type="History"/>
   </annotations>
 </section>

@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28:2A-521</num>
   <heading>Lessee’s right to specific performance or replevin.</heading>
   <para>
@@ -15,12 +14,9 @@
     <text>A lessee has a right of replevin, detinue, sequestration, claim and delivery, or the like for goods identified to the lease contract if after reasonable effort the lessee is unable to effect cover for those goods or the circumstances reasonably indicate that the effort will be unavailing.</text>
   </para>
   <annotations>
-    <text type="Uniform Commercial Code Comment">
-      <strong>Uniform Statutory Source:</strong>Section 2-716.</text>
-    <text type="Uniform Commercial Code Comment">
-      <strong>Changes:</strong> Revised to reflect leasing practices and terminology, and to expand the reference to the right of replevin in subsection (3) to include other similar rights of the lessee.</text>
-    <text type="Uniform Commercial Code Comment">
-      <strong>Definitional Cross References:</strong> “Delivery”.  Section 1-201(14).</text>
+    <text type="Uniform Commercial Code Comment"><strong>Uniform Statutory Source:</strong>Section 2-716.</text>
+    <text type="Uniform Commercial Code Comment"><strong>Changes:</strong> Revised to reflect leasing practices and terminology, and to expand the reference to the right of replevin in subsection (3) to include other similar rights of the lessee.</text>
+    <text type="Uniform Commercial Code Comment"><strong>Definitional Cross References:</strong> “Delivery”.  Section 1-201(14).</text>
     <text type="Uniform Commercial Code Comment">“Goods”. Section 2A-103(1)(h).</text>
     <text type="Uniform Commercial Code Comment">“Lease contract”. Section 2A-103(1)(l).</text>
     <text type="Uniform Commercial Code Comment">“Lessee”. Section 2A-103(1)(n).</text>

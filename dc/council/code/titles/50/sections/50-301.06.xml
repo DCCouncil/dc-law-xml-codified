@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-301.06</num>
   <heading>Department of For-Hire Vehicles – Organization.</heading>
   <para>
@@ -137,6 +136,6 @@
     <annotation type="Emergency Legislation">For temporary (90 days) repeal of <cite doc="D.C. Law 19-184">D.C. Law 19-184</cite>, § 7, see § 7007 of the Fiscal Year 2014 Budget Support Congressional Review Emergency Act of 2013 (D.C. Act 20-204, October 17, 2013,  60 DCR 15341, 20 DCSTAT 2311).</annotation>
     <annotation type="Effective Dates">Section 24(b) of <cite doc="D.C. Law 6-97">D.C. Law 6-97</cite> provided that sections 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, and 23 shall take effect 1 year after March 25, 1986.</annotation>
     <annotation type="Mayor's Orders">Designation of District of Columbia Taxicab Commission Panel on Rates and Rules and Panel on Consumer and Industry Concerns: See Mayor’s Order 97-64, April 2, 1997 ( 44 DCR 2176).</annotation>
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(f)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§401|(f)" type="History"/>
   </annotations>
 </section>

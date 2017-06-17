@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>46-202.01</num>
   <heading>Collection and Disbursement Unit.</heading>
   <para>
@@ -64,10 +63,8 @@
     <annotation doc="D.C. Law 16-100" type="History">May 12, 2006, D.C. Law 16-100, § 3(b), 53 DCR 1886</annotation>
     <annotation doc="D.C. Law 16-191" type="History">Mar. 2, 2007, D.C. Law 16-191, § 71, 53 DCR 6794</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§16-911">16-911</cite> and § <cite path="§46-205">46-205</cite>.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> rewrote the section.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-100">D.C. Law 16-100</cite> rewrote the section, which had read:</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite> rewrote the section.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-100">D.C. Law 16-100</cite> rewrote the section, which had read:</annotation>
     <annotation type="Effect of Amendments">“(a)(1) The IV-D agency is established as the centralized Collection and Disbursement Unit for the collection and disbursement of support payments and shall operate this unit either directly or through a contract or cooperative agreement with another entity.</annotation>
     <annotation type="Effect of Amendments">“(2) The Court shall continue to operate the Collection and Disbursement Unit, pursuant to a memorandum of understanding or other cooperative agreement with the IV-D agency, until the IV-D agency has arranged with a private contractor to operate the Collection and Disbursement Unit or has made other arrangements for its operation, and until the transfer of all collection and disbursement functions to another entity is complete.</annotation>
     <annotation type="Effect of Amendments">“(b) The Collection and Disbursement Unit shall collect and disburse support payments under support orders in the following cases:</annotation>
@@ -89,8 +86,7 @@
     <annotation type="Effect of Amendments">“(B) Using uniform formats prescribed by federal regulation or policy;</annotation>
     <annotation type="Effect of Amendments">“(2) Ongoing monitoring to promptly identify failures to make timely payment of support; and</annotation>
     <annotation type="Effect of Amendments">“(3) Automatic use of enforcement procedures if payments are not timely made.”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in subsec. (d), validated a previously made technical correction.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in subsec. (d), validated a previously made technical correction.</annotation>
     <annotation type="Temporary Legislation">Section 3(b) of <cite doc="D.C. Law 16-42">D.C. Law 16-42</cite> rewrote section to read as follows:</annotation>
     <annotation type="Temporary Legislation">“Sec. 3a. Collection and Disbursement Unit.</annotation>
     <annotation type="Temporary Legislation">“(a) The IV-D agency is established as the centralized Collection and Disbursement Unit for the collection and disbursement of support payments and shall operate the CDU either directly or through a contract or cooperative agreement with another entity.</annotation>

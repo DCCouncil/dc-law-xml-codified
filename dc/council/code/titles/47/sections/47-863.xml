@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-863</num>
   <heading>Reduced tax liability for property owners over age 65 and for property owners with disabilities; rules.</heading>
   <para>
@@ -327,30 +326,18 @@
     <annotation doc="D.C. Law 21-36" type="History">Oct. 22, 2015, D.C. Law 21-36, §§   7014, 7202, 62 DCR 10905</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§47-405">47-405</cite>, § <cite path="§47-845.02">47-845.02</cite>, § <cite path="§47-845.03">47-845.03</cite>, § <cite path="§47-1803.02">47-1803.02</cite>, and § <cite path="§47-1806.09a">47-1806.09a</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 47-863.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-147">D.C. Law 14-147</cite> rewrote the section.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-282">D.C. Law 14-282</cite> rewrote subsecs. (b)(1)(B) and (b)(2)(A).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 14-307">D.C. Law 14-307</cite>, in subsec. (b), validated a previously made technical amendment in par. (1)(B), substituted “§ <cite path="§47-850.01">47-850.01</cite>; provided, that if a credit is received under § <cite path="§47-864">47-864</cite>, 125% of the prior year’s taxable assessment shall be deemed the estimated market value for purposes of this paragraph.” for “§ <cite path="§47-850.01">47-850.01</cite>.” in sub-subpar. (2)(A)(i)(II); in subsec. (f)(1), deleted “decrease or” preceding “deduction”; and added subsec. (f-1).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (b)(2)(A)(i), validated a previously made technical correction.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, in subsec. (b), rewrote subpar. (B) of par. (1), and rewrote subpar. (A) of par. (2).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-354">D.C. Law 15-354</cite> substituted “Attorney General for the District of Columbia” for “Corporation Counsel”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-33">D.C. Law 16-33</cite>, in the section name line, inserted “and for disabled property owners”; substituted “eligible” for “senior’s” throughout the section; in subsec. (a), added pars. (1A) and (5), and repealed par. (4); rewrote subsec. (b); and, in subsec. (c), added par. (2)(C).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in subsec. (a)(1A)(B), redesignated subpar. (I) as subpar. (i); and, in subsecs. (b), (c), (h), and (i), validated previously made technical corrections.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-305">D.C. Law 16-305</cite>, in the section name line, substituted “property owners with disabilities” for “disabled property owners”; and, in subsec. (a)(1A), substituted “have a permanent and total disability” for “be permanently and totally disabled”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-216">D.C. Law 17-216</cite>, in subsec. (f-1), substituted “an appeal of a Class 3 classification” for “a reclassification”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-345">D.C. Law 17-345</cite>, in subsec. (f), substituted “applicant (or current owner if there is no applicant)” for “applicant” in par. (1), deleted “(for which notification is required under this subsection)” following “eligibility” in pars. (4) and (5), and added par. (6); in subsec. (g)(1), substituted “applicant or former owner, and not the real property” for “applicant” the first time it appears and substituted “applicant or former owner” for “applicant” the second time it appears; and, in subsec. (l), substituted “deduction” for “decrease”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-155">D.C. Law 19-155</cite> rewrote subsec. (f-1).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-147">D.C. Law 14-147</cite> rewrote the section.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-282">D.C. Law 14-282</cite> rewrote subsecs. (b)(1)(B) and (b)(2)(A).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 14-307">D.C. Law 14-307</cite>, in subsec. (b), validated a previously made technical amendment in par. (1)(B), substituted “§ <cite path="§47-850.01">47-850.01</cite>; provided, that if a credit is received under § <cite path="§47-864">47-864</cite>, 125% of the prior year’s taxable assessment shall be deemed the estimated market value for purposes of this paragraph.” for “§ <cite path="§47-850.01">47-850.01</cite>.” in sub-subpar. (2)(A)(i)(II); in subsec. (f)(1), deleted “decrease or” preceding “deduction”; and added subsec. (f-1).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-105">D.C. Law 15-105</cite>, in subsec. (b)(2)(A)(i), validated a previously made technical correction.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-205">D.C. Law 15-205</cite>, in subsec. (b), rewrote subpar. (B) of par. (1), and rewrote subpar. (A) of par. (2).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite> substituted “Attorney General for the District of Columbia” for “Corporation Counsel”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-33">D.C. Law 16-33</cite>, in the section name line, inserted “and for disabled property owners”; substituted “eligible” for “senior’s” throughout the section; in subsec. (a), added pars. (1A) and (5), and repealed par. (4); rewrote subsec. (b); and, in subsec. (c), added par. (2)(C).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in subsec. (a)(1A)(B), redesignated subpar. (I) as subpar. (i); and, in subsecs. (b), (c), (h), and (i), validated previously made technical corrections.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-305">D.C. Law 16-305</cite>, in the section name line, substituted “property owners with disabilities” for “disabled property owners”; and, in subsec. (a)(1A), substituted “have a permanent and total disability” for “be permanently and totally disabled”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-216">D.C. Law 17-216</cite>, in subsec. (f-1), substituted “an appeal of a Class 3 classification” for “a reclassification”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-345">D.C. Law 17-345</cite>, in subsec. (f), substituted “applicant (or current owner if there is no applicant)” for “applicant” in par. (1), deleted “(for which notification is required under this subsection)” following “eligibility” in pars. (4) and (5), and added par. (6); in subsec. (g)(1), substituted “applicant or former owner, and not the real property” for “applicant” the first time it appears and substituted “applicant or former owner” for “applicant” the second time it appears; and, in subsec. (l), substituted “deduction” for “decrease”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-155">D.C. Law 19-155</cite> rewrote subsec. (f-1).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-165">D.C. Law 19-165</cite>, § 2(a), substituted “$125,000” for “$100,000” in (a)(1A)(A)(iii)(I)(bb) and (a)(1A)(A)(iii)(II)(bb).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-165">D.C. Law 19-165</cite>, § 2(b), rewrote (a)(2) and (a)(3).</annotation>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-317">D.C. Law 19-317</cite> substituted “not more than the amount set forth in [§ <cite path="§22-3571.01">22-3571.01</cite>]” for “not more than $1,000” in (k)(4).</annotation>

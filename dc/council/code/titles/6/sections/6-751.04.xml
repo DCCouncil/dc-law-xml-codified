@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <reason>Repealed</reason>
   <num>6-751.04</num>
   <heading>Equipment.</heading>
@@ -9,6 +8,6 @@
     <annotation doc="D.C. Law 3-42" type="History">Dec. 21, 1979, D.C. Law 3-42, § 2(g), 26 DCR 2082</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 5-532.</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 5-331.</annotation>
-    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§2|(b)" type="History" />
+    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§2|(b)" type="History"/>
   </annotations>
 </section>

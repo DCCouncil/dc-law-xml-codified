@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-351.05</num>
   <heading>Application; exemptions.</heading>
   <para>
@@ -63,7 +62,7 @@
     </para>
     <para>
       <num>(13)</num>
-      <text>The procurement of services for the design, development, and construction of a facility on real property that has been disposed of pursuant to the authority in § <cite path="§10-801">10-801</cite>; provided, that the construction of the facility is required by the Land Disposition Agreement, or similar agreement, governing the disposition of the real property;</text>
+      <text>The procurement of services for the design, development, construction, and maintenance of a facility on real property that has been disposed of pursuant to District law or on District-owned real property adjacent to a disposed-of property; provided, that the construction of the facility be required by a Land Disposition Agreement, or similar agreement, governing the disposition of the real property;</text>
     </para>
     <para>
       <num>(14)</num>
@@ -126,10 +125,8 @@
     <annotation doc="D.C. Law 20-94" type="History">Mar. 14, 2014, D.C. Law 20-94, § 2(a), 61 DCR 963</annotation>
     <annotation doc="D.C. Law 20-228" type="History">Mar. 11, 2015, D.C. Law 20-228, § 201, 62 DCR 261</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-352.01">2-352.01</cite>, § <cite path="§2-360.03">2-360.03</cite>, § <cite path="§38-1202.06">38-1202.06</cite>, § <cite path="§39-105">39-105</cite>, and § <cite path="§50-921.02">50-921.02</cite>.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> repealed subsec. (c)(8), which had read as follows: “(8) The Office of Public Education Facilities Modernization;”</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 19-50">D.C. Law 19-50</cite>, in subsec. (c), deleted “and” from the end of par. (11 ), substituted “; and” for a period the end of par. (12 ), and added pars. ( 13) to (15).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> repealed subsec. (c)(8), which had read as follows: “(8) The Office of Public Education Facilities Modernization;”</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-50">D.C. Law 19-50</cite>, in subsec. (c), deleted “and” from the end of par. (11 ), substituted “; and” for a period the end of par. (12 ), and added pars. ( 13) to (15).</annotation>
     <annotation type="Effect of Amendments">The 2012 amendment by <cite doc="D.C. Law 19-171">D.C. Law 19-171</cite> validated a previously made technical correction in (c)(13).</annotation>
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-94">D.C. Law 20-94</cite>, § 2(a)(1), substituted “This chapter, except for § <cite path="§2-352.02">2-352.02</cite>” for “This chapter” in the introductory language of (c).</annotation>
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-94">D.C. Law 20-94</cite>, § 2(a)(2)-(4), added (c)(16) through (c)(18) and made related changes.</annotation>
@@ -143,5 +140,6 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 3 of the Health Benefit Exchange Authority Establishment Emergency Amendment Act of 2013 (D.C. Act 20-49, April 15, 2013,  60 DCR 6337, 20 DCSTAT 1355).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 3 of the Health Benefit Exchange Authority Establishment Congressional Review Emergency Act of 2013 (D.C. Act 20-125, July 26, 2013,  60 DCR 11136, 20 DCSTAT 1821).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2(a) of the Procurement Practices Reform Exemption Emergency Amendment Act of 2014 (D.C. Act 20-282, February 20, 2014,  61 DCR 1576).</annotation>
+    <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(b)" type="History"/>
   </annotations>
 </section>

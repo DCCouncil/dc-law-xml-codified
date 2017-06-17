@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<document id="D.C. Law 21-112" doc-type="dclaw" codify:applicability="notfunded" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-112" codify:applicability="notfunded">
   <num type="law">21-112</num>
   <num type="bill">21-399</num>
   <num type="act">21-340</num>
@@ -12,9 +11,9 @@
       <citation type="register">63 DCR 4326</citation>
     </citations>
     <history>
-      <vote date="2016-02-02" reading="Amendment" />
-      <vote date="2016-02-02" reading="First" />
-      <vote date="2016-03-01" reading="Final" />
+      <vote date="2016-02-02" reading="Amendment"/>
+      <vote date="2016-02-02" reading="First"/>
+      <vote date="2016-03-01" reading="Final"/>
       <enacted>2016-03-16</enacted>
       <summary>Law 21-112 makes changes to the District's summer youth employment program. Prior to this law, only youths between the ages of 14 and 21 were eligible to participate; this law raises the maximum age to 24. It also increases the pay rates of youths between the ages of 16 and 21 to $8.25 per hour and youths aged 22 to 24 to the minimum wage.</summary>
       <committee>Committee on Business, Consumer, and Regulatory Affairs</committee>
@@ -28,7 +27,7 @@
     <text> Section 2(a)(1)(A) of the Youth Employment Act of 1979, effective January 5, 1980 (D.C. Law 3-46; D.C. Official Code § 32-241(a)(1)(A)), is amended to read as follows:</text>
     <include>
       <para>
-        <codify:replace />
+        <codify:replace/>
         <num>(A)</num>
         <para>
           <num>(i)</num>
@@ -51,14 +50,14 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <div>
+    <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
       <codify:annotation codify:applicability="effective" type="Editor's Notes">
-        <cite doc="D.C. Law 21-112" path="§3">§ 3 of D.C. Law 21-112</cite> provided that the change made to this section by <cite doc="D.C. Law 21-112" path="§2">§ 2 of D.C. Law 21-112</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+       Applicability of <cite doc="D.C. Law 21-112" path="">D.C. Law 21-112</cite>: <cite doc="D.C. Law 21-112" path="§3">§ 3 of D.C. Law 21-112</cite> provided that the change made to this section by <cite doc="D.C. Law 21-112" path="§2">§ 2 of D.C. Law 21-112</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
       </codify:annotation>
     </div>
   </section>
   <section>
-    <codify:applicability date="notfunded" history="false" />
+    <codify:applicability date="notfunded" history="false"/>
     <num>3</num>
     <heading>Applicability.</heading>
     <para>

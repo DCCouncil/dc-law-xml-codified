@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-1503</num>
   <heading>Office of Youth Opportunity Services abolished and functions transferred; Division of Community-Based Programs for Children and Youth established.</heading>
   <para>
@@ -71,8 +70,7 @@
   </para>
   <annotations>
     <text type="References in Text">Pursuant to Mayor’s Order 2000-20, the agency formerly known as the “Department of Recreation and Parks” shall be known as the “Department of Parks and Recreation.”</text>
-    <text type="References in Text">
-      <cite doc="D.C. Law 1-36">D.C. Law 1-36</cite>, referred to in subsection (e), is the District of Columbia Public Postsecondary Education Reorganization Act Amendments.</text>
+    <text type="References in Text"><cite doc="D.C. Law 1-36">D.C. Law 1-36</cite>, referred to in subsection (e), is the District of Columbia Public Postsecondary Education Reorganization Act Amendments.</text>
     <annotation doc="D.C. Law 1-93" type="History" path="§4">Mar. 29, 1977, D.C. Law 1-93, § 4, 23 DCR 9532b</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-1501">2-1501</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-2603.</annotation>

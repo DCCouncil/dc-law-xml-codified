@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-1800.02</num>
   <heading>Definitions.</heading>
   <text>Except as otherwise provided, for purposes of this chapter:</text>
@@ -410,6 +409,23 @@
     </para>
   </para>
   <para>
+    <num>(30C)</num>
+    <heading>School management organization. —</heading>
+    <text>The term "school management organization" means an entity that a public charter school identifies in its charter petition or petition for charter revision with which the public charter school contracts to provide management or oversight services regarding the school's expenditures, administration, personnel, or instructional methods.  The term "school management organization" does not include an entity with which a public charter school contracts solely to provide administrative support services, such as:</text>
+    <para>
+      <num>(A)</num>
+      <text>Payroll processing or information technology services;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Academic support services; or</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Temporary management services recommended by the eligible chartering authority to improve the performance of a public charter school.</text>
+    </para>
+  </para>
+  <para>
     <num>(31)</num>
     <heading>Secondary school. —</heading>
     <text>The term “secondary school” means an institutional day or residential school that provides secondary education, as determined by District of Columbia law, except that such term does not include any education beyond grade 12.</text>
@@ -440,14 +456,10 @@
     <annotation type="Cross References">Disposition of certain school property, preference for public charter school, see § <cite path="§47-392.25">47-392.25</cite>.</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§5-132.01">5-132.01</cite>, § <cite path="§6-1102">6-1102</cite>, § <cite path="§38-771.01">38-771.01</cite>, § <cite path="§38-2601.02">38-2601.02</cite>, § <cite path="§38-2602">38-2602</cite>, and § <cite path="§47-392.25">47-392.25</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 31-2852.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 15-348">D.C. Law 15-348</cite>, in par. (25)(A), substituted “parent, guardian, custodian, or primary care giver, as determined pursuant to Chapter 3 of this title,” for “parent”.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 16-268">D.C. Law 16-268</cite> added par. (24A).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> added par. (25A).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-378">D.C. Law 18-378</cite>, in par. (24A), substituted “Chapter 4 of Title 29” for “subchapter I of Chapter 3 of Title 29”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-348">D.C. Law 15-348</cite>, in par. (25)(A), substituted “parent, guardian, custodian, or primary care giver, as determined pursuant to Chapter 3 of this title,” for “parent”.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-268">D.C. Law 16-268</cite> added par. (24A).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> added par. (25A).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-378">D.C. Law 18-378</cite>, in par. (24A), substituted “Chapter 4 of Title 29” for “subchapter I of Chapter 3 of Title 29”.</annotation>
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-114">D.C. Law 20-114</cite> added (6A), (8A), (17A), (17B), and (30A).</annotation>
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-196">D.C. Law 20-196</cite> added (18A), (19A), and (30A).</annotation>
     <annotation type="Temporary Legislation">Section 3(a) of D.C. Laws 13-199 in subsec. (25)(A), substituted “parent, guardian or custodian” for “parent”.</annotation>
@@ -466,5 +478,6 @@
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 4032(a) of Fiscal Year 2008 Budget Support Emergency Act of 2007 (D.C. Act 17-74, July 25, 2007,  54 DCR 7549).</annotation>
     <annotation type="Short Title">Short title: Section 4031 of <cite doc="D.C. Law 17-20">D.C. Law 17-20</cite> provided that subtitle D of title IV of the act may be cited as the “Student Funding Formula Assessment, Educational Data Warehouse, and Enrollment Fund Establishment Amendment Act of 2007”.</annotation>
     <annotation type="References in Text">“Part F of title IV of the District of Columbia Home Rule Act,” referred to in (10)(A)(ii), is part F of title IV of the Act of December 24, 1973, 87 Stat. 774, Pub. L. 93-198 which is codified as §§ 1-204.61 through 1-204.66.</annotation>
+    <annotation app="2016-10-08" doc="D.C. Law 21-153" eff="2016-10-08" path="§2|(a)" type="History"/>
   </annotations>
 </section>

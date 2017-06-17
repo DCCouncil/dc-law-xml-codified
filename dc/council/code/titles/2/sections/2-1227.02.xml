@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-1227.02</num>
   <heading>Findings.</heading>
   <para>
@@ -79,6 +78,6 @@
     <text>At least 20% of the residential units constructed at the Walter Reed Redevelopment Site shall be reserved, sold, or leased as affordable units pursuant to Zoning Commission Order 14-22.  Each Component Developer who shall construct a Vertical Development that contains residential units shall enter into an affordable housing covenant memorializing these affordable unit requirements.</text>
   </para>
   <annotations>
-    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§3" type="History" />
+    <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="§3" type="History"/>
   </annotations>
 </section>

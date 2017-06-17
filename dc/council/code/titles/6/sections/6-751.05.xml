@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <reason>Repealed</reason>
   <num>6-751.05</num>
   <heading>Installation.</heading>
@@ -16,6 +15,6 @@
     <annotation type="Temporary Legislation">Section 4(b) of <cite doc="D.C. Law 18-22">D.C. Law 18-22</cite> provided that the act shall expire after 225 days of its having taken effect.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2 of Fire Alarm Notice and Tenant Fire Safety Emergency Amendment Act of 2009 (D.C. Act 18-33, March 16, 2009,  56 DCR 2340).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2 of Fire Alarm Notice and Tenant Fire Safety Congressional Review Emergency Amendment Act of 2009 (D.C. Act 18-110, June 18, 2009,  56 DCR 4936).</annotation>
-    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§2|(b)" type="History" />
+    <annotation app="2016-05-18" doc="D.C. Law 21-118" eff="2016-05-18" path="§2|(b)" type="History"/>
   </annotations>
 </section>

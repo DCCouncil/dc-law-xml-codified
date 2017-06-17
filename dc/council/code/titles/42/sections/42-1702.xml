@@ -1,5 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section containing-doc="D.C. Code" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-1702</num>
   <heading>Definitions.</heading>
   <text>For purposes of this subchapter:</text>
@@ -143,10 +142,8 @@
     <annotation doc="D.C. Law 13-91" type="History">Apr. 12, 2000, D.C. Law 13-91, § 157(a), 47 DCR 520</annotation>
     <annotation doc="D.C. Law 18-378" type="History">July 2, 2011, D.C. Law 18-378, § 3(gg), 58</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-1922.</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 13-91">D.C. Law 13-91</cite> validated a previously made technical amendment in subsec. (b)(1).</annotation>
-    <annotation type="Effect of Amendments">
-      <cite doc="D.C. Law 18-378">D.C. Law 18-378</cite>, in par. (11), validated a previously made technical correction.</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-91">D.C. Law 13-91</cite> validated a previously made technical amendment in subsec. (b)(1).</annotation>
+    <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-378">D.C. Law 18-378</cite>, in par. (11), validated a previously made technical correction.</annotation>
     <annotation type="References in Text">The “Non-Health Related Occupations and Professions Licensure Act of 1998,” referenced in (4), is title I of <cite doc="D.C. Law 12-261">D.C. Law 12-261</cite>.</annotation>
   </annotations>
 </section>

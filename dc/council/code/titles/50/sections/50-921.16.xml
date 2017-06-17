@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<section xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-921.16</num>
   <heading>Bicycle Sharing Fund.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established as a nonlapsing, special purpose revenue fund the Bicycle Sharing Fund (“Fund”). The fund shall be administered by the Director of the District Department of Transportation and used to pay for goods, services, property and for any other purpose under the Bike Sharing program established pursuant to <cite path="§50-921.04|(a)|(1)|(K)" doc="D.C. Law 14-137">§ 50-921.04(a)(1)(K)</cite>.</text>
+    <text>There is established as a nonlapsing, special purpose revenue fund the Bicycle Sharing Fund (“Fund”). The fund shall be administered by the Director of the District Department of Transportation and used to pay for goods, services, property and for any other purpose under the Bike Sharing program established pursuant to <cite path="§50-921.04|(a)|(1)|(K)" doc="D.C. Law 14-137">§ 50-921.04(a)(1)(K)</cite>
+          .</text>
   </para>
   <para>
     <num>(b)</num>
@@ -25,6 +25,6 @@
     <annotation type="Emergency Legislation">For temporary (90 days) addition of <cite doc="D.C. Law 14-137">D.C. Law 14-137</cite>, § 9h, concerning the Parking Meter Fund, see § 2 of the District Department of Transportation Parking Meter Fund Establishment Congressional Review Emergency Amendment Act of 2013 (D.C. Act 20-2, January 29, 2013,  60 DCR 5400, 20 DCSTAT 1300).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2(b) of District Department of Transportation Bicycle Sharing Fund Emergency Amendment Act of 2012 (D.C. Act 19-424, July 27, 2012,  59 DCR 9375).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition of section, see § 2(c) of District Department of Transportation Bicycle Sharing Fund EmergencyAmendment Act of 2012 (D.C. Act 19-424, July 27, 2012,  59 DCR 9375).</annotation>
-    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§101|(c)" type="History" />
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§101|(c)" type="History"/>
   </annotations>
 </section>
