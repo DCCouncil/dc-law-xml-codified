@@ -21,12 +21,12 @@
   <section>
     <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Public Space Naming Amendment Act of 2016".</text>
   </section>
-  <section codify:doc="D.C. Law 4-201">
+  <section codify:doc="D.C. Code" codify:path="|9|2">
     <num>2</num>
     <text>The Street and Alley Closing and Acquisition Procedures Act of 1982, effective March 10, 1983 (D.C. Law 4-201; D.C. Official Code § 9-201.01
       <em>et seq.</em>), is amended as follows:
     </text>
-    <para codify:path="§101">
+    <para codify:path="§9-201.01">
       <num>(a)</num>
       <text>Section 101 (D.C. Official Code § 9-201.01) is amended as follows:</text>
       <para>
@@ -59,7 +59,7 @@
         <aftertext>.</aftertext>
       </para>
     </para>
-    <para codify:path="§401">
+    <para codify:path="§9-204.01">
       <num>(b)</num>
       <text>Section 401 (D.C. Official Code § 9-204.01) is amended as follows:</text>
       <para>
@@ -74,12 +74,12 @@
           <para>
             <codify:insert/>
             <num>(5)</num>
-            <text>For an alley or street, or portion thereof, or other public space, the criteria set forth in Subtitle C of this title shall be met before Council approval.</text>
+            <text>For an alley or street, or portion thereof, or other public space, the criteria set forth in <code-cite doc="D.C. Code" path="|9|2|IV|C">Subtitle C of this title</code-cite> shall be met before Council approval.</text>
           </para>
           <para>
             <codify:insert/>
             <num>(6)</num>
-            <text>Any designation or change of name of an alley or street, or portion thereof, or other public space made before the effective date of the Public Space Naming Amendment Act of 2016, passed on 2nd reading on July 12, 2016 (Enrolled version of Bill 21-614) ("2016 Act"), shall not be affected by any of the 2016 Act requirements.</text>
+            <text>Any designation or change of name of an alley or street, or portion thereof, or other public space made before <span codify:value="October 8, 2016">the effective date of the Public Space Naming Amendment Act of 2016, passed on 2nd reading on July 12, 2016 (Enrolled version of Bill 21-614) ("2016 Act")</span>, shall not be affected by any of the 2016 Act requirements.</text>
           </para>
           <para>
             <codify:insert/>
@@ -90,13 +90,13 @@
         <aftertext>.</aftertext>
       </para>
     </para>
-    <para codify:path="§403">
+    <para codify:path="§9-204.03">
       <num>(c)</num>
       <text>Section 403 (D.C. Official Code § 9-204.03) is amended to read as follows:</text>
       <include>
         <section>
           <codify:replace/>
-          <num>403</num>
+          <num codify:value="9-204.03">403</num>
           <heading>Alleys.</heading>
           <para>
             <num>(a)</num>
@@ -118,13 +118,13 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para codify:path="§403a">
+    <para codify:path="§9-204.03a">
       <num>(d)</num>
       <text>Section 403a (D.C. Official Code § 9-204.03a) is amended to read as follows:</text>
       <include>
         <section>
           <codify:replace/>
-          <num>403a</num>
+          <num codify:value="9-204.03a">403a</num>
           <heading>Symbolic names.</heading>
           <para>
             <num>(a)</num>
@@ -149,11 +149,11 @@
     <para>
       <num>(e)</num>
       <text>Sections 406 (D.C. Official Code § 9-204.06), 407 (D.C. Official Code § 9-204.07), and 408 (D.C. Official Code § 9-204.08) are repealed.</text>
-      <codify:repeal path="§406"/>
-      <codify:repeal path="§407"/>
-      <codify:repeal path="§408"/>
+      <codify:repeal path="§9-204.06"/>
+      <codify:repeal path="§9-204.07"/>
+      <codify:repeal path="§9-204.08"/>
     </para>
-    <para codify:path="§409">
+    <para codify:path="§9-204.09">
       <num>(f)</num>
       <text>Section 409 (D.C. Official Code § 9-204.09) is amended by striking the phrase "the Board of Education, the Board of Library Trustees," and inserting the phrase "the Board of Library Trustees" in its place.</text>
       <codify:find-replace find="the Board of Education, the Board of Library Trustees," replace="the Board of Library Trustees" count="1"/>
@@ -170,12 +170,20 @@
           <prefix>Subtitle</prefix>
           <num>C</num>
           <heading>Streets, alleys, and other public spaces.</heading>
+          <codify:insert doc="D.C. Code" path="|9|2|IV" after="B" history="false">
+            <container>
+              <prefix>Part</prefix>
+              <num>C</num>
+              <heading>Streets, alleys, and other public spaces.</heading>
+            </container>
+          </codify:insert>
           <section>
+            <codify:insert doc="D.C. Code" path="|9|2|IV|C" num-value="9-204.21" history-prefix="as added"/>
             <num>421</num>
             <heading>Designation of official names of streets and alleys.</heading>
             <para>
               <num>(a)</num>
-              <text>Any designation of an alley or street, or portion thereof, with an official name shall meet the requirements of sections 402 and 403, as well as the requirements of this section.</text>
+              <text>Any designation of an alley or street, or portion thereof, with an official name shall meet the requirements of <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§9-204.02" codify:value="9-204.02">402</code-cite> and <code-cite doc="D.C. Code" path="§9-204.03" codify:value="9-204.03">403</code-cite>, as well as the requirements of this section.</text>
             </para>
             <para>
               <num>(b)</num>
@@ -229,10 +237,14 @@
               <num>(i)</num>
               <text>If the Mayor or a Councilmember is the initiator of the legislation to designate an official name pursuant to this section, the Mayor shall assist the Council in satisfying the requirements of this section, except that subsections (f) and (h) of this section shall not apply.</text>
             </para>
+            <annotations>
+              <annotation doc="D.C. Law 4-201" type="History" path="§421">Mar. 10, 1983, D.C. Law 4-201, § 421</annotation>
+            </annotations>
           </section>
           <section>
+            <codify:insert doc="D.C. Code" path="|9|2|IV|C" num-value="9-204.22" history-prefix="as added"/>
             <num>422</num>
-            <text>Designation of official names for other public spaces</text>
+            <heading>Designation of official names for other public spaces.</heading>
             <para>
               <num>(a)</num>
               <text>At least 30 days before the date of a Council hearing to consider legislation to designate an official name for a public space other than an alley or street, or portion thereof, the initiator of the proposal to designate the official name of the public space shall submit a copy of the legislation for review and comment to each Advisory Neighborhood Commission in which the public space is located.</text>
@@ -265,20 +277,28 @@
               <num>(e)</num>
               <text>If the Mayor or a Councilmember is the initiator of the legislation to designate an official name pursuant to this section, the Mayor shall assist the Council in satisfying the requirements of this section.</text>
             </para>
+            <annotations>
+              <annotation doc="D.C. Law 4-201" type="History" path="§422">Mar. 10, 1983, D.C. Law 4-201, § 421</annotation>
+            </annotations>
           </section>
           <section>
+            <codify:insert doc="D.C. Code" path="|9|2|IV|C" num-value="9-204.23" history-prefix="as added"/>
             <num>423</num>
             <heading>Designation of symbolic names for public spaces, streets, and alleys.</heading>
             <para>
               <num>(a)</num>
-              <text>Any designation of an alley or street, or portion thereof, with a symbolic name shall meet the requirements of section 403a.</text>
+              <text>Any designation of an alley or street, or portion thereof, with a symbolic name shall meet the requirements of <code-cite doc="D.C. Code" path="§9-204.03a">section 403a</code-cite>.</text>
             </para>
             <para>
               <num>(b)</num>
               <text>Before the date of a Council hearing to consider legislation to designate a symbolic name for an alley or street, or portion thereof, or other public space, the initiator of the proposal to designate the symbolic name for the an alley or street, or portion thereof, or other public space shall provide notice of the hearing to each Advisory Neighborhood Commission in which the portion of the alley or street or other public space to be designated is located.</text>
             </para>
+            <annotations>
+              <annotation doc="D.C. Law 4-201" type="History" path="§423">Mar. 10, 1983, D.C. Law 4-201, § 421</annotation>
+            </annotations>
           </section>
           <section>
+            <codify:insert doc="D.C. Code" path="|9|2|IV|C" num-value="9-204.24" history-prefix="as added"/>
             <num>424</num>
             <heading>Implementation of public space, street, and alley names.</heading>
             <para>
@@ -329,9 +349,12 @@
               </para>
               <para>
                 <num>(2)</num>
-                <text>The design used for signage for a symbolic name of an alley or street, or portion thereof, including any replacement signage, shall be uniform and distinct from the design used for signage for official names, except for those signs installed before the effective date of the Public Space Naming Amendment Act of 2016, passed on 2nd reading on July 12, 2016 (Enrolled version of Bill 21-614).</text>
+                <text>The design used for signage for a symbolic name of an alley or street, or portion thereof, including any replacement signage, shall be uniform and distinct from the design used for signage for official names, except for those signs installed before <span codify:value="October 8, 2016">the effective date of the Public Space Naming Amendment Act of 2016, passed on 2nd reading on July 12, 2016 (Enrolled version of Bill 21-614)</span>.</text>
               </para>
             </para>
+            <annotations>
+              <annotation doc="D.C. Law 4-201" type="History" path="§424">Mar. 10, 1983, D.C. Law 4-201, § 421</annotation>
+            </annotations>
           </section>
         </container>
       </include>
@@ -339,6 +362,10 @@
     </para>
   </section>
   <section>
+    <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§9-204.01" history="false">For amendment to Law 13-275 changing "Part A" to "Subtitle A" and "Part B" to "Subtitle B", see <cite doc="D.C. Law 21-161" path="§3">§ 3 of D.C. Law 21-161</cite>.
+      </codify:annotation>
+    <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§9-204.11" history="false">For amendment to Law 13-275 changing "Part A" to "Subtitle A" and "Part B" to "Subtitle B", see <cite doc="D.C. Law 21-161" path="§3">§ 3 of D.C. Law 21-161</cite>.
+      </codify:annotation>
     <num>3</num>
     <text>Section 2 of the Commemorative Works on Public Space Amendment Act of 2000, effective April 4, 2001 (D.C. Law 13-275; 48 DCR 1660), is amended as follows:</text>
     <para>

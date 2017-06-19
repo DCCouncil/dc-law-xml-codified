@@ -213,6 +213,15 @@
         <xi:include href="sections/9-204.18.xml"/>
         <xi:include href="sections/9-204.19.xml"/>
       </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>C</num>
+        <heading>Streets, alleys, and other public spaces.</heading>
+        <xi:include href="sections/9-204.21.xml"/>
+        <xi:include href="sections/9-204.22.xml"/>
+        <xi:include href="sections/9-204.23.xml"/>
+        <xi:include href="sections/9-204.24.xml"/>
+      </container>
     </container>
     <container>
       <prefix>Subchapter</prefix>
