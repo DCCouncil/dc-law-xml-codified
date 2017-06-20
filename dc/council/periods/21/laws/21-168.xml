@@ -23,25 +23,25 @@
     <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Safe at Home Act of 2016".</text>
   </section>
   <container>
-    <codify:organic doc="D.C. Code" path="|7|5" num-value="C" hisotry="false"/>
+    <codify:organic doc="D.C. Code" path="|7|5" num-value="C" history="false"/>
     <prefix>Unit</prefix>
     <num>C</num>
     <heading>Safe at Home Program.</heading>
   </container>
-  <section>
+  <section codify:applicability="notfunded">
     <codify:organic doc="D.C. Code" path="|7|5|C" num-value="7-551.01"/>
     <num>2</num>
-    <text>Home accessibility modification grant program.</text>
+    <heading>Home accessibility modification grant program.</heading>
     <para>
       <num>(a)</num>
-      <text>For the purposes of this act, the term:</text>
+      <text>For the purposes of <code-cite doc="D.C. Code" path="|7|5|C">this act</code-cite>, the term:</text>
       <para>
         <num>(1)</num>
         <text>"Accessibility modification" means the construction or modification of a principal place of residence to enable or increase independent living for a person with a disability or who is 60 years of age or more.</text>
       </para>
       <para>
         <num>(2)</num>
-        <text>"Disability" shall have the same meaning as provided in section 2(4) of the Disability Rights Protection Act of 2006, effective March 8, 2007 (D.C. Law 16-239; D.C. Official Code § 2-1431.01(4)).</text>
+        <text>"Disability" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§2-1431.01|(4)">section 2(4) of the Disability Rights Protection Act of 2006, effective March 8, 2007 (D.C. Law 16-239; D.C. Official Code § 2-1431.01(4))</code-cite>.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -129,7 +129,7 @@
       </para>
       <para>
         <num>(4)</num>
-        <text>Within 180 days of the effective date of this act, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.), issue rules to implement the provisions of this act, which shall include:</text>
+        <text>Within 180 days of <span codify:value="November 26, 2016">the effective date of this act</span>, pursuant to <code-cite doc="D.C. Code" path="|2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 et seq.)</code-cite>, issue rules to implement the provisions of <code-cite doc="D.C. Code" path="|7|5|C">this act</code-cite>, which shall include:</text>
         <para>
           <num>(A)</num>
           <text>Household income-eligibility limitations;</text>
@@ -144,18 +144,28 @@
         </para>
       </para>
     </para>
+    <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+      <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-168" path="">D.C. Law 21-168</cite>: <cite doc="D.C. Law 21-168" path="§4">§ 4 of D.C. Law 21-168</cite> provided that the creation of this section by <cite doc="D.C. Law 21-168" path="§2">§ 2 of D.C. Law 21-168</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+    </div>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§47-1803.02|(a)|(2)">
+  <section codify:doc="D.C. Code" codify:path="§47-1803.02|(a)|(2)" codify:applicability="notfunded">
     <num>3</num>
     <text>Section 47-1803.02(a)(2) of the District of Columbia Official Code is amended by adding a new subparagraph (CC) to read as follows:</text>
     <include>
       <para>
         <codify:insert after="(BB)"/>
         <num>(CC)</num>
-        <text>The amount received by a taxpayer pursuant to section 2(b) of the Safe at Home Act of 2016, passed on 2nd reading on September 20, 2016 (Enrolled version of Bill 21-316).</text>
+        <text>The amount received by a taxpayer pursuant to <code-cite doc="D.C. Code" path="§7-551.01"><span codify:value="(b)"/> section 2(b) of the Safe at Home Act of 2016, passed on 2nd reading on September 20, 2016 (Enrolled version of Bill 21-316)</code-cite>.</text>
       </para>
     </include>
     <aftertext>.</aftertext>
+    <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+      <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-168" path="">D.C. Law 21-168</cite>: <cite doc="D.C. Law 21-168" path="§4">§ 4 of D.C. Law 21-168</cite> provided that the change made to this section by <cite doc="D.C. Law 21-168" path="§3">§ 3 of D.C. Law 21-168</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.
+      </codify:annotation>
+    </div>
   </section>
   <section>
     <num>4</num>
@@ -163,6 +173,8 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability path="§2" date="notfunded" history="false"/>
+      <codify:applicability path="§3" date="notfunded" history="false"/>
     </para>
     <para>
       <num>(b)</num>
