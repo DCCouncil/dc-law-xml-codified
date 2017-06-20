@@ -1390,6 +1390,12 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>V-A</num>
+      <heading>Payment of Rent Beyond 5 Days After Due Date.</heading>
+      <xi:include href="sections/42-3505.31.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Conversion or Demolition of Rental Housing for Hotels, Motels, or Inns.</heading>
       <xi:include href="sections/42-3506.01.xml"/>
