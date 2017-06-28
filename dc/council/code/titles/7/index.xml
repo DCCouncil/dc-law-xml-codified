@@ -143,6 +143,7 @@
     <xi:include href="sections/7-401.xml"/>
     <xi:include href="sections/7-402.xml"/>
     <xi:include href="sections/7-403.xml"/>
+    <xi:include href="sections/7-404.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -207,6 +208,12 @@
       <xi:include href="sections/7-531.10.xml"/>
       <xi:include href="sections/7-531.11.xml"/>
     </container>
+    <container>
+      <prefix>Unit</prefix>
+      <num>C</num>
+      <heading>Safe at Home Program.</heading>
+      <xi:include href="sections/7-551.01.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -255,6 +262,28 @@
     <xi:include href="sections/7-651.15.xml"/>
     <xi:include href="sections/7-651.16.xml"/>
     <xi:include href="sections/7-651.17.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6B</num>
+    <heading>Physician Assisted Death.</heading>
+    <xi:include href="sections/7-661.01.xml"/>
+    <xi:include href="sections/7-661.02.xml"/>
+    <xi:include href="sections/7-661.03.xml"/>
+    <xi:include href="sections/7-661.04.xml"/>
+    <xi:include href="sections/7-661.05.xml"/>
+    <xi:include href="sections/7-661.06.xml"/>
+    <xi:include href="sections/7-661.07.xml"/>
+    <xi:include href="sections/7-661.08.xml"/>
+    <xi:include href="sections/7-661.09.xml"/>
+    <xi:include href="sections/7-661.10.xml"/>
+    <xi:include href="sections/7-661.11.xml"/>
+    <xi:include href="sections/7-661.12.xml"/>
+    <xi:include href="sections/7-661.13.xml"/>
+    <xi:include href="sections/7-661.14.xml"/>
+    <xi:include href="sections/7-661.15.xml"/>
+    <xi:include href="sections/7-661.16.xml"/>
+    <xi:include href="sections/7-661.17.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

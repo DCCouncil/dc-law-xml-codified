@@ -1084,6 +1084,7 @@
       <xi:include href="sections/42-3131.15.xml"/>
       <xi:include href="sections/42-3131.16.xml"/>
       <xi:include href="sections/42-3131.17.xml"/>
+      <xi:include href="sections/42-3131.18.xml"/>
     </container>
   </container>
   <container>
@@ -1387,6 +1388,12 @@
       <xi:include href="sections/42-3505.06.xml"/>
       <xi:include href="sections/42-3505.07.xml"/>
       <xi:include href="sections/42-3505.08.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>V-A</num>
+      <heading>Payment of Rent Beyond 5 Days After Due Date.</heading>
+      <xi:include href="sections/42-3505.31.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
