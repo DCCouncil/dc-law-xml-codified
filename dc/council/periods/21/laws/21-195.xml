@@ -21,7 +21,7 @@
   <section>
     <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Improving Access to Identity Documents Amendment Act of 2016".</text>
   </section>
-  <section>
+  <section codify:applicability="pending">
     <num>2</num>
     <text>Section 22 of the Vital Records Act of 1981, effective October 8, 1981 (D.C. Law 4-34; D.C. Official Code § 7-221), is amended by adding a new subsection (c) to read as follows:</text>
     <include>
@@ -37,6 +37,11 @@
           <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="|2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, may issue rules to implement paragraph (1) of this subsection.
           </text>
         </para>
+        <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+          <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-195" path="">D.C. Law 21-195</cite>: <cite doc="D.C. Law 21-195" path="§5">§ 5 of D.C. Law 21-195</cite> provided that the change made to this section by <cite doc="D.C. Law 21-195" path="§2">§ 2 of D.C. Law 21-195</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
+      </codify:annotation>
+        </div>
       </para>
     </include>
     <aftertext>.</aftertext>
@@ -44,7 +49,7 @@
   <section>
     <num>3</num>
     <text>The District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1121; codified in scattered cites of the D.C. Official Code), is amended as follows:</text>
-    <para codify:doc="D.C. Code" codify:path="§50-1401.01|(a)">
+    <para codify:doc="D.C. Code" codify:path="§50-1401.01|(a)" codify:applicability="pending">
       <num>(a)</num>
       <text>Section 7(a) (D.C. Official Code § 50-1401.01(a)) is amended as follows:</text>
       <para codify:path="(1)|(A-i)">
@@ -152,8 +157,13 @@
           <aftertext>.</aftertext>
         </para>
       </para>
+      <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+        <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-195" path="">D.C. Law 21-195</cite>: <cite doc="D.C. Law 21-195" path="§4">§ 4 of D.C. Law 21-195</cite> provided that the change made to this section by <cite doc="D.C. Law 21-195" path="§3|(a)">§ 3(a) of D.C. Law 21-195</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
+      </codify:annotation>
+      </div>
     </para>
-    <para codify:doc="D.C. Code" codify:path="§50-1401.03|(a)">
+    <para codify:doc="D.C. Code" codify:path="§50-1401.03|(a)" codify:applicability="notfunded">
       <num>(b)</num>
       <text>Section 8a(a) (D.C. Official Code § 50-1401.03(a)) is amended by adding a new paragraph (1A) to read as follows:</text>
       <include>
@@ -172,8 +182,13 @@
         </para>
       </include>
       <aftertext>.</aftertext>
+      <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+        <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-195" path="">D.C. Law 21-195</cite>: <cite doc="D.C. Law 21-195" path="§4">§ 4 of D.C. Law 21-195</cite> provided that the change made to this section by <cite doc="D.C. Law 21-195" path="§3|(b)">§ 3(b) of D.C. Law 21-195</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
+      </codify:annotation>
+      </div>
     </para>
-    <para codify:doc="D.C. Code" codify:path="§50-1401.05">
+    <para codify:doc="D.C. Code" codify:path="§50-1401.05" codify:applicability="notfunded">
       <num>(c)</num>
       <text>Section 8c (D.C. Official Code § 50-1401.05) is amended as follows:</text>
       <para>
@@ -204,6 +219,11 @@
         </include>
         <aftertext>.</aftertext>
       </para>
+      <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+        <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-195" path="">D.C. Law 21-195</cite>: <cite doc="D.C. Law 21-195" path="§4">§ 4 of D.C. Law 21-195</cite> provided that the change made to this section by <cite doc="D.C. Law 21-195" path="§3|(c)">§ 3(c) of D.C. Law 21-195</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
+      </codify:annotation>
+      </div>
     </para>
   </section>
   <section>
@@ -212,6 +232,10 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability doc="D.C. Law 21-195" path="§2" date="pending" history="false"/>
+      <codify:applicability doc="D.C. Law 21-195" path="§3|(a)" date="pending" history="false"/>
+      <codify:applicability doc="D.C. Law 21-195" path="§3|(b)" date="notfunded" history="false"/>
+      <codify:applicability doc="D.C. Law 21-195" path="§3|(c)" date="notfunded" history="false"/>
     </para>
     <para>
       <num>(b)</num>

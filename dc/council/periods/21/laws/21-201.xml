@@ -21,7 +21,7 @@
   <section>
     <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Feminine Hygiene and Diaper Sales Tax Exemption Amendment Act of 2016".</text>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§47-2005">
+  <section codify:doc="D.C. Code" codify:path="§47-2005" codify:applicability="notfunded">
     <num>2</num>
     <text>Section 47-2005 of the District of Columbia Official Code is amended as follows:</text>
     <para>
@@ -63,6 +63,11 @@
       </include>
       <aftertext>.</aftertext>
     </para>
+    <div xmlns:cache="https://code.dccouncil.us/schemas/cache">
+      <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-201" path="">D.C. Law 21-201</cite>: <cite doc="D.C. Law 21-201" path="§3">§ 3 of D.C. Law 21-201</cite> provided that the change made to this section by <cite doc="D.C. Law 21-201" path="§2">§ 2 of D.C. Law 21-201</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
+      </codify:annotation>
+    </div>
   </section>
   <section>
     <num>3</num>
@@ -70,6 +75,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall take effect subject to the inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability doc="D.C. Law 21-201" path="§2" date="notfunded" history="false"/>
     </para>
     <para>
       <num>(b)</num>
