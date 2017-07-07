@@ -1343,6 +1343,7 @@
       <xi:include href="sections/42-3502.09.xml"/>
       <xi:include href="sections/42-3502.10.xml"/>
       <xi:include href="sections/42-3502.11.xml"/>
+      <xi:include href="sections/42-3502.11a.xml"/>
       <xi:include href="sections/42-3502.12.xml"/>
       <xi:include href="sections/42-3502.13.xml"/>
       <xi:include href="sections/42-3502.14.xml"/>
@@ -1394,6 +1395,16 @@
       <num>V-A</num>
       <heading>Payment of Rent Beyond 5 Days After Due Date.</heading>
       <xi:include href="sections/42-3505.31.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>V-B</num>
+      <heading>Other Housing Provider Actions During Tenancies.</heading>
+      <xi:include href="sections/42-3505.31.xml"/>
+      <xi:include href="sections/42-3505.32.xml"/>
+      <xi:include href="sections/42-3505.33.xml"/>
+      <xi:include href="sections/42-3505.34.xml"/>
+      <xi:include href="sections/42-3505.35.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

@@ -1,7 +1,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-1671.05</num>
   <heading>Medical marijuana program.</heading>
-  <text>There is established a medical marijuana program, which shall regulate the manufacture, cultivation, distribution, dispensing, purchase, delivery, sale, possession, and administration of medical marijuana and the manufacture, possession, purchase, sale, and use of paraphernalia. The Program shall be administered by the Mayor and shall:</text>
+  <text>There is established a medical marijuana program, which shall regulate the manufacture, cultivation, distribution, dispensing, purchase, delivery, sale, possession, testing, and administration of medical marijuana and the manufacture, possession, purchase, sale, and use of paraphernalia. The Program shall be administered by the Mayor and shall:</text>
   <para>
     <num>(1)</num>
     <para>
@@ -9,7 +9,7 @@
       <text>Require the registration with the Department of all:</text>
       <para>
         <num>(i)</num>
-        <text>Qualifying patients; and</text>
+        <text>Qualifying patients, except qualifying patients enrolled in another jurisdiction's medical marijuana program under <cite path="§7-1671.02|(c)|(2)">§ 7-1671.02(c)(2)</cite>; and</text>
       </para>
       <para>
         <num>(ii)</num>
@@ -21,11 +21,11 @@
       <text>As part of the registration process, require a qualifying patient to:</text>
       <para>
         <num>(i)</num>
-        <text>Designate the dispensary from which the qualifying patient will receive medical marijuana; provided, that the qualifying patient may change the designation with 14 days written notice to the Department; and</text>
+        <text>Repealed.</text>
       </para>
       <para>
         <num>(ii)</num>
-        <text>Provide a copy of the physician’s recommendation for the qualifying patient’s use of medical marijuana;</text>
+        <text>Repealed.</text>
       </para>
     </para>
   </para>
@@ -38,37 +38,41 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Cultivation centers; and</text>
+      <text>Cultivation centers;</text>
+    </para>
+    <para>
+      <num>(B-i)</num>
+      <text>Testing laboratories; and</text>
     </para>
     <para>
       <num>(C)</num>
-      <text>Directors, officers, members, incorporators, agents, and employees of dispensaries and cultivation centers;</text>
+      <text>Directors, officers, members, incorporators, agents, and employees of dispensaries, cultivation centers, and testing laboratories;</text>
     </para>
   </para>
   <para>
     <num>(3)</num>
-    <text>Issue nontransferable registration identification cards that expire annually to registered persons and entities, which may be presented to and used by law enforcement to confirm whether a person or entity is authorized to administer, cultivate, dispense, distribute, or possess medical marijuana, or manufacture, possess, or distribute paraphernalia;</text>
+    <text>Issue nontransferable registration identification cards that expire annually to registered persons and entities, which may be presented to and used by law enforcement to confirm whether a person or entity is authorized to administer, cultivate, dispense, distribute, test, or possess medical marijuana, or manufacture, possess, or distribute paraphernalia;</text>
   </para>
   <para>
     <num>(4)</num>
-    <text>Require all dispensaries and cultivation centers to:</text>
+    <text>Require all dispensaries, cultivation centers, and testing laboratories to:</text>
     <para>
       <num>(A)</num>
-      <text>Maintain true, complete, and current records of the following:</text>
+      <text>Maintain true, complete, and real-time electronic records of the following:</text>
       <para>
         <num>(i)</num>
         <text>The name, address, home telephone number, and date of birth of each employee;</text>
       </para>
       <para>
         <num>(ii)</num>
-        <text>A record of each transaction, including:</text>
+        <text>Each transaction conducted by the facility, including:</text>
         <para>
           <num>(I)</num>
-          <text>The quantity of medical marijuana distributed or dispensed;</text>
+          <text>The quantity of medical marijuana tested, distributed, or dispensed;</text>
         </para>
         <para>
           <num>(II)</num>
-          <text>The consideration given for the medical marijuana; and</text>
+          <text>The consideration given for the medical marijuana, if any; and</text>
         </para>
         <para>
           <num>(III)</num>
@@ -77,11 +81,11 @@
       </para>
       <para>
         <num>(iii)</num>
-        <text>The quantity of medical marijuana at the dispensary or cultivation center;</text>
+        <text>The quantity of medical marijuana at the dispensary, cultivation center, or testing laboratory;</text>
       </para>
       <para>
         <num>(iv)</num>
-        <text>The disposal method used for any medical marijuana that was cultivated or acquired but not sold, including evidence of the disposal of the medical marijuana; and</text>
+        <text>The disposal method used for any medical marijuana that was cultivated or acquired but that did not meet the requirements for sale established by the Department through rulemaking under paragraph (5A) of this section or that was not sold for any other reason, including evidence of the disposal of the medical marijuana; and</text>
       </para>
       <para>
         <num>(v)</num>
@@ -106,6 +110,42 @@
     </para>
   </para>
   <para>
+    <num>(5A)</num>
+    <text>Upon the registration of at least one testing laboratory under paragraph (2)(B-i) of this section and pursuant to rules issued by the Department, require that cultivation centers segregate all harvested medical marijuana into batches before manufacturing any medical marijuana product or packaging raw medical marijuana for sale to a dispensary and hold the harvested medical marijuana from sale until:</text>
+    <para>
+      <num>(A)</num>
+      <text>The medical marijuana has been tested by a testing laboratory;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The cultivation center has received the information required under paragraph (5B) of this section; and</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The cultivation center has determined that the medical marijuana meets the requirements for sale established by the Department through rulemaking;</text>
+    </para>
+  </para>
+  <para>
+    <num>(5B)</num>
+    <text>Require testing laboratories to provide cultivation centers with the following information after testing harvested medical marijuana samples:</text>
+    <para>
+      <num>(A)</num>
+      <text>The concentration of tetrahydrocannabinol and cannabidiol in the testing material;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Whether the tested material is organic or non-organic;</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>The presence and concentration of fertilizers and other nutrients; and</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Any other information that the Department may require through rulemaking;</text>
+    </para>
+  </para>
+  <para>
     <num>(6)</num>
     <text>Develop educational materials about potential harmful drug interactions that could occur from using medical marijuana concurrently with other medical treatments and the importance of informing health care providers and pharmacists of the use of medical marijuana to help avoid harmful drug interactions;</text>
   </para>
@@ -119,7 +159,7 @@
   </para>
   <para>
     <num>(9)</num>
-    <text>Establish sliding-scale registration and annual renewal fees for all persons and entities required to register pursuant to this chapter; provided, that the registration and annual renewal fees for dispensaries and cultivation centers and for the directors, officers, members, incorporators, agents, and employees of dispensaries and cultivation centers shall be sufficient to offset the costs of administering this chapter;</text>
+    <text>Establish sliding-scale registration and annual renewal fees for all persons and entities required to register pursuant to this chapter; provided, that the registration and annual renewal fees for dispensaries, cultivation centers, and testing laboratories and for the directors, officers, members, incorporators, agents, and employees of dispensaries, cultivation centers, and testing laboratories shall be sufficient to offset the costs of administering this chapter;</text>
   </para>
   <para>
     <num>(10)</num>
@@ -135,7 +175,7 @@
   </para>
   <para>
     <num>(11)</num>
-    <text>Submit to the Council an annual report that does not disclose any identifying information about qualifying patients, caregivers, or physicians, but that includes:</text>
+    <text>Submit to the Council an annual report that does not disclose any identifying information about qualifying patients, caregivers, or authorized practitioners, but that includes:</text>
     <para>
       <num>(A)</num>
       <text>The number of applications filed for a registration identification card;</text>
@@ -154,12 +194,12 @@
     </para>
     <para>
       <num>(E)</num>
-      <text>The number of physicians providing written recommendations for qualifying patients;</text>
+      <text>The number of authorized practitioners providing written recommendations for qualifying patients;</text>
     </para>
   </para>
   <para>
     <num>(12)</num>
-    <text>Establish standards by which applicants for dispensary and cultivation center registration will be evaluated to determine which applicants will be accepted for registration and renewal of registration, which shall include the following factors:</text>
+    <text>Establish standards by which applicants for dispensary, cultivation center, and testing laboratory registration will be evaluated to determine which applicants will be accepted for registration and renewal of registration, which shall include the following factors:</text>
     <para>
       <num>(A)</num>
       <text>Knowledge of District and federal law relating to marijuana;</text>
@@ -189,11 +229,11 @@
     <num>(13)</num>
     <para>
       <num>(A)</num>
-      <text>Provide notice through the mail to all Advisory Neighborhood Commissions in the affected ward at least 30 days prior to approval of a location for a dispensary or cultivation center; and</text>
+      <text>Provide notice through the mail to the Councilmember and all Advisory Neighborhood Commissions in the affected ward at least 30 days prior to approval of a location for a dispensary, cultivation center, or testing laboratory; and</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>Accord great weight to input provided by the Advisory Neighborhood Commission regarding the proposed location of a dispensary or cultivation center when approving or rejecting an application for registration; and</text>
+      <text>Accord great weight to input provided by the Advisory Neighborhood Commission regarding the proposed location of a dispensary, cultivation center, or testing laboratory when approving or rejecting an application for registration; and</text>
     </para>
   </para>
   <para>
@@ -205,5 +245,30 @@
     <annotation doc="D.C. Law 18-210" type="History">as added July 27, 2010, D.C. Law 18-210, § 2, 57 DCR 4798</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§7-1671.01">7-1671.01</cite> and § <cite path="§7-1671.02">7-1671.02</cite>.</annotation>
     <annotation type="Delegation of Authority">Establishment of Medical Marijuana Program and Delegation of Authority, see Mayor’s Order 2010-138, August 6, 2010 ( 57 DCR 7110).</annotation>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(1)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(2)|(A)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(2)|(B)|(i)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(2)|(B)|(ii)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(3)|(A)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(3)|(B)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(3)|(C)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(4)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(5)|(A)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(5)|(B)|(i)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(5)|(B)|(ii)|(I)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(5)|(B)|(ii)|(II)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(5)|(B)|(ii)|(III)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(5)|(B)|(iii)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(5)|(B)|(iv)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(6)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(6)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(7)|(A)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(7)|(B)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(8)|(A)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(8)|(B)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(9)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(10)|(A)|(i)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(10)|(A)|(ii)" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-209" eff="2017-02-18" path="§2|(e)|(10)|(B)" type="History"/>
   </annotations>
 </section>
