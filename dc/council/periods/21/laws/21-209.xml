@@ -289,7 +289,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(3)</num>
         <text>A new paragraph (2) is added to read as follows:</text>
         <include>
@@ -301,6 +301,11 @@
         </include>
         <aftertext>.</aftertext>
       </para>
+      <div xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+        <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-209" path="">D.C. Law 21-209</cite>: <cite doc="D.C. Law 21-209" path="§4">§ 4 of D.C. Law 21-209</cite> provided that the change made to this section by <cite doc="D.C. Law 21-209" path="§2|(b)">§ 2(b) of D.C. Law 21-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
+      </codify:annotation>
+      </div>
     </para>
     <para codify:path="§7-1671.03">
       <num>(c)</num>
@@ -503,7 +508,7 @@
         <para codify:path="(B)">
           <num>(B)</num>
           <text>Subparagraph (B) is amended as follows:</text>
-          <para codify:path="(i)">
+          <para codify:path="(i)" codify:applicability="pending">
             <num>(i)</num>
             <text>Sub-subparagraph (i) is repealed.</text>
             <codify:repeal/>
@@ -511,7 +516,10 @@
           <para codify:path="(ii)">
             <num>(ii)</num>
             <text>Sub-subparagraph (ii) is amended by striking the phrase "physician's recommendation" and inserting the phrase "authorized practitioner's recommendation" in its place.</text>
-            <codify:repeal/>
+            <codify:find-replace count="1">
+              <find>physician's recommendation</find>
+              <replace>authorized practitioner's recommendation</replace>
+            </codify:find-replace>
           </para>
         </para>
       </para>
@@ -569,7 +577,7 @@
         <para codify:path="(A)">
           <num>(B)</num>
           <text>Subparagraph (A) is amended as follows:</text>
-          <para codify:path="text">
+          <para codify:path="text" codify:applicability="pending">
             <num>(i)</num>
             <text>The lead-in language is amended by striking the phrase "and current records" and inserting the phrase "and real-time electronic records" in its place.</text>
             <codify:find-replace count="1">
@@ -748,6 +756,11 @@
           </codify:find-replace>
         </para>
       </para>
+      <div xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+        <codify:annotation codify:applicability="effective" type="Editor's Notes">
+       Applicability of <cite doc="D.C. Law 21-209" path="">D.C. Law 21-209</cite>: <cite doc="D.C. Law 21-209" path="§4">§ 4 of D.C. Law 21-209</cite> provided that the change made to this section by <cite doc="D.C. Law 21-209" path="§2|(e)">§ 2(e) of D.C. Law 21-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
+      </codify:annotation>
+      </div>
     </para>
     <para codify:path="§7-1671.06">
       <num>(f)</num>
@@ -1065,8 +1078,7 @@
   </section>
   <section codify:doc="D.C. Code">
     <num>3</num>
-    <text>The District of Columbia Health Occupations Revision Act of 1985, effective March 25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1201.01
-      <em> et seq.</em>), is amended as follows:
+    <text>The District of Columbia Health Occupations Revision Act of 1985, effective March 25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1201.01 <em> et seq.</em>), is amended as follows:
     </text>
     <para codify:path="§3-1202.01">
       <num>(a)</num>
@@ -1188,6 +1200,9 @@
     <para>
       <num>(a)</num>
       <text>Sections 2(b)(3), (e)(2)(B)(i), and (e)(5)(B)(i) shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability doc="D.C. Law 21-209" path="§2|(b)|(3)" date="notfunded" history="false"/>
+      <codify:applicability doc="D.C. Law 21-209" path="§2|(e)|(2)|(B)|(i)" date="pending" history="false"/>
+      <codify:applicability doc="D.C. Law 21-209" path="§2|(e)|(5)|(B)|(i)" date="pending" history="false"/>
     </para>
     <para>
       <num>(b)</num>
