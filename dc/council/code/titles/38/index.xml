@@ -551,6 +551,17 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>8B</num>
+    <heading>Protection of Students Digital Privacy.</heading>
+    <xi:include href="sections/38-831.01.xml"/>
+    <xi:include href="sections/38-831.02.xml"/>
+    <xi:include href="sections/38-831.03.xml"/>
+    <xi:include href="sections/38-831.04.xml"/>
+    <xi:include href="sections/38-831.05.xml"/>
+    <xi:include href="sections/38-831.06.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>8C</num>
     <heading>Title IX Athletic Equity.</heading>
     <xi:include href="sections/38-841.01.xml"/>
