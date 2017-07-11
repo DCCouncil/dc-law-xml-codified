@@ -444,6 +444,16 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>5A</num>
+    <heading>Nonwoven Disposable Products.</heading>
+    <xi:include href="sections/8-521.xml"/>
+    <xi:include href="sections/8-522.xml"/>
+    <xi:include href="sections/8-523.xml"/>
+    <xi:include href="sections/8-524.xml"/>
+    <xi:include href="sections/8-525.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>6</num>
     <heading>Privies.</heading>
     <xi:include href="sections/8-601.xml"/>
