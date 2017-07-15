@@ -52,11 +52,9 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <div xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-        <codify:annotation codify:applicability="effective" type="Editor's Notes">
+      <codify:annotation codify:applicability="effective" type="Editor's Notes">
        Applicability of <cite doc="D.C. Law 21-211" path="">D.C. Law 21-211</cite>: <cite doc="D.C. Law 21-211" path="§5">§ 5 of D.C. Law 21-211</cite> provided that the change made to this section by <cite doc="D.C. Law 21-211" path="§2|(a)">§ 2(a) of D.C. Law 21-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
       </codify:annotation>
-      </div>
     </para>
     <para codify:path="§42-3531.10">
       <num>(b)</num>
@@ -65,11 +63,9 @@
         <find>On or before December 1, 2007, the</find>
         <replace>The</replace>
       </codify:find-replace>
-      <div xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-        <codify:annotation codify:applicability="effective" type="Editor's Notes">
+      <codify:annotation codify:applicability="effective" type="Editor's Notes">
        Applicability of <cite doc="D.C. Law 21-211" path="">D.C. Law 21-211</cite>: <cite doc="D.C. Law 21-211" path="§5">§ 5 of D.C. Law 21-211</cite> provided that the change made to this section by <cite doc="D.C. Law 21-211" path="§2|(b)">§ 2(b) of D.C. Law 21-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
       </codify:annotation>
-      </div>
     </para>
     <para>
       <num>(c)</num>
@@ -132,11 +128,9 @@
             </para>
           </para>
           <annotation doc="D.C. Law 16-33" type="History" path="§2068c">Oct. 20, 2005, D.C. Law 16-33, § 2068c</annotation>
-          <div xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-            <codify:annotation codify:applicability="effective" type="Editor's Notes">
+          <codify:annotation codify:applicability="effective" type="Editor's Notes">
        Applicability of <cite doc="D.C. Law 21-211" path="">D.C. Law 21-211</cite>: <cite doc="D.C. Law 21-211" path="§5">§ 5 of D.C. Law 21-211</cite> provided that the creation of this section by <cite doc="D.C. Law 21-211" path="§2|(c)">§ 2(c) of D.C. Law 21-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
       </codify:annotation>
-          </div>
         </section>
         <section>
           <codify:insert path="|42|35A" after="§42-3531.11" num-value="42-3531.12" history-prefix="as added"/>
@@ -174,11 +168,9 @@
             <text>For the purpose of this section, a mailed bill is presumed to have been received by the owner 7 calendar days after the date of mailing.</text>
           </para>
           <annotation doc="D.C. Law 16-33" type="History" path="§2068d">Oct. 20, 2005, D.C. Law 16-33, § 2068d</annotation>
-          <div xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-            <codify:annotation codify:applicability="effective" type="Editor's Notes">
+          <codify:annotation codify:applicability="effective" type="Editor's Notes">
        Applicability of <cite doc="D.C. Law 21-211" path="">D.C. Law 21-211</cite>: <cite doc="D.C. Law 21-211" path="§5">§ 5 of D.C. Law 21-211</cite> provided that the creation of this section by <cite doc="D.C. Law 21-211" path="§2|(c)">§ 2(c) of D.C. Law 21-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
       </codify:annotation>
-          </div>
         </section>
         <section>
           <codify:insert path="|42|35A" after="§42-3531.12" num-value="42-3531.13" history-prefix="as added"/>
@@ -208,11 +200,9 @@
             <text>If an administrative law judge issues an order finding an owner liable, the owner shall pay the amount due within 30 days after the issuance of the order.</text>
           </para>
           <annotation doc="D.C. Law 16-33" type="History" path="§2068e">Oct. 20, 2005, D.C. Law 16-33, § 2068e</annotation>
-          <div xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-            <codify:annotation codify:applicability="effective" type="Editor's Notes">
+          <codify:annotation codify:applicability="effective" type="Editor's Notes">
        Applicability of <cite doc="D.C. Law 21-211" path="">D.C. Law 21-211</cite>: <cite doc="D.C. Law 21-211" path="§5">§ 5 of D.C. Law 21-211</cite> provided that the creation of this section by <cite doc="D.C. Law 21-211" path="§2|(c)">§ 2(c) of D.C. Law 21-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
       </codify:annotation>
-          </div>
         </section>
         <section>
           <codify:insert path="|42|35A" after="§42-3531.13" num-value="42-3531.14" history-prefix="as added"/>
@@ -220,11 +210,9 @@
           <heading>Collection.</heading>
           <text>The Attorney General for the District of Columbia may bring any appropriate legal action, or defend any action, to collect the amount owed by an owner pursuant to <code-cite doc="D.C. Code" path="|42|35A">this act</code-cite>.</text>
           <annotation doc="D.C. Law 16-33" type="History" path="§2068f">Oct. 20, 2005, D.C. Law 16-33, § 2068f</annotation>
-          <div xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-            <codify:annotation codify:applicability="effective" type="Editor's Notes">
+          <codify:annotation codify:applicability="effective" type="Editor's Notes">
        Applicability of <cite doc="D.C. Law 21-211" path="">D.C. Law 21-211</cite>: <cite doc="D.C. Law 21-211" path="§5">§ 5 of D.C. Law 21-211</cite> provided that the creation of this section by <cite doc="D.C. Law 21-211" path="§2|(c)">§ 2(c) of D.C. Law 21-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
       </codify:annotation>
-          </div>
         </section>
         <section>
           <codify:insert path="|42|35A" after="§42-3531.14" num-value="42-3531.15" history-prefix="as added"/>
@@ -262,11 +250,9 @@
             <text>Interest on an amount due pursuant to this section shall be at the rate of 1 1/2% per month, and shall be prorated if interest is owed for a portion of a month.</text>
           </para>
           <annotation doc="D.C. Law 16-33" type="History" path="§2068g">Oct. 20, 2005, D.C. Law 16-33, § 2068g</annotation>
-          <div xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-            <codify:annotation codify:applicability="effective" type="Editor's Notes">
+          <codify:annotation codify:applicability="effective" type="Editor's Notes">
        Applicability of <cite doc="D.C. Law 21-211" path="">D.C. Law 21-211</cite>: <cite doc="D.C. Law 21-211" path="§5">§ 5 of D.C. Law 21-211</cite> provided that the creation of this section by <cite doc="D.C. Law 21-211" path="§2|(c)">§ 2(c) of D.C. Law 21-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
       </codify:annotation>
-          </div>
         </section>
         <section>
           <codify:insert path="|42|35A" after="§42-3531.15" num-value="42-3531.16" history-prefix="as added"/>
@@ -289,11 +275,9 @@
             <text>The money deposited into the Fund, and interest earned, shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
           </para>
           <annotation doc="D.C. Law 16-33" type="History" path="§2068h">Oct. 20, 2005, D.C. Law 16-33, § 2068h</annotation>
-          <div xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-            <codify:annotation codify:applicability="effective" type="Editor's Notes">
+          <codify:annotation codify:applicability="effective" type="Editor's Notes">
        Applicability of <cite doc="D.C. Law 21-211" path="">D.C. Law 21-211</cite>: <cite doc="D.C. Law 21-211" path="§5">§ 5 of D.C. Law 21-211</cite> provided that the creation of this section by <cite doc="D.C. Law 21-211" path="§2|(c)">§ 2(c) of D.C. Law 21-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
       </codify:annotation>
-          </div>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -307,11 +291,9 @@
         <codify:insert doc="D.C. Code" path="§2-1831.03" after="(b-10)"/>
         <num>(b-11)</num>
         <text>In addition to those cases described in subsections (a), (b), (b-1), (b-2), (b-3), (b-4), (b-5), (b-6), (b-7), (b-8), (b-9), and (b-10), this act shall apply to all adjudicated cases involving the reimbursement of emergency housing and relocation assistance as authorized by <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§42-3531.11" codify:value="42-3531.11">2068c </code-cite> through <code-cite doc="D.C. Code" path="§42-3531.16" codify:value="42-3531.16">2068h of the Office of the Chief Tenant Advocate Establishment Act of 2005, passed on 2nd reading on November 15, 2016 (Enrolled version of Bill 21-656</code-cite>).</text>
-        <div xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-          <codify:annotation codify:applicability="effective" type="Editor's Notes">
+        <codify:annotation codify:applicability="effective" type="Editor's Notes">
        Applicability of <cite doc="D.C. Law 21-211" path="">D.C. Law 21-211</cite>: <cite doc="D.C. Law 21-211" path="§5">§ 5 of D.C. Law 21-211</cite> provided that the change made to this section by <cite doc="D.C. Law 21-211" path="§3">§ 3 of D.C. Law 21-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
       </codify:annotation>
-        </div>
       </para>
     </include>
     <aftertext>.</aftertext>
@@ -323,11 +305,9 @@
       <find>any delinquent water and sewer charges; and any delinquent litter control nuisance fines,</find>
       <replace>any delinquent water and sewer charges; any lien for tenant relocation expenses under <code-cite doc="D.C. Code" path="§42-3531.16">section 2068g of the Office of the Chief Tenant Advocate Establishment Act of 2005, passed on 2nd reading on November 15, 2016 (Enrolled version of Bill 21-656)</code-cite>; and any delinquent litter control nuisance fines,</replace>
     </codify:find-replace>
-    <div xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-      <codify:annotation codify:applicability="effective" type="Editor's Notes" doc="D.C. Code" path="§2-1215.15">
+    <codify:annotation codify:applicability="effective" type="Editor's Notes" doc="D.C. Code" path="§2-1215.15">
        Applicability of <cite doc="D.C. Law 21-211" path="">D.C. Law 21-211</cite>: <cite doc="D.C. Law 21-211" path="§5">§ 5 of D.C. Law 21-211</cite> provided that the creation of this section by <cite doc="D.C. Law 21-211" path="§4">§ 4 of D.C. Law 21-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
       </codify:annotation>
-    </div>
   </section>
   <section>
     <num>5</num>
