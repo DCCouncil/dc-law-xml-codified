@@ -291,6 +291,7 @@
       <xi:include href="sections/24-403.xml"/>
       <xi:include href="sections/24-403.01.xml"/>
       <xi:include href="sections/24-403.02.xml"/>
+      <xi:include href="sections/24-403.03.xml"/>
       <xi:include href="sections/24-404.xml"/>
       <xi:include href="sections/24-405.xml"/>
       <xi:include href="sections/24-406.xml"/>
@@ -453,6 +454,14 @@
       <xi:include href="sections/24-905.xml"/>
       <xi:include href="sections/24-906.xml"/>
       <xi:include href="sections/24-907.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I-A</num>
+      <heading>Improving the Conditions of Confinement of Juveniles.</heading>
+      <xi:include href="sections/24-911.xml"/>
+      <xi:include href="sections/24-912.xml"/>
+      <xi:include href="sections/24-913.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

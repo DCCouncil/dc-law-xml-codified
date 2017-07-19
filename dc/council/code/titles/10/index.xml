@@ -302,9 +302,21 @@
     <prefix>Chapter</prefix>
     <num>7</num>
     <heading>Repairs and Improvements of Public Buildings.</heading>
-    <xi:include href="sections/10-701.xml"/>
-    <xi:include href="sections/10-702.xml"/>
-    <xi:include href="sections/10-703.xml"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>General.</heading>
+      <xi:include href="sections/10-701.xml"/>
+      <xi:include href="sections/10-702.xml"/>
+      <xi:include href="sections/10-703.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Healthy Public Buildings Assessment.</heading>
+      <xi:include href="sections/10-711.xml"/>
+      <xi:include href="sections/10-712.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>

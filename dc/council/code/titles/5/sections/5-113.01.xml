@@ -1,67 +1,6 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-113.01</num>
   <heading>Records — Required.</heading>
-  <text>The Mayor of the District of Columbia shall cause the Metropolitan Police force to keep the following records:</text>
-  <para>
-    <num>(1)</num>
-    <text>General complaint files, in which shall be entered every complaint preferred upon personal knowledge of the circumstances thereof, with the name and residence of the complainant;</text>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>Records of lost, missing, or stolen property;</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>A personnel record of each member of the Metropolitan Police force, which shall contain his name and residence; the date and place of his birth; his marital status; the date he became a citizen, if foreign born; his age; his former occupation; and the dates of his appointment and separation from office, together with the cause of the latter;</text>
-  </para>
-  <para>
-    <num>(4)</num>
-    <text>Arrest books, which shall contain the following information:</text>
-    <para>
-      <num>(A)</num>
-      <text>Case number, date of arrest, and time of recording arrest in arrest book;</text>
-    </para>
-    <para>
-      <num>(B)</num>
-      <text>Name, address, date of birth, color, birthplace, occupation, and marital status of person arrested;</text>
-    </para>
-    <para>
-      <num>(C)</num>
-      <text>Offense with which person arrested was charged and place where person was arrested;</text>
-    </para>
-    <para>
-      <num>(D)</num>
-      <text>Name and address of complainant;</text>
-    </para>
-    <para>
-      <num>(E)</num>
-      <text>Name of arresting officer; and</text>
-    </para>
-    <para>
-      <num>(F)</num>
-      <text>Disposition of case;</text>
-    </para>
-  </para>
-  <para>
-    <num>(4A)</num>
-    <text>The Metropolitan Police force shall maintain a computerized record of a civil protection order or bench warrant issued as a result of an intrafamily offense; and</text>
-  </para>
-  <para>
-    <num>(4B)</num>
-    <text>[Not Funded].</text>
-  </para>
-  <para>
-    <num>(4C)</num>
-    <text>[Not Funded].</text>
-  </para>
-  <para>
-    <num>(4D)</num>
-    <text>[Not Funded].</text>
-  </para>
-  <para>
-    <num>(5)</num>
-    <text>Such other records as the Council of the District of Columbia considers necessary for the efficient operation of the Metropolitan Police force.</text>
-  </para>
   <annotations>
     <annotation type="History" doc="R.S., D.C." path="§386">R.S., D.C., § 386</annotation>
     <annotation type="History">June 11, 1878, 20 Stat. 107, ch. 180, § 6</annotation>
@@ -80,5 +19,79 @@
        Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§209">§ 209 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
       </annotation>
     <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§209" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 21-238" eff="2017-04-04" path="§303|(b)" type="History"/>
+    <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="§303|(a)" type="History"/>
+    <annotation type="Editor's Notes" doc="D.C. Law 21-238" path="§303" app="2017-04-04" eff="2017-04-04">
+       Applicability of <cite doc="D.C. Law 21-238" path="">D.C. Law 21-238</cite>: <cite doc="D.C. Law 21-238" path="§701">§ 701 of D.C. Law 21-238</cite> provided that the change made to this section by <cite doc="D.C. Law 21-238" path="§303">§ 303 of D.C. Law 21-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
+      </annotation>
+    <annotation app="2017-04-04" doc="D.C. Law 21-238" eff="2017-04-04" path="§303" type="History"/>
   </annotations>
+  <para>
+    <num>(a)</num>
+    <text>The Mayor of the District of Columbia shall cause the Metropolitan Police force to keep the following records:</text>
+    <para>
+      <num>(1)</num>
+      <text>General complaint files, in which shall be entered every complaint preferred upon personal knowledge of the circumstances thereof, with the name and residence of the complainant;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Records of lost, missing, or stolen property;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A personnel record of each member of the Metropolitan Police force, which shall contain his name and residence; the date and place of his birth; his marital status; the date he became a citizen, if foreign born; his age; his former occupation; and the dates of his appointment and separation from office, together with the cause of the latter;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Arrest books, which shall contain the following information:</text>
+      <para>
+        <num>(A)</num>
+        <text>Case number, date of arrest, and time of recording arrest in arrest book;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Name, address, date of birth, color, birthplace, occupation, and marital status of person arrested;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Offense with which person arrested was charged and place where person was arrested;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Name and address of complainant;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Name of arresting officer; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Disposition of case;</text>
+      </para>
+    </para>
+    <para>
+      <num>(4A)</num>
+      <text>The Metropolitan Police force shall maintain a computerized record of a civil protection order or bench warrant issued as a result of an intrafamily offense; and</text>
+    </para>
+    <para>
+      <num>(4B)</num>
+      <text>[Not Funded].</text>
+    </para>
+    <para>
+      <num>(4C)</num>
+      <text>[Not Funded].</text>
+    </para>
+    <para>
+      <num>(4D)</num>
+      <text>[Not Funded].</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Such other records as the Council of the District of Columbia considers necessary for the efficient operation of the Metropolitan Police force.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>[Not Funded].</text>
+  </para>
 </section>
