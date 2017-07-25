@@ -654,10 +654,12 @@
       <xi:include href="sections/42-1903.06.xml"/>
       <xi:include href="sections/42-1903.07.xml"/>
       <xi:include href="sections/42-1903.08.xml"/>
+      <xi:include href="sections/42-1903.08a.xml"/>
       <xi:include href="sections/42-1903.09.xml"/>
       <xi:include href="sections/42-1903.10.xml"/>
       <xi:include href="sections/42-1903.11.xml"/>
       <xi:include href="sections/42-1903.12.xml"/>
+      <xi:include href="sections/42-1903.12a.xml"/>
       <xi:include href="sections/42-1903.13.xml"/>
       <xi:include href="sections/42-1903.14.xml"/>
       <xi:include href="sections/42-1903.15.xml"/>
@@ -1357,6 +1359,7 @@
       <xi:include href="sections/42-3502.21.xml"/>
       <xi:include href="sections/42-3502.22.xml"/>
       <xi:include href="sections/42-3502.23.xml"/>
+      <xi:include href="sections/42-3502.24.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

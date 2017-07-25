@@ -1,6 +1,6 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-3402.08</num>
-  <heading>Elderly or disabled tenancy.</heading>
+  <heading>Tenancy of elderly tenants and tenants with disabilities.</heading>
   <para>
     <num>(a)</num>
     <heading>Eviction limited. —</heading>
@@ -10,7 +10,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Notwithstanding any other provision of this subchapter, Chapter 19 of this title, or Chapter 35 of this title, an owner of a rental unit in a housing accommodation converted under the provisions of this subchapter shall not evict or send notice to vacate to an elderly or disabled tenant if the combined annual household income for his or her unit, as determined by the Mayor, does not exceed the qualifying income, unless:</text>
+      <text>Notwithstanding any other provision of this subchapter, Chapter 19 of this title, or Chapter 35 of this title, an owner of a rental unit in a housing accommodation converted under the provisions of this subchapter shall not evict or send notice to vacate to an elderly tenant or tenant with a disability if the combined annual household income for his or her unit, as determined by the Mayor, does not exceed the qualifying income, unless:</text>
       <para>
         <num>(A)</num>
         <text>The tenant violates an obligation of the tenancy and fails to correct the violation within 30 days after receiving notice of the violation from the owner;</text>
@@ -43,60 +43,66 @@
   <para>
     <num>(b)</num>
     <heading>Rent level. —</heading>
-    <text>Any owner of a converted unit shall not charge an elderly or disabled tenant rent in excess of the lawful rent at the time of request for a tenant election for purposes of conversion plus annual increases on that basis authorized under the Rental Housing Act.</text>
+    <text>Any owner of a converted unit shall not charge an elderly tenant or tenant with a disability rent in excess of the lawful rent at the time of request for a tenant election for purposes of conversion plus annual increases on that basis authorized under the Rental Housing Act.</text>
   </para>
   <para>
     <num>(c)</num>
-    <heading>Qualification. —</heading>
+    <heading>Qualification. –</heading>
     <para>
       <num>(1)</num>
-      <text>An elderly or disabled tenant shall qualify under this subchapter if, on the day a tenant election is held for the purposes of conversion, the elderly or disabled tenant:</text>
+      <text>A tenant shall qualify under <cite path="42|34|II">this subchapter</cite> if, on the day a tenant election is held for the purposes of conversion, the tenant:</text>
       <para>
         <num>(A)</num>
-        <text>Is entitled to the possession, occupancy, or the benefits of his or her rental unit; and</text>
+        <text>Is entitled to the possession, occupancy, or the benefits of the tenant's rental unit; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <para>
-          <num>(i)</num>
-          <text>Is 62 years of age or older; or</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <para>
-            <num>(I)</num>
-            <text>Has a disability as defined in section 3(2)(A) of the Americans with Disabilities Act of 1990, approved July 26, 1990 (104 Stat. 329; 42 U.S.C. § 12102(2)(A)), and 29 C.F.R. § 1630.2(g)(1).</text>
-          </para>
-          <para>
-            <num>(II)</num>
-            <text>In making a determination that a tenant qualifies under this sub-subparagraph, the Mayor shall limit the inquiry to the minimum information and documentation necessary to establish that the tenant meets the definition of disabled provided in sub-sub-subparagraph (I) of this sub-subparagraph, and shall not inquire further into the nature or severity of the disability. The Mayor shall not require the tenant to provide a description of the disability when making an eligibility determination; provided, that the Mayor shall require that a physician or other licensed healthcare professional verify that a tenant meets the definition of disabled in sub-sub-subparagraph (I) of this sub-subparagraph. The Mayor shall not require the tenant to provide eligibility documentation in less than 30 days.</text>
-          </para>
-          <para>
-            <num>(III)</num>
-            <text>The Mayor shall maintain records of the information compiled under this sub-subparagraph; provided, that the Mayor:</text>
-            <para>
-              <num>(aa)</num>
-              <text>Shall not disclose information about a tenant’s disability unless the disclosure is required by law;</text>
-            </para>
-            <para>
-              <num>(bb)</num>
-              <text>May provide a list of eligible voters upon request; and</text>
-            </para>
-            <para>
-              <num>(cc)</num>
-              <text>May make a list of eligible voters available at the site of the tenant election.</text>
-            </para>
-          </para>
-          <para>
-            <num>(IV)</num>
-            <text>In requesting information under this sub-subparagraph, the Mayor shall inform tenants that their names will be absent from publicly available lists of eligible voters and the Mayor shall not disclose information provided about a tenant’s disability unless the disclosure is required by law.</text>
-          </para>
-        </para>
+        <text>Is an elderly tenant or a tenant with a disability.</text>
       </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>The Mayor shall develop such forms and procedures as may be necessary to verify eligibility under this subsection.</text>
+      <text>In making a determination that a tenant qualifies as a tenant with a disability under <cite path="42|34|II">this subchapter</cite>, the Mayor:</text>
+      <para>
+        <num>(A)</num>
+        <text>Shall limit the inquiry to the minimum information and documentation necessary to establish that the tenant meets the definition of a tenant with a disability and shall not inquire further into the nature or severity of the disability;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Shall not require the tenant to provide a description of the disability when making an eligibility determination; provided, that the Mayor may require that a physician or other licensed healthcare professional verify that a tenant meets the definition of a tenant with a disability; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Shall not require the tenant to provide eligibility documentation in fewer than 30 days.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Mayor shall maintain records of the information compiled under this subsection and shall not disclose information about the disability of a tenant unless the disclosure is required by law.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>In requesting information under this subsection, the Mayor:</text>
+      <para>
+        <num>(A)</num>
+        <text>Shall not include a qualified voter's name on any publicly available list of eligible voters;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Shall inform tenants that their names will be absent from publicly available lists of eligible voters; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Shall not disclose information provided about a tenant's disability unless the disclosure is required by law.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The Mayor may provide a list of eligible voters upon request and may make a list of eligible voters available at the site of the tenant election.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The Mayor shall develop all forms and procedures as may be necessary to verify eligibility under this subsection.</text>
     </para>
   </para>
   <annotations>
@@ -114,5 +120,9 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-354">D.C. Law 17-354</cite> rewrote subsec. (a)(1), which had read as follows: “(a) Eviction limited.—(1)(A) For the purposes of this subsection, the term ‘qualifying income’ means the applicable percentage for the household size, as set forth in subparagraph (B) of this paragraph, of the area median income for a household of 4 persons for the Washington-Arlington-Alexandria Metropolitan area, as established by the U.S. Department of Housing and Urban Development.”</annotation>
     <annotation type="Mayor's Orders">Declaration of continuing housing crisis: See Mayor’s Order 83-239, October 7, 1983.</annotation>
     <annotation type="Editor's Notes">Reenactment of Law 3-86: See Historical and Statutory Notes following § <cite path="§42-3401.01">42-3401.01</cite>.</annotation>
+    <annotation app="2017-04-07" doc="D.C. Law 21-239" eff="2017-04-07" path="§2|(f)|(1)" type="History"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-239" eff="2017-04-07" path="§2|(f)|(2)" type="History"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-239" eff="2017-04-07" path="§2|(f)|(3)" type="History"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-239" eff="2017-04-07" path="§2|(f)|(4)" type="History"/>
   </annotations>
 </section>

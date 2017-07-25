@@ -1,0 +1,34 @@
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>42-1903.12a</num>
+  <heading>Notice of intention to take legal action to collect past due amounts.</heading>
+  <text>The unit owners' association shall, when advising the unit owner of its intention to take legal action to collect any past due amount owed by a unit owner, provide a notice to the unit owner to include:</text>
+  <para>
+    <num>(1)</num>
+    <text>A statement of the account showing the total amount that is past due, including a breakdown of the categories of amounts claimed to be due and the dates those amounts accrued;</text>
+  </para>
+  <para>
+    <num>(2)</num>
+    <text>Contact information for the individual or office the unit owner must contact to settle the past due amount; and</text>
+  </para>
+  <para>
+    <num>(3)</num>
+    <text>An enclosure providing information on the availability of resources that a unit owner may utilize, which shall be in substantively the following form in at least 18-point font:</text>
+    <include>
+      <text>FAILURE TO PAY PAST DUE AMOUNTS MAY RESULT IN LEGAL ACTION, INCLUDING FORECLOSURE.</text>
+      <text>YOU MAY BE ELIGIBLE FOR FREE OR REDUCED-COST ASSISTANCE.</text>
+      <text>The D.C. Department of Housing and Community Development maintains a list of Community-Based Non-Profit Organizations that provide housing counseling services. Information on providers can be found on [Department of Housing and Community Development website for community-based non-profit organizations] or by calling [Department of Housing and Community Development’s designated phone number].</text>
+      <text>The U.S. Department of Housing and Urban Development (“HUD”) sponsors housing counseling agencies that can provide advice on buying a home, renting, defaults, foreclosures, and credit issues. You can get a list of HUD-approved housing counselors at [Department of Housing and Urban Development’s website]or by calling [Department of Housing and Urban Development’s phone number].</text>
+    </include>
+    <aftertext>.</aftertext>
+  </para>
+  <codify:annotation doc="D.C. Code" path="§42-1903.12a" type="Editor's Notes" history="false">
+        Section 3 of D.C. Law 21-241 stated that within 180 days after April 7, 2017, the Mayor, pursuant subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of Law 21-241.
+      </codify:annotation>
+  <annotations>
+    <annotation doc="D.C. Law 1-89" type="History" path="§312a">Mar. 29, 1977, D.C. Law 1-89, title III, § 312a</annotation>
+    <annotation app="2017-04-07" doc="D.C. Law 21-241" eff="2017-04-07" path="§2|(c)" prefix="as added" type="History"/>
+    <annotation doc="D.C. Law 21-241" path="§2|(c)" type="Editor's Notes" history="false" app="2017-04-07" eff="2017-04-07">
+        Section 3 of D.C. Law 21-241 stated that within 180 days after April 7, 2017, the Mayor, pursuant subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of Law 21-241.
+      </annotation>
+  </annotations>
+</section>
