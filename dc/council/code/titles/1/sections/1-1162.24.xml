@@ -5,7 +5,7 @@
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>Public officials, except Advisory Neighborhood Commissioners, members of the Washington Metropolitan Area Transit Authority Board of Directors appointed pursuant to § <cite path="§9-1107.01">9-1107.01</cite>, and candidates for nomination for election, or election, to public office, who are not otherwise required to file pursuant to this paragraph, shall file annually with the Ethics Board a public report containing a full and complete statement of:</text>
+      <text>Public officials, except Advisory Neighborhood Commissioners and candidates for nomination for election, or election, to public office, who are not otherwise required to file pursuant to this paragraph, shall file with the Ethics Board a public report containing a full and complete statement of:</text>
       <para>
         <num>(A)</num>
         <text>The name of each business entity, including sole proprietorships, partnerships, trusts, nonprofit organizations, and corporations, whether or not transacting any business with the District of Columbia government, in or from which the public official or his or her spouse, domestic partner, or dependent children:</text>
@@ -103,16 +103,27 @@
     <num>(b)</num>
     <text>Except as otherwise provided by this section, all papers filed under this section shall be kept by the Ethics Board in the custody of the Director of Government Ethics for no less than 6 years. The Ethics Board shall publicly disclose before the 2nd day of June each year the names of the candidates, officers, and employees who have filed a report. The Director of Government Ethics shall dispose of papers filed pursuant to this section in accordance with Chapter 17 of Title 2.</text>
   </para>
-  <para>
+  <para codify:path="(c)">
     <num>(c)</num>
-    <text>Reports required by this section shall be filed before May 15th of each year. If a public official ceases before May 15th to hold the office or position, the occupancy of which imposes upon him or her the reporting requirements set forth in subsection (a) of this section, the public official shall file the report within 3 months after leaving the office or position. The Ethics Board shall publish, in the District of Columbia Register, before June 15th each year, the name of each public official who has:</text>
+    <para>
+      <num>(1)</num>
+      <text>Except as otherwise provided in this subsection, reports required by this section shall be filed annually no later than 11:59 p.m. on May 15 of each year.  If, before 11:59 p.m. on May 15, a public official ceases to hold an office or position, the occupancy of which imposes upon him or her the reporting requirements set forth in subsection (a) of this section, the public official shall file the report required by subsection (a) of this section within 3 months after leaving the office or position.</text>
+    </para>
+    <para codify:applicability="notfunded">
+      <num>(2)</num>
+      <text>Reports required by this section for the Chairman and each member of the Council shall be filed semiannually no later than 11:59 p.m. on May 15 and November 15 of each year.  If, before 11:59 p.m. on May 15 or November 15, the Chairman or a member of the Council ceases to hold an office, the occupancy of which imposes upon him or her the reporting requirements set forth in subsection (a) of this section, the Chairman or member of the Council shall file the report required by subsection (a) of this section within 3 months after leaving the office.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c-1)</num>
+    <text>The Ethics Board shall publish in the District of Columbia Register no later than 11:59 p.m. on June 15 of each year, or in the case of the Chairman or a member of the Council, no later than 11:59 p.m. on June 15 and December 15 of each year, the name of each public official who has:</text>
     <para>
       <num>(1)</num>
       <text>Filed a report under this section;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Sought and received an extension of the deadline filing requirement and the reason for the extension; and</text>
+      <text>Sought and received an extension of the filing deadline and the reason for the extension; and</text>
     </para>
     <para>
       <num>(3)</num>
@@ -139,6 +150,10 @@
     <num>(h)</num>
     <text>The Mayor shall develop a list of each business entity transacting any business with the District government, or providing a service to the District for consideration, to include the business name, address, principals, and brief summary of the business transacted within the immediately preceding 6 months. The list shall be available online and published on January 1st and July 1st annually.</text>
   </para>
+  <para>
+    <num>(i)</num>
+    <text>Each personnel authority shall compile a list of all public officials, as defined by <cite path="§1-1161.01|(47)">§ 1-1161.01(47)</cite>, within its respective agency or the Council, and shall supply the list to the Ethics Board no later than 11:59 p.m. on March 1 of each year.  The list required by this subsection shall include the name, title, position, grade level, home address, work e-mail address, and work telephone number for each public official appearing on the list.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 19-124" type="History" path="§224">Apr. 27, 2012, D.C. Law 19-124, § 224, 59 DCR 1862</annotation>
     <annotation doc="D.C. Law 19-168" type="History">Sept. 20, 2012, D.C. Law 19-168, § 1072(a), 59 DCR 8025</annotation>
@@ -157,5 +172,14 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 1152(a) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014, 61 DCR 10915, 20 STAT 4188).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see §  1152(a) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015, 62 DCR 884, 21 STAT 541).</annotation>
     <annotation type="Editor's Notes">Section 1074 of <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite> provided that § 1072(a) and (b) of the act [which amended §§ <cite path="§1-1162.24">1-1162.24</cite>(c) and <cite path="§1-1162.25">1-1162.25</cite>] shall apply as of January 1, 2013.</annotation>
+    <annotation app="2017-04-07" doc="D.C. Law 21-240" eff="2017-04-07" path="§2|(b)|(1)|(A)" type="History"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-240" eff="2017-04-07" path="§2|(b)|(1)|(B)" type="History"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-240" eff="2017-04-07" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-240" eff="2017-04-07" path="§2|(b)|(3)" type="History"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-240" eff="2017-04-07" path="§2|(b)|(4)" type="History"/>
+    <annotation type="Editor's Notes" app="2017-04-07" eff="2017-04-07" doc="D.C. Law 21-240" path="§2|(b)">
+       Applicability of <cite doc="D.C. Law 21-240" path="">D.C. Law 21-240</cite>: <cite doc="D.C. Law 21-240" path="§3">§ 3 of D.C. Law 21-240</cite> provided that the creation of subsection (c)(2) of this section by <cite doc="D.C. Law 21-240" path="§2|(b)">§ 2(b) of D.C. Law 21-240</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
+      </annotation>
+    <annotation app="2017-04-07" doc="D.C. Law 21-240" eff="2017-04-07" path="§2|(b)" type="History"/>
   </annotations>
 </section>

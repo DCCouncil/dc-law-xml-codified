@@ -654,10 +654,12 @@
       <xi:include href="sections/42-1903.06.xml"/>
       <xi:include href="sections/42-1903.07.xml"/>
       <xi:include href="sections/42-1903.08.xml"/>
+      <xi:include href="sections/42-1903.08a.xml"/>
       <xi:include href="sections/42-1903.09.xml"/>
       <xi:include href="sections/42-1903.10.xml"/>
       <xi:include href="sections/42-1903.11.xml"/>
       <xi:include href="sections/42-1903.12.xml"/>
+      <xi:include href="sections/42-1903.12a.xml"/>
       <xi:include href="sections/42-1903.13.xml"/>
       <xi:include href="sections/42-1903.14.xml"/>
       <xi:include href="sections/42-1903.15.xml"/>
@@ -1084,6 +1086,7 @@
       <xi:include href="sections/42-3131.15.xml"/>
       <xi:include href="sections/42-3131.16.xml"/>
       <xi:include href="sections/42-3131.17.xml"/>
+      <xi:include href="sections/42-3131.18.xml"/>
     </container>
   </container>
   <container>
@@ -1342,6 +1345,7 @@
       <xi:include href="sections/42-3502.09.xml"/>
       <xi:include href="sections/42-3502.10.xml"/>
       <xi:include href="sections/42-3502.11.xml"/>
+      <xi:include href="sections/42-3502.11a.xml"/>
       <xi:include href="sections/42-3502.12.xml"/>
       <xi:include href="sections/42-3502.13.xml"/>
       <xi:include href="sections/42-3502.14.xml"/>
@@ -1355,6 +1359,7 @@
       <xi:include href="sections/42-3502.21.xml"/>
       <xi:include href="sections/42-3502.22.xml"/>
       <xi:include href="sections/42-3502.23.xml"/>
+      <xi:include href="sections/42-3502.24.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1387,6 +1392,22 @@
       <xi:include href="sections/42-3505.06.xml"/>
       <xi:include href="sections/42-3505.07.xml"/>
       <xi:include href="sections/42-3505.08.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>V-A</num>
+      <heading>Payment of Rent Beyond 5 Days After Due Date.</heading>
+      <xi:include href="sections/42-3505.31.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>V-B</num>
+      <heading>Other Housing Provider Actions During Tenancies.</heading>
+      <xi:include href="sections/42-3505.31.xml"/>
+      <xi:include href="sections/42-3505.32.xml"/>
+      <xi:include href="sections/42-3505.33.xml"/>
+      <xi:include href="sections/42-3505.34.xml"/>
+      <xi:include href="sections/42-3505.35.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1444,6 +1465,12 @@
     <xi:include href="sections/42-3531.08.xml"/>
     <xi:include href="sections/42-3531.09.xml"/>
     <xi:include href="sections/42-3531.10.xml"/>
+    <xi:include href="sections/42-3531.11.xml"/>
+    <xi:include href="sections/42-3531.12.xml"/>
+    <xi:include href="sections/42-3531.13.xml"/>
+    <xi:include href="sections/42-3531.14.xml"/>
+    <xi:include href="sections/42-3531.15.xml"/>
+    <xi:include href="sections/42-3531.16.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

@@ -427,7 +427,7 @@
     <num>3</num>
     <heading>Procurement.</heading>
     <container>
-      <prefix>Chapter</prefix>
+      <prefix>Unit</prefix>
       <num>A</num>
       <heading>Procurement Practices for the District Government.</heading>
       <container>
@@ -1259,6 +1259,12 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>V-D</num>
+      <heading>Kennedy Street, N.W., Economic Development and Small Business Revitalization Advisory Committee.</heading>
+      <xi:include href="sections/2-1210.61.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>Enterprise Zone Study Commission.</heading>
       <xi:include href="sections/2-1211.01.xml"/>
@@ -1283,6 +1289,7 @@
         <num>B</num>
         <heading>Grocery Store Development Program.</heading>
         <xi:include href="sections/2-1212.21.xml"/>
+        <xi:include href="sections/2-1212.21a.xml"/>
         <xi:include href="sections/2-1212.22.xml"/>
         <xi:include href="sections/2-1212.23.xml"/>
         <xi:include href="sections/2-1212.24.xml"/>
@@ -2073,6 +2080,7 @@
         <xi:include href="sections/2-1515.03.xml"/>
         <xi:include href="sections/2-1515.04.xml"/>
         <xi:include href="sections/2-1515.04a.xml"/>
+        <xi:include href="sections/2-1515.04b.xml"/>
         <xi:include href="sections/2-1515.05.xml"/>
         <xi:include href="sections/2-1515.06.xml"/>
         <xi:include href="sections/2-1515.06a.xml"/>

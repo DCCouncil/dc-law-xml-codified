@@ -1319,6 +1319,7 @@
       <xi:include href="sections/47-1807.10.xml"/>
       <xi:include href="sections/47-1807.11.xml"/>
       <xi:include href="sections/47-1807.12.xml"/>
+      <xi:include href="sections/§ 47-1807.13.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1330,6 +1331,17 @@
       <xi:include href="sections/47-1807.54.xml"/>
       <xi:include href="sections/47-1807.55.xml"/>
       <xi:include href="sections/47-1807.56.xml"/>
+    </container>
+    <container>
+      <prefix>SUBCHAPTER</prefix>
+      <num>VII-B</num>
+      <heading>Wheelchair-Accessible Vehicle Tax Credit.</heading>
+      <xi:include href="sections/47-1807.61.xml"/>
+      <xi:include href="sections/47-1807.62.xml"/>
+      <xi:include href="sections/47-1807.63.xml"/>
+      <xi:include href="sections/47-1807.64.xml"/>
+      <xi:include href="sections/47-1807.65.xml"/>
+      <xi:include href="sections/47-1807.66.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1349,6 +1361,7 @@
       <xi:include href="sections/47-1808.10.xml"/>
       <xi:include href="sections/47-1808.11.xml"/>
       <xi:include href="sections/47-1808.12.xml"/>
+      <xi:include href="sections/§ 47-1808.13.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1866,6 +1879,7 @@
       <heading>General Provisions.</heading>
       <xi:include href="sections/47-2851.01.xml"/>
       <xi:include href="sections/47-2851.02.xml"/>
+      <xi:include href="sections/§ 47-2851.02a.xml"/>
       <xi:include href="sections/47-2851.03.xml"/>
       <xi:include href="sections/47-2851.03a.xml"/>
       <xi:include href="sections/47-2851.03b.xml"/>
