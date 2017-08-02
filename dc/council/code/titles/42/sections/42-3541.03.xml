@@ -1,20 +1,13 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <reason>Not Funded</reason>
   <num>42-3541.03</num>
   <heading>Exclusions.</heading>
-  <text>This act shall not apply:</text>
-  <para>
-    <num>(1)</num>
-    <text>To a housing provider that owns and occupies a housing accommodation that includes 3 or fewer rental units;</text>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>Where a federal law or regulation or District law requires the consideration of an applicant's criminal history for the purposes of obtaining a housing accommodation; or</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>Where a federal law or regulation or District law otherwise allows for denial of an applicant due to certain criminal convictions.</text>
-  </para>
+  <text>[Not Funded].</text>
   <annotations>
+    <annotation app="notfunded" doc="D.C. Law 21-259" eff="2017-04-07" path="§4" type="History"/>
+    <annotation type="Editor's Notes" app="2017-04-07" eff="2017-04-07" doc="D.C. Law 21-259" path="§4">
+       Applicability of <cite doc="D.C. Law 21-259" path="">D.C. Law 21-259</cite>: <cite doc="D.C. Law 21-259" path="§11">§ 11 of D.C. Law 21-259</cite> provided that the creation of this section by <cite doc="D.C. Law 21-259" path="§4">§ 4 of D.C. Law 21-259</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
+      </annotation>
     <annotation app="2017-04-07" doc="D.C. Law 21-259" eff="2017-04-07" path="§4" type="History"/>
   </annotations>
 </section>
