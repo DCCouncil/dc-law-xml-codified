@@ -253,7 +253,7 @@
       <include>
         <section>
           <codify:insert doc="D.C. Code" path="|47|18|VII" after="§47-1807.12"/>
-          <num>§ 47-1807.13</num>
+          <num codify:value="47-1807.13">§ 47-1807.13</num>
           <heading>Wheelchair-accessible vehicle tax credit.</heading>
           <text>A wheelchair-accessible vehicle tax credit shall be allowed as provided in subchapter VII-B of this chapter.</text>
         </section>
@@ -266,7 +266,7 @@
       <include>
         <container>
           <codify:insert doc="D.C. Code" path="|47|18" after="VII-A" value="Subchapter"/>
-          <prefix>SUBCHAPTER</prefix>
+          <prefix>Subchapter</prefix>
           <num>VII-B</num>
           <heading>Wheelchair-Accessible Vehicle Tax Credit.</heading>
           <section>
@@ -391,7 +391,7 @@
       <include>
         <section>
           <codify:insert doc="D.C. Code" path="|47|18|VIII" after="§47-1808.12"/>
-          <num>§ 47-1808.13</num>
+          <num codify:value="47-1808.13">§ 47-1808.13</num>
           <heading>Wheelchair-accessible vehicle tax credit.</heading>
           <text>A wheelchair-accessible vehicle tax credit shall be allowed as provided in subchapter VII-B of this chapter.</text>
         </section>
