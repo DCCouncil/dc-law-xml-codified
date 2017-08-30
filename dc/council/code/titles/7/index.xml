@@ -423,6 +423,14 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>7B-ii</num>
+    <heading>Commission on Health Equity.</heading>
+    <xi:include href="sections/7-756.01.xml"/>
+    <xi:include href="sections/7-756.02.xml"/>
+    <xi:include href="sections/7-756.03.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>7C</num>
     <heading>Department on Disability Services.</heading>
     <xi:include href="sections/7-761.01.xml"/>
@@ -431,6 +439,8 @@
     <xi:include href="sections/7-761.04.xml"/>
     <xi:include href="sections/7-761.05.xml"/>
     <xi:include href="sections/7-761.05a.xml"/>
+    <xi:include href="sections/7-761.05b.xml"/>
+    <xi:include href="sections/7-761.05c.xml"/>
     <xi:include href="sections/7-761.06.xml"/>
     <xi:include href="sections/7-761.06a.xml"/>
     <xi:include href="sections/7-761.06b.xml"/>

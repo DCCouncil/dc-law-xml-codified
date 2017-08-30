@@ -404,10 +404,12 @@
       <heading>General.</heading>
       <xi:include href="sections/5-401.xml"/>
       <xi:include href="sections/5-401.01.xml"/>
+      <xi:include href="sections/5-401.02.xml"/>
       <xi:include href="sections/5-402.xml"/>
       <xi:include href="sections/5-403.xml"/>
       <xi:include href="sections/5-404.xml"/>
       <xi:include href="sections/5-404.01.xml"/>
+      <xi:include href="sections/5-404.02.xml"/>
       <xi:include href="sections/5-405.xml"/>
       <xi:include href="sections/5-406.xml"/>
       <xi:include href="sections/5-407.xml"/>
@@ -443,6 +445,12 @@
         <num>B</num>
         <heading>Education And Training Program.</heading>
         <xi:include href="sections/5-441.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>C</num>
+        <heading>Pilot Civilian Technical Services Program.</heading>
+        <xi:include href="sections/5-445.xml"/>
       </container>
     </container>
     <container>
@@ -577,6 +585,9 @@
       <xi:include href="sections/5-653.xml"/>
       <xi:include href="sections/5-654.xml"/>
       <xi:include href="sections/5-655.xml"/>
+      <xi:include href="sections/5-655.01.xml"/>
+      <xi:include href="sections/5-655.02.xml"/>
+      <xi:include href="sections/5-655.03.xml"/>
       <xi:include href="sections/5-656.xml"/>
     </container>
   </container>

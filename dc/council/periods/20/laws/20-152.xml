@@ -1,4 +1,5 @@
 <document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 20-152">
+  <codified:at doc="D.C. Code" path="32|13B|I"/>
   <num type="law">20-152</num>
   <heading type="short">Fair Criminal Record Screening Act of 2014</heading>
   <meta>
@@ -30,5 +31,12 @@
   <section>
     <num>6</num>
     <codified:stub doc="D.C. Code" path="§32-1345"/>
+  </section>
+  <section>
+    <codify:insert doc="D.C. Code" path="32|13B|I" after="§32-1345" num-value="32-1346"/>
+    <num>6a</num>
+    <heading>Rules.</heading>
+    <text>The Director of the Office of Human Rights, pursuant to <code-cite doc="Pub. L. 90-614" path="I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code §2-501 <em>et seq</em>.)</code-cite>, shall issue rules to implement the provisions of <code-cite doc="D.C. Law 20-152">this act</code-cite>.</text>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3104" prefix="as added" type="History"/>
   </section>
 </document>

@@ -1,4 +1,5 @@
 <document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 19-252" flag="true">
+  <codified:at doc="D.C. Code" path="8|17M1"/>
   <num type="law">19-252</num>
   <heading type="short">Energy Innovation and Savings Amendment Act of 2012</heading>
   <meta>
@@ -22,5 +23,12 @@
   <section>
     <num>203</num>
     <codified:stub doc="D.C. Code" path="§8-1772.03"/>
+  </section>
+  <section>
+    <codify:insert doc="D.C. Code" path="8|17M1" after="§8-1772.03" num-value="8-1772.04"/>
+    <num>204</num>
+    <heading>Rules.</heading>
+    <text>The Mayor, pursuant to <code-cite doc="Pub. L. 90-614" path="I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, may issue rules to implement the provisions of <code-cite doc="D.C. Law 19-252">this title</code-cite>.</text>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6022|(d)" prefix="as added" type="History"/>
   </section>
 </document>

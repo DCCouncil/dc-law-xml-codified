@@ -1,13 +1,27 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Not Funded</reason>
   <num>50-2361.01</num>
   <heading> Definitions.</heading>
-  <text>[Not Funded].</text>
+  <text>For the purposes of <cite path="50|23B">this chapter</cite>, the term:</text>
+  <para>
+    <num>(1)</num>
+    <text>"DDOT" means the District Department of Transportation.</text>
+  </para>
+  <para>
+    <num>(2)</num>
+    <text>"Local transit" means intra-District streetcar and bus service.</text>
+  </para>
+  <para>
+    <num>(3)</num>
+    <text>"MAAC" means the Multimodal Accessibility Advisory Council.</text>
+  </para>
+  <para>
+    <num>(4)</num>
+    <text>"TRAC" means the Transit Rider Advisory Council.</text>
+  </para>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 21-124" eff="2016-06-22" path="§301" type="History"/>
-    <annotation type="Editor's Notes" app="2016-06-22" eff="2016-06-22" doc="D.C. Law 21-124" path="§301">
-       Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§301">§ 301 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </annotation>
     <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§301" type="History"/>
+    <annotation type="Applicability" app="2016-06-22" eff="2016-06-22" doc="D.C. Law 21-124" path="§301">Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§301">§ 301 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
+    <annotation doc="D.C. Law 21-160" path="§7011" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7011">Section 7011 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite>. Therefore the changes made to this section by D.C. Law 21-124 have been given effect.
+        </annotation>
   </annotations>
 </section>

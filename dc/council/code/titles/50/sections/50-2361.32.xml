@@ -1,13 +1,18 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Not Funded</reason>
   <num>50-2361.32</num>
   <heading>Discussion of advisory council recommendations.</heading>
-  <text>[Not Funded].</text>
+  <para>
+    <num>(a)</num>
+    <text>At least once every 6 months, the Director of DDOT, or the Director’s designee, shall meet separately with the chairperson of the Bicycle Advisory Council, the Pedestrian Advisory Council, the TRAC, and the MAAC to discuss recommendations provided by the advisory councils to DDOT.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Following each meeting held pursuant to subsection (a) of this section, DDOT shall make publicly available all recommendations discussed between DDOT and the advisory councils, DDOT’s decision in response to the recommendations, and an explanation of the decision made by DDOT.</text>
+  </para>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 21-124" eff="2016-06-22" path="§305" type="History"/>
-    <annotation type="Editor's Notes" app="2016-06-22" eff="2016-06-22" doc="D.C. Law 21-124" path="§305">
-       Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§305">§ 305 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </annotation>
     <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§305" type="History"/>
+    <annotation type="Applicability" app="2016-06-22" eff="2016-06-22" doc="D.C. Law 21-124" path="§305">Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§305">§ 305 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
+    <annotation doc="D.C. Law 21-160" path="§7011" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7011">Section 7011 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite>. Therefore the changes made to this section by D.C. Law 21-124 have been given effect.
+        </annotation>
   </annotations>
 </section>

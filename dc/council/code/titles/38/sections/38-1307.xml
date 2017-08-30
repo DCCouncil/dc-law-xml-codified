@@ -1,7 +1,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-1307</num>
   <heading>Higher Education Licensure Commission — Functions.</heading>
-  <text>In addition to those duties specified in other sections of this chapter, the Commission shall:</text>
+  <text>In addition to those duties specified in other sections of <cite path="38|13">this chapter</cite>, the Commission shall:</text>
   <para>
     <num>(1)</num>
     <text>Advise the Mayor and the Council with respect to the postsecondary educational needs of the District of Columbia;</text>
@@ -11,11 +11,11 @@
     <text>File with the Mayor and the Council quarterly reports relating to:</text>
     <para>
       <num>(A)</num>
-      <text>The educational institutions granted or denied licenses under this chapter during the reporting period; and</text>
+      <text>The educational institutions granted or denied licenses under <cite path="38|13">this chapter</cite> during the reporting period; and</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>Other matters that come under the Commission’s purview;</text>
+      <text>Other matters that come under the Commission's purview;</text>
     </para>
   </para>
   <para>
@@ -23,35 +23,35 @@
     <text>Receive, and cause to be maintained, copies of student academic records in conformity with the following provisions:</text>
     <para>
       <num>(A)</num>
-      <text>In the event an educational institution operating in the District, or any educational institution licensed under this chapter operating outside of the District, proposes to discontinue its operation and has no other repository for its records, the chief administrative officer, by whatever title designated, of the institution shall cause to be filed with the Commission the original or legible true copies of all records of the institution specified by the Commission. The records shall include, at a minimum, the academic records of each former student;</text>
+      <text>If an educational institution operating in the District, or any educational institution licensed under <cite path="38|13">this chapter</cite> operating outside of the District, proposes to discontinue its operation and has no other repository for its records, the chief administrative officer, by whatever title designated, of the institution shall cause to be filed with the Commission the original or legible true copies of all records of the institution specified by the Commission. The records shall include, at a minimum, the academic records of each former student;</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>The Commission shall maintain and dispose of the records in accordance with the provisions of Chapter 17 of Title 2. Academic records shall be maintained for at least 50 years from the date the student attended the institution;</text>
+      <text>The Commission shall maintain and dispose of the records in accordance with <cite path="2|17">Chapter 17 of Title 2</cite>. Academic records shall be maintained for at least 50 years from the date the student attended the institution; and</text>
     </para>
     <para>
       <num>(C)</num>
-      <text>The Commission is authorized to charge an institution for all costs involved in the transfer of records;</text>
+      <text>The Commission may charge an institution for all costs involved in the transfer of records;</text>
     </para>
   </para>
   <para>
     <num>(4)</num>
     <para>
       <num>(A)</num>
-      <text>In the event it appears to the Commission that the records of an institution discontinuing its operations are in danger of being destroyed, secreted, mislaid, or otherwise made unavailable to the Commission, the Commission may apply to the Superior Court of the District of Columbia for an order authorizing the Commission to seize and take possession of the records; and</text>
+      <text>If it appears to the Commission that the records of an institution discontinuing its operations are in danger of being destroyed, secreted, mislaid, or otherwise made unavailable to the Commission, the Commission may apply to the Superior Court of the District of Columbia for an order authorizing the Commission to seize and take possession of the records;</text>
     </para>
     <para>
       <num>(B)</num>
-      <text>Any chief officer or member of a governing board of an institution who willfully fails to comply with the provisions of this subsection or willfully aids and abets any person in a scheme to avoid the requirements of this subsection may be held personally liable for all costs and damages resulting from the conduct, in addition to other penalties provided by this chapter;</text>
+      <text>Any chief officer or member of a governing board of an institution who willfully fails to comply with the provisions of this subsection or willfully aids and abets any person in a scheme to avoid the requirements of this subsection may be held personally liable for all costs and damages resulting from the conduct, in addition to other penalties provided by <cite path="38|13">this chapter</cite>.</text>
     </para>
   </para>
   <para>
     <num>(5)</num>
-    <text>Have the authority to enter into agreements with other jurisdictions as it relates to the licensing of postsecondary educational institutions that provide degree-granting or non-degree-granting instruction to residents of the District; and</text>
+    <text>Have the authority to enter into reciprocity agreements with other jurisdictions that relate to the authorization of postsecondary educational institutions that provide degree-granting or non-degree-granting online instruction to residents of the District; and</text>
   </para>
   <para>
     <num>(6)</num>
-    <text>Have the authority to enter into agreements with degree-granting educational institutions operating in the District of Columbia that are otherwise conditionally exempt pursuant to §  38-1310 for the purpose of ensuring consistent consumer protection in interstate distance education delivery of higher education.</text>
+    <text>Have the authority to enter into agreements with degree-granting educational institutions operating in the District of Columbia that are otherwise conditionally exempt pursuant to <cite path="§38-1310">§ 38-1310</cite> for the purpose of ensuring consistent consumer protection in interstate distance education delivery of higher education.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 1-104" type="History" path="§7">Apr. 6, 1977, D.C. Law 1-104, § 7, 23 DCR 8734</annotation>
@@ -68,5 +68,6 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2(f) of the Higher Education Licensure Commission Emergency Amendment Act of 2015 (D.C. Act 21-158, Oct. 16, 2015,  62 DCR 13715).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2(f) of the Higher Education Licensure Commission Congressional Review Emergency Amendment Act of 2016 (D.C. Act 21-284, Jan. 27, 2016,  63 DCR 1188).</annotation>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 21-127" path="§2|(c)" app="2016-07-01" eff="2016-07-01">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 21-127" path="§2|(c)">§ 2(c) of Higher Education Licensure Commission Clarification Temporary Amendment Act of 2016 (D.C. Law 21-127, July 1, 2016, 63 DCR 7102)</cite>.</annotation>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4102|(c)" type="History"/>
   </annotations>
 </section>

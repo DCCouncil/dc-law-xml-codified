@@ -1,13 +1,64 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Not Funded</reason>
   <num>2-1208.31</num>
   <heading>Definitions.</heading>
-  <text>[Not Funded].</text>
+  <text>For the purposes of <cite path="2|12|IV-B">this subchapter</cite>, the term:</text>
+  <para>
+    <num>(1)</num>
+    <text>"Department" means the Department of Small and Local Business Development, established by <cite path="2|2|IX-A">subchapter IX-A of Chapter 2 of this title</cite>.
+      </text>
+  </para>
+  <para>
+    <num>(2)</num>
+    <text>"District-based business" or "DBB" means a maker that:</text>
+    <para>
+      <num>(A)</num>
+      <text>Maintains its primary office in the District;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Possesses a current license pursuant to <cite path="47|28">Chapter 28 of Title 47</cite>;</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Has certified that either the majority owners are District residents or 51% or more of its employees are District residents; and</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Is registered with the Department.</text>
+    </para>
+  </para>
+  <para>
+    <num>(3)</num>
+    <text>"Fund" means the Made in DC Fund established by <cite path="§2-1208.33">§ 2-1208.33</cite>.</text>
+  </para>
+  <para>
+    <num>(4)</num>
+    <text>"Innovation Space and Marketplace" means studio space together with sales gallery space, space with high-end shared equipment, and classrooms that would be available to local makers on a low-cost membership basis.</text>
+  </para>
+  <para>
+    <num>(5)</num>
+    <text>"Made in DC" means the brand name developed under the Made in DC program, established by <cite path="§2-1208.32">§ 2-1208.32</cite>, which may be used by a maker who is registered with the Department as a DBB to promote a product that has been:</text>
+    <para>
+      <num>(A)</num>
+      <text>Created, manufactured, or assembled in the District; and</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Approved by the Department.</text>
+    </para>
+  </para>
+  <para>
+    <num>(6)</num>
+    <text>"Maker" means an individual, including an artisan or craftsperson, or a business, who creates, manufactures, or assembles a product through a process involving intellectual property, ingredients, raw materials, or other components.</text>
+  </para>
+  <para>
+    <num>(7)</num>
+    <text>"Program" means the Made in DC program established by <cite path="§2-1208.32">§ 2-1208.32</cite>.</text>
+  </para>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 21-135" eff="2016-07-01" path="§2" type="History"/>
-    <annotation type="Editor's Notes" app="2016-07-01" eff="2016-07-01" doc="D.C. Law 21-135" path="§2">
-       Applicability of <cite doc="D.C. Law 21-135" path="">D.C. Law 21-135</cite>: <cite doc="D.C. Law 21-135" path="§7">§ 7 of D.C. Law 21-135</cite> provided that the addition of this section by <cite doc="D.C. Law 21-135" path="§2">§ 2 of D.C. Law 21-135</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </annotation>
     <annotation app="2016-07-01" doc="D.C. Law 21-135" eff="2016-07-01" path="§2" type="History"/>
+    <annotation type="Applicability" app="2016-07-01" eff="2016-07-01" doc="D.C. Law 21-135" path="§2">Applicability of <cite doc="D.C. Law 21-135" path="">D.C. Law 21-135</cite>: <cite doc="D.C. Law 21-135" path="§7">§ 7 of D.C. Law 21-135</cite> provided that the addition of this section by <cite doc="D.C. Law 21-135" path="§2">§ 2 of D.C. Law 21-135</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
+    <annotation doc="D.C. Law 21-160" path="§7007" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7007">Section 7007 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-135" path="§7">§ 7 of D.C. Law 21-135</cite>. Therefore the changes made to this section by D.C. Law 21-113 have been given effect.
+        </annotation>
   </annotations>
 </section>

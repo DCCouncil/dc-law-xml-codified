@@ -19,6 +19,17 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>1A</num>
+    <heading>Criminal Code Reform Commission.</heading>
+    <xi:include href="sections/3-151.xml"/>
+    <xi:include href="sections/3-152.xml"/>
+    <xi:include href="sections/3-153.xml"/>
+    <xi:include href="sections/3-154.xml"/>
+    <xi:include href="sections/3-155.xml"/>
+    <xi:include href="sections/3-156.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Anatomical Board.</heading>
     <xi:include href="sections/3-201.xml"/>

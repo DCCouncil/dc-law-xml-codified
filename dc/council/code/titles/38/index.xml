@@ -70,12 +70,23 @@
     <prefix>Chapter</prefix>
     <num>1B</num>
     <heading>Department of Education.</heading>
-    <xi:include href="sections/38-191.xml"/>
-    <xi:include href="sections/38-192.xml"/>
-    <xi:include href="sections/38-192.01.xml"/>
-    <xi:include href="sections/38-193.xml"/>
-    <xi:include href="sections/38-194.xml"/>
-    <xi:include href="sections/38-195.xml"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>General</heading>
+      <xi:include href="sections/38-191.xml"/>
+      <xi:include href="sections/38-192.xml"/>
+      <xi:include href="sections/38-192.01.xml"/>
+      <xi:include href="sections/38-193.xml"/>
+      <xi:include href="sections/38-194.xml"/>
+      <xi:include href="sections/38-195.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>My School DC EdFest.</heading>
+      <xi:include href="sections/38-196.01.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -242,7 +253,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>3B</num>
-    <heading>Office of the Student Advocate.</heading>
+    <heading>TODO</heading>
     <xi:include href="sections/38-371.xml"/>
     <xi:include href="sections/38-372.xml"/>
     <xi:include href="sections/38-373.xml"/>
@@ -793,6 +804,7 @@
     <xi:include href="sections/38-1307.xml"/>
     <xi:include href="sections/38-1308.xml"/>
     <xi:include href="sections/38-1309.xml"/>
+    <xi:include href="sections/38-1309.01.xml"/>
     <xi:include href="sections/38-1310.xml"/>
     <xi:include href="sections/38-1311.xml"/>
     <xi:include href="sections/38-1312.xml"/>
@@ -1571,7 +1583,7 @@
     <xi:include href="sections/38-2758.xml"/>
     <xi:include href="sections/38-2759.xml"/>
   </container>
-  <subheading>Subtitle X. School Funding.</subheading>
+  <subheading>Subtitle X. School Funding and Spending.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>28</num>
@@ -1636,6 +1648,12 @@
     <heading>Financial Management.</heading>
     <xi:include href="sections/38-2951.xml"/>
     <xi:include href="sections/38-2952.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>29A-i</num>
+    <heading>District of Columbia Public Schools Contracting and Spending.</heading>
+    <xi:include href="sections/38-2955.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

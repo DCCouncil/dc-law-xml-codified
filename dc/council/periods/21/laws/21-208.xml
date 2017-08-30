@@ -361,9 +361,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-208" path="">D.C. Law 21-208</cite>: <cite doc="D.C. Law 21-208" path="§5">§ 5 of D.C. Law 21-208</cite> provided that the except for §2(5),any change made to this section by <cite doc="D.C. Law 21-208" path="§2|(a)">§ 2(a) of D.C. Law 21-208</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </codify:annotation>
+      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-208" path="">D.C. Law 21-208</cite>: <cite doc="D.C. Law 21-208" path="§5">§ 5 of D.C. Law 21-208</cite> provided that the except for §2(5),any change made to this section by <cite doc="D.C. Law 21-208" path="§2|(a)">§ 2(a) of D.C. Law 21-208</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
     </para>
     <para>
       <num>(b)</num>
@@ -381,9 +379,7 @@
       <find>30</find>
       <replace>21</replace>
     </codify:find-replace>
-    <codify:annotation codify:applicability="effective" type="Editor's Notes" doc="D.C. Code" path="§1-1061.06">
-       Applicability of <cite doc="D.C. Law 21-208" path="">D.C. Law 21-208</cite>: <cite doc="D.C. Law 21-208" path="§5">§ 5 of D.C. Law 21-208</cite> provided that the change made to this section by <cite doc="D.C. Law 21-208" path="§3">§ 3 of D.C. Law 21-208</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </codify:annotation>
+    <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§1-1061.06">Applicability of <cite doc="D.C. Law 21-208" path="">D.C. Law 21-208</cite>: <cite doc="D.C. Law 21-208" path="§5">§ 5 of D.C. Law 21-208</cite> provided that the change made to this section by <cite doc="D.C. Law 21-208" path="§3">§ 3 of D.C. Law 21-208</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
   </section>
   <section codify:applicability="notfunded">
     <num>4</num>
@@ -444,9 +440,7 @@
       </section>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation codify:applicability="effective" type="Editor's Notes" doc="D.C. Code" path="§50-1401.01c">
-       Applicability of <cite doc="D.C. Law 21-208" path="">D.C. Law 21-208</cite>: <cite doc="D.C. Law 21-208" path="§5">§ 5 of D.C. Law 21-208</cite> provided that the creation of this section by <cite doc="D.C. Law 21-208" path="§4">§ 4 of D.C. Law 21-208</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </codify:annotation>
+    <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§50-1401.01c">Applicability of <cite doc="D.C. Law 21-208" path="">D.C. Law 21-208</cite>: <cite doc="D.C. Law 21-208" path="§5">§ 5 of D.C. Law 21-208</cite> provided that the creation of this section by <cite doc="D.C. Law 21-208" path="§4">§ 4 of D.C. Law 21-208</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
   </section>
   <section>
     <num>5</num>

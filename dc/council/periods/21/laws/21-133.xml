@@ -24,7 +24,7 @@
   <section codify:doc="D.C. Law 14-309" codify:path="I">
     <num>2</num>
     <text>The Urban Forest Preservation Act of 2002, effective June 12, 2003 (D.C. Law 14-309; D.C. Official Code § 8-651.01 <em>et seq.</em>), is amended as follows:</text>
-    <para codify:path="§102" codify:applicability="notfunded">
+    <para codify:path="§102">
       <num>(a)</num>
       <text>Section 102 (D.C. Official Code § 8-651.02) is amended as follows:</text>
       <para>
@@ -44,20 +44,17 @@
         <text>Paragraph (5) is amended by striking the phrase "of 55 inches or more" and inserting the phrase "between 44 inches and 100 inches" in its place.</text>
         <codify:find-replace count="1" find="of 55 inches or more" path="(5)" replace="between 44 inches and 100 inches"/>
       </para>
-      <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4">§ 4 of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(a)">§ 2(a) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
+      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§8-651.02">Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4|(b)">§ 4(b) of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(a)">§ 2(a) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:annotation path="§102" type="Editor's Notes" history="false"><cite doc="D.C. Law 21-133" path="§4|(a)">Section 4(a) of D.C. Law 21-133</cite> provided that section 2(a), (b)(1), and (c) of Law 21-133 shall not apply to a person or nongovernmental entity who has an application for a Special Tree removal permit pending as of July 1, 20016.
       </codify:annotation>
     </para>
     <para codify:path="§104">
       <num>(b)</num>
       <text>Section 104 (D.C. Official Code § 8-651.04) is amended as follows:</text>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(1)</num>
         <text>Subsection (b)(3) is amended by striking the phrase "equal to $35 for each inch" and inserting the phrase "not less than $55 for each inch" in its place.</text>
         <codify:find-replace count="1" find="equal to $35 for each inch" path="(b)|(3)" replace="not less than $55 for each inch"/>
-        <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4">§ 4 of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(b)|(1)">§ 2(b)(1) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </codify:annotation>
       </para>
       <para>
         <num>(2)</num>
@@ -76,8 +73,11 @@
         </include>
         <aftertext>.</aftertext>
       </para>
+      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§8-651.04">Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4|(b)">§ 4(b) of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(b)">§ 2(b) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:annotation path="§104" type="Editor's Notes" history="false"><cite doc="D.C. Law 21-133" path="§4|(a)">Section 4(a) of D.C. Law 21-133</cite> provided that section 2(a), (b)(1), and (c) of Law 21-133 shall not apply to a person or nongovernmental entity who has an application for a Special Tree removal permit pending as of July 1, 20016.
+      </codify:annotation>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(c)</num>
       <text>A new section 104a is added to read as follows:</text>
       <include>
@@ -120,8 +120,8 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation codify:applicability="effective" type="Editor's Notes" path="§104a">
-       Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4">§ 4 of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(c)">§ 2(c) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
+      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§8-651.04a">Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4|(b)">§ 4(b) of D.C. Law 21-133</cite> provided that the creation of this section by <cite doc="D.C. Law 21-133" path="§2|(c)">§ 2(c) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:annotation path="§104a" type="Editor's Notes" history="false"><cite doc="D.C. Law 21-133" path="§4|(a)">Section 4(a) of D.C. Law 21-133</cite> provided that section 2(a), (b)(1), and (c) of Law 21-133 shall not apply to a person or nongovernmental entity who has an application for a Special Tree removal permit pending as of July 1, 20016.
       </codify:annotation>
     </para>
     <para codify:path="§107">
@@ -178,6 +178,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
+      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§8-651.07">Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4|(b)">§ 4(b) of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§2|(d)">§ 2(d) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
     </para>
     <para>
       <num>(e)</num>
@@ -285,7 +286,10 @@
         </section>
       </include>
       <aftertext>.</aftertext>
+      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§8-651.09">Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4|(b)">§ 4(b) of D.C. Law 21-133</cite> provided that the creation of this section by <cite doc="D.C. Law 21-133" path="§2|(e)">§ 2(e) of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
     </para>
+    <annotation doc="D.C. Law 21-160" path="§7012" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7012">Section 7012 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-133" path="§4|(b)">§ 4(b) of D.C. Law 21-133</cite>. Therefore the changes made to this section by D.C. Law 21-133 have been given effect.
+        </annotation>
   </section>
   <section codify:doc="D.C. Law 14-137" codify:path="§5|(a)|(3)">
     <num>3</num>
@@ -319,6 +323,9 @@
       </include>
       <aftertext>.</aftertext>
     </para>
+    <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§50-921.04">Applicability of <cite doc="D.C. Law 21-133" path="">D.C. Law 21-133</cite>: <cite doc="D.C. Law 21-133" path="§4|(b)">§ 4(b) of D.C. Law 21-133</cite> provided that the change made to this section by <cite doc="D.C. Law 21-133" path="§3">§ 3 of D.C. Law 21-133</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+    <annotation doc="D.C. Law 21-160" path="§7012" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7012">Section 7012 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-133" path="§4|(b)">§ 4(b) of D.C. Law 21-133</cite>. Therefore the changes made to this section by D.C. Law 21-133 have been given effect.
+        </annotation>
   </section>
   <section>
     <num>4</num>
@@ -326,31 +333,11 @@
     <para>
       <num>(a)</num>
       <text>Section 2(a), (b)(1), and (c) shall not apply to a person or nongovernmental entity who has an application for a Special Tree removal permit pending as of the effective date of this act.</text>
-      <codify:applicability date="notfunded" history="false" path="§2|(a)"/>
-      <codify:applicability date="notfunded" history="false" path="§2|(b)|(1)"/>
-      <codify:applicability date="notfunded" history="false" path="§2|(c)"/>
     </para>
     <para>
       <num>(b)</num>
-      <para>
-        <num>(1)</num>
-        <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      </para>
-      <para>
-        <num>(2)</num>
-        <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
-      </para>
-      <para>
-        <num>(3)</num>
-        <para>
-          <num>(A)</num>
-          <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
-        </para>
-        <para>
-          <num>(B)</num>
-          <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
-        </para>
-      </para>
+      <text>[Repealed].</text>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7012" type="History"/>
     </para>
   </section>
   <section>

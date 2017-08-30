@@ -567,6 +567,7 @@
         <xi:include href="sections/1-301.89.xml"/>
         <xi:include href="sections/1-301.89a.xml"/>
         <xi:include href="sections/1-301.89b.xml"/>
+        <xi:include href="sections/1-301.89d.xml"/>
         <xi:include href="sections/1-301.89c.xml"/>
         <xi:include href="sections/1-301.90.xml"/>
       </container>
@@ -1188,6 +1189,7 @@
         <xi:include href="sections/1-327.53.xml"/>
         <xi:include href="sections/1-327.54.xml"/>
         <xi:include href="sections/1-327.54b.xml"/>
+        <xi:include href="sections/1-327.54a.xml"/>
         <xi:include href="sections/1-327.55.xml"/>
         <xi:include href="sections/1-327.56.xml"/>
         <xi:include href="sections/1-327.56a.xml"/>
@@ -1408,6 +1410,17 @@
       <heading>Workplace Wellness.</heading>
       <xi:include href="sections/1-541.01.xml"/>
       <xi:include href="sections/1-541.02.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IX</num>
+      <heading>Bonus Pay and Special Awards Pay.</heading>
+      <xi:include href="sections/1-551.01.xml"/>
+      <xi:include href="sections/1-551.02.xml"/>
+      <xi:include href="sections/1-551.03.xml"/>
+      <xi:include href="sections/1-551.04.xml"/>
+      <xi:include href="sections/1-551.05.xml"/>
+      <xi:include href="sections/1-551.06.xml"/>
     </container>
   </container>
   <container>

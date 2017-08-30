@@ -24,7 +24,7 @@
   </section>
   <container>
     <prefix>Title</prefix>
-    <num>I.</num>
+    <num>I</num>
     <heading>DISTRICT DEPARTMENT OF TRANSPORTATION</heading>
     <section codify:doc="D.C. Law 14-137">
       <num>101</num>
@@ -587,7 +587,7 @@
   </container>
   <container>
     <prefix>Title</prefix>
-    <num>II.</num>
+    <num>II</num>
     <heading>DEPARTMENT OF MOTOR VEHICLES</heading>
     <section codify:doc="D.C. Law 2-104" codify:path="I">
       <num>201</num>
@@ -668,10 +668,11 @@
     </container>
   </codify:insert>
   <container codify:doc="D.C. Code">
+    <codified:at doc="D.C. Code" path="50|23B"/>
     <prefix>Title</prefix>
-    <num>III.</num>
+    <num>III</num>
     <heading>ADVISORY COUNCILS</heading>
-    <section codify:applicability="notfunded">
+    <section>
       <codify:organic path="|50|23B|I" num-value="50-2361.01"/>
       <num>301</num>
       <heading> Definitions.</heading>
@@ -692,11 +693,11 @@
         <num>(4)</num>
         <text>"TRAC" means the Transit Rider Advisory Council.</text>
       </para>
-      <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§301">§ 301 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </codify:annotation>
+      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§301">§ 301 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <annotation doc="D.C. Law 21-160" path="§7011" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7011">Section 7011 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite>. Therefore the changes made to this section by D.C. Law 21-124 have been given effect.
+        </annotation>
     </section>
-    <section codify:applicability="notfunded">
+    <section>
       <codify:organic path="|50|23B|I" num-value="50-2361.02"/>
       <num>302</num>
       <heading>Transit Rider Advisory Council.</heading>
@@ -751,11 +752,11 @@
         <num>(e)</num>
         <text>DDOT shall provide the TRAC with an annual operating budget, which shall include funds to maintain a website where the TRAC shall provide a public listing of members, meeting notices, and meeting minutes.</text>
       </para>
-      <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§302">§ 302 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </codify:annotation>
+      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§302">§ 302 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <annotation doc="D.C. Law 21-160" path="§7011" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7011">Section 7011 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite>. Therefore the changes made to this section by D.C. Law 21-124 have been given effect.
+        </annotation>
     </section>
-    <section codify:applicability="notfunded">
+    <section>
       <codify:organic path="|50|23B|I" num-value="50-2361.03"/>
       <num>303</num>
       <heading>Functions and operations of the TRAC.</heading>
@@ -767,7 +768,7 @@
         <num>(b)</num>
         <para>
           <num>(1)</num>
-          <text>Before the notice of a proposed fare or service adjustment is published in the District of Columbia Register, pursuant to <span codify:value="§§">sections</span> <code-cite doc="D.C. Law 14-137" path="11e|(a-1)">11e(a-1)</code-cite> or <code-cite doc="D.C. Law 14-137" path="11r|(a-1)">11r(a-1) of the Department of Transportation Establishment Act, effective May 21, 2002 (D.C. Law 14-137; D.C. Official Code §§ 50-921.35 and 50–921.76)</code-cite>, DDOT shall submit the proposed fare or service adjustment, to the TRAC.</text>
+          <text>Before the notice of a proposed fare or service adjustment is published in the District of Columbia Register, pursuant to sections <code-cite doc="D.C. Law 14-137" path="§11e|(a-1)">11e(a-1)</code-cite> or <code-cite doc="D.C. Law 14-137" path="§11r|(a-1)">11r(a-1) of the Department of Transportation Establishment Act, effective May 21, 2002 (D.C. Law 14-137; D.C. Official Code §§ 50-921.35 and 50–921.76)</code-cite>, DDOT shall submit the proposed fare or service adjustment, to the TRAC.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -805,11 +806,11 @@
           <text>If DDOT does not incorporate the TRAC’s suggested modifications into the final plan, the agency shall provide the TRAC with a detailed written explanation as to why the proposed modifications were not incorporated into the final plan.</text>
         </para>
       </para>
-      <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§303">§ 303 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </codify:annotation>
+      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§303">§ 303 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <annotation doc="D.C. Law 21-160" path="§7011" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7011">Section 7011 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite>. Therefore the changes made to this section by D.C. Law 21-124 have been given effect.
+        </annotation>
     </section>
-    <section codify:applicability="notfunded">
+    <section>
       <codify:organic path="|50|23B|II" num-value="50-2361.31"/>
       <num>304</num>
       <heading>Multimodal Accessibility Advisory Council.</heading>
@@ -864,11 +865,11 @@
         <num>(f)</num>
         <text>The purpose of the MAAC shall be to serve as the advisory body to the Mayor, the Council, and District agencies on making local transit and public space in the District more accessible to persons with disabilities.</text>
       </para>
-      <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§304">§ 304 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </codify:annotation>
+      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§304">§ 304 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <annotation doc="D.C. Law 21-160" path="§7011" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7011">Section 7011 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite>. Therefore the changes made to this section by D.C. Law 21-124 have been given effect.
+        </annotation>
     </section>
-    <section codify:applicability="notfunded">
+    <section>
       <codify:organic path="|50|23B|II" num-value="50-2361.32"/>
       <num>305</num>
       <heading>Discussion of advisory council recommendations.</heading>
@@ -880,14 +881,14 @@
         <num>(b)</num>
         <text>Following each meeting held pursuant to subsection (a) of this section, DDOT shall make publicly available all recommendations discussed between DDOT and the advisory councils, DDOT’s decision in response to the recommendations, and an explanation of the decision made by DDOT.</text>
       </para>
-      <codify:annotation codify:applicability="effective" type="Editor's Notes">
-       Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§305">§ 305 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </codify:annotation>
+      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§305">§ 305 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <annotation doc="D.C. Law 21-160" path="§7011" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7011">Section 7011 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite>. Therefore the changes made to this section by D.C. Law 21-124 have been given effect.
+        </annotation>
     </section>
   </container>
   <container>
     <prefix>Title</prefix>
-    <num>IV.</num>
+    <num>IV</num>
     <heading>DEPARTMENT OF FOR-HIRE VEHICLES</heading>
     <section codify:doc="D.C. Law 6-97">
       <num>401</num>
@@ -1336,7 +1337,7 @@
         <text>Section 11 (D.C. Official Code § 50-301.10) is amended by striking the word "Commission" both times it appears and inserting the word "DFHV" in its place.</text>
         <codify:find-replace path="§11" find="Commission" replace="DFHV" count="2"/>
       </para>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(l)</num>
         <text>A new section 11a is added to read as follows:</text>
         <include>
@@ -1422,9 +1423,9 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation codify:applicability="effective" type="Editor's Notes" path="§11a">
-       Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§401|(l)">§ 401(l) of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </codify:annotation>
+        <codify:annotation codify:applicability="effective" type="Applicability" path="§11a">Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§401|(l)">§ 401(l) of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+        <annotation doc="D.C. Law 21-160" path="§7011" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7011">Section 7011 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite>. Therefore the changes made to this section by D.C. Law 21-124 have been given effect.
+        </annotation>
       </para>
       <para codify:path="§12">
         <num>(m)</num>
@@ -1788,7 +1789,7 @@
   </container>
   <container>
     <prefix>Title</prefix>
-    <num>V.</num>
+    <num>V</num>
     <heading> CONFORMING AMENDMENTS</heading>
     <section>
       <num>501</num>
@@ -2047,36 +2048,14 @@
   </container>
   <container>
     <prefix>Title</prefix>
-    <num>VI.</num>
+    <num>VI</num>
     <heading>FISCAL IMPACT STATEMENT; EFFECTIVE DATE</heading>
     <section>
+      <reason>Repealed</reason>
       <num>601</num>
       <heading>Applicability.</heading>
-      <para>
-        <num>(a)</num>
-        <text>Sections 301, 302, 303, 304, 305, and 401(l) shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
-      </para>
-      <para>
-        <num>(c)</num>
-        <para>
-          <num>(1)</num>
-          <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
-        </para>
-      </para>
-      <codify:applicability path="§301" date="notfunded" history="false"/>
-      <codify:applicability path="§302" date="notfunded" history="false"/>
-      <codify:applicability path="§303" date="notfunded" history="false"/>
-      <codify:applicability path="§304" date="notfunded" history="false"/>
-      <codify:applicability path="§305" date="notfunded" history="false"/>
-      <codify:applicability path="§401|(l)" date="notfunded" history="false"/>
+      <text>[Repealed].</text>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7011" type="History"/>
     </section>
     <section>
       <num>602</num>

@@ -628,6 +628,12 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>7D</num>
+    <heading>Compost Drop-Off Program.</heading>
+    <xi:include href="sections/8-761.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>8</num>
     <heading>Litter Control Administration.</heading>
     <xi:include href="sections/8-801.xml"/>
@@ -932,6 +938,7 @@
     <xi:include href="sections/8-1772.01.xml"/>
     <xi:include href="sections/8-1772.02.xml"/>
     <xi:include href="sections/8-1772.03.xml"/>
+    <xi:include href="sections/8-1772.04.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

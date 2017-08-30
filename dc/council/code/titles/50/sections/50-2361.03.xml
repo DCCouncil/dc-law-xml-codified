@@ -1,13 +1,56 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Not Funded</reason>
   <num>50-2361.03</num>
   <heading>Functions and operations of the TRAC.</heading>
-  <text>[Not Funded].</text>
+  <para>
+    <num>(a)</num>
+    <text>The purpose of the TRAC shall be to serve as the advisory body to the Mayor, the Council, and DDOT on matters pertaining to operating, improving, and expanding local transit.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>Before the notice of a proposed fare or service adjustment is published in the District of Columbia Register, pursuant to sections <cite path="§50-921.35|(a-1)">§ 50-921.35(a-1)</cite> or <cite path="§50-921.76|(a-1)">§ 50-921.76(a-1)</cite>, DDOT shall submit the proposed fare or service adjustment, to the TRAC.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The TRAC may hold public hearings on the proposed fare or service adjustment.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Before the expiration of the public comment period on the proposed fare or service adjustment, the TRAC shall submit comments to DDOT on the proposed fare or service adjustment, including proposed modifications to the proposal, if any.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>If DDOT does not incorporate the TRAC’s suggested modifications in its final fare or service adjustment, DDOT shall provide the TRAC with a detailed written explanation as to why the proposed modifications were not incorporated into the final fare or service adjustment.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>For the purposes of this subsection, the term "fare or service adjustment" shall mean a change in the fare, the creation of a new route, or a significant change to an existing route or schedule of the DC Circulator or DC Streetcar.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>Before finalizing a strategic or long-term plan to expand and improve local transit service, DDOT shall submit a draft of the proposed plan to the TRAC.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The TRAC may hold public hearings on the proposed planning plan.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Within 45 days, the TRAC shall submit comments to DDOT on the proposed plan, including proposed modifications to the plan, if any.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>If DDOT does not incorporate the TRAC’s suggested modifications into the final plan, the agency shall provide the TRAC with a detailed written explanation as to why the proposed modifications were not incorporated into the final plan.</text>
+    </para>
+  </para>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 21-124" eff="2016-06-22" path="§303" type="History"/>
-    <annotation type="Editor's Notes" app="2016-06-22" eff="2016-06-22" doc="D.C. Law 21-124" path="§303">
-       Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§303">§ 303 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the change made to this section by that amendment has been delayed.
-      </annotation>
     <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="§303" type="History"/>
+    <annotation type="Applicability" app="2016-06-22" eff="2016-06-22" doc="D.C. Law 21-124" path="§303">Applicability of <cite doc="D.C. Law 21-124" path="">D.C. Law 21-124</cite>: <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite> provided that the addition of this section by <cite doc="D.C. Law 21-124" path="§303">§ 303 of D.C. Law 21-124</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
+    <annotation doc="D.C. Law 21-160" path="§7011" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7011">Section 7011 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-124" path="§601">§ 601 of D.C. Law 21-124</cite>. Therefore the changes made to this section by D.C. Law 21-124 have been given effect.
+        </annotation>
   </annotations>
 </section>

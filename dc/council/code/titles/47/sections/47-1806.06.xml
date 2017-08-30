@@ -265,11 +265,19 @@
     <num>(r)</num>
     <para>
       <num>(1)</num>
-      <text>The maximum credit amount of $1000 and the eligibility income threshold of $50,000 ($60,000 for eligible senior claimants) shall be adjusted annually for inflation based on the Consumer Price Index.</text>
+      <text>The maximum credit amount of $1000 shall be adjusted annually for inflation based on the Consumer Price Index (if the adjustment does not result in a multiple of $25, rounded down to the next multiple of $25).</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>For the purpose of this subsection, the term “Consumer Price Index” means the all items index of the Consumer Price Index for All Urban Consumers for the District of Columbia, published by the Bureau of Labor Statistics of the United States Department of Labor.</text>
+      <text>The eligibility income threshold of $50,000 ($60,000 for eligible senior claimants) shall be adjusted annually for inflation based on the Consumer Price Index (if the adjustment does not result in a multiple of $100, rounded down to the next multiple of $100).</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>In the case of a negative annual inflation rate based on the Consumer Price Index, neither the credit amount of $1000 nor the eligibility income threshold of $50,000 ($60,000 for eligible senior claimants) shall be decreased.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>For the purposes of this subsection, the term "Consumer Price Index" means the all items index of the Consumer Price Index for All Urban Consumers for Washington-Baltimore Area, published by the Bureau of Labor Statistics of the United States Department of Labor.</text>
     </para>
   </para>
   <annotations>
@@ -313,5 +321,6 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2(m) of the Fiscal Year 2015 Budget Support Clarification Emergency Act of 2014 (D.C. Act 20-587, January 13, 2015,  62 DCR 1294, 21 STAT 758).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) repeal of <cite doc="D.C. Law 19-142">D.C. Law 19-142</cite> and repeal of this chapter, see § 7016(j) of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
     <annotation type="Short Title">Section 7001 of <cite doc="D.C. Law 20-61">D.C. Law 20-61</cite> provided that Subtitle A of Title VII of the act may be cited as the “Subject to Appropriations Repealers Amendment Act of 2013”.</annotation>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7102" type="History"/>
   </annotations>
 </section>
