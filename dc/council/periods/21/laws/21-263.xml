@@ -622,8 +622,9 @@
         <text>A new paragraph (55) is added to read as follows:</text>
         <include>
           <para>
+            <codify:insert after="(55)" num-value="(56)"/>
             <num>(55)</num>
-            <text>The District of Columbia State Athletics Commission established pursuant to the District of Columbia State Athletics Commission Establishment and State Athletic Association Reorganization Act of 2016, passed on 2nd reading on December 6, 2016 (Enrolled version of Bill 21-601).</text>
+            <text>The District of Columbia State Athletics Commission established pursuant to <code-cite doc="D.C. Code" path="|38|26A-i">the District of Columbia State Athletics Commission Establishment and State Athletic Association Reorganization Act of 2016, passed on 2nd reading on December 6, 2016 (Enrolled version of Bill 21-601)</code-cite>.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
@@ -645,7 +646,7 @@
         <text>Paragraph (24) is amended by striking the period at the end and inserting the phrase "; and" in its place.</text>
         <codify:find-replace count="1" position="last" technical="true">
           <find>n.</find>
-          <replace>; and</replace>
+          <replace>n; and</replace>
         </codify:find-replace>
       </para>
       <para>

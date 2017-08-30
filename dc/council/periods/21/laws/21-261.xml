@@ -430,15 +430,15 @@
     <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1553">Applicability of <cite doc="D.C. Law 21-261" path="">D.C. Law 21-261</cite>: <cite doc="D.C. Law 21-261" path="§12">§ 12 of D.C. Law 21-261</cite> provided that the repeal of this section by <cite doc="D.C. Law 21-261" path="§10">§ 10 of D.C. Law 21-261</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
     <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1554">Applicability of <cite doc="D.C. Law 21-261" path="">D.C. Law 21-261</cite>: <cite doc="D.C. Law 21-261" path="§12">§ 12 of D.C. Law 21-261</cite> provided that the repeal of this section by <cite doc="D.C. Law 21-261" path="§10">§ 10 of D.C. Law 21-261</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§1-523.01|(f)" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code" codify:path="§1-523.01|(f)">
     <num>11</num>
     <text>Section 2(f) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(f)), is amended as follows:</text>
     <para codify:path="(53)">
       <num>(a)</num>
       <text>Paragraph (54) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
       <codify:find-replace count="1">
-        <find>; and</find>
-        <replace>;</replace>
+        <find>Equity.</find>
+        <replace>Equity;</replace>
       </codify:find-replace>
     </para>
     <para codify:path="(54)">
@@ -446,10 +446,10 @@
       <text>Paragraph (55) is amended by striking the period and inserting the phrase "; and" in its place.</text>
       <codify:find-replace count="1">
         <find>Youth Apprenticeship Advisory Committee, established by § <cite path="§32-1412.01">32-1412.01</cite>.</find>
-        <replace>Youth Apprenticeship Advisory Committee, established by § <cite path="§32-1412.01">32-1412.01</cite>; and</replace>
+        <replace>Youth apprenticeship Advisory Committee, established by § <cite path="§32-1412.01">32-1412.01</cite>; and</replace>
       </codify:find-replace>
     </para>
-    <para>
+    <para codify:applicability="notfunded">
       <num>(c)</num>
       <text>A new paragraph (56) is added to read as follows:</text>
       <include>
@@ -478,7 +478,7 @@
       <codify:applicability path="§8" date="notfunded" history="false"/>
       <codify:applicability path="§9" date="notfunded" history="false"/>
       <codify:applicability path="§10" date="pending" history="false"/>
-      <codify:applicability path="§11" date="notfunded" history="false"/>
+      <codify:applicability path="§11|(c)" date="notfunded" history="false"/>
     </para>
     <para>
       <num>(b)</num>
