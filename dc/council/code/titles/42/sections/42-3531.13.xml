@@ -1,11 +1,33 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Not Funded</reason>
   <num>42-3531.13</num>
   <heading>Hearing.</heading>
-  <text>[Not Funded].</text>
+  <para>
+    <num>(a)</num>
+    <text>A hearing to determine liability for a bill shall be held before an administrative law judge within the Office of Administrative Hearings and shall be conducted in accordance with <cite path="§2-509">§ 2-509</cite>.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>If an owner who requests a hearing fails to appear at a hearing, the administrative law judge may proceed with the hearing and issue a final decision in the case.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>The administrative law judge shall decide whether the owner's liability for the amount of the bill, in whole or in part, has been established by a preponderance of the evidence.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If an owner is found liable for any portion of the bill, the administrative law judge may impose an additional penalty of up to twice the amount of the liability for the bill.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>If an administrative law judge issues an order finding an owner liable, the owner shall pay the amount due within 30 days after the issuance of the order.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-211" path="">D.C. Law 21-211</cite>: <cite doc="D.C. Law 21-211" path="§5">§ 5 of D.C. Law 21-211</cite> provided that the creation of this section by <cite doc="D.C. Law 21-211" path="§2|(c)">§ 2(c) of D.C. Law 21-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 16-33" type="History" path="§2068e">Oct. 20, 2005, D.C. Law 16-33, § 2068e</annotation>
-    <annotation app="notfunded" doc="D.C. Law 21-211" eff="2017-02-18" path="§2|(c)" prefix="as added" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-211" eff="2017-02-18" path="§2|(c)" prefix="as added" type="History"/>
     <annotation type="Applicability" app="2017-02-18" eff="2017-02-18" doc="D.C. Law 21-211" path="§2|(c)">Applicability of <cite doc="D.C. Law 21-211" path="">D.C. Law 21-211</cite>: <cite doc="D.C. Law 21-211" path="§5">§ 5 of D.C. Law 21-211</cite> provided that the creation of this section by <cite doc="D.C. Law 21-211" path="§2|(c)">§ 2(c) of D.C. Law 21-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
     <annotation app="2017-02-18" doc="D.C. Law 21-211" eff="2017-02-18" path="§2|(c)" type="History"/>
   </annotations>

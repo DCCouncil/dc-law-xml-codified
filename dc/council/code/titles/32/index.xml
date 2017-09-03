@@ -133,24 +133,85 @@
   <container>
     <prefix>Chapter</prefix>
     <num>5</num>
-    <heading>Family and Medical Leave.</heading>
-    <xi:include href="sections/32-501.xml"/>
-    <xi:include href="sections/32-502.xml"/>
-    <xi:include href="sections/32-503.xml"/>
-    <xi:include href="sections/32-504.xml"/>
-    <xi:include href="sections/32-505.xml"/>
-    <xi:include href="sections/32-506.xml"/>
-    <xi:include href="sections/32-507.xml"/>
-    <xi:include href="sections/32-508.xml"/>
-    <xi:include href="sections/32-509.xml"/>
-    <xi:include href="sections/32-510.xml"/>
-    <xi:include href="sections/32-511.xml"/>
-    <xi:include href="sections/32-512.xml"/>
-    <xi:include href="sections/32-513.xml"/>
-    <xi:include href="sections/32-514.xml"/>
-    <xi:include href="sections/32-515.xml"/>
-    <xi:include href="sections/32-516.xml"/>
-    <xi:include href="sections/32-517.xml"/>
+    <heading>Leave from Work.</heading>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>Family and Medical Leave</heading>
+      <xi:include href="sections/32-501.xml"/>
+      <xi:include href="sections/32-502.xml"/>
+      <xi:include href="sections/32-503.xml"/>
+      <xi:include href="sections/32-504.xml"/>
+      <xi:include href="sections/32-505.xml"/>
+      <xi:include href="sections/32-506.xml"/>
+      <xi:include href="sections/32-507.xml"/>
+      <xi:include href="sections/32-508.xml"/>
+      <xi:include href="sections/32-509.xml"/>
+      <xi:include href="sections/32-510.xml"/>
+      <xi:include href="sections/32-511.xml"/>
+      <xi:include href="sections/32-512.xml"/>
+      <xi:include href="sections/32-513.xml"/>
+      <xi:include href="sections/32-514.xml"/>
+      <xi:include href="sections/32-515.xml"/>
+      <xi:include href="sections/32-516.xml"/>
+      <xi:include href="sections/32-517.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Parental Leave.</heading>
+      <xi:include href="sections/32-521.01.xml"/>
+      <xi:include href="sections/32-521.02.xml"/>
+      <xi:include href="sections/32-521.03.xml"/>
+      <xi:include href="sections/32-521.04.xml"/>
+      <xi:include href="sections/32-521.05.xml"/>
+      <xi:include href="sections/32-521.06.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>Employee Sick Leave.</heading>
+      <xi:include href="sections/32-531.01.xml"/>
+      <xi:include href="sections/32-531.02.xml"/>
+      <xi:include href="sections/32-531.03.xml"/>
+      <xi:include href="sections/32-531.04.xml"/>
+      <xi:include href="sections/32-531.05.xml"/>
+      <xi:include href="sections/32-531.06.xml"/>
+      <xi:include href="sections/32-531.07.xml"/>
+      <xi:include href="sections/32-531.08.xml"/>
+      <xi:include href="sections/32-531.09.xml"/>
+      <xi:include href="sections/32-531.10.xml"/>
+      <xi:include href="sections/32-531.11.xml"/>
+      <xi:include href="sections/32-531.12.xml"/>
+      <xi:include href="sections/32-531.13.xml"/>
+      <xi:include href="sections/32-531.14.xml"/>
+      <xi:include href="sections/32-531.15.xml"/>
+      <xi:include href="sections/32-531.16.xml"/>
+      <xi:include href="sections/32-531.17.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IV</num>
+      <heading>Universal Paid Leave.</heading>
+      <xi:include href="sections/32-541.01.xml"/>
+      <xi:include href="sections/32-541.02.xml"/>
+      <xi:include href="sections/32-541.03.xml"/>
+      <xi:include href="sections/32-541.04.xml"/>
+      <xi:include href="sections/32-541.05.xml"/>
+      <xi:include href="sections/32-541.06.xml"/>
+      <xi:include href="sections/32-541.07.xml"/>
+      <xi:include href="sections/32-541.08.xml"/>
+      <xi:include href="sections/32-541.09.xml"/>
+      <xi:include href="sections/32-541.10.xml"/>
+      <xi:include href="sections/32-541.11.xml"/>
+      <xi:include href="sections/32-541.12.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>V</num>
+      <heading>Universal Paid Leave Implementation Fund .</heading>
+      <xi:include href="sections/32-551.01.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
