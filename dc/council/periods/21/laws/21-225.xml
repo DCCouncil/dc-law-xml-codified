@@ -102,7 +102,7 @@
       <annotation doc="D.C. Law 15-205" type="History" path="§3205b">Dec. 7, 2004, D.C. Law 15-205, § 3205b</annotation>
       <codify:annotation codify:applicability="effective" type="Applicability" path="§1-327.54b">Applicability of <cite doc="D.C. Law 21-225" path="">D.C. Law 21-225</cite>: <cite doc="D.C. Law 21-225" path="§4">§ 4 of D.C. Law 21-225</cite> provided that the creation of this section by <cite doc="D.C. Law 21-225" path="§2|(a)">§ 2(a) of D.C. Law 21-225</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
     </para>
-    <para codify:applicability="pending">
+    <para>
       <num>(b)</num>
       <text>Section 3208 (D.C. Official Code § 1-327.57) is amended as follows:</text>
       <para>
@@ -110,7 +110,7 @@
         <text>The existing text is designated as subsection (a).</text>
         <codify:redesignate-para doc="D.C. Code" path="§1-327.57" num-value="(a)"/>
       </para>
-      <para>
+      <para codify:applicability="notfunded">
         <num>(2)</num>
         <text>A new subsection (b) is added to read as follows:</text>
         <include>
@@ -179,7 +179,7 @@
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
       <codify:applicability doc="D.C. Law 21-225" path="§2|(a)" date="notfunded" history="false"/>
-      <codify:applicability doc="D.C. Law 21-225" path="§2|(b)" date="pending" history="false"/>
+      <codify:applicability doc="D.C. Law 21-225" path="§2|(b)|(2)" date="notfunded" history="false"/>
       <codify:applicability doc="D.C. Law 21-225" path="§3" date="notfunded" history="false"/>
     </para>
     <para>
