@@ -2084,7 +2084,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container codify:expire="2017-09-30">
       <prefix>SUBTITLE</prefix>
       <num>M</num>
       <heading>TOPA APPLICATION ASSISTANCE PILOT PROGRAM</heading>
@@ -2154,6 +2154,9 @@
               <num>(g)</num>
               <text>By November 1, 2016, the Mayor, pursuant to <code-cite doc="Pub. L. 90-614" path="I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to implement the provisions of this section. The rules shall mandate processes for the application for, and distribution of, funds in a timely manner so as to facilitate successful compliance with the required timelines and purposes of this section.</text>
             </para>
+            <annotation type="Expiration of Law">
+              Pursuant to section 2124 of D.C. Law 21-160, the addition of this section by section 2122 of D.C. Law 21-160 will expire on September 30, 2017.
+            </annotation>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -2189,18 +2192,17 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <annotation type="Expiration of Law">
+          Pursuant to section 2124 of D.C. Law 21-160, the amendment made to this section by section 2123 of D.C. Law 21-160 will expire on September 30, 2017.
+        </annotation>
       </section>
-      <section>
+      <section codify:expire="">
         <num>2124</num>
         <heading>Sunset.</heading>
         <text>This subtitle shall expire on September 30, 2017.</text>
-        <codify:annotation doc="D.C. Code" path="§42-3404.14" type="Expiration of Law" history="false">
-          Pursuant to section 2124 of D.C. Law 21-160, the addition of this section by section 2122 of D.C. Law 21-160 will expire on September 30, 2017.
-        </codify:annotation>
-        <codify:annotation doc="D.C. Code" path="§42-2857.01" type="Expiration of Law" history="false">
-          Pursuant to section 2124 of D.C. Law 21-160, the amendment made to this section by section 2123 of D.C. Law 21-160 will expire on September 30, 2017.
-        </codify:annotation>
+        <codify:expire path="II|M" date="2017-09-30"/>
       </section>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§2124" type="History"/>
     </container>
     <container>
       <prefix>SUBTITLE</prefix>
@@ -3065,7 +3067,7 @@
                 <replace>act</replace>
               </codify:find-replace>
             </para>
-            <para>
+            <para codify:expire="2019-09-30">
               <num>(C)</num>
               <text>New paragraphs (2) and (3) are added to read as follows:</text>
               <include>
@@ -3081,12 +3083,13 @@
                 </para>
               </include>
               <aftertext>.</aftertext>
-              <annotation path="§3073" type="Expiration of Law" history="false" app="2016-10-08" eff="2016-10-08" doc="D.C. Law 21-160">
-          Section 3073 of D.C. Law 21-160 provided that section 3072(a)(2)(C) and (3) of D.C. Law 21-160 shall expire on September 30, 2019.
-        </annotation>
+              <annotation type="Expiration of Law">
+                Section 3073 of D.C. Law 21-160 provided that section 3072(a)(2)(C) and (3) of D.C. Law 21-160 shall expire on September 30, 2019.
+              </annotation>
+              <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3073" type="History"/>
             </para>
           </para>
-          <para>
+          <para codify:expire="2019-09-30">
             <num>(3)</num>
             <text>New subsections (d), (e), (f), (g), and (h) are added to read as follows:</text>
             <include>
@@ -3237,6 +3240,7 @@
               </para>
             </include>
             <aftertext>.</aftertext>
+            <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3073" type="History"/>
           </para>
         </para>
         <para>
@@ -3254,13 +3258,12 @@
           <aftertext>.</aftertext>
         </para>
       </section>
-      <section>
+      <section codify:expire="">
         <num>3073</num>
         <heading>Sunset.</heading>
         <text>Section 3072(a)(2)(C) and (3) shall expire on September 30, 2019.</text>
-        <codify:annotation path="§3072|(a)|(2)|(C)" type="Expiration of Law" history="false">
-          Section 3073 of D.C. Law 21-160 provided that section 3072(a)(2)(C) and (3) of D.C. Law 21-160 shall expire on September 30, 2019.
-        </codify:annotation>
+        <codify:expire path="§3072|(a)|(2)|(C)" date="2019-09-30"/>
+        <codify:expire path="§3072|(a)|(3)" date="2019-09-30"/>
       </section>
     </container>
     <container>
@@ -3747,7 +3750,7 @@
         <heading>Short title.</heading>
         <text>This subtitle may be cited as the "Criminal Code Reform Commission Establishment Act of 2016".</text>
       </section>
-      <container>
+      <container codify:expire="2018-10-01">
         <prefix>PART</prefix>
         <num>1</num>
         <heading>Establishment of Criminal Code Reform Commission</heading>
@@ -3805,6 +3808,9 @@
               <text>Notwithstanding paragraph (1) of this subsection, the Executive Director as of <span codify:value="October 8, 2016">the effective date of this subtitle</span> shall be exempt from the residency requirement in paragraph (1) of this subsection.</text>
             </para>
           </para>
+          <annotation type="Expiration of Law">
+            Section 3127 of D.C. Law 21-160 provided that this section shall expire on October 1, 2018.
+          </annotation>
         </section>
         <section>
           <codify:insert num-value="3-152"/>
@@ -3898,6 +3904,9 @@
             <num>(f)</num>
             <text>The Commission may request such information as may be necessary to fulfill its statutory responsibilities.  Each department, agency, instrumentality, or independent agency of the District of Columbia is authorized and directed, to the extent permitted by law, to furnish the Commission with such requested information.</text>
           </para>
+          <annotation type="Expiration of Law">
+            Section 3127 of D.C. Law 21-160 provided that this section shall expire on October 1, 2018.
+          </annotation>
         </section>
         <section>
           <codify:insert num-value="3-153"/>
@@ -3959,6 +3968,9 @@
             <num>(f)</num>
             <text>The Commission shall compile and make publicly available a record of all written comments received from Advisory Group members under subsection (c) of this section.</text>
           </para>
+          <annotation type="Expiration of Law">
+            Section 3127 of D.C. Law 21-160 provided that this section shall expire on October 1, 2018.
+          </annotation>
         </section>
         <section>
           <codify:insert num-value="3-154"/>
@@ -3996,6 +4008,9 @@
               <text>A work plan and schedule, or revisions to an existing work plan and schedule, for carrying out the responsibilities of the Commission to meet statutory requirements.</text>
             </para>
           </para>
+          <annotation type="Expiration of Law">
+            Section 3127 of D.C. Law 21-160 provided that this section shall expire on October 1, 2018.
+          </annotation>
         </section>
         <section>
           <codify:insert num-value="3-155"/>
@@ -4009,13 +4024,18 @@
             <num>(b)</num>
             <text>All rules, orders, obligations, determinations, grants, contracts, licenses, and agreements of the Criminal Code Revision Project transferred to the Criminal Code Revision Commission under subsection (a) of this section shall continue in effect according to their terms until lawfully amended, repealed, or modified.</text>
           </para>
+          <annotation type="Expiration of Law">
+            Section 3127 of D.C. Law 21-160 provided that this section shall expire on October 1, 2018.
+          </annotation>
         </section>
-        <section>
+        <section codify:expire="">
           <codify:insert num-value="3-156"/>
           <num>3127</num>
           <heading>Sunset.</heading>
           <text><code-cite doc="D.C. Code" path="|3|1A">This part</code-cite> shall expire on October 1, 2018.</text>
+          <codify:expire doc="D.C. Law 21-160" path="III|M|1" date="2018-10-01"/>
         </section>
+        <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3127" type="History"/>
       </container>
       <container>
         <prefix>PART</prefix>
@@ -6519,7 +6539,7 @@
         <heading>Medicaid Hospital Outpatient Supplemental Payment.</heading>
       </container>
     </codify:insert>
-    <container>
+    <container codify:expire="2017-09-30">
       <codified:at doc="D.C. Code" path="44|6A|II"/>
       <prefix>SUBTITLE</prefix>
       <num>G</num>
@@ -6554,6 +6574,9 @@
           <num>(5)</num>
           <text>"Outpatient gross patient revenue" means the amount calculated in accordance with generally accepted accounting principles for hospitals that is reported as the sum of Lines 18 and 19; Column 2; Worksheet G-2 of the Hospital and Hospital Health Care Complex Cost Report (Form CMS 2552-10), filed for the period ending between October 1, 2013, and September 30, 2014.</text>
         </para>
+        <annotation type="Expiration of Law">
+          Section 5070 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="44|6A|II" num-value="44-661.12"/>
@@ -6606,6 +6629,9 @@
             <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
           </para>
         </para>
+        <annotation type="Expiration of Law">
+          Section 5070 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="44|6A|II" num-value="44-661.13"/>
@@ -6631,6 +6657,9 @@
           <num>(b)</num>
           <text>A psychiatric hospital that is an agency or a unit of the District government is exempt from the fee imposed under subsection (a) of this section, unless the exemption is adjudged to be unconstitutional or otherwise invalid, in which case a psychiatric hospital that is an agency or a unit of the District government shall pay the fee imposed by subsection (a) of this section.</text>
         </para>
+        <annotation type="Expiration of Law">
+          Section 5070 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="44|6A|II" num-value="44-661.14"/>
@@ -6660,6 +6689,9 @@
           <num>(d)</num>
           <text>Should the fee imposed by <code-cite doc="D.C. Law 21-160" path="§5064">section 5064</code-cite> not take effect or cease to be imposed, moneys in the Fund derived from the imposed fee shall be disbursed in accordance with <code-cite doc="D.C. Law 21-160" path="§5066">section 5066</code-cite> to the extent federal matching is available. If federal matching is not available due to a determination by the Centers for Medicare and Medicaid Services that the fee is impermissible, any remaining moneys shall be refunded to hospitals in proportion to the amounts paid by them.</text>
         </para>
+        <annotation type="Expiration of Law">
+          Section 5070 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="44|6A|II" num-value="44-661.15"/>
@@ -6707,6 +6739,9 @@
           <num>(e)</num>
           <text>The Medicaid payment methodologies authorized under <code-cite doc="D.C. Law 21-160" path="V|G">this subtitle</code-cite> shall not be altered in any way unless such alteration is necessary to gain federal approval from the Centers for Medicare and Medicaid Services.</text>
         </para>
+        <annotation type="Expiration of Law">
+          Section 5070 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="44|6A|II" num-value="44-661.16"/>
@@ -6739,6 +6774,9 @@
           <num>(c)</num>
           <text>The payment by the hospital of the fee created in <code-cite doc="D.C. Law 21-160" path="V|G">this subtitle</code-cite> shall be reported as an allowable cost for purposes of Medicaid hospital reimbursement.</text>
         </para>
+        <annotation type="Expiration of Law">
+          Section 5070 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="44|6A|II" num-value="44-661.17"/>
@@ -6763,19 +6801,27 @@
           <num>(c)</num>
           <text>Notwithstanding any other provision in <code-cite doc="D.C. Law 21-160" path="V|G">this subtitle</code-cite>, a hospital system or person who conducts, operates, or maintains a hospital, upon notice by the Department, shall pay the fee computed under <code-cite doc="D.C. Law 21-160" path="§5064">section 5064</code-cite> and subsection (a) of this section in installments on the due date stated in the notice and on the regular installment due dates for the DFY occurring after the due dates of the initial notice.</text>
         </para>
+        <annotation type="Expiration of Law">
+          Section 5070 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="44|6A|II" num-value="44-661.18"/>
         <num>5069</num>
         <heading>Rules.</heading>
         <text>The Mayor, pursuant to <code-cite doc="Pub. L. 90-614" path="I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, may issue rules to implement the provisions of <code-cite doc="D.C. Law 21-160" path="V|G">this subtitle</code-cite>.</text>
+        <annotation type="Expiration of Law">
+          Section 5070 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
-      <section>
+      <section codify:expire="">
         <codify:insert doc="D.C. Code" path="44|6A|II" num-value="44-661.19"/>
         <num>5070</num>
         <heading>Sunset.</heading>
         <text><code-cite doc="D.C. Law 21-160" path="V|G">This subtitle</code-cite> shall expire on September 30, 2017.</text>
+        <codify:expire doc="D.C. Law 21-160" path="V|G" date="2017-09-30"/>
       </section>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5070" type="History"/>
     </container>
     <codify:create-sub-container doc="D.C. Code" path="44|6D" num-value="I" prefix-value="Subchapter" heading-value="2015-2016 Supplement." history="false"/>
     <codify:insert doc="D.C. Code" path="44|6D" history="false">
@@ -6785,7 +6831,7 @@
         <heading>2016-2017 Supplement.</heading>
       </container>
     </codify:insert>
-    <container>
+    <container codify:expire="2017-09-30">
       <codified:at doc="D.C. Code" path="44|6D|II"/>
       <prefix>SUBTITLE</prefix>
       <num>H</num>
@@ -6836,6 +6882,9 @@
           <num>(5)</num>
           <text>"Medicaid" means the medical assistance programs authorized by Title XIX of the Social Security Act, approved July 30, 1965 (79 Stat. 343; 42 U.S.C. § 1396 <em>et seq</em>.) ("Social Security Act"), and by <code-cite doc="Pub. L. 90-227" path="§1">section 1 of An Act To enable the District of Columbia to receive Federal financial assistance under title XIX of the Social Security Act for a medical assistance program, and for other purposes, approved December 27, 1967 (81 Stat. 744; D.C. Official Code § 1-307.02)</code-cite>, and administered by the Department.</text>
         </para>
+        <annotation type="Expiration of Law">
+          Section 5079 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="44|6D|II" num-value="44-662.12"/>
@@ -6876,6 +6925,9 @@
             <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation; provided, that any remaining money in the Fund at the end of each fiscal year shall be refunded to hospitals in proportion to the amounts paid by them.</text>
           </para>
         </para>
+        <annotation type="Expiration of Law">
+          Section 5079 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="44|6D|II" num-value="44-662.13"/>
@@ -6904,6 +6956,9 @@
           <num>(c)</num>
           <text>If necessary, by August 1, 2016, the Department shall submit a provider tax waiver application to the Center for Medicare and Medicaid Services to ensure the provisions of <code-cite doc="D.C. Law 21-160" path="V|H">this subtitle</code-cite> qualify as a broad-based health care related tax, as that term is defined in section 1903(w)(3)(B) of the Social Security Act.</text>
         </para>
+        <annotation type="Expiration of Law">
+          Section 5079 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="44|6D|II" num-value="44-662.14"/>
@@ -6932,6 +6987,9 @@
           <num>(d)</num>
           <text>The payment by the hospital of the fee created in <code-cite doc="D.C. Law 21-160" path="V|H">this subtitle</code-cite> shall be reported as an allowable cost for purposes of Medicaid hospital reimbursement.</text>
         </para>
+        <annotation type="Expiration of Law">
+          Section 5079 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="44|6D|II" num-value="44-662.15"/>
@@ -6956,6 +7014,9 @@
           <num>(c)</num>
           <text>Notwithstanding any other provision of <code-cite doc="D.C. Law 21-160" path="V|H">this subtitle</code-cite>, a hospital system or person who conducts, operates, or maintains a hospital, upon notice by the Department, shall pay the fee required under <code-cite path="§5074" doc="D.C. Law 21-160">5074</code-cite> in accordance with subsection (a) of this section on the due date stated in the notice and on the regular installment due dates for the DFY occurring after the due date of the initial notice.</text>
         </para>
+        <annotation type="Expiration of Law">
+          Section 5079 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="44|6D|II" num-value="44-662.16"/>
@@ -6969,19 +7030,27 @@
           <num>(b)</num>
           <text>If the Centers for Medicare and Medicaid Services determines that an exclusion for specialty hospitals under <code-cite doc="D.C. Law 21-160" path="V|H">this subtitle</code-cite> would prevent an assessment imposed by <code-cite doc="D.C. Law 21-160" path="V|H">this subtitle</code-cite> from qualifying as a broad-based health care related tax, as that term is defined in section 1903(w)(3)(B) of the Social Security Act, the exclusion of specialty hospitals shall not be made.</text>
         </para>
+        <annotation type="Expiration of Law">
+          Section 5079 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="44|6D|II" num-value="44-662.17"/>
         <num>5078</num>
         <heading>Rules.</heading>
         <text>The Mayor, pursuant to <code-cite doc="Pub. L. 90-614" path="I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, may issue rules to implement the provisions of <code-cite doc="D.C. Law 21-160" path="V|H">this subtitle</code-cite>.</text>
+        <annotation type="Expiration of Law">
+          Section 5079 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
+        </annotation>
       </section>
-      <section>
+      <section codify:expire="">
         <codify:insert doc="D.C. Code" path="44|6D|II" num-value="44-662.18"/>
         <num>5079</num>
         <heading>Sunset.</heading>
         <text><code-cite doc="D.C. Law 21-160" path="V|H">This subtitle</code-cite> shall expire on September 30, 2017.</text>
+        <codify:expire doc="D.C. Law 21-160" path="V|H" date="2017-09-30"/>
       </section>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5079" type="History"/>
     </container>
     <container>
       <prefix>SUBTITLE</prefix>
@@ -7010,7 +7079,7 @@
         </para>
       </section>
     </container>
-    <container>
+    <container codify:expire="2017-03-17">
       <prefix>SUBTITLE</prefix>
       <num>J</num>
       <heading>YOUTH SERVICES COORDINATION TASK FORCE</heading>
@@ -7094,20 +7163,22 @@
           <num>(f)</num>
           <text>For the purposes of this section, the term "Individualized Success Plans" includes plans developed by the youth, family members, and agency staff that describe the services the youth needs, such as tutoring, job training, or substance abuse prevention, and the progress the youth needs to make.</text>
         </para>
-        <codify:annotation doc="D.C. Code" path="§2-1591" type="Editor's Notes" history="false">
+        <annotation doc="D.C. Code" path="§2-1591" type="Editor's Notes" history="false">
           For temporary establishment of Youth Services Cooridinating Task Force, see <cite doc="D.C. Law 21-160" path="§5092">sections 5092 through 5094 of D.C. Law 21-160</cite>.
-        </codify:annotation>
+        </annotation>
       </section>
       <section>
         <num>5093</num>
         <heading>Administration and appropriations.</heading>
         <text>The Office of the Deputy Mayor for Health and Human Services shall provide facilities and other administrative support for the Task Force.</text>
       </section>
-      <section>
+      <section codify:expire="">
         <num>5094</num>
         <heading>Sunset.</heading>
         <text>This subtitle shall expire on March 17, 2017.</text>
+        <codify:expire path="V|J" date="2017-03-17"/>
       </section>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5094" type="History"/>
     </container>
     <container>
       <prefix>SUBTITLE</prefix>
@@ -8804,7 +8875,7 @@
         <aftertext>.</aftertext>
       </section>
     </container>
-    <container>
+    <container codify:expire="2018-09-30">
       <prefix>SUBTITLE</prefix>
       <num>M</num>
       <heading>SELF-SERVICE EXHAUST EMISSIONS TESTING PILOT PROGRAM</heading>
@@ -8850,18 +8921,20 @@
               <num>(e)</num>
               <text>On or before March 30, 2018, the Department shall submit a written report to the Council that evaluates the pilot program's operations, including the number of vehicles inspected, a description of issues that arose during the reporting period, and a study of the impact of the pilot program on the number of vehicles inspected and wait times at non-self-service inspection stations.</text>
             </para>
+            <annotation type="Expiration of Law">
+              Section 6143 of D.C. Law 21-160 provided that this section shall expire on September 30, 2018.
+            </annotation>
           </section>
         </include>
         <aftertext>.</aftertext>
       </section>
-      <section>
+      <section codify:expire="">
         <num>6143</num>
         <heading>Sunset.</heading>
         <text>This subtitle shall expire on September 30, 2018.</text>
-        <codify:annotation doc="D.C. Code" path="§50-1110" type="Expiration of Law">
-          Section 6143 of D.C. Law 21-160 provided that this section shall expire on September 30, 2018
-        </codify:annotation>
+        <codify:expire path="VI|M" date="2018-09-30"/>
       </section>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6143" type="History"/>
     </container>
     <container>
       <prefix>SUBTITLE</prefix>

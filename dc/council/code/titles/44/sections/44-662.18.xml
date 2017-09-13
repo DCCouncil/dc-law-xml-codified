@@ -1,7 +1,8 @@
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:expire="" containing-doc="D.C. Code">
   <num>44-662.18</num>
   <heading>Sunset.</heading>
   <text><cite path="44|6D|II">This subchapter</cite> shall expire on September 30, 2017.</text>
+  <codify:expire doc="D.C. Law 21-160" path="V|H" date="2017-09-30"/>
   <annotations>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5079" type="History"/>
   </annotations>
