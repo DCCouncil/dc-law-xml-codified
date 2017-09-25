@@ -1,4 +1,4 @@
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-254">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-254" codify:applicability="notfunded">
   <num type="law">21-254</num>
   <num type="bill">21-3</num>
   <num type="act">21-671</num>
@@ -644,6 +644,7 @@
       <para>
         <num>(a)</num>
         <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+        <codify:applicability date="notfunded" history="false"/>
       </para>
       <para>
         <num>(b)</num>

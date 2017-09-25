@@ -1,9 +1,29 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>32-1007</num>
   <heading>Investigatory powers of Mayor.</heading>
-  <text>The Mayor shall have the power to administer oaths and require by subpoena the attendance and testimony of witnesses, the production of all books, registers, and other evidence relative to any matters under investigation, at any public hearing, or at any meeting of any committee or for the use of the Mayor in securing compliance with this subchapter. In case of disobedience to a subpoena, the Mayor may invoke the aid of the Superior Court of the District of Columbia to require the attendance and testimony of witnesses and the production of documentary evidence. In case of contumacy or refusal to obey a subpoena, the Court may issue an order to require an appearance before the Mayor, the production of documentary evidence, and the giving of evidence, and any failure to obey the order of the Court may be punished by the Court as contempt.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Mayor and the Attorney General shall each have the power to administer oaths and require by subpoena the attendance and testimony of witnesses, the production of all books, registers, and other evidence relative to any matters under investigation, at any public hearing, or at any meeting of any committee or for the use of the Mayor or the Attorney General in securing compliance with this act.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>In case of disobedience to a subpoena, the Mayor or the Attorney General may invoke the aid of the Superior Court of the District of Columbia to require the attendance and testimony of witnesses and the production of documentary evidence.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>In case of contumacy or refusal to obey a subpoena, the Court may issue an order to require an appearance before the Mayor or the Attorney General, the production of documentary evidence, and the giving of evidence.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>A person or an entity to whom a subpoena has been issued may move to quash or modify the subpoena.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Any failure to obey the order of the Court may be punished by the Court as contempt.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 9-248" type="History" path="§8">Mar. 25, 1993, D.C. Law 9-248, § 8, 40 DCR 761</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 36-220.6.</annotation>
+    <annotation app="2017-04-07" doc="D.C. Law 21-266" eff="2017-04-07" path="§3|(b)" type="History"/>
   </annotations>
 </section>
