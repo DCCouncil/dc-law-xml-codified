@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>31-2002</num>
   <heading>RBC Reports.</heading>
@@ -75,11 +76,12 @@
   </para>
   <para>
     <num>(g)</num>
-    <text>If a domestic insurer files an RBC Report which in the judgment of the Commissioner is inaccurate, then the Commissioner shall adjust the RBC Report to correct the inaccuracy and shall notify the insurer of the adjustment. The notice shall contain a statement of the reason for the adjustment.</text>
+    <text>If a domestic insurer files an RBC Report which in the judgment of the Commissioner is inaccurate, then the Commissioner shall adjust the RBC Report to correct the inaccuracy and shall notify the insurer of the adjustment. An RBC Report so adjusted is an Adjusted RBC Report. The notice shall contain a statement of the reason for the adjustment.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 11-233" type="History" path="§3">Apr. 9, 1997, D.C. Law 11-233, § 3, 44 DCR 765</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-2001">31-2001</cite>, § <cite path="§31-2010">31-2010</cite>, and § <cite path="§31-3931.22">31-3931.22</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-4602.</annotation>
+    <annotation app="2017-04-15" doc="D.C. Law 21-278" eff="2017-04-15" path="§2|(b)" type="History"/>
   </annotations>
 </section>

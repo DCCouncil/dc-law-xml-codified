@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>31-2003</num>
   <heading>Company Action Level Event.</heading>
@@ -13,11 +14,11 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>If a life or health insurer, the insurer has total adjusted capital which is greater than or equal to its Company Action Level RBC, but less than the product of its Authorized Control Level RBC and 2.5 and has a negative trend;  or</text>
+        <text>If a life or health insurer or fraternal benefit society, the insurer has total adjusted capital which is greater than or equal to its Company Action Level RBC, but less than the product of its Authorized Control Level RBC and 3.0 and has a negative trend;  or</text>
       </para>
       <para>
         <num>(C)</num>
-        <text>If licensed as a property and casualty insurer, the insurer has total adjusted capital which is greater than or equal to its Company Action Level RBC, but less than the product of its Authorized Control Level RBC and 3.0, and triggers the trend test determined in accordance with the trend test calculation included in the Property and Casualty RBC instructions;</text>
+        <text>If  a property and casualty insurer, the insurer has total adjusted capital which is greater than or equal to its Company Action Level RBC, but less than the product of its Authorized Control Level RBC and 3.0, and triggers the trend test determined in accordance with the trend test calculation included in the Property and Casualty RBC instructions;</text>
       </para>
     </para>
     <para>
@@ -91,5 +92,8 @@
     <annotation type="Section References">This section is referenced in § <cite path="§31-2001">31-2001</cite>, § <cite path="§31-2004">31-2004</cite>, § <cite path="§31-2013">31-2013</cite>, and § <cite path="§31-3931.22">31-3931.22</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-4603.</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-103">D.C. Law 19-103</cite>, in subsec. (a)(1), deleted “and” from the end of subpar. (A), substituted “; or ” for a period the end of subpar. (B), and added subpar. (C).</annotation>
+    <annotation app="2017-04-15" doc="D.C. Law 21-278" eff="2017-04-15" path="§2|(c)|(1)|(A)" type="History"/>
+    <annotation app="2017-04-15" doc="D.C. Law 21-278" eff="2017-04-15" path="§2|(c)|(1)|(B)" type="History"/>
+    <annotation app="2017-04-15" doc="D.C. Law 21-278" eff="2017-04-15" path="§2|(c)|(2)" type="History"/>
   </annotations>
 </section>

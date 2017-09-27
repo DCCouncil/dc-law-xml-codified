@@ -1,62 +1,53 @@
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3505.31</num>
-  <heading>Access by housing provider to dwelling unit.</heading>
+  <heading>Authorized fees for the payment of rent beyond 5 days after the rent payment is due.</heading>
   <para>
     <num>(a)</num>
-    <text>For the purposes of this section, the term:</text>
-    <para>
-      <num>(1)</num>
-      <text>"Reasonable notice" means written notice provided to the tenant at least 48 hours before the time the housing provider wishes to enter the unit or a shorter period of time as agreed to by the tenant in writing. Written notice may include electronic communication, including email and mobile text messaging; provided, that if the tenant fails to furnish a written acknowledgement, the housing provider will provide a paper notice.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>"Reasonable purpose" means a purpose that is directly related to the housing provider's:</text>
-      <para>
-        <num>(A)</num>
-        <text>Duty to keep the entire property safe from damage;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Duty to inspect the premises;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Duty to make necessary or agreed repairs, decorations, alterations, renovations, or improvements;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>Duty to supply necessary or agreed services and maintenance;</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>Need to exhibit the dwelling unit to prospective or actual purchasers, mortgagees, tenants, workmen, or contractors; or</text>
-      </para>
-      <para>
-        <num>(F)</num>
-        <text>Need to gain entry for work ordered by a governmental entity.</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>"Reasonable time" means a time between the hours of 9 a.m. and 5 p.m., and not on a Sunday or federal holiday, or at another time agreed upon by the tenant.</text>
-    </para>
+    <text>Pursuant to subsection (b) of this section, a housing provider may charge a late fee of no more than 5% of the full amount of rent due by a tenant.</text>
   </para>
   <para>
     <num>(b)</num>
+    <text>A housing provider may only charge a late fee:</text>
     <para>
       <num>(1)</num>
-      <text>Except in the event of an emergency for the protection or preservation of the premises, or for the protection and safety of the tenants or other persons, a housing provider may enter a rental unit during a tenancy only for a reasonable purpose, at a reasonable time, and after having provided the tenant with reasonable notice.</text>
+      <text>If the written lease agreement between the housing provider and the tenant informs the tenant of the maximum amount of the late fee that may be charged pursuant to this section; and</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Upon a showing by the tenant that the housing provider has entered a unit in violation of this section, or has repeatedly made unreasonable demands for entry, any court of competent jurisdiction may enjoin the housing provider from that behavior and may assess appropriate damages against the housing provider for breach of the tenant's right to quiet enjoyment of the premises.</text>
+      <text>If the tenant has not paid the full amount of rent within 5 days, or any longer grace period that may be provided in the lease, after the day the rent payment is due.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A housing provider shall not:</text>
+    <para>
+      <num>(1)</num>
+      <text>Charge interest on a late fee;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Deduct any amount of a late fee from a subsequent rent payment;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Upon the allegation of a housing code violation by a tenant, a tenant may not unreasonably prevent the housing provider from accessing the unit for assessment and abatement of the alleged violation and must provide access to the unit within 48 hours of the written request by the housing provider for access.</text>
+      <text>Impose a late fee more than one time on each late payment;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Evict a tenant on the basis of the nonpayment of a late fee; or</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Impose a late fee on a tenant for the late payment or nonpayment of any portion of the rent for which a rent subsidy provider, rather that the tenant, is responsible for paying.</text>
     </para>
   </para>
+  <para>
+    <num>(d)</num>
+    <text>After the grace period established pursuant to subsection (b)(2) of this section, a housing provider may issue a tenant an invoice to be paid within 30 days after the date of issuance for any lawfully imposed late fees.  If the tenant does not pay the late fee within the 30-day period, the housing provider may deduct from a tenant's security deposit, at the end of the tenancy, any unpaid, lawfully imposed late fees, along with any other amounts lawfully due the housing provider.</text>
+  </para>
   <annotations>
-    <annotation app="2017-02-18" doc="D.C. Law 21-210" eff="2017-02-18" path="§2|(d)" type="History"/>
+    <annotation doc="D.C. Law 6-10" type="History" path="§531">July 17, 1985, D.C. Law 6-10, § 531</annotation>
+    <annotation app="2016-12-08" doc="D.C. Law 21-172" eff="2016-12-08" path="§2|(b)" prefix="as added" type="History"/>
   </annotations>
 </section>

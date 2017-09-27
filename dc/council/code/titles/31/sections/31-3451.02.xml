@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>31-3451.02</num>
   <heading>RBC reports.</heading>
@@ -23,7 +24,23 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>A health organization’s RBC level shall be determined in accordance with the RBC instructions.</text>
+    <text>A health organization's RBC level shall be determined in accordance with the formula set forth in the RBC instructions. The formula shall apply and may be adjusted for the covariance between the following factors in the manner set forth in the RBC instructions:</text>
+    <para>
+      <num>(1)</num>
+      <text>Asset risk;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Credit risk;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Underwriting risk; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>All other business risks and such other relevant risks as are set forth in the RBC instructions.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
@@ -33,5 +50,6 @@
     <annotation doc="D.C. Law 14-312" type="History" path="§102">June 18, 2003, D.C. Law 14-312, § 102, 50 DCR 306</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§31-3451.01">31-3451.01</cite>.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§31-3851.02">31-3851.02</cite>.</annotation>
+    <annotation app="2017-04-15" doc="D.C. Law 21-278" eff="2017-04-15" path="§3|(b)" type="History"/>
   </annotations>
 </section>

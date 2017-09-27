@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>31-3451.01</num>
   <heading>Definitions.</heading>
@@ -43,7 +44,14 @@
     <text>“Company Action Level Event” means any of the following events:</text>
     <para>
       <num>(A)</num>
-      <text>The filing of an RBC report by a health organization that indicates that the health organization’s total adjusted capital is at least equal to its Regulatory Action Level RBC, but less than its Company Action Level RBC;</text>
+      <para>
+        <num>(i)</num>
+        <text>The filing of an RBC report by a health organization that indicates that the health organization's total adjusted capital is greater than or equal to its Regulatory Action Level RBC but less than its Company Action Level RBC; or</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>A health organization has a total adjusted capital that is greater than or equal to its Company Action Level RBC but less than the product of its Authorized Control Level RBC and 3.0, and triggers the trend test determined in accordance with the trend test calculation included in the RBC instructions;</text>
+      </para>
     </para>
     <para>
       <num>(B)</num>
@@ -192,5 +200,6 @@
     <annotation type="Section References">This section is referenced in § <cite path="§31-311.03">31-311.03</cite> and § <cite path="§31-3451.13">31-3451.13</cite>.</annotation>
     <annotation type="Prior Codifications">2001 Ed., § <cite path="§31-3851.01">31-3851.01</cite>.</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 15-354">D.C. Law 15-354</cite>, in par. (11), validated a previously made technical correction.</annotation>
+    <annotation app="2017-04-15" doc="D.C. Law 21-278" eff="2017-04-15" path="§3|(a)" type="History"/>
   </annotations>
 </section>

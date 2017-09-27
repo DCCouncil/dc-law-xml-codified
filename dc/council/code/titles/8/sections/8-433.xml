@@ -1,17 +1,63 @@
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-433</num>
   <heading>Prohibited and restricted uses.</heading>
   <para>
     <num>(a)</num>
-    <text>No person or entity shall apply non-essential pesticides to schools, child-occupied facilities, waterbody-contingent property, or District property, except as provided in § <cite path="§8-434">8-434</cite>.</text>
+    <text>Except as provided in section 5, no person or entity shall apply a pesticide to schools, child-occupied facilities, waterbody-contingent property, or District property; provided, that a person or entity may apply:</text>
+    <para>
+      <num>(1)</num>
+      <text>Minimum-risk pesticides or organic pesticides; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Any pesticide, except a District restricted-use pesticide, that is applied for the purpose of:</text>
+      <para>
+        <num>(A)</num>
+        <text>Controlling plants that are poisonous to touch or may cause damage to a structure or infrastructure;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Controlling insects that bite or sting, are venomous, or that may cause damage to a structure or infrastructure;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Controlling disease vectors;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Controlling organisms that threaten the health of trees or shrubs;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Maintaining property as part of efforts by a public utility to comply with applicable vegetation management provisions of any federal or District law or regulation;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Controlling pests or weeds while engaged in agriculture or forestry;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Controlling a pest outbreak that poses an imminent threat to human health; and</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Preventing significant economic damage.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>The Department may establish restrictions for District restricted-use pesticides when they are to be used on schools, child-occupied facilities, waterbody-contingent property, or District property.</text>
+    <text>In addition to the restrictions in subsection (a) of this section, the Department may establish additional restrictions on the use of District restricted-use pesticides.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>If a pesticide is applied under subsection (a)(2) of this section, the person or entity applying the pesticide shall, within 7 days after the application, notify the Department of the application, the reasons for application of the pesticide, and the reason why pesticides allowed under subsection (a)(1) of this section were insufficient.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 19-191" type="History" path="§4">Oct. 23, 2012, D.C. Law 19-191, § 4, 59 DCR 10166</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§8-418">8-418</cite>, § <cite path="§8-434">8-434</cite>, and § <cite path="§8-439">8-439</cite>.</annotation>
     <annotation type="Editor's Notes">Section 14(a) of <cite doc="D.C. Law 19-191">D.C. Law 19-191</cite> provided that §§ 1, 2, 3, 4, 5, 8, 9, 10, 11, 12, and 13 of the act shall apply as of October 1, 2013.</annotation>
+    <annotation app="2017-04-15" doc="D.C. Law 21-277" eff="2017-04-15" path="§2|(c)" type="History"/>
   </annotations>
 </section>

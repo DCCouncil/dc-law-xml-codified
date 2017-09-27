@@ -1,9 +1,10 @@
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-1501.02b</num>
   <heading>Issuance of women veterans license plates.</heading>
   <para>
     <num>(a)</num>
-    <text>The Mayor shall design and issue motor vehicle identification tags to honor women veterans that shall bear either the inscription "women veterans" or a facsimile or an emblem honoring women veterans. These identification tags shall retain and display the "TAXATION WITHOUT REPRESENTATION" slogan of the current District of Columbia motor vehicle identification tags.</text>
+    <text>The Mayor shall design and issue motor vehicle identification tags to honor women veterans that shall bear either the inscription "women veterans" or a facsimile or an emblem honoring women veterans. These identification tags shall retain and display the "End Taxation Without Representation" slogan of the current District of Columbia motor vehicle identification tags.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -19,5 +20,6 @@
   <annotations>
     <annotation type="History" doc="Stat. 75-1-ch690" path="§2b">Aug. 17, 1937, 50 Stat. 680, ch. 690, title IV,§ 2b</annotation>
     <annotation app="2017-02-18" doc="D.C. Law 21-212" eff="2017-02-18" path="§2|(a)" prefix="as added" type="History"/>
+    <annotation app="2017-04-15" doc="D.C. Law 21-279" eff="2017-04-15" path="§2|(b)" type="History"/>
   </annotations>
 </section>

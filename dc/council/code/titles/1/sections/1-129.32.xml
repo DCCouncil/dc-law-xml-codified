@@ -1,4 +1,5 @@
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-129.32</num>
   <heading>Establishment of the New Columbia Statehood Fund.</heading>
   <para>
@@ -20,11 +21,19 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>Net receipts pursuant to the income tax check-off provided in § <cite path="§47-1812.11c">47-1812.11c</cite>; and</text>
+        <text>Net receipts pursuant to the income tax check-off provided in § <cite path="§47-1812.11c">47-1812.11c</cite>;</text>
       </para>
       <para>
         <num>(D)</num>
-        <text>Donations accepted pursuant to <cite path="§1-155|(d)|(1)">§ 1-155(d)(1)</cite>.</text>
+        <text>Donations accepted pursuant to <cite path="§1-155|(d)|(1)">§ 1-155(d)(1)</cite>;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Fees collected pursuant to section 2d of Title IV of the District of Columbia Revenue Act of 1937, passed on 2nd reading on December 20, 2016 (Enrolled version of Bill 21-708); and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Fees collected pursuant to section 3(d)(6) of Title IV of the District of Columbia Revenue Act of 1937, approved August 17, 1937 (50 Stat. 681; D.C. Official Code § 50-1501.03(d)(6)).</text>
       </para>
     </para>
     <para>
@@ -91,5 +100,8 @@
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§1092|(a)|(2)" type="History"/>
     <annotation app="2017-02-18" doc="D.C. Law 21-198" eff="2017-02-18" path="§3|(a)" type="History"/>
     <annotation app="2017-02-18" doc="D.C. Law 21-198" eff="2017-02-18" path="§3|(b)" type="History"/>
+    <annotation app="2017-04-15" doc="D.C. Law 21-279" eff="2017-04-15" path="§3|(a)" type="History"/>
+    <annotation app="2017-04-15" doc="D.C. Law 21-279" eff="2017-04-15" path="§3|(c)" type="History"/>
+    <annotation app="2017-04-15" doc="D.C. Law 21-279" eff="2017-04-15" path="§3|(b)" type="History"/>
   </annotations>
 </section>

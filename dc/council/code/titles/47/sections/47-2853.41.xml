@@ -1,10 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-2853.41</num>
   <heading>Definitions; scope of practice for accountants.</heading>
   <text>For the purposes of this part, the term:</text>
   <para>
     <num>(1)</num>
-    <text>“Attest services” or “attestation services” means providing any of the following financial statement services:</text>
+    <text>“Attest services” or “attestation services” means providing any of the following  services:</text>
     <para>
       <num>(A)</num>
       <text>An audit or other engagement to be performed in accordance with the Statements on Auditing Standards;</text>
@@ -15,11 +16,15 @@
     </para>
     <para>
       <num>(C)</num>
-      <text>An examination of prospective financial information to be performed in accordance with the Statements on Standards for Attestation Engagements: and</text>
+      <text>An examination of prospective financial information to be performed in accordance with the Statements on Standards for Attestation Engagements;</text>
     </para>
     <para>
       <num>(D)</num>
-      <text>An engagement to be performed in accordance with the Auditing Standards of the Public Company Accounting Oversight Board.</text>
+      <text>An engagement to be performed in accordance with the Auditing Standards of the Public Company Accounting Oversight Board; and</text>
+    </para>
+    <para>
+      <num>(E)</num>
+      <text>An examination, review, or agreed-upon procedures engagement to be performed in accordance with the Statements on Standards for Attestation Engagements, other than an examination described in subparagraph (C) of this paragraph.</text>
     </para>
   </para>
   <para>
@@ -75,5 +80,9 @@
     <annotation type="Effect of Amendments">“(a) For the purposes of this part, the term ‘Practice of Certified Public Accounting’ means providing accounting or consulting services under circumstances where there is an expectation of public confidence in such services, and attesting to the results, including (1) expressing opinions on financial statements (audits); (2) reviewing financial statements and issuing reports in standard form on such statements; (3) compiling financial statements and issuing reports in standard form on such compilations; (4) examining prospective financial information.</annotation>
     <annotation type="Effect of Amendments">“(b) For the purposes of this part, the term ‘certificate’ means the Certificate of certified public accountant.”</annotation>
     <annotation type="Editor's Notes">Section 3 of <cite doc="D.C. Law 19-43">D.C. Law 19-43</cite> provided that the act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan. <cite doc="D.C. Law 19-43">D.C. Law 19-43</cite>, § 3, was repealed by <cite doc="D.C. Law 19-168">D.C. Law 19-168</cite>, § 7010.</annotation>
+    <annotation app="2017-04-15" doc="D.C. Law 21-276" eff="2017-04-15" path="§2|(b)|(1)" type="History"/>
+    <annotation app="2017-04-15" doc="D.C. Law 21-276" eff="2017-04-15" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2017-04-15" doc="D.C. Law 21-276" eff="2017-04-15" path="§2|(b)|(3)" type="History"/>
+    <annotation app="2017-04-15" doc="D.C. Law 21-276" eff="2017-04-15" path="§2|(b)|(4)" type="History"/>
   </annotations>
 </section>
