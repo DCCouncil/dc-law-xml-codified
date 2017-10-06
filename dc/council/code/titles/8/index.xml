@@ -61,7 +61,6 @@
       <xi:include href="./sections/8-103.01.xml"/>
       <xi:include href="./sections/8-103.02.xml"/>
       <xi:include href="./sections/8-103.03.xml"/>
-      <xi:include href="./sections/8-103.03a.xml"/>
       <xi:include href="./sections/8-103.04.xml"/>
       <xi:include href="./sections/8-103.05.xml"/>
       <xi:include href="./sections/8-103.06.xml"/>
@@ -921,19 +920,6 @@
       <xi:include href="./sections/8-1721.xml"/>
     </container>
   </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>17A</num>
-    <heading>Natural Resources Conservation.</heading>
-    <xi:include href="./sections/8-1731.01.xml"/>
-    <xi:include href="./sections/8-1731.02.xml"/>
-    <xi:include href="./sections/8-1731.03.xml"/>
-    <xi:include href="./sections/8-1731.04.xml"/>
-    <xi:include href="./sections/8-1731.05.xml"/>
-    <xi:include href="./sections/8-1731.06.xml"/>
-    <xi:include href="./sections/8-1731.07.xml"/>
-    <xi:include href="./sections/8-1731.08.xml"/>
-  </container>
   <subheading>Subtitle D-I. Energy Conservation.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -1242,67 +1228,6 @@
       <xi:include href="./sections/8-2210.xml"/>
       <xi:include href="./sections/8-2211.xml"/>
       <xi:include href="./sections/8-2212.xml"/>
-    </container>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>II</num>
-      <heading>Game and Fish.</heading>
-      <xi:include href="./sections/8-2221.01.xml"/>
-      <xi:include href="./sections/8-2221.02.xml"/>
-      <xi:include href="./sections/8-2221.03.xml"/>
-      <xi:include href="./sections/8-2221.04.xml"/>
-      <xi:include href="./sections/8-2221.05.xml"/>
-      <xi:include href="./sections/8-2221.06.xml"/>
-      <xi:include href="./sections/8-2221.07.xml"/>
-      <xi:include href="./sections/8-2221.08.xml"/>
-      <xi:include href="./sections/8-2221.09.xml"/>
-      <xi:include href="./sections/8-2221.10.xml"/>
-      <xi:include href="./sections/8-2221.11.xml"/>
-      <xi:include href="./sections/8-2221.12.xml"/>
-      <xi:include href="./sections/8-2221.13.xml"/>
-      <xi:include href="./sections/8-2221.14.xml"/>
-      <xi:include href="./sections/8-2221.15.xml"/>
-      <xi:include href="./sections/8-2221.16.xml"/>
-      <xi:include href="./sections/8-2221.17.xml"/>
-      <xi:include href="./sections/8-2221.18.xml"/>
-      <xi:include href="./sections/8-2221.19.xml"/>
-      <xi:include href="./sections/8-2221.20.xml"/>
-      <xi:include href="./sections/8-2221.21.xml"/>
-      <xi:include href="./sections/8-2221.22.xml"/>
-      <xi:include href="./sections/8-2221.23.xml"/>
-      <xi:include href="./sections/8-2221.24.xml"/>
-      <xi:include href="./sections/8-2221.25.xml"/>
-      <xi:include href="./sections/8-2221.26.xml"/>
-      <xi:include href="./sections/8-2221.27.xml"/>
-      <xi:include href="./sections/8-2221.28.xml"/>
-      <xi:include href="./sections/8-2221.29.xml"/>
-      <xi:include href="./sections/8-2221.30.xml"/>
-      <xi:include href="./sections/8-2221.31.xml"/>
-      <xi:include href="./sections/8-2221.32.xml"/>
-      <xi:include href="./sections/8-2221.33.xml"/>
-    </container>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>III</num>
-      <heading>Fishing.</heading>
-      <container>
-        <prefix>Part</prefix>
-        <num>A</num>
-        <heading>Authorizing Fishing Licensure by Private Entities.</heading>
-        <xi:include href="./sections/8-2231.01.xml"/>
-        <xi:include href="./sections/8-2231.02.xml"/>
-        <xi:include href="./sections/8-2231.03.xml"/>
-        <xi:include href="./sections/8-2231.04.xml"/>
-        <xi:include href="./sections/8-2231.05.xml"/>
-        <xi:include href="./sections/8-2231.06.xml"/>
-      </container>
-      <container>
-        <prefix>Part</prefix>
-        <num>B</num>
-        <heading>Establishing and Clarifying Fishing Authorities.</heading>
-        <xi:include href="./sections/8-2231.11.xml"/>
-        <xi:include href="./sections/8-2231.12.xml"/>
-      </container>
     </container>
   </container>
 </container>
