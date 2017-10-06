@@ -151,6 +151,18 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>IV-B</num>
+      <heading>Official Fish of the District of Columbia.</heading>
+      <xi:include href="./sections/1-166.01.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IV-C</num>
+      <heading>Official Amphipod of the District of Columbia.</heading>
+      <xi:include href="./sections/1-166.51.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Official Fruit of the District of Columbia.</heading>
       <xi:include href="./sections/1-171.xml"/>
@@ -564,12 +576,13 @@
         <xi:include href="./sections/1-301.88.xml"/>
         <xi:include href="./sections/1-301.88a.xml"/>
         <xi:include href="./sections/1-301.88b.xml"/>
+        <xi:include href="./sections/1-301.88c.xml"/>
+        <xi:include href="./sections/1-301.88d.xml"/>
         <xi:include href="./sections/1-301.88e.xml"/>
         <xi:include href="./sections/1-301.89.xml"/>
         <xi:include href="./sections/1-301.89a.xml"/>
         <xi:include href="./sections/1-301.89b.xml"/>
         <xi:include href="./sections/1-301.89c.xml"/>
-        <xi:include href="./sections/1-301.89d.xml"/>
         <xi:include href="./sections/1-301.90.xml"/>
       </container>
       <container>

@@ -182,11 +182,14 @@
       <xi:include href="./sections/32-531.08.xml"/>
       <xi:include href="./sections/32-531.09.xml"/>
       <xi:include href="./sections/32-531.10.xml"/>
+      <xi:include href="./sections/32-531.10a.xml"/>
+      <xi:include href="./sections/32-531.10b.xml"/>
       <xi:include href="./sections/32-531.11.xml"/>
       <xi:include href="./sections/32-531.12.xml"/>
       <xi:include href="./sections/32-531.13.xml"/>
       <xi:include href="./sections/32-531.14.xml"/>
       <xi:include href="./sections/32-531.15.xml"/>
+      <xi:include href="./sections/32-131.15a.xml"/>
       <xi:include href="./sections/32-531.16.xml"/>
       <xi:include href="./sections/32-531.17.xml"/>
     </container>
@@ -221,6 +224,9 @@
     <xi:include href="./sections/32-531.xml"/>
     <xi:include href="./sections/32-532.xml"/>
     <xi:include href="./sections/32-533.xml"/>
+    <xi:include href="./sections/32-571.xml"/>
+    <xi:include href="./sections/32-572.xml"/>
+    <xi:include href="./sections/32-573.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

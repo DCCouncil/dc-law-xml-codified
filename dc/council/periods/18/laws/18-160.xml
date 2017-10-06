@@ -86,8 +86,17 @@
       <codified:stub doc="D.C. Code" path="§1-301.90"/>
     </section>
   </container>
+  <codify:recodify-section doc="D.C. Code" path="§1-301.89a" num-value="1-301.88c" after="§1-301.88b" history="false">
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="III|J" type="History"/>
+  </codify:recodify-section>
+  <codify:recodify-section doc="D.C. Code" path="§1-301.89b" num-value="1-301.89a" after="§1-301.89" history="false" warning="false">
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="III|J" type="History"/>
+  </codify:recodify-section>
+  <codify:recodify-section doc="D.C. Code" path="§1-301.89c" num-value="1-301.88d" after="§1-301.88c" history="false">
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="III|J" type="History"/>
+  </codify:recodify-section>
   <section>
-    <codify:insert doc="D.C. Code" path="1|3|I|D-i" after="§1-301.89c" num-value="1-301.89d" technical="Question. 1-301.89c already exists?"/>
+    <codify:insert doc="D.C. Code" path="1|3|I|D-i" after="§1-301.89a" num-value="1-301.89b" warning="false"/>
     <num>111</num>
     <heading>Attorney General notification on enforcement of laws.</heading>
     <para>
