@@ -1211,6 +1211,17 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>I-A</num>
+      <heading>Child Care Study .</heading>
+      <xi:include href="./sections/7-2011.01.xml"/>
+      <xi:include href="./sections/7-2011.02.xml"/>
+      <xi:include href="./sections/7-2011.03.xml"/>
+      <xi:include href="./sections/7-2011.04.xml"/>
+      <xi:include href="./sections/7-2011.05.xml"/>
+      <xi:include href="./sections/7-2011.06.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Child Development Facilities Regulation.</heading>
       <xi:include href="./sections/7-2031.xml"/>
