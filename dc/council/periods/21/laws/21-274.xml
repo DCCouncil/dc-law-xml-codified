@@ -38,7 +38,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-274" path="">D.C. Law 21-274</cite>: <cite doc="D.C. Law 21-274" path="§3">§ 3 of D.C. Law 21-274</cite> provided that the change made to this section by <cite doc="D.C. Law 21-274" path="§2">§ 2 of D.C. Law 21-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+    <codify:not-funded-anno applicability-path="§3"/>
     <codify:annotation doc="D.C. Code" path="§47-1002" type="Applicability" history="false">Section 7037 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-274" path="§3">§ 3 of D.C. Law 21-274</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-274">D.C. Law 21-274</cite> have been given effect.</codify:annotation>
   </section>
   <section>
@@ -74,6 +74,4 @@
     <heading>Effective date.</heading>
     <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided in section 602(c)(l) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(l)), and publication in the District of Columbia Register.</text>
   </section>
-  <annotation type="Applicability" app="2017-04-15" eff="2017-04-15" doc="D.C. Law 21-274" path="§2">Applicability of <cite doc="D.C. Law 21-274" path="">D.C. Law 21-274</cite>: <cite doc="D.C. Law 21-274" path="§3">§ 3 of D.C. Law 21-274</cite> provided that the change made to this section by <cite doc="D.C. Law 21-274" path="§2">§ 2 of D.C. Law 21-274</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
-  <annotation app="2017-04-15" doc="D.C. Law 21-274" eff="2017-04-15" path="§2" type="History"/>
 </document>

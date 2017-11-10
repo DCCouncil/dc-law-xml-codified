@@ -27,16 +27,16 @@ FUNDING NOTE - This legislation is Subject to Appropriations. See Fiscal Impact 
     <num>2</num>
     <text>The Food, Environmental, and Economic Development in the District of Columbia Act of 2010, effective April 8, 2011 (D.C. Law 18-353; D. C. Official Code § 2-1212.01 <em>et seq.</em>),is amended as follows:
     </text>
-    <para codify:doc="D.C. Code" codify:path="§2-1212.01|(2)|(B)" codify:applicability="pending">
+    <para codify:doc="D.C. Code" codify:path="§2-1212.01|(2)|(B)">
       <num>(a)</num>
       <text>Section 101(2)(B) (D.C. Official Code § 2-1212.01(2)(B)) is amended by striking the numbers "18.01, 33.01, 95.05," and inserting the numbers "16, 103, 33.01, 94, 95.05," in their place.</text>
       <codify:find-replace count="1">
         <find>18.01, 33.01, 95.05,</find>
         <replace>16, 103, 33.01, 94, 95.05</replace>
       </codify:find-replace>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-204" path="">D.C. Law 21-204</cite>: <cite doc="D.C. Law 21-204" path="§4">§ 4 of D.C. Law 21-204</cite> provided that the change made to this section by <cite doc="D.C. Law 21-204" path="§2|(a)">§ 2(a) of D.C. Law 21-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4"/>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(b)</num>
       <text>A new section 201a is added to read as follows:</text>
       <include>
@@ -46,23 +46,20 @@ FUNDING NOTE - This legislation is Subject to Appropriations. See Fiscal Impact 
           <heading>Limited tax incentive for existing establishment.</heading>
           <text>Notwithstanding the scope of exemptions provided by <code-cite doc="D.C. Code" path="§47-3802|(a)">D.C. Official Code § 47-3802(a)</code-cite>, a grocery store that is located in census tract 94 on <span codify:value="February 18, 2017">the effective date of the Food, Environmental, and Economic Development in the District of Columbia Amendment Act of 2016, passed on 2nd reading on November 15, 2016 (Enrolled version of Bill 21-836)</span>, shall be eligible for the tax exemption provided pursuant to <code-cite doc="D.C. Code" path="§47-3802|(a)|(1)">D.C. Official Code § 47-3802(a)(1)</code-cite> beginning with the tax year beginning October 1, 2016; provided, that the 10-year real property exemption period shall be deemed to have begun on January 1, 2015.</text>
           <annotation doc="D.C. Law 18-353" type="History" path="§201a">Apr. 8, 2011, D.C. Law 18-353, § 201a</annotation>
-          <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 21-204" path="§2|(b)">Applicability of <cite doc="D.C. Law 21-204" path="">D.C. Law 21-204</cite>: <cite doc="D.C. Law 21-204" path="§4">§ 4 of D.C. Law 21-204</cite> provided that the creation of this section by <cite doc="D.C. Law 21-204" path="§2|(b)">§ 2(b) of D.C. Law 21-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+          <codify:not-funded-anno doc="D.C. Law 21-204" path="§2|(b)" applicability-path="§4" action="creation of"/>
         </section>
       </include>
       <aftertext>.</aftertext>
-      <annotation type="Applicability" doc="D.C. Law 21-204" path="§2|(b)" app="2017-02-18" eff="2017-02-18">Applicability of <cite doc="D.C. Law 21-204" path="">D.C. Law 21-204</cite>: <cite doc="D.C. Law 21-204" path="§4">§ 4 of D.C. Law 21-204</cite> provided that the creation of this section by <cite doc="D.C. Law 21-204" path="§2|(b)">§ 2(b) of D.C. Law 21-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
-      <annotation doc="D.C. Law 18-353" type="History" path="§201a">Apr. 8, 2011, D.C. Law 18-353, § 201a</annotation>
-      <annotation app="2017-02-18" doc="D.C. Law 21-204" eff="2017-02-18" path="§2|(b)" type="History"/>
     </para>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§47-3801|(1D)|(B)" codify:applicability="pending">
+  <section codify:doc="D.C. Code" codify:path="§47-3801|(1D)|(B)">
     <num>3</num>
     <text>Section 47-3801(1D)(B) of the District of Columbia Official Code is amended by striking the numbers "18.01, 33.01, 95.05," and inserting the numbers "16, 103, 33.01, 94, 95.05" in their place.</text>
     <codify:find-replace count="1">
       <find>18.01, 33.01, 95.05,</find>
       <replace>16, 103, 33.01, 94, 95.05,</replace>
     </codify:find-replace>
-    <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-204" path="">D.C. Law 21-204</cite>: <cite doc="D.C. Law 21-204" path="§4">§ 4 of D.C. Law 21-204</cite> provided that the change made to this section by <cite doc="D.C. Law 21-204" path="§3">§ 3 of D.C. Law 21-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+    <codify:not-funded-anno applicability-path="§4"/>
   </section>
   <section>
     <num>4</num>

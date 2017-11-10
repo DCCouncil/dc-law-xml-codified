@@ -32,9 +32,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation codify:applicability="effective" type="Applicability" path="§305|(d)">Applicability of <cite doc="D.C. Law 19-78" path="">D.C. Law 19-78</cite>: <cite doc="D.C. Law 19-78" path="§4">§ 4 of D.C. Law 19-78</cite> provided that the change made to this section by <cite doc="D.C. Law 19-78" path="§2">§ 2 of D.C. Law 19-78</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
-    <annotation doc="D.C. Law 21-160" path="§7004" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7004">Section 7004 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 19-78" path="§4">section 4 of D.C. Law 19-78</cite>. Therefore the changes made to this section by D.C. Law 19-78 have been given effect.
-        </annotation>
+    <codify:not-funded-anno path="§305|(d)" applicability-path="§4"/>
   </section>
   <section>
     <num>3</num>
@@ -42,11 +40,10 @@
     <text>The Council of the District of Columbia orders that all vault rentals, interest, penalties, fees, and other related charges assessed with respect to vaults serving, in whole or in part, real property exempt from real property taxation under D.C. Official Code § 47 -1002(19) that are unpaid as of the effective date of this act be forgiven.</text>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>4</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7004" type="History"/>
+    <text>This act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan.</text>
+    <codify:applicability date="notfunded" history="false"/>
   </section>
   <section>
     <num>5</num>

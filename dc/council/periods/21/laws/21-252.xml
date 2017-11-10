@@ -183,7 +183,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§38-2652">Applicability of <cite doc="D.C. Law 21-252" path="">D.C. Law 21-252</cite>: <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite> provided that the change made to this section by <cite doc="D.C. Law 21-252" path="§2|(d)">§ 2(d) of D.C. Law 21-252</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§38-2652" applicability-path="§6"/>
       <codify:annotation doc="D.C. Code" path="§38-2652" type="Applicability" history="false">Section 7029 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-252">D.C. Law 21-252</cite> have been given effect.
       </codify:annotation>
     </para>
@@ -234,7 +234,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§38-351">Applicability of <cite doc="D.C. Law 21-252" path="">D.C. Law 21-252</cite>: <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite> provided that the change made to this section by <cite doc="D.C. Law 21-252" path="§3|(a)|(4)">§ 3(a)(4) of D.C. Law 21-252</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+        <codify:not-funded-anno doc="D.C. Code" path="§38-351" applicability-path="§6"/>
         <codify:annotation doc="D.C. Code" path="§38-351" type="Applicability" history="false">Section 7029 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-252">D.C. Law 21-252</cite> have been given effect.
       </codify:annotation>
       </para>
@@ -451,7 +451,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§38-371">Applicability of <cite doc="D.C. Law 21-252" path="">D.C. Law 21-252</cite>: <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite> provided that the change made to this section by <cite doc="D.C. Law 21-252" path="§4|(a)|(2)">§ 4(a)(2) of D.C. Law 21-252</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+        <codify:not-funded-anno doc="D.C. Code" path="§38-371" applicability-path="§6"/>
         <codify:annotation doc="D.C. Code" path="§38-371" type="Applicability" history="false">Section 7029 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-252">D.C. Law 21-252</cite> have been given effect.
       </codify:annotation>
       </para>
@@ -547,7 +547,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§1-604.06">Applicability of <cite doc="D.C. Law 21-252" path="">D.C. Law 21-252</cite>: <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite> provided that the change made to this section by <cite doc="D.C. Law 21-252" path="§5">§ 5 of D.C. Law 21-252</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§1-604.06" applicability-path="§6"/>
     <codify:annotation doc="D.C. Code" path="§1-604.06" type="Applicability" history="false">Section 7029 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-252" path="§6">§ 6 of D.C. Law 21-252</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-252">D.C. Law 21-252</cite> have been given effect.
       </codify:annotation>
   </section>

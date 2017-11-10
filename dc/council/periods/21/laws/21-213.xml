@@ -122,7 +122,7 @@
         </para>
       </para>
     </para>
-    <para codify:applicability="notfunded">
+    <para>
       <num>(c)</num>
       <text>A new section 47-2851.02a is added to read as follows:</text>
       <include>
@@ -160,7 +160,7 @@
             <num>(d)</num>
             <text>Nothing in this section shall be construed to supersede the zoning regulations.</text>
           </para>
-          <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-213" path="">D.C. Law 21-213</cite>: <cite doc="D.C. Law 21-213" path="§4">§ 4 of D.C. Law 21-213</cite> provided that the creation of this section by <cite doc="D.C. Law 21-213" path="§3|(c)">§ 3(c) of D.C. Law 21-213</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+          <codify:not-funded-anno applicability-path="§4" action="creation of"/>
         </section>
       </include>
       <aftertext>.</aftertext>

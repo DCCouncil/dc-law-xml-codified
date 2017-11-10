@@ -160,7 +160,7 @@
       <text>Strike the phrase "audit a sample of District businesses" and insert the phrase "obtain a sample of statistics on District businesses" in its place.</text>
       <codify:find-replace count="1" find="audit a sample of District businesses" replace="obtain a sample of statistics on District businesses"/>
     </para>
-    <codify:annotation codify:applicability="effective" type="Applicability" path="§16">Applicability of <cite doc="D.C. Law 21-143" path="">D.C. Law 21-143</cite>: <cite doc="D.C. Law 21-143" path="§14">§ 14 of D.C. Law 21-143</cite> provided that the change made to this section by <cite doc="D.C. Law 21-143" path="§7">§ 7 of D.C. Law 21-143</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+    <codify:not-funded-anno path="§16" applicability-path="§14"/>
   </section>
   <section codify:doc="Stat. 62-3-ch150" codify:path="§8|42|(a)|(6)">
     <num>8</num>
@@ -333,11 +333,28 @@
     </para>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>14</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7008" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>Section 7 shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability doc="D.C. Law 21-143" path="§7" date="notfunded" history="false"/>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of section 7.</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>15</num>

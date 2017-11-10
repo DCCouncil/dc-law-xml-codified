@@ -60,7 +60,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-77" path="">D.C. Law 21-77</cite>: <cite doc="D.C. Law 21-77" path="§4">§ 4 of D.C. Law 21-77</cite> provided that the change made to this section by <cite doc="D.C. Law 21-77" path="§2|(a)">§ 2(a) of D.C. Law 21-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4"/>
     </para>
     <para codify:path="§4|(a)|(1)|(B)">
       <num>(b)</num>
@@ -69,7 +69,7 @@
         <find>responsible person</find>
         <replace>responsible person, or, if the student is 18 years of age or older, another adult suitable to serve as an emergency contact</replace>
       </codify:find-replace>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-77" path="">D.C. Law 21-77</cite>: <cite doc="D.C. Law 21-77" path="§4">§ 4 of D.C. Law 21-77</cite> provided that the change made to this section by <cite doc="D.C. Law 21-77" path="§2|(b)">§ 2(b) of D.C. Law 21-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4"/>
     </para>
     <para>
       <num>(c)</num>
@@ -163,7 +163,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation codify:applicability="effective" type="Applicability" path="§5a">Applicability of <cite doc="D.C. Law 21-77" path="">D.C. Law 21-77</cite>: <cite doc="D.C. Law 21-77" path="§4">§ 4 of D.C. Law 21-77</cite> provided that the change made to this section by <cite doc="D.C. Law 21-77" path="§2|(c)">§ 2(c) of D.C. Law 21-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno path="§5a" applicability-path="§4"/>
     </para>
     <para codify:path="§7|(d)">
       <num>(d)</num>
@@ -172,7 +172,7 @@
         <find>a minor</find>
         <replace>the</replace>
       </codify:find-replace>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-77" path="">D.C. Law 21-77</cite>: <cite doc="D.C. Law 21-77" path="§4">§ 4 of D.C. Law 21-77</cite> provided that the change made to this section by <cite doc="D.C. Law 21-77" path="§2|(d)">§ 2(d) of D.C. Law 21-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4"/>
     </para>
     <para codify:path="§10|(a)">
       <num>(e)</num>
@@ -193,7 +193,7 @@
           <replace/>
         </codify:find-replace>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-77" path="">D.C. Law 21-77</cite>: <cite doc="D.C. Law 21-77" path="§4">§ 4 of D.C. Law 21-77</cite> provided that the change made to this section by <cite doc="D.C. Law 21-77" path="§2|(e)">§ 2(e) of D.C. Law 21-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4"/>
     </para>
     <para codify:path="§12">
       <num>(f)</num>
@@ -202,7 +202,7 @@
         <find>The District, a school, or an employee or agent of a school</find>
         <replace>The District, a school, an employee or agent of a school, or the practicing physician, physician assistant, or advanced practice nurse who has issued the standing order pursuant to <code-cite>this act</code-cite></replace>
       </codify:find-replace>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-77" path="">D.C. Law 21-77</cite>: <cite doc="D.C. Law 21-77" path="§4">§ 4 of D.C. Law 21-77</cite> provided that the change made to this section by <cite doc="D.C. Law 21-77" path="§2|(f)">§ 2(f) of D.C. Law 21-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4"/>
     </para>
     <para codify:path="§13">
       <num>(g)</num>
@@ -215,10 +215,8 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-77" path="">D.C. Law 21-77</cite>: <cite doc="D.C. Law 21-77" path="§4">§ 4 of D.C. Law 21-77</cite> provided that the change made to this section by <cite doc="D.C. Law 21-77" path="§2|(g)">§ 2(g) of D.C. Law 21-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4"/>
     </para>
-    <annotation doc="D.C. Law 21-160" path="§7002" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7002">Section 7002 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-77" path="§4">section 4 of D.C. Law 21-77</cite>. Therefore the changes made to this section by D.C. Law 21-177 have been given effect.
-        </annotation>
   </section>
   <section>
     <num>3</num>
@@ -230,7 +228,7 @@
         <find>of the person for whom</find>
         <replace>of the person for whom or, with respect to auto-injectable epinephrine, the school to which</replace>
       </codify:find-replace>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-77" path="">D.C. Law 21-77</cite>: <cite doc="D.C. Law 21-77" path="§4">§ 4 of D.C. Law 21-77</cite> provided that the change made to this section by <cite doc="D.C. Law 21-77" path="§3|(a)">§ 3(a) of D.C. Law 21-77</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4"/>
     </para>
     <para codify:doc="D.C. Law 13-176" codify:path="§3|(b)">
       <num>(b)</num>
@@ -264,15 +262,30 @@
         <aftertext>.</aftertext>
       </para>
     </para>
-    <annotation doc="D.C. Law 21-160" path="§7002" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7002">Section 7002 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 21-77" path="§4">section 4 of D.C. Law 21-77</cite>. Therefore the changes made to this section by D.C. Law 21-177 have been given effect.
-        </annotation>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>4</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7002" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability date="notfunded" history="false"/>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>5</num>

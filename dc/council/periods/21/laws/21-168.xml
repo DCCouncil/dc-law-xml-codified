@@ -27,7 +27,7 @@
     <num>C</num>
     <heading>Safe at Home Program.</heading>
   </container>
-  <section codify:applicability="notfunded">
+  <section>
     <codify:organic doc="D.C. Code" path="|7|5|C" num-value="7-551.01"/>
     <num>2</num>
     <heading>Home accessibility modification grant program.</heading>
@@ -143,9 +143,9 @@
         </para>
       </para>
     </para>
-    <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-168" path="">D.C. Law 21-168</cite>: <cite doc="D.C. Law 21-168" path="§4">§ 4 of D.C. Law 21-168</cite> provided that the creation of this section by <cite doc="D.C. Law 21-168" path="§2">§ 2 of D.C. Law 21-168</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+    <codify:not-funded-anno applicability-path="§4" action="creation of"/>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§47-1803.02|(a)|(2)" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code" codify:path="§47-1803.02|(a)|(2)">
     <num>3</num>
     <text>Section 47-1803.02(a)(2) of the District of Columbia Official Code is amended by adding a new subparagraph (CC) to read as follows:</text>
     <include>
@@ -156,7 +156,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-168" path="">D.C. Law 21-168</cite>: <cite doc="D.C. Law 21-168" path="§4">§ 4 of D.C. Law 21-168</cite> provided that the change made to this section by <cite doc="D.C. Law 21-168" path="§3">§ 3 of D.C. Law 21-168</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+    <codify:not-funded-anno applicability-path="§4"/>
   </section>
   <section>
     <num>4</num>

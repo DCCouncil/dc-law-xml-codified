@@ -602,7 +602,7 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-219" path="">D.C. Law 21-219</cite>: <cite doc="D.C. Law 21-219" path="§3">§ 3 of D.C. Law 21-219</cite> provided that the amendments made to subsection (a), (b) and (c-1) this section by <cite doc="D.C. Law 21-219" path="§2|(b)">§ 2(b) of D.C. Law 21-219</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§3" action="amendments made to subsection (a), (b) and (c-1)"/>
       <codify:annotation history="false" type="Applicability"> Section 7025 of D.C. Law 22-_____ repealed section 3 of D.C. Law 21-219, thus removing the applicability limitation. Therefore the change made to this section by that amendment has been implemented.</codify:annotation>
     </para>
   </section>

@@ -30,7 +30,7 @@
   <codify:recodify-section doc="D.C. Code" path="§32-532" num-value="32-572" history="false"/>
   <codify:recodify-section doc="D.C. Code" path="§32-533" num-value="32-573" history="false"/>
   <codify:find-replace history="false" doc="D.C. Code" path="§32-573">
-    <find>§ <cite path="§32-532" doc="D.C. Law 21-264">32-532</cite></find>
+    <find>§ <cite path="§32-532">32-532</cite></find>
     <replace>
       <cite doc="D.C. Code" path="§32-572">§ 32-572</cite>
     </replace>
@@ -86,15 +86,15 @@
         </para>
         <para>
           <num>(5)</num>
-          <text>“Domestic partnership” shall have the same meaning as provided in § <cite path="§32-701" doc="D.C. Law 21-264">32-701</cite>(4).</text>
+          <text>“Domestic partnership” shall have the same meaning as provided in § <cite path="§32-701">32-701</cite>(4).</text>
         </para>
         <annotations>
           <annotation doc="D.C. Law 10-146" type="History" path="§2">Aug. 17, 1994, D.C. Law 10-146, § 2, 41 DCR 4477</annotation>
           <annotation doc="D.C. Law 11-110" type="History">Apr. 18, 1996, D.C. Law 11-110, § 44(a), 43 DCR 530</annotation>
           <annotation doc="D.C. Law 13-237" type="History">Apr. 3, 2001, D.C. Law 13-237, § 4(a), 48 DCR 597</annotation>
           <annotation doc="D.C. Law 18-33" type="History">July 18, 2008, D.C. Law 18-33, § 5, 56 DCR 4269</annotation>
-          <annotation type="Cross References">Complaints of violations, enforcement, see § <cite path="§2-1411.03" doc="D.C. Law 21-264">2-1411.03</cite>.</annotation>
-          <annotation type="Section References">This section is referenced in § <cite path="§2-1411.03" doc="D.C. Law 21-264">2-1411.03</cite>.</annotation>
+          <annotation type="Cross References">Complaints of violations, enforcement, see § <cite path="§2-1411.03">2-1411.03</cite>.</annotation>
+          <annotation type="Section References">This section is referenced in § <cite path="§2-1411.03">2-1411.03</cite>.</annotation>
           <annotation type="Prior Codifications">1981 Ed., § 36-1601.</annotation>
           <annotation type="Prior Codifications">2001 Ed., § 32-1201.</annotation>
           <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-237">D.C. Law 13-237</cite> added pars. (1A) and (4).</annotation>
@@ -132,7 +132,7 @@
         <annotations>
           <annotation doc="D.C. Law 10-146" type="History" path="§3">Aug. 17, 1994, D.C. Law 10-146, § 3, 41 DCR 4477</annotation>
           <annotation doc="D.C. Law 13-237" type="History">Apr. 3, 2001, D.C. Law 13-237, § 4(b), 48 DCR 597</annotation>
-          <annotation type="Section References">This section is referenced in § <cite path="§32-1203" doc="D.C. Law 21-264">32-1203</cite>.</annotation>
+          <annotation type="Section References">This section is referenced in § <cite path="§32-1203">32-1203</cite>.</annotation>
           <annotation type="Prior Codifications">1981 Ed., § 36-1602.</annotation>
           <annotation type="Prior Codifications">2001 Ed., § 32-1202.</annotation>
           <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-237">D.C. Law 13-237</cite> rewrote the section which had read:</annotation>
@@ -149,7 +149,7 @@
       <section>
         <num>32-521.03</num>
         <heading>Effect of leave on employment benefits or seniority.</heading>
-        <text>An employee who takes leave pursuant to § <cite path="§32-1202" doc="D.C. Law 21-264">32-1202</cite> shall not lose any employment benefit or seniority accrued before or during the date of such leave.</text>
+        <text>An employee who takes leave pursuant to § <cite path="§32-1202">32-1202</cite> shall not lose any employment benefit or seniority accrued before or during the date of such leave.</text>
         <annotations>
           <annotation doc="D.C. Law 10-146" type="History" path="§4">Aug. 17, 1994, D.C. Law 10-146, § 4, 41 DCR 4477</annotation>
           <annotation type="Prior Codifications">1981 Ed., § 36-1603.</annotation>
@@ -191,7 +191,7 @@
             <text>If there is a determination that an employer committed a violation of this subchapter, the issuance of an order that requires the employer to pay the employee damages in an amount equal to:</text>
             <para>
               <num>(A)</num>
-              <text>Any wages, salary, employment benefits, or other compensation denied or lost to the employee due to the violation plus interest on the amount calculated at the rate prescribed in § <cite path="§28-3302" doc="D.C. Law 21-264">28-3302</cite>(b) or (c);</text>
+              <text>Any wages, salary, employment benefits, or other compensation denied or lost to the employee due to the violation plus interest on the amount calculated at the rate prescribed in § <cite path="§28-3302">28-3302</cite>(b) or (c);</text>
             </para>
             <para>
               <num>(B)</num>
@@ -217,7 +217,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Any person who is adversely affected or aggrieved by an order or decision issued pursuant to subsection (b) of this section is entitled to judicial review of the order or decision in accordance with § <cite path="§2-510" doc="D.C. Law 21-264">2-510</cite>, upon filing a written petition for review in the District of Columbia Court of Appeals.</text>
+          <text>Any person who is adversely affected or aggrieved by an order or decision issued pursuant to subsection (b) of this section is entitled to judicial review of the order or decision in accordance with § <cite path="§2-510">2-510</cite>, upon filing a written petition for review in the District of Columbia Court of Appeals.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -236,12 +236,12 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>The entire administrative enforcement procedure outlined in subsections (a) and (b) of this section, including the formal hearing, shall take no longer than 150 days to complete from the date the complaint is filed. If the Mayor fails to make a reasonable effort to comply with the deadline requirements of the administrative enforcement provisions prescribed by this subsection and the rules promulgated by the Mayor, the person who initiated the administrative enforcement procedure against the employer may file a civil action against the employer pursuant to § <cite path="§32-1205" doc="D.C. Law 21-264">32-1205</cite>.</text>
+          <text>The entire administrative enforcement procedure outlined in subsections (a) and (b) of this section, including the formal hearing, shall take no longer than 150 days to complete from the date the complaint is filed. If the Mayor fails to make a reasonable effort to comply with the deadline requirements of the administrative enforcement provisions prescribed by this subsection and the rules promulgated by the Mayor, the person who initiated the administrative enforcement procedure against the employer may file a civil action against the employer pursuant to § <cite path="§32-1205">32-1205</cite>.</text>
         </para>
         <annotations>
           <annotation doc="D.C. Law 10-146" type="History" path="§5">Aug. 17, 1994, D.C. Law 10-146, § 5, 41 DCR 4477</annotation>
           <annotation doc="D.C. Law 11-110" type="History">Apr. 18, 1996, D.C. Law 11-110, § 44(b), 43 DCR 530</annotation>
-          <annotation type="Section References">This section is referenced in § <cite path="§32-1205" doc="D.C. Law 21-264">32-1205</cite>.</annotation>
+          <annotation type="Section References">This section is referenced in § <cite path="§32-1205">32-1205</cite>.</annotation>
           <annotation type="Prior Codifications">1981 Ed., § 36-1604.</annotation>
           <annotation type="Prior Codifications">2001 Ed., § 32-1204.</annotation>
         </annotations>
@@ -259,11 +259,11 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>If a court determines that an employer violated any provision of this subchapter, the damages provision prescribed in § <cite path="§32-1204" doc="D.C. Law 21-264">32-1204</cite>(b)(6) and (c) shall apply.</text>
+          <text>If a court determines that an employer violated any provision of this subchapter, the damages provision prescribed in § <cite path="§32-1204">32-1204</cite>(b)(6) and (c) shall apply.</text>
         </para>
         <annotations>
           <annotation doc="D.C. Law 10-146" type="History" path="§6">Aug. 17, 1994, D.C. Law 10-146, § 6, 41 DCR 4477</annotation>
-          <annotation type="Section References">This section is referenced in § <cite path="§32-1204" doc="D.C. Law 21-264">32-1204</cite>.</annotation>
+          <annotation type="Section References">This section is referenced in § <cite path="§32-1204">32-1204</cite>.</annotation>
           <annotation type="Prior Codifications">1981 Ed., § 36-1605.</annotation>
           <annotation type="Prior Codifications">2001 Ed., § 32-1205.</annotation>
         </annotations>
@@ -298,7 +298,7 @@
         <text>For the purposes of this subchapter, the term:</text>
         <para>
           <num>(1)</num>
-          <text>“Domestic violence” means an intrafamily offense as defined in § <cite path="§16-1001" doc="D.C. Law 21-264">16-1001</cite>(5) [now (8)].</text>
+          <text>“Domestic violence” means an intrafamily offense as defined in § <cite path="§16-1001">16-1001</cite>(5) [now (8)].</text>
         </para>
         <para>
           <num>(2)</num>
@@ -346,7 +346,7 @@
             <num>(A)</num>
             <para>
               <num>(i)</num>
-              <text>A spouse, including the person identified by an employee as his or her domestic partner, as defined in § <cite path="§32-701" doc="D.C. Law 21-264">32-701</cite>(3);</text>
+              <text>A spouse, including the person identified by an employee as his or her domestic partner, as defined in § <cite path="§32-701">32-701</cite>(3);</text>
             </para>
             <para>
               <num>(ii)</num>
@@ -379,12 +379,12 @@
           </para>
           <para>
             <num>(C)</num>
-            <text>A person with whom the employee shares or has shared, for not less than the preceding 12 months, a mutual residence and with whom the employee maintains a committed relationship, as defined in § <cite path="§32-701" doc="D.C. Law 21-264">32-701</cite>(1).</text>
+            <text>A person with whom the employee shares or has shared, for not less than the preceding 12 months, a mutual residence and with whom the employee maintains a committed relationship, as defined in § <cite path="§32-701">32-701</cite>(1).</text>
           </para>
         </para>
         <para>
           <num>(5)</num>
-          <text>“Paid leave” means accrued increments of compensated leave provided by an employer for use by an employee during an absence from employment for any of the reasons specified in § <cite path="§32-131.02" doc="D.C. Law 21-264">32-131.02</cite>(b).</text>
+          <text>“Paid leave” means accrued increments of compensated leave provided by an employer for use by an employee during an absence from employment for any of the reasons specified in § <cite path="§32-131.02">32-131.02</cite>(b).</text>
         </para>
         <para>
           <num>(6)</num>
@@ -392,7 +392,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>“Sexual abuse” means any offense described in Chapter 30 of Title 22 [§ <cite path="§22-3001" doc="D.C. Law 21-264">22-3001</cite> et seq.]</text>
+          <text>“Sexual abuse” means any offense described in Chapter 30 of Title 22 [§ <cite path="§22-3001">22-3001</cite> et seq.]</text>
           <text>
             <em>et seq.</em>
           </text>
@@ -540,7 +540,7 @@
         </para>
         <para>
           <num>(e)</num>
-          <text>If an employee does not suffer a loss of income when absent from work, for the number of days up to the days of paid leave provided for in subsection (a)(1), (2), and (3) of this section, an employer shall not be required to provide paid leave for such employee in accordance with this subchapter. Notwithstanding the foregoing sentence, the provisions of § <cite path="§32-131.08" doc="D.C. Law 21-264">32-131.08</cite> shall apply to employees who do not suffer a loss of income when absent from work.</text>
+          <text>If an employee does not suffer a loss of income when absent from work, for the number of days up to the days of paid leave provided for in subsection (a)(1), (2), and (3) of this section, an employer shall not be required to provide paid leave for such employee in accordance with this subchapter. Notwithstanding the foregoing sentence, the provisions of § <cite path="§32-131.08">32-131.08</cite> shall apply to employees who do not suffer a loss of income when absent from work.</text>
         </para>
         <para>
           <num>(f)</num>
@@ -548,14 +548,14 @@
         </para>
         <para>
           <num>(g)</num>
-          <text>Notwithstanding the requirements in subsections (a)(1)-(4) of this section, for an employee of a restaurant or bar who regularly receive [sic] tips, commissions, or other gratuities to supplement a base wage that is below the minimum wage as established in § <cite path="§32-1003" doc="D.C. Law 21-264">32-1003</cite>(a), the employer shall provide the employee not less than one hour of paid leave for every 43 hours worked, not to exceed 5 days per calendar year. The paid leave shall be compensated in accordance with the District minimum wage, as established in § <cite path="§32-1003" doc="D.C. Law 21-264">32-1003</cite>(a).</text>
+          <text>Notwithstanding the requirements in subsections (a)(1)-(4) of this section, for an employee of a restaurant or bar who regularly receive [sic] tips, commissions, or other gratuities to supplement a base wage that is below the minimum wage as established in § <cite path="§32-1003">32-1003</cite>(a), the employer shall provide the employee not less than one hour of paid leave for every 43 hours worked, not to exceed 5 days per calendar year. The paid leave shall be compensated in accordance with the District minimum wage, as established in § <cite path="§32-1003">32-1003</cite>(a).</text>
         </para>
         <annotations>
           <annotation doc="D.C. Law 17-152" type="History" path="§3">May 13, 2008, D.C. Law 17-152, § 3, 55 DCR 3452</annotation>
           <annotation doc="D.C. Law 17-353" type="History">Mar. 25, 2009, D.C. Law 17-353, § 311(a), 56 DCR 1117</annotation>
           <annotation doc="D.C. Law 20-89" type="History">Feb. 22, 2014, D.C. Law 20-89, § 2(b), 61 DCR 317</annotation>
           <annotation type="Prior Codifications">2001 Ed., § 32-131.02.</annotation>
-          <annotation type="Section References">This section is referenced in § <cite path="§32-131.01" doc="D.C. Law 21-264">32-131.01</cite>, § <cite path="§32-131.04" doc="D.C. Law 21-264">32-131.04</cite>, and § <cite path="§32-131.05" doc="D.C. Law 21-264">32-131.05</cite>.</annotation>
+          <annotation type="Section References">This section is referenced in § <cite path="§32-131.01">32-131.01</cite>, § <cite path="§32-131.04">32-131.04</cite>, and § <cite path="§32-131.05">32-131.05</cite>.</annotation>
           <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite>, in subsec. (c), substituted “when he or she qualifies as an employee” for “at the beginning of his or her employment. An employee may begin to access paid leave after 90 days of service with his or her employer” in par. (1), and repealed par. (3), which had read as follows: “(3) An employee who is discharged after the completion of a 90-day probationary period and is rehired within 12 months may access paid leave immediately.”</annotation>
           <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-89">D.C. Law 20-89</cite> rewrote (c); and added (g).</annotation>
           <annotation type="Temporary Legislation">For temporary (225 days) repeal of <cite doc="D.C. Law 20-157">D.C. Law 20-157</cite>, §  7, see §  4 of the Wage Theft Prevention Correction and Clarification Temporary Amendment Act of 2015 (<cite doc="D.C. Law 21-57">D.C. Law 21-57</cite>, Jan. 30, 2016,  62 DCR 15602).</annotation>
@@ -585,14 +585,14 @@
           <num>(a)</num>
           <para>
             <num>(1)</num>
-            <text>An employer may require that paid leave under § <cite path="§32-131.02" doc="D.C. Law 21-264">32-131.02</cite>(b) for 3 or more consecutive days be supported by reasonable certification.</text>
+            <text>An employer may require that paid leave under § <cite path="§32-131.02">32-131.02</cite>(b) for 3 or more consecutive days be supported by reasonable certification.</text>
           </para>
           <para>
             <num>(2)</num>
             <text>Reasonable certification may include:</text>
             <para>
               <num>(A)</num>
-              <text>A signed document from a health care provider, as defined in § <cite path="§32-501" doc="D.C. Law 21-264">32-501</cite>(5), affirming the illness of the employee;</text>
+              <text>A signed document from a health care provider, as defined in § <cite path="§32-501">32-501</cite>(5), affirming the illness of the employee;</text>
             </para>
             <para>
               <num>(B)</num>
@@ -604,7 +604,7 @@
             </para>
             <para>
               <num>(D)</num>
-              <text>A signed statement from a victim and witness advocate, or domestic violence counselor, as defined in § <cite path="§14-310" doc="D.C. Law 21-264">14-310</cite>(a)(2), affirming that the employee is involved in legal action related to stalking, domestic violence, or sexual abuse.</text>
+              <text>A signed statement from a victim and witness advocate, or domestic violence counselor, as defined in § <cite path="§14-310">14-310</cite>(a)(2), affirming that the employee is involved in legal action related to stalking, domestic violence, or sexual abuse.</text>
             </para>
           </para>
           <para>
@@ -620,7 +620,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>All information provided to the employer under § <cite path="§32-131.02" doc="D.C. Law 21-264">32-131.02</cite> shall not be disclosed by the employer, except to the extent that the disclosure is:</text>
+            <text>All information provided to the employer under § <cite path="§32-131.02">32-131.02</cite> shall not be disclosed by the employer, except to the extent that the disclosure is:</text>
             <para>
               <num>(A)</num>
               <text>Requested or consented to by the employee;</text>
@@ -652,11 +652,11 @@
           <text>The terms and conditions of an employer’s policy shall be presumed equivalent if they allow an employee to:</text>
           <para>
             <num>(1)</num>
-            <text>Access and accrue paid leave at least at the same rate as or greater than the hours of paid leave provided in § <cite path="§32-131.02" doc="D.C. Law 21-264">32-131.02</cite>(a)(1), (2), and (3); or</text>
+            <text>Access and accrue paid leave at least at the same rate as or greater than the hours of paid leave provided in § <cite path="§32-131.02">32-131.02</cite>(a)(1), (2), and (3); or</text>
           </para>
           <para>
             <num>(2)</num>
-            <text>Use the paid leave for the same purposes as those set forth in § <cite path="§32-131.02" doc="D.C. Law 21-264">32-131.02</cite>(b), including unscheduled leave.</text>
+            <text>Use the paid leave for the same purposes as those set forth in § <cite path="§32-131.02">32-131.02</cite>(b), including unscheduled leave.</text>
           </para>
         </para>
         <annotations>
@@ -777,7 +777,7 @@
           <annotation doc="D.C. Law 20-89" type="History">Feb. 22, 2014, D.C. Law 20-89, § 2(d), 61 DCR 317</annotation>
           <annotation doc="D.C. Law 20-157" type="History">Feb. 26, 2015, D.C. Law 20-157, § 4(b), 61 DCR 10157</annotation>
           <annotation type="Prior Codifications">2001 Ed., § 32-131.08.</annotation>
-          <annotation type="Section References">This section is referenced in § <cite path="§32-131.02" doc="D.C. Law 21-264">32-131.02</cite>.</annotation>
+          <annotation type="Section References">This section is referenced in § <cite path="§32-131.02">32-131.02</cite>.</annotation>
           <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-89">D.C. Law 20-89</cite> rewrote (b)(2); and added (d) and (e).</annotation>
           <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-157">D.C. Law 20-157</cite> substituted “civil or administrative complaint” for “civil complaint” in (b)(2)(C); and substituted “a violation of this chapter” for “unlawful under this chapter” in (b)(2)(F).</annotation>
           <annotation type="Temporary Legislation">For temporary (225 days) repeal of <cite doc="D.C. Law 20-157">D.C. Law 20-157</cite>, § 7, see § 4 of the Wage Theft Prevention Correction and Clarification Temporary Amendment Act of 2014 (<cite doc="D.C. Law 20-240">D.C. Law 20-240</cite>, March 13, 2015,  62 DCR 1332).</annotation>
@@ -809,7 +809,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>An employer shall post the notice in English and all languages spoken by employees with Limited or no-English Proficiency, as defined in § <cite path="§2-1931" doc="D.C. Law 21-264">2-1931</cite>(5).</text>
+          <text>An employer shall post the notice in English and all languages spoken by employees with Limited or no-English Proficiency, as defined in § <cite path="§2-1931">2-1931</cite>(5).</text>
         </para>
         <para>
           <num>(d)</num>
@@ -820,7 +820,7 @@
           <annotation doc="D.C. Law 17-353" type="History">Mar. 25, 2009, D.C. Law 17-353, § 311(b), 56 DCR 1117</annotation>
           <annotation doc="D.C. Law 20-89" type="History">Feb. 22, 2014, D.C. Law 20-89, § 2(e), 61 DCR 317</annotation>
           <annotation type="Prior Codifications">2001 Ed., § 32-131.09.</annotation>
-          <annotation type="Section References">This section is referenced in § <cite path="§32-131.12" doc="D.C. Law 21-264">32-131.12</cite>.</annotation>
+          <annotation type="Section References">This section is referenced in § <cite path="§32-131.12">32-131.12</cite>.</annotation>
           <annotation type="Effect of Amendments"><cite doc="D.C. Law 17-353">D.C. Law 17-353</cite>, in subsec. (a), deleted “in languages in accordance with subchapter II of Chapter 19 of Title 2,” following “provide to employers,”.</annotation>
           <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-89">D.C. Law 20-89</cite> rewrote (b)(1).</annotation>
           <annotation type="Temporary Legislation">For temporary (225 days) repeal of <cite doc="D.C. Law 20-157">D.C. Law 20-157</cite>, § 7, see § 4 of the Wage Theft Prevention Correction and Clarification Temporary Amendment Act of 2015 (<cite doc="D.C. Law 21-57">D.C. Law 21-57</cite>, Jan. 30, 2016,  62 DCR 15602).</annotation>
@@ -846,7 +846,7 @@
       <section>
         <num>32-531.10a</num>
         <heading>Statute of limitations.</heading>
-        <text>All civil or administrative complaints brought under this chapter shall be filed within 3 years of the event or final instance of a series of events on which the complaint is based, except the 3-year period shall be tolled for the duration of any period during which the employer does not post the notice required under § <cite path="§32-131.09" doc="D.C. Law 21-264">32-131.09</cite>, or, for civil complaints, when an administrative complaint is filed.</text>
+        <text>All civil or administrative complaints brought under this chapter shall be filed within 3 years of the event or final instance of a series of events on which the complaint is based, except the 3-year period shall be tolled for the duration of any period during which the employer does not post the notice required under § <cite path="§32-131.09">32-131.09</cite>, or, for civil complaints, when an administrative complaint is filed.</text>
         <annotations>
           <annotation doc="D.C. Law 17-152" type="History" path="§11a">May 13, 2008, D.C. Law 17-152, § 11a</annotation>
           <annotation doc="D.C. Law 20-89" type="History">as added Feb. 22, 2014, D.C. Law 20-89, § 2(f), 61 DCR 317</annotation>
@@ -920,7 +920,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>When an administrative complaint is filed against any employer or other person alleged to have violated this subchapter, a hearing by an administrative law judge shall be scheduled following the same procedure available in § <cite path="§32-1308.01" doc="D.C. Law 21-264">32-1308.01</cite> for a violation of Chapter 13 of this title [§ <cite path="§32-1301" doc="D.C. Law 21-264">32-1301</cite> <em>et seq.</em>].</text>
+            <text>When an administrative complaint is filed against any employer or other person alleged to have violated this subchapter, a hearing by an administrative law judge shall be scheduled following the same procedure available in § <cite path="§32-1308.01">32-1308.01</cite> for a violation of Chapter 13 of this title [§ <cite path="§32-1301">32-1301</cite> <em>et seq.</em>].</text>
           </para>
         </para>
         <para>
@@ -929,7 +929,7 @@
         </para>
         <para>
           <num>(c)</num>
-          <text>Except as provided in § <cite path="§32-131.09" doc="D.C. Law 21-264">32-131.09</cite>(b), an employer who willfully violates the requirements of this subchapter shall be subject to a civil penalty for each affected employee of $1,000 for the 1st offense, $1,500 for the 2nd offense, and $2,000 for the 3rd and each subsequent offense.</text>
+          <text>Except as provided in § <cite path="§32-131.09">32-131.09</cite>(b), an employer who willfully violates the requirements of this subchapter shall be subject to a civil penalty for each affected employee of $1,000 for the 1st offense, $1,500 for the 2nd offense, and $2,000 for the 3rd and each subsequent offense.</text>
         </para>
         <para>
           <num>(d)</num>
@@ -992,7 +992,7 @@
         </para>
         <para>
           <num>(i)</num>
-          <text>The administrative fines and penalties collected under this section shall be deposited into the Wage Theft Prevention Fund, established by § <cite path="§32-1307.01" doc="D.C. Law 21-264">32-1307.01</cite>.</text>
+          <text>The administrative fines and penalties collected under this section shall be deposited into the Wage Theft Prevention Fund, established by § <cite path="§32-1307.01">32-1307.01</cite>.</text>
         </para>
         <annotations>
           <annotation doc="D.C. Law 17-152" type="History" path="§13">May 13, 2008, D.C. Law 17-152, § 13, 55 DCR 3452</annotation>
@@ -1403,7 +1403,7 @@
         <num>(22)</num>
         <text>"Wages" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§51-101|(3)">section 1(3) of the District of Columbia Unemployment Compensation Act, approved August 28, 1935 (49 Stat. 946; D.C. Official Code § 51-101(3))</code-cite>; provided, that the term "wages" also shall include self-employment income earned by a self-employed individual who has opted into the paid-leave program established pursuant to <code-cite doc="D.C. Code" path="32|5|IV">this act</code-cite>.</text>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-541.01">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the creation of this section by <cite doc="D.C. Law 21-264" path="§101">§ 101 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-541.01" applicability-path="§301" action="creation of"/>
       <codify:annotation doc="D.C. Code" path="§32-541.01" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -1426,7 +1426,7 @@
           <text>The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, holidays, and days of Council recess.  If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within the 45-day period, the proposed rules shall be deemed approved.</text>
         </para>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-541.02">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the creation of this section by <cite doc="D.C. Law 21-264" path="§102">§ 102 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-541.02" applicability-path="§301" action="creation of"/>
       <codify:annotation doc="D.C. Code" path="§32-541.02" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -1458,7 +1458,7 @@
         <num>(f)</num>
         <text>A covered employer who fails to contribute any amount required by this section to <code-cite doc="D.C. Code" path="§51-104">the Universal Paid Leave Implementation Fund shall be subject to the same notice requirements, procedures, interest, penalties, and remedies set forth in section 4 of the District of Columbia Unemployment Compensation Act, approved August 28, 1935 (49 Stat. 948, D.C. Official Code § 51-104)</code-cite>.</text>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-541.03">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the creation of this section by <cite doc="D.C. Law 21-264" path="§103">§ 103 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-541.03" applicability-path="§301" action="creation of"/>
       <codify:annotation doc="D.C. Code" path="§32-541.03" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -1548,7 +1548,7 @@
         <num>(k)</num>
         <text>Covered employers are not responsible for collecting or tracking any taxes from individuals related to paid-leave payments received pursuant to <code-cite doc="D.C. Code" path="32|5|IV">this act</code-cite> from the District of Columbia government.</text>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-541.04">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the creation of this section by <cite doc="D.C. Law 21-264" path="§104">§ 104 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-541.04" applicability-path="§301" action="creation of"/>
       <codify:annotation doc="D.C. Code" path="§32-541.04" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -1586,7 +1586,7 @@
           <text>An individual who has been disenrolled pursuant to this subsection may re-enroll consistent with requirements of this section following the payment of any amounts due to the District pursuant to <code-cite doc="D.C. Code" path="32|5|IV">this act</code-cite>.</text>
         </para>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-541.05">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the creation of this section by <cite doc="D.C. Law 21-264" path="§105">§ 105 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-541.05" applicability-path="§301" action="creation of"/>
       <codify:annotation doc="D.C. Code" path="§32-541.05" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -1719,7 +1719,7 @@
           <text>All outreach information shall comply with <code-cite doc="D.C. Code" path="2|19|II">the Language Access Act of 2004, effective June 19, 2004 (D.C. Law 15-167; D.C. Official Code § 2-1931 <em>et seq.</em>)</code-cite>.</text>
         </para>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-541.06">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the creation of this section by <cite doc="D.C. Law 21-264" path="§106">§ 106 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-541.06" applicability-path="§301" action="creation of"/>
       <codify:annotation doc="D.C. Code" path="§32-541.06" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -1812,7 +1812,7 @@
           <text>Any agreement by an individual to waive his or her rights under <code-cite doc="D.C. Code" path="32|5|IV">this act</code-cite> is void as against public policy.</text>
         </para>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-541.07">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the creation of this section by <cite doc="D.C. Law 21-264" path="§107">§ 107 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-541.07" applicability-path="§301" action="creation of"/>
       <codify:annotation doc="D.C. Code" path="§32-541.07" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -1852,7 +1852,7 @@
           <text>All correspondence, notices, determinations, or decisions issued by the Mayor may be signed by an electronic signature that complies with the requirements of <code-cite doc="D.C. Code" path="§28-4917">D.C. Official Code § 28-4917</code-cite> and Mayor's Order 2009-118, issued June 25, 2009 (56 DCR 6867).</text>
         </para>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-541.08">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the creation of this section by <cite doc="D.C. Law 21-264" path="§108">§ 108 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-541.08" applicability-path="§301" action="creation of"/>
       <codify:annotation doc="D.C. Code" path="§32-541.08" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -1879,7 +1879,7 @@
           <text>For the purposes of paragraph (1) of this subsection, a covered employer's proportional share of the recovered amount shall be equal to the amount paid into the Universal Paid Leave Implementation Fund by that covered employer on behalf of the individual during the period that he or she improperly obtained benefits, expressed as a percentage of the total amount paid into the Universal Paid Leave Implementation Fund by all covered employers on behalf of the individual during the period that he or she improperly obtained benefits.</text>
         </para>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-541.09">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the creation of this section by <cite doc="D.C. Law 21-264" path="§109">§ 109 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-541.09" applicability-path="§301" action="creation of"/>
       <codify:annotation doc="D.C. Code" path="§32-541.09" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -1927,7 +1927,7 @@
         <num>(c)</num>
         <text>It shall be unlawful for any individual to provide intentionally false statements in order to obtain paid-leave benefits.</text>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-541.10">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the creation of this section by <cite doc="D.C. Law 21-264" path="§110">§ 110 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-541.10" applicability-path="§301" action="creation of"/>
       <codify:annotation doc="D.C. Code" path="§32-541.10" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -1955,7 +1955,7 @@
         <num>(c)</num>
         <text>For the purpose of any investigation provided for in this section, the Mayor may exercise the subpoena authority provided in <code-cite doc="D.C. Code" path="§1-301.21">section 3 of the Independent Personnel Systems Implementation Act of 1980, effective September 26, 1980 (D.C. Law 3-109; D.C. Official Code § 1-301.2)1</code-cite>.</text>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-541.11">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the creation of this section by <cite doc="D.C. Law 21-264" path="§111">§ 111 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-541.11" applicability-path="§301" action="creation of"/>
       <codify:annotation doc="D.C. Code" path="§32-541.11" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -1982,7 +1982,7 @@
         <num>(c)</num>
         <text>If a court determines that an employer violated any provision of <code-cite doc="D.C. Code" path="32|5|IV">this act</code-cite>, <code-cite doc="D.C. Code" path="§32-509|(b)">section 10(b)(6)</code-cite> and (7) of D.C. FMLA shall apply.</text>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-541.12">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the creation of this section by <cite doc="D.C. Law 21-264" path="§112">§ 112 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-541.12" applicability-path="§301" action="creation of"/>
       <codify:annotation doc="D.C. Code" path="§32-541.12" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -2002,7 +2002,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1831.03">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the change made to this section by <cite doc="D.C. Law 21-264" path="§201">§ 201 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§2-1831.03" applicability-path="§301"/>
       <codify:annotation doc="D.C. Code" path="§2-1831.03" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -2037,7 +2037,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-501">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the change made to this section by <cite doc="D.C. Law 21-264" path="§202">§ 202 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-501" applicability-path="§301"/>
       <codify:annotation doc="D.C. Code" path="§32-501" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
@@ -2135,7 +2135,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§32-551.01">Applicability of <cite doc="D.C. Law 21-264" path="">D.C. Law 21-264</cite>: <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite> provided that the change made to this section by <cite doc="D.C. Law 21-264" path="§203">§ 203 of D.C. Law 21-264</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-551.01" applicability-path="§301"/>
       <codify:annotation doc="D.C. Code" path="§32-551.01" type="Applicability" history="false">Section 7034 of D.C. Act 22-130 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>

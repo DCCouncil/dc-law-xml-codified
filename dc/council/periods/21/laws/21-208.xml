@@ -27,7 +27,7 @@
     <para codify:doc="D.C. Code" codify:path="§1-1001.07">
       <num>(a)</num>
       <text>Section 7 (D.C. Official Code § 1-1001.07) is amended as follows:</text>
-      <para codify:applicability="pending">
+      <para>
         <num>(1)</num>
         <text>Subsection (a)(2) is amended to read as follows:</text>
         <include>
@@ -46,7 +46,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para codify:path="(c)" codify:applicability="pending">
+      <para codify:path="(c)">
         <num>(2)</num>
         <text>Subsection (c) is amended as follows:</text>
         <para codify:path="(1)">
@@ -236,7 +236,7 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <para codify:path="(e)" codify:applicability="pending">
+      <para codify:path="(e)">
         <num>(3)</num>
         <text>Subsection (e) is amended as follows:</text>
         <para>
@@ -269,7 +269,7 @@
           </para>
         </para>
       </para>
-      <para codify:path="(g)" codify:applicability="pending">
+      <para codify:path="(g)">
         <num>(4)</num>
         <text>Subsection (g) is amended as follows:</text>
         <para codify:path="(1)">
@@ -341,7 +341,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(6)</num>
         <text>A new subsection (m) is added to read as follows:</text>
         <include>
@@ -360,7 +360,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-208" path="">D.C. Law 21-208</cite>: <cite doc="D.C. Law 21-208" path="§5">§ 5 of D.C. Law 21-208</cite> provided that the except for §2(5),any change made to this section by <cite doc="D.C. Law 21-208" path="§2|(a)">§ 2(a) of D.C. Law 21-208</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§5" action="except for §2(5),any change made to"/>
     </para>
     <para>
       <num>(b)</num>
@@ -371,16 +371,16 @@
       </codify:find-replace>
     </para>
   </section>
-  <section codify:applicability="pending">
+  <section>
     <num>3</num>
     <text>Section 106(b) of the District of Columbia Uniform Military and Overseas Voters Act of 2012, effective June 5, 2012 (D.C. Law 19-137; D.C. Official Code § 1-1061.06(b)), is amended by striking the number "30" and inserting the number "21" in its place.</text>
     <codify:find-replace doc="D.C. Code" path="§1-1061.06|(b)" count="1">
       <find>30</find>
       <replace>21</replace>
     </codify:find-replace>
-    <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§1-1061.06">Applicability of <cite doc="D.C. Law 21-208" path="">D.C. Law 21-208</cite>: <cite doc="D.C. Law 21-208" path="§5">§ 5 of D.C. Law 21-208</cite> provided that the change made to this section by <cite doc="D.C. Law 21-208" path="§3">§ 3 of D.C. Law 21-208</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§1-1061.06" applicability-path="§5"/>
   </section>
-  <section codify:applicability="notfunded">
+  <section>
     <num>4</num>
     <text>The District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; codified in scattered cites of the D.C. Official Code), is amended by adding a new section 7c to read as follows:</text>
     <include>
@@ -439,7 +439,7 @@
       </section>
     </include>
     <aftertext>.</aftertext>
-    <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§50-1401.01c">Applicability of <cite doc="D.C. Law 21-208" path="">D.C. Law 21-208</cite>: <cite doc="D.C. Law 21-208" path="§5">§ 5 of D.C. Law 21-208</cite> provided that the creation of this section by <cite doc="D.C. Law 21-208" path="§4">§ 4 of D.C. Law 21-208</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+    <codify:not-funded-anno doc="D.C. Code" path="§50-1401.01c" applicability-path="§5" action="creation of"/>
   </section>
   <section>
     <num>5</num>

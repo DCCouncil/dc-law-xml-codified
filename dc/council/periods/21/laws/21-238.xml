@@ -92,7 +92,7 @@
           Applicability of D.C. Law 21-238: § 701 of D.C. Law 21-238 provided that the change made § 102(c)(1)(A) of D.C. Law 21-238 is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Since D.C. Law-238 does not contain a § 102(c)(1)(A), that provision has been ignored.
         </codify:annotation>
       </para>
-      <para codify:doc="D.C. Code" codify:path="§16-2312|(a)" codify:applicability="notfunded">
+      <para codify:doc="D.C. Code" codify:path="§16-2312|(a)">
         <num>(d)</num>
         <text>Section 16-2312(a) is amended as follows:</text>
         <para codify:path="(2)">
@@ -123,12 +123,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-238" path="">D.C. Law 21-238</cite>: <cite doc="D.C. Law 21-238" path="§701">§ 701 of D.C. Law 21-238</cite> provided that the change made to this section by <cite doc="D.C. Law 21-238" path="§102|(d)">§ 102(d) of D.C. Law 21-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+        <codify:not-funded-anno applicability-path="§701"/>
       </para>
       <para codify:doc="D.C. Code" codify:path="§16-2313">
         <num>(e)</num>
         <text>Section 16-2313 is amended as follows:</text>
-        <para codify:path="(a)" codify:applicability="pending">
+        <para codify:path="(a)">
           <num>(1)</num>
           <text>Subsection (a) is amended by striking the phrase "to be neglected" wherever it appears and inserting the phrase "to be neglected or in need of supervision" in its place.</text>
           <codify:find-replace count="2">
@@ -136,7 +136,7 @@
             <replace>to be neglected or in need of supervision</replace>
           </codify:find-replace>
         </para>
-        <para codify:path="(b)" codify:applicability="pending">
+        <para codify:path="(b)">
           <num>(2)</num>
           <text>Subsection (b) is amended as follows:</text>
           <para>
@@ -164,7 +164,7 @@
             <text>The existing text is designated as paragraph (1).</text>
             <codify:redesignate-para num-value="(1)"/>
           </para>
-          <para codify:applicability="pending">
+          <para>
             <num>(B)</num>
             <text>The newly designated paragraph (1) is amended as follows:</text>
             <para>
@@ -184,7 +184,7 @@
               </codify:find-replace>
             </para>
           </para>
-          <para codify:applicability="notfunded">
+          <para>
             <num>(C)</num>
             <text>New paragraphs (2) and (3) are added to read as follows:</text>
             <include>
@@ -202,12 +202,12 @@
             <aftertext>.</aftertext>
           </para>
         </para>
-        <para codify:path="(e)" codify:applicability="pending">
+        <para codify:path="(e)">
           <num>(4)</num>
           <text>Subsection (e) is repealed.</text>
           <codify:repeal/>
         </para>
-        <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-238" path="">D.C. Law 21-238</cite>: <cite doc="D.C. Law 21-238" path="§701">§ 701 of D.C. Law 21-238</cite> provided that the change made to this section by <cite doc="D.C. Law 21-238" path="§102|(e)">§ 102(e) of D.C. Law 21-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+        <codify:not-funded-anno applicability-path="§701"/>
       </para>
       <para codify:doc="D.C. Code" codify:path="§16-2320">
         <num>(f)</num>
@@ -220,7 +220,7 @@
             <replace>delinquent children; provided, that legal custody shall not be transferred to a public agency for the care of delinquent children when the child in question is less than 10 years of age.</replace>
           </codify:find-replace>
         </para>
-        <para codify:path="(d)" codify:applicability="pending">
+        <para codify:path="(d)">
           <num>(2)</num>
           <text>Subsection (d) is amended to read as follows:</text>
           <include>
@@ -238,7 +238,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
-          <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-238" path="">D.C. Law 21-238</cite>: <cite doc="D.C. Law 21-238" path="§701">§ 701 of D.C. Law 21-238</cite> provided that the change made to this section by <cite doc="D.C. Law 21-238" path="§102|(f)|(2)">§ 102(f)(2) of D.C. Law 21-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+          <codify:not-funded-anno applicability-path="§701"/>
         </para>
       </para>
       <para codify:doc="D.C. Code" codify:path="§16-2322">
@@ -425,14 +425,14 @@
         </codify:find-replace>
       </para>
     </section>
-    <section codify:doc="D.C. Code" codify:path="§23-1322|(g)|(2)" codify:applicability="pending">
+    <section codify:doc="D.C. Code" codify:path="§23-1322|(g)|(2)">
       <num>103</num>
       <text>Section 23-1322(g)(2) of the District of Columbia Official Code is amended by striking the phrase "appeal;" and inserting the phrase "appeal; provided, that after October 1, 2018, if the person is younger than 18 years of age, direct that the person be transferred to the custody of the Department of Youth Rehabilitation Services, subject to the federal standards under 28 C.F.R. § 115.14;" in its place.</text>
       <codify:find-replace count="1">
         <find>appeal;</find>
         <replace>appeal; provided, that after October 1, 2018, if the person is younger than 18 years of age, direct that the person be transferred to the custody of the Department of Youth Rehabilitation Services, subject to the federal standards under 28 C.F.R. § 115.14;</replace>
       </codify:find-replace>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-238" path="">D.C. Law 21-238</cite>: <cite doc="D.C. Law 21-238" path="§701">§ 701 of D.C. Law 21-238</cite> provided that the change made to this section by <cite doc="D.C. Law 21-238" path="§103">§ 103 of D.C. Law 21-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§701"/>
     </section>
   </container>
   <container>
@@ -644,7 +644,7 @@
       <heading>Short title.</heading>
       <text>This title may be cited as the "Incarceration Reduction Amendment Act of 2016".</text>
     </section>
-    <section codify:applicability="notfunded">
+    <section>
       <num>302</num>
       <text>Section 101(a) of the Attorney General for the District of Columbia Clarification and Elected Term Amendment Act of 2010, effective May 27, 2010 (D.C. Law 18-160; D.C. Official Code § 1-301.81(a)), is amended by adding a new paragraph (3) to read as follows:</text>
       <include>
@@ -655,7 +655,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§1-301.81">Applicability of <cite doc="D.C. Law 21-238" path="">D.C. Law 21-238</cite>: <cite doc="D.C. Law 21-238" path="§701">§ 701 of D.C. Law 21-238</cite> provided that the change made to this section by <cite doc="D.C. Law 21-238" path="§302">§ 302 of D.C. Law 21-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§1-301.81" applicability-path="§701"/>
     </section>
     <section>
       <num>303</num>
@@ -665,7 +665,7 @@
         <text>Designate the existing text as subsection (a).</text>
         <codify:redesignate-para doc="D.C. Code" path="§5-113.01" num-value="(a)"/>
       </para>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(b)</num>
         <text>A new subsection (b) is added to read as follows:</text>
         <include>
@@ -677,9 +677,9 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§5-113.01">Applicability of <cite doc="D.C. Law 21-238" path="">D.C. Law 21-238</cite>: <cite doc="D.C. Law 21-238" path="§701">§ 701 of D.C. Law 21-238</cite> provided that the change made to this section by <cite doc="D.C. Law 21-238" path="§303">§ 303 of D.C. Law 21-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§5-113.01" applicability-path="§701"/>
     </section>
-    <section codify:applicability="notfunded">
+    <section>
       <num>304</num>
       <text>Section 1505 of the Criminal Justice Coordinating Council for the District of Columbia Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 22-4234), is amended by adding new subsections (b-2) and (b-3) to read as follows:</text>
       <para>
@@ -699,9 +699,9 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§22-4234">Applicability of <cite doc="D.C. Law 21-238" path="">D.C. Law 21-238</cite>: <cite doc="D.C. Law 21-238" path="§701">§ 701 of D.C. Law 21-238</cite> provided that the change made to this section by <cite doc="D.C. Law 21-238" path="§304">§ 304 of D.C. Law 21-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno doc="D.C. Code" path="§22-4234" applicability-path="§701"/>
     </section>
-    <section codify:doc="D.C. Code" codify:path="§24-211.02|(b)" codify:applicability="notfunded">
+    <section codify:doc="D.C. Code" codify:path="§24-211.02|(b)">
       <num>305</num>
       <text>Section 2(b) of An Act To create a Department of Corrections in the District of Columbia, approved June 27, 1946 (60 Stat. 320; D.C. Official Code § 24-211.02(b)), is amended as follows:</text>
       <para codify:path="(4)">
@@ -732,7 +732,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-238" path="">D.C. Law 21-238</cite>: <cite doc="D.C. Law 21-238" path="§701">§ 701 of D.C. Law 21-238</cite> provided that the change made to this section by <cite doc="D.C. Law 21-238" path="§305">§ 305 of D.C. Law 21-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§701"/>
     </section>
     <section codify:doc="D.C. Code">
       <num>306</num>
@@ -925,7 +925,7 @@
           <replace><cite path="§16-2301">16-2301(3)</cite>  or other minor in the custody of the Department</replace>
         </codify:find-replace>
       </para>
-      <para codify:path="§2-1515.04" codify:applicability="notfunded">
+      <para codify:path="§2-1515.04">
         <num>(b)</num>
         <text>Section 104 (D.C. Official Code § 2-1515.04) is amended as follows:</text>
         <para codify:path="(13)">
@@ -966,9 +966,9 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-238" path="">D.C. Law 21-238</cite>: <cite doc="D.C. Law 21-238" path="§701">§ 701 of D.C. Law 21-238</cite> provided that the change made to this section by <cite doc="D.C. Law 21-238" path="§402|(b)">§ 402(b) of D.C. Law 21-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+        <codify:not-funded-anno applicability-path="§701"/>
       </para>
-      <para codify:path="|2|15|I-A|A" codify:applicability="notfunded">
+      <para codify:path="|2|15|I-A|A">
         <num>(c)</num>
         <text>A new section 104b is added to read as follows:</text>
         <include>
@@ -1016,7 +1016,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1515.04b">Applicability of <cite doc="D.C. Law 21-238" path="">D.C. Law 21-238</cite>: <cite doc="D.C. Law 21-238" path="§701">§ 701 of D.C. Law 21-238</cite> provided that the creation of this section by <cite doc="D.C. Law 21-238" path="§402|(c)">§ 402(c) of D.C. Law 21-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+        <codify:not-funded-anno doc="D.C. Code" path="§2-1515.04b" applicability-path="§701" action="creation of"/>
       </para>
       <para codify:path="§2-1515.52">
         <num>(d)</num>

@@ -174,7 +174,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-240" path="">D.C. Law 21-240</cite>: <cite doc="D.C. Law 21-240" path="§3">§ 3 of D.C. Law 21-240</cite> provided that the creation of subsection (c)(2) of this section by <cite doc="D.C. Law 21-240" path="§2|(b)">§ 2(b) of D.C. Law 21-240</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§3" action="creation of subsection (c)(2) of"/>
     </para>
     <para codify:path="§1-1162.25">
       <num>(c)</num>

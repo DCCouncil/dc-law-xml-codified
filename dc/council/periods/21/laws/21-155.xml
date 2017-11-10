@@ -128,7 +128,7 @@
         <text>If complete data about a collision is not available at the time of publication, the Mayor shall publish online the information that is available at the time of publication, and update the data as additional information becomes available.</text>
       </para>
     </section>
-    <section codify:applicability="notfunded">
+    <section>
       <codify:insert num-value="50-1951.03"/>
       <num>103</num>
       <heading>Publication of moving infraction data.</heading>
@@ -180,7 +180,7 @@
         <num>(b)</num>
         <text>If complete data about a notice of infraction is not available at the time of publication, the Mayor shall publish the information that is available at the time of publication, and update the data as additional information becomes available.</text>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the creation of this section by <cite doc="D.C. Law 21-155" path="§103">§ 103 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§901" action="creation of"/>
     </section>
     <section>
       <codify:insert num-value="50-1951.04"/>
@@ -1043,7 +1043,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the modification of subsection (e)(2) of this section by <cite doc="D.C. Law 21-155" path="§701">§ 701 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§901" action="modification of subsection (e)(2) of"/>
     </section>
     <section codify:doc="D.C. Code">
       <num>702</num>
@@ -1146,7 +1146,7 @@
     <prefix>TITLE</prefix>
     <num>VIII</num>
     <heading>MAJOR CRASH REVIEW</heading>
-    <section codify:doc="D.C. Code" codify:path="|50|22|V|A" codify:applicability="notfunded">
+    <section codify:doc="D.C. Code" codify:path="|50|22|V|A">
       <num>801</num>
       <text>Title IX of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01 <em>et seq.</em>), is amended by adding a new section 904 to read as follows:
       </text>
@@ -1191,7 +1191,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the creation of this section by <cite doc="D.C. Law 21-155" path="§801">§ 801 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§901" action="creation of"/>
     </section>
     <codify:insert doc="D.C. Code" path="|50" after="18" history="false">
       <container>

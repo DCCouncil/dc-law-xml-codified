@@ -275,7 +275,7 @@
           <codify:insert path="(1)" after="(A)">
             <para>
               <num>(B)</num>
-              <text>Registered with the Mayor pursuant to § <cite path="§7-1671.05" doc="D.C. Law 21-209">7-1671.05</cite>; or</text>
+              <text>Registered with the Mayor pursuant to § <cite path="§7-1671.05">7-1671.05</cite>; or</text>
             </para>
           </codify:insert>
         </para>
@@ -288,7 +288,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <para codify:applicability="notfunded">
+      <para>
         <num>(3)</num>
         <text>A new paragraph (2) is added to read as follows:</text>
         <include>
@@ -300,7 +300,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-209" path="">D.C. Law 21-209</cite>: <cite doc="D.C. Law 21-209" path="§4">§ 4 of D.C. Law 21-209</cite> provided that the change made to this section by <cite doc="D.C. Law 21-209" path="§2|(b)">§ 2(b) of D.C. Law 21-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4"/>
     </para>
     <para codify:path="§7-1671.03">
       <num>(c)</num>
@@ -503,7 +503,7 @@
         <para codify:path="(B)">
           <num>(B)</num>
           <text>Subparagraph (B) is amended as follows:</text>
-          <para codify:path="(i)" codify:applicability="pending">
+          <para codify:path="(i)">
             <num>(i)</num>
             <text>Sub-subparagraph (i) is repealed.</text>
             <codify:repeal/>
@@ -572,7 +572,7 @@
         <para codify:path="(A)">
           <num>(B)</num>
           <text>Subparagraph (A) is amended as follows:</text>
-          <para codify:path="text" codify:applicability="pending">
+          <para codify:path="text">
             <num>(i)</num>
             <text>The lead-in language is amended by striking the phrase "and current records" and inserting the phrase "and real-time electronic records" in its place.</text>
             <codify:find-replace count="1">
@@ -751,7 +751,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-209" path="">D.C. Law 21-209</cite>: <cite doc="D.C. Law 21-209" path="§4">§ 4 of D.C. Law 21-209</cite> provided that the change made to this section by <cite doc="D.C. Law 21-209" path="§2|(e)">§ 2(e) of D.C. Law 21-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§4"/>
     </para>
     <para codify:path="§7-1671.06">
       <num>(f)</num>

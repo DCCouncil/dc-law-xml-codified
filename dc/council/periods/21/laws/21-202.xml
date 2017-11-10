@@ -20,7 +20,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Charitable Solicitations Relief Amendment Act of 2016".</text>
-  <section codify:doc="D.C. Code" codify:path="§44-1703|(d)" codify:applicability="pending">
+  <section codify:doc="D.C. Code" codify:path="§44-1703|(d)">
     <num>2</num>
     <text>Section 4(d) of the District of Columbia Charitable Solicitation Act, approved July 10, 1957 (71 Stat. 279; D.C. Official Code § 44-1703(d)), is amended as follows:</text>
     <para>
@@ -39,7 +39,7 @@
         <replace>$25,000 in money or property, adjusted once a year on October 1, in accordance with the consumer price index for the Washington-Baltimore Metropolitan Statistical Area, or any successor index, as published by the United States Department of Labor, Bureau of Labor Statistics, or any successor agency</replace>
       </codify:find-replace>
     </para>
-    <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-202" path="">D.C. Law 21-202</cite>: <cite doc="D.C. Law 21-202" path="§3">§ 3 of D.C. Law 21-202</cite> provided that the change made to this section by <cite doc="D.C. Law 21-202" path="§2">§ 2 of D.C. Law 21-202</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+    <codify:not-funded-anno applicability-path="§3"/>
   </section>
   <section>
     <codify:ignore/>

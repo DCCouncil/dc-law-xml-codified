@@ -20,14 +20,6 @@
       <num>4032</num>
       <codified:stub doc="D.C. Code" path="§1-325.35"/>
     </section>
-    <codify:create-sub-container doc="D.C. Code" path="38|1B" num-value="I" prefix-value="Subchapter" heading-value="General" history="false"/>
-    <codify:insert doc="D.C. Code" path="38|1B" after="I" history="false">
-      <container>
-        <prefix>Subchapter</prefix>
-        <num>II</num>
-        <heading>My School DC EdFest.</heading>
-      </container>
-    </codify:insert>
     <container>
       <prefix>SUBTITLE</prefix>
       <num>M</num>
@@ -37,9 +29,7 @@
         <text>This subtitle may be cited as the “My School DC EdFest Sponsorship and Advertising Act of 2015”.</text>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="38|1B|II" num-value="38-196.01"/>
         <num>4122</num>
-        <heading codify:value="My School DC EdFest sponsorship and advertising."/>
         <para>
           <num>(a)</num>
           <text>Notwithstanding any other provision of law, the Deputy Mayor for Education may enter into one or more written agreements for advertisements and sponsorships to fund My School DC EdFest, an annual citywide public school fair.</text>
@@ -62,14 +52,11 @@
         </para>
         <para>
           <num>(f)</num>
-          <text>The Deputy Mayor for Education shall keep an accounting of all goods, services, and funds received pursuant to this section and shall submit to the Mayor and to the Council of the District of Columbia a report accounting for all goods, services, and funds received pursuant to this section by April 30 of each year.</text>
-          <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4072|(a)" type="History"/>
+          <text>The Deputy Mayor for Education shall keep an accounting of all goods, services, and funds received pursuant to this section and shall submit to the Mayor and to the Council of the District of Columbia a report accounting for all goods, services, and funds received pursuant to this section by December 31st of each year.</text>
         </para>
-        <para>
-          <num>(g)</num>
-          <text>The Chief Financial Officer shall deposit all cash proceeds received from advertisements and sponsorships pursuant to this section into the Common Lottery Board Fund established pursuant to <code-cite doc="D.C. Law 17-9" path="§206">section 206 of the Department of Education Establishment Act of 2007, effective February 26, 2015 (D.C. Law 20-155; D.C. Official Code § 38-195)</code-cite>.</text>
-          <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§4072|(b)" type="History"/>
-        </para>
+        <codify:annotation doc="D.C. Code" path="§38-191" type="Editor's Notes" history="false">
+          TODO
+        </codify:annotation>
       </section>
     </container>
   </container>

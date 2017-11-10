@@ -24,7 +24,7 @@
   <section codify:doc="D.C. Code">
     <num>2</num>
     <text>The Human Rights Act of 1977, effective December 13, 1977 (D.C. Law 2-38; D.C. Official Code § 2-1401.01 <em>et seq</em>.), is amended as follows:</text>
-    <para codify:path="§2-1402.11" codify:applicability="pending">
+    <para codify:path="§2-1402.11">
       <num>(a)</num>
       <text>Section 211 (D.C. Official Code § 2-1402.11) is amended as follows:</text>
       <para codify:path="(a)">
@@ -128,9 +128,9 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" path="§2-1402.11">Applicability of <cite doc="D.C. Law 21-256" path="">D.C. Law 21-256</cite>: <cite doc="D.C. Law 21-256" path="§4">§ 4 of D.C. Law 21-256</cite> provided that the change made to this section by <cite doc="D.C. Law 21-256" path="§2|(a)">§ 2(a) of D.C. Law 21-256</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno path="§2-1402.11" applicability-path="§4"/>
     </para>
-    <para codify:path="§2-1403.13|(a)" codify:applicability="pending">
+    <para codify:path="§2-1403.13|(a)">
       <num>(b)</num>
       <text>Section 313(a) (D.C. Official Code § 2-1403.13(a)) is amended as follows:</text>
       <para codify:path="(1)">
@@ -153,10 +153,10 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability" path="§2-1403.13">Applicability of <cite doc="D.C. Law 21-256" path="">D.C. Law 21-256</cite>: <cite doc="D.C. Law 21-256" path="§4">§ 4 of D.C. Law 21-256</cite> provided that the change made to this section by <cite doc="D.C. Law 21-256" path="§2|(b)">§ 2(b) of D.C. Law 21-256</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno path="§2-1403.13" applicability-path="§4"/>
     </para>
   </section>
-  <section codify:doc="D.C. Code" codify:path="§2-1411.03" codify:applicability="notfunded">
+  <section codify:doc="D.C. Code" codify:path="§2-1411.03">
     <num>3</num>
     <text>Section 204 of the Office of Human Rights Establishment Act of 1999, effective October 20, 1999 (D.C. Law 13-38; D.C. Official Code § 2-1411.03), is amended as follows:</text>
     <para codify:path="(8)">
@@ -187,7 +187,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation codify:applicability="effective" type="Applicability" path="§2-1411.03">Applicability of <cite doc="D.C. Law 21-256" path="">D.C. Law 21-256</cite>: <cite doc="D.C. Law 21-256" path="§4">§ 4 of D.C. Law 21-256</cite> provided that the change made to this section by <cite doc="D.C. Law 21-256" path="§3">§ 3 of D.C. Law 21-256</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+    <codify:not-funded-anno path="§2-1411.03" applicability-path="§4"/>
   </section>
   <section>
     <num>4</num>

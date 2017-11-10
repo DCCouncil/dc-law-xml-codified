@@ -250,7 +250,7 @@
               <text>complies with all requests for data and information regarding the reporting requirements described in <code-cite doc="D.C. Code" path="§38-1853.10">section 3010</code-cite>.</text>
               <codify:find-replace path="§38-1853.07|(a)|(4)|(I)" count="1">
                 <find>
-                  <text>complies with all requests for data and information regarding the reporting requirements described in § <cite path="§38-1853.10" doc="Pub. L. 115-31">38-1853.10</cite>.</text>
+                  <text>complies with all requests for data and information regarding the reporting requirements described in § <cite path="§38-1853.10">38-1853.10</cite>.</text>
                 </find>
                 <replace>
                   <text>[OMITTED]</text>
@@ -419,7 +419,7 @@
             <codify:repeal path="(c)"/>
             <codify:find-replace path="(c)" count="1">
               <find>Repealed.</find>
-              <replace>An eligible entity receiving a grant under § <cite path="§38-1853.04" doc="Pub. L. 115-31">38-1853.04</cite>(a) may use not more than 1 percent of the amount provided under the grant each year for expenses to provide tutoring services to participating eligible students that need additional academic assistance. If there are insufficient funds to provide tutoring services to all such students in a year, the eligible entity shall give priority in such year to students who previously attended an elementary school or secondary school that was implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) [20 U.S.C. § 6311(d)] of the Elementary and Secondary Education Act of 1965.</replace>
+              <replace>An eligible entity receiving a grant under § <cite path="§38-1853.04">38-1853.04</cite>(a) may use not more than 1 percent of the amount provided under the grant each year for expenses to provide tutoring services to participating eligible students that need additional academic assistance. If there are insufficient funds to provide tutoring services to all such students in a year, the eligible entity shall give priority in such year to students who previously attended an elementary school or secondary school that was implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) [20 U.S.C. § 6311(d)] of the Elementary and Secondary Education Act of 1965.</replace>
             </codify:find-replace>
             <codify:repeal path="(d)"/>
             <codify:find-replace path="(d)" count="1">

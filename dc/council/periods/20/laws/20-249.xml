@@ -31,7 +31,7 @@
         <find>this section and place notice of the application in the District of Columbia Register</find>
         <replace>this section and <code-cite path="§9c">section 9c</code-cite>, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office</replace>
       </codify:find-replace>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 20-249" path="">D.C. Law 20-249</cite>: <cite doc="D.C. Law 20-249" path="§3">§ 3 of D.C. Law 20-249</cite> provided that the change made to this section by <cite doc="D.C. Law 20-249" path="§2|(a)">§ 2(a) of D.C. Law 20-249</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§3"/>
     </para>
     <para codify:path="§6|(a)">
       <num>(b)</num>
@@ -40,7 +40,7 @@
         <find>this section and place notice of the application in the District of Columbia Register</find>
         <replace>this section and <code-cite path="§9c">section 9c</code-cite>, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office</replace>
       </codify:find-replace>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 20-249" path="">D.C. Law 20-249</cite>: <cite doc="D.C. Law 20-249" path="§3">§ 3 of D.C. Law 20-249</cite> provided that the change made to this section by <cite doc="D.C. Law 20-249" path="§2|(b)">§ 2(b) of D.C. Law 20-249</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§3"/>
     </para>
     <para codify:path="§7|(a)">
       <num>(c)</num>
@@ -49,7 +49,7 @@
         <find>this section and place notice of the application in the District of Columbia Register</find>
         <replace>this section and <code-cite path="§9c">section 9c</code-cite>, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office</replace>
       </codify:find-replace>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 20-249" path="">D.C. Law 20-249</cite>: <cite doc="D.C. Law 20-249" path="§3">§ 3 of D.C. Law 20-249</cite> provided that the change made to this section by <cite doc="D.C. Law 20-249" path="§2|(c)">§ 2(c) of D.C. Law 20-249</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§3"/>
     </para>
     <para codify:path="§8|(a)">
       <num>(d)</num>
@@ -58,7 +58,7 @@
         <find>this section and shall place notice of the application in the District of Columbia Register</find>
         <replace>this section and <code-cite path="§9c">section 9c</code-cite>, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office</replace>
       </codify:find-replace>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 20-249" path="">D.C. Law 20-249</cite>: <cite doc="D.C. Law 20-249" path="§3">§ 3 of D.C. Law 20-249</cite> provided that the change made to this section by <cite doc="D.C. Law 20-249" path="§2|(d)">§ 2(d) of D.C. Law 20-249</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§3"/>
     </para>
     <para codify:path="§9">
       <num>(e)</num>
@@ -103,7 +103,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 20-249" path="">D.C. Law 20-249</cite>: <cite doc="D.C. Law 20-249" path="§3">§ 3 of D.C. Law 20-249</cite> provided that the change made to this section by <cite doc="D.C. Law 20-249" path="§2|(e)">§ 2(e) of D.C. Law 20-249</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno applicability-path="§3"/>
     </para>
     <para>
       <num>(f)</num>
@@ -158,17 +158,32 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation codify:applicability="effective" type="Applicability" path="§9c">Applicability of <cite doc="D.C. Law 20-249" path="">D.C. Law 20-249</cite>: <cite doc="D.C. Law 20-249" path="§3">§ 3 of D.C. Law 20-249</cite> provided that the change made to this section by <cite doc="D.C. Law 20-249" path="§2|(f)">§ 2(f) of D.C. Law 20-249</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+      <codify:not-funded-anno path="§9c" applicability-path="§3"/>
     </para>
-    <annotation doc="D.C. Law 21-160" path="§7005" type="Applicability" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7005">Section 7005 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 20-249" path="§3">§ 3 of D.C. Law 20-249</cite>. Therefore the changes made to this section by D.C. Law 20-249 have been given effect.
-        </annotation>
   </section>
   <section>
-    <reason>Repealed</reason>
     <num>3</num>
     <heading>Applicability.</heading>
-    <text>Repealed.</text>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7005" type="History"/>
+    <para>
+      <num>(a)</num>
+      <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability date="notfunded" history="false"/>
+    </para>
+    <para>
+      <num>(b)</num>
+      <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
+    </para>
+    <para>
+      <num>(c)</num>
+      <para>
+        <num>(1)</num>
+        <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
+      </para>
+    </para>
   </section>
   <section>
     <num>4</num>
