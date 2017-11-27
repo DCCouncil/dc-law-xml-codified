@@ -312,11 +312,11 @@
   <container>
     <prefix>Chapter</prefix>
     <num>6A</num>
-    <heading>Hospital Assessments.</heading>
+    <heading>Medicaid Hospital Outpatient Supplemental Payments and Medicaid Hospital Inpatient Rate Supplements.</heading>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
-      <heading>Hospital Assessments.</heading>
+      <heading>2013 - 2014 Medicaid Hospital Inpatient Rate Supplement. [Expired]</heading>
       <xi:include href="./sections/44-631.xml"/>
       <xi:include href="./sections/44-632.xml"/>
       <xi:include href="./sections/44-633.xml"/>
@@ -329,54 +329,35 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
-      <heading>Medicaid Hospital Outpatient Supplemental Payment.</heading>
-      <xi:include href="./sections/44-661.11.xml"/>
-      <xi:include href="./sections/44-661.12.xml"/>
-      <xi:include href="./sections/44-661.13.xml"/>
-      <xi:include href="./sections/44-661.14.xml"/>
-      <xi:include href="./sections/44-661.15.xml"/>
-      <xi:include href="./sections/44-661.16.xml"/>
-      <xi:include href="./sections/44-661.17.xml"/>
-      <xi:include href="./sections/44-661.18.xml"/>
-      <xi:include href="./sections/44-661.19.xml"/>
+      <heading>2013 - 2014 Medicaid Hospital Outpatient Supplemental Payment. [Expired]</heading>
+      <xi:include href="./sections/44-651.xml"/>
+      <xi:include href="./sections/44-652.xml"/>
+      <xi:include href="./sections/44-653.xml"/>
+      <xi:include href="./sections/44-654.xml"/>
+      <xi:include href="./sections/44-655.xml"/>
+      <xi:include href="./sections/44-656.xml"/>
+      <xi:include href="./sections/44-657.xml"/>
+      <xi:include href="./sections/44-658.xml"/>
+      <xi:include href="./sections/44-659.xml"/>
     </container>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>6B</num>
-    <heading>Medicaid Hospital Outpatient Supplemental Payment.</heading>
-    <xi:include href="./sections/44-651.xml"/>
-    <xi:include href="./sections/44-652.xml"/>
-    <xi:include href="./sections/44-653.xml"/>
-    <xi:include href="./sections/44-654.xml"/>
-    <xi:include href="./sections/44-655.xml"/>
-    <xi:include href="./sections/44-656.xml"/>
-    <xi:include href="./sections/44-657.xml"/>
-    <xi:include href="./sections/44-658.xml"/>
-    <xi:include href="./sections/44-659.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>6C</num>
-    <heading>Medicaid Hospital Outpatient Supplemental Payment.</heading>
-    <xi:include href="./sections/44-661.01.xml"/>
-    <xi:include href="./sections/44-661.02.xml"/>
-    <xi:include href="./sections/44-661.03.xml"/>
-    <xi:include href="./sections/44-661.04.xml"/>
-    <xi:include href="./sections/44-661.05.xml"/>
-    <xi:include href="./sections/44-661.06.xml"/>
-    <xi:include href="./sections/44-661.07.xml"/>
-    <xi:include href="./sections/44-661.08.xml"/>
-    <xi:include href="./sections/44-661.09.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>6D</num>
-    <heading>Medicaid Hospital Inpatient Rate Supplement.</heading>
     <container>
       <prefix>Subchapter</prefix>
-      <num>I</num>
-      <heading>2015-2016 Supplement.</heading>
+      <num>III</num>
+      <heading>2015 - 2016 Medicaid Hospital Outpatient Supplemental Payment. [Expired]</heading>
+      <xi:include href="./sections/44-661.01.xml"/>
+      <xi:include href="./sections/44-661.02.xml"/>
+      <xi:include href="./sections/44-661.03.xml"/>
+      <xi:include href="./sections/44-661.04.xml"/>
+      <xi:include href="./sections/44-661.05.xml"/>
+      <xi:include href="./sections/44-661.06.xml"/>
+      <xi:include href="./sections/44-661.07.xml"/>
+      <xi:include href="./sections/44-661.08.xml"/>
+      <xi:include href="./sections/44-661.09.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IV</num>
+      <heading>2015 - 2016 Medicaid Hospital Inpatient Rate Supplement. [Expired]</heading>
       <xi:include href="./sections/44-662.01.xml"/>
       <xi:include href="./sections/44-662.02.xml"/>
       <xi:include href="./sections/44-662.03.xml"/>
@@ -387,17 +368,31 @@
       <xi:include href="./sections/44-662.08.xml"/>
     </container>
     <container>
-      <prefix>SUBCHAPTER</prefix>
-      <num>II</num>
-      <heading>2016-2017 Supplement.</heading>
-      <xi:include href="./sections/44-662.11.xml"/>
-      <xi:include href="./sections/44-662.12.xml"/>
-      <xi:include href="./sections/44-662.13.xml"/>
-      <xi:include href="./sections/44-662.14.xml"/>
-      <xi:include href="./sections/44-662.15.xml"/>
-      <xi:include href="./sections/44-662.16.xml"/>
-      <xi:include href="./sections/44-662.17.xml"/>
-      <xi:include href="./sections/44-662.18.xml"/>
+      <prefix>Subchapter</prefix>
+      <num>V</num>
+      <heading>2016 - 2017 Medicaid Hospital Outpatient Supplemental Payment.</heading>
+      <xi:include href="./sections/44-663.11.xml"/>
+      <xi:include href="./sections/44-663.12.xml"/>
+      <xi:include href="./sections/44-663.13.xml"/>
+      <xi:include href="./sections/44-663.14.xml"/>
+      <xi:include href="./sections/44-663.15.xml"/>
+      <xi:include href="./sections/44-663.16.xml"/>
+      <xi:include href="./sections/44-663.17.xml"/>
+      <xi:include href="./sections/44-663.18.xml"/>
+      <xi:include href="./sections/44-663.19.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VI</num>
+      <heading>2016-2017 Medicaid Hospital Inpatient Rate Supplement.</heading>
+      <xi:include href="./sections/44-663.11.xml"/>
+      <xi:include href="./sections/44-663.12.xml"/>
+      <xi:include href="./sections/44-663.13.xml"/>
+      <xi:include href="./sections/44-663.14.xml"/>
+      <xi:include href="./sections/44-663.15.xml"/>
+      <xi:include href="./sections/44-663.16.xml"/>
+      <xi:include href="./sections/44-663.17.xml"/>
+      <xi:include href="./sections/44-663.18.xml"/>
     </container>
   </container>
   <container>
