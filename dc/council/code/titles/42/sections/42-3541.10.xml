@@ -5,15 +5,15 @@
   <para>
     <num>(a)</num>
     <text><cite path="42|35B">This chapter</cite> shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-    <codify:applicability doc="D.C. Law 21-259" path="§2" date="notfunded" history="false"/>
-    <codify:applicability doc="D.C. Law 21-259" path="§3" date="notfunded" history="false"/>
-    <codify:applicability doc="D.C. Law 21-259" path="§4" date="notfunded" history="false"/>
-    <codify:applicability doc="D.C. Law 21-259" path="§5" date="notfunded" history="false"/>
-    <codify:applicability doc="D.C. Law 21-259" path="§6" date="notfunded" history="false"/>
-    <codify:applicability doc="D.C. Law 21-259" path="§7" date="notfunded" history="false"/>
-    <codify:applicability doc="D.C. Law 21-259" path="§8" date="notfunded" history="false"/>
-    <codify:applicability doc="D.C. Law 21-259" path="§9" date="notfunded" history="false"/>
-    <codify:applicability doc="D.C. Law 21-259" path="§10" date="notfunded" history="false"/>
+    <codify:applicability doc="D.C. Law 21-259" path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3541.01"/>
+    <codify:applicability doc="D.C. Law 21-259" path="§3" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3541.02"/>
+    <codify:applicability doc="D.C. Law 21-259" path="§4" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3541.03"/>
+    <codify:applicability doc="D.C. Law 21-259" path="§5" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3541.04"/>
+    <codify:applicability doc="D.C. Law 21-259" path="§6" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3541.05"/>
+    <codify:applicability doc="D.C. Law 21-259" path="§7" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3541.06"/>
+    <codify:applicability doc="D.C. Law 21-259" path="§8" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3541.07"/>
+    <codify:applicability doc="D.C. Law 21-259" path="§9" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3541.08"/>
+    <codify:applicability doc="D.C. Law 21-259" path="§10" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3541.09"/>
   </para>
   <para>
     <num>(b)</num>
@@ -31,6 +31,7 @@
     </para>
   </para>
   <annotations>
+    <annotation app="2017-04-07" doc="D.C. Law 21-259" eff="2017-04-07" path="" type="History" display="false"/>
     <annotation app="2017-04-07" doc="D.C. Law 21-259" eff="2017-04-07" path="§11" type="History"/>
   </annotations>
 </section>

@@ -81,7 +81,7 @@
       <para>
         <num>(H)</num>
         <text>complies with all requests for data and information regarding the reporting requirements described in <cite path="§38-1853.10">§ 38-1853.10</cite>.</text>
-        <codify:find-replace path="§38-1853.07|(a)|(4)|(I)" count="1">
+        <codify:find-replace path="§38-1853.07|(a)|(4)|(I)" count="1" codified:doc="D.C. Code" codified:path="§38-1853.07">
           <find>
             <text>complies with all requests for data and information regarding the reporting requirements described in § <cite path="§38-1853.10" doc="Pub. L. 115-31">38-1853.10</cite>.</text>
           </find>
@@ -236,6 +236,7 @@
     <annotation doc="Pub. L. 114-254" path="§101|(3)" type="Editor's Notes" history="false" app="2016-12-10" eff="2016-12-10">
               For effective date of amendments made by Pub. L. 114-254, see section 162(d) of Pub. L. 114-223 as added by 101(3) of Pub. L. 114-254.
             </annotation>
+    <annotation app="2016-12-10" doc="Pub. L. 114-254" eff="2016-12-10" path="§101|(3)" type="History" display="false"/>
     <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§907|(b)|(1)" type="History"/>
     <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§907|(a)|(2)" type="History"/>
     <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§907|(a)|(3)" type="History"/>
@@ -246,6 +247,7 @@
     <annotation doc="Pub. L. 115-31" path="§901|(a)|(b)" type="Editor's Notes" history="false" app="2017-05-05" eff="2017-05-05">
            Section 901(b) of Div. E, Title IX, of Public Law 115-31 provided that: "Except as otherwise expressly provided, whenever in this title an amendment is expressed in terms of an amendment to or repeal of a section or other provision, the reference shall be considered to be made to that section or other provision of the Scholarships for Opportunity and Results Act (division C of Public Law 112-10; sec. 38-1853.01 et seq., D.C. Official Code)."
           </annotation>
+    <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§901|(a)|(b)" type="History" display="false"/>
     <annotation app="2017-05-05" doc="Pub. L. 115-31" eff="2017-05-05" path="§907|(c)|(2)" type="History"/>
   </annotations>
   <para>

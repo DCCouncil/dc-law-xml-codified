@@ -6,11 +6,18 @@
   <text>Not Funded.</text>
   <annotations>
     <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
+    <annotation type="Effect of Amendments" display="false">The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
+    <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="VI" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 15-194" path="§654" app="2004-09-30" eff="2004-09-30">Applicability of <cite doc="D.C. Law 15-194" path="">D.C. Law 15-194</cite>: <cite doc="D.C. Law 15-194" path="§656">§ 656 of D.C. Law 15-194, as added by § 2 of D.C. Law 19-311</cite> provided that the the addition of this section by <cite doc="D.C. Law 15-194" path="§654">§ 654 of D.C. Law 15-194, as added by § 2 of D.C. Law 19-311</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
     <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="§654" type="History"/>
+    <annotation app="2016-10-01" doc="D.C. Law 15-194" eff="2004-09-30" path="§656|(a)" type="History" display="false"/>
+    <annotation app="2016-10-01" doc="D.C. Law 15-194" eff="2004-09-30" path="§656|(b)|(1)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 15-194" eff="2004-09-30" path="§654" type="History"/>
     <annotation doc="D.C. Law 15-194" path="§656|(b)|(1)" history="false" type="Applicability" app="2016-10-01" eff="2004-09-30"><cite doc="D.C. Law 21-160" path="§3052|(d)">Section 3052(d) of Law 21-160</cite> amended section 656 of D.C. Law 19-311, retaining the applicability restriction affecting this section, therefore the creation of this section by <cite doc="D.C. Law 19-311" path="§2">section 2 of D.C. Law 19-311</cite> has not been implemented. 
                   </annotation>
     <annotation app="2013-05-01" doc="D.C. Law 19-311" eff="2013-05-01" path="§2" prefix="as added" type="History"/>
+    <annotation app="2013-05-01" doc="D.C. Law 19-311" eff="2013-05-01" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 19-311" eff="2013-05-01" path="§2" prefix="as added" type="History" display="false"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3052|(d)" type="History" display="false"/>
   </annotations>
 </section>
