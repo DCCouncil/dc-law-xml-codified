@@ -1,14 +1,9 @@
 {
-  "REPOS": [
-    {
-      "APPVEYOR_BUILD_VERSION": "1.0.1507",
-      "APPVEYOR_PROJECT_NAME": "dc-law-xml",
-      "COMMIT": "5acdf4829c1737c62a974a997c988e45073ada7b",
-      "DATE": "2017-12-14 15:40:05",
-      "REPO": "dc-law-xml",
-      "TOOLS_COMMIT": "dab93daccfbf71c2f4dce3e0f07f3e6c50511507",
-      "TOOLS_REPO": "ol-us-dc"
-    }
-  ],
-  "TITLE": "dc-law-xml"
+  "APPVEYOR_BUILD_VERSION": "1.0.1508",
+  "APPVEYOR_PROJECT_NAME": "dc-law-xml",
+  "DATE": "2017-12-14 20:05:20",
+  "dc-law-xml": "b543546abaa45f3de6077945d569147c4fa5c100",
+  "open-law-core": "f44e39697882248b4b17a8f727d5e3abd389f015",
+  "open-law-publish-client": null,
+  "open-law-us-dc": "c44414997fbfb0f32a76984fe09f8be413949d42"
 }
