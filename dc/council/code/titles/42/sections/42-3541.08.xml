@@ -1,14 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>42-3541.08</num>
   <heading>Immunity.</heading>
-  <text>Not Funded.</text>
+  <text>A housing provider shall have immunity from any claims related to actual or constructive knowledge of an applicant's pending criminal accusation or criminal conviction obtained as a result of an inquiry under <cite path="42|35B">this chapter</cite>; provided, that the applicant became a tenant or occupant of the housing provider's housing accommodation.</text>
+  <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-259" path="">D.C. Law 21-259</cite>: <cite doc="D.C. Law 21-259" path="§11">§ 11 of D.C. Law 21-259</cite> provided that the creation of this section by <cite doc="D.C. Law 21-259" path="§9">§ 9 of D.C. Law 21-259</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
   <annotations>
     <annotation app="2017-04-07" doc="D.C. Law 21-259" eff="2017-04-07" path="" type="History" display="false"/>
-    <annotation app="2017-04-07" doc="D.C. Law 21-259" eff="2017-04-07" path="§11|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 21-259" eff="2017-04-07" path="§9" type="History"/>
-    <annotation type="Applicability" app="2017-04-07" eff="2017-04-07" doc="D.C. Law 21-259" path="§9">Applicability of <cite doc="D.C. Law 21-259" path="">D.C. Law 21-259</cite>: <cite doc="D.C. Law 21-259" path="§11">§ 11 of D.C. Law 21-259</cite> provided that the creation of this section by <cite doc="D.C. Law 21-259" path="§9">§ 9 of D.C. Law 21-259</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
     <annotation app="2017-04-07" doc="D.C. Law 21-259" eff="2017-04-07" path="§9" type="History"/>
+    <annotation type="Applicability" app="2017-04-07" eff="2017-04-07" doc="D.C. Law 21-259" path="§9">Applicability of <cite doc="D.C. Law 21-259" path="">D.C. Law 21-259</cite>: <cite doc="D.C. Law 21-259" path="§11">§ 11 of D.C. Law 21-259</cite> provided that the creation of this section by <cite doc="D.C. Law 21-259" path="§9">§ 9 of D.C. Law 21-259</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
+    <annotation doc="D.C. Law 22-33" path="§7031" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13">
+              Section 7031 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-259" path="§11">§ 11 of D.C. Law 21-259</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-259">D.C. Law 21-259</cite> has been given effect.
+            </annotation>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7031" type="History" display="false"/>
   </annotations>
 </section>

@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>21-2221.12</num>
   <heading>Penalties.</heading>
-  <text>[Not funded].</text>
+  <para>
+    <num>(a)</num>
+    <text>A person who, without authorization by the patient or the patient's authorized representative, willfully alters, forges, conceals, or destroys a MOST Form, an amendment or revocation of a MOST Form, or any other evidence or document reflecting the patient's desires and interests, with the intent or effect of causing a withholding or withdrawal of life-sustaining procedures or of artificially administered nutrition and hydration that hastens the death of the patient commits a Class A felony.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Except as provided in subsection (a) of this section, a person who, without authorization by the patient or the patient's authorized representative, willfully alters, forges, conceals, or destroys a MOST Form, an amendment or revocation of a MOST Form, or any other evidence or document reflecting the patient's desires and interests, with the intent or effect of impacting any decision regarding the provision of a health care service, treatment, or procedure shall be fined not more than the amount set forth in § 22-3571.01, or imprisoned for not more than 180 days, or both.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 21-72" type="History">Feb. 27, 2016, D.C. Law 21-72, § 2(d), 63 DCR 208</annotation>
     <annotation type="Applicability">Applicability of <cite doc="D.C. Law 21-72">D.C. Law 21-72</cite>: Section 4 of <cite doc="D.C. Law 21-72">D.C. Law 21-72</cite> provided (a) that the act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan; (b) that the Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification; and (c) that the Budget Director shall cause the notice of the certification to be published in the District of Columbia Register and that the date of publication of the notice of the certification shall not affect the applicability of the act.</annotation>
+    <annotation app="2016-02-27" doc="D.C. Law 21-72" eff="2016-02-27" path="§2|(d)" type="History" display="false"/>
+    <annotation doc="D.C. Law 22-33" path="§7011" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13">Section 7011 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-72" path="§4">§ 4 of D.C. Law 21-72</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-72">D.C. Law 21-72</cite> has been given effect.</annotation>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7011" type="History" display="false"/>
   </annotations>
 </section>

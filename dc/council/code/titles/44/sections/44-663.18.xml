@@ -1,15 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Expired</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:expire="">
   <num>44-663.18</num>
-  <heading>Rules.</heading>
-  <text>Expired.</text>
+  <heading>Sunset.</heading>
+  <text><cite path="44|6A|VI">This subchapter</cite> shall expire on September 30, 2017.</text>
+  <codify:expire doc="D.C. Law 21-160" path="V|H" date="2017-09-30" codified:doc="D.C. Code" codified:path="§44-663.11"/>
   <annotations>
-    <annotation type="Expiration of Law">
-          Section 5070 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
-        </annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="V" type="History" display="false"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5070" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5069" type="History"/>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5079" type="History"/>
   </annotations>
 </section>

@@ -1,16 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>5-132.31</num>
   <heading>Community Crime Prevention Team Program.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>There is established within the Metropolitan Police Department ("MPD") a Community Crime Prevention Team Program ("Program") to reduce crime and increase access to social services by enhancing the coordination between law enforcement and health and human services agencies.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Under the Program, the MPD shall, in coordination with the Department of Behavioral Health ("DBH") and the Department of Human Services ("DHS"), pair mental and behavioral health clinicians and outreach specialists with MPD officers in teams, in order to immediately identify individuals in need of assistance and connect those who may be impacted by homelessness, mental illness, or substance abuse, with available services.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>In addition to connecting individuals in need of assistance with available services, mental and behavioral health clinicians and outreach specialists who participate in the Program shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Make the MPD aware of recurring issues identified in each police district;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Identify any potential improvements in police training or procedures relating to police interactions with individuals impacted by homelessness, mental or behavioral health issues, or substance abuse; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Identify individuals who frequently interact with police, are frequent mental health consumers, or have suffered from chronic homelessness, and ensure that those individuals are connected to social services.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>No later than October 1, 2016, or 6 months after receiving funding, whichever is later, the MPD shall establish no fewer than 5 teams pursuant to subsection (b) of this section; provided, that at least one team shall be on duty at any time.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Beginning January 31, 2017, and every January 31 thereafter, the MPD shall collect data on the number and type of referrals for service and the outcomes of the referrals that occur pursuant to this section in that reporting period and in the aggregate, and issue a report to the Mayor and the Council on the Program’s activities and referrals.</text>
+  </para>
   <annotations>
     <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="I" type="History" display="false"/>
     <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="I|C" type="History" display="false"/>
-    <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§901|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 21-125" eff="2016-06-30" path="§105" type="History"/>
-    <annotation type="Applicability" app="2016-06-30" eff="2016-06-30" doc="D.C. Law 21-125" path="§105">Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§105">§ 105 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
     <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="§105" type="History"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3102|(b)" type="History" display="false"/>
+    <annotation type="Applicability" app="2016-06-30" eff="2016-06-30" doc="D.C. Law 21-125" path="§105">Applicability of <cite doc="D.C. Law 21-125" path="">D.C. Law 21-125</cite>: <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite> provided that the change made to this section by <cite doc="D.C. Law 21-125" path="§105">§ 105 of D.C. Law 21-125</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
+    <annotation doc="D.C. Law 22-33" path="§7014" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13">Section 7014 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-125" path="§901">§ 901 of D.C. Law 21-125</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-125">D.C. Law 21-125</cite> have been given effect.</annotation>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7014" type="History" display="false"/>
   </annotations>
 </section>

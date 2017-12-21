@@ -249,54 +249,35 @@
     </para>
     <para>
       <num>(10)</num>
-      <text>In the case of taxable years beginning after December 31, 2015, there is imposed on the taxable income of every resident a tax determined in accordance with the following table:</text>
-      <para>
-        <num>(A)</num>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td>Not over $10,000</td>
-                <td>4% of the taxable income.</td>
-              </tr>
-              <tr>
-                <td>Over $10,000 but not over $40,000</td>
-                <td>$400, plus 6% of the excess over $ 10,000; and</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Subject to availability of funding and in accordance with § <cite path="§47-181">47-181</cite>,</text>
-        <text>
-          <table>
-            <tbody>
-              <tr>
-                <td>Over $ 40,000 but not over $ 60,000</td>
-                <td>$2,200, plus 6.5% of the excess over $ 40,000.</td>
-              </tr>
-              <tr>
-                <td>Over $ 60,000 but not over $ 350,000</td>
-                <td>$3,500, plus 8.5% of the excess over $ 60,000.</td>
-              </tr>
-              <tr>
-                <td>Over $350,000 but not over $1,000,000</td>
-                <td>$28,150, plus 8.75% of the excess above $350,000.</td>
-              </tr>
-              <tr>
-                <td>Over $1,000,000</td>
-                <td>$85,025, plus 8.95% of the excess above $1,000,000.</td>
-              </tr>
-            </tbody>
-          </table>
-        </text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Paragraph (9) of this subsection shall continue to apply for taxable years beginning after December 31, 2015, except where superseded by any funded provision of § <cite path="§47-181">47-181</cite>, until subparagraph (B) of this paragraph is fully applicable.</text>
-      </para>
+      <text>In the case of taxable years beginning after December 31, 2015, there is imposed on the taxable income of every resident a tax determined in accordance with the following table:".</text>
+      <text>
+        <table>
+          <tr>
+            <th>Not over $10,000</th>
+            <th>4% of the taxable income.</th>
+          </tr>
+          <tr>
+            <td>Over $10,000 but not over $40,000</td>
+            <td>$400, plus 6% of the excess over $ 10,000.</td>
+          </tr>
+          <tr>
+            <td>Over $ 40,000 but not over $ 60,000</td>
+            <td>$2,200, plus 6.5% of the excess over $ 40,000.</td>
+          </tr>
+          <tr>
+            <td>Over $ 60,000 but not over $ 350,000</td>
+            <td>$3,500, plus 8.5% of the excess over $ 60,000.</td>
+          </tr>
+          <tr>
+            <td>Over $350,000 but not over $1,000,000</td>
+            <td>$28,150, plus 8.75% of the excess above $350,000.</td>
+          </tr>
+          <tr>
+            <td>Over $1,000,000</td>
+            <td>$85,025, plus 8.95% of the excess above $1,000,000.</td>
+          </tr>
+        </table>
+      </text>
     </para>
   </para>
   <para>
@@ -363,5 +344,10 @@
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 7022(c)(5) of the Fiscal Year 2015 Budget Support Emergency Act of 2014 (D.C. Act 20-377, July 14, 2014,  61 DCR 7598, 20 STAT 3696).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 7012(c)(5) of the Fiscal Year 2015 Budget Support Congressional Review Emergency Act of 2014 (D.C. Act 20-449, October 10, 2014,  61 DCR 10915, 20 STAT 4188).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 7012(c)(5) of the Fiscal Year 2015 Budget Support Second Congressional Review Emergency Act of 2014 (D.C. Act 20-566, January 9, 2015,  62 DCR 884, 21 STAT 541).</annotation>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7172|(c)" type="History"/>
+    <annotation doc="D.C. Law 22-33" path="§7174" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13">
+          Section 7174 of Law 22-33 provided that the changes made to this section by Law 22-33 shall apply as of January 1, 2018.
+        </annotation>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7174" type="History" display="false"/>
   </annotations>
 </section>

@@ -1,14 +1,61 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>50-1951.03</num>
   <heading>Publication of moving infraction data.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>To the extent available, the Mayor shall publish online, at least once per month, the following information related to all notices of infractions issued for moving infractions in the preceding month:</text>
+    <para>
+      <num>(1)</num>
+      <text>The date and time of the moving infraction;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The location, by ward, block or intersection, and coordinates, where the moving infraction occurred;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Police Service Area in which the moving infraction occurred;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The agency that issued the notice of infraction;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Whether the notice of infraction was issued in person or by use of the automated traffic enforcement program;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The provision of law violated;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The age of the driver of the motor vehicle;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>The jurisdiction from which the driver's license was issued;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>The jurisdiction in which the motor vehicle involved in the moving infraction is registered; and</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>The year, make, model, and type of the motor vehicle that committed the moving infraction.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>If complete data about a notice of infraction is not available at the time of publication, the Mayor shall publish the information that is available at the time of publication, and update the data as additional information becomes available.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the creation of this section by <cite doc="D.C. Law 21-155" path="§103">§ 103 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
   <annotations>
     <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
-    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§901|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 21-155" eff="2016-10-08" path="§103" type="History"/>
-    <annotation type="Applicability" app="2016-10-08" eff="2016-10-08" doc="D.C. Law 21-155" path="§103">Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the creation of this section by <cite doc="D.C. Law 21-155" path="§103">§ 103 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§103" type="History"/>
+    <annotation type="Applicability" app="2016-10-08" eff="2016-10-08" doc="D.C. Law 21-155" path="§103">Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the creation of this section by <cite doc="D.C. Law 21-155" path="§103">§ 103 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
+    <annotation doc="D.C. Law 22-33" path="§7015" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13">Section 7015 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-155">D.C. Law 21-155</cite> have been given effect.</annotation>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7015" type="History" display="false"/>
   </annotations>
 </section>

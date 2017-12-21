@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="D.C. Code" codify:path="|2|12|VI-A|B">
-  <reason>Not Funded</reason>
   <num>2-1212.21a</num>
   <heading>Limited tax incentive for existing establishment.</heading>
-  <text>Not Funded.</text>
+  <text>Notwithstanding the scope of exemptions provided by <cite path="§47-3802|(a)">§ 47-3802(a)</cite>, a grocery store that is located in census tract 94 on February 18, 2017, shall be eligible for the tax exemption provided pursuant to <cite path="§47-3802|(a)|(1)">§ 47-3802(a)(1)</cite> beginning with the tax year beginning October 1, 2016; provided, that the 10-year real property exemption period shall be deemed to have begun on January 1, 2015.</text>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 21-204" path="§2|(b)" codified:doc="D.C. Code" codified:path="§2-1212.21a">Applicability of <cite doc="D.C. Law 21-204" path="">D.C. Law 21-204</cite>: <cite doc="D.C. Law 21-204" path="§4">§ 4 of D.C. Law 21-204</cite> provided that the creation of this section by <cite doc="D.C. Law 21-204" path="§2|(b)">§ 2(b) of D.C. Law 21-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 18-353" type="History" path="§201a">Apr. 8, 2011, D.C. Law 18-353, § 201a</annotation>
     <annotation type="Applicability" doc="D.C. Law 21-204" path="§2|(b)" app="2017-02-18" eff="2017-02-18">Applicability of <cite doc="D.C. Law 21-204" path="">D.C. Law 21-204</cite>: <cite doc="D.C. Law 21-204" path="§4">§ 4 of D.C. Law 21-204</cite> provided that the creation of this section by <cite doc="D.C. Law 21-204" path="§2|(b)">§ 2(b) of D.C. Law 21-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
     <annotation app="2017-02-18" doc="D.C. Law 21-204" eff="2017-02-18" path="§2|(b)" type="History"/>
-    <annotation app="2017-02-18" doc="D.C. Law 21-204" eff="2017-02-18" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 21-204" eff="2017-02-18" path="§2|(b)" prefix="as added" type="History"/>
+    <annotation app="2017-02-18" doc="D.C. Law 21-204" eff="2017-02-18" path="§2|(b)" prefix="as added" type="History"/>
+    <annotation doc="D.C. Law 22-33" path="§7020" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13">
+              Section 7020 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-204" path="§4">§ 4 of D.C. Law 21-204</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-204">D.C. Law 21-204</cite> has been given effect.
+            </annotation>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7020" type="History" display="false"/>
   </annotations>
 </section>
