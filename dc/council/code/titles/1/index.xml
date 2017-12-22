@@ -572,7 +572,6 @@
         <xi:include href="./sections/1-301.86.xml"/>
         <xi:include href="./sections/1-301.86a.xml"/>
         <xi:include href="./sections/1-301.86b.xml"/>
-        <xi:include href="./sections/1-301.86c.xml"/>
         <xi:include href="./sections/1-301.87.xml"/>
         <xi:include href="./sections/1-301.88.xml"/>
         <xi:include href="./sections/1-301.88a.xml"/>
@@ -1041,7 +1040,6 @@
         <xi:include href="./sections/1-325.153.xml"/>
         <xi:include href="./sections/1-325.153a.xml"/>
         <xi:include href="./sections/1-325.153b.xml"/>
-        <xi:include href="./sections/1-325.153c.xml"/>
         <xi:include href="./sections/1-325.154.xml"/>
         <xi:include href="./sections/1-325.155.xml"/>
         <xi:include href="./sections/1-325.156.xml"/>
@@ -1174,30 +1172,6 @@
         <num>II</num>
         <heading>BID Parking Abatement Fund.</heading>
         <xi:include href="./sections/1-325.341.xml"/>
-      </container>
-      <container>
-        <prefix>Part</prefix>
-        <num>JJ</num>
-        <heading>Housing Preservation Fund.</heading>
-        <xi:include href="./sections/1-325.351.xml"/>
-      </container>
-      <container>
-        <prefix>Part</prefix>
-        <num>KK</num>
-        <heading>St. Elizabeths East Campus Redevelopment Fund.</heading>
-        <xi:include href="./sections/1-325.361.xml"/>
-      </container>
-      <container>
-        <prefix>Part</prefix>
-        <num>LL</num>
-        <heading>Ward 7 and Ward 8 Entrepreneur Grant Fund.</heading>
-        <xi:include href="./sections/1-325.371.xml"/>
-      </container>
-      <container>
-        <prefix>Part</prefix>
-        <num>MM</num>
-        <heading>Product Stewardship Fund.</heading>
-        <xi:include href="./sections/1-325.381.xml"/>
       </container>
     </container>
     <container>

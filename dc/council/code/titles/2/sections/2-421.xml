@@ -1,23 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-421</num>
-  <heading>Administrative petitions and civil claims.</heading>
-  <text>Any person unjustly convicted of and subsequently imprisoned for a felony offense contained in the District of Columbia Official Code may:</text>
-  <para>
-    <num undesignated="true">(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>Present a claim for damages against the District of Columbia; or</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Petition the District of Columbia for compensation as provided under <cite path="2|4|III">this subchapter</cite>.</text>
-    </para>
-  </para>
+  <heading>Right to present claim.</heading>
+  <text>Any person unjustly convicted of and subsequently imprisoned for a criminal offense contained in the District of Columbia Official Code may present a claim for damages against the District of Columbia.</text>
   <annotations>
     <annotation doc="D.C. Law 3-143" type="History" path="§2">Mar. 5, 1981, D.C. Law 3-143, § 2, 27 DCR 4656</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§2-422">2-422</cite>.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 1-1221.</annotation>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§1012|(a)" type="History"/>
   </annotations>
 </section>

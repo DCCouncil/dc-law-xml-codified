@@ -1,36 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <reason>Not Funded</reason>
   <num>42-3541.06</num>
   <heading>Reporting requirements.</heading>
-  <text>Beginning December 31, 2018, and on an annual basis thereafter, the Office of Human Rights shall submit a report to the Council of the District of Columbia that includes:</text>
-  <para>
-    <num>(1)</num>
-    <text>The number of complaints filed pursuant to <cite path="42|35B">this chapter</cite> during the reporting period;</text>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>The number of investigations that the Office of Human Rights has conducted during the reporting period and the disposition of every complaint and investigation;</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>The business characteristics of the housing providers against whom complaints were filed during the reporting period, including:</text>
-    <para>
-      <num>(A)</num>
-      <text>The number of rental properties that the housing provider owns; and</text>
-    </para>
-    <para>
-      <num>(B)</num>
-      <text>The number of rental units in each housing accommodation that the housing provider owns.</text>
-    </para>
-  </para>
-  <codify:annotation codify:applicability="effective" type="Applicability">Applicability of <cite doc="D.C. Law 21-259" path="">D.C. Law 21-259</cite>: <cite doc="D.C. Law 21-259" path="§11">§ 11 of D.C. Law 21-259</cite> provided that the creation of this section by <cite doc="D.C. Law 21-259" path="§7">§ 7 of D.C. Law 21-259</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
     <annotation app="2017-04-07" doc="D.C. Law 21-259" eff="2017-04-07" path="" type="History" display="false"/>
-    <annotation app="2017-04-07" doc="D.C. Law 21-259" eff="2017-04-07" path="§7" type="History"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-259" eff="2017-04-07" path="§11|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 21-259" eff="2017-04-07" path="§7" type="History"/>
     <annotation type="Applicability" app="2017-04-07" eff="2017-04-07" doc="D.C. Law 21-259" path="§7">Applicability of <cite doc="D.C. Law 21-259" path="">D.C. Law 21-259</cite>: <cite doc="D.C. Law 21-259" path="§11">§ 11 of D.C. Law 21-259</cite> provided that the creation of this section by <cite doc="D.C. Law 21-259" path="§7">§ 7 of D.C. Law 21-259</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
-    <annotation doc="D.C. Law 22-33" path="§7031" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13">
-              Section 7031 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-259" path="§11">§ 11 of D.C. Law 21-259</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-259">D.C. Law 21-259</cite> has been given effect.
-            </annotation>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7031" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-259" eff="2017-04-07" path="§7" type="History"/>
   </annotations>
 </section>

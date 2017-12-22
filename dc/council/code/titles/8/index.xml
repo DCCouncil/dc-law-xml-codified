@@ -29,7 +29,6 @@
         <xi:include href="./sections/8-101.05f.xml"/>
         <xi:include href="./sections/8-101.05g.xml"/>
         <xi:include href="./sections/8-101.05h.xml"/>
-        <xi:include href="./sections/8-101.05i.xml"/>
         <xi:include href="./sections/8-101.06.xml"/>
       </container>
       <container>
@@ -71,8 +70,6 @@
       <xi:include href="./sections/8-103.09.xml"/>
       <xi:include href="./sections/8-103.09a.xml"/>
       <xi:include href="./sections/8-103.09b.xml"/>
-      <xi:include href="./sections/8-103.09c.xml"/>
-      <xi:include href="./sections/8-103.09d.xml"/>
       <xi:include href="./sections/8-103.10.xml"/>
       <xi:include href="./sections/8-103.11.xml"/>
       <xi:include href="./sections/8-103.12.xml"/>
@@ -758,7 +755,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>10D</num>
-    <heading>Construction and Demolition Waste Recycling Accountability. [Repealed]</heading>
+    <heading>Construction and Demolition Waste Recycling Accountability.</heading>
     <xi:include href="./sections/8-1071.xml"/>
     <xi:include href="./sections/8-1072.xml"/>
     <xi:include href="./sections/8-1073.xml"/>

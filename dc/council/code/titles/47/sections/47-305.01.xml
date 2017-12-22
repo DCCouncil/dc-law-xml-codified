@@ -1,8 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-305.01</num>
   <heading>Revenue from public rights-of-way included in budget submission.</heading>
-  <text>All of the revenue derived from the collection of charges imposed for rental and utilization of public rights-of-way authorized by <cite path="10|11|III">[subchapter III of Chapter 11 of Title 10]</cite>, shall be dedicated annually pursuant to <cite path="§9-111.01a">§ 9-111.01a</cite>.</text>
+  <para>
+    <num>(a)</num>
+    <text>All of the revenue derived from the collection of charges imposed for rental and utilization of public rights-of-way authorized by [subchapter III of Chapter 11 of Title 10, § <cite path="§10-1141.01">10-1141.01</cite> et seq.], shall be dedicated annually to the Local Transportation Fund.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Revenue derived from the collection of charges imposed for rental and utilization of public rights-of-way authorized by [subchapter III of Chapter 11 of Title 10, § <cite path="§10-1141.01">10-1141.01</cite> et seq.], may be transferred annually to the District of Columbia Highway Trust Fund in an amount sufficient to meet the local contribution to match the federal entitlement grant.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 13-172" type="History">Oct. 19, 2000, D.C. Law 13-172, § 505, 47 DCR 6308</annotation>
     <annotation doc="D.C. Law 18-370" type="History">Apr. 8, 2011, D.C. Law 18-370, § 625(a), 58 DCR 1008</annotation>
@@ -17,6 +24,5 @@
     <annotation type="Emergency Legislation">For temporary (90 day) repeal of section, see § 2 of District Department of Transportation Omnibus Emergency Amendment Act of 2011 (D.C. Act 19-254, December 21, 2011,  58 DCR 11215).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 7222 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
     <annotation type="Editor's Notes">Section 629 of <cite doc="D.C. Law 18-370">D.C. Law 18-370</cite> provided: “Sec. 629. Applicability. This subtitle shall apply as of October 1, 2011; except, that sections 622 and 623(a)(2) shall apply as of the effective date of this act.”</annotation>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§8064" type="History"/>
   </annotations>
 </section>
