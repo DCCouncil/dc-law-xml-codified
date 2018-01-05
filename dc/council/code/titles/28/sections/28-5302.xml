@@ -1,5 +1,48 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>28-5302</num>
   <heading>Prohibited practices; required disclosures.</heading>
+  <para>
+    <num>(a)</num>
+    <text>An immigration service provider shall not:</text>
+    <para>
+      <num>(1)</num>
+      <text>Provide legal representation for an immigration matter;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Make a misrepresentation or false statement to influence, persuade, or encourage a client to use the immigration service provider;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Insinuate or make a statement that the immigration service provider can or will obtain special favors from or has special influence with the United States Department of Homeland Security, the United States Department of Labor, the United States Department of State, the United States Department of Justice, the United States Department of Commerce, or any other agency, office, or instrumentality of the United States government;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Collect any fees or other compensation for an immigration service that has not yet been performed;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Refuse to return documents supplied by, prepared by, or paid for by a client, at the client's request;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Represent, advertise, or communicate in any manner that the immigration service provider possesses titles or credentials that would qualify the immigration service provider to provide legal representation; or</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Translate in any document, including an advertisement, stationery, letterhead, business card, or other comparable written material describing the immigration service provider, from English to another language, any words or titles, including "notary public", "notary", "licensed", "attorney", or "lawyer", that imply that the immigration service provider is an attorney. The translation of the phrase "notary public" into Spanish as "<em>notario</em>" or "<em>notario publico</em>" is prohibited.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Each immigration service provider shall post, in English and in each language in which the immigration service provider provides or offers to provide an immigration service, at every location where the immigration service provider meets with clients, signs that shall include the name of each immigration service provider and the phrase:</text>
+    <include>
+      <text>I am not an attorney licensed to practice law in the District of Columbia and may not provide legal representation. I cannot provide representation to you before the United States Citizenship and Immigration Services, the Department of Homeland Security, the Executive Office for Immigration Review, the Department of Labor, the Department of State, or any other immigration authority.</text>
+    </include>
+  </para>
+  <annotations>
+    <annotation app="2017-04-22" doc="D.C. Law 21-280" eff="2017-04-22" path="§6|(c)" type="History"/>
+  </annotations>
 </section>
