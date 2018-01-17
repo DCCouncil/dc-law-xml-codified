@@ -27,7 +27,7 @@
     <para>
       <num>(a)</num>
       <text>Subsection (a)(3) is amended by striking the phrase "Any rental unit" and inserting the phrase "Except as provided by subsection (a-1) of this section, any rental unit" in its place.</text>
-      <codify:find-replace doc="D.C. Code" path="§42-3502.05|(a)|(3)" count="1">
+      <codify:find-replace doc="D.C. Code" path="§42-3502.05|(a)|(3)" count="1" codified:doc="D.C. Code" codified:path="§42-3502.05">
         <find>Any rental unit</find>
         <replace>Except as provided by subsection (a-1) of this section, any rental unit</replace>
       </codify:find-replace>
@@ -37,7 +37,7 @@
       <text>A new subsection (a-1) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§42-3502.05" after="(a)"/>
+          <codify:insert doc="D.C. Code" path="§42-3502.05" after="(a)" codified:doc="D.C. Code" codified:path="§42-3502.05"/>
           <num>(a-1)</num>
           <text>A housing accommodation that came into the possession of a housing provider as a result of a transfer pursuant to <code-cite doc="D.C. Code" path="§42-3404.02|(c)|(2)">section 402(c)(2) of the Rental Housing Conversion and Sale Act of 1980, effective September 10, 1980 (D.C. Law 3-86; D.C. Official Code § 42-3404.02(c)(2))</code-cite>, shall not be eligible for the exemption provided by subsection (a)(3) of this section.</text>
         </para>
@@ -52,7 +52,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability date="notfunded" history="false"/>
+      <codify:applicability date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3502.05"/>
     </para>
     <para>
       <num>(b)</num>

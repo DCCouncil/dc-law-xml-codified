@@ -65,7 +65,7 @@
       </para>
     </section>
   </container>
-  <codify:insert doc="D.C. Code" path="8" after="7B" history="false">
+  <codify:insert doc="D.C. Code" path="8" after="7B" history="false" codified:doc="D.C. Code" codified:path="8|7C">
     <container>
       <prefix>Chapter</prefix>
       <num>7C</num>
@@ -78,7 +78,7 @@
     <num>II</num>
     <heading>TRASH COMPACTOR GRANT PROGRAM</heading>
     <section>
-      <codify:insert num-value="8-751"/>
+      <codify:insert num-value="8-751" codified:doc="D.C. Code" codified:path="§8-751"/>
       <num>201</num>
       <heading>Definitions.</heading>
       <text>For the purposes of <code-cite path="II">this title</code-cite>, the term:</text>
@@ -109,7 +109,7 @@
       <annotation type="Editor's Notes">Applicability of <cite doc="D.C. Law 20-223">D.C. Law 20-223</cite>: Section 301(b) of <cite doc="D.C. Law 20-223">D.C. Law 20-223</cite> provided (1) that §§ 2<cite path="§01-203">01-203</cite> of the act shall apply for the tax year in which its fiscal effect has been included in an approved budget and financial plan; (2) that the Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification; and (3) that the Budget Director shall cause the notice of the certification to be published in the District of Columbia Register and that the date of publication of the notice of the certification shall not affect the applicability of §§ 2<cite path="§01-203">01-203</cite>.</annotation>
     </section>
     <section>
-      <codify:insert num-value="8-752"/>
+      <codify:insert num-value="8-752" codified:doc="D.C. Code" codified:path="§8-752"/>
       <num>202</num>
       <heading>Commercial trash compactor acquisition grant program.</heading>
       <para>
@@ -159,7 +159,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="8-753"/>
+      <codify:insert num-value="8-753" codified:doc="D.C. Code" codified:path="§8-753"/>
       <num>203</num>
       <heading>Rules.</heading>
       <text>The Mayor, pursuant to <code-cite doc="Pub. L. 90-614" path="I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, may issue rules to implement the provisions of <code-cite path="II">this title</code-cite>.</text>

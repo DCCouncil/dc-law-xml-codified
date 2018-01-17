@@ -30,7 +30,7 @@
       <text>Section 2002 (D.C. Official Code § 38-1800.02) is amended by adding a new paragraph (30C) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§38-1800.02" after="(30B)"/>
+          <codify:insert doc="D.C. Code" path="§38-1800.02" after="(30B)" codified:doc="D.C. Code" codified:path="§38-1800.02"/>
           <num>(30C)</num>
           <heading>School management organization. —</heading>
           <text>The term "school management organization" means an entity that a public charter school identifies in its charter petition or petition for charter revision with which the public charter school contracts to provide management or oversight services regarding the school's expenditures, administration, personnel, or instructional methods.  The term "school management organization" does not include an entity with which a public charter school contracts solely to provide administrative support services, such as:</text>
@@ -58,7 +58,7 @@
         <text>A new paragraph (1A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(1)"/>
+            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§38-1802.04"/>
             <num>(1A)</num>
             <heading>Conflicting interest transactions for public charter schools.—</heading>
             <para>
@@ -161,7 +161,7 @@
         <text>A new paragraph (22) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§38-1802.04"/>
             <num>(22)</num>
             <heading>School management contracts.—</heading>
             <text>A public charter school may procure the services of a school management organization; provided, that it complies with subparagraphs (A) and (B) of this paragraph.</text>

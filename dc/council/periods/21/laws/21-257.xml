@@ -29,7 +29,7 @@
       <text>Section 2 (D.C. Official Code § 48-401) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace codify:doc="D.C. Law 6-210" codify:path="§2"/>
+          <codify:replace codify:doc="D.C. Law 6-210" codify:path="§2" codified:doc="D.C. Code" codified:path="§48-401"/>
           <num>2</num>
           <heading>Definitions.</heading>
           <text>For the purposes of <code-cite doc="D.C. Code" path="|48|4|I">this act</code-cite>, the term:</text>
@@ -68,14 +68,14 @@
     <para>
       <num>(b)</num>
       <text>Section 3 (D.C. Official Code § 48-402) is repealed.</text>
-      <codify:repeal doc="D.C. Code" path="§48-402"/>
+      <codify:repeal doc="D.C. Code" path="§48-402" codified:doc="D.C. Code" codified:path="§48-402"/>
     </para>
     <para>
       <num>(c)</num>
       <text>Section 3a (D.C. Official Code § 48-402.01) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace doc="D.C. Law 6-210" path="§3a"/>
+          <codify:replace doc="D.C. Law 6-210" path="§3a" codified:doc="D.C. Code" codified:path="§48-402.01"/>
           <num>3a</num>
           <heading>Urban Farming Land Lease Program.</heading>
           <para>
@@ -163,7 +163,7 @@
       <text>Section 3b (D.C. Official Code § 48-402.02) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace doc="D.C. Law 6-210" path="§3b"/>
+          <codify:replace doc="D.C. Law 6-210" path="§3b" codified:doc="D.C. Code" codified:path="§48-402.02"/>
           <num>3b</num>
           <heading>Limitations on expenditures.</heading>
           <text>No more than $400,000 in Fiscal Year 2016 and $350,000 in each fiscal year thereafter shall be used by the Mayor to implement the Urban Farming Land Lease Program established pursuant to <code-cite doc="D.C. Code" path="§48-402.01">section 3a</code-cite> and to administer the real property tax abatement for certain urban farms established pursuant to<code-cite doc="D.C. Code" path="§47-868"> D.C. Official Code § 47-868</code-cite>, and the tax-exempt status conferred by <code-cite doc="D.C. Code" path="§47-1005|(c)">D.C. Official Code § 47-1005(c)</code-cite>.</text>
@@ -176,7 +176,7 @@
       <text>A new section 3c is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert doc="D.C. Code" path="|48|4|I" after="§48-402.02" num-value="48-402.03" history-prefix="as added"/>
+          <codify:insert doc="D.C. Code" path="|48|4|I" after="§48-402.02" num-value="48-402.03" history-prefix="as added" codified:doc="D.C. Code" codified:path="§48-402.03"/>
           <num>3c</num>
           <heading>Non-liability of the District.</heading>
           <text>Nothing in <code-cite doc="D.C. Code" path="|48|4|I">this act</code-cite> shall be construed to create governmental liability or a cause of action against the District related to the safety of food produced on land leased from the District pursuant to <code-cite doc="D.C. Code" path="§48-402.03">section 3a</code-cite>.</text>
@@ -201,7 +201,7 @@
         <text>Section 47-868 is amended to read as follows:</text>
         <include>
           <section>
-            <codify:replace path="§47-868"/>
+            <codify:replace path="§47-868" codified:doc="D.C. Code" codified:path="§47-868"/>
             <prefix>§</prefix>
             <num>47-868</num>
             <heading>Reduced tax liability for certain urban farms.</heading>
@@ -324,17 +324,17 @@
       <para>
         <num>(2)</num>
         <text>Section 47-1806.14 is repealed.</text>
-        <codify:repeal doc="D.C. Code" path="§47-1806.14"/>
+        <codify:repeal doc="D.C. Code" path="§47-1806.14" codified:doc="D.C. Code" codified:path="§47-1806.14"/>
       </para>
       <para>
         <num>(3)</num>
         <text>Section 47-1807.12 is repealed.</text>
-        <codify:repeal doc="D.C. Code" path="§47-1807.12"/>
+        <codify:repeal doc="D.C. Code" path="§47-1807.12" codified:doc="D.C. Code" codified:path="§47-1807.12"/>
       </para>
       <para>
         <num>(4)</num>
         <text>Section 47-1808.12 is repealed.</text>
-        <codify:repeal doc="D.C. Code" path="§47-1808.12"/>
+        <codify:repeal doc="D.C. Code" path="§47-1808.12" codified:doc="D.C. Code" codified:path="§47-1808.12"/>
       </para>
     </para>
   </section>

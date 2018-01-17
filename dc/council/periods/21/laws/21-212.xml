@@ -28,7 +28,7 @@
       <text>New sections 2b and 2c are added to read as follows:</text>
       <include>
         <section>
-          <codify:insert doc="D.C. Code" path="|50|15|I" after="§50-1501.02a" num-value="50-1501.02b" history-prefix="as added"/>
+          <codify:insert doc="D.C. Code" path="|50|15|I" after="§50-1501.02a" num-value="50-1501.02b" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-1501.02b"/>
           <num>2b</num>
           <heading>Issuance of women veterans license plates.</heading>
           <para>
@@ -49,7 +49,7 @@
           <annotation type="History" doc="Stat. 75-1-ch690" path="§2b">Aug. 17, 1937, 50 Stat. 680, ch. 690, title IV,§ 2b</annotation>
         </section>
         <section>
-          <codify:insert doc="D.C. Code" path="|50|15|I" after="§50-1501.02b" num-value="50-1501.02c" history-prefix="as added"/>
+          <codify:insert doc="D.C. Code" path="|50|15|I" after="§50-1501.02b" num-value="50-1501.02c" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-1501.02c"/>
           <num>2c</num>
           <heading>Issuance of bicycle awareness license plates.</heading>
           <para>
@@ -80,7 +80,7 @@
         <text>Subsection (a)(l) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace doc="D.C. Code" path="§50-1501.03|(a)"/>
+            <codify:replace doc="D.C. Code" path="§50-1501.03|(a)" codified:doc="D.C. Code" codified:path="§50-1501.03"/>
             <num>(a)</num>
             <para>
               <num>(1)</num>
@@ -123,7 +123,7 @@
         <para codify:path="(2)">
           <num>(A)</num>
           <text>Paragraph (2) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1501.03">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -131,7 +131,7 @@
         <para codify:path="(3)">
           <num>(B)</num>
           <text>Paragraph (3) is amended by striking the period and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" position="last">
+          <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§50-1501.03">
             <find>.</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -141,12 +141,12 @@
           <text>New paragraphs (4) and (5) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(3)"/>
+              <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§50-1501.03"/>
               <num>(4)</num>
               <text>The fees collected for women veteran identification tags shall be deposited in the Office of Veterans Affairs Fund, established by <code-cite doc="D.C. Code" path="§49-1004">section 705 of the Office of Veterans Affairs Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 49-1004)</code-cite>; and</text>
             </para>
             <para>
-              <codify:insert after="(4)"/>
+              <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§50-1501.03"/>
               <num>(5)</num>
               <text>The fees collected for bicycle awareness identification tags shall be deposited in the Vision Zero Pedestrian and Bicycle Safety Fund, established by <code-cite doc="D.C. Code" path="§50-921.20">section 9l of the Department of Transportation Establishment Act of 2002, effective October 22, 2015 (D.C. Law 21-36; D.C. Official Code § 50-921.20)</code-cite>.</text>
             </para>
@@ -161,7 +161,7 @@
     <text>Section 9l(b) of the Department of Transportation Establishment Act of 2002, effective October 22, 2015 (D.C. Law 21-36; D.C. Official Code § 50-921.20(b)), is amended to read as follows:</text>
     <include>
       <para>
-        <codify:replace doc="D.C. Code" path="§50-921.20|(b)"/>
+        <codify:replace doc="D.C. Code" path="§50-921.20|(b)" codified:doc="D.C. Code" codified:path="§50-921.20"/>
         <num>(b)</num>
         <text>There shall be deposited in the Fund:</text>
         <para>
@@ -179,7 +179,7 @@
   <section>
     <num>4</num>
     <text>Section 705(a) of the Office of Veterans Affairs Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 49-1004(a)), is amended by striking the phrase "other funds for the Office" and inserting the phrase "other funds for the Office, including fees received by the Department of Motor Vehicles pursuant to section 2b(b)(1) of the District of Columbia Revenue Act of 1937, passed on 2nd reading on November 15, 2016 (Enrolled version of Bill 21-759),".</text>
-    <codify:find-replace doc="D.C. Code" path="§49-1004|(a)" count="1">
+    <codify:find-replace doc="D.C. Code" path="§49-1004|(a)" count="1" codified:doc="D.C. Code" codified:path="§49-1004">
       <find>other funds for the Office</find>
       <replace>other funds for the Office, including fees received by the Department of Motor Vehicles pursuant to <code-cite doc="D.C. Code" path="§50-1501.02b|(b)|(1)">section 2b(b)(1) of the District of Columbia Revenue Act of 1937, passed on 2nd reading on November 15, 2016 (Enrolled version of Bill 21-759)</code-cite>,</replace>
     </codify:find-replace>

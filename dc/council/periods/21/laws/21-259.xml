@@ -21,7 +21,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Fair Criminal Record Screening for Housing Act of 2016".</text>
-  <codify:insert doc="D.C. Code" path="42" after="35A" history="false">
+  <codify:insert doc="D.C. Code" path="42" after="35A" history="false" codified:doc="D.C. Code" codified:path="42|35B">
     <container>
       <prefix>Chapter</prefix>
       <num>35B</num>
@@ -29,7 +29,7 @@
     </container>
   </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.01"/>
+    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.01" codified:doc="D.C. Code" codified:path="§42-3541.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of <code-cite doc="D.C. Code" path="|42|35B">this act</code-cite>, the term:</text>
@@ -80,7 +80,7 @@
     <codify:not-funded-anno applicability-path="§11" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.02"/>
+    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.02" codified:doc="D.C. Code" codified:path="§42-3541.02"/>
     <num>3</num>
     <heading>Inquiries into certain arrests, accusations, and convictions.</heading>
     <para>
@@ -369,7 +369,7 @@
     <codify:not-funded-anno applicability-path="§11" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.03"/>
+    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.03" codified:doc="D.C. Code" codified:path="§42-3541.03"/>
     <num>4</num>
     <heading>Exclusions.</heading>
     <text><code-cite doc="D.C. Code" path="|42|35B">This act</code-cite> shall not apply:</text>
@@ -388,7 +388,7 @@
     <codify:not-funded-anno applicability-path="§11" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.04"/>
+    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.04" codified:doc="D.C. Code" codified:path="§42-3541.04"/>
     <num>5</num>
     <heading>Filing a complaint with the Office of Human Rights; exclusive remedy.</heading>
     <para>
@@ -402,7 +402,7 @@
     <codify:not-funded-anno applicability-path="§11" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.05"/>
+    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.05" codified:doc="D.C. Code" codified:path="§42-3541.05"/>
     <num>6</num>
     <heading>Penalties.</heading>
     <para>
@@ -440,7 +440,7 @@
     <codify:not-funded-anno applicability-path="§11" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.06"/>
+    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.06" codified:doc="D.C. Code" codified:path="§42-3541.06"/>
     <num>7</num>
     <heading>Reporting requirements.</heading>
     <text>Beginning December 31, 2018, and on an annual basis thereafter, the Office of Human Rights shall submit a report to the Council of the District of Columbia that includes:</text>
@@ -467,7 +467,7 @@
     <codify:not-funded-anno applicability-path="§11" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.07"/>
+    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.07" codified:doc="D.C. Code" codified:path="§42-3541.07"/>
     <num>8</num>
     <heading>Public education requirements.</heading>
     <para>
@@ -504,21 +504,21 @@
     <codify:not-funded-anno applicability-path="§11" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.08"/>
+    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.08" codified:doc="D.C. Code" codified:path="§42-3541.08"/>
     <num>9</num>
     <heading>Immunity.</heading>
     <text>A housing provider shall have immunity from any claims related to actual or constructive knowledge of an applicant's pending criminal accusation or criminal conviction obtained as a result of an inquiry under <code-cite doc="D.C. Code" path="|42|35B">this act</code-cite>; provided, that the applicant became a tenant or occupant of the housing provider's housing accommodation.</text>
     <codify:not-funded-anno applicability-path="§11" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.09"/>
+    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.09" codified:doc="D.C. Code" codified:path="§42-3541.09"/>
     <num>10</num>
     <heading>Rules.</heading>
     <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="|2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, may issue rules to implement the provisions of <code-cite doc="D.C. Code" path="|42|35B">this act</code-cite>.</text>
     <codify:not-funded-anno applicability-path="§11" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.10"/>
+    <codify:insert doc="D.C. Code" path="|42|35B" num-value="42-3541.10" codified:doc="D.C. Code" codified:path="§42-3541.10"/>
     <num>11</num>
     <heading>Applicability.</heading>
     <para>

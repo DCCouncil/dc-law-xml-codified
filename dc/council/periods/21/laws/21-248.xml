@@ -20,7 +20,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That thisact may be cited as the "Specialty Drug Copayment Limitation Act of 2016".</text>
-  <codify:insert doc="D.C. Code" path="48" after="8G" history="false">
+  <codify:insert doc="D.C. Code" path="48" after="8G" history="false" codified:doc="D.C. Code" codified:path="48|8H">
     <container>
       <prefix>Chapter</prefix>
       <num>8H</num>
@@ -28,7 +28,7 @@
     </container>
   </codify:insert>
   <section codify:doc="D.C. Code">
-    <codify:insert path="|48|8H" num-value="48-855.01"/>
+    <codify:insert path="|48|8H" num-value="48-855.01" codified:doc="D.C. Code" codified:path="§48-855.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of <code-cite doc="D.C. Code" path="|48|8H">this act</code-cite>, the term:</text>
@@ -221,7 +221,7 @@
     </para>
   </section>
   <section codify:doc="D.C. Code">
-    <codify:insert path="|48|8H" num-value="48-855.02"/>
+    <codify:insert path="|48|8H" num-value="48-855.02" codified:doc="D.C. Code" codified:path="§48-855.02"/>
     <num>3</num>
     <heading>Specialty drug copayment or coinsurance limitation.</heading>
     <para>
@@ -276,7 +276,7 @@
     </para>
   </section>
   <section codify:doc="D.C. Code">
-    <codify:insert path="|48|8H" num-value="48-855.03"/>
+    <codify:insert path="|48|8H" num-value="48-855.03" codified:doc="D.C. Code" codified:path="§48-855.03"/>
     <num>4</num>
     <heading>Applicability.</heading>
     <text><code-cite doc="D.C. Code" path="|48|8H">This act</code-cite> shall apply to a health benefit plan effective, or renewed, on or after January 1, 2018.</text>

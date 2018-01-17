@@ -33,7 +33,7 @@
       <text>Section 2 (D.C. Official Code § 8-1801) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§8-1801"/>
+          <codify:replace path="§8-1801" codified:doc="D.C. Code" codified:path="§8-1801"/>
           <num codify:value="8-1801">2</num>
           <heading>Definitions.</heading>
           <text>For the purposes of <code-cite doc="D.C. Code" path="8|18|I">this act</code-cite>, the term:</text>
@@ -155,7 +155,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "; provided, that only a sworn member of the Metropolitan Police Department may serve a notice of violation with respect to <code-cite doc="D.C. Code" path="§8-1808|(a)">section 9(a)</code-cite> outside the premises of the animal shelter".</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1802">
           <find>; provided, that only a sworn member of the Metropolitan Police Department may serve a notice of violation with respect to § <cite path="§8-1808">8-1808</cite>(a) outside the premises of the animal shelter</find>
           <replace/>
         </codify:find-replace>
@@ -168,7 +168,7 @@
           <text>Paragraph (1) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§8-1802"/>
               <num>(1)</num>
               <text>Pursuant to <code-cite doc="D.C. Code" path="8|18|I">this act</code-cite>, issue fines and citations for violations and deliver all fees collected to the Mayor.</text>
             </para>
@@ -178,7 +178,7 @@
         <para codify:path="(4)">
           <num>(B)</num>
           <text>Paragraph (4) is amended by striking the period and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1802">
             <find>leadership.</find>
             <replace>leadership;</replace>
           </codify:find-replace>
@@ -188,12 +188,12 @@
           <text>New paragraphs (5) and (6) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§8-1802"/>
               <num>(5)</num>
               <text>Respond to all animal calls and emergencies in the District; and</text>
             </para>
             <para>
-              <codify:insert/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§8-1802"/>
               <num>(6)</num>
               <text>Perform any other duties the Mayor designates that are consistent with the provisions of <code-cite doc="D.C. Code" path="8|18|I">this act</code-cite>.</text>
             </para>
@@ -207,7 +207,7 @@
       <text>Section 4(b) (D.C. Official Code § 8-1803(b)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§8-1803"/>
           <num>(b)</num>
           <text>The Mayor shall provide a free rabies vaccination clinic at least annually.</text>
         </para>
@@ -220,7 +220,7 @@
       <para codify:path="(b)">
         <num>(1)</num>
         <text>Subsection (b) is amended by striking the phrase "his dog wears a collar" and inserting the phrase "his or her dog wears a collar or harness" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1804">
           <find>his dog wears a collar</find>
           <replace>his or her dog wears a collar or harness</replace>
         </codify:find-replace>
@@ -230,7 +230,7 @@
         <text>Subsection (e-1) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§8-1804"/>
             <num>(e-1)</num>
             <text>$2 of each fee collected pursuant to subsection (e) of this section shall be deposited into the Animal Education and Outreach Fund, established by <code-cite doc="D.C. Code" path="§8-1810.01">section 11a</code-cite>. Remaining money from the fees collected shall be deposited in the General Fund of the District of Columbia.</text>
           </para>
@@ -242,7 +242,7 @@
         <text>Subsection (h) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§8-1804"/>
             <num>(h)</num>
             <text>Any license issued pursuant to this section shall be issued by the Department of Health. The Department of Health may delegate this function to any veterinarians licensed in the District of Columbia.</text>
           </para>
@@ -252,13 +252,13 @@
       <para codify:path="(j)">
         <num>(4)</num>
         <text>Subsection (j) is repealed.</text>
-        <codify:repeal/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§8-1804"/>
       </para>
     </para>
     <para>
       <num>(e)</num>
       <text>Section 10 (D.C. Official Code § 8-1809) is redesignated as section 5a.</text>
-      <codify:recodify-section doc="D.C. Code" path="§8-1809" num-value="8-1804.01" after="§8-1804" destination-path="8|18|I" history-prefix="redesignated as § 5a"/>
+      <codify:recodify-section doc="D.C. Code" path="§8-1809" num-value="8-1804.01" after="§8-1804" destination-path="8|18|I" history-prefix="redesignated as § 5a" codified:doc="D.C. Code" codified:path="§8-1809"/>
     </para>
     <para codify:path="§8-1804.01">
       <num>(f)</num>
@@ -266,7 +266,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the word "mammals" wherever it appears and insert the word "animals" in its place.</text>
-        <codify:find-replace>
+        <codify:find-replace codified:doc="D.C. Code" codified:path="§8-1804.01">
           <find>mammals</find>
           <replace>animals</replace>
         </codify:find-replace>
@@ -274,7 +274,7 @@
       <para codify:path="(a)">
         <num>(2)</num>
         <text>Subsection (a) is amended by striking the phrase "permit: EXCEPT," and inserting the phrase "permit; provided," in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1804.01">
           <find>permit: Except,</find>
           <replace>permit; provided,</replace>
         </codify:find-replace>
@@ -284,7 +284,7 @@
         <text>Subsection (f) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§8-1804.01"/>
             <num>(f)</num>
             <text>A holder of an animal hobby permit shall provide his or her animals with adequate care, adequate feed, adequate shelter, adequate space, adequate water, and appropriate veterinary care.</text>
           </para>
@@ -294,7 +294,7 @@
       <para codify:path="(g)">
         <num>(4)</num>
         <text>Subsection (g) is amended by striking the word "mammal" and inserting the word "animal" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1804.01">
           <find>mammal</find>
           <replace>[an] animal</replace>
         </codify:find-replace>
@@ -306,7 +306,7 @@
       <para>
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "section 10." and inserting the phrase "section 5a." in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1805">
           <find>to § <cite path="§8-1809">8-1809</cite></find>
           <replace>
             <code-cite doc="D.C. Code" path="§8-1804.01">section 5a</code-cite>
@@ -318,7 +318,7 @@
         <text>Subsection (g) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§8-1805"/>
             <num>(g)</num>
             <para>
               <num>(1)</num>
@@ -343,7 +343,7 @@
       <text>Section 9 (D.C. Official Code § 8-1808) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§8-1808"/>
           <num codify:value="8-1808">9</num>
           <heading codify:value="Prohibited conduct.">Prohibited Conduct.</heading>
           <para>
@@ -509,8 +509,8 @@
     <para>
       <num>(j)</num>
       <text>Section 9a (D.C. Official Code § 8-1808.01) is redesignated as section 11b.</text>
-      <codify:recodify-section doc="D.C. Code" path="§8-1808.01" num-value="8-1810.02" before="§8-1811" destination-path="8|18|I" history="false"/>
-      <codify:annotation doc="D.C. Code" path="§8-1810.02" type="History">
+      <codify:recodify-section doc="D.C. Code" path="§8-1808.01" num-value="8-1810.02" before="§8-1811" destination-path="8|18|I" history="false" codified:doc="D.C. Code" codified:path="§8-1808.01"/>
+      <codify:annotation doc="D.C. Code" path="§8-1810.02" type="History" codified:doc="D.C. Code" codified:path="§8-1810.02">
         redesignated as § 11b
       </codify:annotation>
     </para>
@@ -519,7 +519,7 @@
       <text>A new section 9b is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert doc="D.C. Code" path="8|18|I" after="§8-1808.01" num-value="8-1808.02" history-prefix="as added"/>
+          <codify:insert doc="D.C. Code" path="8|18|I" after="§8-1808.01" num-value="8-1808.02" history-prefix="as added" codified:doc="D.C. Code" codified:path="§8-1808.02"/>
           <num>9b</num>
           <heading codify:value="Animals left in vehicles.">Animals Left in Vehicles.</heading>
           <para>
@@ -564,7 +564,7 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the phrase "Low cost" and inserting the phrase "Low-cost" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1810">
           <find>Low cost</find>
           <replace>Low-cost</replace>
         </codify:find-replace>
@@ -574,7 +574,7 @@
         <text>Paragraph (2) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§8-1810"/>
             <num>(2)</num>
             <text>An educational program for animal owners regarding pet care and safety, specifically in extreme weather conditions or emergencies, and the laws related to pet ownership.</text>
           </para>
@@ -587,7 +587,7 @@
       <text>A new section 11a is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="8|18|I" after="§8-1810" num-value="8-1810.01" history-prefix="as added"/>
+          <codify:insert path="8|18|I" after="§8-1810" num-value="8-1810.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§8-1810.01"/>
           <num>11a</num>
           <heading>Animal Education and Outreach Fund.</heading>
           <para>
@@ -624,7 +624,7 @@
       <text>Section 12 (D.C. Official Code § 8-1811) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§8-1811"/>
           <num codify:value="8-1811">12</num>
           <heading>Penalty.</heading>
           <para>
@@ -650,14 +650,14 @@
     <para codify:path="§8-1812">
       <num>(o)</num>
       <text>Section 12a (D.C. Official Code § 8-1812) is repealed.</text>
-      <codify:repeal/>
+      <codify:repeal codified:doc="D.C. Code" codified:path="§8-1812"/>
     </para>
     <para>
       <num>(p)</num>
       <text>A new section 13a is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="8|18|I" after="§8-1813" num-value="8-1814" history-prefix="as added"/>
+          <codify:insert path="8|18|I" after="§8-1813" num-value="8-1814" history-prefix="as added" codified:doc="D.C. Code" codified:path="§8-1814"/>
           <num>13a</num>
           <heading>Rules.</heading>
           <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, may issue rules to implement the provisions of <code-cite doc="D.C. Code" path="8|18|I">this act</code-cite>.</text>

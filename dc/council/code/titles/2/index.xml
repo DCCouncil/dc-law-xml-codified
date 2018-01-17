@@ -1005,6 +1005,7 @@
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Uniform Electronic Legal Material Act.</heading>
+      <annotation app="2017-04-07" doc="D.C. Law 21-251" eff="2017-04-07" path="" type="History" display="false"/>
       <xi:include href="./sections/2-651.01.xml"/>
       <xi:include href="./sections/2-651.02.xml"/>
       <xi:include href="./sections/2-651.03.xml"/>
@@ -1218,6 +1219,7 @@
       <prefix>Subchapter</prefix>
       <num>IV-B</num>
       <heading>Made in DC Program.</heading>
+      <annotation app="2016-07-01" doc="D.C. Law 21-135" eff="2016-07-01" path="" type="History" display="false"/>
       <xi:include href="./sections/2-1208.31.xml"/>
       <xi:include href="./sections/2-1208.32.xml"/>
       <xi:include href="./sections/2-1208.33.xml"/>
@@ -1272,6 +1274,8 @@
       <prefix>Subchapter</prefix>
       <num>V-C</num>
       <heading>Incarceration to Incorporation Entrepreneurship Program.</heading>
+      <annotation app="2016-10-08" doc="D.C. Law 21-159" eff="2016-10-08" path="§6|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 21-159" eff="2016-10-08" path="" type="History" display="false"/>
       <xi:include href="./sections/2-1210.51.xml"/>
       <xi:include href="./sections/2-1210.52.xml"/>
       <xi:include href="./sections/2-1210.53.xml"/>
@@ -1282,6 +1286,7 @@
       <prefix>Subchapter</prefix>
       <num>V-D</num>
       <heading>Kennedy Street, N.W., Economic Development and Small Business Revitalization Advisory Committee.</heading>
+      <annotation app="2017-02-18" doc="D.C. Law 21-184" eff="2017-02-18" path="" type="History" display="false"/>
       <xi:include href="./sections/2-1210.61.xml"/>
     </container>
     <container>
@@ -1500,6 +1505,7 @@
           <prefix>Subpart</prefix>
           <num>7</num>
           <heading>Bryant Street.</heading>
+          <annotation app="2017-04-07" doc="D.C. Law 21-262" eff="2017-04-07" path="" type="History" display="false"/>
           <xi:include href="./sections/2-1217.37a.xml"/>
           <xi:include href="./sections/2-1217.37b.xml"/>
           <xi:include href="./sections/2-1217.37c.xml"/>
@@ -1840,6 +1846,7 @@
       <prefix>Subchapter</prefix>
       <num>XV</num>
       <heading>Walter Reed Development</heading>
+      <annotation app="2016-05-18" doc="D.C. Law 21-119" eff="2016-05-18" path="" type="History" display="false"/>
       <xi:include href="./sections/2-1227.01.xml"/>
       <xi:include href="./sections/2-1227.02.xml"/>
       <xi:include href="./sections/2-1227.03.xml"/>
@@ -2228,11 +2235,16 @@
       <xi:include href="./sections/2-1552.xml"/>
       <xi:include href="./sections/2-1553.xml"/>
       <xi:include href="./sections/2-1554.xml"/>
+      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7032" type="History"/>
+      <annotation doc="D.C. Law 22-33" path="§7032" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7032">Section 7032 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-261" path="§12">§ 12 of D.C. Law 21-261</cite>. Therefore the repeal of this section by <cite doc="D.C. Law 21-261">D.C. Law 21-261</cite> has been given effect.
+            </annotation>
+      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7032" type="History" display="false"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>III-B</num>
       <heading>Office of Out of School Time Grants and Youth Outcomes.</heading>
+      <annotation app="2017-04-07" doc="D.C. Law 21-261" eff="2017-04-07" path="" type="History" display="false"/>
       <xi:include href="./sections/2-1555.01.xml"/>
       <xi:include href="./sections/2-1555.02.xml"/>
       <xi:include href="./sections/2-1555.03.xml"/>
@@ -2241,6 +2253,9 @@
       <xi:include href="./sections/2-1555.06.xml"/>
       <xi:include href="./sections/2-1555.07.xml"/>
       <xi:include href="./sections/2-1555.08.xml"/>
+      <annotation doc="D.C. Law 22-33" path="§7032" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7032">Section 7032 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-261" path="§12">§ 12 of D.C. Law 21-261</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-261">D.C. Law 21-261</cite> has been given effect.
+            </annotation>
+      <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7032" type="History" display="false"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

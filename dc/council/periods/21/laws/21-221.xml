@@ -28,7 +28,7 @@
       <text>Subsection (a) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§1-325.181"/>
           <num>(a)</num>
           <text>There is established as a special fund the West End Library and Fire Station Maintenance Fund ("Maintenance Fund"),which shall be used solely to fundthe expenses of providing: supplemental maintenance service; common-area maintenance service; insurance; and capital improvements for the West End Library and West End Fire Station (collectively, the "Operating Expenses"). The Maintenance Fund shall supplement such other sums as are annually appropriated for the operation of branch libraries and fire stations, including the West End Library and West End Fire Station, and shall be used solely to ensure that both facilities are maintained in a manner that is consistent with the high-quality conditions of the larger buildings of which they are a part. The Maintenance Fund shall be used first to pay for the Operating Expenses, before other District funds are used, but the Maintenance Fund shall not be used otherwise to supplant local funds typically appropriated for the operation of branch libraries and fire stations.</text>
         </para>
@@ -38,7 +38,7 @@
     <para codify:path="(c)">
       <num>(b)</num>
       <text>Subsection (c) is amended by striking the phrase "authorization by Congress" and inserting the word "appropriation" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.181">
         <find>authorization by Congress</find>
         <replace>appropriation</replace>
       </codify:find-replace>
@@ -51,7 +51,7 @@
         <text>Paragraph (1) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§1-325.181"/>
             <num>(1)</num>
             <text>The Department of General Services, in close consultation with the District of Columbia Public Library, shall manage the Maintenance Fund.  To the extent that monies are needed to pay for the Operating Expenses, in addition to the Maintenance Fund, for the West End Library and the West End Fire Station, the additional monies appropriated for that purpose shall be allocated between the West End Library and West End Fire Station based upon each facility's respective proportionate share of the total annual aggregate Operating Expenses, as jointly determined by the Chief Librarian of the District of Columbia Public Library and the Director of the Department of General Services.</text>
           </para>
@@ -61,7 +61,7 @@
       <para codify:path="(2)">
         <num>(2)</num>
         <text>Paragraph (2) is amended by striking the phrase "from the Fund.  Any monies received" and inserting the phrase "from the Fund.  This request shall be prepared for the Mayor by the Department of General Services working in close consultation with the District of Columbia Public Library. The appropriation for expenditures from the Maintenance Fund shall be depicted as a separate activity within the budget of the Department of General Services.  Any monies received" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-325.181">
           <find>from the Fund. Any monies received</find>
           <replace>from the Fund. This request shall be prepared for the Mayor by the Department of General Services working in close consultation with the District of Columbia Public Library. The appropriation for expenditures from the Maintenance Fund shall be depicted as a separate activity within the budget of the Department of General Services. Any monies received</replace>
         </codify:find-replace>

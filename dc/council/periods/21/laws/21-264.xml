@@ -26,16 +26,16 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Universal Paid Leave Amendment Act of 2016".</text>
-  <codify:recodify-section doc="D.C. Code" path="§32-531" num-value="32-571" history="false"/>
-  <codify:recodify-section doc="D.C. Code" path="§32-532" num-value="32-572" history="false"/>
-  <codify:recodify-section doc="D.C. Code" path="§32-533" num-value="32-573" history="false"/>
-  <codify:find-replace history="false" doc="D.C. Code" path="§32-573">
+  <codify:recodify-section doc="D.C. Code" path="§32-531" num-value="32-571" history="false" codified:doc="D.C. Code" codified:path="§32-531"/>
+  <codify:recodify-section doc="D.C. Code" path="§32-532" num-value="32-572" history="false" codified:doc="D.C. Code" codified:path="§32-532"/>
+  <codify:recodify-section doc="D.C. Code" path="§32-533" num-value="32-573" history="false" codified:doc="D.C. Code" codified:path="§32-533"/>
+  <codify:find-replace history="false" doc="D.C. Code" path="§32-573" codified:doc="D.C. Code" codified:path="§32-573">
     <find>§ <cite path="§32-532">32-532</cite></find>
     <replace>
       <cite doc="D.C. Code" path="§32-572">§ 32-572</cite>
     </replace>
   </codify:find-replace>
-  <codify:insert doc="D.C. Code" path="|32|5" after="I" history="false">
+  <codify:insert doc="D.C. Code" path="|32|5" after="I" history="false" codified:doc="D.C. Code" codified:path="§32-521.01">
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
@@ -287,7 +287,7 @@
       </section>
     </container>
   </codify:insert>
-  <codify:insert doc="D.C. Code" path="|32|5" after="II" history="false">
+  <codify:insert doc="D.C. Code" path="|32|5" after="II" history="false" codified:doc="D.C. Code" codified:path="§32-531.01">
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
@@ -1146,7 +1146,7 @@
       </section>
     </container>
   </codify:insert>
-  <codify:insert doc="D.C. Code" path="|32|5" after="III" history="false">
+  <codify:insert doc="D.C. Code" path="|32|5" after="III" history="false" codified:doc="D.C. Code" codified:path="32|5|IV">
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
@@ -1158,7 +1158,7 @@
     <num>I</num>
     <heading>Establishment of Paid-Leave Program</heading>
     <section>
-      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.01"/>
+      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.01" codified:doc="D.C. Code" codified:path="§32-541.01"/>
       <num>101</num>
       <heading>Definitions.</heading>
       <text>For the purposes of <code-cite doc="D.C. Code" path="32|5|IV">this title</code-cite>, the term:</text>
@@ -1422,11 +1422,11 @@
         <text>"Wages" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§51-101|(3)">section 1(3) of the District of Columbia Unemployment Compensation Act, approved August 28, 1935 (49 Stat. 946; D.C. Official Code § 51-101(3))</code-cite>; provided, that the term "wages" also shall include self-employment income earned by a self-employed individual who has opted into the paid-leave program established pursuant to <code-cite doc="D.C. Code" path="32|5|IV">this act</code-cite>.</text>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-541.01" applicability-path="§301" action="creation of"/>
-      <codify:annotation doc="D.C. Code" path="§32-541.01" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-541.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-541.01">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.02"/>
+      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.02" codified:doc="D.C. Code" codified:path="§32-541.02"/>
       <num>102</num>
       <heading>Establishment of a paid-leave program; rules.</heading>
       <para>
@@ -1445,11 +1445,11 @@
         </para>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-541.02" applicability-path="§301" action="creation of"/>
-      <codify:annotation doc="D.C. Code" path="§32-541.02" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-541.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-541.02">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.03"/>
+      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.03" codified:doc="D.C. Code" codified:path="§32-541.03"/>
       <num>103</num>
       <heading>Contributions to the Universal Paid Leave Implementation Fund.</heading>
       <para>
@@ -1477,11 +1477,11 @@
         <text>A covered employer who fails to contribute any amount required by this section to <code-cite doc="D.C. Code" path="§51-104">the Universal Paid Leave Implementation Fund shall be subject to the same notice requirements, procedures, interest, penalties, and remedies set forth in section 4 of the District of Columbia Unemployment Compensation Act, approved August 28, 1935 (49 Stat. 948, D.C. Official Code § 51-104)</code-cite>.</text>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-541.03" applicability-path="§301" action="creation of"/>
-      <codify:annotation doc="D.C. Code" path="§32-541.03" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-541.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-541.03">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.04"/>
+      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.04" codified:doc="D.C. Code" codified:path="§32-541.04"/>
       <num>104</num>
       <heading>Duration and amount of benefits.</heading>
       <para>
@@ -1567,11 +1567,11 @@
         <text>Covered employers are not responsible for collecting or tracking any taxes from individuals related to paid-leave payments received pursuant to <code-cite doc="D.C. Code" path="32|5|IV">this act</code-cite> from the District of Columbia government.</text>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-541.04" applicability-path="§301" action="creation of"/>
-      <codify:annotation doc="D.C. Code" path="§32-541.04" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-541.04" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-541.04">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.05"/>
+      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.05" codified:doc="D.C. Code" codified:path="§32-541.05"/>
       <num>105</num>
       <heading>Self-employed individuals.</heading>
       <para>
@@ -1605,11 +1605,11 @@
         </para>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-541.05" applicability-path="§301" action="creation of"/>
-      <codify:annotation doc="D.C. Code" path="§32-541.05" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-541.05" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-541.05">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.06"/>
+      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.06" codified:doc="D.C. Code" codified:path="§32-541.06"/>
       <num>106</num>
       <heading>Administration of the paid-leave program.</heading>
       <para>
@@ -1738,11 +1738,11 @@
         </para>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-541.06" applicability-path="§301" action="creation of"/>
-      <codify:annotation doc="D.C. Code" path="§32-541.06" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-541.06" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-541.06">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.07"/>
+      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.07" codified:doc="D.C. Code" codified:path="§32-541.07"/>
       <num>107</num>
       <heading>Coordination of benefits.</heading>
       <para>
@@ -1831,11 +1831,11 @@
         </para>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-541.07" applicability-path="§301" action="creation of"/>
-      <codify:annotation doc="D.C. Code" path="§32-541.07" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-541.07" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-541.07">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.08"/>
+      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.08" codified:doc="D.C. Code" codified:path="§32-541.08"/>
       <num>108</num>
       <heading>Appeals.</heading>
       <para>
@@ -1871,11 +1871,11 @@
         </para>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-541.08" applicability-path="§301" action="creation of"/>
-      <codify:annotation doc="D.C. Code" path="§32-541.08" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-541.08" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-541.08">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.09"/>
+      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.09" codified:doc="D.C. Code" codified:path="§32-541.09"/>
       <num>109</num>
       <heading>Erroneous payments and disqualification for benefits.</heading>
       <para>
@@ -1898,11 +1898,11 @@
         </para>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-541.09" applicability-path="§301" action="creation of"/>
-      <codify:annotation doc="D.C. Code" path="§32-541.09" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-541.09" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-541.09">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.10"/>
+      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.10" codified:doc="D.C. Code" codified:path="§32-541.10"/>
       <num>110</num>
       <heading>Prohibited acts.</heading>
       <para>
@@ -1946,11 +1946,11 @@
         <text>It shall be unlawful for any individual to provide intentionally false statements in order to obtain paid-leave benefits.</text>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-541.10" applicability-path="§301" action="creation of"/>
-      <codify:annotation doc="D.C. Code" path="§32-541.10" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-541.10" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-541.10">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.11"/>
+      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.11" codified:doc="D.C. Code" codified:path="§32-541.11"/>
       <num>111</num>
       <heading>Investigative authority.</heading>
       <para>
@@ -1974,11 +1974,11 @@
         <text>For the purpose of any investigation provided for in this section, the Mayor may exercise the subpoena authority provided in <code-cite doc="D.C. Code" path="§1-301.21">section 3 of the Independent Personnel Systems Implementation Act of 1980, effective September 26, 1980 (D.C. Law 3-109; D.C. Official Code § 1-301.2)1</code-cite>.</text>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-541.11" applicability-path="§301" action="creation of"/>
-      <codify:annotation doc="D.C. Code" path="§32-541.11" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-541.11" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-541.11">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.12"/>
+      <codify:insert doc="D.C. Code" path="|32|5|IV" num-value="32-541.12" codified:doc="D.C. Code" codified:path="§32-541.12"/>
       <num>112</num>
       <heading>Enforcement by civil action.</heading>
       <para>
@@ -2001,7 +2001,7 @@
         <text>If a court determines that an employer violated any provision of <code-cite doc="D.C. Code" path="32|5|IV">this act</code-cite>, <code-cite doc="D.C. Code" path="§32-509|(b)">section 10(b)(6)</code-cite> and (7) of D.C. FMLA shall apply.</text>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-541.12" applicability-path="§301" action="creation of"/>
-      <codify:annotation doc="D.C. Code" path="§32-541.12" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-541.12" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-541.12">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
   </container>
@@ -2014,14 +2014,14 @@
       <text>Section 6 of the Office of Administrative Hearings Establishment Act of 2001, effective March 2, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.03) is amended by adding a new subsection (b-12) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§2-1831.03" after="(b-11)"/>
+          <codify:insert doc="D.C. Code" path="§2-1831.03" after="(b-11)" codified:doc="D.C. Code" codified:path="§2-1831.03"/>
           <num>(b-12)</num>
           <text>In addition to those adjudicated cases listed in subsections (a), (b), (b-1), (b-2), (b-3), (b-4), (b-5), (b-6), (b-7), (b-8), (b-9), (b-10), and (b-11) of this section, <code-cite doc="D.C. Code" path="2|18A">this act</code-cite> shall apply to all adjudicated cases that arise under the <code-cite doc="D.C. Code" path="32|5|IV">Universal Paid Leave Act of 2016, passed on 2nd reading on December 20, 2016 (Enrolled version of Bill 21-415)</code-cite>.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Code" path="§2-1831.03" applicability-path="§301"/>
-      <codify:annotation doc="D.C. Code" path="§2-1831.03" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§2-1831.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1831.03">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
     <section codify:doc="D.C. Code" codify:path="§32-501|(4)">
@@ -2030,7 +2030,7 @@
       <para>
         <num>(a)</num>
         <text>Subparagraph (B) is amended by striking the word "or".</text>
-        <codify:find-replace path="(B)" count="1">
+        <codify:find-replace path="(B)" count="1" codified:doc="D.C. Code" codified:path="§32-501">
           <find>; or</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -2038,7 +2038,7 @@
       <para>
         <num>(b)</num>
         <text>Subparagraph (C) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-        <codify:find-replace path="(C)" count="1">
+        <codify:find-replace path="(C)" count="1" codified:doc="D.C. Code" codified:path="§32-501">
           <find>p.</find>
           <replace>p; or</replace>
         </codify:find-replace>
@@ -2048,7 +2048,7 @@
         <text>A new subparagraph (D) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§32-501"/>
             <num>(D)</num>
             <text>A foster child.</text>
           </para>
@@ -2056,7 +2056,7 @@
         <aftertext>.</aftertext>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§32-501" applicability-path="§301"/>
-      <codify:annotation doc="D.C. Code" path="§32-501" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-501" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-501">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
     <section>
@@ -2064,7 +2064,7 @@
       <text>Section 1152 of Universal Paid Leave Implementation Fund Act of 2016, effective October 8, 2016 (D.C. Law 21-160; 63 DCR 10775), is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace doc="D.C. Code" path="§32-551.01"/>
+          <codify:replace doc="D.C. Code" path="§32-551.01" codified:doc="D.C. Code" codified:path="§32-551.01"/>
           <num codify:value="32-551.01">1152</num>
           <heading>Universal Paid Leave Implementation Fund.</heading>
           <para>
@@ -2154,7 +2154,7 @@
       </include>
       <aftertext>.</aftertext>
       <codify:not-funded-anno doc="D.C. Code" path="§32-551.01" applicability-path="§301"/>
-      <codify:annotation doc="D.C. Code" path="§32-551.01" type="Applicability" history="false">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
+      <codify:annotation doc="D.C. Code" path="§32-551.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§32-551.01">Section 7034 of D.C. Law 22-33 repealed <cite doc="D.C. Law 21-264" path="§301">§ 301 of D.C. Law 21-264</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-264">D.C. Law 21-264</cite> have been given effect.
       </codify:annotation>
     </section>
   </container>
@@ -2196,157 +2196,157 @@
       <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C Official Code § 1-206.02(c)(1)), and publication in the District of Columbia Register.</text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-1201" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-1201" history="false" codified:doc="D.C. Code" codified:path="§32-1201"/>
       <num>32-1201</num>
       <heading>Definitions.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-521.01">§ 32-521.01</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-1202" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-1202" history="false" codified:doc="D.C. Code" codified:path="§32-1202"/>
       <num>32-1202</num>
       <heading>Amount of leave; denial; form; notice.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-521.02">§ 32-521.02</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-1203" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-1203" history="false" codified:doc="D.C. Code" codified:path="§32-1203"/>
       <num>32-1203</num>
       <heading>Effect of leave on employment benefits or seniority.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-521.03">§ 32-521.03</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-1204" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-1204" history="false" codified:doc="D.C. Code" codified:path="§32-1204"/>
       <num>32-1204</num>
       <heading>Administrative enforcement procedure; relief.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-521.04">§ 32-521.04</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-1205" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-1205" history="false" codified:doc="D.C. Code" codified:path="§32-1205"/>
       <num>32-1205</num>
       <heading>Enforcement by civil action.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-521.05">§ 32-521.05</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-1206" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-1206" history="false" codified:doc="D.C. Code" codified:path="§32-1206"/>
       <num>32-1206</num>
       <heading>Notice.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-521.06">§ 32-521.06</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.01" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.01" history="false" codified:doc="D.C. Code" codified:path="§32-131.01"/>
       <num>32-131.01</num>
       <heading>Definitions.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.01">§ 32-531.01</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.02" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.02" history="false" codified:doc="D.C. Code" codified:path="§32-131.02"/>
       <num>32-131.02</num>
       <heading>Provision of paid leave.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.02">§ 32-531.02</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.03" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.03" history="false" codified:doc="D.C. Code" codified:path="§32-131.03"/>
       <num>32-131.03</num>
       <heading>Notification.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.03">§ 32-531.03</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.04" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.04" history="false" codified:doc="D.C. Code" codified:path="§32-131.04"/>
       <num>32-131.04</num>
       <heading>Certification.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.04">§ 32-531.04</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.05" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.05" history="false" codified:doc="D.C. Code" codified:path="§32-131.05"/>
       <num>32-131.05</num>
       <heading>Current paid leave policies.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.05">§ 32-531.05</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.06" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.06" history="false" codified:doc="D.C. Code" codified:path="§32-131.06"/>
       <num>32-131.06</num>
       <heading>Effect on existing employment benefits.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.06">§ 32-531.06</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.07" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.07" history="false" codified:doc="D.C. Code" codified:path="§32-131.07"/>
       <num>32-131.07</num>
       <heading>Encouragement of more generous paid leave policies.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.07">§ 32-531.07</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.08" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.08" history="false" codified:doc="D.C. Code" codified:path="§32-131.08"/>
       <num>32-131.08</num>
       <heading>Prohibited acts.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.08">§ 32-531.08</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.09" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.09" history="false" codified:doc="D.C. Code" codified:path="§32-131.09"/>
       <num>32-131.09</num>
       <heading>Posting requirement.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.09">§ 32-531.09</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.10" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.10" history="false" codified:doc="D.C. Code" codified:path="§32-131.10"/>
       <num>32-131.10</num>
       <heading>Administration.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.10">§ 32-531.10</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.10a" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.10a" history="false" codified:doc="D.C. Code" codified:path="§32-131.10a"/>
       <num>32-131.10a</num>
       <heading>Statute of limitations.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.10a">§ 32-531.10a</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.10b" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.10b" history="false" codified:doc="D.C. Code" codified:path="§32-131.10b"/>
       <num>32-131.10b</num>
       <heading>Employer Records.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.10b">§ 32-531.10b</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.11" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.11" history="false" codified:doc="D.C. Code" codified:path="§32-131.11"/>
       <num>32-131.11</num>
       <heading>Effect on other laws.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.11">§ 32-531.11</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.12" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.12" history="false" codified:doc="D.C. Code" codified:path="§32-131.12"/>
       <num>32-131.12</num>
       <heading>Penalties.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.12">§ 32-531.12</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.13" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.13" history="false" codified:doc="D.C. Code" codified:path="§32-131.13"/>
       <num>32-131.13</num>
       <heading>Rules.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.13">§ 32-531.13</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.14" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.14" history="false" codified:doc="D.C. Code" codified:path="§32-131.14"/>
       <num>32-131.14</num>
       <heading>Hardship exemption.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.14">§ 32-531.14</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.15" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.15" history="false" codified:doc="D.C. Code" codified:path="§32-131.15"/>
       <num>32-131.15</num>
       <heading>Report by the District of Columbia Auditor.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.15">§ 32-531.15</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.15a" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.15a" history="false" codified:doc="D.C. Code" codified:path="§32-131.15a"/>
       <num>32-131.15a</num>
       <heading>Public education and outreach.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.15a">§ 32-531.15a</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.16" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.16" history="false" codified:doc="D.C. Code" codified:path="§32-131.16"/>
       <num>32-131.16</num>
       <heading>Applicability.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.16">§ 32-531.16</cite></text>
     </section>
     <section>
-      <codify:replace doc="D.C. Code" path="§32-131.17" history="false"/>
+      <codify:replace doc="D.C. Code" path="§32-131.17" history="false" codified:doc="D.C. Code" codified:path="§32-131.17"/>
       <num>32-131.17</num>
       <heading>Appropriations contingency.</heading>
       <text>Recodified as <cite doc="D.C. Code" path="§32-531.17">§ 32-531.17</cite></text>

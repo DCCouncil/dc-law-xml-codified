@@ -20,7 +20,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Bryant Street Tax Increment Financing Act of 2016".</text>
-  <codify:insert doc="D.C. Code" path="2|12|IX|B" after="6" history="false">
+  <codify:insert doc="D.C. Code" path="2|12|IX|B" after="6" history="false" codified:doc="D.C. Code" codified:path="2|12|IX|B|7">
     <container>
       <prefix>Subpart</prefix>
       <num>7</num>
@@ -28,7 +28,7 @@
     </container>
   </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" num-value="2-1217.37a"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" num-value="2-1217.37a" codified:doc="D.C. Code" codified:path="§2-1217.37a"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of <code-cite doc="D.C. Code" path="2|12|IX|B|7">this act</code-cite>, the term:</text>
@@ -110,7 +110,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37a" num-value="2-1217.37b"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37a" num-value="2-1217.37b" codified:doc="D.C. Code" codified:path="§2-1217.37b"/>
     <num>3</num>
     <heading>Creation of the Bryant Street TIF Fund.</heading>
     <para>
@@ -127,7 +127,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37b" num-value="2-1217.37c"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37b" num-value="2-1217.37c" codified:doc="D.C. Code" codified:path="§2-1217.37c"/>
     <num>4</num>
     <heading>Creation of the Bryant Street TIF Area.</heading>
     <para>
@@ -258,7 +258,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37c" num-value="2-1217.37d"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37c" num-value="2-1217.37d" codified:doc="D.C. Code" codified:path="§2-1217.37d"/>
     <num>5</num>
     <heading>Bond authorization.</heading>
     <para>
@@ -287,7 +287,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37d" num-value="2-1217.37e"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37d" num-value="2-1217.37e" codified:doc="D.C. Code" codified:path="§2-1217.37e"/>
     <num>6</num>
     <heading>Payment and security.</heading>
     <para>
@@ -308,7 +308,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37e" num-value="2-1217.37f"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37e" num-value="2-1217.37f" codified:doc="D.C. Code" codified:path="§2-1217.37f"/>
     <num>7</num>
     <heading>Bond details.</heading>
     <para>
@@ -405,7 +405,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37f" num-value="2-1217.37g"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37f" num-value="2-1217.37g" codified:doc="D.C. Code" codified:path="§2-1217.37g"/>
     <num>8</num>
     <heading>Issuance of the Bonds.</heading>
     <para>
@@ -430,7 +430,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37g" num-value="2-1217.37h"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37g" num-value="2-1217.37h" codified:doc="D.C. Code" codified:path="§2-1217.37h"/>
     <num>9</num>
     <heading>Financing and Closing Documents.</heading>
     <para>
@@ -455,7 +455,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37h" num-value="2-1217.37i"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37h" num-value="2-1217.37i" codified:doc="D.C. Code" codified:path="§2-1217.37i"/>
     <num>10</num>
     <heading>Limited liability.</heading>
     <para>
@@ -472,7 +472,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37i" num-value="2-1217.37j"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37i" num-value="2-1217.37j" codified:doc="D.C. Code" codified:path="§2-1217.37j"/>
     <num>11</num>
     <heading>District officials.</heading>
     <para>
@@ -485,25 +485,25 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37j" num-value="2-1217.37k"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37j" num-value="2-1217.37k" codified:doc="D.C. Code" codified:path="§2-1217.37k"/>
     <num>12</num>
     <heading>Maintenance of documents.</heading>
     <text>Copies of the specimen Bonds and of the final Financing Documents and Closing Documents shall be filed in the Office of the Secretary of the District of Columbia.</text>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37k" num-value="2-1217.37l"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37k" num-value="2-1217.37l" codified:doc="D.C. Code" codified:path="§2-1217.37l"/>
     <num>13</num>
     <heading>Information reporting.</heading>
     <text>Within 3 days after the Mayor's receipt of the transcript of proceedings relating to the issuance of the Bonds, the Mayor shall transmit a copy of the transcript to the Secretary to the Council.</text>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37l" num-value="2-1217.37m"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37l" num-value="2-1217.37m" codified:doc="D.C. Code" codified:path="§2-1217.37m"/>
     <num>14</num>
     <heading>Reservation of debt service.</heading>
     <text>The Bonds may not be issued until the Council has appropriated an amount equal to one year's debt service on the Bonds.</text>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37m" num-value="2-1217.37n"/>
+    <codify:insert doc="D.C. Code" path="2|12|IX|B|7" after="§2-1217.37m" num-value="2-1217.37n" codified:doc="D.C. Code" codified:path="§2-1217.37n"/>
     <num>15</num>
     <heading>Expiration of issuance authority.</heading>
     <text>The authority to issue the Bonds shall expire on March 1, 2019; provided, that the expiration of the authority shall have no effect on any Bonds issued prior to the expiration date.</text>

@@ -20,7 +20,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Child Care Study Act of 2017".</text>
-  <codify:insert doc="D.C. Code" path="7|20" after="I" history="false">
+  <codify:insert doc="D.C. Code" path="7|20" after="I" history="false" codified:doc="D.C. Code" codified:path="7|20|I-A">
     <container>
       <prefix>Subchapter</prefix>
       <num>I-A</num>
@@ -28,7 +28,7 @@
     </container>
   </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="7|20|I-A" num-value="7-2011.01"/>
+    <codify:insert doc="D.C. Code" path="7|20|I-A" num-value="7-2011.01" codified:doc="D.C. Code" codified:path="§7-2011.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of <code-cite doc="D.C. Code" path="7|20|I-A">this act</code-cite>, the term:</text>
@@ -52,10 +52,10 @@
       </para>
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2011.01" applicability-path="§7" action="creation of"/>
-    <codify:annotation doc="D.C. Code" path="§7-2011.01" type="Applicability" history="false">Section 7038 of D.C. Law 22-33 repealed <cite doc="D.C. Law 22-11" path="§7">§ 7 of D.C. Law 22-11</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 22-11">D.C. Law 22-11</cite> have been given effect.</codify:annotation>
+    <codify:annotation doc="D.C. Code" path="§7-2011.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-2011.01">Section 7038 of D.C. Law 22-33 repealed <cite doc="D.C. Law 22-11" path="§7">§ 7 of D.C. Law 22-11</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 22-11">D.C. Law 22-11</cite> have been given effect.</codify:annotation>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="7|20|I-A" num-value="7-2011.02"/>
+    <codify:insert doc="D.C. Code" path="7|20|I-A" num-value="7-2011.02" codified:doc="D.C. Code" codified:path="§7-2011.02"/>
     <num>3</num>
     <heading>Study of child development facilities with non-traditional hours.</heading>
     <para>
@@ -127,10 +127,10 @@
       </para>
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2011.02" applicability-path="§7" action="creation of"/>
-    <codify:annotation doc="D.C. Code" path="§7-2011.02" type="Applicability" history="false">Section 7038 of D.C. Law 22-33 repealed <cite doc="D.C. Law 22-11" path="§7">§ 7 of D.C. Law 22-11</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 22-11">D.C. Law 22-11</cite> have been given effect.</codify:annotation>
+    <codify:annotation doc="D.C. Code" path="§7-2011.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-2011.02">Section 7038 of D.C. Law 22-33 repealed <cite doc="D.C. Law 22-11" path="§7">§ 7 of D.C. Law 22-11</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 22-11">D.C. Law 22-11</cite> have been given effect.</codify:annotation>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="7|20|I-A" num-value="7-2011.03"/>
+    <codify:insert doc="D.C. Code" path="7|20|I-A" num-value="7-2011.03" codified:doc="D.C. Code" codified:path="§7-2011.03"/>
     <num>4</num>
     <heading>Study on the impact of OSSE's regulations that require increased education qualifications for staff members.</heading>
     <para>
@@ -210,26 +210,26 @@
       </para>
     </para>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2011.03" applicability-path="§7" action="creation of"/>
-    <codify:annotation doc="D.C. Code" path="§7-2011.03" type="Applicability" history="false">Section 7038 of D.C. Law 22-33 repealed <cite doc="D.C. Law 22-11" path="§7">§ 7 of D.C. Law 22-11</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 22-11">D.C. Law 22-11</cite> have been given effect.</codify:annotation>
+    <codify:annotation doc="D.C. Code" path="§7-2011.03" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-2011.03">Section 7038 of D.C. Law 22-33 repealed <cite doc="D.C. Law 22-11" path="§7">§ 7 of D.C. Law 22-11</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 22-11">D.C. Law 22-11</cite> have been given effect.</codify:annotation>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="7|20|I-A" num-value="7-2011.04"/>
+    <codify:insert doc="D.C. Code" path="7|20|I-A" num-value="7-2011.04" codified:doc="D.C. Code" codified:path="§7-2011.04"/>
     <num>5</num>
     <heading>Submission of studies to the Council.</heading>
     <text>OSSE shall submit the studies required in <code-cite doc="D.C. Code" path="§7-2011.02">section 3</code-cite> and <code-cite doc="D.C. Code" path="§7-2011.03">section 4</code-cite> to the Council no later than one year from <span codify:value="August 1, 2017">the effective date of this act</span>.</text>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2011.04" applicability-path="§7" action="creation of"/>
-    <codify:annotation doc="D.C. Code" path="§7-2011.04" type="Applicability" history="false">Section 7038 of D.C. Law 22-33 repealed <cite doc="D.C. Law 22-11" path="§7">§ 7 of D.C. Law 22-11</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 22-11">D.C. Law 22-11</cite> have been given effect.</codify:annotation>
+    <codify:annotation doc="D.C. Code" path="§7-2011.04" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-2011.04">Section 7038 of D.C. Law 22-33 repealed <cite doc="D.C. Law 22-11" path="§7">§ 7 of D.C. Law 22-11</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 22-11">D.C. Law 22-11</cite> have been given effect.</codify:annotation>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="7|20|I-A" num-value="7-2011.05"/>
+    <codify:insert doc="D.C. Code" path="7|20|I-A" num-value="7-2011.05" codified:doc="D.C. Code" codified:path="§7-2011.05"/>
     <num>6</num>
     <heading>Shared data and information with the Department of Employment Services.</heading>
     <text>The Department of Employment Services shall coordinate with OSSE to share data and information regarding the District's workforce and workforce development.</text>
     <codify:not-funded-anno doc="D.C. Code" path="§7-2011.05" applicability-path="§7" action="creation of"/>
-    <codify:annotation doc="D.C. Code" path="§7-2011.05" type="Applicability" history="false">Section 7038 of D.C. Law 22-33 repealed <cite doc="D.C. Law 22-11" path="§7">§ 7 of D.C. Law 22-11</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 22-11">D.C. Law 22-11</cite> have been given effect.</codify:annotation>
+    <codify:annotation doc="D.C. Code" path="§7-2011.05" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-2011.05">Section 7038 of D.C. Law 22-33 repealed <cite doc="D.C. Law 22-11" path="§7">§ 7 of D.C. Law 22-11</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 22-11">D.C. Law 22-11</cite> have been given effect.</codify:annotation>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="7|20|I-A" num-value="7-2011.06"/>
+    <codify:insert doc="D.C. Code" path="7|20|I-A" num-value="7-2011.06" codified:doc="D.C. Code" codified:path="§7-2011.06"/>
     <num>7</num>
     <heading>Applicability.</heading>
     <para>
@@ -252,7 +252,7 @@
       </para>
     </para>
   </section>
-  <codify:repeal doc="D.C. Law 22-11" path="§7"/>
+  <codify:repeal doc="D.C. Law 22-11" path="§7" codified:doc="D.C. Code" codified:path="§7-2011.06"/>
   <section>
     <num>8</num>
     <heading>Fiscal impact statement.</heading>

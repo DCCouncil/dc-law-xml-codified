@@ -63,7 +63,7 @@
       <text>A new Subchapter III is added to read as follows:</text>
       <include>
         <container>
-          <codify:insert/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§21-2231.01"/>
           <prefix>Subchapter</prefix>
           <num>III</num>
           <heading>Hospital Discharge Planning.</heading>

@@ -86,8 +86,10 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>My School DC EdFest.</heading>
+      <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="IV" type="History" display="false"/>
       <xi:include href="./sections/38-196.01.xml"/>
     </container>
+    <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="IV" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -255,6 +257,7 @@
     <prefix>Chapter</prefix>
     <num>3B</num>
     <heading>Office of the Student Advocate.</heading>
+    <annotation app="2014-02-22" doc="D.C. Law 20-76" eff="2014-02-22" path="" type="History" display="false"/>
     <xi:include href="./sections/38-371.xml"/>
     <xi:include href="./sections/38-372.xml"/>
     <xi:include href="./sections/38-373.xml"/>
@@ -566,6 +569,7 @@
     <prefix>Chapter</prefix>
     <num>8B</num>
     <heading>Protection of Students Digital Privacy.</heading>
+    <annotation app="2017-02-18" doc="D.C. Law 21-218" eff="2017-02-18" path="" type="History" display="false"/>
     <xi:include href="./sections/38-831.01.xml"/>
     <xi:include href="./sections/38-831.02.xml"/>
     <xi:include href="./sections/38-831.03.xml"/>
@@ -1316,6 +1320,7 @@
     <xi:include href="./sections/38-2237.xml"/>
     <xi:include href="./sections/38-2238.xml"/>
     <xi:include href="./sections/38-2239.xml"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7042" type="History"/>
   </container>
   <subheading>Subtitle VI. EDUCATION FOR HEARING IMPAIRED PERSONS.</subheading>
   <container>
@@ -1527,10 +1532,12 @@
     <prefix>Chapter</prefix>
     <num>26A-i</num>
     <heading>District of Columbia State Athletics Commission and State Athletic Association.</heading>
+    <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" type="History" display="false"/>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Short title and definitions.</heading>
+      <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" type="History" display="false"/>
       <xi:include href="./sections/38-2661.01.xml"/>
       <xi:include href="./sections/38-2661.02.xml"/>
     </container>
@@ -1538,6 +1545,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>District of Columbia State Athletics Commission. </heading>
+      <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" type="History" display="false"/>
       <xi:include href="./sections/38-2661.11.xml"/>
       <xi:include href="./sections/38-2661.12.xml"/>
       <xi:include href="./sections/38-2661.13.xml"/>
@@ -1547,6 +1555,7 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>District of Columbia State Athletics Commission. </heading>
+      <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" type="History" display="false"/>
       <xi:include href="./sections/38-2661.21.xml"/>
       <xi:include href="./sections/38-2661.22.xml"/>
       <xi:include href="./sections/38-2661.23.xml"/>
@@ -1558,6 +1567,7 @@
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>District of Columbia State Athletics Commission. </heading>
+      <annotation app="2017-04-07" doc="D.C. Law 21-263" eff="2017-04-07" path="" type="History" display="false"/>
       <xi:include href="./sections/38-2661.31.xml"/>
     </container>
   </container>
@@ -1604,6 +1614,7 @@
     <xi:include href="./sections/38-2757.xml"/>
     <xi:include href="./sections/38-2758.xml"/>
     <xi:include href="./sections/38-2759.xml"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7058" type="History"/>
   </container>
   <subheading>Subtitle X. School Funding and Spending.</subheading>
   <container>
@@ -1675,6 +1686,7 @@
     <prefix>Chapter</prefix>
     <num>29A-i</num>
     <heading>District of Columbia Public Schools Contracting and Spending.</heading>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="IV" type="History" display="false"/>
     <xi:include href="./sections/38-2955.xml"/>
   </container>
   <container>
@@ -1745,6 +1757,7 @@
     <prefix>Chapter</prefix>
     <num>34</num>
     <heading>Universal Street Safety Education.</heading>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="V" type="History" display="false"/>
     <xi:include href="./sections/38-3401.xml"/>
   </container>
 </container>

@@ -28,7 +28,7 @@
     <text>The Health Care Privatization Amendment Act of 2001, effective July 12, 2001 (D.C. Law 14-18; D.C. Official Code § 7-1401 <em>et seq.</em>), is amended by adding new sections 7b, 7c, and 7d to read as follows:</text>
     <include>
       <section>
-        <codify:insert path="7|14" num-value="7-1407" history-prefix="as added"/>
+        <codify:insert path="7|14" num-value="7-1407" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-1407"/>
         <num>7b</num>
         <heading>DC HealthCare Alliance recertification.</heading>
         <text>If DC HealthCare Alliance enrollees are required to complete an interview as a recertification requirement more than once in a 12-month period, the Mayor shall:</text>
@@ -47,7 +47,7 @@
         <codify:not-funded-anno doc="D.C. Code" path="§7-1407" applicability-path="§3" action="creation of"/>
       </section>
       <section>
-        <codify:insert path="7|14" num-value="7-1408" history-prefix="as added"/>
+        <codify:insert path="7|14" num-value="7-1408" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-1408"/>
         <num>7c</num>
         <heading>Special certification and recertification procedures for certain individuals.</heading>
         <text>Upon request from an applicant or enrollee who is hospitalized, disabled, elderly, or caring for a household member who is hospitalized, disabled, or elderly, the Mayor shall exempt the applicant or enrollee from any required face-to-face interview if the applicant or enrollee is unable to complete a face-to-face interview.</text>
@@ -55,7 +55,7 @@
         <codify:not-funded-anno doc="D.C. Code" path="§7-1408" applicability-path="§3" action="creation of"/>
       </section>
       <section>
-        <codify:insert path="7|14" num-value="7-1409" history-prefix="as added"/>
+        <codify:insert path="7|14" num-value="7-1409" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-1409"/>
         <num>7d</num>
         <heading>Reporting requirements.</heading>
         <text>Beginning February 1, 2018, and on an annual basis thereafter, the Mayor shall submit a public report to the Council that shall include, for each of the last 12 months, the following information:</text>
@@ -130,7 +130,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 22-35" path="§2" date="notfunded" history="false"/>
+      <codify:applicability doc="D.C. Law 22-35" path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§7-1407"/>
     </para>
     <para>
       <num>(b)</num>

@@ -153,12 +153,14 @@
       <prefix>Subchapter</prefix>
       <num>IV-B</num>
       <heading>Official Fish of the District of Columbia.</heading>
+      <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
       <xi:include href="./sections/1-166.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV-C</num>
       <heading>Official Amphipod of the District of Columbia.</heading>
+      <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
       <xi:include href="./sections/1-166.51.xml"/>
     </container>
     <container>
@@ -1179,24 +1181,28 @@
         <prefix>Part</prefix>
         <num>JJ</num>
         <heading>Housing Preservation Fund.</heading>
+        <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="II" type="History" display="false"/>
         <xi:include href="./sections/1-325.351.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>KK</num>
         <heading>St. Elizabeths East Campus Redevelopment Fund.</heading>
+        <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="II" type="History" display="false"/>
         <xi:include href="./sections/1-325.361.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>LL</num>
         <heading>Ward 7 and Ward 8 Entrepreneur Grant Fund.</heading>
+        <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="II" type="History" display="false"/>
         <xi:include href="./sections/1-325.371.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>MM</num>
         <heading>Product Stewardship Fund.</heading>
+        <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§6003|(d)" type="History" display="false"/>
         <xi:include href="./sections/1-325.381.xml"/>
       </container>
     </container>
@@ -1455,6 +1461,7 @@
       <prefix>Subchapter</prefix>
       <num>IX</num>
       <heading>Bonus Pay and Special Awards Pay.</heading>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="I" type="History" display="false"/>
       <xi:include href="./sections/1-551.01.xml"/>
       <xi:include href="./sections/1-551.02.xml"/>
       <xi:include href="./sections/1-551.03.xml"/>

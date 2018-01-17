@@ -20,7 +20,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Healthy Public Buildings Assessment Act of 2016".</text>
-  <codify:insert doc="D.C. Code" path="|10|7" after="I" history="false">
+  <codify:insert doc="D.C. Code" path="|10|7" after="I" history="false" codified:doc="D.C. Code" codified:path="10|7|II">
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
@@ -28,7 +28,7 @@
     </container>
   </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="|10|7|II" num-value="10-711"/>
+    <codify:insert doc="D.C. Code" path="|10|7|II" num-value="10-711" codified:doc="D.C. Code" codified:path="§10-711"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of <code-cite doc="D.C. Code" path="|10|7|II">this act</code-cite>, the term:</text>
@@ -58,7 +58,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|10|7|II" num-value="10-712"/>
+    <codify:insert doc="D.C. Code" path="|10|7|II" num-value="10-712" codified:doc="D.C. Code" codified:path="§10-712"/>
     <num>3</num>
     <heading>Assessments of public buildings for environmental risks.</heading>
     <para>

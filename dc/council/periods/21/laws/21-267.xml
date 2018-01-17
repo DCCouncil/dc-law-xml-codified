@@ -29,7 +29,7 @@
       <text>Subsection (a) is amended by adding a new paragraph (3) to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(2)"/>
+          <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§10-801"/>
           <num>(3)</num>
           <text>The Mayor shall submit to the Council a semiannual report explaining the status of each disposition approved by the Council during the previous 2 years, including a schedule for project completion of each disposition, an explanation of impediments, if any, to completion of the project, and a description of the steps that are being taken to resolve them.</text>
         </para>
@@ -42,7 +42,7 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the phrase "and a detailed explanation as to why the real property is no longer required for public purposes".</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-801">
           <find>and a detailed explanation as to why the real property is no longer required for public purposes</find>
           <replace/>
         </codify:find-replace>
@@ -55,7 +55,7 @@
           <text>Subparagraph (A) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§10-801"/>
               <num>(A)</num>
               <text>Whether the real property could have any use by the District, including a description of the District's current needs for real property, a description of potential public uses considered by the Mayor, and a narrative explaining why the real property is unsuited for each public use considered;</text>
             </para>
@@ -65,7 +65,7 @@
         <para codify:path="(B)">
           <num>(B)</num>
           <text>Subparagraph (B) is amended by striking the word "Why" and inserting the phrase "A detailed explanation as to why the real property is no longer required for public purposes, and why" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-801">
             <find>Why</find>
             <replace>A detailed explanation as to why the real property is no longer required for public purposes, and why</replace>
           </codify:find-replace>
@@ -76,7 +76,7 @@
         <text>Paragraph (4) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§10-801"/>
             <num>(4)</num>
             <text>Before submitting a proposed resolution pursuant to this subsection, and at least 60 days before seeking proposals for the disposition of the real property or otherwise proceeding to negotiate the disposition of the real property, the Mayor shall hold at least one public hearing to obtain community input on potential public uses of the real property to inform the Mayor's determination whether the real property is no longer required for public purposes.  This surplus hearing shall be held at an accessible evening or weekend time and in an accessible location in the vicinity of the real property.  The Mayor shall provide at least 30 days written notice of the public hearing to the affected Advisory Neighborhood Commissions and shall publicize the hearing by posting a written notice at the site and placing a notice in the District of Columbia Register at least 15 days before the hearing.</text>
           </para>
@@ -86,13 +86,13 @@
       <para codify:path="(5)">
         <num>(4)</num>
         <text>Paragraph (5) is repealed.</text>
-        <codify:repeal/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§10-801"/>
       </para>
     </para>
     <para codify:path="(a-3)">
       <num>(c)</num>
       <text>Subsection (a-3) is repealed.</text>
-      <codify:repeal/>
+      <codify:repeal codified:doc="D.C. Code" codified:path="§10-801"/>
     </para>
     <para codify:path="(b)">
       <num>(d)</num>
@@ -107,14 +107,14 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:replace>
+        <codify:replace codified:doc="D.C. Code" codified:path="§10-801">
           <text>If the Mayor seeks to dispose of real property that is determined to no longer be required for public purposes pursuant to subsection (a-1) of this section, the Mayor shall submit to the Council a proposed resolution that contains the following:</text>
         </codify:replace>
       </para>
       <para codify:path="(5)">
         <num>(2)</num>
         <text>Paragraph (5) is amended by striking the phrase "(a-3)" both times it appears and inserting the phrase "(b-3)" in its place.</text>
-        <codify:find-replace count="2">
+        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§10-801">
           <find>(a-3)</find>
           <replace>(b-3)</replace>
         </codify:find-replace>
@@ -122,7 +122,7 @@
       <para codify:path="(8)|(C)">
         <num>(3)</num>
         <text>Paragraph (8)(C) is amended by striking the number "20" and inserting the number "15" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-801">
           <find>20</find>
           <replace>15</replace>
         </codify:find-replace>
@@ -132,7 +132,7 @@
         <text>Paragraph (9) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§10-801"/>
             <num>(9)</num>
             <text>The following statement:</text>
             <text>"The Land Disposition Agreement for the disposition of the real property shall not be inconsistent with the substantive business terms of the transaction submitted by the Mayor with this resolution, unless revisions to those substantive business terms are approved by the Council."</text>
@@ -150,7 +150,7 @@
         <para codify:path="(B)">
           <num>(A)</num>
           <text>Subparagraph (B) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-801">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -158,7 +158,7 @@
         <para codify:path="(C)">
           <num>(B)</num>
           <text>Subparagraph (C) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-801">
             <find>s.</find>
             <replace>s; and</replace>
           </codify:find-replace>
@@ -168,7 +168,7 @@
           <text>A new subparagraph (D) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(C)"/>
+              <codify:insert after="(C)" codified:doc="D.C. Code" codified:path="§10-801"/>
               <num>(D)</num>
               <text>A pre-disposition economic impact statement in the form of a quantitative analysis that estimates the economic benefits, including revenues, tax receipts, and job creation, that will result from the disposition, including the anticipated benefits of any development project to be undertaken at the property and any offsite property, including direct, indirect, or induced outcomes.</text>
             </para>
@@ -179,7 +179,7 @@
       <para codify:path="(2)|(A)">
         <num>(2)</num>
         <text>Paragraph (2)(A) is amended by striking the word "major" and inserting the word "substantive" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-801">
           <find>major</find>
           <replace>substantive</replace>
         </codify:find-replace>
@@ -189,7 +189,7 @@
         <text>Paragraphs (3) and (4) are amended to read as follows:</text>
         <include>
           <para codify:path="(3)">
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§10-801"/>
             <num>(3)</num>
             <para>
               <num>(A)</num>
@@ -201,7 +201,7 @@
             </para>
           </para>
           <para codify:path="(4)">
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§10-801"/>
             <num>(4)</num>
             <text>An itemization, together with an explanation, of any government assistance to be received, or contemplated to be received, by the purchaser or lessee under the disposition, including any discount on the price or rent, grants, loans, tax credits, tax abatements, tax increment financing, affordable housing subsidies, land exchange, and negotiated contributions.</text>
           </para>
@@ -211,7 +211,7 @@
       <para codify:path="(5)|(B)">
         <num>(4)</num>
         <text>Paragraph (5)(B) is amended by striking the phrase "at the time the resolution is transmitted." and inserting the phrase "at the time the resolution is transmitted; provided, that ifdocuments transmitted with the proposed resolution are revised during the pendency of Council consideration of the proposed resolution, the revised documents shall be clearly marked and transmitted promptly to the Council." in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-801">
           <find>at the time the resolution is transmitted.</find>
           <replace>at the time the resolution is transmitted; provided, that ifdocuments transmitted with the proposed resolution are revised during the pendency of Council consideration of the proposed resolution, the revised documents shall be clearly marked and transmitted promptly to the Council.</replace>
         </codify:find-replace>
@@ -219,7 +219,7 @@
       <para codify:path="(6)">
         <num>(5)</num>
         <text>Paragraph (6) is repealed.</text>
-        <codify:repeal/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§10-801"/>
       </para>
     </para>
     <para>
@@ -227,7 +227,7 @@
       <text>New subsections (b-2), (b-3), and (b-4) are added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(b-1)"/>
+          <codify:insert after="(b-1)" codified:doc="D.C. Code" codified:path="§10-801"/>
           <num>(b-2)</num>
           <para>
             <num>(1)</num>
@@ -239,7 +239,7 @@
           </para>
         </para>
         <para>
-          <codify:insert after="(b-2)"/>
+          <codify:insert after="(b-2)" codified:doc="D.C. Code" codified:path="§10-801"/>
           <num>(b-3)</num>
           <para>
             <num>(1)</num>
@@ -323,7 +323,7 @@
           </para>
         </para>
         <para>
-          <codify:insert after="(b-3)"/>
+          <codify:insert after="(b-3)" codified:doc="D.C. Code" codified:path="§10-801"/>
           <num>(b-4)</num>
           <para>
             <num>(1)</num>
@@ -350,7 +350,7 @@
       <text>Subsection (d) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§10-801"/>
           <num>(d)</num>
           <text>Approval of the disposition of the real property by the Council shall expire 2 years after the effective date of the resolution of approval.  If the Mayor determines subsequent to Council approval that the property cannot be disposed of within the 2-year period, the Mayor may submit to the Council a resolution to extend the time for the disposition of the property, and shall include with the transmittal a detailed status report on efforts made toward disposition of the property as well as the reasons for the inability to dispose of the property within the 2-year period.  The resolution may extend the time for any specified period up to 2 years.  If the Council does not take action to approve or disapprove the resolution within 45 days of receipt of the resolution, not including Saturdays, Sundays, legal holidays, or days of Council recess, the resolution shall be deemed disapproved.</text>
         </para>
@@ -360,11 +360,11 @@
     <para>
       <num>(h)</num>
       <text>Subsections (h), (i), (j), (k), and (l) are repealed.</text>
-      <codify:repeal path="(h)"/>
-      <codify:repeal path="(i)"/>
-      <codify:repeal path="(j)"/>
-      <codify:repeal path="(k)"/>
-      <codify:repeal path="(l)"/>
+      <codify:repeal path="(h)" codified:doc="D.C. Code" codified:path="§10-801"/>
+      <codify:repeal path="(i)" codified:doc="D.C. Code" codified:path="§10-801"/>
+      <codify:repeal path="(j)" codified:doc="D.C. Code" codified:path="§10-801"/>
+      <codify:repeal path="(k)" codified:doc="D.C. Code" codified:path="§10-801"/>
+      <codify:repeal path="(l)" codified:doc="D.C. Code" codified:path="§10-801"/>
     </para>
   </section>
   <section>

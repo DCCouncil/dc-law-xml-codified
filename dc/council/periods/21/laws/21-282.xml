@@ -21,14 +21,14 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Fisheries and Wildlife Omnibus Amendment Act of 2016".</text>
-  <codify:insert doc="D.C. Code" path="1|1" after="IV-A" history="false">
+  <codify:insert doc="D.C. Code" path="1|1" after="IV-A" history="false" codified:doc="D.C. Code" codified:path="1|1|IV-B">
     <container>
       <prefix>Subchapter</prefix>
       <num>IV-B</num>
       <heading>Official Fish of the District of Columbia.</heading>
     </container>
   </codify:insert>
-  <codify:insert doc="D.C. Code" path="1|1" after="IV-B" history="false">
+  <codify:insert doc="D.C. Code" path="1|1" after="IV-B" history="false" codified:doc="D.C. Code" codified:path="1|1|IV-C">
     <container>
       <prefix>Subchapter</prefix>
       <num>IV-C</num>
@@ -40,7 +40,7 @@
     <num>I</num>
     <heading>NATURAL RESOURCES EDUCATION</heading>
     <section>
-      <codify:insert doc="D.C. Code" path="1|1|IV-B" num-value="1-166.01"/>
+      <codify:insert doc="D.C. Code" path="1|1|IV-B" num-value="1-166.01" codified:doc="D.C. Code" codified:path="§1-166.01"/>
       <num>101</num>
       <heading>Official fish of the District of Columbia.</heading>
       <para>
@@ -65,7 +65,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="1|1|IV-C" num-value="1-166.51"/>
+      <codify:insert doc="D.C. Code" path="1|1|IV-C" num-value="1-166.51" codified:doc="D.C. Code" codified:path="§1-166.51"/>
       <num>102</num>
       <heading>Official amphipod of the District of Columbia.</heading>
       <para>
@@ -90,7 +90,7 @@
       </para>
     </section>
   </container>
-  <codify:insert doc="D.C. Code" path="8" after="17" history="false">
+  <codify:insert doc="D.C. Code" path="8" after="17" history="false" codified:doc="D.C. Code" codified:path="8|17A">
     <container>
       <prefix>Chapter</prefix>
       <num>17A</num>
@@ -102,7 +102,7 @@
     <num>II</num>
     <heading>NATURAL RESOURCES CONSERVATION</heading>
     <section>
-      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.01"/>
+      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.01" codified:doc="D.C. Code" codified:path="§8-1731.01"/>
       <num>201</num>
       <heading>Definitions.</heading>
       <text>For the purposes of <code-cite doc="D.C. Code" path="8|17A">this title</code-cite>, the term:</text>
@@ -229,11 +229,11 @@
           </para>
         </para>
       </para>
-      <codify:annotation doc="D.C. Code" path="§8-1731.01" type="Construction of Law" history="false"><cite doc="D.C. Law 21-282" path="§601">Section 601 of D.C. Law 21-282</cite> provides that nothing in this act shall be construed to affect an action or proceeding commenced before May 19, 2017.
+      <codify:annotation doc="D.C. Code" path="§8-1731.01" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-1731.01"><cite doc="D.C. Law 21-282" path="§601">Section 601 of D.C. Law 21-282</cite> provides that nothing in this act shall be construed to affect an action or proceeding commenced before May 19, 2017.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.02"/>
+      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.02" codified:doc="D.C. Code" codified:path="§8-1731.02"/>
       <num>202</num>
       <heading>Critical areas.</heading>
       <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to:</text>
@@ -247,13 +247,13 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.03"/>
+      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.03" codified:doc="D.C. Code" codified:path="§8-1731.03"/>
       <num>203</num>
       <heading>Shoreline protection.</heading>
       <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to require shoreline protection measures, which shall, to the maximum extent possible, promote the use of living shoreline projects.</text>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.04"/>
+      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.04" codified:doc="D.C. Code" codified:path="§8-1731.04"/>
       <num>204</num>
       <heading>Invasive plants and nonindigenous nuisance species.</heading>
       <para>
@@ -286,7 +286,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.05"/>
+      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.05" codified:doc="D.C. Code" codified:path="§8-1731.05"/>
       <num>205</num>
       <heading>Entry and inspection.</heading>
       <para>
@@ -307,7 +307,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.06"/>
+      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.06" codified:doc="D.C. Code" codified:path="§8-1731.06"/>
       <num>206</num>
       <heading>Enforcement and penalties.</heading>
       <para>
@@ -324,7 +324,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.07"/>
+      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.07" codified:doc="D.C. Code" codified:path="§8-1731.07"/>
       <num>207</num>
       <heading>Exception for research.</heading>
       <para>
@@ -341,34 +341,34 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.08"/>
+      <codify:insert doc="D.C. Code" path="8|17A" num-value="8-1731.08" codified:doc="D.C. Code" codified:path="§8-1731.08"/>
       <num>208</num>
       <heading>Rules.</heading>
       <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5">the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, may issue rules to implement the provisions of <code-cite doc="D.C. Code" path="8|17A">this title</code-cite>, including rules to establish fees.</text>
     </section>
   </container>
-  <codify:insert doc="D.C. Code" path="8|22" history="false">
+  <codify:insert doc="D.C. Code" path="8|22" history="false" codified:doc="D.C. Code" codified:path="8|22|II">
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Game and Fish.</heading>
     </container>
   </codify:insert>
-  <codify:insert doc="D.C. Code" path="8|22" history="false">
+  <codify:insert doc="D.C. Code" path="8|22" history="false" codified:doc="D.C. Code" codified:path="8|22|III">
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Fishing.</heading>
     </container>
   </codify:insert>
-  <codify:insert doc="D.C. Code" path="8|22|III" history="false">
+  <codify:insert doc="D.C. Code" path="8|22|III" history="false" codified:doc="D.C. Code" codified:path="8|22|III|A">
     <container>
       <prefix>Part</prefix>
       <num>A</num>
       <heading>Authorizing Fishing Licensure by Private Entities.</heading>
     </container>
   </codify:insert>
-  <codify:insert doc="D.C. Code" path="8|22|III" history="false">
+  <codify:insert doc="D.C. Code" path="8|22|III" history="false" codified:doc="D.C. Code" codified:path="8|22|III|B">
     <container>
       <prefix>Part</prefix>
       <num>B</num>
@@ -384,7 +384,7 @@
       <num>A</num>
       <heading>Authorizing Fishing Licensure by Private Entities.</heading>
       <section>
-        <codify:insert doc="D.C. Code" path="8|22|III|A" num-value="8-2231.01"/>
+        <codify:insert doc="D.C. Code" path="8|22|III|A" num-value="8-2231.01" codified:doc="D.C. Code" codified:path="§8-2231.01"/>
         <num>301</num>
         <heading>Definitions.</heading>
         <text>For the purposes of <code-cite doc="D.C. Code" path="8|22|III|A">this subtitle</code-cite>, the term:</text>
@@ -419,11 +419,11 @@
           <num>(4)</num>
           <text>"Substantial change in ownership" means a transfer of 10% or more in the equity of or financial interest in a covered establishment.</text>
         </para>
-        <codify:annotation doc="D.C. Code" path="§8-2231.01" type="Construction of Law" history="false"><cite doc="D.C. Law 21-282" path="§601">Section 601 of D.C. Law 21-282</cite> provides that nothing in this act shall be construed to affect an action or proceeding commenced before May 19, 2017.
+        <codify:annotation doc="D.C. Code" path="§8-2231.01" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-2231.01"><cite doc="D.C. Law 21-282" path="§601">Section 601 of D.C. Law 21-282</cite> provides that nothing in this act shall be construed to affect an action or proceeding commenced before May 19, 2017.
       </codify:annotation>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="8|22|III|A" num-value="8-2231.02"/>
+        <codify:insert doc="D.C. Code" path="8|22|III|A" num-value="8-2231.02" codified:doc="D.C. Code" codified:path="§8-2231.02"/>
         <num>302</num>
         <heading>Fishing licensure by covered establishments.</heading>
         <para>
@@ -524,7 +524,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="8|22|III|A" num-value="8-2231.03"/>
+        <codify:insert doc="D.C. Code" path="8|22|III|A" num-value="8-2231.03" codified:doc="D.C. Code" codified:path="§8-2231.03"/>
         <num>303</num>
         <heading>Denial, revocation, or suspension of authorization.</heading>
         <para>
@@ -581,7 +581,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="8|22|III|A" num-value="8-2231.04"/>
+        <codify:insert doc="D.C. Code" path="8|22|III|A" num-value="8-2231.04" codified:doc="D.C. Code" codified:path="§8-2231.04"/>
         <num>304</num>
         <heading>Voluntary cessation of sales.</heading>
         <para>
@@ -594,13 +594,13 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="8|22|III|A" num-value="8-2231.05"/>
+        <codify:insert doc="D.C. Code" path="8|22|III|A" num-value="8-2231.05" codified:doc="D.C. Code" codified:path="§8-2231.05"/>
         <num>305</num>
         <heading>Administrative appeals.</heading>
         <text>A covered establishment aggrieved by an action of the Mayor taken pursuant to <code-cite doc="D.C. Code" path="8|22|III|A">this subtitle</code-cite>, or regulations promulgated pursuant to <code-cite doc="D.C. Code" path="8|22|III|A">this subtitle</code-cite>, may appeal the action to the Office of Administrative Hearings pursuant to <code-cite doc="D.C. Code" path="§2-1831.03|(a)">section 6(a) of the Office of Administrative Hearings Establishment Act of 2001, effective March 6, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.03(a))</code-cite>.</text>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="8|22|III|A" num-value="8-2231.06"/>
+        <codify:insert doc="D.C. Code" path="8|22|III|A" num-value="8-2231.06" codified:doc="D.C. Code" codified:path="§8-2231.06"/>
         <num>306</num>
         <heading>Rules; enforcement.</heading>
         <para>
@@ -618,7 +618,7 @@
       <num>B</num>
       <heading>ESTABLISHING AND CLARIFYING FISHING AUTHORITIES</heading>
       <section>
-        <codify:insert doc="D.C. Code" path="8|22|III|B" num-value="8-2231.11"/>
+        <codify:insert doc="D.C. Code" path="8|22|III|B" num-value="8-2231.11" codified:doc="D.C. Code" codified:path="§8-2231.11"/>
         <num>311</num>
         <heading>Allowable fishing gear types.</heading>
         <para>
@@ -641,11 +641,11 @@
           <num>(e)</num>
           <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5">the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, may issue rules to implement the provisions of <code-cite doc="D.C. Code" path="8|22|III|B">this subtitle</code-cite>.</text>
         </para>
-        <codify:annotation doc="D.C. Code" path="§8-2231.11" type="Construction of Law" history="false"><cite doc="D.C. Law 21-282" path="§601">Section 601 of D.C. Law 21-282</cite> provides that nothing in this act shall be construed to affect an action or proceeding commenced before May 19, 2017.
+        <codify:annotation doc="D.C. Code" path="§8-2231.11" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-2231.11"><cite doc="D.C. Law 21-282" path="§601">Section 601 of D.C. Law 21-282</cite> provides that nothing in this act shall be construed to affect an action or proceeding commenced before May 19, 2017.
       </codify:annotation>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="8|22|III|B" num-value="8-2231.12"/>
+        <codify:insert doc="D.C. Code" path="8|22|III|B" num-value="8-2231.12" codified:doc="D.C. Code" codified:path="§8-2231.12"/>
         <num>312</num>
         <heading>Fish consumption advisory.</heading>
         <text>The Mayor may publish, based on scientific analysis of the composition of fish tissue and other scientific indicators, an advisory recommending the safest means of consuming fish captured in the District's waterways and any recommended consumption limits.</text>
@@ -664,7 +664,7 @@
             <text>Paragraph (2) is amended to read as follows:</text>
             <include>
               <para>
-                <codify:replace/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§8-103.03"/>
                 <num>(2)</num>
                 <text>No person shall hunt, fish, capture, intentionally harm or attempt to hunt, fish, capture, or intentionally harm fish in District waters, except while in physical possession of a license issued by the Mayor. The Mayor may establish and modify, through administrative orders, the seasons, methods, species, and allowable volume of take for fishing; provided, that if the Mayor issues an administrative order pursuant to this paragraph, the Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5">the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, shall first issue rules outlining how the administrative orders will be made public, which shall include a website where the public may access up-to-date information about seasons, methods, species, and volume of take authorized pursuant to this section.</text>
               </para>
@@ -674,7 +674,7 @@
           <para codify:path="(3)">
             <num>(2)</num>
             <text>Paragraph (3) is repealed.</text>
-            <codify:repeal/>
+            <codify:repeal codified:doc="D.C. Code" codified:path="§8-103.03"/>
           </para>
         </para>
         <para>
@@ -682,7 +682,7 @@
           <text>A new section 4a is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="8|1|II" after="§8-103.03" num-value="8-103.03a" history-prefix="as added"/>
+              <codify:insert path="8|1|II" after="§8-103.03" num-value="8-103.03a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§8-103.03a"/>
               <num>4b</num>
               <heading>Fishing License Fund.</heading>
               <para>
@@ -709,7 +709,7 @@
                 </para>
               </para>
               <annotation doc="D.C. Law 5-188" type="History" path="§4a">Mar. 16, 1985, D.C. Law 5-188, § 4a, 32 DCR 919</annotation>
-              <codify:annotation doc="D.C. Code" path="§8-103.03a" type="Construction of Law" history="false"><cite doc="D.C. Law 21-282" path="§601">Section 601 of D.C. Law 21-282</cite> provides that nothing in this act shall be construed to affect an action or proceeding commenced before May 19, 2017.
+              <codify:annotation doc="D.C. Code" path="§8-103.03a" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-103.03a"><cite doc="D.C. Law 21-282" path="§601">Section 601 of D.C. Law 21-282</cite> provides that nothing in this act shall be construed to affect an action or proceeding commenced before May 19, 2017.
       </codify:annotation>
             </section>
           </include>
@@ -718,7 +718,7 @@
         <para>
           <num>(c)</num>
           <text>Section 19(b)(2)(A) (D.C. Official Code § 8-103.18(b)(2)(A)) is amended by striking the phrase "$50,000 for each violation" and inserting the phrase "$50,000 for each violation; provided, that the Mayor may adjust this civil penalty by rulemaking to account for inflation" in its place.</text>
-          <codify:find-replace path="§8-103.18|(b)|(2)|(A)" count="1">
+          <codify:find-replace path="§8-103.18|(b)|(2)|(A)" count="1" codified:doc="D.C. Code" codified:path="§8-103.18">
             <find>$50,000 for each violation</find>
             <replace>$50,000 for each violation; provided, that the Mayor may adjust this civil penalty by rulemaking to account for inflation</replace>
           </codify:find-replace>
@@ -740,7 +740,7 @@
         <para codify:path="§8-151.06|(2)">
           <num>(a)</num>
           <text>Section 106(2) (D.C. Official Code § 8-151.06(2)) is amended by striking the phrase "such as initiatives" and inserting the phrase "such as an aquatic resources education program, experiential learning activities that promote understanding and conservation of natural resources, and initiatives" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.06">
             <find>such as initiatives</find>
             <replace>such as an aquatic resources education program, experiential learning activities that promote understanding and conservation of natural resources, and initiatives</replace>
           </codify:find-replace>
@@ -751,7 +751,7 @@
           <para codify:path="(11)">
             <num>(1)</num>
             <text>Paragraph (11) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.07">
               <find>; and</find>
               <replace>;</replace>
             </codify:find-replace>
@@ -759,7 +759,7 @@
           <para>
             <num>(2)</num>
             <text>Paragraph (12) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.07">
               <find>s.</find>
               <replace>s; and</replace>
             </codify:find-replace>
@@ -769,7 +769,7 @@
             <text>A new paragraph (13) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(12)"/>
+                <codify:insert after="(12)" codified:doc="D.C. Code" codified:path="§8-151.07"/>
                 <num>(13)</num>
                 <text>Plan, design, implement, construct, and maintain projects to protect, restore, and enhance the environment.</text>
               </para>
@@ -783,7 +783,7 @@
           <para codify:path="(2)">
             <num>(1)</num>
             <text>Paragraph (2) is amended by striking the phrase "natural resources policy and make" and inserting the phrase "natural resources policy, planning, and implementation, and making" in its place</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.08">
               <find>natural resources policy and make</find>
               <replace>natural resources policy, planning, and implementation, and making</replace>
             </codify:find-replace>
@@ -791,7 +791,7 @@
           <para codify:path="(5)">
             <num>(2)</num>
             <text>Paragraph (5) is amended by striking the phrase "protect the environment and to promote environmental awareness" and inserting the phrase "protect and enhance the environment and natural resources, to promote environmental awareness, and to enforce the District's environmental and natural resource laws" in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.08">
               <find>protect the environment and to promote environmental awareness</find>
               <replace>protect and enhance the environment and natural resources, to promote environmental awareness, and to enforce the District's environmental and natural resource laws</replace>
             </codify:find-replace>
@@ -799,7 +799,7 @@
           <para codify:path="(6)">
             <num>(3)</num>
             <text>Paragraph (6) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.08">
               <find>; and</find>
               <replace>;</replace>
             </codify:find-replace>
@@ -807,7 +807,7 @@
           <para codify:path="(7)">
             <num>(4)</num>
             <text>Paragraph (7) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.08">
               <find>DOEE.</find>
               <replace>DOEE; and</replace>
             </codify:find-replace>
@@ -817,7 +817,7 @@
             <text>A new paragraph (8) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(7)"/>
+                <codify:insert after="(7)" codified:doc="D.C. Code" codified:path="§8-151.08"/>
                 <num>(8)</num>
                 <text>Serve as the trustee for natural resources for the District.</text>
               </para>
@@ -828,7 +828,7 @@
       </section>
     </container>
     <section>
-      <codify:insert doc="D.C. Code" path="8|22|II" history="false"/>
+      <codify:insert doc="D.C. Code" path="8|22|II" history="false" codified:doc="D.C. Code" codified:path="§8-2221.28"/>
       <num>8-2221.28</num>
       <heading>Council’s authority with respect to wild animals, fishing licenses, and migratory birds; exception; “wild animals” defined.</heading>
       <text>The Council of the District of Columbia is authorized to restrict, prohibit, regulate, and control hunting and fishing and the taking, possession, and sale of wild animals in the District; provided, that the District assents to the provisions of the Dingell-Johnson Sport Fish Restoration Act, approved August 9, 1950 (64 Stat. 430; 16 U.S.C. §§ 777  -777n  ), the Pittman-Robertson Wildlife Restoration Act, approved September 2, 1937 (50 Stat. 917; 16 U.S.C. §§ 669  -669k  ), and 18 U.S.C. § 701  , including a prohibition against the diversion of fishing license fees paid by sport fishermen for any purpose other than the administration of the District’s fish and wildlife agency; provided further, that nothing herein contained shall authorize the Council to prohibit, restrict, regulate, or control the killing, capture, purchase, sale, or possession of migratory birds as defined in regulations issued pursuant to the Migratory Bird Treaty Act of July 3, 1918, as amended (16 U.S.C. §§ 703  -712  ) and taken for scientific, propagating, or other purposes under permits issued by the Secretary of the Interior; and provided further, that nothing herein contained shall authorize the Council to prohibit, restrict, regulate, or control the sale or possession of wild animals taken legally in any state, territory or possession of the United States or in any foreign country, or produced on a game farm, except as may be necessary to protect the public health or safety. As used in this section the term “wild animals” includes, without limitation, mammals, birds, fish, and reptiles not ordinarily domesticated.</text>
@@ -851,7 +851,7 @@
       <section>
         <num>411</num>
         <text>Section 1 of An Act To revise and modernize the fish and game laws of the District of Columbia, and for other purposes, approved August 23, 1958 (72 Stat. 814; D.C. Official Code § 22-4328), is amended by striking the phrase "As used in this section the term "wild animals" includes, without limitation, mammals, birds, fish, and reptiles not ordinarily domesticated." and inserting the phrase "As used in this section the term "wild animals" includes not-ordinarily-domesticated mammals, birds, fish, amphibians, invertebrates, and reptiles." in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§22-4328" count="1" history="false">
+        <codify:find-replace doc="D.C. Code" path="§22-4328" count="1" history="false" codified:doc="D.C. Code" codified:path="§22-4328">
           <find>
             <text>The Council of the District of Columbia is authorized to restrict, prohibit, regulate, and control hunting and fishing and the taking, possession, and sale of wild animals in the District; provided, that the District assents to the provisions of the Dingell-Johnson Sport Fish Restoration Act, approved August 9, 1950 (64 Stat. 430; 16 U.S.C. §§ 777  -777n  ), the Pittman-Robertson Wildlife Restoration Act, approved September 2, 1937 (50 Stat. 917; 16 U.S.C. §§ 669  -669k  ), and 18 U.S.C. § 701  , including a prohibition against the diversion of fishing license fees paid by sport fishermen for any purpose other than the administration of the District’s fish and wildlife agency; provided further, that nothing herein contained shall authorize the Council to prohibit, restrict, regulate, or control the killing, capture, purchase, sale, or possession of migratory birds as defined in regulations issued pursuant to the Migratory Bird Treaty Act of July 3, 1918, as amended (16 U.S.C. §§ 703  -712  ) and taken for scientific, propagating, or other purposes under permits issued by the Secretary of the Interior; and provided further, that nothing herein contained shall authorize the Council to prohibit, restrict, regulate, or control the sale or possession of wild animals taken legally in any state, territory or possession of the United States or in any foreign country, or produced on a game farm, except as may be necessary to protect the public health or safety. As used in this section the term “wild animals” includes, without limitation, mammals, birds, fish, and reptiles not ordinarily domesticated.</text>
           </find>
@@ -859,7 +859,7 @@
             <text>Recodified at <code-cite doc="D.C. Code" path="§8-2221.28"/>.</text>
           </replace>
         </codify:find-replace>
-        <codify:find-replace doc="D.C. Code" path="§22-4329" count="1" history="false">
+        <codify:find-replace doc="D.C. Code" path="§22-4329" count="1" history="false" codified:doc="D.C. Code" codified:path="§22-4329">
           <find>
             <text>Authorized officers and employees of the government of the United States or of the government of the District of Columbia are, for the purpose of enforcing the provisions of this chapter and the regulations promulgated by the Council of the District of Columbia under the authority of this chapter, empowered, during business hours, to inspect any building or premises in or on which any business, trade, vocation, or occupation requiring a license or permit is carried on, or any vehicle, boat, market box, market stall, or cold-storage plant. No person shall refuse to permit any such inspection.</text>
           </find>
@@ -867,47 +867,47 @@
             <text>Recodified at <code-cite doc="D.C. Code" path="§8-2221.29"/>.</text>
           </replace>
         </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="§22-4330" history="false"/>
-        <codify:find-replace doc="D.C. Code" path="§22-4330" position="first" history="false">
+        <codify:repeal doc="D.C. Code" path="§22-4330" history="false" codified:doc="D.C. Code" codified:path="§22-4330"/>
+        <codify:find-replace doc="D.C. Code" path="§22-4330" position="first" history="false" codified:doc="D.C. Code" codified:path="§22-4330">
           <find>Repealed</find>
           <replace/>
         </codify:find-replace>
-        <codify:find-replace doc="D.C. Code" path="§22-4330" count="1" history="false">
+        <codify:find-replace doc="D.C. Code" path="§22-4330" count="1" history="false" codified:doc="D.C. Code" codified:path="§22-4330">
           <find>Repealed.</find>
           <replace>Recodified at <code-cite doc="D.C. Code" path="§8-2221.30"/>.</replace>
         </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="§22-4331" history="false"/>
-        <codify:find-replace doc="D.C. Code" path="§22-4331" position="first" history="false">
+        <codify:repeal doc="D.C. Code" path="§22-4331" history="false" codified:doc="D.C. Code" codified:path="§22-4331"/>
+        <codify:find-replace doc="D.C. Code" path="§22-4331" position="first" history="false" codified:doc="D.C. Code" codified:path="§22-4331">
           <find>Repealed</find>
           <replace/>
         </codify:find-replace>
-        <codify:find-replace doc="D.C. Code" path="§22-4331" count="1" history="false">
+        <codify:find-replace doc="D.C. Code" path="§22-4331" count="1" history="false" codified:doc="D.C. Code" codified:path="§22-4331">
           <find>Repealed.</find>
           <replace>Recodified at <code-cite doc="D.C. Code" path="§8-2221.31"/>.</replace>
         </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="§22-4332" history="false"/>
-        <codify:find-replace doc="D.C. Code" path="§22-4332" position="first" history="false">
+        <codify:repeal doc="D.C. Code" path="§22-4332" history="false" codified:doc="D.C. Code" codified:path="§22-4332"/>
+        <codify:find-replace doc="D.C. Code" path="§22-4332" position="first" history="false" codified:doc="D.C. Code" codified:path="§22-4332">
           <find>Repealed</find>
           <replace/>
         </codify:find-replace>
-        <codify:find-replace doc="D.C. Code" path="§22-4332" count="1" history="false">
+        <codify:find-replace doc="D.C. Code" path="§22-4332" count="1" history="false" codified:doc="D.C. Code" codified:path="§22-4332">
           <find>Repealed.</find>
           <replace>Recodified at <code-cite doc="D.C. Code" path="§8-2221.32"/>.</replace>
         </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="§22-4333" history="false"/>
-        <codify:find-replace doc="D.C. Code" path="§22-4333" position="first" history="false">
+        <codify:repeal doc="D.C. Code" path="§22-4333" history="false" codified:doc="D.C. Code" codified:path="§22-4333"/>
+        <codify:find-replace doc="D.C. Code" path="§22-4333" position="first" history="false" codified:doc="D.C. Code" codified:path="§22-4333">
           <find>Repealed</find>
           <replace/>
         </codify:find-replace>
-        <codify:find-replace doc="D.C. Code" path="§22-4333" count="1" history="false">
+        <codify:find-replace doc="D.C. Code" path="§22-4333" count="1" history="false" codified:doc="D.C. Code" codified:path="§22-4333">
           <find>Repealed.</find>
           <replace>Recodified at <code-cite doc="D.C. Code" path="§8-2221.33"/>.</replace>
         </codify:find-replace>
-        <codify:find-replace doc="D.C. Code" path="§8-2221.28" count="1">
+        <codify:find-replace doc="D.C. Code" path="§8-2221.28" count="1" codified:doc="D.C. Code" codified:path="§8-2221.28">
           <find>As used in this section the term "wild animals" includes, without limitation, mammals, birds, fish, and reptiles not ordinarily domesticated.</find>
           <replace>As used in this section the term "wild animals" includes not-ordinarily-domesticated mammals, birds, fish, amphibians, invertebrates, and reptiles.</replace>
         </codify:find-replace>
-        <codify:annotation doc="D.C. Code" path="§22-4328" type="Construction of Law" history="false"><cite doc="D.C. Law 21-282" path="§601">Section 601 of D.C. Law 21-282</cite> provides that nothing in this act shall be construed to affect an action or proceeding commenced before May 19, 2017.
+        <codify:annotation doc="D.C. Code" path="§22-4328" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§22-4328"><cite doc="D.C. Law 21-282" path="§601">Section 601 of D.C. Law 21-282</cite> provides that nothing in this act shall be construed to affect an action or proceeding commenced before May 19, 2017.
       </codify:annotation>
       </section>
     </container>
@@ -921,13 +921,13 @@
       <text>Section 6 of the Office of Administrative Hearings Establishment Act of 2001, effective March 6, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.03), is amended by adding a new subsection (b-11) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§2-1831.03" after="(b-12)" num-value="(b-13)"/>
+          <codify:insert doc="D.C. Code" path="§2-1831.03" after="(b-12)" num-value="(b-13)" codified:doc="D.C. Code" codified:path="§2-1831.03"/>
           <num>(b-11)</num>
           <text>In addition to those cases described in subsections (a), (b), (b-1), (b-2), (b-3), (b-4), (b-5), (b-6), (b-7), (b-8), (b-9), and <span codify:value="(b-10)[, (b-11), and (b-12),]">(b-10)</span>, <code-cite doc="D.C. Code" path="2|18A">this act</code-cite> shall apply to all adjudicated cases involving the modification, suspension, revocation, or denial of a permit issued under <code-cite doc="D.C. Code" path="§8-1731.07">section 207 of the Fisheries and Wildlife Omnibus Amendment Act of 2016, passed on 2nd reading on December 6, 2016 (Enrolled version of Bill 21-386)</code-cite>, and all adjudicated cases involving the denial, revocation, or suspension of an authorization under <code-cite doc="D.C. Code" path="§8-2231.03">section 303 of the Fisheries and Wildlife Omnibus Amendment Act of 2016, passed on 2nd reading on December 6, 2016 (Enrolled version of Bill 21-386)</code-cite>.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation doc="D.C. Code" path="§2-1831.03" type="Construction of Law" history="false"><cite doc="D.C. Law 21-282" path="§601">Section 601 of D.C. Law 21-282</cite> provides that nothing in this act shall be construed to affect an action or proceeding commenced before May 19, 2017.
+      <codify:annotation doc="D.C. Code" path="§2-1831.03" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§2-1831.03"><cite doc="D.C. Law 21-282" path="§601">Section 601 of D.C. Law 21-282</cite> provides that nothing in this act shall be construed to affect an action or proceeding commenced before May 19, 2017.
       </codify:annotation>
     </section>
   </container>
@@ -952,7 +952,7 @@
     </section>
   </container>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.01"/>
     <num>8-2221.01</num>
     <reason>Repealed</reason>
     <heading>Prohibition and control of net fishing in Potomac River.</heading>
@@ -964,7 +964,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.02"/>
     <num>8-2221.02</num>
     <reason>Repealed</reason>
     <heading>Catching and killing bass.</heading>
@@ -976,7 +976,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.03"/>
     <num>8-2221.03</num>
     <reason>Repealed</reason>
     <heading>“Person” defined; sale of bass prohibited.</heading>
@@ -988,7 +988,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.04"/>
     <num>8-2221.04</num>
     <reason>Repealed</reason>
     <heading>Sale and possession of shad or herring.</heading>
@@ -1000,7 +1000,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.05"/>
     <num>8-2221.05</num>
     <reason>Repealed</reason>
     <heading>Sale of small striped bass.</heading>
@@ -1012,7 +1012,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.06"/>
     <num>8-2221.06</num>
     <reason>Repealed</reason>
     <heading>Use of explosives and drugs in fishing prohibited.</heading>
@@ -1024,7 +1024,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.07"/>
     <num>8-2221.07</num>
     <reason>Transferred</reason>
     <heading>Penalties.</heading>
@@ -1035,7 +1035,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.08"/>
     <num>8-2221.08</num>
     <reason>Repealed</reason>
     <heading>Confiscation of fishing equipment used in violation of the law.</heading>
@@ -1047,7 +1047,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.09"/>
     <num>8-2221.09</num>
     <reason>Repealed</reason>
     <heading>Sale and possession of woodcocks.</heading>
@@ -1059,7 +1059,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.10"/>
     <num>8-2221.10</num>
     <reason>Repealed</reason>
     <heading>Sale and possession of squirrels, rabbits.</heading>
@@ -1071,7 +1071,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.11"/>
     <num>8-2221.11</num>
     <reason>Repealed</reason>
     <heading>Sale and possession of wild ducks, wild geese, brant, snipe or plover.</heading>
@@ -1083,7 +1083,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.12"/>
     <num>8-2221.12</num>
     <reason>Repealed</reason>
     <heading>Sale and possession of water-rail or ortolan, reed bird and certain game birds.</heading>
@@ -1095,7 +1095,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.13"/>
     <num>8-2221.13</num>
     <reason>Repealed</reason>
     <heading>Sale and possession of deer meat.</heading>
@@ -1107,7 +1107,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.14"/>
     <num>8-2221.14</num>
     <reason>Repealed</reason>
     <heading>Catching, exposing for sale, or possession of wild birds.</heading>
@@ -1119,7 +1119,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.15"/>
     <num>8-2221.15</num>
     <reason>Repealed</reason>
     <heading>Trapping, netting or ensnaring waterfowl.</heading>
@@ -1131,7 +1131,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.16"/>
     <num>8-2221.16</num>
     <reason>Repealed</reason>
     <heading>Inspection of premises to detect violation of game laws.</heading>
@@ -1143,7 +1143,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.17"/>
     <num>8-2221.17</num>
     <reason>Repealed</reason>
     <heading>Trespassing for purposes of hunting.</heading>
@@ -1155,7 +1155,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.18"/>
     <num>8-2221.18</num>
     <reason>Repealed</reason>
     <heading>Shooting or having guns in possession on a Sunday.</heading>
@@ -1167,7 +1167,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.19"/>
     <num>8-2221.19</num>
     <reason>Repealed</reason>
     <heading>Killing or capturing game beyond District jurisdiction.</heading>
@@ -1179,7 +1179,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.20"/>
     <num>8-2221.20</num>
     <reason>Repealed</reason>
     <heading>Compensation for persons securing convictions under game laws.</heading>
@@ -1191,7 +1191,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.21"/>
     <num>8-2221.21</num>
     <reason>Repealed</reason>
     <heading>Killing game birds and permits therefor.</heading>
@@ -1203,7 +1203,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.22"/>
     <num>8-2221.22</num>
     <reason>Repealed</reason>
     <heading>Hunting squirrels, chipmunks and rabbits without a permit.</heading>
@@ -1215,7 +1215,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.23"/>
     <num>8-2221.23</num>
     <reason>Repealed</reason>
     <heading>Killing of English sparrow or wild animal suffering from disease or injury.</heading>
@@ -1227,7 +1227,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.24"/>
     <num>8-2221.24</num>
     <reason>Repealed</reason>
     <heading>Hunting or disbursing of ducks, geese, and waterfowl .</heading>
@@ -1239,7 +1239,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.25"/>
     <num>8-2221.25</num>
     <reason>Repealed</reason>
     <heading>Sale, possession, or purchase of certain types of birds prohibited.</heading>
@@ -1251,7 +1251,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.26"/>
     <num>8-2221.26</num>
     <reason>Repealed</reason>
     <heading>License for certain scientific purposes.</heading>
@@ -1263,7 +1263,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" before="8-2221.28" history="false" codified:doc="D.C. Code" codified:path="§8-2221.27"/>
     <num>8-2221.27</num>
     <reason>Repealed</reason>
     <heading>Sale of birds raised in captivity or for propagation.</heading>
@@ -1275,7 +1275,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" history="false" codified:doc="D.C. Code" codified:path="§8-2221.29"/>
     <num>8-2221.29</num>
     <heading>Inspection of business or vocational establishments requiring a license or permit or any vehicle, boat, market box, market stall or cold storage plant, during business hours.</heading>
     <text>Authorized officers and employees of the government of the United States or of the government of the District of Columbia are, for the purpose of enforcing the provisions of this chapter and the regulations promulgated by the Council of the District of Columbia under the authority of this chapter, empowered, during business hours, to inspect any building or premises in or on which any business, trade, vocation, or occupation requiring a license or permit is carried on, or any vehicle, boat, market box, market stall, or cold-storage plant. No person shall refuse to permit any such inspection.</text>
@@ -1288,7 +1288,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" history="false" codified:doc="D.C. Code" codified:path="§8-2221.30"/>
     <num>8-2221.30</num>
     <heading>Seizure of hunting and fishing equipment; sale at public auction and disposal of proceeds; disposal of property not sold at auction; payment of valid liens after sale.</heading>
     <para>
@@ -1315,7 +1315,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" history="false" codified:doc="D.C. Code" codified:path="§8-2221.31"/>
     <num>8-2221.31</num>
     <heading>Penalties; prosecutions.</heading>
     <para>
@@ -1339,7 +1339,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" history="false" codified:doc="D.C. Code" codified:path="§8-2221.32"/>
     <num>8-2221.32</num>
     <heading>Delegation of functions by Secretary of the Interior and Mayor; Council to make regulations; “Mayor” and “Secretary of the Interior” defined.</heading>
     <para>
@@ -1364,7 +1364,7 @@
     </annotations>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="8|22|II" history="false"/>
+    <codify:insert doc="D.C. Code" path="8|22|II" history="false" codified:doc="D.C. Code" codified:path="§8-2221.33"/>
     <num>8-2221.33</num>
     <heading>Existing authority of Secretary of the Interior not impaired.</heading>
     <text>Nothing in this chapter or in any regulation promulgated by the Council of the District of Columbia under the authority of this chapter shall in any way impair the existing authority of the Secretary of the Interior to control and manage fish and wildlife on the land and waters in the District of Columbia under the Secretary of the Interior’s administrative jurisdiction.</text>
@@ -1377,63 +1377,63 @@
       <annotation type="Change in Government">This section originated at a time when local government powers were delegated to a Board of Commissioners of the District of Columbia (see Acts Relating to the Establishment of the District of Columbia and its Various Forms of Governmental Organization in Volume 1). Section 402(204) of Reorganization Plan No. 3 of 1967 (see Reorganization Plans in Volume 1) transferred all of the functions of the Board of Commissioners under this section to the District of Columbia Council, subject to the right of the Commissioner as provided in § 406 of the Plan. The District of Columbia Self-Government and Governmental Reorganization Act, 87 Stat. 818, § 711 ( D.C. Code, § <cite path="§1-207.11">1-207.11</cite>), abolished the District of Columbia Council and the Office of Commissioner of the District of Columbia. These branches of government were replaced by the Council of the District of Columbia and the Office of Mayor of the District of Columbia, respectively. Accordingly, and also pursuant to § 714(a) of such Act ( D.C. Code, § <cite path="§1-207.14">1-207.14</cite>(a)), appropriate changes in terminology were made in this section.</annotation>
     </annotations>
   </section>
-  <codify:find-replace doc="D.C. Code" path="§22-4301|text" count="1" history="false">
+  <codify:find-replace doc="D.C. Code" path="§22-4301|text" count="1" history="false" codified:doc="D.C. Code" codified:path="§22-4301">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.01">§ 8-2221.01</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4302|text" count="1" history="false">
+  <codify:find-replace doc="D.C. Code" path="§22-4302|text" count="1" history="false" codified:doc="D.C. Code" codified:path="§22-4302">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.02">§ 8-2221.02</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4303|text" count="1">
+  <codify:find-replace doc="D.C. Code" path="§22-4303|text" count="1" codified:doc="D.C. Code" codified:path="§22-4303">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.03">§ 8-2221.03</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4304|text" count="1">
+  <codify:find-replace doc="D.C. Code" path="§22-4304|text" count="1" codified:doc="D.C. Code" codified:path="§22-4304">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.04">§ 8-2221.04</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4305|text" count="1">
+  <codify:find-replace doc="D.C. Code" path="§22-4305|text" count="1" codified:doc="D.C. Code" codified:path="§22-4305">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.05">§ 8-2221.05</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4306|text" count="1">
+  <codify:find-replace doc="D.C. Code" path="§22-4306|text" count="1" codified:doc="D.C. Code" codified:path="§22-4306">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.06">§ 8-2221.06</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4307|text" count="1">
+  <codify:find-replace doc="D.C. Code" path="§22-4307|text" count="1" codified:doc="D.C. Code" codified:path="§22-4307">
     <find>Transferred.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.07">§ 8-2221.07</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4308|text" count="1">
+  <codify:find-replace doc="D.C. Code" path="§22-4308|text" count="1" codified:doc="D.C. Code" codified:path="§22-4308">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.08">§ 8-2221.08</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4309|text" count="1">
+  <codify:find-replace doc="D.C. Code" path="§22-4309|text" count="1" codified:doc="D.C. Code" codified:path="§22-4309">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.09">§ 8-2221.09</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4310|text" count="1">
+  <codify:find-replace doc="D.C. Code" path="§22-4310|text" count="1" codified:doc="D.C. Code" codified:path="§22-4310">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.10">§ 8-2221.10</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4311|text" count="1">
+  <codify:find-replace doc="D.C. Code" path="§22-4311|text" count="1" codified:doc="D.C. Code" codified:path="§22-4311">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.11">§ 8-2221.11</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4312|text" count="1">
+  <codify:find-replace doc="D.C. Code" path="§22-4312|text" count="1" codified:doc="D.C. Code" codified:path="§22-4312">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.12">§ 8-2221.12</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4313|text" count="1">
+  <codify:find-replace doc="D.C. Code" path="§22-4313|text" count="1" codified:doc="D.C. Code" codified:path="§22-4313">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.13">§ 8-2221.13</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4314|text" count="1">
+  <codify:find-replace doc="D.C. Code" path="§22-4314|text" count="1" codified:doc="D.C. Code" codified:path="§22-4314">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.14">§ 8-2221.14</cite></replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§22-4315|text" count="1">
+  <codify:find-replace doc="D.C. Code" path="§22-4315|text" count="1" codified:doc="D.C. Code" codified:path="§22-4315">
     <find>Repealed.</find>
     <replace>Recodified at <cite doc="D.C. Code" path="§8-2221.15">§ 8-2221.15</cite></replace>
   </codify:find-replace>

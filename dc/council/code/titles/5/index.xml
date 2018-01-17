@@ -274,16 +274,19 @@
       <prefix>Subchapter</prefix>
       <num>XVI-C</num>
       <heading>Community Policing.</heading>
+      <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="I" type="History" display="false"/>
       <container>
         <prefix>Part</prefix>
         <num>A</num>
         <heading>Community Crime Prevention Team Program.</heading>
+        <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="I|C" type="History" display="false"/>
         <xi:include href="./sections/5-132.31.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
         <num>B</num>
         <heading>Community Policing Working Group.</heading>
+        <annotation app="2016-06-30" doc="D.C. Law 21-125" eff="2016-06-30" path="II|A" type="History" display="false"/>
         <xi:include href="./sections/5-132.32.xml"/>
       </container>
     </container>
@@ -451,6 +454,7 @@
         <prefix>Part</prefix>
         <num>C</num>
         <heading>Pilot Civilian Technical Services Program.</heading>
+        <annotation app="1983-03-09" doc="D.C. Law 4-172" eff="1983-03-09" path="" type="History" display="false"/>
         <xi:include href="./sections/5-445.xml"/>
       </container>
     </container>
@@ -581,6 +585,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Fire and Emergency Medical Services Employee Presumptive Disability.</heading>
+      <annotation app="2004-09-30" doc="D.C. Law 15-194" eff="2004-09-30" path="VI" type="History" display="false"/>
       <xi:include href="./sections/5-651.xml"/>
       <xi:include href="./sections/5-652.xml"/>
       <xi:include href="./sections/5-653.xml"/>

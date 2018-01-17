@@ -39,6 +39,7 @@
     <prefix>Chapter</prefix>
     <num>3A</num>
     <heading>Food Policy Council.</heading>
+    <annotation app="2015-03-10" doc="D.C. Law 20-191" eff="2015-03-10" path="" type="History" display="false"/>
     <xi:include href="./sections/48-311.xml"/>
     <xi:include href="./sections/48-312.xml"/>
     <xi:include href="./sections/48-313.xml"/>
@@ -64,8 +65,10 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Local Food Economy Study.</heading>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="VI" type="History" display="false"/>
       <xi:include href="./sections/48-411.xml"/>
     </container>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="VI" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -310,6 +313,7 @@
     <prefix>Chapter</prefix>
     <num>8H</num>
     <heading>Specialty Drug Copayment Limitation.</heading>
+    <annotation app="2017-04-07" doc="D.C. Law 21-248" eff="2017-04-07" path="" type="History" display="false"/>
     <xi:include href="./sections/48-855.01.xml"/>
     <xi:include href="./sections/48-855.02.xml"/>
     <xi:include href="./sections/48-855.03.xml"/>

@@ -20,7 +20,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Commission on Climate Change and Resiliency Establishment Act of 2016".</text>
-  <codify:insert doc="D.C. Code" path="8" after="1B" history="false">
+  <codify:insert doc="D.C. Code" path="8" after="1B" history="false" codified:doc="D.C. Code" codified:path="8|1C">
     <container>
       <prefix>Chapter</prefix>
       <num>1C</num>
@@ -28,7 +28,7 @@
     </container>
   </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="|8|1C" num-value="8-181.01"/>
+    <codify:insert doc="D.C. Code" path="|8|1C" num-value="8-181.01" codified:doc="D.C. Code" codified:path="§8-181.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of <code-cite doc="D.C. Code" path="|8|1C">this act</code-cite>, the term:</text>
@@ -42,7 +42,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|8|1C" num-value="8-181.02"/>
+    <codify:insert doc="D.C. Code" path="|8|1C" num-value="8-181.02" codified:doc="D.C. Code" codified:path="§8-181.02"/>
     <num>3</num>
     <heading>Commission on Climate Change and Resiliency.</heading>
     <para>
@@ -205,7 +205,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|8|1C" num-value="8-181.03"/>
+    <codify:insert doc="D.C. Code" path="|8|1C" num-value="8-181.03" codified:doc="D.C. Code" codified:path="§8-181.03"/>
     <num>4</num>
     <heading>Duties and functions of the Commission.</heading>
     <para>
@@ -286,7 +286,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|8|1C" num-value="8-181.04"/>
+    <codify:insert doc="D.C. Code" path="|8|1C" num-value="8-181.04" codified:doc="D.C. Code" codified:path="§8-181.04"/>
     <num>5</num>
     <heading>Procedures and powers of the Commission.</heading>
     <para>
@@ -323,7 +323,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|8|1C" num-value="8-181.05"/>
+    <codify:insert doc="D.C. Code" path="|8|1C" num-value="8-181.05" codified:doc="D.C. Code" codified:path="§8-181.05"/>
     <num>6</num>
     <heading>Climate Change and Resiliency Fund.</heading>
     <para>

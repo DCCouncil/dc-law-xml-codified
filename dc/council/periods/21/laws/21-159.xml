@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-159">
-  <codify:organic doc="D.C. Code" path="2|12" num-value="V-C" after="V-B" heading-value="Incarceration to Incorporation Entrepreneurship Program." prefix-value="Subchapter" tag="container" technical="true" history="false"/>
+  <codify:organic doc="D.C. Code" path="2|12" num-value="V-C" after="V-B" heading-value="Incarceration to Incorporation Entrepreneurship Program." prefix-value="Subchapter" tag="container" technical="true" history="false" codified:doc="D.C. Code" codified:path="2|12|V-C"/>
   <num type="law">21-159</num>
   <num type="bill">21-463</num>
   <num type="act">21-487</num>
@@ -22,7 +22,7 @@
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Incarceration to Incorporation Entrepreneurship Program Act of 2016".</text>
   <section>
-    <codify:organic num-value="2-1210.51"/>
+    <codify:organic num-value="2-1210.51" codified:doc="D.C. Code" codified:path="§2-1210.51"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of <code-cite doc="D.C. Code" path="|2|12|V-C">this act</code-cite>, the term:</text>
@@ -45,7 +45,7 @@
     <codify:not-funded-anno applicability-path="§6" action="creation of"/>
   </section>
   <section>
-    <codify:organic num-value="2-1210.52"/>
+    <codify:organic num-value="2-1210.52" codified:doc="D.C. Code" codified:path="§2-1210.52"/>
     <num>3</num>
     <heading>Incarceration to Incorporation Entrepreneurship Program.</heading>
     <para>
@@ -168,7 +168,7 @@
     <codify:not-funded-anno applicability-path="§6" action="creation of"/>
   </section>
   <section>
-    <codify:organic num-value="2-1210.53"/>
+    <codify:organic num-value="2-1210.53" codified:doc="D.C. Code" codified:path="§2-1210.53"/>
     <num>4</num>
     <heading>Incarceration to Incorporation Entrepreneurship Fund.</heading>
     <para>
@@ -221,7 +221,7 @@
     <codify:not-funded-anno applicability-path="§6" action="creation of"/>
   </section>
   <section>
-    <codify:organic num-value="2-1210.54"/>
+    <codify:organic num-value="2-1210.54" codified:doc="D.C. Code" codified:path="§2-1210.54"/>
     <num>5</num>
     <heading>Reporting requirements.</heading>
     <para>
@@ -259,13 +259,13 @@
     <codify:not-funded-anno applicability-path="§6" action="creation of"/>
   </section>
   <section codify:applicability="effective">
-    <codify:organic num-value="2-1210.55"/>
+    <codify:organic num-value="2-1210.55" codified:doc="D.C. Code" codified:path="§2-1210.55"/>
     <num>6</num>
     <heading>Applicability.</heading>
     <para>
       <num>(a)</num>
       <text><code-cite doc="D.C. Code" path="|2|12|V-C">this act</code-cite> shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 21-159" date="notfunded" history="false"/>
+      <codify:applicability doc="D.C. Law 21-159" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="2|12|V-C"/>
     </para>
     <para>
       <num>(b)</num>

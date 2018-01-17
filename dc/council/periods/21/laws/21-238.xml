@@ -39,7 +39,7 @@
         <text>Section 16-1031 is amended by adding a new subsection (c) to read as follows:</text>
         <include>
           <para>
-            <codify:insert doc="D.C. Code" path="§16-1031" after="(b)"/>
+            <codify:insert doc="D.C. Code" path="§16-1031" after="(b)" codified:doc="D.C. Code" codified:path="§16-1031"/>
             <num>(c)</num>
             <para>
               <num>(1)</num>
@@ -58,7 +58,7 @@
         <text>Section 16-2301 is amended by adding a new paragraph (46) to read as follows:</text>
         <include>
           <para>
-            <codify:insert doc="D.C. Code" path="§16-2301" after="(45)"/>
+            <codify:insert doc="D.C. Code" path="§16-2301" after="(45)" codified:doc="D.C. Code" codified:path="§16-2301"/>
             <num>(46)</num>
             <text>The term "penal institution" shall have the same meaning as provided in <cite doc="D.C. Code" path="§22-2603.01">§ 22-2603.01(6)</cite>.</text>
           </para>
@@ -71,7 +71,7 @@
         <para codify:path="text">
           <num>(1)</num>
           <text>The lead-in language is amended by striking the phrase "or in need of supervision".</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2310">
             <find>or in need of supervision</find>
             <replace/>
           </codify:find-replace>
@@ -81,14 +81,14 @@
           <text>Paragraph (1) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§16-2310"/>
               <num>(1)</num>
               <text>to protect the person or property of others from significant harm, or</text>
             </para>
           </include>
           <aftertext>.</aftertext>
         </para>
-        <codify:annotation doc="D.C. Code" path="§16-2310" type="Applicability" history="false">
+        <codify:annotation doc="D.C. Code" path="§16-2310" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-2310">
           Applicability of D.C. Law 21-238: § 701 of D.C. Law 21-238 provided that the change made § 102(c)(1)(A) of D.C. Law 21-238 is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Since D.C. Law-238 does not contain a § 102(c)(1)(A), that provision has been ignored.
         </codify:annotation>
       </para>
@@ -98,7 +98,7 @@
         <para codify:path="(2)">
           <num>(1)</num>
           <text>Paragraph (2) is amended by striking the phrase "or a child in need of supervision".</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2312">
             <find> or a child in need of supervision</find>
             <replace/>
           </codify:find-replace>
@@ -108,7 +108,7 @@
           <text>A new paragraph (3) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(2)"/>
+              <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§16-2312"/>
               <num>(3)</num>
               <text>When a child is not released as provided in <code-cite doc="D.C. Code" path="§16-2311">§ 16-2311</code-cite> and the child is alleged to be a child in need of supervision:</text>
               <para>
@@ -131,7 +131,7 @@
         <para codify:path="(a)">
           <num>(1)</num>
           <text>Subsection (a) is amended by striking the phrase "to be neglected" wherever it appears and inserting the phrase "to be neglected or in need of supervision" in its place.</text>
-          <codify:find-replace count="2">
+          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§16-2313">
             <find>to be neglected</find>
             <replace>to be neglected or in need of supervision</replace>
           </codify:find-replace>
@@ -142,7 +142,7 @@
           <para>
             <num>(A)</num>
             <text>Strike the phrase "is alleged to be in need of supervision or (except as provided in subsection (d) or (e))".</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2313">
               <find>is alleged to be in need of supervision or (except as provided in subsection (d) or (e))</find>
               <replace/>
             </codify:find-replace>
@@ -150,7 +150,7 @@
           <para codify:path="(3)">
             <num>(B)</num>
             <text>Paragraph (3) is amended by striking the phrase "or children alleged to be in need of supervision".</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2313">
               <find> or children alleged to be in need of supervision</find>
               <replace/>
             </codify:find-replace>
@@ -162,7 +162,7 @@
           <para>
             <num>(A)</num>
             <text>The existing text is designated as paragraph (1).</text>
-            <codify:redesignate-para num-value="(1)"/>
+            <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§16-2313"/>
           </para>
           <para>
             <num>(B)</num>
@@ -170,7 +170,7 @@
             <para>
               <num>(i)</num>
               <text>Strike the phrase "Except as provided in subsection (e), no" and insert the word "No" in its place.</text>
-              <codify:find-replace path="(1)" count="1">
+              <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§16-2313">
                 <find>Except as provided in subsection (e), no</find>
                 <replace>No</replace>
               </codify:find-replace>
@@ -178,7 +178,7 @@
             <para>
               <num>(ii)</num>
               <text>Strike the phrase "subsection (b)(3)" and insert the phrase "subsection (b)(3); provided, that beginning October 1, 2018, no person under 18 years of age may be held in the custody of the Department of Corrections" in its place.</text>
-              <codify:find-replace path="(1)" count="1">
+              <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§16-2313">
                 <find>subsection (b)(3)</find>
                 <replace>subsection (b)(3); provided, that beginning October 1, 2018, no person under 18 years of age may be held in the custody of the Department of Corrections</replace>
               </codify:find-replace>
@@ -189,12 +189,12 @@
             <text>New paragraphs (2) and (3) are added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(1)"/>
+                <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§16-2313"/>
                 <num>(2)</num>
                 <text>All persons under 18 years of age who are in the custody of the Department of Corrections shall be transferred to the custody of the Department of Youth Rehabilitation Services before October 1, 2018.</text>
               </para>
               <para>
-                <codify:insert after="(2)"/>
+                <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§16-2313"/>
                 <num>(3)</num>
                 <text>After October 1, 2018, the Department of Corrections shall immediately inform the Superior Court if a person under 18 years of age is transferred to the Department of Corrections and transfer the individual to the Department of Youth Rehabilitation Services.</text>
               </para>
@@ -205,7 +205,7 @@
         <para codify:path="(e)">
           <num>(4)</num>
           <text>Subsection (e) is repealed.</text>
-          <codify:repeal/>
+          <codify:repeal codified:doc="D.C. Code" codified:path="§16-2313"/>
         </para>
         <codify:not-funded-anno applicability-path="§701"/>
       </para>
@@ -215,7 +215,7 @@
         <para codify:path="(c)|(2)">
           <num>(1)</num>
           <text>Subsection (c)(2) is amended by striking the phrase "delinquent children." and inserting the phrase "delinquent children; provided, that legal custody shall not be transferred to a public agency for the care of delinquent children when the child in question is less than 10 years of age." in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2320">
             <find>delinquent children.</find>
             <replace>delinquent children; provided, that legal custody shall not be transferred to a public agency for the care of delinquent children when the child in question is less than 10 years of age.</replace>
           </codify:find-replace>
@@ -225,7 +225,7 @@
           <text>Subsection (d) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§16-2320"/>
               <num>(d)</num>
               <para>
                 <num>(1)</num>
@@ -253,7 +253,7 @@
             <para>
               <num>(i)</num>
               <text>Strike the phrase "Subject to subsection (f) of this section, a" and insert the word "A" in its place.</text>
-              <codify:find-replace count="1">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2322">
                 <find>Subject to subsection (f) of this section, a</find>
                 <replace>A</replace>
               </codify:find-replace>
@@ -261,7 +261,7 @@
             <para>
               <num>(ii)</num>
               <text>Strike the phrase "or in need of supervision".</text>
-              <codify:find-replace count="1">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2322">
                 <find>or in need of supervision</find>
                 <replace/>
               </codify:find-replace>
@@ -272,7 +272,7 @@
             <text>A new paragraph (5) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(4)"/>
+                <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§16-2322"/>
                 <num>(5)</num>
                 <text>Subject to subsection (f) of this section, a dispositional order vesting legal custody of a child adjudicated in need of supervision in a department, agency, or institution shall remain in force for an indeterminate period not to exceed the child's 18th birthday. Unless the order sets a minimum period for commitment of the child, or specifies that release is permitted only by order of the Division, the department, agency, or institution may release the child at any time that it appears the purpose of the disposition order has been achieved.</text>
               </para>
@@ -286,7 +286,7 @@
           <para>
             <num>(A)</num>
             <text>Strike the word "he" and insert the phrase "the child" in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2322">
               <find> he</find>
               <replace> the child</replace>
             </codify:find-replace>
@@ -294,7 +294,7 @@
           <para>
             <num>(B)</num>
             <text>Strike the phrase "age." and insert the phrase "age, except that orders under this subchapter in force with respect to a child adjudicated in need of supervision, but not delinquent, terminate when the child reaches 18 years of age." in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2322">
               <find>age.</find>
               <replace>age, except that orders under this subchapter in force with respect to a child adjudicated in need of supervision, but not delinquent, terminate when the child reaches 18 years of age.</replace>
             </codify:find-replace>
@@ -306,7 +306,7 @@
         <text>Section 16-2331(c)(4)(B) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§16-2331"/>
             <num>(B)</num>
             <text>Authorized personnel in the Mayor's Family Court Liaison, the Department of Health, the Department of Behavioral Health, the Child and Family Services Agency, the Department of Human Services, the District of Columbia Public Schools, and the Office of the Attorney General for the District of Columbia for the purpose of:</text>
             <para>
@@ -342,7 +342,7 @@
         <text>Section 16-2332(c)(4)(D) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§16-2332"/>
             <num>(D)</num>
             <text>Authorized personnel in the Mayor's Family Court Liaison, the Department of Health, the Department of Behavioral Health, the Child and Family Services Agency, the Department of Human Services, the District of Columbia Public Schools, and the Office of the Attorney General for the District of Columbia for the purpose of:</text>
             <para>
@@ -411,7 +411,7 @@
       <para codify:doc="D.C. Code" codify:path="§16-2335|(a)">
         <num>(k)</num>
         <text>Section 16-2335(a) is amended by striking the phrase "who has been the subject of a petition" and inserting the phrase "who has been taken into custody pursuant to section 16-2309 or has been the subject of a petition" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2335">
           <find>who has been the subject of a petition</find>
           <replace>who has been taken into custody pursuant to section 16-2309 or has been the subject of a petition</replace>
         </codify:find-replace>
@@ -419,7 +419,7 @@
       <para codify:doc="D.C. Code" codify:path="§16-2336">
         <num>(l)</num>
         <text>Section 16-2336 is amended by striking the phrase "16-2335" and inserting the phrase "16-2335 and 16-2335.02" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2336">
           <find>16-2335</find>
           <replace>16-2335 and 16-2335.02</replace>
         </codify:find-replace>
@@ -428,7 +428,7 @@
     <section codify:doc="D.C. Code" codify:path="§23-1322|(g)|(2)">
       <num>103</num>
       <text>Section 23-1322(g)(2) of the District of Columbia Official Code is amended by striking the phrase "appeal;" and inserting the phrase "appeal; provided, that after October 1, 2018, if the person is younger than 18 years of age, direct that the person be transferred to the custody of the Department of Youth Rehabilitation Services, subject to the federal standards under 28 C.F.R. § 115.14;" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§23-1322">
         <find>appeal;</find>
         <replace>appeal; provided, that after October 1, 2018, if the person is younger than 18 years of age, direct that the person be transferred to the custody of the Department of Youth Rehabilitation Services, subject to the federal standards under 28 C.F.R. § 115.14;</replace>
       </codify:find-replace>
@@ -444,7 +444,7 @@
       <heading>Short title.</heading>
       <text>This title may be cited as the "Improving the Conditions of Confinement of Juveniles Act of 2016".</text>
     </section>
-    <codify:insert doc="D.C. Code" path="|24|9" after="I" history="false">
+    <codify:insert doc="D.C. Code" path="|24|9" after="I" history="false" codified:doc="D.C. Code" codified:path="24|9|I-A">
       <container>
         <prefix>Subchapter</prefix>
         <num>I-A</num>
@@ -452,7 +452,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert doc="D.C. Code" path="|24|9|I-A" num-value="24-911"/>
+      <codify:insert doc="D.C. Code" path="|24|9|I-A" num-value="24-911" codified:doc="D.C. Code" codified:path="§24-911"/>
       <num>202</num>
       <heading>Definitions.</heading>
       <text>For the purposes of <code-cite doc="D.C. Code" path="|24|9|I-A">this title</code-cite>, the term:</text>
@@ -474,7 +474,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|24|9|I-A" num-value="24-912"/>
+      <codify:insert doc="D.C. Code" path="|24|9|I-A" num-value="24-912" codified:doc="D.C. Code" codified:path="§24-912"/>
       <num>203</num>
       <heading>Limitations on the use of room confinement.</heading>
       <para>
@@ -610,7 +610,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|24|9|I-A" num-value="24-913"/>
+      <codify:insert doc="D.C. Code" path="|24|9|I-A" num-value="24-913" codified:doc="D.C. Code" codified:path="§24-913"/>
       <num>204</num>
       <heading>Age-appropriate housing for youth.</heading>
       <para>
@@ -633,8 +633,8 @@
         <num>(b)</num>
         <text>All juveniles housed at the Correctional Treatment Facility or the Central Detention Facility shall be transferred to available space in secure juvenile facilities within 6 months after a determination that there have been 4 consecutive quarters of excess capacity, as determined under subsection (a)(3) of this section.</text>
       </para>
-      <codify:repeal doc="D.C. Code" path="§24-913|(b)" history="false"/>
-      <codify:find-replace doc="D.C. Code" path="§24-913|(b)" count="1">
+      <codify:repeal doc="D.C. Code" path="§24-913|(b)" history="false" codified:doc="D.C. Code" codified:path="§24-913"/>
+      <codify:find-replace doc="D.C. Code" path="§24-913|(b)" count="1" codified:doc="D.C. Code" codified:path="§24-913">
         <find>Repealed.</find>
         <replace>Not funded.</replace>
       </codify:find-replace>
@@ -654,7 +654,7 @@
       <text>Section 101(a) of the Attorney General for the District of Columbia Clarification and Elected Term Amendment Act of 2010, effective May 27, 2010 (D.C. Law 18-160; D.C. Official Code § 1-301.81(a)), is amended by adding a new paragraph (3) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§1-301.81|(a)" after="(2)"/>
+          <codify:insert doc="D.C. Code" path="§1-301.81|(a)" after="(2)" codified:doc="D.C. Code" codified:path="§1-301.81"/>
           <num>(3)</num>
           <text>By October 1, 2018, the Attorney General shall develop a pilot program, in collaboration with community partners, to provide victim-offender mediation as an alternative to the prosecution of juveniles in cases deemed appropriate by the Attorney General; provided, that participation in the mediation pilot program established pursuant to this paragraph shall be voluntary for both the victim and the offender.</text>
         </para>
@@ -668,14 +668,14 @@
       <para>
         <num>(a)</num>
         <text>Designate the existing text as subsection (a).</text>
-        <codify:redesignate-para doc="D.C. Code" path="§5-113.01" num-value="(a)"/>
+        <codify:redesignate-para doc="D.C. Code" path="§5-113.01" num-value="(a)" codified:doc="D.C. Code" codified:path="§5-113.01"/>
       </para>
       <para>
         <num>(b)</num>
         <text>A new subsection (b) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert doc="D.C. Code" path="§5-113.01" after="(a)"/>
+            <codify:insert doc="D.C. Code" path="§5-113.01" after="(a)" codified:doc="D.C. Code" codified:path="§5-113.01"/>
             <num>(b)</num>
             <text>The Metropolitan Police force shall cooperate with the Criminal Justice Coordinating Council by sharing records to the extent otherwise permissible under the law for the purpose of preparing the report described in <code-cite doc="D.C. Code" path="§22-4234|(b-3)">section 1505(b-3) of the Criminal Justice Coordinating Council for the District of Columbia Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 22-4234(b-3))</code-cite>.</text>
           </para>
@@ -692,12 +692,12 @@
         <text>New subsections (b-2) and (b-3) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert doc="D.C. Code" path="§22-4234" after="(b-1)"/>
+            <codify:insert doc="D.C. Code" path="§22-4234" after="(b-1)" codified:doc="D.C. Code" codified:path="§22-4234"/>
             <num>(b-2)</num>
             <text>By October 1, 2018, and every 2 years thereafter, the CJCC shall conduct a voluntary survey of individuals under 21 years of age currently committed to the Department of Youth Rehabilitation Services or incarcerated at the Department of Corrections on their perspective on the causes of youth crime and the prevalence of adverse childhood experiences, such as housing instability, childhood abuse, family instability, substance abuse, mental illness, family criminal involvement, or other factors deemed relevant by the CJCC.</text>
           </para>
           <para>
-            <codify:insert doc="D.C. Code" path="§22-4234" after="(b-2)"/>
+            <codify:insert doc="D.C. Code" path="§22-4234" after="(b-2)" codified:doc="D.C. Code" codified:path="§22-4234"/>
             <num>(b-3)</num>
             <text>On October 1, 2018, and every 2 years thereafter, the CJCC shall submit a report to the Mayor and the Council containing an analysis of the root causes of youth crime and the prevalence of adverse childhood experiences among justice-involved youth, such as housing instability, childhood abuse, family instability, substance abuse, mental illness, family criminal involvement, or other factors deemed relevant by the CJCC that incorporates the results of the survey conducted pursuant to subsection (b-2) of this section.</text>
           </para>
@@ -712,7 +712,7 @@
       <para codify:path="(4)">
         <num>(a)</num>
         <text>Paragraph (4) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-211.02">
           <find>; and</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -720,7 +720,7 @@
       <para codify:path="(5)">
         <num>(b)</num>
         <text>Paragraph (5) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace count="1" position="last">
+        <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§24-211.02">
           <find>.</find>
           <replace>; and</replace>
         </codify:find-replace>
@@ -730,7 +730,7 @@
         <text>A new paragraph (9) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(8)"/>
+            <codify:insert after="(8)" codified:doc="D.C. Code" codified:path="§24-211.02"/>
             <num>(9)</num>
             <text>Cooperating with the Criminal Justice Coordinating Council by sharing data and allowing access to individuals under 21 years of age to the extent otherwise permissible under the law for the purpose of preparing the report described in <code-cite doc="D.C. Code" path="§22-4234|(b-3)">section 1505(b-3) of the Criminal Justice Coordinating Council for the District of Columbia Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 22-4234(b-3))</code-cite>.</text>
           </para>
@@ -750,7 +750,7 @@
           <text>Subsection (c) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§24-403.01"/>
               <num>(c)</num>
               <para>
                 <num>(1)</num>
@@ -777,7 +777,7 @@
           <text>A new subsection (c-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(c)"/>
+              <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§24-403.01"/>
               <num>(c-1)</num>
               <text>A person sentenced under this section to imprisonment, or to commitment pursuant to <code-cite doc="D.C. Code" path="§24-903">section 4 of the Youth Rehabilitation Amendment Act of 1985, effective December 7, 1985 (D.C. Law 6-69; D.C. Official Code § 24-903)</code-cite>, shall serve the term of imprisonment or commitment specified in the sentence, less any time credited toward service of the sentence under subsection (d) of this section and subject to <code-cite doc="D.C. Code" path="§24-403.03">section 3c</code-cite>, if applicable.</text>
             </para>
@@ -787,7 +787,7 @@
         <para codify:path="(e)">
           <num>(3)</num>
           <text>Subsection (e) is amended by striking the phrase "person convicted of" wherever it appears and inserting the phrase "person who was over 18 years of age at the time of the offense and was convicted of" in its place.</text>
-          <codify:find-replace count="2">
+          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§24-403.01">
             <find>person convicted of</find>
             <replace>person who was over 18 years of age at the time of the offense and was convicted of</replace>
           </codify:find-replace>
@@ -795,7 +795,7 @@
         <para codify:path="(f)">
           <num>(4)</num>
           <text>Subsection (f) is amended by striking the phrase "person convicted of" and inserting the phrase "person who was over 18 years of age at the time of the offense and was convicted of" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-403.01">
             <find>person convicted of</find>
             <replace>person who was over 18 years of age at the time of the offense and was convicted of</replace>
           </codify:find-replace>
@@ -806,7 +806,7 @@
         <text>A new section 3c is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert after="§24-403.02" num-value="24-403.03" history-prefix="as added"/>
+            <codify:insert after="§24-403.02" num-value="24-403.03" history-prefix="as added" codified:doc="D.C. Code" codified:path="§24-403.03"/>
             <num>3c</num>
             <heading>Modification of an imposed term of imprisonment for violations of law committed before 18 years of age.</heading>
             <para>
@@ -925,7 +925,7 @@
       <para codify:path="§2-1515.01|(12)">
         <num>(a)</num>
         <text>Section 101(12) (D.C. Official Code § 2-1515.01(12)) is amended by striking the phrase "D.C. Official Code § 16-2301(3)" and inserting the phrase "D.C. Official Code § 16-2301(3) or other minor in the custody of the Department" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1515.01">
           <find><cite path="§16-2301">16-2301</cite>(3)</find>
           <replace><cite path="§16-2301">16-2301(3)</cite>  or other minor in the custody of the Department</replace>
         </codify:find-replace>
@@ -936,7 +936,7 @@
         <para codify:path="(13)">
           <num>(1)</num>
           <text>Paragraph (13) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1515.04">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -944,7 +944,7 @@
         <para codify:path="(14)">
           <num>(2)</num>
           <text>Paragraph (14) is amended by the striking the period and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" position="last">
+          <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§2-1515.04">
             <find>.</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -954,17 +954,17 @@
           <text>New paragraphs (15), (16), and (17) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(14)"/>
+              <codify:insert after="(14)" codified:doc="D.C. Code" codified:path="§2-1515.04"/>
               <num>(15)</num>
               <text>Within 180 days after <span codify:value="April 4, 2017">the effective date of the Comprehensive Youth Justice Amendment Act of 2016, passed on 2nd reading on November 1, 2016 (Enrolled version of Bill 21-683)</span>, developing a manual for families of juveniles residing in secure juvenile facilities that includes, at a minimum, information on the operation of the institution or facility as it relates to families of juveniles, information on government and community resources available for families of juveniles, and information and resources available for juveniles after leaving confinement;</text>
             </para>
             <para>
-              <codify:insert after="(15)"/>
+              <codify:insert after="(15)" codified:doc="D.C. Code" codified:path="§2-1515.04"/>
               <num>(16)</num>
               <text>Evaluating the effectiveness of rehabilitative services by collecting any available information from other District agencies on the education, employment, criminal justice, or other outcomes of persons who are either currently committed to the Department or who were committed to the Department in the previous 3 years; and</text>
             </para>
             <para>
-              <codify:insert after="(16)"/>
+              <codify:insert after="(16)" codified:doc="D.C. Code" codified:path="§2-1515.04"/>
               <num>(17)</num>
               <text>Cooperating with the Criminal Justice Coordinating Council by sharing data and allowing access to individuals under 21 years of age, to the extent otherwise permissible under the law, for the purpose of preparing the report described in section <code-cite doc="D.C. Code" path="§22-4234|(b-3)">1505(b-3) of the Criminal Justice Coordinating Council for the District of Columbia Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 22-4234(b-3))</code-cite>.</text>
             </para>
@@ -978,7 +978,7 @@
         <text>A new section 104b is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert after="§2-1515.04a" num-value="2-1515.04b" history-prefix="as added"/>
+            <codify:insert after="§2-1515.04a" num-value="2-1515.04b" history-prefix="as added" codified:doc="D.C. Code" codified:path="§2-1515.04b"/>
             <num>104b</num>
             <heading>Data collection.</heading>
             <para>
@@ -1029,7 +1029,7 @@
         <para codify:path="(c)">
           <num>(1)</num>
           <text>Subsection (c) is amended by striking the phrase "in the third trimester of pregnancy or in postpartum recovery" and inserting the phrase "is known to be pregnant or is in postpartum recovery" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1515.52">
             <find>in the third trimester of pregnancy or in postpartum recovery</find>
             <replace>is known to be pregnant or is in postpartum recovery</replace>
           </codify:find-replace>
@@ -1037,7 +1037,7 @@
         <para codify:path="(d)|(1)">
           <num>(2)</num>
           <text>Subsection (d)(1) is amended by striking the phrase "in the third trimester of pregnancy or in postpartum recovery" and inserting the phrase "who is known to be pregnant or is in postpartum recovery" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1515.52">
             <find>in the third trimester of pregnancy or in postpartum recovery</find>
             <replace>who is known to be pregnant or is in postpartum recovery</replace>
           </codify:find-replace>
@@ -1057,7 +1057,7 @@
         <text>Section 13-336(a) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§13-336"/>
             <num>(a)</num>
             <text>In actions specified by subsection (b) of this section, publication may be substituted for personal service of process:</text>
             <para>
@@ -1079,7 +1079,7 @@
       <para codify:path="§13-340|(a)">
         <num>(b)</num>
         <text>Section 13-340(a) is amended by striking the phrase "actions for divorce" and inserting the phrase "child custody proceedings, as defined in § 16-4601.01(4), or actions for divorce" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§13-340">
           <find>actions for divorce</find>
           <replace> child custody proceedings, as defined in <code-cite doc="D.C. Code" path="§16-4601.01|(4)">§ 16-4601.01(4)</code-cite>, or actions for divorce</replace>
         </codify:find-replace>
@@ -1093,7 +1093,7 @@
     <section>
       <num>601</num>
       <text>Section 126n of the District of Columbia Theft and White Collar Crimes Act of 1982, effective June 8, 2001 (D.C. Law 13-301; D.C. Official Code § 22-3226.14), is repealed.</text>
-      <codify:repeal doc="D.C. Code" path="§22-3226.14"/>
+      <codify:repeal doc="D.C. Code" path="§22-3226.14" codified:doc="D.C. Code" codified:path="§22-3226.14"/>
     </section>
   </container>
   <container>

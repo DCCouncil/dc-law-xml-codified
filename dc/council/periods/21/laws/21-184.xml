@@ -20,7 +20,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Kennedy Street, N.W., Economic Development and Small Business Revitalization Advisory Committee Establishment Act of 2016".</text>
-  <codify:insert doc="D.C. Code" path="|2|12" after="V-C" history="false">
+  <codify:insert doc="D.C. Code" path="|2|12" after="V-C" history="false" codified:doc="D.C. Code" codified:path="2|12|V-D">
     <container>
       <prefix>Subchapter</prefix>
       <num>V-D</num>
@@ -28,7 +28,7 @@
     </container>
   </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|12|V-D" num-value="2-1210.61"/>
+    <codify:insert doc="D.C. Code" path="|2|12|V-D" num-value="2-1210.61" codified:doc="D.C. Code" codified:path="§2-1210.61"/>
     <num>2</num>
     <heading>Kennedy Street, N.W., Economic Development and Small Business Revitalization Advisory Committee.</heading>
     <para>

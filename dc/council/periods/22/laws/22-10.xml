@@ -30,7 +30,7 @@
     <para>
       <num>(b)</num>
       <text>Paragraph (1) is redesignated as subparagraph (A).</text>
-      <codify:find-replace path="(1)|num">
+      <codify:find-replace path="(1)|num" codified:doc="D.C. Code" codified:path="§7-2036">
         <find>(1)</find>
         <replace>(A)</replace>
       </codify:find-replace>
@@ -38,7 +38,7 @@
     <para>
       <num>(c)</num>
       <text>Paragraph (2) is redesignated as subparagraph (B).</text>
-      <codify:find-replace path="(2)|num">
+      <codify:find-replace path="(2)|num" codified:doc="D.C. Code" codified:path="§7-2036">
         <find>(2)</find>
         <replace>(B)</replace>
       </codify:find-replace>
@@ -46,7 +46,7 @@
     <para>
       <num>(d)</num>
       <text>Paragraph (3) is redesignated as subparagraph (C).</text>
-      <codify:find-replace path="(3)|num">
+      <codify:find-replace path="(3)|num" codified:doc="D.C. Code" codified:path="§7-2036">
         <find>(3)</find>
         <replace>(C)</replace>
       </codify:find-replace>
@@ -54,18 +54,18 @@
     <para>
       <num>(e)</num>
       <text>Paragraph (4) is redesignated as subparagraph (D).</text>
-      <codify:find-replace path="(4)|num">
+      <codify:find-replace path="(4)|num" codified:doc="D.C. Code" codified:path="§7-2036">
         <find>(4)</find>
         <replace>(D)</replace>
       </codify:find-replace>
-      <codify:redesignate-para num-value="(1)"/>
+      <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§7-2036"/>
     </para>
     <para>
       <num>(f)</num>
       <text>A new paragraph (2) is added to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§7-2036"/>
           <num>(2)</num>
           <text>The rules required to be promulgated pursuant to this section shall be submitted to the Council for a 30-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, by resolution, within this 30-day review period, the proposed rules shall be deemed approved.</text>
         </para>

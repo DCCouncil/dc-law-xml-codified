@@ -21,7 +21,7 @@
       <committee>Committee on Transportation and the Environment</committee>
     </history>
   </meta>
-  <codify:insert doc="D.C. Code" path="48" after="3" history="false">
+  <codify:insert doc="D.C. Code" path="48" after="3" history="false" codified:doc="D.C. Code" codified:path="48|3A">
     <container>
       <prefix>Chapter</prefix>
       <num>3A</num>
@@ -30,7 +30,7 @@
   </codify:insert>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Food Policy Council and Director Establishment Act of 2014".</text>
   <section>
-    <codify:insert num-value="48-311"/>
+    <codify:insert num-value="48-311" codified:doc="D.C. Code" codified:path="§48-311"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of <code-cite>this act</code-cite>, the term:</text>
@@ -64,7 +64,7 @@
     </para>
   </section>
   <section>
-    <codify:insert num-value="48-312"/>
+    <codify:insert num-value="48-312" codified:doc="D.C. Code" codified:path="§48-312"/>
     <num>3</num>
     <heading>Establishment and duties of the Food Policy Council.</heading>
     <para>
@@ -101,7 +101,7 @@
     </para>
   </section>
   <section>
-    <codify:insert num-value="48-313"/>
+    <codify:insert num-value="48-313" codified:doc="D.C. Code" codified:path="§48-313"/>
     <num>4</num>
     <heading>Composition and term of the Food Policy Council.</heading>
     <para>
@@ -198,7 +198,7 @@
     </para>
   </section>
   <section>
-    <codify:insert num-value="48-314"/>
+    <codify:insert num-value="48-314" codified:doc="D.C. Code" codified:path="§48-314"/>
     <num>5</num>
     <heading>Appointment and duties of Food Policy Director.</heading>
     <para>
@@ -235,7 +235,7 @@
     </para>
   </section>
   <section>
-    <codify:insert num-value="48-315"/>
+    <codify:insert num-value="48-315" codified:doc="D.C. Code" codified:path="§48-315"/>
     <num>6</num>
     <heading>Applicability.</heading>
     <para>

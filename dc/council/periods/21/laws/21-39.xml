@@ -33,7 +33,7 @@
       <text>Section 2341 (D.C. Official Code § 1-623.41) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§2341"/>
+          <codify:replace path="§2341" codified:doc="D.C. Code" codified:path="§1-623.41"/>
           <num>2341</num>
           <heading>Adjustments in compensation for disability or death.</heading>
           <para>

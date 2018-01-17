@@ -29,12 +29,12 @@
     <para>
       <num>(a)</num>
       <text>Section 112(c) (D.C. Official Code § 22-3212(c)) is amended by striking the number "10" and inserting the number "15" in its place.</text>
-      <codify:find-replace path="§22-3212|(c)" find="10" replace="15" count="1"/>
+      <codify:find-replace path="§22-3212|(c)" find="10" replace="15" count="1" codified:doc="D.C. Code" codified:path="§22-3212"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 127c(c) (D.C. Official Code § 22-3227.03(c)) is repealed.</text>
-      <codify:repeal path="§22-3227.03|(c)"/>
+      <codify:repeal path="§22-3227.03|(c)" codified:doc="D.C. Code" codified:path="§22-3227.03"/>
     </para>
     <para codify:path="§22-3601">
       <num>(c)</num>
@@ -42,17 +42,17 @@
       <para>
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the number "60" and inserting the number "65" in its place.</text>
-        <codify:find-replace path="(a)" find="60" replace="65" count="1"/>
+        <codify:find-replace path="(a)" find="60" replace="65" count="1" codified:doc="D.C. Code" codified:path="§22-3601"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Subsection (b) is amended by striking the phrase "or an attempt or conspiracy" and inserting the phrase "identity theft, financial exploitation of a vulnerable adult or elderly person, or an attempt or conspiracy" in its place.</text>
-        <codify:find-replace path="(b)" find="or an attempt or conspiracy" replace="identity theft, financial exploitation of a vulnerable adult or elderly person, or an attempt or conspiracy" count="1"/>
+        <codify:find-replace path="(b)" find="or an attempt or conspiracy" replace="identity theft, financial exploitation of a vulnerable adult or elderly person, or an attempt or conspiracy" count="1" codified:doc="D.C. Code" codified:path="§22-3601"/>
       </para>
       <para>
         <num>(3)</num>
         <text>Subsection (c) is amended by striking the number "60" and inserting the number "65" in its place.</text>
-        <codify:find-replace path="(c)" find="60" replace="65" count="1"/>
+        <codify:find-replace path="(c)" find="60" replace="65" count="1" codified:doc="D.C. Code" codified:path="§22-3601"/>
       </para>
     </para>
   </section>
@@ -63,14 +63,14 @@
     <para>
       <num>(a)</num>
       <text>Section 201 (D.C. Official Code § 22-931) is amended by striking the phrase "Criminal Abuse and Neglect of Vulnerable Adults" and inserting the phrase "Criminal Abuse, Neglect, and Financial Exploitation of Vulnerable Adults and the Elderly" in its place.</text>
-      <codify:find-replace path="§22-931" find="Criminal Abuse and Neglect of Vulnerable Adults" replace="Criminal Abuse, Neglect, and Financial Exploitation of Vulnerable Adults and the Elderly" count="1"/>
+      <codify:find-replace path="§22-931" find="Criminal Abuse and Neglect of Vulnerable Adults" replace="Criminal Abuse, Neglect, and Financial Exploitation of Vulnerable Adults and the Elderly" count="1" codified:doc="D.C. Code" codified:path="§22-931"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 202 (D.C. Official Code § 22-932) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§22-932"/>
+          <codify:replace path="§22-932" codified:doc="D.C. Code" codified:path="§22-932"/>
           <num codify:value="22-932">202</num>
           <heading>Definitions.</heading>
           <text>For the purposes of <code-cite doc="D.C. Code" path="|22|9A">this title</code-cite>, the term:</text>
@@ -101,14 +101,14 @@
     <para>
       <num>(c)</num>
       <text>Section 203 (D.C. Official Code § 22-933) is amended by striking the phrase in the lead-in language "a vulnerable adult" and inserting the phrase "a vulnerable adult or elderly person" in its place.</text>
-      <codify:find-replace path="§22-933" find="a vulnerable adult" replace="a vulnerable adult or elderly person" count="2"/>
+      <codify:find-replace path="§22-933" find="a vulnerable adult" replace="a vulnerable adult or elderly person" count="2" codified:doc="D.C. Code" codified:path="§22-933"/>
     </para>
     <para>
       <num>(d)</num>
       <text>A new section 203a is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert after="§22-933" num-value="22-933.01" history-prefix="as added"/>
+          <codify:insert after="§22-933" num-value="22-933.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§22-933.01"/>
           <num>203a</num>
           <heading>Financial exploitation of a vulnerabl adult or elderly person.</heading>
           <para>
@@ -145,12 +145,12 @@
     <para>
       <num>(e)</num>
       <text>Section 204 (D.C. Official Code § 22-934) is amended by striking the phrase "vulnerable adult" both times it appears and inserting the phrase "vulnerable adult or elderly person" in its place.</text>
-      <codify:find-replace path="§22-934" find="vulnerable adult" replace="vulnerable adult or elderly person" count="2"/>
+      <codify:find-replace path="§22-934" find="vulnerable adult" replace="vulnerable adult or elderly person" count="2" codified:doc="D.C. Code" codified:path="§22-934"/>
     </para>
     <para>
       <num>(f)</num>
       <text>Section 205 (D.C. Official Code § 22-935) is amended by striking the phrase "vulnerable adult" both times it appears and inserting the phrase "vulnerable adult or elderly person" in its place.</text>
-      <codify:find-replace path="§22-935" find="vulnerable adult" replace="vulnerable adult or elderly person" count="2"/>
+      <codify:find-replace path="§22-935" find="vulnerable adult" replace="vulnerable adult or elderly person" count="2" codified:doc="D.C. Code" codified:path="§22-935"/>
     </para>
     <para codify:path="§22-936">
       <num>(g)</num>
@@ -158,17 +158,17 @@
       <para>
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "vulnerable person" and inserting the phrase "vulnerable adult or elderly person" in its place.</text>
-        <codify:find-replace path="(a)" find="vulnerable person" replace="vulnerable adult or elderly person" count="1"/>
+        <codify:find-replace path="(a)" find="vulnerable person" replace="vulnerable adult or elderly person" count="1" codified:doc="D.C. Code" codified:path="§22-936"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Subsection (b) is amended by striking the phrase "vulnerable adult" and inserting the phrase "vulnerable adult or elderly person" in its place.</text>
-        <codify:find-replace path="(b)" find="vulnerable adult" replace="vulnerable adult or elderly person" count="1"/>
+        <codify:find-replace path="(b)" find="vulnerable adult" replace="vulnerable adult or elderly person" count="1" codified:doc="D.C. Code" codified:path="§22-936"/>
       </para>
       <para>
         <num>(3)</num>
         <text>Subsection (c) is amended by striking the phrase "vulnerable adult" and inserting the phrase "vulnerable adult or elderly person" in its place.</text>
-        <codify:find-replace path="(c)" find="vulnerable adult" replace="vulnerable adult or elderly person" count="1"/>
+        <codify:find-replace path="(c)" find="vulnerable adult" replace="vulnerable adult or elderly person" count="1" codified:doc="D.C. Code" codified:path="§22-936"/>
       </para>
     </para>
     <para>
@@ -176,7 +176,7 @@
       <text>A new section 206a is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert after="§22-936" num-value="22-936.01" history-prefix="as added"/>
+          <codify:insert after="§22-936" num-value="22-936.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§22-936.01"/>
           <num>206a</num>
           <heading>Criminal penalties for financial exploitation of a vulnerable adult or elderly person.</heading>
           <para>
@@ -211,7 +211,7 @@
       <text>New sections 207 and 208 are added to read as follows:</text>
       <include>
         <section>
-          <codify:insert num-value="22-937" history-prefix="as added"/>
+          <codify:insert num-value="22-937" history-prefix="as added" codified:doc="D.C. Code" codified:path="§22-937"/>
           <num>207</num>
           <heading>Civil penalties for financial exploitation of a vulnerable adult or elderly person.</heading>
           <para>
@@ -239,7 +239,7 @@
           </annotations>
         </section>
         <section>
-          <codify:insert num-value="22-938" history-prefix="as added"/>
+          <codify:insert num-value="22-938" history-prefix="as added" codified:doc="D.C. Code" codified:path="§22-938"/>
           <num>208</num>
           <heading>Injunctive relief and protections.</heading>
           <para>
@@ -307,7 +307,7 @@
     </text>
     <include>
       <section>
-        <codify:insert after="§1-301.88d" num-value="1-301.88e" history-prefix="as added"/>
+        <codify:insert after="§1-301.88d" num-value="1-301.88e" history-prefix="as added" codified:doc="D.C. Code" codified:path="§1-301.88e"/>
         <num>110b</num>
         <heading>Authority to issue subpoenas in matters involving the financial exploitation of vulnerable adults and the elderly.</heading>
         <para>

@@ -21,7 +21,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Nonwoven Disposable Products Act of 2016".</text>
-  <codify:insert doc="D.C. Code" path="|8" after="5" history="false">
+  <codify:insert doc="D.C. Code" path="|8" after="5" history="false" codified:doc="D.C. Code" codified:path="8|5A">
     <container>
       <prefix>Chapter</prefix>
       <num>5A</num>
@@ -29,7 +29,7 @@
     </container>
   </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="|8|5A" num-value="8-521"/>
+    <codify:insert doc="D.C. Code" path="|8|5A" num-value="8-521" codified:doc="D.C. Code" codified:path="§8-521"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of <code-cite doc="D.C. Code" path="|8|5A">this act</code-cite>, the term:</text>
@@ -59,7 +59,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|8|5A" num-value="8-522"/>
+    <codify:insert doc="D.C. Code" path="|8|5A" num-value="8-522" codified:doc="D.C. Code" codified:path="§8-522"/>
     <num>3</num>
     <heading>Labeling of nonwoven disposable products.</heading>
     <para>
@@ -72,7 +72,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|8|5A" num-value="8-523"/>
+    <codify:insert doc="D.C. Code" path="|8|5A" num-value="8-523" codified:doc="D.C. Code" codified:path="§8-523"/>
     <num>4</num>
     <heading>Enforcement.</heading>
     <para>
@@ -85,13 +85,13 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|8|5A" num-value="8-524"/>
+    <codify:insert doc="D.C. Code" path="|8|5A" num-value="8-524" codified:doc="D.C. Code" codified:path="§8-524"/>
     <num>5</num>
     <heading>Rules.</heading>
     <text>The Department of Energy and Environment, pursuant to <code-cite doc="D.C. Code" path="|2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to implement the provisions of <code-cite doc="D.C. Code" path="|8|5A">this act</code-cite>, including rules to interpret <code-cite doc="D.C. Code" path="§8-521|(2)">section 2(2)</code-cite>; provided, that rules to interpret <code-cite doc="D.C. Code" path="§8-521|(2)">section 2(2)</code-cite> shall be made in consultation with the District of Columbia Water and Sewer Authority.</text>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|8|5A" num-value="8-525"/>
+    <codify:insert doc="D.C. Code" path="|8|5A" num-value="8-525" codified:doc="D.C. Code" codified:path="§8-525"/>
     <num>6</num>
     <heading>Construction.</heading>
     <text>A violation of <code-cite doc="D.C. Code" path="|8|5A">this act</code-cite> shall not be a violation of <code-cite doc="D.C. Code" path="|28|39">Chapter 39 of Title 28 of the District of Columbia Official Code</code-cite>.</text>

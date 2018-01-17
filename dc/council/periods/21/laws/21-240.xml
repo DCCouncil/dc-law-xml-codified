@@ -30,7 +30,7 @@
       <para codify:path="(G-1)|num">
         <num>(1)</num>
         <text>Subparagraph (G-1) is redesignated as subparagraph (G-i).</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1161.01">
           <find>(G-1)</find>
           <replace>(G-i)</replace>
         </codify:find-replace>
@@ -38,7 +38,7 @@
       <para>
         <num>(2)</num>
         <text>The newly designated subparagraph (G-i) is amended by striking the phrase "pursuant to section 1 of the Washington Metropolitan Area Transit Regulation Compact, approved November 6, 1966 (80 Stat. 1324; D.C. Official Code § 9-1107.01)" and inserting the phrase "appointed by the Council pursuant to section 5(a) of the Washington Metropolitan Area Transit Authority Compact, approved November 6, 1966 (80 Stat. 1326; D.C. Official Code § 9-1107.01(5)(a))" in its place.</text>
-        <codify:find-replace path="(G-i)" count="1">
+        <codify:find-replace path="(G-i)" count="1" codified:doc="D.C. Code" codified:path="§1-1161.01">
           <find>pursuant to § <cite path="§9-1107.01">9-1107.01</cite></find>
           <replace>appointed by the Council pursuant to <code-cite doc="D.C. Code" path="§9-1107.01|III|III|5.|(a)" codify:value="§ 9-1107.01(5)(a)">section 5(a) of the Washington Metropolitan Area Transit Authority Compact, approved November 6, 1966 (80 Stat. 1326; D.C. Official Code § 9-1107.01(5)(a))</code-cite></replace>
         </codify:find-replace>
@@ -48,7 +48,7 @@
         <text>A new subparagraph (G-ii) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(G-i)"/>
+            <codify:insert after="(G-i)" codified:doc="D.C. Code" codified:path="§1-1161.01"/>
             <num>(G-ii)</num>
             <text>A Member or Alternate Member of the Washington Metrorail Safety Commission appointed by the District of Columbia pursuant to Article III.B. of the Metrorail Safety Commission Interstate Compact <span codify:value="[§ 9-1109.11(III)(B)]">enacted pursuant to the Washington Metrorail Safety Commission Establishment Act of 2016, passed on 2nd reading on December 20, 2016 (Enrolled version of Bill 21-828)</span>;</text>
           </para>
@@ -58,7 +58,7 @@
       <para codify:path="(H)">
         <num>(4)</num>
         <text>Subparagraph (H) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1161.01">
           <find>; and</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -69,7 +69,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "A District of Columbia Excepted Service employee" and insert the phrase "A District of Columbia Excepted Service employee, except an employee of the Council," in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1161.01">
             <find>A District of Columbia Excepted Service employee</find>
             <replace>A District of Columbia Excepted Service employee, except an employee of the Council,</replace>
           </codify:find-replace>
@@ -77,7 +77,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "appearance of a conflict of interest." and insert the phrase "appearance of a conflict of interest; and" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1161.01">
             <find>appearance of a conflict of interest.</find>
             <replace>appearance of a conflict of interest; and</replace>
           </codify:find-replace>
@@ -88,7 +88,7 @@
         <text>A new subparagraph (J) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(I)"/>
+            <codify:insert after="(I)" codified:doc="D.C. Code" codified:path="§1-1161.01"/>
             <num>(J)</num>
             <text>An employee of the Council paid at a rate equal to or above the midpoint rate of pay for Excepted Service 9.</text>
           </para>
@@ -105,7 +105,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase ", members of the Washington Metropolitan Area Transit Authority Board of Directors appointed pursuant to section 1 of the Washington Metropolitan Area Transit Regulation Compact, approved November 6, 1966 (80 Stat. 1324; D.C. Official Code § 9-1107.01),".</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1162.24">
             <find>, members of the Washington Metropolitan Area Transit Authority Board of Directors appointed pursuant to § <cite path="§9-1107.01">9-1107.01</cite>,</find>
             <replace/>
           </codify:find-replace>
@@ -113,7 +113,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "shall file annually" and insert the phrase "shall file" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1162.24">
             <find>shall file annually</find>
             <replace>shall file</replace>
           </codify:find-replace>
@@ -124,7 +124,7 @@
         <text>Subsection (c) is amended to read as follows:</text>
         <include>
           <para codify:path="(c)">
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§1-1162.24"/>
             <num>(c)</num>
             <para>
               <num>(1)</num>
@@ -143,7 +143,7 @@
         <text>A new subsection (c-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(c)"/>
+            <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§1-1162.24"/>
             <num>(c-1)</num>
             <text>The Ethics Board shall publish in the District of Columbia Register no later than 11:59 p.m. on June 15 of each year, or in the case of the Chairman or a member of the Council, no later than 11:59 p.m. on June 15 and December 15 of each year, the name of each public official who has:</text>
             <para>
@@ -167,7 +167,7 @@
         <text>A new subsection (i) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(h)"/>
+            <codify:insert after="(h)" codified:doc="D.C. Code" codified:path="§1-1162.24"/>
             <num>(i)</num>
             <text>Each personnel authority shall compile a list of all public officials, as defined by <code-cite doc="D.C. Code" path="§1-1161.01|(47)">section 101(47)</code-cite>, within its respective agency or the Council, and shall supply the list to the Ethics Board no later than 11:59 p.m. on March 1 of each year.  The list required by this subsection shall include the name, title, position, grade level, home address, work e-mail address, and work telephone number for each public official appearing on the list.</text>
           </para>
@@ -181,7 +181,7 @@
       <text>Section 225 (D.C. Official Code § 1-1162.25) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace path="(a)"/>
+          <codify:replace path="(a)" codified:doc="D.C. Code" codified:path="§1-1162.25"/>
           <num>(a)</num>
           <para>
             <num>(1)</num>
@@ -193,22 +193,22 @@
           </para>
         </para>
         <para>
-          <codify:replace path="(b)"/>
+          <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§1-1162.25"/>
           <num>(b)</num>
           <text>Each personnel authority shall review each confidential financial disclosure statement filed by an employee of its agency or the Council pursuant to subsection (a) of this section no later than 11:59 p.m. on June 1 of each year.  Any violation of the Code of Conduct found by the personnel authority shall be forwarded immediately to the Ethics Board for review.</text>
         </para>
         <para>
-          <codify:replace path="(c)"/>
+          <codify:replace path="(c)" codified:doc="D.C. Code" codified:path="§1-1162.25"/>
           <num>(c)</num>
           <text>Each personnel authority shall compile a list of all employees required to submit a confidential financial disclosure statement within its agency or the Council and shall supply the list to the Ethics Board by 11:59 p.m. on March 1 of each year.  The list required by this subsection shall include the name, title, position, and grade level for each employee.</text>
         </para>
         <para>
-          <codify:insert after="(c)"/>
+          <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§1-1162.25"/>
           <num>(d)</num>
           <text>A confidential financial disclosure statement filed pursuant to this section shall remain confidential, and shall be retained by the personnel authority for at least 6 years.</text>
         </para>
         <para>
-          <codify:insert after="(d)"/>
+          <codify:insert after="(d)" codified:doc="D.C. Code" codified:path="§1-1162.25"/>
           <num>(e)</num>
           <text>For the purposes of this section, the Chairman of the Council may delegate all or a portion of his or her personnel authority, described in <code-cite doc="D.C. Code" path="§1-604.06|(b)|(3)|(A)|(i)">section 406(b)(3)(A)(i) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-604.06(b)(3)(A)(i))</code-cite>, to one or more employees of the Council.</text>
         </para>

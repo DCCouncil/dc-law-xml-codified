@@ -1401,12 +1401,14 @@
       <prefix>Subchapter</prefix>
       <num>V-A</num>
       <heading>Payment of Rent Beyond 5 Days After Due Date.</heading>
+      <annotation app="2016-12-08" doc="D.C. Law 21-172" eff="2016-12-08" path="" type="History" display="false"/>
       <xi:include href="./sections/42-3505.31.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>V-B</num>
       <heading>Other Housing Provider Actions During Tenancies.</heading>
+      <annotation app="2017-02-18" doc="D.C. Law 21-210" eff="2017-02-18" path="§2|(d)" type="History" display="false"/>
       <xi:include href="./sections/42-3505.51.xml"/>
       <xi:include href="./sections/42-3505.52.xml"/>
       <xi:include href="./sections/42-3505.53.xml"/>
@@ -1480,6 +1482,7 @@
     <prefix>Chapter</prefix>
     <num>35B</num>
     <heading>Fair Criminal Record Screening for Housing.</heading>
+    <annotation app="2017-04-07" doc="D.C. Law 21-259" eff="2017-04-07" path="" type="History" display="false"/>
     <xi:include href="./sections/42-3541.01.xml"/>
     <xi:include href="./sections/42-3541.02.xml"/>
     <xi:include href="./sections/42-3541.03.xml"/>
@@ -1490,6 +1493,9 @@
     <xi:include href="./sections/42-3541.08.xml"/>
     <xi:include href="./sections/42-3541.09.xml"/>
     <xi:include href="./sections/42-3541.10.xml"/>
+    <annotation doc="D.C. Law 22-33" path="§7031" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7031">Section 7031 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-259" path="§11">§ 11 of D.C. Law 21-259</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-259">D.C. Law 21-259</cite> has been given effect.
+            </annotation>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7031" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

@@ -42,7 +42,7 @@
       <text>A new section 47-1098 is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert after="§47-1097"/>
+          <codify:insert after="§47-1097" codified:doc="D.C. Code" codified:path="§47-1098"/>
           <num>47-1098</num>
           <heading>New Bethany Baptist Church; Lots 31, 32, and 806, Square 339; and Lots 23, 71, 72, 811, and 812, Square 367.</heading>
           <para>
@@ -128,7 +128,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability date="notfunded" history="false"/>
+      <codify:applicability date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§47-1098"/>
     </para>
     <para>
       <num>(b)</num>

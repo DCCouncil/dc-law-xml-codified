@@ -25,7 +25,7 @@
     <text>An Act Providing for the removal of snow and ice from the paved sidewalks of the District of Columbia, approved September 16, 1922 (42 Stat. 845; D.C. Official Code § 9-601 <em>et seq.</em>), is amended by adding a new section 2a to read as follows:</text>
     <include>
       <section>
-        <codify:insert doc="D.C. Code" path="|9|6" after="§9-602" num-value="9-602.01" history-prefix="as added"/>
+        <codify:insert doc="D.C. Code" path="|9|6" after="§9-602" num-value="9-602.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§9-602.01"/>
         <num>2a</num>
         <heading>Mayor's authority to enter into agreements with certain entities for removal of snow and ice.</heading>
         <text>Notwithstanding <code-cite doc="D.C. Code" path="|2|3A">the Procurement Practice Reform Act of 2010, effective April 8, 2011 (D.C. Law 18-371; D.C. Official Code § 2-351.01 <em>et seq</em>.)</code-cite>, the Mayor may enter into an agreement, excluding grant agreements, with a BID corporation, as defined in <code-cite doc="D.C. Code" path="§2-1215.02|(4)">section 2(4) of the Business Improvement Districts Act of 1996, effective May 29, 1996 (D.C. Law 11-134; D.C. Official Code § 2-1215.02(4)) ("BID act")</code-cite>, a DC Main Streets program, or a Clean Team grantee, duly organized with a current grant agreement with the Department of Small and Local Business Development, to remove snow and ice from sidewalks, curb cuts, and crosswalks within the boundaries of or adjoining to the BID, as defined in <code-cite doc="D.C. Code" path="§2-1215.02|(7)">section 2(7) of the BID act</code-cite>, the DC Main Streets program, or the Clean Team grantee agreement during a declared snow emergency.</text>

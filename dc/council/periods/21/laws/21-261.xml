@@ -20,7 +20,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Office of Out of School Time Grants and Youth Outcomes Establishment Act of 2016".</text>
-  <codify:insert doc="D.C. Code" path="|2|15" after="III-A" history="false">
+  <codify:insert doc="D.C. Code" path="|2|15" after="III-A" history="false" codified:doc="D.C. Code" codified:path="2|15|III-B">
     <container>
       <prefix>Subchapter</prefix>
       <num>III-B</num>
@@ -28,7 +28,7 @@
     </container>
   </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.01"/>
+    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.01" codified:doc="D.C. Code" codified:path="§2-1555.01"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <para>
@@ -74,7 +74,7 @@
     <codify:not-funded-anno doc="D.C. Code" path="§2-1555.01" applicability-path="§12" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.02"/>
+    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.02" codified:doc="D.C. Code" codified:path="§2-1555.02"/>
     <num>3</num>
     <heading>Office of Out of School Time Grants and Youth Outcomes; establishment.</heading>
     <para>
@@ -92,7 +92,7 @@
     <codify:not-funded-anno doc="D.C. Code" path="§2-1555.02" applicability-path="§12" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.03"/>
+    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.03" codified:doc="D.C. Code" codified:path="§2-1555.03"/>
     <num>4</num>
     <heading>Office of Out of School Time Grants and Youth Outcomes; duties and authority.</heading>
     <para>
@@ -154,7 +154,7 @@
     <codify:not-funded-anno doc="D.C. Code" path="§2-1555.03" applicability-path="§12" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.04"/>
+    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.04" codified:doc="D.C. Code" codified:path="§2-1555.04"/>
     <num>5</num>
     <heading>Office of Out of School Time Grants and Youth Outcomes; requirements for awarding grants.</heading>
     <para>
@@ -238,7 +238,7 @@
     <codify:not-funded-anno doc="D.C. Code" path="§2-1555.04" applicability-path="§12" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.05"/>
+    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.05" codified:doc="D.C. Code" codified:path="§2-1555.05"/>
     <num>6</num>
     <heading>Commission on Out of School Time Grants and Youth Outcomes; establishment.</heading>
     <para>
@@ -296,7 +296,7 @@
     <codify:not-funded-anno doc="D.C. Code" path="§2-1555.05" applicability-path="§12" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.06"/>
+    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.06" codified:doc="D.C. Code" codified:path="§2-1555.06"/>
     <num>7</num>
     <heading>Commission on Out of School Time Grants and Youth Outcomes; nongovernmental members' appointment, terms.</heading>
     <para>
@@ -344,7 +344,7 @@
     <codify:not-funded-anno doc="D.C. Code" path="§2-1555.06" applicability-path="§12" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.07"/>
+    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.07" codified:doc="D.C. Code" codified:path="§2-1555.07"/>
     <num>8</num>
     <heading>Commission on Out of School Time Grants and Youth Outcomes; duties and authority.</heading>
     <para>
@@ -389,7 +389,7 @@
     <codify:not-funded-anno doc="D.C. Code" path="§2-1555.07" applicability-path="§12" action="creation of"/>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.08"/>
+    <codify:insert doc="D.C. Code" path="|2|15|III-B" num-value="2-1555.08" codified:doc="D.C. Code" codified:path="§2-1555.08"/>
     <num>9</num>
     <heading>Coordination of funding and reporting.</heading>
     <para>
@@ -420,10 +420,10 @@
   <section>
     <num>10</num>
     <text>The Children and Youth Initiative Establishment Act of 1999, effective October 20, 1999 (D.C. Law 13-38; D.C. Official Code § 2-1551 <em>et seq</em>.), is repealed.</text>
-    <codify:repeal doc="D.C. Code" path="§2-1551"/>
-    <codify:repeal doc="D.C. Code" path="§2-1552"/>
-    <codify:repeal doc="D.C. Code" path="§2-1553"/>
-    <codify:repeal doc="D.C. Code" path="§2-1554"/>
+    <codify:repeal doc="D.C. Code" path="§2-1551" codified:doc="D.C. Code" codified:path="§2-1551"/>
+    <codify:repeal doc="D.C. Code" path="§2-1552" codified:doc="D.C. Code" codified:path="§2-1552"/>
+    <codify:repeal doc="D.C. Code" path="§2-1553" codified:doc="D.C. Code" codified:path="§2-1553"/>
+    <codify:repeal doc="D.C. Code" path="§2-1554" codified:doc="D.C. Code" codified:path="§2-1554"/>
     <codify:not-funded-anno doc="D.C. Code" path="§2-1551" applicability-path="§12" action="repeal of"/>
     <codify:not-funded-anno doc="D.C. Code" path="§2-1552" applicability-path="§12" action="repeal of"/>
     <codify:not-funded-anno doc="D.C. Code" path="§2-1553" applicability-path="§12" action="repeal of"/>
@@ -435,7 +435,7 @@
     <para codify:path="(53)">
       <num>(a)</num>
       <text>Paragraph (54) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01">
         <find>Equity.</find>
         <replace>Equity;</replace>
       </codify:find-replace>
@@ -443,7 +443,7 @@
     <para codify:path="(54)">
       <num>(b)</num>
       <text>Paragraph (55) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01">
         <find>Youth Apprenticeship Advisory Committee, established by § <cite path="§32-1412.01">32-1412.01</cite>.</find>
         <replace>Youth apprenticeship Advisory Committee, established by § <cite path="§32-1412.01">32-1412.01</cite>; and</replace>
       </codify:find-replace>
@@ -453,7 +453,7 @@
       <text>A new paragraph (56) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§1-523.01"/>
           <num>(56)</num>
           <text>The Commission on Out of School Time Grants and Youth Outcomes established pursuant to <code-cite doc="D.C. Code" path="|2|15|III-B">the Office of Out of School Time Grants and Youth Outcomes Establishment Act of 2016, passed on 2nd reading on December 20, 2016 (Enrolled version of Bill 21-865)</code-cite>.</text>
         </para>

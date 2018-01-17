@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 21-167">
-  <codify:organic doc="D.C. Code" path="50|22" num-value="II-B" after="II-A" heading-value="Motor Vehicle Collision Recovery." prefix-value="Subchapter" tag="container" technical="true" history="false"/>
+  <codify:organic doc="D.C. Code" path="50|22" num-value="II-B" after="II-A" heading-value="Motor Vehicle Collision Recovery." prefix-value="Subchapter" tag="container" technical="true" history="false" codified:doc="D.C. Code" codified:path="50|22|II-B"/>
   <num type="law">21-167</num>
   <num type="bill">21-4</num>
   <num type="act">21-490</num>
@@ -23,7 +23,7 @@
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Motor Vehicle Collision Recovery Act of 2016".</text>
   <section>
-    <codify:organic num-value="50-2204.51"/>
+    <codify:organic num-value="50-2204.51" codified:doc="D.C. Code" codified:path="§50-2204.51"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of <code-cite doc="D.C. Law 21-167">this act</code-cite>, the term:</text>
@@ -45,7 +45,7 @@
     </para>
   </section>
   <section>
-    <codify:organic num-value="50-2204.52"/>
+    <codify:organic num-value="50-2204.52" codified:doc="D.C. Code" codified:path="§50-2204.52"/>
     <num>3</num>
     <heading>Contributory negligence limitation.</heading>
     <para>
@@ -82,7 +82,7 @@
     </para>
   </section>
   <section>
-    <codify:organic num-value="50-2204.53"/>
+    <codify:organic num-value="50-2204.53" codified:doc="D.C. Code" codified:path="§50-2204.53"/>
     <num>4</num>
     <heading>Non-severability.</heading>
     <text>If any provision of <code-cite doc="D.C. Law 21-167">this act</code-cite> or its application to any person or circumstance is held to be unconstitutional, beyond the statutory authority of the Council, or otherwise invalid, then all provisions of <code-cite doc="D.C. Law 21-167">this act</code-cite> shall be deemed invalid.</text>

@@ -21,7 +21,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Bicycle and Pedestrian Safety Amendment Act of 2016".</text>
-  <codify:insert doc="D.C. Code" path="50" after="19A" history="false">
+  <codify:insert doc="D.C. Code" path="50" after="19A" history="false" codified:doc="D.C. Code" codified:path="50|19B">
     <container>
       <prefix>Chapter</prefix>
       <num>19B</num>
@@ -34,7 +34,7 @@
     <num>I</num>
     <heading>OPEN ACCESS TO DATA AND INFORMATION</heading>
     <section>
-      <codify:insert num-value="50-1951.01"/>
+      <codify:insert num-value="50-1951.01" codified:doc="D.C. Code" codified:path="§50-1951.01"/>
       <num>101</num>
       <heading>Definitions.</heading>
       <text>For the purposes of <code-cite doc="D.C. Code" path="|50|19B">this title</code-cite>, the term:</text>
@@ -56,7 +56,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="50-1951.02"/>
+      <codify:insert num-value="50-1951.02" codified:doc="D.C. Code" codified:path="§50-1951.02"/>
       <num>102</num>
       <heading>Publication of collision data.</heading>
       <para>
@@ -129,7 +129,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="50-1951.03"/>
+      <codify:insert num-value="50-1951.03" codified:doc="D.C. Code" codified:path="§50-1951.03"/>
       <num>103</num>
       <heading>Publication of moving infraction data.</heading>
       <para>
@@ -183,7 +183,7 @@
       <codify:not-funded-anno applicability-path="§901" action="creation of"/>
     </section>
     <section>
-      <codify:insert num-value="50-1951.04"/>
+      <codify:insert num-value="50-1951.04" codified:doc="D.C. Code" codified:path="§50-1951.04"/>
       <num>104</num>
       <heading>Publication of information relating to permits for the occupation of public space, public rights of way, and public structures.</heading>
       <para>
@@ -216,7 +216,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="50-1951.05"/>
+      <codify:insert num-value="50-1951.05" codified:doc="D.C. Code" codified:path="§50-1951.05"/>
       <num>105</num>
       <heading>Publication of information relating to citizen petitions for traffic calming measures.</heading>
       <para>
@@ -245,7 +245,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="50-1951.06"/>
+      <codify:insert num-value="50-1951.06" codified:doc="D.C. Code" codified:path="§50-1951.06"/>
       <num>106</num>
       <heading>Annual report on locations with the highest frequency of collisions that injure or kill pedestrians.</heading>
       <text>By July 1, 2017, and annually thereafter, DDOT shall transmit to the chairperson of the Council committee with oversight of transportation a report that:</text>
@@ -267,7 +267,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="50-1951.07"/>
+      <codify:insert num-value="50-1951.07" codified:doc="D.C. Code" codified:path="§50-1951.07"/>
       <num>107</num>
       <heading>Biennial report on improving bicycle and pedestrian safety.</heading>
       <para>
@@ -296,7 +296,7 @@
       </para>
     </section>
   </container>
-  <codify:insert doc="D.C. Code" path="50" after="23B" history="false">
+  <codify:insert doc="D.C. Code" path="50" after="23B" history="false" codified:doc="D.C. Code" codified:path="50|23C">
     <container>
       <prefix>Chapter</prefix>
       <num>23C</num>
@@ -309,7 +309,7 @@
     <num>II</num>
     <heading>BICYCLE AND PEDESTRIAN PRIORITY AREAS</heading>
     <section>
-      <codify:insert num-value="50-2371"/>
+      <codify:insert num-value="50-2371" codified:doc="D.C. Code" codified:path="§50-2371"/>
       <num>201</num>
       <heading>Bicycle and Pedestrian Priority Area Program.</heading>
       <para>
@@ -394,7 +394,7 @@
       </para>
     </section>
   </container>
-  <codify:insert doc="D.C. Code" path="50" after="23C" history="false">
+  <codify:insert doc="D.C. Code" path="50" after="23C" history="false" codified:doc="D.C. Code" codified:path="50|23D">
     <container>
       <prefix>Chapter</prefix>
       <num>23D</num>
@@ -407,7 +407,7 @@
     <num>III</num>
     <heading>COMPLETE STREETS</heading>
     <section>
-      <codify:insert num-value="50-2381"/>
+      <codify:insert num-value="50-2381" codified:doc="D.C. Code" codified:path="§50-2381"/>
       <num>301</num>
       <heading>Complete Streets policy.</heading>
       <para>
@@ -481,7 +481,7 @@
       </para>
     </section>
   </container>
-  <codify:insert doc="D.C. Code" path="50" after="5" history="false">
+  <codify:insert doc="D.C. Code" path="50" after="5" history="false" codified:doc="D.C. Code" codified:path="50|5A">
     <container>
       <prefix>Chapter</prefix>
       <num>5A</num>
@@ -494,7 +494,7 @@
     <num>IV</num>
     <heading>BICYCLE CONSUMER PROTECTION</heading>
     <section>
-      <codify:insert num-value="50-531"/>
+      <codify:insert num-value="50-531" codified:doc="D.C. Code" codified:path="§50-531"/>
       <num>401</num>
       <heading>Definitions.</heading>
       <text>For the purposes of <code-cite doc="D.C. Code" path="|50|5A">this title</code-cite>, the term:</text>
@@ -524,7 +524,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="50-532"/>
+      <codify:insert num-value="50-532" codified:doc="D.C. Code" codified:path="§50-532"/>
       <num>402</num>
       <heading>Consumer protection for bicycle insurance.</heading>
       <para>
@@ -570,7 +570,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="50-533"/>
+      <codify:insert num-value="50-533" codified:doc="D.C. Code" codified:path="§50-533"/>
       <num>403</num>
       <heading>Appeals.</heading>
       <para>
@@ -599,7 +599,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="50-534"/>
+      <codify:insert num-value="50-534" codified:doc="D.C. Code" codified:path="§50-534"/>
       <num>404</num>
       <heading>Immunity.</heading>
       <text>There shall be no liability on the part of and no cause of action of any nature shall arise against any employee of the District government, any insurer, its authorized representatives, its agents, its employees, or any firm, person, or corporation who, in good faith:</text>
@@ -625,7 +625,7 @@
       </para>
     </section>
     <section>
-      <codify:insert num-value="50-535"/>
+      <codify:insert num-value="50-535" codified:doc="D.C. Code" codified:path="§50-535"/>
       <num>405</num>
       <heading>Rights and policy terms.</heading>
       <para>
@@ -647,7 +647,7 @@
       <num>501</num>
       <text>Section 2214.4 of Title 18 of the District of Columbia Municipal Regulations (18 DCMR § 2214.4) is amended by striking the phrase "without interfering with moving traffic or pedestrians" and inserting the phrase "without interfering with moving traffic, bicyclists, or pedestrians" in its place.</text>
     </section>
-    <codify:insert doc="D.C. Code" path="38" after="33" history="false">
+    <codify:insert doc="D.C. Code" path="38" after="33" history="false" codified:doc="D.C. Code" codified:path="38|34">
       <container>
         <prefix>Chapter</prefix>
         <num>34</num>
@@ -655,7 +655,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert doc="D.C. Code" path="|38|34" num-value="38-3401"/>
+      <codify:insert doc="D.C. Code" path="|38|34" num-value="38-3401" codified:doc="D.C. Code" codified:path="§38-3401"/>
       <num>502</num>
       <heading>Universal street safety education.</heading>
       <para>
@@ -694,14 +694,14 @@
       <para>
         <num>(a)</num>
         <text>The lead-in language is amended by striking the phrase "the training course shall be designed" and inserting the phrase "the training course and any refresher course provided by the Department of For-Hire Vehicles shall be designed" in its place.</text>
-        <codify:find-replace path="text" find="the training course shall be designed" replace="the training course and any refresher course provided by the Department of For-Hire Vehicles shall be designed" count="1"/>
+        <codify:find-replace path="text" find="the training course shall be designed" replace="the training course and any refresher course provided by the Department of For-Hire Vehicles shall be designed" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
       </para>
       <para>
         <num>(b)</num>
         <text>Sub-subparagraph (iii) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="(iii)"/>
+            <codify:replace path="(iii)" codified:doc="D.C. Code" codified:path="§47-2829"/>
             <num>(iii)</num>
             <text>District traffic laws and regulations and the penalties for violating these laws and regulations, including:</text>
             <para>
@@ -726,7 +726,7 @@
       <text>Section 20f-2 of the Department of For-Hire Vehicles Establishment Act of 1985, effective March 10, 2015 (D.C. Law 20-197; D.C. Official Code § 50-301.25b), is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace path="§50-301.25b"/>
+          <codify:replace path="§50-301.25b" codified:doc="D.C. Code" codified:path="§50-301.25b"/>
           <num codify:value="50-301.25b">20f-2</num>
           <heading>Training of employees and operators.</heading>
           <para>
@@ -762,7 +762,7 @@
       <aftertext>.</aftertext>
     </section>
     <section>
-      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-2302.01" history="false">For requirement of the submission of a report and recommendations as to whether the District should implement a remediation and deferred disposition program, see <cite doc="D.C. Law 21-155" path="§603">§ 603 of D.C. Law 21-155</cite>.
+      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-2302.01" history="false" codified:doc="D.C. Code" codified:path="§50-2302.01">For requirement of the submission of a report and recommendations as to whether the District should implement a remediation and deferred disposition program, see <cite doc="D.C. Law 21-155" path="§603">§ 603 of D.C. Law 21-155</cite>.
       </codify:annotation>
       <num>603</num>
       <heading>Study of remediation and deferred disposition program.</heading>
@@ -788,7 +788,7 @@
         <text>If the Mayor recommends implementing a remediation and deferred disposition program, the report shall include a detailed description of the content of any proposed safety course provided in the program, the process by which a person would participate in the program, and the alternatives available to participants in lieu of paying a fine or being assessed points.</text>
       </para>
     </section>
-    <codify:insert doc="D.C. Code" path="|50|22" after="II" history="false">
+    <codify:insert doc="D.C. Code" path="|50|22" after="II" history="false" codified:doc="D.C. Code" codified:path="50|22|II-A">
       <container>
         <prefix>Subchapter</prefix>
         <num>II-A</num>
@@ -796,7 +796,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert doc="D.C. Code" path="|50|22|II-A" num-value="50-2204.01"/>
+      <codify:insert doc="D.C. Code" path="|50|22|II-A" num-value="50-2204.01" codified:doc="D.C. Code" codified:path="§50-2204.01"/>
       <num>604</num>
       <heading>Aggressive driving.</heading>
       <para>
@@ -866,14 +866,14 @@
       <para>
         <num>(a)</num>
         <text>The section heading is amended by striking the phrase "District-owned,".</text>
-        <codify:find-replace path="heading" find="District-owned," replace="" count="1"/>
+        <codify:find-replace path="heading" find="District-owned," replace="" count="1" codified:doc="D.C. Code" codified:path="§50-205"/>
       </para>
       <para>
         <num>(b)</num>
         <text>New subsections (a-1) and (a-2) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(a)"/>
+            <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§50-205"/>
             <num>(a-1)</num>
             <text>Effective January 1, 2017, all heavy-duty vehicles registered in the District shall be equipped with the following:</text>
             <para>
@@ -886,7 +886,7 @@
             </para>
           </para>
           <para>
-            <codify:insert after="(a-1)"/>
+            <codify:insert after="(a-1)" codified:doc="D.C. Code" codified:path="§50-205"/>
             <num>(a-2)</num>
             <text>Effective January 1, 2019, all heavy-duty vehicles registered in the District shall be equipped with side-underrun guards to prevent bicyclists, other vehicles, or pedestrians from sliding under rear wheels.</text>
           </para>
@@ -895,7 +895,7 @@
       </para>
     </section>
     <section>
-      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-2201.28" history="false">For requirement of the submission of a report and recommendations as to whether the DC Circulator buses and District-owned, heavy-duty vehicles should be equipped with pedestrian-alert technologies, see <cite doc="D.C. Law 21-155" path="§606">§ 606 of D.C. Law 21-155</cite>.
+      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-2201.28" history="false" codified:doc="D.C. Code" codified:path="§50-2201.28">For requirement of the submission of a report and recommendations as to whether the DC Circulator buses and District-owned, heavy-duty vehicles should be equipped with pedestrian-alert technologies, see <cite doc="D.C. Law 21-155" path="§606">§ 606 of D.C. Law 21-155</cite>.
       </codify:annotation>
       <num>606</num>
       <heading>Audible warnings from public sector large vehicles.</heading>
@@ -906,7 +906,7 @@
       <text>Section 9b of the District of Columbia Traffic Act, 1925, effective April 5, 2005 (D.C. Law. 15-289; D.C. Official Code § 50-2201.04b), is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§50-2201.04b"/>
           <num codify:value="50-2201.04b">9b</num>
           <heading>All-terrain vehicles and dirt bikes.</heading>
           <para>
@@ -949,13 +949,13 @@
     <section codify:doc="D.C. Code" codify:path="§41-301">
       <num>608</num>
       <text>Section 101(4) of the Civil Asset Forfeiture Amendment Act of 2014, effective June 16, 2015 (D.C. Law 20-278; D.C. Official Code § 41-301(4)), is amended by striking the phrase "or section 4 of the District of Columbia Revenue Act of 1937, approved August 17, 1937 (50 Stat. 682; D.C. Official Code § 50-1501.04)" and inserting the phrase "section 4 of the District of Columbia Revenue Act of 1937, approved August 17, 1937 (50 Stat. 682; D.C. Official Code § 50-1501.04), or section 9b of the District of Columbia Traffic Act, 1925, effective April 5, 2005 (D.C. Law 15-289; D.C. Official Code § 50-2201.04b)" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§41-301">
         <find>or § <cite path="§50-1501.04">50-1501.04</cite></find>
         <replace>§ <cite path="§50-1501.04">50-1501.04</cite>, or § <cite path="§50-2201.04b">50-2201.04b</cite></replace>
       </codify:find-replace>
     </section>
     <section>
-      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-2302.01" history="false">For requirement of the submission of a report and recommendations as to whether emergency vehicles should be equipped with cameras to better enforce regulations associated with the failure to yield to emergency vehicles, see <cite doc="D.C. Law 21-155" path="§609">§ 609 of D.C. Law 21-155</cite>.
+      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-2302.01" history="false" codified:doc="D.C. Code" codified:path="§50-2302.01">For requirement of the submission of a report and recommendations as to whether emergency vehicles should be equipped with cameras to better enforce regulations associated with the failure to yield to emergency vehicles, see <cite doc="D.C. Law 21-155" path="§609">§ 609 of D.C. Law 21-155</cite>.
       </codify:annotation>
       <num>609</num>
       <heading>Emergency vehicle enforcement cameras.</heading>
@@ -971,7 +971,7 @@
       <text>Section 10a of the District of Columbia Traffic Act, 1925, effective April 3, 2001 (D,C. Law 13-238; D.C. Official Code § 50-2201.05a), is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§50-2201.05a"/>
           <num codify:value="50-2201.05a">10a</num>
           <heading>Establishment of Ignition Interlock System Program.</heading>
           <para>
@@ -1054,7 +1054,7 @@
         <text>Section 3d (D.C. Official Code § 50-2206.13) is amended by adding a new subsection (d-1) to read as follows:</text>
         <include>
           <para>
-            <codify:insert path="§50-2206.13" after="(d)"/>
+            <codify:insert path="§50-2206.13" after="(d)" codified:doc="D.C. Code" codified:path="§50-2206.13"/>
             <num>(d-1)</num>
             <para>
               <num>(1)</num>
@@ -1073,7 +1073,7 @@
         <text>Section 3f (D.C. Official Code § 50-2206.15) is amended by adding a new subsection (c-1) to read as follows:</text>
         <include>
           <para>
-            <codify:insert path="§50-2206.15" after="(c)"/>
+            <codify:insert path="§50-2206.15" after="(c)" codified:doc="D.C. Code" codified:path="§50-2206.15"/>
             <num>(c-1)</num>
             <para>
               <num>(1)</num>
@@ -1093,14 +1093,14 @@
         <para>
           <num>(1)</num>
           <text>Subsection (a) is amended by striking the phrase "The Mayor or his or her designated agent" and inserting the phrase "Except as provided in subsection (a-1) of this section, the Mayor or his or her designated agent" in its place.</text>
-          <codify:find-replace path="(a)" find="The Mayor or his or her designated agent" replace="Except as provided in subsection (a-1) of this section, the Mayor or his or her designated agent" count="1"/>
+          <codify:find-replace path="(a)" find="The Mayor or his or her designated agent" replace="Except as provided in subsection (a-1) of this section, the Mayor or his or her designated agent" count="1" codified:doc="D.C. Code" codified:path="§50-2206.55"/>
         </para>
         <para>
           <num>(2)</num>
           <text>A new subsection (a-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a)"/>
+              <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§50-2206.55"/>
               <num>(a-1)</num>
               <para>
                 <num>(1)</num>
@@ -1121,24 +1121,24 @@
       <heading>Rules.</heading>
       <text>Within 180 days after the effective date of the Bicycle and Pedestrian Safety Amendment Act of 2016, passed on 2nd reading on June 28, 2016 (Enrolled version of Bill 21-335), the Mayor, pursuant to <code-cite doc="D.C. Code" path="|2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to implement the provisions of this title.
       </text>
-      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-1951.01" history="false">For requirement of the issuance of rules to implement title 7 of Law 21-155, see <cite doc="D.C. Law 21-155">§ 703 of D.C. Law 21-155</cite>.
+      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-1951.01" history="false" codified:doc="D.C. Code" codified:path="§50-1951.01">For requirement of the issuance of rules to implement title 7 of Law 21-155, see <cite doc="D.C. Law 21-155">§ 703 of D.C. Law 21-155</cite>.
       </codify:annotation>
-      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-2371" history="false">For requirement of the issuance of rules to implement title 7 of Law 21-155, see <cite doc="D.C. Law 21-155">§ 703 of D.C. Law 21-155</cite>.
+      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-2371" history="false" codified:doc="D.C. Code" codified:path="§50-2371">For requirement of the issuance of rules to implement title 7 of Law 21-155, see <cite doc="D.C. Law 21-155">§ 703 of D.C. Law 21-155</cite>.
       </codify:annotation>
-      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-2381" history="false">For requirement of the issuance of rules to implement title 7 of Law 21-155, see <cite doc="D.C. Law 21-155">§ 703 of D.C. Law 21-155</cite>.
+      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-2381" history="false" codified:doc="D.C. Code" codified:path="§50-2381">For requirement of the issuance of rules to implement title 7 of Law 21-155, see <cite doc="D.C. Law 21-155">§ 703 of D.C. Law 21-155</cite>.
       </codify:annotation>
-      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-531" history="false">For requirement of the issuance of rules to implement title 7 of Law 21-155, see <cite doc="D.C. Law 21-155">§ 703 of D.C. Law 21-155</cite>.
+      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-531" history="false" codified:doc="D.C. Code" codified:path="§50-531">For requirement of the issuance of rules to implement title 7 of Law 21-155, see <cite doc="D.C. Law 21-155">§ 703 of D.C. Law 21-155</cite>.
       </codify:annotation>
-      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-2204.01" history="false">For requirement of the issuance of rules to implement title 7 of Law 21-155, see <cite doc="D.C. Law 21-155">§ 703 of D.C. Law 21-155</cite>.
+      <codify:annotation doc="D.C. Code" type="Editor's Notes" path="§50-2204.01" history="false" codified:doc="D.C. Code" codified:path="§50-2204.01">For requirement of the issuance of rules to implement title 7 of Law 21-155, see <cite doc="D.C. Law 21-155">§ 703 of D.C. Law 21-155</cite>.
       </codify:annotation>
     </section>
     <section>
       <num>704</num>
       <heading>Applicability.</heading>
       <text>Sections 701 and 702(c) shall apply upon the issuance of rules by the Mayor pursuant to section 703.</text>
-      <codify:annotation doc="D.C. Code" type="Applicability" path="§50-2201.05a" history="false">For requirement that section 701 of Law 21-155 shall apply upon the issuance of mayoral rules, see <cite doc="D.C. Law 21-155" path="§704">§ 704 of D.C. Law 21-155</cite>.
+      <codify:annotation doc="D.C. Code" type="Applicability" path="§50-2201.05a" history="false" codified:doc="D.C. Code" codified:path="§50-2201.05a">For requirement that section 701 of Law 21-155 shall apply upon the issuance of mayoral rules, see <cite doc="D.C. Law 21-155" path="§704">§ 704 of D.C. Law 21-155</cite>.
       </codify:annotation>
-      <codify:annotation doc="D.C. Code" type="Applicability" path="§50-2206.55" history="false">For requirement that section 702(c) of Law 21-155 shall apply upon the issuance of mayoral rules, see <cite doc="D.C. Law 21-155" path="§704">§ 704 of D.C. Law 21-155</cite>.
+      <codify:annotation doc="D.C. Code" type="Applicability" path="§50-2206.55" history="false" codified:doc="D.C. Code" codified:path="§50-2206.55">For requirement that section 702(c) of Law 21-155 shall apply upon the issuance of mayoral rules, see <cite doc="D.C. Law 21-155" path="§704">§ 704 of D.C. Law 21-155</cite>.
       </codify:annotation>
     </section>
   </container>
@@ -1152,7 +1152,7 @@
       </text>
       <include>
         <section>
-          <codify:insert num-value="50-2209.04" history-prefix="as added"/>
+          <codify:insert num-value="50-2209.04" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2209.04"/>
           <num>904</num>
           <heading>Access to automated traffic enforcement and District-owned camera photographs and video footage.</heading>
           <para>
@@ -1193,7 +1193,7 @@
       <aftertext>.</aftertext>
       <codify:not-funded-anno applicability-path="§901" action="creation of"/>
     </section>
-    <codify:insert doc="D.C. Code" path="|50" after="18" history="false">
+    <codify:insert doc="D.C. Code" path="|50" after="18" history="false" codified:doc="D.C. Code" codified:path="50|18A">
       <container>
         <prefix>Chapter</prefix>
         <num>18A</num>
@@ -1201,7 +1201,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert doc="D.C. Code" path="|50|18A" num-value="50-1831"/>
+      <codify:insert doc="D.C. Code" path="|50|18A" num-value="50-1831" codified:doc="D.C. Code" codified:path="§50-1831"/>
       <num>802</num>
       <heading>Major Crash Review Task Force.</heading>
       <para>

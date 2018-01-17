@@ -28,7 +28,7 @@
       <text>A new Title III-D is added to read as follows:</text>
       <include>
         <container>
-          <codify:organic doc="D.C. Code" path="|4|13|I|" num-value="C-iv" after="C-iii" history="false"/>
+          <codify:organic doc="D.C. Code" path="|4|13|I|" num-value="C-iv" after="C-iii" history="false" codified:doc="D.C. Code" codified:path="4|13|I|C-iv"/>
           <prefix>Part</prefix>
           <num>C-iv</num>
           <heading>Statements of Rights and Responsibilities for Foster Parents.</heading>
@@ -38,7 +38,7 @@
           <num>III-D</num>
           <heading>Statements of Rights and Responsibilities for Foster Parents.</heading>
           <section>
-            <codify:insert doc="D.C. Code" path="|4|13|I|C-iv" num-value="4-1303.81" history-prefix="as added"/>
+            <codify:insert doc="D.C. Code" path="|4|13|I|C-iv" num-value="4-1303.81" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-1303.81"/>
             <num>381</num>
             <heading>Definitions.</heading>
             <text>For the purposes of <code-cite doc="D.C. Code" path="|4|13|I|C-iv">this title</code-cite>, the term:</text>
@@ -53,7 +53,7 @@
             <annotation doc="D.C. Law 2-22" type="History" path="§381">Sept. 23, 1977, D.C. Law 2-22, title III-D, § 381</annotation>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="|4|13|I|C-iv" num-value="4-1303.82" history-prefix="as added"/>
+            <codify:insert doc="D.C. Code" path="|4|13|I|C-iv" num-value="4-1303.82" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-1303.82"/>
             <num>382</num>
             <heading>Statements of Rights and Responsibilities for Foster Parents.</heading>
             <para>
@@ -99,7 +99,7 @@
             <annotation doc="D.C. Law 2-22" type="History" path="§382">Sept. 23, 1977, D.C. Law 2-22, title III-D, § 382</annotation>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="|4|13|I|C-iv" num-value="4-1303.83" history-prefix="as added"/>
+            <codify:insert doc="D.C. Code" path="|4|13|I|C-iv" num-value="4-1303.83" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-1303.83"/>
             <num>383</num>
             <heading>Dissemination of rights and responsibilities information.</heading>
             <para>
@@ -117,7 +117,7 @@
             <annotation doc="D.C. Law 2-22" type="History" path="§383">Sept. 23, 1977, D.C. Law 2-22, title III-D, § 383</annotation>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="|4|13|I|C-iv" num-value="4-1303.84" history-prefix="as added"/>
+            <codify:insert doc="D.C. Code" path="|4|13|I|C-iv" num-value="4-1303.84" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-1303.84"/>
             <num>384</num>
             <heading>Implementation plan.</heading>
             <para>
@@ -217,7 +217,7 @@
             <annotation doc="D.C. Law 2-22" type="History" path="§384">Sept. 23, 1977, D.C. Law 2-22, title III-D, § 384</annotation>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="|4|13|I|C-iv" num-value="4-1303.85" history-prefix="as added"/>
+            <codify:insert doc="D.C. Code" path="|4|13|I|C-iv" num-value="4-1303.85" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-1303.85"/>
             <num>385</num>
             <heading>Rules.</heading>
             <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="|2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, shall issue rules to implement the provisions of <code-cite doc="D.C. Code" path="|4|13|I|C-iv">this title</code-cite>. The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess.  If the Council does not approve or disapprove the proposed rules, in whole or in part, by resolution within the 45-day review period, the proposed rules shall be deemed approved.</text>
@@ -230,7 +230,7 @@
     <para>
       <num>(b)</num>
       <text>Section 374(b)(2) (D.C. Official Code § 4-1303.74(b)(2)) is amended by striking the word "communication" and inserting the word "complaints" in its place.</text>
-      <codify:find-replace doc="D.C. Code" path="§4-1303.74|(b)|(2)" count="1">
+      <codify:find-replace doc="D.C. Code" path="§4-1303.74|(b)|(2)" count="1" codified:doc="D.C. Code" codified:path="§4-1303.74">
         <find>communication</find>
         <replace>complaints</replace>
       </codify:find-replace>

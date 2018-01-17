@@ -31,7 +31,7 @@
       <para>
         <num>(1)</num>
         <text>Striking the phrase "elderly and disabled tenants" and inserting the phrase "elderly tenants and tenants with disabilities" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3401.01">
           <find>elderly and disabled tenants</find>
           <replace>elderly tenants and tenants with disabilities</replace>
         </codify:find-replace>
@@ -39,7 +39,7 @@
       <para>
         <num>(2)</num>
         <text>Striking the phrase "lower income, elderly, and disabled tenants" and inserting the phrase "lower income tenants, elderly tenants and tenants with disabilities" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3401.01">
           <find>lower income, elderly, and disabled tenants</find>
           <replace>lower income tenants, elderly tenants and tenants with disabilities</replace>
         </codify:find-replace>
@@ -51,7 +51,7 @@
       <para codify:path="(3)">
         <num>(1)</num>
         <text>Paragraph (3) is amended by striking the phrase "elderly and disabled tenants" and inserting the phrase "elderly tenants and tenants with disabilities" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3401.02">
           <find>elderly and disabled tenants</find>
           <replace>elderly tenants and tenants with disabilities</replace>
         </codify:find-replace>
@@ -59,7 +59,7 @@
       <para codify:path="(4)">
         <num>(2)</num>
         <text>Paragraph (4) is amended by striking the phrase "low income non-elderly and non-disabled tenants" and inserting the phrase "lower income non-elderly tenants and tenants without disabilities" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3401.02">
           <find>low income non-elderly and non-disabled tenants</find>
           <replace>lower income non-elderly tenants and tenants without disabilities</replace>
         </codify:find-replace>
@@ -73,7 +73,7 @@
         <text>A new paragraph (9A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(9)"/>
+            <codify:insert after="(9)" codified:doc="D.C. Code" codified:path="§42-3401.03"/>
             <num>(9A)</num>
             <text>"Elderly tenant" means a tenant who is 62 years of age or older.</text>
           </para>
@@ -85,7 +85,7 @@
         <text>A new paragraph (19) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(18)"/>
+            <codify:insert after="(18)" codified:doc="D.C. Code" codified:path="§42-3401.03"/>
             <num>(19)</num>
             <text>"Tenant with a disability" means a tenant who has a disability as defined in section 3(1)(A) of the Americans with Disabilities Act of 1990, approved July 26, 1990 (104 Stat. 329; 42 U.S.C. § 12102(1)(A)).</text>
           </para>
@@ -96,7 +96,7 @@
     <para codify:path="§42-3402.03|(d)|(4)">
       <num>(d)</num>
       <text>Section 203(d)(4) (D.C. Official Code § 42-3402.03(d)(4)) is amended by striking the phrase "elderly or disabled tenant" and inserting the phrase "elderly tenant or tenant with a disability" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3402.03">
         <find>elderly or disabled tenant</find>
         <replace>elderly tenant or tenant with a disability</replace>
       </codify:find-replace>
@@ -106,7 +106,7 @@
       <text>Section 204(b)(3)(A) (D.C. Official Code § 42-3402.04(b)(3)(A)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§42-3402.04"/>
           <num>(A)</num>
           <text>Is sold to a person who is an elderly tenant or a tenant with a disability.</text>
         </para>
@@ -119,7 +119,7 @@
       <para codify:path="heading">
         <num>(1)</num>
         <text>The section heading is amended by striking the phrase "Elderly or disabled tenancy" and inserting the phrase "Tenancy of elderly tenants and tenants with disabilities" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3402.08">
           <find>Elderly or disabled tenancy</find>
           <replace>Tenancy of elderly tenants and tenants with disabilities</replace>
         </codify:find-replace>
@@ -127,7 +127,7 @@
       <para codify:path="(a)|(2)">
         <num>(2)</num>
         <text>Subsection (a)(2) is amended by striking the phrase "elderly or disabled tenant" and inserting the phrase "elderly tenant or tenant with a disability" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3402.08">
           <find>elderly or disabled tenant</find>
           <replace>elderly tenant or tenant with a disability</replace>
         </codify:find-replace>
@@ -135,7 +135,7 @@
       <para codify:path="(b)">
         <num>(3)</num>
         <text>Subsection (b) is amended by striking the phrase "elderly or disabled tenant" and inserting the phrase "elderly tenant or tenant with a disability" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3402.08">
           <find>elderly or disabled tenant</find>
           <replace>elderly tenant or tenant with a disability</replace>
         </codify:find-replace>
@@ -145,7 +145,7 @@
         <text>Subsection (c) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§42-3402.08"/>
             <num>(c)</num>
             <heading>Qualification. –</heading>
             <para>
@@ -225,7 +225,7 @@
         <text>Paragraph (12) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§42-3501.03"/>
             <num>(12)</num>
             <text>"Elderly tenant" means a tenant who is 62 years of age or older.</text>
           </para>
@@ -237,7 +237,7 @@
         <text>A new paragraph (25A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(25)"/>
+            <codify:insert after="(25)" codified:doc="D.C. Code" codified:path="§42-3501.03"/>
             <num>(25A)</num>
             <text>"Qualifying income" means household income, as defined by <code-cite doc="D.C. Code" path="§47-1806.06|(b)|(2)">D.C. Official Code § 47-1806.06(b)(2)</code-cite>, that is no greater than 60% of the area median income, as defined by <code-cite doc="D.C. Code" path="§42-2801|(1)">section 2(1) of the Housing Production Trust Fund Act of 1988, effective March 16, 1989 (D.C. Law 7-202; D.C. Official Code § 42-2801(1)</code-cite>.</text>
           </para>
@@ -249,12 +249,12 @@
         <text>New paragraphs (29A) and (29B) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(29)"/>
+            <codify:insert after="(29)" codified:doc="D.C. Code" codified:path="§42-3501.03"/>
             <num>(29A)</num>
             <text>"Rent charged" means the amount of monthly rent charged to a tenant by a housing provider for a rental unit covered by the Rent Stabilization Program.</text>
           </para>
           <para>
-            <codify:insert after="(29A)"/>
+            <codify:insert after="(29A)" codified:doc="D.C. Code" codified:path="§42-3501.03"/>
             <num>(29B)</num>
             <text>"Rent surcharge" means a charge added to the rent charged for a rental unit pursuant to a capital improvement petition, hardship petition, or a substantial rehabilitation, and not included as part of the rent charged.</text>
           </para>
@@ -266,7 +266,7 @@
         <text>A new paragraph (36A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(36)"/>
+            <codify:insert after="(36)" codified:doc="D.C. Code" codified:path="§42-3501.03"/>
             <num>(36A)</num>
             <text>"Tenant with a disability" means a tenant who has a disability as defined in section 3(1)(A) of the Americans with Disabilities Act of 1990, approved July 26, 1990 (104 Stat. 329; 42 U.S.C. § 12102(1)(A)).</text>
           </para>
@@ -279,7 +279,7 @@
       <text>Section 202(a)(3) (D.C. Official Code § 42-3502.02(a)(3)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§42-3502.02"/>
           <num>(3)</num>
           <text>Certify and publish before March 1 of each year:</text>
           <para>
@@ -308,8 +308,8 @@
       <para>
         <num>(1)</num>
         <text>Subsection (f) is repealed.</text>
-        <codify:repeal path="(f)"/>
-        <codify:find-replace doc="D.C. Law 6-10" path="§205|(a)|(1)" count="1" technical="true">
+        <codify:repeal path="(f)" codified:doc="D.C. Code" codified:path="§42-3502.06"/>
+        <codify:find-replace doc="D.C. Law 6-10" path="§205|(a)|(1)" count="1" technical="true" codified:doc="D.C. Code" codified:path="§42-3502.05">
           <find><code-cite path="§206|(f)|(2)|(A)">section 206(f)(2)(A)</code-cite>, or co-leased by a home and community-based services waiver provider and occupied by a tenant with a disability without regard to income but otherwise as defined in <code-cite path="§206|(f)|(2)|(A)">section 206(f)(2)(A)</code-cite></find>
           <replace>section 206(f)(2)(A)<span codify:value=" [Repealed]"/>, or co-leased by a home and community-based services waiver provider and occupied by a tenant with a disability without regard to income but otherwise as defined in section 206(f)(2)(A)<span codify:value=" [Repealed]"/></replace>
         </codify:find-replace>
@@ -317,7 +317,7 @@
       <para>
         <num>(2)</num>
         <text>Subsection (g) is repealed.</text>
-        <codify:repeal path="(g)"/>
+        <codify:repeal path="(g)" codified:doc="D.C. Code" codified:path="§42-3502.06"/>
       </para>
     </para>
     <para codify:path="§42-3502.08">
@@ -329,7 +329,7 @@
         <para codify:path="(D)">
           <num>(A)</num>
           <text>Subparagraph (D) is amended by striking the word "and".</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3502.08">
             <find>and</find>
             <replace/>
           </codify:find-replace>
@@ -337,7 +337,7 @@
         <para codify:path="(E)">
           <num>(B)</num>
           <text>Subparagraph (E) is amended by striking the period and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" position="last">
+          <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§42-3502.08">
             <find>.</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -347,12 +347,12 @@
           <text>New subparagraphs (F) and (G) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(E)"/>
+              <codify:insert after="(E)" codified:doc="D.C. Code" codified:path="§42-3502.08"/>
               <num>(F)</num>
               <text>The housing provider has provided a tenant with written notice of the maximum standard rent increase that applies to an elderly tenant or a tenant with a disability and the means by which a tenant may establish elderly or disability status as set forth in <code-cite doc="D.C. Code" path="§42-3502.24|(d)">224(d)</code-cite>, as provided by the Rent Administrator pursuant to <code-cite doc="D.C. Code" path="§42-3502.24|(f)">224(f)</code-cite>, and has not required a tenant to provide more proof of age or disability than the minimum information necessary to establish that status; and</text>
             </para>
             <para>
-              <codify:insert after="(F)"/>
+              <codify:insert after="(F)" codified:doc="D.C. Code" codified:path="§42-3502.08"/>
               <num>(G)</num>
               <text>The housing provider, if a nonresident of the District, has appointed and maintained a registered agent pursuant to section 203 of Title 14 of the District of Columbia Municipal Regulations.</text>
             </para>
@@ -365,7 +365,7 @@
         <text>Subsection (h) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§42-3502.08"/>
             <num>(h)</num>
             <text>Unless the adjustment in the amount of rent charged is implemented pursuant to <code-cite doc="D.C. Code" path="§42-3502.10">210</code-cite>, <code-cite doc="D.C. Code" path="§42-3502.11">211</code-cite>, <code-cite doc="D.C. Code" path="§42-3502.12">212</code-cite>, or <code-cite doc="D.C. Code" path="§42-3502.14">214</code-cite>, an adjustment in the amount of rent charged:</text>
             <para>
@@ -396,7 +396,7 @@
     <para codify:path="§42-3502.15|(b)">
       <num>(e)</num>
       <text>Section 215(b) (D.C. Official Code § 42-3502.15(b)) is amended by striking the phrase "on all tenants" and inserting the phrase "on all tenants, except as specified in section 224(i)(2)" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3502.15">
         <find>on all tenants</find>
         <replace>on all tenants, except as specified in <code-cite doc="D.C. Code" path="§42-3502.24|(i)|(2)">section 224(i)(2)</code-cite></replace>
       </codify:find-replace>
@@ -404,7 +404,7 @@
     <para codify:path="§42-3502.23">
       <num>(f)</num>
       <text>Section 223 (D.C. Official Code § 42-3502.23) is amended by striking the phrase "disabled tenants" in the lead-in language and inserting the phrase "tenants with disabilities" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3502.23">
         <find>disabled tenants</find>
         <replace>tenants with disabilities</replace>
       </codify:find-replace>
@@ -414,7 +414,7 @@
       <text>A new section 224 is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="|42|35|II" after="§42-3502.23" num-value="42-3502.24" history-prefix="as added"/>
+          <codify:insert path="|42|35|II" after="§42-3502.23" num-value="42-3502.24" history-prefix="as added" codified:doc="D.C. Code" codified:path="§42-3502.24"/>
           <num>224</num>
           <heading>Elderly tenants and tenants with disabilities.</heading>
           <para>
@@ -648,7 +648,7 @@
       <text>Section 901 (D.C. Official Code § 42-3509.01) is amended by adding a new subsection (h) to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(g)"/>
+          <codify:insert after="(g)" codified:doc="D.C. Code" codified:path="§42-3509.01"/>
           <num>(h)</num>
           <text>If a housing provider's challenge, pursuant to <code-cite doc="D.C. Code" path="§42-3502.24|(h)|(2)">section 224(h)(2)</code-cite>, to a tenant's registration to establish elderly or disability status under <code-cite doc="D.C. Code" path="§42-3502.24|(d)">section 224(d)</code-cite> is determined to have been frivolous or made in bad faith, the housing provider shall be deemed to have made an unlawful demand for rent, and shall be held liable to the tenant, as applicable, for:</text>
           <para>
@@ -674,8 +674,8 @@
     <para>
       <num>(a)</num>
       <text>The new section 224(b) of the Rental Housing Act of 1985, within section 3(g), shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal doc="D.C. Code" path="§42-3502.24|(b)" history="false"/>
-      <codify:find-replace doc="D.C. Code" path="§42-3502.24|(b)" count="1">
+      <codify:repeal doc="D.C. Code" path="§42-3502.24|(b)" history="false" codified:doc="D.C. Code" codified:path="§42-3502.24"/>
+      <codify:find-replace doc="D.C. Code" path="§42-3502.24|(b)" count="1" codified:doc="D.C. Code" codified:path="§42-3502.24">
         <find>Repealed</find>
         <replace>[Not Funded]</replace>
       </codify:find-replace>

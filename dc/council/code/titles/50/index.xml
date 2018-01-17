@@ -169,6 +169,7 @@
     <prefix>Chapter</prefix>
     <num>5A</num>
     <heading>Bicycle Consumer Protection.</heading>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
     <xi:include href="./sections/50-531.xml"/>
     <xi:include href="./sections/50-532.xml"/>
     <xi:include href="./sections/50-533.xml"/>
@@ -642,6 +643,7 @@
     <prefix>Chapter</prefix>
     <num>15C</num>
     <heading>Personal Delivery Device Pilot Program.</heading>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="VI" type="History" display="false"/>
     <xi:include href="./sections/50-1551.xml"/>
     <xi:include href="./sections/50-1552.xml"/>
     <xi:include href="./sections/50-1553.xml"/>
@@ -765,6 +767,7 @@
     <prefix>Chapter</prefix>
     <num>18A</num>
     <heading>Major Crash Review Task Force.</heading>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="VIII" type="History" display="false"/>
     <xi:include href="./sections/50-1831.xml"/>
   </container>
   <container>
@@ -811,6 +814,7 @@
     <prefix>Chapter</prefix>
     <num>19B</num>
     <heading>Open Access to Data and Information.</heading>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
     <xi:include href="./sections/50-1951.01.xml"/>
     <xi:include href="./sections/50-1951.02.xml"/>
     <xi:include href="./sections/50-1951.03.xml"/>
@@ -902,12 +906,14 @@
       <prefix>Subchapter</prefix>
       <num>II-A</num>
       <heading>Aggressive Driving.</heading>
+      <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="VI" type="History" display="false"/>
       <xi:include href="./sections/50-2204.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II-B</num>
       <heading>Motor Vehicle Collision Recovery.</heading>
+      <annotation app="2016-11-26" doc="D.C. Law 21-167" eff="2016-11-26" path="" type="History" display="false"/>
       <xi:include href="./sections/50-2204.51.xml"/>
       <xi:include href="./sections/50-2204.52.xml"/>
       <xi:include href="./sections/50-2204.53.xml"/>
@@ -991,6 +997,8 @@
         <xi:include href="./sections/50-2209.02.xml"/>
         <xi:include href="./sections/50-2209.03.xml"/>
         <xi:include href="./sections/50-2209.04.xml"/>
+        <annotation type="Applicability" app="2016-10-08" eff="2016-10-08" doc="D.C. Law 21-155" path="§801">Applicability of <cite doc="D.C. Law 21-155" path="">D.C. Law 21-155</cite>: <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite> provided that the creation of this section by <cite doc="D.C. Law 21-155" path="§801">§ 801 of D.C. Law 21-155</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
+        <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§801" type="History"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -1098,17 +1106,20 @@
       <xi:include href="./sections/50-2361.31.xml"/>
       <xi:include href="./sections/50-2361.32.xml"/>
     </container>
+    <annotation app="2016-06-22" doc="D.C. Law 21-124" eff="2016-06-22" path="" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>23C</num>
     <heading>Bicycle and Pedestrian Priority Areas.</heading>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
     <xi:include href="./sections/50-2371.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>23D</num>
     <heading>Complete Streets.</heading>
+    <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
     <xi:include href="./sections/50-2381.xml"/>
   </container>
   <subheading>Subtitle VIII. Vehicles On Public And Private Space.</subheading>

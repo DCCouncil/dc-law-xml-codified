@@ -35,7 +35,7 @@
         <text>A new paragraph (20A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(20)"/>
+            <codify:insert after="(20)" codified:doc="D.C. Code" codified:path="§42-1901.02"/>
             <num>(20A)</num>
             <text>"Mortgage Electronic Registration System" or "MERS" shall mean the process created by the mortgage banking industry that tracks mortgage ownership and servicing, is used by the real estate finance industry for residential and commercial mortgage loan trading, and that simplifies the mortgage process by using electronic commerce.</text>
           </para>
@@ -47,14 +47,14 @@
         <text>A new paragraph (21A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(21)"/>
+            <codify:insert after="(21)" codified:doc="D.C. Code" codified:path="§42-1901.02"/>
             <num>(21A)</num>
             <text>"Notice of Foreclosure Sale of Condominium Unit for Assessments Due"or "NFSCUAD" shall mean a notice sent to a condominium unit owner in default in the payment of condominium assessments, fees, charges, or other penalties owed by a unit owner that includes such information as the past due amount of assessments and other charges being foreclosed upon and the time, place, and date of the scheduled sale, sent pursuant to <code-cite doc="D.C. Code" path="§42-1903.13|(c)">section 313(c)</code-cite>.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:annotation doc="D.C. Code" path="§42-1901.02" type="Editor's Notes" history="false">
+      <codify:annotation doc="D.C. Code" path="§42-1901.02" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§42-1901.02">
         Section 3 of D.C. Law 21-241 stated that within 180 days after April 7, 2017, the Mayor, pursuant subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of Law 21-241.
       </codify:annotation>
     </para>
@@ -63,7 +63,7 @@
       <text>A new section 308a is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="|42|19|III" after="§42-1903.08" num-value="42-1903.08a" history-prefix="as added"/>
+          <codify:insert path="|42|19|III" after="§42-1903.08" num-value="42-1903.08a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§42-1903.08a"/>
           <num>308a</num>
           <heading>Condominium Association Advisory Council.</heading>
           <para>
@@ -144,7 +144,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation doc="D.C. Code" path="§42-1903.08a" type="Editor's Notes" history="false">
+      <codify:annotation doc="D.C. Code" path="§42-1903.08a" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§42-1903.08a">
         Section 3 of D.C. Law 21-241 stated that within 180 days after April 7, 2017, the Mayor, pursuant subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of Law 21-241.
       </codify:annotation>
     </para>
@@ -153,7 +153,7 @@
       <text>A new section 312a is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="|42|19|III" after="§42-1903.12" num-value="42-1903.12a" history-prefix="as added"/>
+          <codify:insert path="|42|19|III" after="§42-1903.12" num-value="42-1903.12a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§42-1903.12a"/>
           <num>312a</num>
           <heading>Notice of intention to take legal action to collect past due amounts.</heading>
           <text>The unit owners' association shall, when advising the unit owner of its intention to take legal action to collect any past due amount owed by a unit owner, provide a notice to the unit owner to include:</text>
@@ -177,7 +177,7 @@
             <aftertext>.</aftertext>
           </para>
           <annotation doc="D.C. Law 1-89" type="History" path="§312a">Mar. 29, 1977, D.C. Law 1-89, title III, § 312a</annotation>
-          <codify:annotation doc="D.C. Code" path="§42-1903.12a" type="Editor's Notes" history="false">
+          <codify:annotation doc="D.C. Code" path="§42-1903.12a" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§42-1903.12a">
         Section 3 of D.C. Law 21-241 stated that within 180 days after April 7, 2017, the Mayor, pursuant subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of Law 21-241.
       </codify:annotation>
         </section>
@@ -189,7 +189,7 @@
       <text>Section 313(c)(4) (D.C. Official Code 42-1903.13(c)(4)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§42-1903.13"/>
           <num>(4)</num>
           <para>
             <num>(A)</num>
@@ -280,7 +280,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation doc="D.C. Code" path="§42-1903.13" type="Editor's Notes" history="false">
+      <codify:annotation doc="D.C. Code" path="§42-1903.13" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§42-1903.13">
         Section 3 of D.C. Law 21-241 stated that within 180 days after April 7, 2017, the Mayor, pursuant subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of Law 21-241.
       </codify:annotation>
     </para>
@@ -289,7 +289,7 @@
       <text>Section 410 (D.C. Official Code 42-1904.10) is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§42-1904.10"/>
           <num codify:value="42-1904.10">410</num>
           <heading>Copies of documents to be furnished to purchaser by declarant; Department of Housing and Community Development website publication.</heading>
           <para>
@@ -323,7 +323,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation doc="D.C. Code" path="§42-1904.10" type="Editor's Notes" history="false">
+      <codify:annotation doc="D.C. Code" path="§42-1904.10" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§42-1904.10">
         Section 3 of D.C. Law 21-241 stated that within 180 days after April 7, 2017, the Mayor, pursuant subchapter I of Chapter 5 of Title 2, shall issue rules to implement the provisions of Law 21-241.
       </codify:annotation>
     </para>

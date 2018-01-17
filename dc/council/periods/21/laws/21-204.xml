@@ -30,7 +30,7 @@ FUNDING NOTE - This legislation is Subject to Appropriations. See Fiscal Impact 
     <para codify:doc="D.C. Code" codify:path="§2-1212.01|(2)|(B)">
       <num>(a)</num>
       <text>Section 101(2)(B) (D.C. Official Code § 2-1212.01(2)(B)) is amended by striking the numbers "18.01, 33.01, 95.05," and inserting the numbers "16, 103, 33.01, 94, 95.05," in their place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1212.01">
         <find>18.01, 33.01, 95.05,</find>
         <replace>16, 103, 33.01, 94, 95.05</replace>
       </codify:find-replace>
@@ -41,7 +41,7 @@ FUNDING NOTE - This legislation is Subject to Appropriations. See Fiscal Impact 
       <text>A new section 201a is added to read as follows:</text>
       <include>
         <section codify:doc="D.C. Code" codify:path="|2|12|VI-A|B">
-          <codify:insert after="§2-1212.21" num-value="2-1212.21a" history-prefix="as added"/>
+          <codify:insert after="§2-1212.21" num-value="2-1212.21a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§2-1212.21a"/>
           <num>201a</num>
           <heading>Limited tax incentive for existing establishment.</heading>
           <text>Notwithstanding the scope of exemptions provided by <code-cite doc="D.C. Code" path="§47-3802|(a)">D.C. Official Code § 47-3802(a)</code-cite>, a grocery store that is located in census tract 94 on <span codify:value="February 18, 2017">the effective date of the Food, Environmental, and Economic Development in the District of Columbia Amendment Act of 2016, passed on 2nd reading on November 15, 2016 (Enrolled version of Bill 21-836)</span>, shall be eligible for the tax exemption provided pursuant to <code-cite doc="D.C. Code" path="§47-3802|(a)|(1)">D.C. Official Code § 47-3802(a)(1)</code-cite> beginning with the tax year beginning October 1, 2016; provided, that the 10-year real property exemption period shall be deemed to have begun on January 1, 2015.</text>
@@ -55,7 +55,7 @@ FUNDING NOTE - This legislation is Subject to Appropriations. See Fiscal Impact 
   <section codify:doc="D.C. Code" codify:path="§47-3801|(1D)|(B)">
     <num>3</num>
     <text>Section 47-3801(1D)(B) of the District of Columbia Official Code is amended by striking the numbers "18.01, 33.01, 95.05," and inserting the numbers "16, 103, 33.01, 94, 95.05" in their place.</text>
-    <codify:find-replace count="1">
+    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-3801">
       <find>18.01, 33.01, 95.05,</find>
       <replace>16, 103, 33.01, 94, 95.05,</replace>
     </codify:find-replace>

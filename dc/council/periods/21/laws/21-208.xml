@@ -32,7 +32,7 @@
         <text>Subsection (a)(2) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="(a)|(2)"/>
+            <codify:replace path="(a)|(2)" codified:doc="D.C. Code" codified:path="§1-1001.07"/>
             <num>(2)</num>
             <para>
               <num>(A)</num>
@@ -57,7 +57,7 @@
             <text>Subparagraphs (A) and (B) are amended to read as follows:</text>
             <include>
               <para>
-                <codify:replace path="(A)"/>
+                <codify:replace path="(A)" codified:doc="D.C. Code" codified:path="§1-1001.07"/>
                 <num>(A)</num>
                 <para>
                   <num>(i)</num>
@@ -109,7 +109,7 @@
                 </para>
               </para>
               <para>
-                <codify:replace path="(B)"/>
+                <codify:replace path="(B)" codified:doc="D.C. Code" codified:path="§1-1001.07"/>
                 <num>(B)</num>
                 <text>The DMV and the Board shall jointly develop a DMV application form that shall contain the necessary information for the:</text>
                 <para>
@@ -155,14 +155,14 @@
           <para>
             <num>(ii)</num>
             <text>Subparagraph (D) is amended by striking the phrase "combined portion of the form" and inserting the word "application" in its place.</text>
-            <codify:find-replace path="(D)" count="1">
+            <codify:find-replace path="(D)" count="1" codified:doc="D.C. Code" codified:path="§1-1001.07">
               <find>combined portion of the form</find>
               <replace>application</replace>
             </codify:find-replace>
           </para>
           <para>
-            <codify:repeal path="(E)"/>
-            <codify:repeal codify:doc="D.C. Code" path="§1-1001.07|(c)|(1)|(F)"/>
+            <codify:repeal path="(E)" codified:doc="D.C. Code" codified:path="§1-1001.07"/>
+            <codify:repeal codify:doc="D.C. Code" path="§1-1001.07|(c)|(1)|(F)" codified:doc="D.C. Code" codified:path="§1-1001.07"/>
             <num>(iii)</num>
             <text>Subparagraphs (E) and (F) are repealed.</text>
           </para>
@@ -172,12 +172,12 @@
             <para>
               <num>(I)</num>
               <text>The existing text is designated as sub-subparagraph (i).</text>
-              <codify:redesignate-para num-value="(i)"/>
+              <codify:redesignate-para num-value="(i)" codified:doc="D.C. Code" codified:path="§1-1001.07"/>
             </para>
             <para codify:path="(i)">
               <num>(II)</num>
               <text>The newly designated sub-subparagraph (i) is amended by striking the phrase "An application to register to vote or for change of address, party, or name" and inserting the phrase "An application" in its place.</text>
-              <codify:find-replace count="1">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07">
                 <find>An application to register to vote or for change of address, party, or name</find>
                 <replace>An application</replace>
               </codify:find-replace>
@@ -187,7 +187,7 @@
               <text>A new sub-subparagraph (ii) is added to read as follows:</text>
               <include>
                 <para>
-                  <codify:insert/>
+                  <codify:insert codified:doc="D.C. Code" codified:path="§1-1001.07"/>
                   <num>(ii)</num>
                   <text>The Board shall consider an application that the DMV accepted for the purposes of voter registration on or before the voter registration deadline as timely received.</text>
                 </para>
@@ -198,7 +198,7 @@
           <para codify:path="(J)">
             <num>(v)</num>
             <text>Subparagraph (J) is amended by striking the phrase "may state whether the change of address or name is" and inserting the phrase "may decline to correct or update the individual's address or name" in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07">
               <find>may state whether the change of address or name is</find>
               <replace>may decline to correct or update the individual's address or name</replace>
             </codify:find-replace>
@@ -209,7 +209,7 @@
           <text>A new paragraph (3) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(2)"/>
+              <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§1-1001.07"/>
               <num>(3)</num>
               <para>
                 <num>(A)</num>
@@ -242,7 +242,7 @@
         <para>
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the phrase "from any applicant" and inserting the phrase "from any applicant, the DMV, pursuant to subsection (c)(1) of this section, or a voter registration agency, pursuant to subsection (d) of this section" in its place.</text>
-          <codify:find-replace path="(1)" count="1">
+          <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§1-1001.07">
             <find>from any applicant</find>
             <replace>from any applicant, the DMV, pursuant to subsection (c)(1) of this section, or a voter registration agency, pursuant to subsection (d) of this section</replace>
           </codify:find-replace>
@@ -253,14 +253,14 @@
           <para>
             <num>(i)</num>
             <text>The existing text is designated as subparagraph (A).</text>
-            <codify:redesignate-para num-value="(A)"/>
+            <codify:redesignate-para num-value="(A)" codified:doc="D.C. Code" codified:path="§1-1001.07"/>
           </para>
           <para>
             <num>(ii)</num>
             <text>A new subparagraph (B) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert/>
+                <codify:insert codified:doc="D.C. Code" codified:path="§1-1001.07"/>
                 <num>(B)</num>
                 <text>For applications received from the DMV, pursuant to subsection (c)(1) of this section, the notification, in addition to the information required under subparagraph (A) of this paragraph, shall include information regarding the process to decline voter registration and to change or adopt a political party affiliation, if one was not designated on the application.</text>
               </para>
@@ -278,7 +278,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "At any time except during the 30-day" and insert the phrase "Except as provided in paragraph (4) of this subsection, at any time except during the 21-day" in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07">
               <find>At any time except during the 30-day</find>
               <replace>Except as provided in paragraph (4) of this subsection, at any time except during the 21-day</replace>
             </codify:find-replace>
@@ -286,7 +286,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the phrase "30th day" and insert the phrase "21st day" in its place.</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07">
               <find>30th day</find>
               <replace>21st day</replace>
             </codify:find-replace>
@@ -297,7 +297,7 @@
           <text>Paragraph (2) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§1-1001.07"/>
               <num>(2)</num>
               <text>The Board shall process voter registration applications and voter registration update notifications that are received, whether received postmarked, non-postmarked, or digitally, by the Board by the 21st day preceding any election.</text>
             </para>
@@ -307,7 +307,7 @@
         <para codify:path="(3)">
           <num>(C)</num>
           <text>Paragraph (3) is amended by striking the phrase "30th" and inserting the phrase "21st" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07">
             <find>30th</find>
             <replace>21st</replace>
           </codify:find-replace>
@@ -315,7 +315,7 @@
         <para codify:path="(4)">
           <num>(D)</num>
           <text>Paragraph (4) is amended by striking the phrase "30th" both times it appears and inserting the phrase "21st" in its place.</text>
-          <codify:find-replace count="2">
+          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§1-1001.07">
             <find>30th</find>
             <replace>21st</replace>
           </codify:find-replace>
@@ -327,7 +327,7 @@
         <para codify:path="(A)">
           <num>(A)</num>
           <text>Subparagraph (A) is amended by striking the phrase "at the polling place serving the former residence address, subject to the requirements of section 302 of the Help America Vote Act, approved October 29, 2002 (116 Stat. 1706; 42 U.S.C. § 15483)" and inserting the phrase "at the polling place serving the current residence address" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07">
             <find>at the polling place serving the former residence address, subject to the requirements of section 302 of the Help America Vote Act, approved October 29, 2002 (116 Stat. 1706; 42 U.S.C. § 15483)</find>
             <replace>at the polling place serving the current residence address</replace>
           </codify:find-replace>
@@ -335,7 +335,7 @@
         <para codify:path="(C)">
           <num>(B)</num>
           <text>Subparagraph (C) is amended by striking the phrase "only within the polling place assigned by the Board before election day" and inserting the phrase "at the polling place serving the current residence address or the accessible polling place assigned by the Board pursuant to section 9(b)(3)" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07">
             <find>only within the polling place assigned by the Board before election day</find>
             <replace>at the polling place serving the current residence address or the accessible polling place assigned by the Board pursuant to <code-cite doc="D.C. Code" path="§1-1001.09|(b)|(3)">section 9(b)(3)</code-cite></replace>
           </codify:find-replace>
@@ -346,7 +346,7 @@
         <text>A new subsection (m) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(l)"/>
+            <codify:insert after="(l)" codified:doc="D.C. Code" codified:path="§1-1001.07"/>
             <num>(m)</num>
             <para>
               <num>(1)</num>
@@ -365,7 +365,7 @@
     <para>
       <num>(b)</num>
       <text>Section 9(b)(3) (D.C. Official Code § 1-1001.09(b)(3)) is amended by striking the phrase "Except pursuant to section 7(i)(4), no" and inserting the phrase "No" in its place.</text>
-      <codify:find-replace doc="D.C. Code" path="§1-1001.09|(b)|(3)" count="1">
+      <codify:find-replace doc="D.C. Code" path="§1-1001.09|(b)|(3)" count="1" codified:doc="D.C. Code" codified:path="§1-1001.09">
         <find>Except pursuant to § <cite path="§1-1001.07">1-1001.07</cite>(i)(4), no</find>
         <replace>No</replace>
       </codify:find-replace>
@@ -374,7 +374,7 @@
   <section>
     <num>3</num>
     <text>Section 106(b) of the District of Columbia Uniform Military and Overseas Voters Act of 2012, effective June 5, 2012 (D.C. Law 19-137; D.C. Official Code § 1-1061.06(b)), is amended by striking the number "30" and inserting the number "21" in its place.</text>
-    <codify:find-replace doc="D.C. Code" path="§1-1061.06|(b)" count="1">
+    <codify:find-replace doc="D.C. Code" path="§1-1061.06|(b)" count="1" codified:doc="D.C. Code" codified:path="§1-1061.06">
       <find>30</find>
       <replace>21</replace>
     </codify:find-replace>
@@ -385,7 +385,7 @@
     <text>The District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; codified in scattered cites of the D.C. Official Code), is amended by adding a new section 7c to read as follows:</text>
     <include>
       <section>
-        <codify:insert doc="D.C. Code" path="|50|14|I" after="§50-1401.01b" num-value="50-1401.01c"/>
+        <codify:insert doc="D.C. Code" path="|50|14|I" after="§50-1401.01b" num-value="50-1401.01c" codified:doc="D.C. Code" codified:path="§50-1401.01c"/>
         <num>7c</num>
         <heading>Electronic transmission of voter registration information.</heading>
         <para>

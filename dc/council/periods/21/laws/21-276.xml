@@ -33,7 +33,7 @@
       <para codify:path="text">
         <num>(1)</num>
         <text>The lead-in language is amended by striking the phrase "financial statement".</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.41">
           <find>financial statement</find>
           <replace/>
         </codify:find-replace>
@@ -41,7 +41,7 @@
       <para codify:path="(C)">
         <num>(2)</num>
         <text>Subparagraph (C) is amended by striking the phrase ": and" and inserting a semicolon in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.41">
           <find>: and</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -49,7 +49,7 @@
       <para codify:path="(D)">
         <num>(3)</num>
         <text>Subparagraph (D) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.41">
           <find>d.</find>
           <replace>d; and</replace>
         </codify:find-replace>
@@ -59,7 +59,7 @@
         <text>A new subparagraph (E) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(D)"/>
+            <codify:insert after="(D)" codified:doc="D.C. Code" codified:path="§47-2853.41"/>
             <num>(E)</num>
             <text>An examination, review, or agreed-upon procedures engagement to be performed in accordance with the Statements on Standards for Attestation Engagements, other than an examination described in subparagraph (C) of this paragraph.</text>
           </para>
@@ -73,7 +73,7 @@
       <para codify:path="text">
         <num>(1)</num>
         <text>The lead-in language is amended by striking the phrase "that he or she:" and inserting the phrase "that the applicant:" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.42">
           <find>that he or she:</find>
           <replace>that the applicant:</replace>
         </codify:find-replace>
@@ -81,12 +81,12 @@
       <para codify:path="(2)">
         <num>(2)</num>
         <text>Paragraph (2) is repealed.</text>
-        <codify:repeal/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§47-2853.42"/>
       </para>
       <para codify:path="(4)|(C)">
         <num>(3)</num>
         <text>Paragraph (4)(C) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.42">
           <find>n.</find>
           <replace>n; and</replace>
         </codify:find-replace>
@@ -96,7 +96,7 @@
         <text>A new paragraph (5) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(4)"/>
+            <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§47-2853.42"/>
             <num>(5)</num>
             <text>Meets any other requirements established by rule to ensure that the applicant has the proper training, experience, and qualifications to practice as a certified public accountant.</text>
           </para>
@@ -113,7 +113,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "and holds a valid permit to practice as a certified public accountant in the District".</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.43">
             <find>and holds a valid permit to practice as a certified public accountant in the District</find>
             <replace/>
           </codify:find-replace>
@@ -121,7 +121,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "and holds a valid permit under § 47-2853.47".</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.43">
             <find>and holds a valid permit under § <cite path="§47-2853.47">47-2853.47</cite></find>
             <replace/>
           </codify:find-replace>
@@ -129,7 +129,7 @@
         <para>
           <num>(C)</num>
           <text>Strike the phrase "under § 47-2853.44(a)(2) or (3)" and insert the phrase "under § 47-2853.44(a)(4)" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.43">
             <find>under § <cite path="§47-2853.44">47-2853.44</cite>(a)(2) or (3)</find>
             <replace>under § 47-2853.44(a)(4)</replace>
           </codify:find-replace>
@@ -141,7 +141,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "and holds a valid permit issued in accordance with § 47-2853.47".</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.43">
             <find>and holds a valid permit issued in accordance with § <cite path="§47-2853.47">47-2853.47</cite></find>
             <replace/>
           </codify:find-replace>
@@ -149,7 +149,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "under § 47-2853.44(a)(2) or (3)" and insert the phrase "under § 47-2853.44(a)(4)" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.43">
             <find>under § <cite path="§47-2853.44">47-2853.44</cite>(a)(2) or (3)</find>
             <replace>under § 47-2853.44(a)(4)</replace>
           </codify:find-replace>
@@ -158,7 +158,7 @@
       <para codify:path="(c)">
         <num>(3)</num>
         <text>Subsection (c) is amended by striking the phrase "anyone who holds a valid permit issued under the special rules in § 47-2853.47, or".</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.43">
           <find>anyone who holds a valid permit issued under the special rules in § <cite path="§47-2853.47">47-2853.47</cite>, or</find>
           <replace/>
         </codify:find-replace>
@@ -166,7 +166,7 @@
       <para codify:path="(d)|(1)">
         <num>(4)</num>
         <text>Subsection (d)(1) is amended by striking the word "permit" and inserting the phrase "license or registration" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.43">
           <find>permit</find>
           <replace>license or registration</replace>
         </codify:find-replace>
@@ -177,7 +177,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the word "permit" and insert the word "registration" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.43">
             <find>permit</find>
             <replace>registration</replace>
           </codify:find-replace>
@@ -185,7 +185,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "and its offices in the District for the practice of public accounting are maintained and registered as required under § 47-2853.44, or a" and insert the phrase ", or is a" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.43">
             <find>and its offices in the District for the practice of public accounting are maintained and registered as required under § <cite path="§47-2853.44">47-2853.44</cite>, or a</find>
             <replace>, or is a</replace>
           </codify:find-replace>
@@ -193,7 +193,7 @@
         <para>
           <num>(C)</num>
           <text>Strike the phrase "under § 47-2853.44(a)(2) or (3)" and insert the phrase "under § 47-2853.44(a)(4)" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.43">
             <find>under § <cite path="§47-2853.44">47-2853.44</cite>(a)(2) or (3)</find>
             <replace>under § 47-2853.44(a)(4)</replace>
           </codify:find-replace>
@@ -202,7 +202,7 @@
       <para codify:path="(f)">
         <num>(6)</num>
         <text>Subsection (f) is amended by striking the phrase "under § 47-2853.44(a)(2) or (3)" and inserting the phrase "under § 47-2853.44(a)(4)" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.43">
           <find>under § <cite path="§47-2853.44">47-2853.44</cite>(a)(2) or (3)</find>
           <replace>under § 47-2853.44(a)(4)</replace>
         </codify:find-replace>
@@ -213,7 +213,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the word "permit" and insert the word "registration" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.43">
             <find>permit</find>
             <replace>registration</replace>
           </codify:find-replace>
@@ -221,7 +221,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "requirements of § 47-2853.44(a)(2) or (3), whichever is applicable" and insert the phrase "requirements of § 47-2853.44(a)(4)" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.43">
             <find>requirements of § <cite path="§47-2853.44">47-2853.44</cite>(a)(2) or (3), whichever is applicable</find>
             <replace>requirements of § 47-2853.44(a)(4)</replace>
           </codify:find-replace>
@@ -237,7 +237,7 @@
         <para codify:path="(3)">
           <num>(A)</num>
           <text>Paragraph (3) is repealed.</text>
-          <codify:repeal/>
+          <codify:repeal codified:doc="D.C. Code" codified:path="§47-2853.44"/>
         </para>
         <para codify:path="(4)|text">
           <num>(B)</num>
@@ -246,7 +246,7 @@
             <para>
               <num>(4)</num>
               <text>A firm that is not subject to the requirements of paragraph (2) of this subsection may perform other professional services in the practice of certified public accounting in the District and may use the title "CPA" or "CPA firm" without registering under this section, if the firm:</text>
-              <codify:find-replace count="1">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.44">
                 <find>A firm that is not subject to the requirements of paragraphs (2) and (3) of this subsection may perform other professional services in the practice of certified public accounting in the District and may use the title “CPA” or “CPA firm” without registering under this section or obtaining a permit under § <cite path="§47-2853.47">47-2853.47</cite>, if the firm:</find>
                 <replace>A firm that is not subject to the requirements of paragraph (2) of this subsection may perform other professional services in the practice of certified public accounting in the District and may use the title "CPA" or "CPA firm" without registering under this section, if the firm:</replace>
               </codify:find-replace>
@@ -261,7 +261,7 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the phrase "subsection (a)(2)(A)" and inserting the phrase "subsection (a)(2)(C)" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.44">
             <find>subsection (a)(2)(A)</find>
             <replace>subsection (a)(2)(C)</replace>
           </codify:find-replace>
@@ -269,7 +269,7 @@
         <para codify:path="(5)|(A)">
           <num>(B)</num>
           <text>Paragraph (5)(A) is amended by striking the phrase "subsection (a)(2)(A)" and inserting the phrase "subsection (a)(2)(C)" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.44">
             <find>subsection (a)(2)(A)</find>
             <replace>subsection (a)(2)(C)</replace>
           </codify:find-replace>
@@ -281,7 +281,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "and holds a permit issued by the Board,".</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.44">
             <find>and holds a permit issued by the Board,</find>
             <replace/>
           </codify:find-replace>
@@ -289,7 +289,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "and permit under subsection (a)(2) and (3)" and insert the phrase "under subsection (a)(4)" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.44">
             <find>and permit under subsection (a)(2) and (3)</find>
             <replace>under subsection (a)(4)</replace>
           </codify:find-replace>
@@ -302,7 +302,7 @@
       <para codify:path="(e)">
         <num>(4)</num>
         <text>Subsection (e) is amended by striking the word "permit" and inserting the word "registration" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.44">
           <find>permit</find>
           <replace>registration</replace>
         </codify:find-replace>
@@ -312,7 +312,7 @@
         <text>Subsection (f) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§47-2853.44"/>
             <num>(f)</num>
             <para>
               <num>(1)</num>
@@ -345,7 +345,7 @@
       <para codify:path="(g)">
         <num>(6)</num>
         <text>Subsection (g) is amended by striking the word "permit" and inserting the word "registration" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.44">
           <find>permit</find>
           <replace>registration</replace>
         </codify:find-replace>
@@ -354,7 +354,7 @@
     <para codify:path="§47-2853.47">
       <num>(f)</num>
       <text>Section 47-2853.47 is repealed.</text>
-      <codify:repeal/>
+      <codify:repeal codified:doc="D.C. Code" codified:path="§47-2853.47"/>
     </para>
     <para codify:path="§47-2853.48">
       <num>(g)</num>
@@ -362,7 +362,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "shall revoke the registration and permit" and inserting the phrase "shall suspend or revoke the registration" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.48">
           <find>shall revoke the registration and permit</find>
           <replace>shall suspend or revoke the registration</replace>
         </codify:find-replace>
@@ -372,7 +372,7 @@
         <text>Subsection (b) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§47-2853.48"/>
             <num>(b)</num>
             <text>After a notice and hearing as provided in this subchapter, and upon a determination by the Board that an applicant or firm has committed any of the acts described in § 47-2853.17(a), or violated any rule promulgated pursuant to this subchapter, the Board may take an of the following disciplinary actions:</text>
             <para>
@@ -412,7 +412,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "and permit holders".</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.49">
               <find>and permit holders</find>
               <replace/>
             </codify:find-replace>
@@ -420,7 +420,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the phrase "or a permit under § 47-2853.47,".</text>
-            <codify:find-replace count="1">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.49">
               <find>or a permit under § <cite path="§47-2853.47">47-2853.47</cite>,</find>
               <replace/>
             </codify:find-replace>
@@ -429,7 +429,7 @@
         <para codify:path="(1)">
           <num>(B)</num>
           <text>Paragraph (1) is amended by striking the phrase "valid license" and inserting the phrase "valid, unrestricted license" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.49">
             <find>valid license</find>
             <replace>valid, unrestricted license</replace>
           </codify:find-replace>
@@ -440,7 +440,7 @@
         <text>Subsection (e) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§47-2853.49"/>
             <num>(e)</num>
             <text>An individual who has been granted practice privileges under this section, who performs any of the services listed in § 47-2853.41(1) and who performs the services for an entity with its home office in the District may only perform the services through a firm that has obtained a registration under § 47-2853.44.</text>
           </para>
@@ -453,7 +453,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "firm permit" and insert the phrase "firm registration" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.49">
             <find>firm permit</find>
             <replace>firm registration</replace>
           </codify:find-replace>
@@ -461,7 +461,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "or a permit under § 47-2953.47".</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2853.49">
             <find> or a permit under § <cite path="§47-2953.47">47-2953.47</cite> [§ <cite path="§47-2853.47">47-2853.47</cite>]</find>
             <replace/>
           </codify:find-replace>
@@ -470,7 +470,7 @@
       <para codify:path="(g)">
         <num>(4)</num>
         <text>Subsection (g) is amended by striking the phrase "permit holder" both times it appears and inserting the word "licensee" in its place.</text>
-        <codify:find-replace count="2">
+        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§47-2853.49">
           <find>permit holder</find>
           <replace>licensee</replace>
         </codify:find-replace>

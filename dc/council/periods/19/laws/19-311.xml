@@ -21,7 +21,7 @@
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Fire and Emergency Medical Services Employee Presumptive Disability Amendment Act of 2012".</text>
   <codify:insert doc="D.C. Law 15-194" path="VI" history="false">
-    <codify:insert doc="D.C. Code" path="5|6A" after="I" history="false">
+    <codify:insert doc="D.C. Code" path="5|6A" after="I" history="false" codified:doc="D.C. Code" codified:path="5|6A|II">
       <container>
         <prefix>Subchapter</prefix>
         <num>II</num>
@@ -29,7 +29,7 @@
       </container>
     </codify:insert>
   </codify:insert>
-  <codify:insert doc="D.C. Law 15-194" path="VI" history="false">
+  <codify:insert doc="D.C. Law 15-194" path="VI" history="false" codified:doc="D.C. Code" codified:path="§5-651">
     <container>
       <codified:at doc="D.C. Code" path="5|6A|II"/>
       <prefix>SUBTITLE</prefix>
@@ -46,8 +46,8 @@
         <num>D</num>
         <heading>FIRE AND EMERGENCY MEDICAL SERVICES EMPLOYEE PRESUMPTIVE DISABILITY</heading>
         <section>
-          <codify:insert history-prefix="as added"/>
-          <codify:insert num-value="5-651"/>
+          <codify:insert history-prefix="as added" codified:doc="D.C. Code" codified:path="§5-651"/>
+          <codify:insert num-value="5-651" codified:doc="D.C. Code" codified:path="§5-651"/>
           <num>651</num>
           <heading>Definitions.</heading>
           <text>For the purposes of <code-cite doc="D.C. Law 15-194" path="VI|D">this subtitle</code-cite>, the term:</text>
@@ -98,8 +98,8 @@
           <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
         </section>
         <section>
-          <codify:insert history-prefix="as added"/>
-          <codify:insert num-value="5-652"/>
+          <codify:insert history-prefix="as added" codified:doc="D.C. Code" codified:path="§5-652"/>
+          <codify:insert num-value="5-652" codified:doc="D.C. Code" codified:path="§5-652"/>
           <num>652</num>
           <heading>Presumption as to disability or death from heart disease, hypertension, or respiratory disease.</heading>
           <para>
@@ -146,8 +146,8 @@
           <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
         </section>
         <section>
-          <codify:insert history-prefix="as added"/>
-          <codify:insert num-value="5-653"/>
+          <codify:insert history-prefix="as added" codified:doc="D.C. Code" codified:path="§5-653"/>
+          <codify:insert num-value="5-653" codified:doc="D.C. Code" codified:path="§5-653"/>
           <num>653</num>
           <heading>Presumption as to disability or death from cancer.</heading>
           <para>
@@ -202,8 +202,8 @@
           <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
         </section>
         <section>
-          <codify:insert history-prefix="as added"/>
-          <codify:insert num-value="5-654"/>
+          <codify:insert history-prefix="as added" codified:doc="D.C. Code" codified:path="§5-654"/>
+          <codify:insert num-value="5-654" codified:doc="D.C. Code" codified:path="§5-654"/>
           <num>654</num>
           <heading>Presumption as to disability or death from infectious disease.</heading>
           <para>
@@ -258,8 +258,8 @@
           <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
         </section>
         <section>
-          <codify:insert history-prefix="as added"/>
-          <codify:insert num-value="5-655"/>
+          <codify:insert history-prefix="as added" codified:doc="D.C. Code" codified:path="§5-655"/>
+          <codify:insert num-value="5-655" codified:doc="D.C. Code" codified:path="§5-655"/>
           <num>655</num>
           <heading>Disqualification from presumption as to disability or death.</heading>
           <text>A member or an EMS employee shall be disqualified from a presumption under <code-cite doc="D.C. Law 15-194" path="VI|D">this subtitle</code-cite> if:</text>
@@ -279,7 +279,7 @@
           <annotation type="Effect of Amendments">The 2013 amendment by <cite doc="D.C. Law 19-311">D.C. Law 19-311</cite> added this section.</annotation>
         </section>
         <section codify:applicability="notfunded">
-          <codify:insert history-prefix="as added"/>
+          <codify:insert history-prefix="as added" codified:doc="D.C. Code" codified:path="§5-652"/>
           <codify:insert num-value="5-656"/>
           <num>656</num>
           <heading>Applicability.</heading>

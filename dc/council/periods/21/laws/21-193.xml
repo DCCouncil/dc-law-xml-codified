@@ -23,7 +23,7 @@
   <section>
     <num>2</num>
     <text>Section 2(3) of the International Registration Plan Agreement Act of 1997, effective September 5, 1997 (D.C. Law 12-14; D.C. Official Code § 50-1507.01(3)), is amended by striking the phrase "vehicles displaying restricted plates, buses used in transportation of chartered parties and government-owned vehicles" and inserting the phrase "vehicles displaying restricted plates, and government-owned vehicles" in its place.</text>
-    <codify:find-replace doc="D.C. Code" path="§50-1507.01|(3)" count="1">
+    <codify:find-replace doc="D.C. Code" path="§50-1507.01|(3)" count="1" codified:doc="D.C. Code" codified:path="§50-1507.01">
       <find>vehicles displaying restricted plates, buses used in transportation of chartered parties and government-owned vehicles</find>
       <replace>vehicles displaying restricted plates, and government-owned vehicles</replace>
     </codify:find-replace>

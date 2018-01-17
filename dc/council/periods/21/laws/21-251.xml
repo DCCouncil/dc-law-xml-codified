@@ -20,7 +20,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Uniform Electronic Legal Material Act of 2016".</text>
-  <codify:insert doc="D.C. Code" path="|2|6" after="IV" history="false">
+  <codify:insert doc="D.C. Code" path="|2|6" after="IV" history="false" codified:doc="D.C. Code" codified:path="2|6|V">
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
@@ -28,7 +28,7 @@
     </container>
   </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.01"/>
+    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.01" codified:doc="D.C. Code" codified:path="§2-651.01"/>
     <num>2</num>
     <heading codify:value="Definitions."/>
     <text>For the purposes of <code-cite doc="D.C. Code" path="|2|6|V">this act</code-cite>, the term:
@@ -99,13 +99,13 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.02"/>
+    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.02" codified:doc="D.C. Code" codified:path="§2-651.02"/>
     <num>3</num>
     <heading>Applicability.</heading>
     <text><code-cite doc="D.C. Code" path="|2|6|V">This act</code-cite> applies to all legal material in an electronic record that is designated as official under <code-cite doc="D.C. Code" path="§2-651.03">section 4</code-cite> and first published electronically on or after July 1, 2017.</text>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.03"/>
+    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.03" codified:doc="D.C. Code" codified:path="§2-651.03"/>
     <num>4</num>
     <heading>Legal material in official electronic record.</heading>
     <para>
@@ -126,13 +126,13 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.04"/>
+    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.04" codified:doc="D.C. Code" codified:path="§2-651.04"/>
     <num>5</num>
     <heading>Authentication of official electronic record.</heading>
     <text>An official publisher of legal material in an electronic record that is designated as official under <code-cite doc="D.C. Code" path="§2-651.03">section 4</code-cite> shall authenticate the record.  To authenticate an electronic record, the official publisher shall provide a method for a user to determine that the record received by the user from the official publisher is unaltered from the official record published by the official publisher.</text>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.05"/>
+    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.05" codified:doc="D.C. Code" codified:path="§2-651.05"/>
     <num>6</num>
     <heading>Effect of authentication.</heading>
     <para>
@@ -149,7 +149,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.06"/>
+    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.06" codified:doc="D.C. Code" codified:path="§2-651.06"/>
     <num>7</num>
     <heading>Preservation and security of legal material in official electronic record.</heading>
     <para>
@@ -174,13 +174,13 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.07"/>
+    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.07" codified:doc="D.C. Code" codified:path="§2-651.07"/>
     <num>8</num>
     <heading>Public access to legal material in official electronic record.</heading>
     <text>An official publisher of legal material in an electronic record that is required to be preserved under <code-cite doc="D.C. Code" path="§2-651.06">section 7</code-cite> shall ensure that the material is reasonably available for use by the public on a permanent basis.</text>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.08"/>
+    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.08" codified:doc="D.C. Code" codified:path="§2-651.08"/>
     <num>9</num>
     <heading>Standards.</heading>
     <text>In implementing <code-cite doc="D.C. Code" path="|2|6|V">this act</code-cite>, an official publisher of legal material in an electronic record shall consider:</text>
@@ -206,7 +206,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.09"/>
+    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.09" codified:doc="D.C. Code" codified:path="§2-651.09"/>
     <num>10</num>
     <heading>Rules.</heading>
     <para>
@@ -219,13 +219,13 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.10"/>
+    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.10" codified:doc="D.C. Code" codified:path="§2-651.10"/>
     <num>11</num>
     <heading>Uniformity of application and construction.</heading>
     <text>In applying and construing this uniform act, consideration shall be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.</text>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.11"/>
+    <codify:insert doc="D.C. Code" path="|2|6|V" num-value="2-651.11" codified:doc="D.C. Code" codified:path="§2-651.11"/>
     <num>12</num>
     <heading>Relation to Electronic Signatures in Global and National Commerce Act.</heading>
     <text><code-cite doc="D.C. Code" path="|2|6|V">This act</code-cite> modifies, limits, or supersedes the Electronic Signatures in Global and National Commerce Act, approved June 30, 2000 (144 Stat. 464; 15 U.S.C. § 7001 <em>et seq</em>.), but does not modify, limit, or supersede section 101(c) of that act (15 U.S.C. § 7001(c)), or authorize electronic delivery of any of the notices described in section 103(b) of that act (15 U.S.C. § 7003(b)).</text>

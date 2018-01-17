@@ -25,7 +25,7 @@
     <text>Section 202(c) of the Skyland Town Center Omnibus Act of 2014, effective June 21, 2014 (D.C. Law 20-110; D.C. Official Code § 2-1217.35c(c)), is amended to read as follows:</text>
     <include>
       <para>
-        <codify:replace doc="D.C. Code" path="§2-1217.35c|(c)"/>
+        <codify:replace doc="D.C. Code" path="§2-1217.35c|(c)" codified:doc="D.C. Code" codified:path="§2-1217.35c"/>
         <num>(c)</num>
         <para>
           <num>(1)</num>

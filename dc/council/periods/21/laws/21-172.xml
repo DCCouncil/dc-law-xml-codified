@@ -22,7 +22,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Rental Housing Late Fee Fairness Amendment Act of 2016".</text>
-  <codify:insert doc="D.C. Code" path="|42|35" after="V" history="false">
+  <codify:insert doc="D.C. Code" path="|42|35" after="V" history="false" codified:doc="D.C. Code" codified:path="42|35|V-A">
     <container>
       <prefix>Subchapter</prefix>
       <num>V-A</num>
@@ -59,7 +59,7 @@
           <num>V-A</num>
           <heading>PAYMENT OF RENT BEYOND 5 DAYS AFTER DUE DATE</heading>
           <section>
-            <codify:insert doc="D.C. Code" path="|42|35|V-A" num-value="42-3505.31" history-prefix="as added"/>
+            <codify:insert doc="D.C. Code" path="|42|35|V-A" num-value="42-3505.31" history-prefix="as added" codified:doc="D.C. Code" codified:path="§42-3505.31"/>
             <num>531</num>
             <heading>Authorized fees for the payment of rent beyond 5 days after the rent payment is due.</heading>
             <para>
@@ -117,7 +117,7 @@
     <para>
       <num>(c)</num>
       <text>Section 501(a) (D.C. Official Code § 42-3505.01(a)) is amended by striking the phrase "the rental unit" and inserting the phrase "the rental unit; provided, that the nonpayment of a late fee shall not be the basis for an eviction" in its place.</text>
-      <codify:find-replace doc="D.C. Code" path="§42-3505.01|(a)" count="1">
+      <codify:find-replace doc="D.C. Code" path="§42-3505.01|(a)" count="1" codified:doc="D.C. Code" codified:path="§42-3505.01">
         <find>the rental unit</find>
         <replace>the rental unit; provided, that the nonpayment of a late fee shall not be the basis for an eviction</replace>
       </codify:find-replace>
@@ -127,7 +127,7 @@
       <text>Section 901 (D.C. Official Code § 42-3509.01) is amended by adding a new subsection (a-1) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§42-3509.01" after="(a)"/>
+          <codify:insert doc="D.C. Code" path="§42-3509.01" after="(a)" codified:doc="D.C. Code" codified:path="§42-3509.01"/>
           <num>(a-1)</num>
           <text>Any housing provider who knowingly or willfully violates <code-cite doc="D.C. Code" path="§42-3505.31">section 531</code-cite>, or <code-cite doc="D.C. Code" path="§42-3505.01|(a)">section 501(a)</code-cite>, regarding a prohibited eviction for the nonpayment of a late fee, shall be liable to the tenant for the amount by which the late fee exceeds the allowable late fee, or for treble that amount in the event of bad faith, and shall be subject to a civil fine of at least $100 and not more than $ 5,000 for each violation.
           </text>

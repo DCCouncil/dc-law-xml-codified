@@ -38,12 +38,12 @@
           <text>New paragraphs (5A), (5B), (5C), and (5D) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(5)"/>
+              <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
               <num>(5A)</num>
               <text>"FRA" means the Federal Railroad Administration.</text>
             </para>
             <para>
-              <codify:insert after="(5A)"/>
+              <codify:insert after="(5A)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
               <num>(5B)</num>
               <text>"Federal railroad safety laws" means federal laws, or regulations or orders issued under the authority of such laws, addressing the safety of railroad equipment and operations, including:</text>
               <para>
@@ -76,12 +76,12 @@
               </para>
             </para>
             <para>
-              <codify:insert after="(5B)"/>
+              <codify:insert after="(5B)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
               <num>(5C)</num>
               <text>"FTA" means the Federal Transit Administration.</text>
             </para>
             <para>
-              <codify:insert after="(5C)"/>
+              <codify:insert after="(5C)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
               <num>(5D)</num>
               <text>"Hazardous materials" shall have the same meaning as provided in 49 C.F.R. § 171.8.</text>
             </para>
@@ -93,7 +93,7 @@
           <text>A new paragraph (10A) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(10)"/>
+              <codify:insert after="(10)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
               <num>(10A)</num>
               <text>"Person" means an individual, corporation, company, association, firm, partnership, society, joint stock company, or any other commercial entity.</text>
             </para>
@@ -105,7 +105,7 @@
           <text>New paragraphs (11A), (11B), and (11C) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(11)"/>
+              <codify:insert after="(11)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
               <num>(11A)</num>
               <para>
                 <num>(A)</num>
@@ -117,7 +117,7 @@
               </para>
             </para>
             <para>
-              <codify:insert after="(11A)"/>
+              <codify:insert after="(11A)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
               <num>(11B)</num>
               <para>
                 <num>(A)</num>
@@ -137,7 +137,7 @@
               </para>
             </para>
             <para>
-              <codify:insert after="(11B)"/>
+              <codify:insert after="(11B)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
               <num>(11C)</num>
               <text>"Railroad carrier" means a person providing transportation by railroad or a group of commonly controlled railroad carriers that the Secretary of Transportation has ordered to be treated as a single railroad carrier as provided for in 49 U.S.C. § 20102(3).</text>
             </para>
@@ -149,14 +149,14 @@
           <text>A new paragraph (13A) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(13)"/>
+              <codify:insert after="(13)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
               <num>(13A)</num>
               <text>"State safety oversight agency" means the District entity designated by the Secretary of Transportation to implement the requirements of 49 U.S.C. § 5329 and 49 C.F.R. § 674.</text>
             </para>
           </include>
           <aftertext>.</aftertext>
         </para>
-        <codify:annotation doc="D.C. Code" path="§8-151.01" type="Construction of Law" history="false" applicability="effective">
+        <codify:annotation doc="D.C. Code" path="§8-151.01" type="Construction of Law" history="false" applicability="effective" codified:doc="D.C. Code" codified:path="§8-151.01">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
         </codify:annotation>
         <codify:not-funded-anno applicability-path="§501"/>
@@ -167,7 +167,7 @@
         <para codify:path="(5)">
           <num>(1)</num>
           <text>Paragraph (5) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.06">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -175,7 +175,7 @@
         <para codify:path="(6)">
           <num>(2)</num>
           <text>Paragraph (6) is amended by striking the phrase "materials." and inserting the phrase "materials; and" in its place.</text>
-          <codify:find-replace count="1">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.06">
             <find>materials.</find>
             <replace>materials; and</replace>
           </codify:find-replace>
@@ -185,7 +185,7 @@
           <text>A new paragraph (7) to read as follows:</text>
           <include>
             <para>
-              <codify:insert/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§8-151.06"/>
               <num>(7)</num>
               <text>An Emergency Response and Rail Safety Division to do the following:</text>
               <para>
@@ -215,7 +215,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <codify:annotation doc="D.C. Code" path="§8-151.06" type="Construction of Law" history="false">
+        <codify:annotation doc="D.C. Code" path="§8-151.06" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-151.06">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
         </codify:annotation>
         <codify:not-funded-anno applicability-path="§501"/>
@@ -225,7 +225,7 @@
         <text>New sections 108a through 108g are added to read as follows:</text>
         <include>
           <section>
-            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08" num-value="8-151.08a" history-prefix="as added"/>
+            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08" num-value="8-151.08a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§8-151.08a"/>
             <num>108a</num>
             <heading>State safety oversight agency designation for DC Streetcar.</heading>
             <text>DDOE is designated as the state safety oversight agency, as described in 49 U.S.C. § 5329(e) and regulations issued thereunder, for the DC Streetcar when:</text>
@@ -244,7 +244,7 @@
                 <num>(B)</num>
                 <text>Identifying the date on which the Department shall assume the responsibility of serving as the state safety oversight agency.</text>
               </para>
-              <codify:annotation doc="D.C. Code" path="§8-151.08a" type="Construction of Law" history="false">
+              <codify:annotation doc="D.C. Code" path="§8-151.08a" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-151.08a">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
             </codify:annotation>
               <codify:not-funded-anno doc="D.C. Code" path="§8-151.08a" applicability-path="§501" action="creation of"/>
@@ -252,7 +252,7 @@
             <annotation doc="D.C. Law 16-51" type="History" path="§108a">Feb. 15, 2006, D.C. Law 16-51, § 108a</annotation>
           </section>
           <section>
-            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08a" num-value="8-151.08b" history-prefix="as added"/>
+            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08a" num-value="8-151.08b" history-prefix="as added" codified:doc="D.C. Code" codified:path="§8-151.08b"/>
             <num>108b</num>
             <heading>Duties, powers, and requirements related to DC Streetcar safety oversight.</heading>
             <para>
@@ -319,13 +319,13 @@
               <text>The Director may execute and file one or more applications, including any required certifications, assurances, or other documents, on behalf of the District with the FTA for federal grants or financial assistance authorized by 49 U.S.C. § 5329(e), Title 23 of the United States Code, or other federal statutes authorizing a project administered by the FTA, and enter into one or more grants or cooperative agreements with the FTA on behalf of the District.</text>
             </para>
             <annotation doc="D.C. Law 16-51" type="History" path="§108b">Feb. 15, 2006, D.C. Law 16-51, § 108b</annotation>
-            <codify:annotation doc="D.C. Code" path="§8-151.08b" type="Construction of Law" history="false">
+            <codify:annotation doc="D.C. Code" path="§8-151.08b" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-151.08b">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
             </codify:annotation>
             <codify:not-funded-anno doc="D.C. Code" path="§8-151.08b" applicability-path="§501" action="creation of"/>
           </section>
           <section>
-            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08b" num-value="8-151.08c" history-prefix="as added"/>
+            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08b" num-value="8-151.08c" history-prefix="as added" codified:doc="D.C. Code" codified:path="§8-151.08c"/>
             <num>108c</num>
             <heading>Railroad safety and security authority.</heading>
             <para>
@@ -341,13 +341,13 @@
               <text>The Director may engage in investigative and surveillance activities related to the safety of facilities, equipment, rolling stock, and operations of railroads and railroad carriers operating in the District and may take enforcement actions, to the extent permissible under 49 U.S.C. § 20101 <em>et seq</em>.), or any regulation issued thereunder.</text>
             </para>
             <annotation doc="D.C. Law 16-51" type="History" path="§108c">Feb. 15, 2006, D.C. Law 16-51, § 108c</annotation>
-            <codify:annotation doc="D.C. Code" path="§8-151.08c" type="Construction of Law" history="false">
+            <codify:annotation doc="D.C. Code" path="§8-151.08c" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-151.08c">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
             </codify:annotation>
             <codify:not-funded-anno doc="D.C. Code" path="§8-151.08c" applicability-path="§501" action="creation of"/>
           </section>
           <section>
-            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08c" num-value="8-151.08d" history-prefix="as added"/>
+            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08c" num-value="8-151.08d" history-prefix="as added" codified:doc="D.C. Code" codified:path="§8-151.08d"/>
             <num>108d</num>
             <heading>Emergency response.</heading>
             <text>The Director may take any action necessary to address emergency response planning and operations related to rail systems in the District including:</text>
@@ -360,13 +360,13 @@
               <text>Coordination and support in accordance with the District Response Plan drafted by  the Homeland Security and Emergency Management Agency regarding the planning for and response to emergencies involving rail systems in the District.</text>
             </para>
             <annotation doc="D.C. Law 16-51" type="History" path="§108d">Feb. 15, 2006, D.C. Law 16-51, § 108d</annotation>
-            <codify:annotation doc="D.C. Code" path="§8-151.08d" type="Construction of Law" history="false">
+            <codify:annotation doc="D.C. Code" path="§8-151.08d" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-151.08d">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
             </codify:annotation>
             <codify:not-funded-anno doc="D.C. Code" path="§8-151.08d" applicability-path="§501" action="creation of"/>
           </section>
           <section>
-            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08d" num-value="8-151.08e" history-prefix="as added"/>
+            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08d" num-value="8-151.08e" history-prefix="as added" codified:doc="D.C. Code" codified:path="§8-151.08e"/>
             <num>108e</num>
             <heading>Public reporting.</heading>
             <para>
@@ -386,29 +386,29 @@
               <text>In publishing the information required by subsection (a) of this section, the Director shall take into account public safety and confidentiality necessary for public security.</text>
             </para>
             <annotation doc="D.C. Law 16-51" type="History" path="§108e">Feb. 15, 2006, D.C. Law 16-51, § 108e</annotation>
-            <codify:annotation doc="D.C. Code" path="§8-151.08e" type="Construction of Law" history="false">
+            <codify:annotation doc="D.C. Code" path="§8-151.08e" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-151.08e">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
             </codify:annotation>
             <codify:not-funded-anno doc="D.C. Code" path="§8-151.08e" applicability-path="§501" action="creation of"/>
           </section>
           <section>
-            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08e" num-value="8-151.08f" history-prefix="as added"/>
+            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08e" num-value="8-151.08f" history-prefix="as added" codified:doc="D.C. Code" codified:path="§8-151.08f"/>
             <num>108f</num>
             <heading>Entry and inspection.</heading>
             <text>The Director shall have the authority to inspect railroad equipment, facilities, rolling stock, or operations or to inspect any record related to the safety, security, and operations of the railroad at any reasonable time and upon the presentation of appropriate credentials to the owner, operator, or person in charge, to the extent permissible under federal railroad safety laws.</text>
             <annotation doc="D.C. Law 16-51" type="History" path="§108f">Feb. 15, 2006, D.C. Law 16-51, § 108f</annotation>
-            <codify:annotation doc="D.C. Code" path="§8-151.08f" type="Construction of Law" history="false">
+            <codify:annotation doc="D.C. Code" path="§8-151.08f" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-151.08f">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
             </codify:annotation>
             <codify:not-funded-anno doc="D.C. Code" path="§8-151.08f" applicability-path="§501" action="creation of"/>
           </section>
           <section>
-            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08f" num-value="8-151.08g" history-prefix="as added"/>
+            <codify:insert codify:doc="D.C. Code" codify:path="|8|1A|I" after="§8-151.08f" num-value="8-151.08g" history-prefix="as added" codified:doc="D.C. Code" codified:path="§8-151.08g"/>
             <num>108g</num>
             <heading>Study of fees.</heading>
             <text>By November 30, 2017, the Mayor shall transmit to the Chairperson of the Council committee with oversight of transportation a report and recommendation as to the imposition of fees related to the transportation of hazardous materials under 49 U.S.C. § 5125(f).</text>
             <annotation doc="D.C. Law 16-51" type="History" path="§108g">Feb. 15, 2006, D.C. Law 16-51, § 108g</annotation>
-            <codify:annotation doc="D.C. Code" path="§8-151.08g" type="Construction of Law" history="false">
+            <codify:annotation doc="D.C. Code" path="§8-151.08g" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-151.08g">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
             </codify:annotation>
             <codify:not-funded-anno doc="D.C. Code" path="§8-151.08g" applicability-path="§501" action="creation of"/>
@@ -421,7 +421,7 @@
         <text>Section 110 (D.C. Official Code § 8-151.10) is amended by adding a new subsection (c) to read as follows:</text>
         <include>
           <para>
-            <codify:insert doc="D.C. Code" path="§8-151.10"/>
+            <codify:insert doc="D.C. Code" path="§8-151.10" codified:doc="D.C. Code" codified:path="§8-151.10"/>
             <num>(c)</num>
             <para>
               <num>(1)</num>
@@ -442,14 +442,14 @@
           </para>
         </include>
         <aftertext>.</aftertext>
-        <codify:annotation doc="D.C. Code" path="§8-151.10" type="Construction of Law" history="false">
+        <codify:annotation doc="D.C. Code" path="§8-151.10" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-151.10">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
         </codify:annotation>
         <codify:not-funded-anno doc="D.C. Code" path="§8-151.10" applicability-path="§501"/>
       </para>
     </section>
   </container>
-  <codify:insert doc="D.C. Code" path="35" after="3" history="false">
+  <codify:insert doc="D.C. Code" path="35" after="3" history="false" codified:doc="D.C. Code" codified:path="35|3A">
     <container>
       <prefix>Chapter</prefix>
       <num>3A</num>
@@ -461,7 +461,7 @@
     <num>II</num>
     <heading>RAILROAD ADVISORY BOARD</heading>
     <section>
-      <codify:insert doc="D.C. Code" path="|35|3A" num-value="35-331"/>
+      <codify:insert doc="D.C. Code" path="|35|3A" num-value="35-331" codified:doc="D.C. Code" codified:path="§35-331"/>
       <num>201</num>
       <heading>Definitions.</heading>
       <text>For the purposes of <code-cite doc="D.C. Code" path="|35|3A">this title</code-cite>, the term:</text>
@@ -477,13 +477,13 @@
         <num>(3)</num>
         <text>"Railroad carrier" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§8-151.01|(11C)">section 101(11C) of the District Department of the Environment Establishment Act of 2005, effective February 15, 2006 (D.C. Law 16-51; D.C. Official Code § 8-151.01(11C))</code-cite>.</text>
       </para>
-      <codify:annotation doc="D.C. Code" path="§35-331" type="Construction of Law" history="false">
+      <codify:annotation doc="D.C. Code" path="§35-331" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§35-331">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
       </codify:annotation>
       <codify:not-funded-anno doc="D.C. Code" path="§35-331" applicability-path="§501" action="creation of"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|35|3A" num-value="35-332"/>
+      <codify:insert doc="D.C. Code" path="|35|3A" num-value="35-332" codified:doc="D.C. Code" codified:path="§35-332"/>
       <num>202</num>
       <heading>Rail Advisory Board.</heading>
       <para>
@@ -553,13 +553,13 @@
         <num>(g)</num>
         <text>The Board shall meet, at a minimum, on a quarterly basis, at times to be determined by the Board at the Board's first meeting.</text>
       </para>
-      <codify:annotation doc="D.C. Code" path="§35-332" type="Construction of Law" history="false">
+      <codify:annotation doc="D.C. Code" path="§35-332" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§35-332">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
       </codify:annotation>
       <codify:not-funded-anno doc="D.C. Code" path="§35-332" applicability-path="§501" action="creation of"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="|35|3A" num-value="35-333"/>
+      <codify:insert doc="D.C. Code" path="|35|3A" num-value="35-333" codified:doc="D.C. Code" codified:path="§35-333"/>
       <num>203</num>
       <heading>Functions and operations of the Board.</heading>
       <para>
@@ -590,7 +590,7 @@
         <num>(c)</num>
         <text>Members of the Board shall receive no compensation, but shall be reimbursed for their actual and necessary expenses incurred in connection with their official duties. Staff support for the Board shall be provided by the District Department of Transportation with supplemental support from the Department of Energy and Environment.</text>
       </para>
-      <codify:annotation doc="D.C. Code" path="§35-333" type="Construction of Law" history="false">
+      <codify:annotation doc="D.C. Code" path="§35-333" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§35-333">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
       </codify:annotation>
       <codify:not-funded-anno doc="D.C. Code" path="§35-333" applicability-path="§501" action="creation of"/>
@@ -606,8 +606,8 @@
       <para>
         <num>(a)</num>
         <text>Section 1(c) (D.C. Official Code § 5-401(c)) is repealed.</text>
-        <codify:repeal doc="D.C. Code" path="§5-401|(c)"/>
-        <codify:annotation doc="D.C. Code" path="§5-401" type="Construction of Law" history="false">
+        <codify:repeal doc="D.C. Code" path="§5-401|(c)" codified:doc="D.C. Code" codified:path="§5-401"/>
+        <codify:annotation doc="D.C. Code" path="§5-401" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§5-401">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
         </codify:annotation>
         <codify:not-funded-anno doc="D.C. Code" path="§5-401" applicability-path="§501" action="creation of"/>
@@ -615,8 +615,8 @@
       <para>
         <num>(b)</num>
         <text>Section 1a (D.C. Official Code § 5-401.01) is repealed.</text>
-        <codify:repeal doc="D.C. Code" path="§5-401.01"/>
-        <codify:annotation doc="D.C. Code" path="§5-401.01" type="Construction of Law" history="false">
+        <codify:repeal doc="D.C. Code" path="§5-401.01" codified:doc="D.C. Code" codified:path="§5-401.01"/>
+        <codify:annotation doc="D.C. Code" path="§5-401.01" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§5-401.01">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
         </codify:annotation>
         <codify:not-funded-anno doc="D.C. Code" path="§5-401.01" applicability-path="§501" action="creation of"/>
@@ -643,7 +643,7 @@
       <para>
         <num>(a)</num>
         <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-        <codify:applicability date="notfunded" history="false"/>
+        <codify:applicability date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§5-401"/>
       </para>
       <para>
         <num>(b)</num>
@@ -663,26 +663,26 @@
       <para>
         <num>(d)</num>
         <text>The amendatory provisions of section 101(c) that add new sections 108c, 108d(1), 108e, and 108f to the District Department of the Environment Establishment Act of 2005, effective February 15, 2006 (D.C. Law 16-51; D.C. Official Code § 8-151.01 <em>et seq</em>.), shall apply after the Mayor enters an agreement to participate in railroad investigative and surveillance activities with the Federal Railroad Administration ("FRA") and the FRA delegates investigative and surveillance authority with respect to all or any part of federal railroad safety laws pursuant to 49 C.F.R. § 212.105.</text>
-        <codify:annotation doc="D.C. Code" path="§8-151.08c" type="Applicability" history="false">
+        <codify:annotation doc="D.C. Code" path="§8-151.08c" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-151.08c">
          Section 501(d) of D.C. Law 21-254 provided that this section shall apply after the Mayor enters an agreement to participate in railroad investigative and surveillance activities with the Federal Railroad Administration ("FRA") and the FRA delegates investigative and surveillance authority with respect to all or any part of federal railroad safety laws pursuant to 49 C.F.R. § 212.105.
         </codify:annotation>
-        <codify:annotation doc="D.C. Code" path="§8-151.08d" type="Applicability" history="false">
+        <codify:annotation doc="D.C. Code" path="§8-151.08d" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-151.08d">
          Section 501(d) of D.C. Law 21-254 provided that this section shall apply after the Mayor enters an agreement to participate in railroad investigative and surveillance activities with the Federal Railroad Administration ("FRA") and the FRA delegates investigative and surveillance authority with respect to all or any part of federal railroad safety laws pursuant to 49 C.F.R. § 212.105.
         </codify:annotation>
-        <codify:annotation doc="D.C. Code" path="§8-151.08e" type="Applicability" history="false">
+        <codify:annotation doc="D.C. Code" path="§8-151.08e" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-151.08e">
          Section 501(d) of D.C. Law 21-254 provided that this section shall apply after the Mayor enters an agreement to participate in railroad investigative and surveillance activities with the Federal Railroad Administration ("FRA") and the FRA delegates investigative and surveillance authority with respect to all or any part of federal railroad safety laws pursuant to 49 C.F.R. § 212.105.
         </codify:annotation>
-        <codify:annotation doc="D.C. Code" path="§8-151.08f" type="Applicability" history="false">
+        <codify:annotation doc="D.C. Code" path="§8-151.08f" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-151.08f">
          Section 501(d) of D.C. Law 21-254 provided that this section shall apply after the Mayor enters an agreement to participate in railroad investigative and surveillance activities with the Federal Railroad Administration ("FRA") and the FRA delegates investigative and surveillance authority with respect to all or any part of federal railroad safety laws pursuant to 49 C.F.R. § 212.105.
         </codify:annotation>
       </para>
       <para>
         <num>(e)</num>
         <text>Section 301 shall apply on the date the requirements of new section 108a of the District Department of the Environment Establishment Act of 2005, effective February 15, 2006 (D.C. Law 16-51; D.C. Official Code § 8-151.01 <em>et seq</em>.), added by section 101(c), have been met.</text>
-        <codify:annotation doc="D.C. Code" path="§5-401" type="Applicability" history="false">
+        <codify:annotation doc="D.C. Code" path="§5-401" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§5-401">
          Section 501(e) of D.C. Law 21-254 provided that the changes made to this section by D.C. Law 21-254 shall apply on the date the requirements of § 8-151.08a have been met.
         </codify:annotation>
-        <codify:annotation doc="D.C. Code" path="§5-401.01" type="Applicability" history="false">
+        <codify:annotation doc="D.C. Code" path="§5-401.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§5-401.01">
          Section 501(e) of D.C. Law 21-254 provided that the changes made to this section by D.C. Law 21-254 shall apply on the date the requirements of § 8-151.08a have been met.
         </codify:annotation>
       </para>

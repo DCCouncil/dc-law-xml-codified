@@ -309,6 +309,7 @@
     <prefix>Chapter</prefix>
     <num>1C</num>
     <heading>Commission on Climate Change and Resiliency.</heading>
+    <annotation app="2017-02-18" doc="D.C. Law 21-185" eff="2017-02-18" path="" type="History" display="false"/>
     <xi:include href="./sections/8-181.01.xml"/>
     <xi:include href="./sections/8-181.02.xml"/>
     <xi:include href="./sections/8-181.03.xml"/>
@@ -395,6 +396,7 @@
     <prefix>Chapter</prefix>
     <num>3A</num>
     <heading>Green Yards Recognition Program.</heading>
+    <annotation app="2017-03-11" doc="D.C. Law 21-222" eff="2017-03-11" path="" type="History" display="false"/>
     <xi:include href="./sections/8-351.xml"/>
     <xi:include href="./sections/8-352.xml"/>
     <xi:include href="./sections/8-353.xml"/>
@@ -466,6 +468,7 @@
     <prefix>Chapter</prefix>
     <num>5A</num>
     <heading>Nonwoven Disposable Products.</heading>
+    <annotation app="2017-03-11" doc="D.C. Law 21-220" eff="2017-03-11" path="" type="History" display="false"/>
     <xi:include href="./sections/8-521.xml"/>
     <xi:include href="./sections/8-522.xml"/>
     <xi:include href="./sections/8-523.xml"/>
@@ -627,6 +630,7 @@
     <prefix>Chapter</prefix>
     <num>7C</num>
     <heading>Trash Compactor Grant Program.</heading>
+    <annotation app="2015-03-11" doc="D.C. Law 20-223" eff="2015-03-11" path="" type="History" display="false"/>
     <xi:include href="./sections/8-751.xml"/>
     <xi:include href="./sections/8-752.xml"/>
     <xi:include href="./sections/8-753.xml"/>
@@ -635,6 +639,7 @@
     <prefix>Chapter</prefix>
     <num>7D</num>
     <heading>Compost Drop-Off Program.</heading>
+    <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="VI" type="History" display="false"/>
     <xi:include href="./sections/8-761.xml"/>
   </container>
   <container>
@@ -705,6 +710,7 @@
     <prefix>Chapter</prefix>
     <num>10A</num>
     <heading>Solid Waste Reduction and Recovery.</heading>
+    <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="I" type="History" display="false"/>
     <xi:include href="./sections/8-1031.01.xml"/>
     <xi:include href="./sections/8-1031.02.xml"/>
     <xi:include href="./sections/8-1031.03.xml"/>
@@ -724,6 +730,7 @@
     <prefix>Chapter</prefix>
     <num>10B</num>
     <heading>Extended Manufacturer Responsibility for Electronic Waste.</heading>
+    <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="I" type="History" display="false"/>
     <xi:include href="./sections/8-1041.01.xml"/>
     <xi:include href="./sections/8-1041.02.xml"/>
     <xi:include href="./sections/8-1041.03.xml"/>
@@ -766,6 +773,7 @@
     <xi:include href="./sections/8-1075.xml"/>
     <xi:include href="./sections/8-1076.xml"/>
     <xi:include href="./sections/8-1077.xml"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7056" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -878,6 +886,7 @@
     <prefix>Chapter</prefix>
     <num>15A</num>
     <heading>Management of Disposable Food Service Ware.</heading>
+    <annotation app="2014-12-17" doc="D.C. Law 20-142" eff="2014-12-17" path="IV" type="History" display="false"/>
     <xi:include href="./sections/8-1531.xml"/>
     <xi:include href="./sections/8-1532.xml"/>
     <xi:include href="./sections/8-1533.xml"/>
@@ -928,6 +937,7 @@
     <prefix>Chapter</prefix>
     <num>17A</num>
     <heading>Natural Resources Conservation.</heading>
+    <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
     <xi:include href="./sections/8-1731.01.xml"/>
     <xi:include href="./sections/8-1731.02.xml"/>
     <xi:include href="./sections/8-1731.03.xml"/>
@@ -1255,6 +1265,7 @@
       <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Game and Fish.</heading>
+      <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
       <xi:include href="./sections/8-2221.01.xml"/>
       <xi:include href="./sections/8-2221.02.xml"/>
       <xi:include href="./sections/8-2221.03.xml"/>
@@ -1293,10 +1304,12 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Fishing.</heading>
+      <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
       <container>
         <prefix>Part</prefix>
         <num>A</num>
         <heading>Authorizing Fishing Licensure by Private Entities.</heading>
+        <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
         <xi:include href="./sections/8-2231.01.xml"/>
         <xi:include href="./sections/8-2231.02.xml"/>
         <xi:include href="./sections/8-2231.03.xml"/>
@@ -1308,6 +1321,7 @@
         <prefix>Part</prefix>
         <num>B</num>
         <heading>Establishing and Clarifying Fishing Authorities.</heading>
+        <annotation app="2017-05-19" doc="D.C. Law 21-282" eff="2017-05-19" path="" type="History" display="false"/>
         <xi:include href="./sections/8-2231.11.xml"/>
         <xi:include href="./sections/8-2231.12.xml"/>
       </container>

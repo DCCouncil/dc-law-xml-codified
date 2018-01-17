@@ -40,6 +40,7 @@
     <prefix>Chapter</prefix>
     <num>1B</num>
     <heading>Reducing Single Occupancy Vehicle Use by Encouraging Transit Benefits.</heading>
+    <annotation app="2014-12-17" doc="D.C. Law 20-142" eff="2014-12-17" path="" type="History" display="false"/>
     <xi:include href="./sections/32-151.xml"/>
     <xi:include href="./sections/32-152.xml"/>
     <xi:include href="./sections/32-153.xml"/>
@@ -167,6 +168,7 @@
       <xi:include href="./sections/32-521.04.xml"/>
       <xi:include href="./sections/32-521.05.xml"/>
       <xi:include href="./sections/32-521.06.xml"/>
+      <annotation app="2017-04-07" doc="D.C. Law 21-264" eff="2017-04-07" path="" type="History" display="false"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -192,11 +194,13 @@
       <xi:include href="./sections/32-531.15a.xml"/>
       <xi:include href="./sections/32-531.16.xml"/>
       <xi:include href="./sections/32-531.17.xml"/>
+      <annotation app="2017-04-07" doc="D.C. Law 21-264" eff="2017-04-07" path="" type="History" display="false"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Universal Paid Leave.</heading>
+      <annotation app="2017-04-07" doc="D.C. Law 21-264" eff="2017-04-07" path="" type="History" display="false"/>
       <xi:include href="./sections/32-541.01.xml"/>
       <xi:include href="./sections/32-541.02.xml"/>
       <xi:include href="./sections/32-541.03.xml"/>
@@ -214,6 +218,7 @@
       <prefix>Subchapter</prefix>
       <num>V</num>
       <heading>Universal Paid Leave Implementation Fund.</heading>
+      <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="I|P" type="History" display="false"/>
       <xi:include href="./sections/32-551.01.xml"/>
     </container>
   </container>
@@ -396,6 +401,7 @@
     <prefix>Chapter</prefix>
     <num>10A</num>
     <heading>Building Service Employees Minimum Work Week.</heading>
+    <annotation app="2016-10-08" doc="D.C. Law 21-157" eff="2016-10-08" path="" type="History" display="false"/>
     <xi:include href="./sections/32-1051.01.xml"/>
     <xi:include href="./sections/32-1051.02.xml"/>
     <xi:include href="./sections/32-1051.03.xml"/>
@@ -413,6 +419,8 @@
     <xi:include href="./sections/32-1051.15.xml"/>
     <xi:include href="./sections/32-1051.16.xml"/>
     <xi:include href="./sections/32-1051.17.xml"/>
+    <annotation doc="D.C. Law 22-33" path="§7016" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7016">Section 7016 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-157" path="§18">§ 18 of D.C. Law 21-157</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-157">D.C. Law 21-157</cite> have been given effect.</annotation>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7016" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

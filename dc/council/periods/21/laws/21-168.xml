@@ -22,13 +22,13 @@
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Safe at Home Act of 2016".</text>
   <container>
-    <codify:organic doc="D.C. Code" path="|7|5" after="B" num-value="C" history="false"/>
+    <codify:organic doc="D.C. Code" path="|7|5" after="B" num-value="C" history="false" codified:doc="D.C. Code" codified:path="7|5|C"/>
     <prefix>Unit</prefix>
     <num>C</num>
     <heading>Safe at Home Program.</heading>
   </container>
   <section>
-    <codify:organic doc="D.C. Code" path="|7|5|C" num-value="7-551.01"/>
+    <codify:organic doc="D.C. Code" path="|7|5|C" num-value="7-551.01" codified:doc="D.C. Code" codified:path="§7-551.01"/>
     <num>2</num>
     <heading>Home accessibility modification grant program.</heading>
     <para>
@@ -150,7 +150,7 @@
     <text>Section 47-1803.02(a)(2) of the District of Columbia Official Code is amended by adding a new subparagraph (CC) to read as follows:</text>
     <include>
       <para>
-        <codify:insert after="(BB)"/>
+        <codify:insert after="(BB)" codified:doc="D.C. Code" codified:path="§47-1803.02"/>
         <num>(CC)</num>
         <text>The amount received by a taxpayer pursuant to <code-cite doc="D.C. Code" path="§7-551.01"><span codify:value="(b)"/> section 2(b) of the Safe at Home Act of 2016, passed on 2nd reading on September 20, 2016 (Enrolled version of Bill 21-316)</code-cite>.</text>
       </para>
@@ -164,8 +164,8 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability path="§2" date="notfunded" history="false"/>
-      <codify:applicability path="§3" date="notfunded" history="false"/>
+      <codify:applicability path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§7-551.01"/>
+      <codify:applicability path="§3" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§47-1803.02"/>
     </para>
     <para>
       <num>(b)</num>

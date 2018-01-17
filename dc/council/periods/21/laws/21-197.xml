@@ -31,7 +31,7 @@
       <text>Section 206(c) (D.C. Official Code § 42-3502.06(c)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace doc="D.C. Code" path="§42-3502.06|(c)"/>
+          <codify:replace doc="D.C. Code" path="§42-3502.06|(c)" codified:doc="D.C. Code" codified:path="§42-3502.06"/>
           <num>(c)</num>
           <text>At the housing provider's election, instead of any adjustment authorized by subsection (b) of this section, the rent charged for an accommodation may be adjusted through a hardship petition under <code-cite doc="D.C. Code" path="§42-3502.12">section 212</code-cite>.</text>
         </para>
@@ -43,7 +43,7 @@
       <text>Section 212(c) (D.C. Official Code § 42-3502.12(c)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace doc="D.C. Code" path="§42-3502.12|(c)"/>
+          <codify:replace doc="D.C. Code" path="§42-3502.12|(c)" codified:doc="D.C. Code" codified:path="§42-3502.12"/>
           <num>(c)</num>
           <para>
             <num>(1)</num>
