@@ -74,7 +74,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the period and insert a semicolon in its place.</text>
-            <codify:find-replace path="(13)" find="." replace=";" position="last" codified:doc="D.C. Code" codified:path="§34-1432"/>
+            <codify:find-replace path="(13)" find="." replace=";" location="last" codified:doc="D.C. Code" codified:path="§34-1432"/>
           </para>
         </para>
         <para>
