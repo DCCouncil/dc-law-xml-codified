@@ -3177,8 +3177,7 @@
         <text>Section 502 of the Revenue Act of 1978, effective April 19, 1977 (D.C. Law 1-124; D.C. Official Code § 5-416), is amended by adding a new subsection (c) to read as follows:</text>
         <include>
           <para>
-            <codify:repeal doc="D.C. Law 21-125" path="§901" history="false"/>
-            <codify:insert/>
+            <codify:insert doc="D.C. Law 1-124" path="§502" codified:doc="D.C. Code" codified:path="§5-416"/>
             <num>(c)</num>
             <para>
               <num>(1)</num>
