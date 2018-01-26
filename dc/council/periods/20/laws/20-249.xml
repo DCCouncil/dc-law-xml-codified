@@ -27,7 +27,7 @@
     <para codify:path="§5|(a)">
       <num>(a)</num>
       <text>Section 5(a) (D.C. Official Code § 6-1104(a)) is amended by striking the phrase "this section and place notice of the application in the District of Columbia Register" and inserting the phrase "this section and section 9c, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1104">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1104|(a)">
         <find>this section and place notice of the application in the District of Columbia Register</find>
         <replace>this section and <code-cite path="§9c">section 9c</code-cite>, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office</replace>
       </codify:find-replace>
@@ -36,7 +36,7 @@
     <para codify:path="§6|(a)">
       <num>(b)</num>
       <text>Section 6(a) (D.C. Official Code § 6-1105(a)) is amended by striking the phrase "this section and place notice of the application in the District of Columbia Register" and inserting the phrase "this section and section 9c, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1105">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1105|(a)">
         <find>this section and place notice of the application in the District of Columbia Register</find>
         <replace>this section and <code-cite path="§9c">section 9c</code-cite>, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office</replace>
       </codify:find-replace>
@@ -45,7 +45,7 @@
     <para codify:path="§7|(a)">
       <num>(c)</num>
       <text>Section 7(a) (D.C. Official Code § 6-1106(a)) is amended by striking the phrase "this section and place notice of the application in the District of Columbia Register" and inserting the phrase "this section and section 9c, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1106">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1106|(a)">
         <find>this section and place notice of the application in the District of Columbia Register</find>
         <replace>this section and <code-cite path="§9c">section 9c</code-cite>, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office</replace>
       </codify:find-replace>
@@ -54,7 +54,7 @@
     <para codify:path="§8|(a)">
       <num>(d)</num>
       <text>Section 8(a) (D.C. Official Code § 6-1107(a)) is amended by striking the phrase "this section and shall place notice of the application in the District of Columbia Register" and insert the phrase "this section and section 9c, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1107">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1107|(a)">
         <find>this section and shall place notice of the application in the District of Columbia Register</find>
         <replace>this section and <code-cite path="§9c">section 9c</code-cite>, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office</replace>
       </codify:find-replace>
@@ -66,7 +66,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "considered by the Mayor" and inserting the phrase "considered by the Mayor, in accordance with this subsection and section 9c," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1108">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1108|(a)">
           <find>considered by the Mayor</find>
           <replace>considered by the Mayor, in accordance with this subsection and <code-cite path="§9c">section 9c</code-cite>,</replace>
         </codify:find-replace>
@@ -76,7 +76,7 @@
         <text>A new subsection (a-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§6-1108"/>
+            <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§6-1108|(a-1)"/>
             <num>(a-1)</num>
             <text>The Mayor shall place notice of applications for preliminary review that will be submitted to the Historic Preservation Review Board or the Commission on Fine Arts for a public hearing on the website for the Historic Preservation Office.</text>
           </para>
@@ -86,7 +86,7 @@
       <para codify:path="(b)">
         <num>(3)</num>
         <text>Subsection (b) is amended by striking the phrase "the application" and inserting the phrase "the application, in accordance with this subsection and section 9c," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1108">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§6-1108|(b)">
           <find>the application</find>
           <replace>the application, in accordance with this subsection and <code-cite path="§9c">section 9c</code-cite>,</replace>
         </codify:find-replace>
@@ -96,7 +96,7 @@
         <text>A new subsection (b-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§6-1108"/>
+            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§6-1108|(b-1)"/>
             <num>(b-1)</num>
             <text>The Mayor shall place notice of applications for conceptual review that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing on the website for the Historic Preservation Office.</text>
           </para>

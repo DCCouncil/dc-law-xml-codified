@@ -33,12 +33,12 @@
         <text>New paragraphs (5A) and (5B) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§9-201.01"/>
+            <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§9-201.01|(5A)"/>
             <num>(5A)</num>
             <text>"Official name" means the legal designation of an alley or street, or portion thereof, for use in a mailing address and other official purposes.</text>
           </para>
           <para>
-            <codify:insert after="(5A)" codified:doc="D.C. Code" codified:path="§9-201.01"/>
+            <codify:insert after="(5A)" codified:doc="D.C. Code" codified:path="§9-201.01|(5B)"/>
             <num>(5B)</num>
             <text>"Other public space" means a public space other than an alley or street.</text>
           </para>
@@ -50,7 +50,7 @@
         <text>A new paragraph (9) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§9-201.01"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§9-201.01|(9)"/>
             <num>(9)</num>
             <text>"Symbolic name" means a ceremonial name given to an alley or street, or portion thereof, or other public space that is in addition and subordinate to its official name.</text>
           </para>
@@ -71,17 +71,17 @@
         <text>New paragraphs (5), (6), and (7) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§9-204.01"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§9-204.01|(5)"/>
             <num>(5)</num>
             <text>For an alley or street, or portion thereof, or other public space, the criteria set forth in <code-cite doc="D.C. Code" path="|9|2|IV|C">Subtitle C of this title</code-cite> shall be met before Council approval.</text>
           </para>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§9-204.01"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§9-204.01|(6)"/>
             <num>(6)</num>
             <text>Any designation or change of name of an alley or street, or portion thereof, or other public space made before <span codify:value="October 8, 2016">the effective date of the Public Space Naming Amendment Act of 2016, passed on 2nd reading on July 12, 2016 (Enrolled version of Bill 21-614) ("2016 Act")</span>, shall not be affected by any of the <span codify:value="D.C. Law 21-161">2016 Act</span> requirements.</text>
           </para>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§9-204.01"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§9-204.01|(7)"/>
             <num>(7)</num>
             <text>This title shall not apply to any street, alley, other public space, or commemorative work not under the jurisdiction of the District of Columbia.</text>
           </para>

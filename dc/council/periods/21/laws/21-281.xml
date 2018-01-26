@@ -30,7 +30,7 @@
       <para codify:path="(7)|(D)">
         <num>(1)</num>
         <text>Paragraph (7)(D) is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§7-2501.01"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§7-2501.01|(7)|(D)"/>
       </para>
       <para codify:path="(9)">
         <num>(2)</num>
@@ -38,7 +38,7 @@
         <para codify:path="(C)">
           <num>(A)</num>
           <text>Subparagraph (C) is amended by striking the word "or" at the end.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2501.01">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2501.01|(9)|(C)">
             <find>; or</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -47,7 +47,7 @@
           <num>(B)</num>
           <text>Subparagraph (D) is amended by striking the phrase "a weapon." and inserting the phrase "a weapon; or" in its place.
           </text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2501.01">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2501.01|(9)|(D)">
             <find>a weapon.</find>
             <replace>a weapon; or</replace>
           </codify:find-replace>
@@ -57,7 +57,7 @@
           <text>A new subparagraph (E) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(D)" codified:doc="D.C. Code" codified:path="§7-2501.01"/>
+              <codify:insert after="(D)" codified:doc="D.C. Code" codified:path="§7-2501.01|(9)|(E)"/>
               <num>(E)</num>
               <text>A stun gun.</text>
             </para>
@@ -70,7 +70,7 @@
         <text>A new paragraph (17A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(17)" codified:doc="D.C. Code" codified:path="§7-2501.01"/>
+            <codify:insert after="(17)" codified:doc="D.C. Code" codified:path="§7-2501.01|(17A)"/>
             <num>(17A)</num>
             <text>"Stun gun" means any device designed or redesigned, made or remade, or readily converted or restored, and used or intended to be used offensively or defensively to immobilize or incapacitate a person by the use of electric current or audible, optical, or electromagnetic pulse.</text>
           </para>
@@ -152,7 +152,7 @@
       <para codify:path="(B)">
         <num>(1)</num>
         <text>Subparagraph (B) is amended by striking the word "and" at the end.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2507.06">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2507.06|(b)|(1)|(B)">
           <find>; and</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -160,7 +160,7 @@
       <para codify:path="(C)">
         <num>(2)</num>
         <text>Subparagraph (C) is amended by striking the phrase "time of arrest." and inserting the phrase "time of arrest;" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2507.06">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2507.06|(b)|(1)|(C)">
           <find>time of arrest.</find>
           <replace>time of arrest;</replace>
         </codify:find-replace>
@@ -170,12 +170,12 @@
         <text>New subparagraphs (D) and (E) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(C)" codified:doc="D.C. Code" codified:path="§7-2507.06"/>
+            <codify:insert after="(C)" codified:doc="D.C. Code" codified:path="§7-2507.06|(b)|(1)|(D)"/>
             <num>(D)</num>
             <text>Possession of a self-defense spray in violation of <code-cite doc="D.C. Code" path="§7-2502.13">section 213</code-cite>; and</text>
           </para>
           <para>
-            <codify:insert after="(D)" codified:doc="D.C. Code" codified:path="§7-2507.06"/>
+            <codify:insert after="(D)" codified:doc="D.C. Code" codified:path="§7-2507.06|(b)|(1)|(E)"/>
             <num>(E)</num>
             <text>Possession of a stun gun in violation of <code-cite doc="D.C. Code" path="§7-2502.15">section 215</code-cite>.</text>
           </para>
@@ -189,7 +189,7 @@
     <text>Section 2(2)(A)(iii)(III) of An Act To prohibit the introduction of contraband into the District of Columbia penal institutions, approved December 15, 1941 (55 Stat. 800; D.C. Official Code § 22-2603.01(2)(A)(iii)(III)), is amended to read as follows;</text>
     <include>
       <para>
-        <codify:replace doc="D.C. Code" path="§22-2603.01|(2)|(A)|(iii)|(III)" codified:doc="D.C. Code" codified:path="§22-2603.01"/>
+        <codify:replace doc="D.C. Code" path="§22-2603.01|(2)|(A)|(iii)|(III)" codified:doc="D.C. Code" codified:path="§22-2603.01|(2)|(A)|(iii)|(III)"/>
         <num>(III)</num>
         <text>A stun gun, as defined in <code-cite doc="D.C. Code" path="§7-2501.01|(17A)">section 101(17A) of the Firearms Control Regulations Act of 1975, effective September 24, 1976 (D.C. Law 1-85; D.C. Official Code § 7-2501.01(17A))</code-cite>;</text>
       </para>
@@ -199,7 +199,7 @@
   <section>
     <num>4</num>
     <text>Section 2(a) of An Act To control the possession, sale, transfer, and use of pistols and other dangerous weapons in the District of Columbia, to provide penalties, to prescribe rules of evidence, and for other purposes, approved July 8, 1932 (47 Stat. 650; D.C. Official Code § 22-4502(a)), is amended by striking the phrase "rifle, dirk," and inserting the phrase "rifle, stun gun, dirk," in its place.</text>
-    <codify:find-replace doc="D.C. Code" path="§22-4502|(a)" count="1" codified:doc="D.C. Code" codified:path="§22-4502">
+    <codify:find-replace doc="D.C. Code" path="§22-4502|(a)" count="1" codified:doc="D.C. Code" codified:path="§22-4502|(a)">
       <find>rifle, dirk,</find>
       <replace>rifle, stun gun, dirk,</replace>
     </codify:find-replace>
@@ -212,7 +212,7 @@
       <text>Subsection (a) is amended by adding a new paragraph (11A) to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(11)" codified:doc="D.C. Code" codified:path="§47-2851.03"/>
+          <codify:insert after="(11)" codified:doc="D.C. Code" codified:path="§47-2851.03|(a)|(11A)"/>
           <num>(11A)</num>
           <text>Stun Gun;</text>
         </para>
@@ -224,7 +224,7 @@
       <text>A new subsection (e) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(d)" codified:doc="D.C. Code" codified:path="§47-2851.03"/>
+          <codify:insert after="(d)" codified:doc="D.C. Code" codified:path="§47-2851.03|(e)"/>
           <num>(e)</num>
           <text>A vendor who sells more than 5 stun guns in a 12-month period shall obtain a stun gun endorsement under subsection (a)(11A) of this section on its basic business license from the Department on a form provided by the Department.  No additional information shall be required for the issuance of a stun gun endorsement.</text>
         </para>

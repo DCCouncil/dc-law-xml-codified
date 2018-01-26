@@ -26,7 +26,7 @@
     <para>
       <num>(a)</num>
       <text>Paragraph (36) is amended by striking the word "and".</text>
-      <codify:find-replace path="(36)" count="1" codified:doc="D.C. Code" codified:path="§47-2005">
+      <codify:find-replace path="(36)" count="1" codified:doc="D.C. Code" codified:path="§47-2005|(36)">
         <find>and</find>
         <replace/>
       </codify:find-replace>
@@ -36,7 +36,7 @@
       <text>New paragraphs (38) and (39) are added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(37)" codified:doc="D.C. Code" codified:path="§47-2005"/>
+          <codify:insert after="(37)" codified:doc="D.C. Code" codified:path="§47-2005|(38)"/>
           <num>(38)</num>
           <para>
             <num>(A)</num>
@@ -48,7 +48,7 @@
           </para>
         </para>
         <para>
-          <codify:insert after="(38)" codified:doc="D.C. Code" codified:path="§47-2005"/>
+          <codify:insert after="(38)" codified:doc="D.C. Code" codified:path="§47-2005|(39)"/>
           <num>(39)</num>
           <para>
             <num>(A)</num>
@@ -70,7 +70,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall take effect subject to the inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 21-201" path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§47-2005"/>
+      <codify:applicability doc="D.C. Law 21-201" path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§47-2005|(36)"/>
     </para>
     <para>
       <num>(b)</num>

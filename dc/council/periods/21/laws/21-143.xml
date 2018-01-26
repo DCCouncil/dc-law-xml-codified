@@ -135,12 +135,12 @@
   <section codify:doc="D.C. Law 1-20" codify:path="§8|(f)">
     <num>4</num>
     <text>Section 8(f) of the District of Columbia Boxing and Wrestling Commission Act, effective October 8, 1975 (D.C. Law 1-20; D.C. Official Code § 3-607(f)), is repealed.</text>
-    <codify:repeal codified:doc="D.C. Code" codified:path="§3-607"/>
+    <codify:repeal codified:doc="D.C. Code" codified:path="§3-607|(f)"/>
   </section>
   <section codify:doc="D.C. Law 10-188" codify:path="§305|(a)">
     <num>5</num>
     <text>Section 305(a) of the Washington Convention Center Authority Act of 1994, effective September 28, 1994 (D.C. Law 10-188; D.C. Official Code § 10-1203.05(a)), is repealed.</text>
-    <codify:repeal codified:doc="D.C. Code" codified:path="§10-1203.05"/>
+    <codify:repeal codified:doc="D.C. Code" codified:path="§10-1203.05|(a)"/>
   </section>
   <section codify:doc="D.C. Law 4-164" codify:path="§126n|(d)">
     <num>6</num>
@@ -165,12 +165,12 @@
   <section codify:doc="Stat. 62-3-ch150" codify:path="§8|42|(a)|(6)">
     <num>8</num>
     <text>Paragraph 42(a)(6) of section 8 of An Act Making appropriations to provide for the expenses of the government of the District of Columbia for the fiscal year ending June thirtieth, nineteen hundred and fourteen, and for other purposes, approved March 4, 1913 (37 Stat. 984; D.C. Official Code § 34-912(a)(6)), is repealed.</text>
-    <codify:repeal codified:doc="D.C. Code" codified:path="§34-912"/>
+    <codify:repeal codified:doc="D.C. Code" codified:path="§34-912|(a)|(6)"/>
   </section>
   <section codify:doc="D.C. Law 12-228" codify:path="§4|(c)">
     <num>9</num>
     <text>Section 4(c) of the Eastern Market Real Property Asset Management and Outdoor Vending Act of 1998, effective April 16, 1999 (D.C. Law 12-228; D.C. Official Code § 37-103(c)), is repealed.</text>
-    <codify:repeal codified:doc="D.C. Code" codified:path="§37-103"/>
+    <codify:repeal codified:doc="D.C. Code" codified:path="§37-103|(c)"/>
   </section>
   <section codify:doc="Stat. 82-1-ch448">
     <num>10</num>
@@ -239,7 +239,7 @@
         <para>
           <num>(A)</num>
           <text>Subsection (b) is amended by striking the phrase "audited and approved by the Auditor of the District of Columbia, and certified by the Mayor as required by § 47-409".</text>
-          <codify:find-replace path="(b)" count="1" codified:doc="D.C. Code" codified:path="§47-111">
+          <codify:find-replace path="(b)" count="1" codified:doc="D.C. Code" codified:path="§47-111|(b)">
             <find> audited and approved by the Auditor of the District of Columbia, and certified by the Mayor as required by § <cite path="§47-409">47-409</cite></find>
             <replace/>
           </codify:find-replace>
@@ -247,7 +247,7 @@
         <para>
           <num>(B)</num>
           <text>Subsection (c) is repealed.</text>
-          <codify:repeal path="(c)" codified:doc="D.C. Code" codified:path="§47-111"/>
+          <codify:repeal path="(c)" codified:doc="D.C. Code" codified:path="§47-111|(c)"/>
         </para>
       </para>
       <para codify:path="§47-112">

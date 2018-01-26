@@ -22,8 +22,8 @@
     <num>(b)</num>
     <text>Not funded.</text>
   </para>
-  <codify:repeal doc="D.C. Code" path="§24-913|(b)" history="false" codified:doc="D.C. Code" codified:path="§24-913"/>
-  <codify:find-replace doc="D.C. Code" path="§24-913|(b)" count="1" codified:doc="D.C. Code" codified:path="§24-913">
+  <codify:repeal doc="D.C. Code" path="§24-913|(b)" history="false" codified:doc="D.C. Code" codified:path="§24-913|(b)"/>
+  <codify:find-replace doc="D.C. Code" path="§24-913|(b)" count="1" codified:doc="D.C. Code" codified:path="§24-913|(b)">
     <find>Repealed.</find>
     <replace>Not funded.</replace>
   </codify:find-replace>

@@ -31,7 +31,7 @@
         <text>Subsection (h)(1)(A) (D.C. Official Code § 2-218.39a(h)(1)(A)) is amended to read as follows:</text>
         <include>
           <para codify:path="(h)|(1)|(A)">
-            <codify:replace codified:doc="D.C. Code" codified:path="§2-218.39a"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§2-218.39a|(h)|(1)|(A)"/>
             <num>(A)</num>
             <text>The certified business enterprise owner with majority interest in the joint venture has bonding capacity equal to at least 51% of the total contract amount;</text>
           </para>
@@ -43,7 +43,7 @@
         <text>A new subsection (i) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(h)" codified:doc="D.C. Code" codified:path="§2-218.39a"/>
+            <codify:insert after="(h)" codified:doc="D.C. Code" codified:path="§2-218.39a|(i)"/>
             <num>(i)</num>
             <para>
               <num>(1)</num>
@@ -76,7 +76,7 @@
       <para codify:path="(8)">
         <num>(1)</num>
         <text>Paragraph (8) is amended by striking the word "and" at the end.</text>
-        <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§2-218.54">
+        <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§2-218.54|(c)|(8)">
           <find>and</find>
           <replace/>
         </codify:find-replace>
@@ -84,7 +84,7 @@
       <para codify:path="(9)">
         <num>(2)</num>
         <text>Paragraph (9) is amended by striking the period at the end and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§2-218.54">
+        <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§2-218.54|(c)|(9)">
           <find>.</find>
           <replace>; and</replace>
         </codify:find-replace>
@@ -94,7 +94,7 @@
         <text>A new paragraph (10) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(9)" codified:doc="D.C. Code" codified:path="§2-218.54"/>
+            <codify:insert after="(9)" codified:doc="D.C. Code" codified:path="§2-218.54|(c)|(10)"/>
             <num>(10)</num>
             <text>A list of joint ventures certified by the Department, including the number of compliance checks completed on the joint ventures and a summary of the results, and a list of joint ventures that met the requirements set forth in <code-cite doc="D.C. Code" path="§2-218.39a|(i)">section 2339a(i)</code-cite>.</text>
           </para>

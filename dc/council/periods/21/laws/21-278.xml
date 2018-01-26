@@ -28,12 +28,12 @@
       <text>Section 2 (D.C. Official Code § 31-2001) is amended by adding new paragraphs (6A) and (6B) to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(6)" codified:doc="D.C. Code" codified:path="§31-2001"/>
+          <codify:insert after="(6)" codified:doc="D.C. Code" codified:path="§31-2001|(6A)"/>
           <num>(6A)</num>
           <text>"Fraternal benefit society" means any insurance company licensed under the Fraternal Benefit Societies Act of 1998, effective April 29, 1998 (D.C. Law 12-86; D.C. Official Code § 31-5301 <em>et seq</em>.).</text>
         </para>
         <para>
-          <codify:insert after="(6A)" codified:doc="D.C. Code" codified:path="§31-2001"/>
+          <codify:insert after="(6A)" codified:doc="D.C. Code" codified:path="§31-2001|(6B)"/>
           <num>(6B)</num>
           <text>"Insurer" means an insurance company covered by <code-cite doc="D.C. Code" path="31|20">this act</code-cite>.  The term "insurer" includes a fraternal benefit society.</text>
         </para>
@@ -43,7 +43,7 @@
     <para codify:path="§31-2002|(g)">
       <num>(b)</num>
       <text>Section 3(g) (D.C. Official Code § 31-2002(g)) is amended by striking the phrase "insurer of the adjustment." and inserting the phrase "insurer of the adjustment. An RBC Report so adjusted is an Adjusted RBC Report." in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-2002">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-2002|(g)">
         <find>insurer of the adjustment.</find>
         <replace>insurer of the adjustment. An RBC Report so adjusted is an Adjusted RBC Report.</replace>
       </codify:find-replace>
@@ -57,7 +57,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "If a life or health insurer," and insert the phrase "If a life or health insurer or fraternal benefit society," in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-2003">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-2003|(a)|(1)|(B)">
             <find>If a life or health insurer,</find>
             <replace>If a life or health insurer or fraternal benefit society,</replace>
           </codify:find-replace>
@@ -65,7 +65,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the figure "2.5" and insert the figure "3.0" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-2003">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-2003|(a)|(1)|(B)">
             <find>2.5</find>
             <replace>3.0</replace>
           </codify:find-replace>
@@ -74,7 +74,7 @@
       <para codify:path="(C)">
         <num>(2)</num>
         <text>Subparagraph (C) is amended by striking the phrase "licensed as".</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-2003">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-2003|(a)|(1)|(C)">
           <find>licensed as</find>
           <replace/>
         </codify:find-replace>
@@ -83,7 +83,7 @@
     <para codify:path="§31-2006|(b)|(1)">
       <num>(d)</num>
       <text>Section 7(b)(1) (D.C. Official Code § 31-2006(b)(1)) is amended by striking the phrase "With respect to a life insurer" and inserting the phrase "With respect to a life insurer or fraternal benefit society" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-2006">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-2006|(b)|(1)">
         <find>With respect to a life insurer</find>
         <replace>With respect to a life insurer or fraternal benefit society</replace>
       </codify:find-replace>
@@ -97,7 +97,7 @@
       <text>Section 101(5)(A) (D.C. Official Code § 31-3451.01(5)(A)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§31-3451.01"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§31-3451.01|(5)|(A)"/>
           <num>(A)</num>
           <para>
             <num>(i)</num>
@@ -116,7 +116,7 @@
       <text>Section 102(b) (D.C. Official Code § 31-3451.02(b)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§31-3451.02"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§31-3451.02|(b)"/>
           <num>(b)</num>
           <text>A health organization's RBC level shall be determined in accordance with the formula set forth in the RBC instructions. The formula shall apply and may be adjusted for the covariance between the following factors in the manner set forth in the RBC instructions:</text>
           <para>

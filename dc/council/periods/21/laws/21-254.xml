@@ -38,12 +38,12 @@
           <text>New paragraphs (5A), (5B), (5C), and (5D) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
+              <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§8-151.01|(5A)"/>
               <num>(5A)</num>
               <text>"FRA" means the Federal Railroad Administration.</text>
             </para>
             <para>
-              <codify:insert after="(5A)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
+              <codify:insert after="(5A)" codified:doc="D.C. Code" codified:path="§8-151.01|(5B)"/>
               <num>(5B)</num>
               <text>"Federal railroad safety laws" means federal laws, or regulations or orders issued under the authority of such laws, addressing the safety of railroad equipment and operations, including:</text>
               <para>
@@ -76,12 +76,12 @@
               </para>
             </para>
             <para>
-              <codify:insert after="(5B)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
+              <codify:insert after="(5B)" codified:doc="D.C. Code" codified:path="§8-151.01|(5C)"/>
               <num>(5C)</num>
               <text>"FTA" means the Federal Transit Administration.</text>
             </para>
             <para>
-              <codify:insert after="(5C)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
+              <codify:insert after="(5C)" codified:doc="D.C. Code" codified:path="§8-151.01|(5D)"/>
               <num>(5D)</num>
               <text>"Hazardous materials" shall have the same meaning as provided in 49 C.F.R. § 171.8.</text>
             </para>
@@ -93,7 +93,7 @@
           <text>A new paragraph (10A) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(10)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
+              <codify:insert after="(10)" codified:doc="D.C. Code" codified:path="§8-151.01|(10A)"/>
               <num>(10A)</num>
               <text>"Person" means an individual, corporation, company, association, firm, partnership, society, joint stock company, or any other commercial entity.</text>
             </para>
@@ -105,7 +105,7 @@
           <text>New paragraphs (11A), (11B), and (11C) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(11)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
+              <codify:insert after="(11)" codified:doc="D.C. Code" codified:path="§8-151.01|(11A)"/>
               <num>(11A)</num>
               <para>
                 <num>(A)</num>
@@ -117,7 +117,7 @@
               </para>
             </para>
             <para>
-              <codify:insert after="(11A)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
+              <codify:insert after="(11A)" codified:doc="D.C. Code" codified:path="§8-151.01|(11B)"/>
               <num>(11B)</num>
               <para>
                 <num>(A)</num>
@@ -137,7 +137,7 @@
               </para>
             </para>
             <para>
-              <codify:insert after="(11B)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
+              <codify:insert after="(11B)" codified:doc="D.C. Code" codified:path="§8-151.01|(11C)"/>
               <num>(11C)</num>
               <text>"Railroad carrier" means a person providing transportation by railroad or a group of commonly controlled railroad carriers that the Secretary of Transportation has ordered to be treated as a single railroad carrier as provided for in 49 U.S.C. § 20102(3).</text>
             </para>
@@ -149,7 +149,7 @@
           <text>A new paragraph (13A) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(13)" codified:doc="D.C. Code" codified:path="§8-151.01"/>
+              <codify:insert after="(13)" codified:doc="D.C. Code" codified:path="§8-151.01|(13A)"/>
               <num>(13A)</num>
               <text>"State safety oversight agency" means the District entity designated by the Secretary of Transportation to implement the requirements of 49 U.S.C. § 5329 and 49 C.F.R. § 674.</text>
             </para>
@@ -167,7 +167,7 @@
         <para codify:path="(5)">
           <num>(1)</num>
           <text>Paragraph (5) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.06">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.06|(5)">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -175,7 +175,7 @@
         <para codify:path="(6)">
           <num>(2)</num>
           <text>Paragraph (6) is amended by striking the phrase "materials." and inserting the phrase "materials; and" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.06">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.06|(6)">
             <find>materials.</find>
             <replace>materials; and</replace>
           </codify:find-replace>
@@ -185,7 +185,7 @@
           <text>A new paragraph (7) to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§8-151.06"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§8-151.06|(7)"/>
               <num>(7)</num>
               <text>An Emergency Response and Rail Safety Division to do the following:</text>
               <para>
@@ -421,7 +421,7 @@
         <text>Section 110 (D.C. Official Code § 8-151.10) is amended by adding a new subsection (c) to read as follows:</text>
         <include>
           <para>
-            <codify:insert doc="D.C. Code" path="§8-151.10" codified:doc="D.C. Code" codified:path="§8-151.10"/>
+            <codify:insert doc="D.C. Code" path="§8-151.10" codified:doc="D.C. Code" codified:path="§8-151.10|(c)"/>
             <num>(c)</num>
             <para>
               <num>(1)</num>
@@ -606,7 +606,7 @@
       <para>
         <num>(a)</num>
         <text>Section 1(c) (D.C. Official Code § 5-401(c)) is repealed.</text>
-        <codify:repeal doc="D.C. Code" path="§5-401|(c)" codified:doc="D.C. Code" codified:path="§5-401"/>
+        <codify:repeal doc="D.C. Code" path="§5-401|(c)" codified:doc="D.C. Code" codified:path="§5-401|(c)"/>
         <codify:annotation doc="D.C. Code" path="§5-401" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§5-401">
              Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
         </codify:annotation>
@@ -643,7 +643,7 @@
       <para>
         <num>(a)</num>
         <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-        <codify:applicability date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§5-401"/>
+        <codify:applicability date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§5-401|(c)"/>
       </para>
       <para>
         <num>(b)</num>

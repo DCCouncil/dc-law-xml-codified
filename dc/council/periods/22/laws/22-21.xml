@@ -31,7 +31,7 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph (1) is redesignated as paragraph (1A).</text>
-        <codify:find-replace path="num" count="1" codified:doc="D.C. Code" codified:path="§38-821.01">
+        <codify:find-replace path="num" count="1" codified:doc="D.C. Code" codified:path="§38-821.01|(1)">
           <find>(1)</find>
           <replace>(1A)</replace>
         </codify:find-replace>
@@ -73,7 +73,7 @@
     <para>
       <num>(b)</num>
       <text>Section 501(a)(1)(E) (D.C. Official Code § 38-825.01(a)(1)(E)) is repealed.</text>
-      <codify:repeal path="§38-825.01|(a)|(1)|(E)" codified:doc="D.C. Code" codified:path="§38-825.01"/>
+      <codify:repeal path="§38-825.01|(a)|(1)|(E)" codified:doc="D.C. Code" codified:path="§38-825.01|(a)|(1)|(E)"/>
       <codify:not-funded-anno doc="D.C. Code" path="§38-825.01" applicability-path="§11"/>
     </para>
     <para>
@@ -331,7 +331,7 @@
     <para>
       <num>(a)</num>
       <text>Strike the phrase "Fire Prevention Code." and insert the phrase "Fire Prevention Code and section 501a(b) of the Healthy Schools Act of 2010, passed on 2nd reading on July 11, 2017  (Enrolled version of Bill 22-29)." in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-1802.04">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-1802.04|(c)|(4)|(B)">
         <find>Fire Prevention Code.</find>
         <replace>Fire Prevention Code and <code-cite doc="D.C. Code" path="§38-825.01a">section 501a(b) of the Healthy Schools Act of 2010, passed on 2nd reading on July 11, 2017  (Enrolled version of Bill 22-29)</code-cite>.</replace>
       </codify:find-replace>
@@ -339,7 +339,7 @@
     <para>
       <num>(b)</num>
       <text>Strike the phrase "upon request." and insert the phrase "upon request. A public charter school shall, within 10 business days of submitting the report, publish the report on the public charter school's website or on the website of the public charter school's local education agency, and transmit the report to DGS for publication on DGS's website." in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-1802.04">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-1802.04|(c)|(4)|(B)">
         <find>upon request.</find>
         <replace>upon request. A public charter school shall, within 10 business days of submitting the report, publish the report on the public charter school's website or on the website of the public charter school's local education agency, and transmit the report to DGS for publication on DGS's website.</replace>
       </codify:find-replace>
@@ -475,7 +475,7 @@
       <text>Section 2 (D.C. Official Code § 7-2031) is amended by adding new paragraphs (3A) and (7A) to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§7-2031"/>
+          <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§7-2031|(3A)"/>
           <num>(3A)</num>
           <para>
             <num>(A)</num>
@@ -487,7 +487,7 @@
           </para>
         </para>
         <para>
-          <codify:insert after="(7)" codified:doc="D.C. Code" codified:path="§7-2031"/>
+          <codify:insert after="(7)" codified:doc="D.C. Code" codified:path="§7-2031|(7A)"/>
           <num>(7A)</num>
           <text>"Remediation steps" means, at a minimum, actions to:</text>
           <para>
@@ -700,7 +700,7 @@
     <text>Section 6 of the Office of Administrative Hearings Establishment Act of 2001, effective March 6, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.03), is amended by adding a new subsection (b-14) to read as follows:</text>
     <include>
       <para>
-        <codify:insert doc="D.C. Code" path="§2-1831.03" after="(b-13)" codified:doc="D.C. Code" codified:path="§2-1831.03"/>
+        <codify:insert doc="D.C. Code" path="§2-1831.03" after="(b-13)" codified:doc="D.C. Code" codified:path="§2-1831.03|(b-14)"/>
         <num>(b-14)</num>
         <text>In addition to those cases described in subsections (a), (b), (b-1), (b-2), (b-3), (b-4), (b-5), (b-6), (b-7), (b-8), (b-9), (b-10), (b-11), (b-12), and (b-13) of this section, <code-cite doc="D.C. Code" path="2|18A">this act</code-cite> shall apply to all adjudicated cases relating to <code-cite doc="D.C. Code" path="§38-825.01a">section 501a(b)(5)</code-cite> and <span codify:value="">section</span> <cite doc="D.C. Code" path="§38-825.01a">(6)(B)(i)</cite><span codify:value=""> of the Childhood Lead Exposure Prevention Amendment Act of 2017, passed on 2nd reading on July 11, 2017 (Enrolled version of Bill 22-29)</span>, and <code-cite doc="D.C. Code" path="§7-2051|(e)">section 21a(e) of the Child Development Facilities Regulation Act of 1998, passed on 2nd reading on July 11, 2017 (Enrolled version of Bill 22-29)</code-cite>.</text>
       </para>
@@ -711,7 +711,7 @@
   <section>
     <num>8</num>
     <text>Section 2(7) of the Language Access Act of 2004, effective June 19, 2004 (D.C. Law 15-167; D.C. Official Code § 2-1931(7)), is amended by striking the phrase "examinations, and other similar materials." and inserting the phrase "examinations, and other similar materials. The term "vital documents" shall include written information and notifications sent to parents or guardians pursuant to section 501a(a)(2), (b)(2)(E)(iii), or (b)(2)(E)(v) of the Healthy Schools Act of 2010, passed on 2nd reading on July 11, 2017 (Enrolled version of Bill 22-29)." in its place.</text>
-    <codify:find-replace doc="D.C. Code" path="§2-1931|(7)" count="1" codified:doc="D.C. Code" codified:path="§2-1931">
+    <codify:find-replace doc="D.C. Code" path="§2-1931|(7)" count="1" codified:doc="D.C. Code" codified:path="§2-1931|(7)">
       <find>examinations, and other similar materials.</find>
       <replace>examinations, and other similar materials. The term "vital documents" shall include written information and notifications sent to parents or guardians pursuant to <code-cite doc="D.C. Code" path="§38-825.01a">section 501a(a)(2)</code-cite>, <cite doc="D.C. Code" path="§38-825.01a">(b)(2)(E)(iii)</cite>, or <cite doc="D.C. Code" path="§38-825.01a">(b)(2)(E)(v)</cite><span codify:value=""> of the Healthy Schools Act of 2010, passed on 2nd reading on July 11, 2017 (Enrolled version of Bill 22-29)</span>.</replace>
     </codify:find-replace>
@@ -737,14 +737,14 @@
     <para>
       <num>(a)</num>
       <text>Sections 2, 3, 4, 7, 8, and 9 shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 22-21" path="§2|(a)" date="pending" history="false" codified:doc="D.C. Code" codified:path="§38-821.01"/>
-      <codify:applicability doc="D.C. Law 22-21" path="§2|(b)" date="pending" history="false" codified:doc="D.C. Code" codified:path="§38-825.01"/>
+      <codify:applicability doc="D.C. Law 22-21" path="§2|(a)" date="pending" history="false" codified:doc="D.C. Code" codified:path="§38-821.01|(1)"/>
+      <codify:applicability doc="D.C. Law 22-21" path="§2|(b)" date="pending" history="false" codified:doc="D.C. Code" codified:path="§38-825.01|(a)|(1)|(E)"/>
       <codify:applicability doc="D.C. Law 22-21" path="§2|(c)" date="notfunded" history="false" action="creation of" codified:doc="D.C. Code" codified:path="§38-825.01a"/>
-      <codify:applicability doc="D.C. Law 22-21" path="§3|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§38-1802.04"/>
-      <codify:applicability doc="D.C. Law 22-21" path="§3|(a)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§38-1802.04"/>
+      <codify:applicability doc="D.C. Law 22-21" path="§3|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§38-1802.04|(c)|(4)|(B)"/>
+      <codify:applicability doc="D.C. Law 22-21" path="§3|(a)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§38-1802.04|(c)|(4)|(B)"/>
       <codify:applicability doc="D.C. Law 22-21" path="§4" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§10-551.07c"/>
-      <codify:applicability doc="D.C. Law 22-21" path="§7" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§2-1831.03"/>
-      <codify:applicability doc="D.C. Law 22-21" path="§8" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§2-1931"/>
+      <codify:applicability doc="D.C. Law 22-21" path="§7" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§2-1831.03|(b-14)"/>
+      <codify:applicability doc="D.C. Law 22-21" path="§8" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§2-1931|(7)"/>
       <codify:applicability doc="D.C. Law 22-21" path="§9" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§7-2051"/>
     </para>
     <para>

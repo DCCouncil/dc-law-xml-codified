@@ -29,7 +29,7 @@
       <para codify:path="(3)">
         <num>(1)</num>
         <text>Paragraph (3) is amended by striking the phrase "District Department of the Environment" and inserting the phrase "Department of Energy and Environment" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-431">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-431|(3)">
           <find>District Department of the Environment</find>
           <replace>Department of Energy and Environment</replace>
         </codify:find-replace>
@@ -37,14 +37,14 @@
       <para codify:path="(10)">
         <num>(2)</num>
         <text>Paragraph (10) is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§8-431"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§8-431|(10)"/>
       </para>
       <para>
         <num>(3)</num>
         <text>A new paragraph (10A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(10)" codified:doc="D.C. Code" codified:path="§8-431"/>
+            <codify:insert after="(10)" codified:doc="D.C. Code" codified:path="§8-431|(10A)"/>
             <num>(10A)</num>
             <text>"Organic pesticide" means a pesticide including no active ingredients other than those published in the National List at 7 C.F.R. §§ 205.601 and 205.606.</text>
           </para>
@@ -66,7 +66,7 @@
       <para codify:path="(a)">
         <num>(2)</num>
         <text>Subsection (a) is amended by striking the phrase "or non-essential".</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-432">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-432|(a)">
           <find> or non-essential</find>
           <replace/>
         </codify:find-replace>
@@ -74,12 +74,12 @@
       <para codify:path="(b)">
         <num>(3)</num>
         <text>Subsection (b) is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§8-432"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§8-432|(b)"/>
       </para>
       <para codify:path="(c)|(2)">
         <num>(4)</num>
         <text>Subsection (c)(2) is amended by striking the phrase "reclassification." and inserting the phrase "reclassification. In making this determination, the Department may rely on the findings of state, national, or international government bodies or non-governmental organizations that publish lists of chemicals that are known or likely to be hazardous to human health or the environment." in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-432">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-432|(c)|(2)">
           <find>reclassification.</find>
           <replace>reclassification. In making this determination, the Department may rely on the findings of state, national, or international government bodies or non-governmental organizations that publish lists of chemicals that are known or likely to be hazardous to human health or the environment.</replace>
         </codify:find-replace>
@@ -152,7 +152,7 @@
     <para codify:path="§8-434|(c)">
       <num>(d)</num>
       <text>Section 5(c) (D.C. Official Code § 8-434(c)) is repealed.</text>
-      <codify:repeal codified:doc="D.C. Code" codified:path="§8-434"/>
+      <codify:repeal codified:doc="D.C. Code" codified:path="§8-434|(c)"/>
     </para>
   </section>
   <section>

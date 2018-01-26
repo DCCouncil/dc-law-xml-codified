@@ -32,7 +32,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
       <text>Subsection (a) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace path="(a)" codified:doc="D.C. Code" codified:path="§50-1731.06"/>
+          <codify:replace path="(a)" codified:doc="D.C. Code" codified:path="§50-1731.06|(a)"/>
           <num>(a)</num>
           <text>Except as provided in subsections (a-1) and (a-2) of this section, the penalty for a violation of <code-cite doc="D.C. Code" path="§50-1731.03">section 3</code-cite>, <code-cite doc="D.C. Code" path="§50-1731.04">4</code-cite>, or <code-cite doc="D.C. Code" path="§50-1731.05">5</code-cite> shall be a fine of $100.</text>
         </para>
@@ -44,17 +44,17 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
       <text>New subsections (a-1), (a-2), (a-3), and (a-4) are added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§50-1731.06"/>
+          <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§50-1731.06|(a-1)"/>
           <num>(a-1)</num>
           <text>For a violation of <code-cite doc="D.C. Code" path="§50-1731.03">section 3</code-cite>, <code-cite doc="D.C. Code" path="§50-1731.04">4</code-cite>, or <code-cite doc="D.C. Code" path="§50-1731.05">5</code-cite> when a person has had a prior violation of <code-cite doc="D.C. Code" path="§50-1731.03">section 3</code-cite>, <code-cite doc="D.C. Code" path="§50-1731.04">4</code-cite>, or <code-cite doc="D.C. Code" path="§50-1731.05">5</code-cite> within an 18-month period, the penalty shall be a fine of $150.</text>
         </para>
         <para>
-          <codify:insert after="(a-1)" codified:doc="D.C. Code" codified:path="§50-1731.06"/>
+          <codify:insert after="(a-1)" codified:doc="D.C. Code" codified:path="§50-1731.06|(a-2)"/>
           <num>(a-2)</num>
           <text>For a violation of <code-cite doc="D.C. Code" path="§50-1731.03">section 3</code-cite>, <code-cite doc="D.C. Code" path="§50-1731.04">4</code-cite>, or <code-cite doc="D.C. Code" path="§50-1731.05">5</code-cite> when a person has had 2 prior violations of <code-cite doc="D.C. Code" path="§50-1731.03">section 3</code-cite>, <code-cite doc="D.C. Code" path="§50-1731.04">4</code-cite>, or <code-cite doc="D.C. Code" path="§50-1731.05">5</code-cite> within an 18-month period, the penalty shall be a fine of $200, and the person's driver's license or privilege to operate a motor vehicle in the District shall be suspended by the Mayor for at least 30 days, but not more than 90 days.</text>
         </para>
         <para>
-          <codify:insert after="(a-2)" codified:doc="D.C. Code" codified:path="§50-1731.06"/>
+          <codify:insert after="(a-2)" codified:doc="D.C. Code" codified:path="§50-1731.06|(a-3)"/>
           <num>(a-3)</num>
           <para>
             <num>(1)</num>
@@ -70,7 +70,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
           </para>
         </para>
         <para>
-          <codify:insert after="(a-3)" codified:doc="D.C. Code" codified:path="§50-1731.06"/>
+          <codify:insert after="(a-3)" codified:doc="D.C. Code" codified:path="§50-1731.06|(a-4)"/>
           <num>(a-4)</num>
           <para>
             <num>(1)</num>
@@ -92,7 +92,7 @@ FUNDING NOTE - This law is Subject to Appropriations. See Fiscal Impact Statemen
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 21-196" path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-1731.06"/>
+      <codify:applicability doc="D.C. Law 21-196" path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-1731.06|(a)"/>
     </para>
     <para>
       <num>(b)</num>

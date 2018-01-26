@@ -694,14 +694,14 @@
       <para>
         <num>(a)</num>
         <text>The lead-in language is amended by striking the phrase "the training course shall be designed" and inserting the phrase "the training course and any refresher course provided by the Department of For-Hire Vehicles shall be designed" in its place.</text>
-        <codify:find-replace path="text" find="the training course shall be designed" replace="the training course and any refresher course provided by the Department of For-Hire Vehicles shall be designed" count="1" codified:doc="D.C. Code" codified:path="§47-2829"/>
+        <codify:find-replace path="text" find="the training course shall be designed" replace="the training course and any refresher course provided by the Department of For-Hire Vehicles shall be designed" count="1" codified:doc="D.C. Code" codified:path="§47-2829|(e)|(2)|(A)"/>
       </para>
       <para>
         <num>(b)</num>
         <text>Sub-subparagraph (iii) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="(iii)" codified:doc="D.C. Code" codified:path="§47-2829"/>
+            <codify:replace path="(iii)" codified:doc="D.C. Code" codified:path="§47-2829|(e)|(2)|(A)|(iii)"/>
             <num>(iii)</num>
             <text>District traffic laws and regulations and the penalties for violating these laws and regulations, including:</text>
             <para>
@@ -873,7 +873,7 @@
         <text>New subsections (a-1) and (a-2) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§50-205"/>
+            <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§50-205|(a-1)"/>
             <num>(a-1)</num>
             <text>Effective January 1, 2017, all heavy-duty vehicles registered in the District shall be equipped with the following:</text>
             <para>
@@ -886,7 +886,7 @@
             </para>
           </para>
           <para>
-            <codify:insert after="(a-1)" codified:doc="D.C. Code" codified:path="§50-205"/>
+            <codify:insert after="(a-1)" codified:doc="D.C. Code" codified:path="§50-205|(a-2)"/>
             <num>(a-2)</num>
             <text>Effective January 1, 2019, all heavy-duty vehicles registered in the District shall be equipped with side-underrun guards to prevent bicyclists, other vehicles, or pedestrians from sliding under rear wheels.</text>
           </para>
@@ -1054,7 +1054,7 @@
         <text>Section 3d (D.C. Official Code § 50-2206.13) is amended by adding a new subsection (d-1) to read as follows:</text>
         <include>
           <para>
-            <codify:insert path="§50-2206.13" after="(d)" codified:doc="D.C. Code" codified:path="§50-2206.13"/>
+            <codify:insert path="§50-2206.13" after="(d)" codified:doc="D.C. Code" codified:path="§50-2206.13|(d-1)"/>
             <num>(d-1)</num>
             <para>
               <num>(1)</num>
@@ -1073,7 +1073,7 @@
         <text>Section 3f (D.C. Official Code § 50-2206.15) is amended by adding a new subsection (c-1) to read as follows:</text>
         <include>
           <para>
-            <codify:insert path="§50-2206.15" after="(c)" codified:doc="D.C. Code" codified:path="§50-2206.15"/>
+            <codify:insert path="§50-2206.15" after="(c)" codified:doc="D.C. Code" codified:path="§50-2206.15|(c-1)"/>
             <num>(c-1)</num>
             <para>
               <num>(1)</num>
@@ -1093,14 +1093,14 @@
         <para>
           <num>(1)</num>
           <text>Subsection (a) is amended by striking the phrase "The Mayor or his or her designated agent" and inserting the phrase "Except as provided in subsection (a-1) of this section, the Mayor or his or her designated agent" in its place.</text>
-          <codify:find-replace path="(a)" find="The Mayor or his or her designated agent" replace="Except as provided in subsection (a-1) of this section, the Mayor or his or her designated agent" count="1" codified:doc="D.C. Code" codified:path="§50-2206.55"/>
+          <codify:find-replace path="(a)" find="The Mayor or his or her designated agent" replace="Except as provided in subsection (a-1) of this section, the Mayor or his or her designated agent" count="1" codified:doc="D.C. Code" codified:path="§50-2206.55|(a)"/>
         </para>
         <para>
           <num>(2)</num>
           <text>A new subsection (a-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§50-2206.55"/>
+              <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§50-2206.55|(a-1)"/>
               <num>(a-1)</num>
               <para>
                 <num>(1)</num>

@@ -675,7 +675,7 @@
         <text>A new paragraph (55) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(54)" codified:doc="D.C. Code" codified:path="§1-523.01"/>
+            <codify:insert after="(54)" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(55)"/>
             <num>(55)</num>
             <text>The District of Columbia State Athletics Commission established pursuant to <code-cite doc="D.C. Code" path="|38|26A-i">the District of Columbia State Athletics Commission Establishment and State Athletic Association Reorganization Act of 2016, passed on 2nd reading on December 6, 2016 (Enrolled version of Bill 21-601)</code-cite>.</text>
           </para>
@@ -691,7 +691,7 @@
       <para codify:path="(24)">
         <num>(a)</num>
         <text>Paragraph (23) is amended by striking the phrase "; and" at the end and inserting a semicolon in its place.</text>
-        <codify:find-replace count="1" technical="true" codified:doc="D.C. Code" codified:path="§1-604.06">
+        <codify:find-replace count="1" technical="true" codified:doc="D.C. Code" codified:path="§1-604.06|(b)|(24)">
           <find>; and</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -699,7 +699,7 @@
       <para codify:path="(25)">
         <num>(b)</num>
         <text>Paragraph (24) is amended by striking the period at the end and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace count="1" position="last" technical="true" codified:doc="D.C. Code" codified:path="§1-604.06">
+        <codify:find-replace count="1" position="last" technical="true" codified:doc="D.C. Code" codified:path="§1-604.06|(b)|(25)">
           <find>n.</find>
           <replace>n; and</replace>
         </codify:find-replace>
@@ -709,7 +709,7 @@
         <text>A new paragraph (25) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert warning="false" codified:doc="D.C. Code" codified:path="§1-604.06"/>
+            <codify:insert warning="false" codified:doc="D.C. Code" codified:path="§1-604.06|(b)|(26)"/>
             <num codify:value="(26)">(25)</num>
             <text>For the Director of the District of Columbia State Athletic Association ("DCSAA"), the personnel authority shall be the District of Columbia State Athletics Commission, and for any other employee of the DCSAA, the personnel authority shall be the Director of the DCSAA.</text>
           </para>
@@ -727,7 +727,7 @@
         <text>Section 2 (D.C. Official Code § 38-841.01) is amended by adding a new paragraph (3A) to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§38-841.01"/>
+            <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§38-841.01|(3A)"/>
             <num>(3A)</num>
             <text>"DCSAA" means the District of Columbia State Athletic Association.</text>
           </para>
@@ -745,7 +745,7 @@
           <para>
             <num>(A)</num>
             <text>Strike the phrase "to OSSE" and insert the phrase "to DCSAA" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-841.03">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-841.03|(c)">
               <find>to OSSE</find>
               <replace>to DCSAA</replace>
             </codify:find-replace>
@@ -753,7 +753,7 @@
           <para>
             <num>(B)</num>
             <text>Strike the phrase "OSSE-approved" wherever it appears and insert the phrase "DCSAA-approved" in its place.</text>
-            <codify:find-replace count="3" codified:doc="D.C. Code" codified:path="§38-841.03">
+            <codify:find-replace count="3" codified:doc="D.C. Code" codified:path="§38-841.03|(c)">
               <find>OSSE-approved</find>
               <replace>DCSAA-approved</replace>
             </codify:find-replace>
@@ -762,7 +762,7 @@
         <para codify:path="(d)">
           <num>(2)</num>
           <text>Subsection (d) is amended by striking the acronym "OSSE" both times it appears and inserting the acronym "DCSAA" in its place.</text>
-          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§38-841.03">
+          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§38-841.03|(d)">
             <find>OSSE</find>
             <replace>DCSAA</replace>
           </codify:find-replace>
@@ -773,7 +773,7 @@
       <para codify:doc="D.C. Code" codify:path="§38-841.05|(a)">
         <num>(c)</num>
         <text>Section 6(a) (D.C. Official Code § 38-841.05(a)) is amended by striking the acronym "OSSE" both times it appears and inserting the acronym "DCSAA" in its place.</text>
-        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§38-841.05">
+        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§38-841.05|(a)">
           <find>OSSE</find>
           <replace>DCSAA</replace>
         </codify:find-replace>
@@ -802,7 +802,7 @@
           <text>Subsection (a) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§38-2671"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§38-2671|(a)"/>
               <num>(a)</num>
               <text>Notwithstanding any other provision of law, the District of Columbia State Athletic Association ("DCSAA") may enter into written agreements for advertisements and sponsorships for a DCSAA-sponsored competition to supplement local funding of the DCSAA.</text>
             </para>
@@ -812,12 +812,12 @@
         <para codify:path="(b)">
           <num>(2)</num>
           <text>Subsection (b) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§38-2671"/>
+          <codify:repeal codified:doc="D.C. Code" codified:path="§38-2671|(b)"/>
         </para>
         <para codify:path="(h)">
           <num>(3)</num>
           <text>Subsection (h) is amended by striking the phrase "The Chief Financial Officer shall deposit all cash proceeds received from advertisements and sponsorships pursuant to this section to the credit of OSSE" and inserting the phrase "All cash proceeds received from advertisements and sponsorships pursuant to this section shall be deposited to the credit of DCSAA" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2671">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2671|(h)">
             <find>The Chief Financial Officer shall deposit all cash proceeds received from advertisements and sponsorships pursuant to this section to the credit of OSSE</find>
             <replace>All cash proceeds received from advertisements and sponsorships pursuant to this section shall be deposited to the credit of DCSAA</replace>
           </codify:find-replace>
@@ -833,7 +833,7 @@
           <text>Subsection (a) is amended to read as follows:</text>
           <include>
             <para codify:path="(a)">
-              <codify:replace codified:doc="D.C. Code" codified:path="§38-2672"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§38-2672|(a)"/>
               <num>(a)</num>
               <text>There is established as a special fund the State Athletic Activities, Programs, and Office Fund ("Fund"), which shall be used solely as provided in subsection (b) of this section, and which shall be administered by the DCSAA.</text>
             </para>
@@ -843,7 +843,7 @@
         <para codify:path="(b)|(1)">
           <num>(2)</num>
           <text>Subsection (b)(1) is amended by striking the phrase "Statewide Director of Athletics" and inserting the phrase "Director of the DCSAA" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2672">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2672|(b)|(1)">
             <find>Statewide Director of Athletics</find>
             <replace>Director of the DCSAA</replace>
           </codify:find-replace>
@@ -851,7 +851,7 @@
         <para codify:path="(c)|(2)">
           <num>(3)</num>
           <text>Subsection (c)(2) is amended by striking the phrase "SAO or DCSAA, or both" and inserting the phrase "DCSAA" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2672">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2672|(c)|(2)">
             <find>SAO or DCSAA, or both</find>
             <replace>DCSAA</replace>
           </codify:find-replace>

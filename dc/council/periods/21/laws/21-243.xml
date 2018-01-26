@@ -26,7 +26,7 @@
     <para codify:path="§2-1215.02|(24)|(B)">
       <num>(a)</num>
       <text>Section 3(24)(B) (D.C. Official Code § 2-1215.02(24)(B)) is amended by striking the phrase "and Capitol Riverfront BIDs," and inserting the phrase "Capitol Riverfront, and Downtown BIDs," in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.02">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.02|(24)|(B)">
         <find>and Capitol Riverfront BIDs,</find>
         <replace>Capitol Riverfront, and Downtown BIDs,</replace>
       </codify:find-replace>
@@ -34,7 +34,7 @@
     <para codify:path="§2-1215.09b|(a)|(1)">
       <num>(b)</num>
       <text>Section 10b(a)(1) (D.C. Official Code § 2-1215.09b(a)(1)) is amended by striking the phrase "the BID;" and inserting the phrase "the BID or the board of directors of any condominium association on behalf of a real property within the geographic boundaries of the Downtown BID petition to join the Downtown BID;" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.09b">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.09b|(a)|(1)">
         <find>the BID;</find>
         <replace>the BID or the board of directors of any condominium association on behalf of a real property within the geographic boundaries of the Downtown BID petition to join the Downtown BID;</replace>
       </codify:find-replace>
@@ -45,7 +45,7 @@
       <para codify:path="(ii)">
         <num>(1)</num>
         <text>Sub-subparagraph (ii) is amended by striking the word "and" at the end.</text>
-        <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§2-1215.51">
+        <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§2-1215.51|(c)|(3)|(A)|(ii)">
           <find>and</find>
           <replace/>
         </codify:find-replace>
@@ -53,7 +53,7 @@
       <para codify:path="(iii)">
         <num>(2)</num>
         <text>Sub-subparagraph (iii) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§2-1215.51">
+        <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§2-1215.51|(c)|(3)|(A)|(iii)">
           <find>.</find>
           <replace>; and</replace>
         </codify:find-replace>
@@ -63,7 +63,7 @@
         <text>A new sub-subparagraph (iv) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(iii)" codified:doc="D.C. Code" codified:path="§2-1215.51"/>
+            <codify:insert after="(iii)" codified:doc="D.C. Code" codified:path="§2-1215.51|(c)|(3)|(A)|(iv)"/>
             <num>(iv)</num>
             <text>Subject to paragraph (2) of this subsection, the amount of $120 per unit annually for nonexempt residential properties; provided, that for a residential unit restricted to residents based upon income pursuant to a federal or District affordable housing program, the BID tax due on the unit shall be computed by applying the percentage of area median income that an eligible household must meet to participate in the affordable housing program for the unit to the amount of the BID tax that would otherwise be due.</text>
           </para>

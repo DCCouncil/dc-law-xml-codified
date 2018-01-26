@@ -88,7 +88,7 @@
       <text>Section 217 (D.C. Official Code § 42-3502.17) is amended by adding a new subsection (c) to read as follows:</text>
       <include>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§42-3502.17"/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§42-3502.17|(c)"/>
           <num>(c)</num>
           <para>
             <num>(1)</num>
@@ -221,7 +221,7 @@
       <text>Section 901 (D.C. Official Code § 42-3509.01) is amended by adding a new subsection (a-1) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§42-3509.01" after="(a-1)" codified:doc="D.C. Code" codified:path="§42-3509.01"/>
+          <codify:insert doc="D.C. Code" path="§42-3509.01" after="(a-1)" codified:doc="D.C. Code" codified:path="§42-3509.01|(a-2)"/>
           <num>(a-2)</num>
           <text>A housing provider found to have violated any provision of section 533, section 534, or section 535, or section 304 of Title 14 of the Housing Regulations of the District of Columbia, issued August 11, 1955 (C.C. 55-1503; 14 DCMR § 304), shall be liable to the tenant for treble damages if the housing provider is found to have acted in bad faith.</text>
         </para>

@@ -230,7 +230,7 @@
     <para>
       <num>(b)</num>
       <text>Section 374(b)(2) (D.C. Official Code § 4-1303.74(b)(2)) is amended by striking the word "communication" and inserting the word "complaints" in its place.</text>
-      <codify:find-replace doc="D.C. Code" path="§4-1303.74|(b)|(2)" count="1" codified:doc="D.C. Code" codified:path="§4-1303.74">
+      <codify:find-replace doc="D.C. Code" path="§4-1303.74|(b)|(2)" count="1" codified:doc="D.C. Code" codified:path="§4-1303.74|(b)|(2)">
         <find>communication</find>
         <replace>complaints</replace>
       </codify:find-replace>

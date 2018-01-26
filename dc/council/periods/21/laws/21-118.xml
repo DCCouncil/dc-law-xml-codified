@@ -204,7 +204,7 @@
     <para>
       <num>(d)</num>
       <text>Section 5(a)(5) (D.C. Official Code § 6-807(a)(5)) is amended by striking the phrase "effected, then if published on 3 consecutive days in a daily newspaper published in the District of Columbia; or" and inserting the phrase "effected, or if no address is known or can be ascertained by reasonable diligence, by publishing the notice on 3 consecutive days in a daily newspaper published in the District of Columbia or by posting a copy of the notice in a conspicuous place in or about the structure affected by such notice; or" in its place.</text>
-      <codify:find-replace technical="true" path="§7|(a)" find="effected, then if published on 3 consecutive days in a daily newspaper published in the District of Columbia; or" replace="effected, or if no address is known or can be ascertained by reasonable diligence, by publishing the notice on 3 consecutive days in a daily newspaper published in the District of Columbia or by posting a copy of the notice in a conspicuous place in or about the structure affected by such notice; or" count="1" codified:doc="D.C. Code" codified:path="§6-807"/>
+      <codify:find-replace technical="true" path="§7|(a)" find="effected, then if published on 3 consecutive days in a daily newspaper published in the District of Columbia; or" replace="effected, or if no address is known or can be ascertained by reasonable diligence, by publishing the notice on 3 consecutive days in a daily newspaper published in the District of Columbia or by posting a copy of the notice in a conspicuous place in or about the structure affected by such notice; or" count="1" codified:doc="D.C. Code" codified:path="§6-807|(a)"/>
     </para>
     <para>
       <num>(e)</num>
@@ -218,7 +218,7 @@
     <para>
       <num>(a)</num>
       <text>Section 2(a)(1) (D.C. Official Code § 6-902(a)(1)) is amended by striking the phrase "to examine the habitability and sanitary condition of buildings in the District of Columbia, to determine which such buildings are in such insanitary condition as to endanger the lives or health of the occupants thereof or of persons living in the vicinity, and".</text>
-      <codify:find-replace path="§2|(a)|(1)" find="to examine the habitability and sanitary condition of buildings in the District of Columbia, to determine which such buildings are in such insanitary condition as to endanger the lives or health of the occupants thereof or of persons living in the vicinity, and" replace="" count="1" codified:doc="D.C. Code" codified:path="§6-902"/>
+      <codify:find-replace path="§2|(a)|(1)" find="to examine the habitability and sanitary condition of buildings in the District of Columbia, to determine which such buildings are in such insanitary condition as to endanger the lives or health of the occupants thereof or of persons living in the vicinity, and" replace="" count="1" codified:doc="D.C. Code" codified:path="§6-902|(a)|(1)"/>
     </para>
     <para>
       <num>(b)</num>
@@ -282,7 +282,7 @@
       </text>
       <include>
         <para>
-          <codify:replace path="§10|(a)" codified:doc="D.C. Code" codified:path="§6-910"/>
+          <codify:replace path="§10|(a)" codified:doc="D.C. Code" codified:path="§6-910|(a)"/>
           <num>(a)</num>
           <para>
             <num>(1)</num>
@@ -761,14 +761,14 @@
       <para>
         <num>(2)</num>
         <text>The newly designated subsection (a) is amended by striking the phrase "The Office of Zoning" and inserting the phrase "Except as provided in subsection (b) of this section, the Office of Zoning" in its place.</text>
-        <codify:find-replace path="(a)" find="The Office of Zoning" replace="Except as provided in subsection (b) of this section, the Office of Zoning" count="1" codified:doc="D.C. Code" codified:path="§6-1406.02"/>
+        <codify:find-replace path="(a)" find="The Office of Zoning" replace="Except as provided in subsection (b) of this section, the Office of Zoning" count="1" codified:doc="D.C. Code" codified:path="§6-1406.02|(a)"/>
       </para>
       <para>
         <num>(3)</num>
         <text>A new subsection (b) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§6-1406.02"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§6-1406.02|(b)"/>
             <num>(b)</num>
             <text>The Building Code Official may amend the administrative fees for the issuance of compliance letters by rulemaking pursuant to 
               <code-cite doc="D.C. Code" path="|2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1202; D.C. Official Code § 2-501 et seq.)</code-cite>.
@@ -796,14 +796,14 @@
       <para>
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the phrase "Except as provided in paragraph 2" and inserting the phrase "Except as provided in paragraphs (2) and (3)" in its place.</text>
-        <codify:find-replace path="(1)" find="Except as provided in paragraph (2)" replace="Except as provided in paragraphs (2) and (3)" count="1" codified:doc="D.C. Code" codified:path="§42-3131.01"/>
+        <codify:find-replace path="(1)" find="Except as provided in paragraph (2)" replace="Except as provided in paragraphs (2) and (3)" count="1" codified:doc="D.C. Code" codified:path="§42-3131.01|(a)|(1)"/>
       </para>
       <para>
         <num>(2)</num>
         <text>A new paragraph (3) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§42-3131.01"/>
+            <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§42-3131.01|(a)|(3)"/>
             <num>(3)</num>
             <text>Summary correction of certain violations without prior notice to the owner is authorized pursuant to subsection (c)(1) of this section.</text>
           </para>
@@ -818,7 +818,7 @@
         <para>
           <num>(c)</num>
           <para>
-            <codify:replace path="(c)|(1)" codified:doc="D.C. Code" codified:path="§42-3131.01"/>
+            <codify:replace path="(c)|(1)" codified:doc="D.C. Code" codified:path="§42-3131.01|(c)|(1)"/>
             <num>(1)</num>
             <para>
               <num>(A)</num>

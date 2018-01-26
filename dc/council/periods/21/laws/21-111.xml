@@ -26,14 +26,14 @@
     <para>
       <num>(a)</num>
       <text>Subsection (f) is amended by striking the word "ascribed" and inserting the word "described" in its place.</text>
-      <codify:find-replace path="(f)" find="ascribed" replace="described" codified:doc="D.C. Code" codified:path="§32-1535"/>
+      <codify:find-replace path="(f)" find="ascribed" replace="described" codified:doc="D.C. Code" codified:path="§32-1535|(f)"/>
     </para>
     <para>
       <num>(b)</num>
       <text>A new subsection (f-1) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(f)" codified:doc="D.C. Code" codified:path="§32-1535"/>
+          <codify:insert after="(f)" codified:doc="D.C. Code" codified:path="§32-1535|(f-1)"/>
           <num>(f-1)</num>
           <text>If the person entitled to compensation institutes proceedings within the period described in subsection (b) of this section and recovers an amount against a third person, the costs of litigation and attorneys’ fees shall be proportionally shared between the person entitled to compensation, or the employee’s eligible survivors or legal representative, and the employer relative to the amount each received in the settlement against the third person.</text>
         </para>

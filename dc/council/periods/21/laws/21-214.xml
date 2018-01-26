@@ -31,12 +31,12 @@
         <text>New paragraphs (6A) and (6B) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(6)" codified:doc="D.C. Code" codified:path="§31-101"/>
+            <codify:insert after="(6)" codified:doc="D.C. Code" codified:path="§31-101|(6A)"/>
             <num>(6A)</num>
             <text>"Licensee" means the holder of a SLS license.</text>
           </para>
           <para>
-            <codify:insert after="(6A)" codified:doc="D.C. Code" codified:path="§31-101"/>
+            <codify:insert after="(6A)" codified:doc="D.C. Code" codified:path="§31-101|(6B)"/>
             <num>(6B)</num>
             <text>"Ombudsman" means the position of Student Loan Ombudsman established within the Department by <code-cite doc="D.C. Code" path="§31-106.01">section 7a</code-cite>.</text>
           </para>
@@ -48,22 +48,22 @@
         <text>New paragraphs (8), (9), (10), (11), and (12) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(7)" codified:doc="D.C. Code" codified:path="§31-101"/>
+            <codify:insert after="(7)" codified:doc="D.C. Code" codified:path="§31-101|(8)"/>
             <num>(8)</num>
             <text>"Student education loan" means a loan obtained for personal use to finance education or other school-related expenses.</text>
           </para>
           <para>
-            <codify:insert after="(8)" codified:doc="D.C. Code" codified:path="§31-101"/>
+            <codify:insert after="(8)" codified:doc="D.C. Code" codified:path="§31-101|(9)"/>
             <num>(9)</num>
             <text>"Student loan borrower" means a resident of the District of Columbia who has received or agreed to pay a student education loan, or a person who shares legal responsibility with such a resident for the repayment of a student education loan.</text>
           </para>
           <para>
-            <codify:insert after="(9)" codified:doc="D.C. Code" codified:path="§31-101"/>
+            <codify:insert after="(9)" codified:doc="D.C. Code" codified:path="§31-101|(10)"/>
             <num>(10)</num>
             <text>"Student loan servicer" means a person or entity, whether located within or outside the District, responsible for the servicing of a student education loan of a student loan borrower.</text>
           </para>
           <para>
-            <codify:insert after="(10)" codified:doc="D.C. Code" codified:path="§31-101"/>
+            <codify:insert after="(10)" codified:doc="D.C. Code" codified:path="§31-101|(11)"/>
             <num>(11)</num>
             <text>"Student loan servicing" means the process of collecting payments and interest and performing other administrative tasks associated with maintaining a student education loan. The term "student loan servicing" includes:</text>
             <para>
@@ -84,7 +84,7 @@
             </para>
           </para>
           <para>
-            <codify:insert after="(11)" codified:doc="D.C. Code" codified:path="§31-101"/>
+            <codify:insert after="(11)" codified:doc="D.C. Code" codified:path="§31-101|(12)"/>
             <num>(12)</num>
             <text>"SLS license" means the business license issued by the Department pursuant to <code-cite doc="D.C. Code" path="§31-106.02">section 7b</code-cite> that is required for a student loan servicer.</text>
           </para>

@@ -25,7 +25,7 @@
     <text>Section 47-1002 of the District of Columbia Official Code is amended by adding a new paragraph (10A) to read as follows:</text>
     <include>
       <para>
-        <codify:insert after="(10)" codified:doc="D.C. Code" codified:path="§47-1002"/>
+        <codify:insert after="(10)" codified:doc="D.C. Code" codified:path="§47-1002|(10A)"/>
         <num>(10A)</num>
         <para>
           <num>(A)</num>
@@ -41,7 +41,7 @@
     <codify:not-funded-anno applicability-path="§3"/>
   </section>
   <section>
-    <codify:applicability date="10/8/16" history="false" codified:doc="D.C. Code" codified:path="§47-1002"/>
+    <codify:applicability date="10/8/16" history="false" codified:doc="D.C. Code" codified:path="§47-1002|(10A)"/>
     <num>3</num>
     <heading>Applicability.</heading>
     <para>

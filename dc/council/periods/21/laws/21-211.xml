@@ -32,7 +32,7 @@
         <text>A new paragraph (1A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§42-3531.04"/>
+            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§42-3531.04|(1A)"/>
             <num>(1A)</num>
             <text>"Closure order" means any order by a District agency requiring relocation of tenants.</text>
           </para>
@@ -44,7 +44,7 @@
         <text>A new paragraph (2A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§42-3531.04"/>
+            <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§42-3531.04|(2A)"/>
             <num>(2A)</num>
             <text>"Owner" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§47-802|(5)">D.C. Official Code § 47-802(5)</code-cite>.</text>
           </para>
@@ -271,7 +271,7 @@
     <text>Section 6 of the Office of Administrative Hearings Establishment Act of 2001, effective March 6, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.03), is amended by adding a new subsection (b-11) to read as follows:</text>
     <include>
       <para>
-        <codify:insert doc="D.C. Code" path="§2-1831.03" after="(b-10)" codified:doc="D.C. Code" codified:path="§2-1831.03"/>
+        <codify:insert doc="D.C. Code" path="§2-1831.03" after="(b-10)" codified:doc="D.C. Code" codified:path="§2-1831.03|(b-11)"/>
         <num>(b-11)</num>
         <text>In addition to those cases described in subsections (a), (b), (b-1), (b-2), (b-3), (b-4), (b-5), (b-6), (b-7), (b-8), (b-9), and (b-10), <code-cite doc="D.C. Code" path="2|18A">this act</code-cite> shall apply to all adjudicated cases involving the reimbursement of emergency housing and relocation assistance as authorized by <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§42-3531.11" codify:value="42-3531.11">2068c </code-cite> through <code-cite doc="D.C. Code" path="§42-3531.16" codify:value="42-3531.16">2068h of the Office of the Chief Tenant Advocate Establishment Act of 2005, passed on 2nd reading on November 15, 2016 (Enrolled version of Bill 21-656</code-cite>).</text>
         <codify:not-funded-anno applicability-path="§5"/>
@@ -284,7 +284,7 @@
   <section>
     <num>4</num>
     <text>Section 16(g) of the Business Improvement Districts Act of 1996, effective May 29, 1996 (D.C. Law 11-134; D.C. Official Code § 2-1215.15(g)), is amended by striking the phrase "any delinquent water and sewer charges; and any delinquent litter control nuisance fines," and inserting the phrase "any delinquent water and sewer charges; any lien for tenant relocation expenses under section 2068g of the Office of the Chief Tenant Advocate Establishment Act of 2005, passed on 2nd reading on November 15, 2016 (Enrolled version of Bill 21-656); and any delinquent litter control nuisance fines," in its place.</text>
-    <codify:find-replace doc="D.C. Code" path="§2-1215.15|(g)" count="1" codified:doc="D.C. Code" codified:path="§2-1215.15">
+    <codify:find-replace doc="D.C. Code" path="§2-1215.15|(g)" count="1" codified:doc="D.C. Code" codified:path="§2-1215.15|(g)">
       <find>any delinquent water and sewer charges; and any delinquent litter control nuisance fines,</find>
       <replace>any delinquent water and sewer charges; any lien for tenant relocation expenses under <code-cite doc="D.C. Code" path="§42-3531.16">section 2068g of the Office of the Chief Tenant Advocate Establishment Act of 2005, passed on 2nd reading on November 15, 2016 (Enrolled version of Bill 21-656)</code-cite>; and any delinquent litter control nuisance fines,</replace>
     </codify:find-replace>

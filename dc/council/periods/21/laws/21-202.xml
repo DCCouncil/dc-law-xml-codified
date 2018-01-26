@@ -26,7 +26,7 @@
     <para>
       <num>(a)</num>
       <text>Strike the phrase "The Commissioners may" and insert the phrase "The Mayor may" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1703">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1703|(d)">
         <find>The Council of the District of Columbia may</find>
         <replace>The Mayor may</replace>
       </codify:find-replace>
@@ -34,7 +34,7 @@
     <para>
       <num>(b)</num>
       <text>Strike the phrase "$1,500 in money or property" and insert the phrase "$25,000 in money or property, adjusted once a year on October 1, in accordance with the consumer price index for the Washington-Baltimore Metropolitan Statistical Area, or any successor index, as published by the United States Department of Labor, Bureau of Labor Statistics, or any successor agency" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1703">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1703|(d)">
         <find>$1,500 in money or property</find>
         <replace>$25,000 in money or property, adjusted once a year on October 1, in accordance with the consumer price index for the Washington-Baltimore Metropolitan Statistical Area, or any successor index, as published by the United States Department of Labor, Bureau of Labor Statistics, or any successor agency</replace>
       </codify:find-replace>

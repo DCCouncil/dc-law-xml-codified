@@ -53,12 +53,12 @@
         <para>
           <num>(A)</num>
           <text>The existing text is designated as sub-subparagraph (i).</text>
-          <codify:redesignate-para num-value="(i)" codified:doc="D.C. Code" codified:path="§50-1401.01"/>
+          <codify:redesignate-para num-value="(i)" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(1)|(A-i)"/>
         </para>
         <para>
           <num>(B)</num>
           <text>The newly designated sub-subparagraph (i) is amended by striking the phrase "2015, an applicant" and inserting the phrase "2015, except as provided in sub-subparagraph (ii) of this subparagraph, an applicant" in its place.</text>
-          <codify:find-replace path="(i)" count="1" codified:doc="D.C. Code" codified:path="§50-1401.01">
+          <codify:find-replace path="(i)" count="1" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(1)|(A-i)">
             <find>2015, an applicant</find>
             <replace>2015, except as provided in sub-subparagraph (ii) of this subparagraph, an applicant</replace>
           </codify:find-replace>
@@ -68,12 +68,12 @@
           <text>New sub-subparagraphs (ii) and (iii) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(i)" codified:doc="D.C. Code" codified:path="§50-1401.01"/>
+              <codify:insert after="(i)" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(1)|(A-i)"/>
               <num>(ii)</num>
               <text>The fee described in sub-subparagraph (i) of this subparagraph shall be waived for an individual whose gross annual income is equal to or less than 200% of the federal poverty guideline.</text>
             </para>
             <para>
-              <codify:insert after="(ii)" codified:doc="D.C. Code" codified:path="§50-1401.01"/>
+              <codify:insert after="(ii)" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(1)|(A-i)"/>
               <num>(iii)</num>
               <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="|2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, may issue rules to implement sub-subparagraph (ii) of this subparagraph.
               </text>
@@ -88,12 +88,12 @@
         <para>
           <num>(A)</num>
           <text>The existing text is designated as sub-subparagraph (i).</text>
-          <codify:redesignate-para num-value="(i)" codified:doc="D.C. Code" codified:path="§50-1401.01"/>
+          <codify:redesignate-para num-value="(i)" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(2)|(A)"/>
         </para>
         <para>
           <num>(B)</num>
           <text>The newly designated sub-subparagraph (i) is amended by striking the phrase "The applicant shall" and inserting the phrase "Except as provided in sub-subparagraph (ii) of this subparagraph, the applicant shall" in its place.</text>
-          <codify:find-replace path="(i)" count="1" codified:doc="D.C. Code" codified:path="§50-1401.01">
+          <codify:find-replace path="(i)" count="1" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(2)|(A)">
             <find>The applicant shall</find>
             <replace>Except as provided in sub-subparagraph (ii) of this subparagraph, the applicant shall</replace>
           </codify:find-replace>
@@ -103,12 +103,12 @@
           <text>New sub-subparagraphs (ii) and (iii) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(i)" codified:doc="D.C. Code" codified:path="§50-1401.01"/>
+              <codify:insert after="(i)" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(2)|(A)"/>
               <num>(ii)</num>
               <text>The fee described in sub-subparagraph (i) of this subparagraph shall be waived for an individual whose gross annual income is equal to or less than 200% of the federal poverty guideline.</text>
             </para>
             <para>
-              <codify:insert after="(ii)" codified:doc="D.C. Code" codified:path="§50-1401.01"/>
+              <codify:insert after="(ii)" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(2)|(A)"/>
               <num>(iii)</num>
               <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="|2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, may issue rules to implement sub-subparagraph (ii) of this subparagraph.
               </text>
@@ -123,12 +123,12 @@
         <para>
           <num>(A)</num>
           <text>The existing text is designated as sub-subparagraph (i).</text>
-          <codify:redesignate-para num-value="(i)" codified:doc="D.C. Code" codified:path="§50-1401.01"/>
+          <codify:redesignate-para num-value="(i)" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(2A)|(A)"/>
         </para>
         <para>
           <num>(B)</num>
           <text>The newly designated sub-subparagraph (i) is amended by striking the phrase "The applicant shall" and inserting the phrase "Except as provided in sub-subparagraph (ii) of this subparagraph, the applicant shall" in its place.</text>
-          <codify:find-replace path="(i)" count="1" codified:doc="D.C. Code" codified:path="§50-1401.01">
+          <codify:find-replace path="(i)" count="1" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(2A)|(A)">
             <find>The applicant shall</find>
             <replace>Except as provided in sub-subparagraph (ii) of this subparagraph, the applicant shall</replace>
           </codify:find-replace>
@@ -138,12 +138,12 @@
           <text>New sub-subparagraphs (ii) and (iii) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(i)" codified:doc="D.C. Code" codified:path="§50-1401.01"/>
+              <codify:insert after="(i)" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(2A)|(A)"/>
               <num>(ii)</num>
               <text>The fee described in sub-subparagraph (i) of this subparagraph shall be waived for an individual whose gross annual income is equal to or less than 200% of the federal poverty guideline.</text>
             </para>
             <para>
-              <codify:insert after="(ii)" codified:doc="D.C. Code" codified:path="§50-1401.01"/>
+              <codify:insert after="(ii)" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(2A)|(A)"/>
               <num>(iii)</num>
               <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="|2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, may issue rules to implement sub-subparagraph (ii) of this subparagraph.
               </text>
@@ -159,7 +159,7 @@
       <text>Section 8a(a) (D.C. Official Code § 50-1401.03(a)) is amended by adding a new paragraph (1A) to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§50-1401.03"/>
+          <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§50-1401.03|(a)|(1A)"/>
           <num>(1A)</num>
           <para>
             <num>(A)</num>
@@ -181,7 +181,7 @@
       <para>
         <num>(1)</num>
         <text>Subsection (h) is amended by striking the phrase "The Mayor" and inserting the phrase "Except as provided in subsection (i) of this section, the Mayor" in its place.</text>
-        <codify:find-replace path="(h)" count="1" codified:doc="D.C. Code" codified:path="§50-1401.05">
+        <codify:find-replace path="(h)" count="1" codified:doc="D.C. Code" codified:path="§50-1401.05|(h)">
           <find>The Mayor</find>
           <replace>Except as provided in subsection (i) of this section, the Mayor</replace>
         </codify:find-replace>
@@ -191,7 +191,7 @@
         <text>A new subsection (i) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(h)" codified:doc="D.C. Code" codified:path="§50-1401.05"/>
+            <codify:insert after="(h)" codified:doc="D.C. Code" codified:path="§50-1401.05|(i)"/>
             <num>(i)</num>
             <para>
               <num>(1)</num>
@@ -216,9 +216,9 @@
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
       <codify:applicability doc="D.C. Law 21-195" path="§2" date="pending" history="false" codified:doc="D.C. Code" codified:path="§7-221"/>
-      <codify:applicability doc="D.C. Law 21-195" path="§3|(a)" date="pending" history="false" codified:doc="D.C. Code" codified:path="§50-1401.01"/>
-      <codify:applicability doc="D.C. Law 21-195" path="§3|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-1401.03"/>
-      <codify:applicability doc="D.C. Law 21-195" path="§3|(c)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-1401.05"/>
+      <codify:applicability doc="D.C. Law 21-195" path="§3|(a)" date="pending" history="false" codified:doc="D.C. Code" codified:path="§50-1401.01|(a)|(1)|(A-i)"/>
+      <codify:applicability doc="D.C. Law 21-195" path="§3|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-1401.03|(a)|(1A)"/>
+      <codify:applicability doc="D.C. Law 21-195" path="§3|(c)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-1401.05|(h)"/>
     </para>
     <para>
       <num>(b)</num>

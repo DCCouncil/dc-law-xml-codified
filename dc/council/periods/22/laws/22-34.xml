@@ -30,7 +30,7 @@
       <para>
         <num>(1)</num>
         <text>Designate the existing text as sub-subparagraph (i).</text>
-        <codify:redesignate-para num-value="(i)" codified:doc="D.C. Code" codified:path="§2-1215.58"/>
+        <codify:redesignate-para num-value="(i)" codified:doc="D.C. Code" codified:path="§2-1215.58|(c)|(1)|(A)"/>
       </para>
       <para codify:path="(i)">
         <num>(2)</num>
@@ -38,7 +38,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the number "$0.16" and insert the number "$0.17" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58|(c)|(1)|(A)|(i)">
             <find>$0.16</find>
             <replace>$0.17</replace>
           </codify:find-replace>
@@ -46,7 +46,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "and $0.09 per $100 of assessed value for commercial buildings less than 8,000 square feet" and insert the phrase "and $0.17 per lot square foot or $0.09 per $100 of assessed value, whichever is less, for commercial buildings less than 8,000 square feet" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58|(c)|(1)|(A)|(i)">
             <find>and $0.09 per $100 of assessed value for commercial buildings less than 8,000 square feet</find>
             <replace>and $0.17 per lot square foot or $0.09 per $100 of assessed value, whichever is less, for commercial buildings less than 8,000 square feet</replace>
           </codify:find-replace>
@@ -57,7 +57,7 @@
         <text>A new sub-subparagraph (ii) is added to read as follows:</text>
         <include lvl="3">
           <para>
-            <codify:insert after="(i)" codified:doc="D.C. Code" codified:path="§2-1215.58"/>
+            <codify:insert after="(i)" codified:doc="D.C. Code" codified:path="§2-1215.58|(c)|(1)|(A)|(ii)"/>
             <num>(ii)</num>
             <text>For the purposes of this subparagraph, the term "per lot square foot" means each square foot of land attributed to the lot as reflected in the records of the Office of Tax and Revenue.</text>
           </para>
@@ -68,7 +68,7 @@
     <para codify:path="(B)">
       <num>(b)</num>
       <text>Subparagraph (B) is amended by striking the number "$120" and inserting the number "$126" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58|(c)|(1)|(B)">
         <find>$120</find>
         <replace>$126</replace>
       </codify:find-replace>
@@ -76,7 +76,7 @@
     <para codify:path="(C)">
       <num>(c)</num>
       <text>Subparagraph (C) is amended by striking the number "$95" and inserting the number "$100" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58|(c)|(1)|(C)">
         <find>$95</find>
         <replace>$100</replace>
       </codify:find-replace>
@@ -84,7 +84,7 @@
     <para codify:path="(D)">
       <num>(d)</num>
       <text>Subparagraph (D) is amended by striking the number "$0.16" and inserting the number "$0.17" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58|(c)|(1)|(D)">
         <find>$0.16</find>
         <replace>$0.17</replace>
       </codify:find-replace>
@@ -95,7 +95,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the number "$0.36" and insert the number "$0.38" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58|(c)|(1)|(F)">
           <find>$0.36</find>
           <replace>$0.38</replace>
         </codify:find-replace>
@@ -103,7 +103,7 @@
       <para>
         <num>(2)</num>
         <text>Strike the number "$0.065" and insert the number "$0.075" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58|(c)|(1)|(F)">
           <find>$0.065</find>
           <replace>$0.075</replace>
         </codify:find-replace>
@@ -111,7 +111,7 @@
       <para>
         <num>(3)</num>
         <text>Strike the number "$0.18" and insert the number "$0.20" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.58|(c)|(1)|(F)">
           <find>$0.18</find>
           <replace>$0.20</replace>
         </codify:find-replace>

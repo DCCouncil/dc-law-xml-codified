@@ -26,7 +26,7 @@
     <num>2</num>
     <text>The District of Columbia Uniform Controlled Substances Act of 1981, effective August 5, 1981 (D.C. Law 4-29; D.C. Official Code § 48-901.01 et seq.), is amended as follows:</text>
     <para>
-      <codify:temporary doc="D.C. Code" path="§48-901.02"/>
+      <codify:temporary doc="D.C. Code" path="§48-901.02" codified:doc="D.C. Code" codified:path="§48-901.02" codified:instruction="Note"/>
       <num>(a)</num>
       <text>Section 102 (27) (D.C. Official Code § 48-901.02(27)) is amended as follows:</text>
       <text>Strike the phrase "as used in section 204(3) and section 206(1)(D)" and insert the phrase "as used in section 204(3), (5), and (6) and section 206(1)(D)" in its place.</text>
@@ -36,7 +36,7 @@
       </para>
     </para>
     <para>
-      <codify:temporary doc="D.C. Code" path="§48-902.04"/>
+      <codify:temporary doc="D.C. Code" path="§48-902.04" codified:doc="D.C. Code" codified:path="§48-902.04" codified:instruction="Note"/>
       <num>(b)</num>
       <text>Section 204 (D.C. Official Code § 48-902.04) is amended as follows:</text>
       <para>
@@ -1678,7 +1678,7 @@
       <aftertext>.</aftertext>
     </para>
     <para>
-      <codify:temporary doc="D.C. Code" path="§48-902.08"/>
+      <codify:temporary doc="D.C. Code" path="§48-902.08" codified:doc="D.C. Code" codified:path="§48-902.08" codified:instruction="Note"/>
       <num>(c)</num>
       <text>Section 208(a)(7) (D.C. Official Code § 48-902.08(a)(7)) is repealed.</text>
     </para>

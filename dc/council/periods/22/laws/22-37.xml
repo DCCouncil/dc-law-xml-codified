@@ -155,7 +155,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "; provided, that only a sworn member of the Metropolitan Police Department may serve a notice of violation with respect to <code-cite doc="D.C. Code" path="§8-1808|(a)">section 9(a)</code-cite> outside the premises of the animal shelter".</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1802">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1802|(a)">
           <find>; provided, that only a sworn member of the Metropolitan Police Department may serve a notice of violation with respect to § <cite path="§8-1808">8-1808</cite>(a) outside the premises of the animal shelter</find>
           <replace/>
         </codify:find-replace>
@@ -168,7 +168,7 @@
           <text>Paragraph (1) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§8-1802"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§8-1802|(b)|(1)"/>
               <num>(1)</num>
               <text>Pursuant to <code-cite doc="D.C. Code" path="8|18|I">this act</code-cite>, issue fines and citations for violations and deliver all fees collected to the Mayor.</text>
             </para>
@@ -178,7 +178,7 @@
         <para codify:path="(4)">
           <num>(B)</num>
           <text>Paragraph (4) is amended by striking the period and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1802">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1802|(b)|(4)">
             <find>leadership.</find>
             <replace>leadership;</replace>
           </codify:find-replace>
@@ -188,12 +188,12 @@
           <text>New paragraphs (5) and (6) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§8-1802"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§8-1802|(b)|(5)"/>
               <num>(5)</num>
               <text>Respond to all animal calls and emergencies in the District; and</text>
             </para>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§8-1802"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§8-1802|(b)|(6)"/>
               <num>(6)</num>
               <text>Perform any other duties the Mayor designates that are consistent with the provisions of <code-cite doc="D.C. Code" path="8|18|I">this act</code-cite>.</text>
             </para>
@@ -207,7 +207,7 @@
       <text>Section 4(b) (D.C. Official Code § 8-1803(b)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§8-1803"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§8-1803|(b)"/>
           <num>(b)</num>
           <text>The Mayor shall provide a free rabies vaccination clinic at least annually.</text>
         </para>
@@ -220,7 +220,7 @@
       <para codify:path="(b)">
         <num>(1)</num>
         <text>Subsection (b) is amended by striking the phrase "his dog wears a collar" and inserting the phrase "his or her dog wears a collar or harness" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1804">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1804|(b)">
           <find>his dog wears a collar</find>
           <replace>his or her dog wears a collar or harness</replace>
         </codify:find-replace>
@@ -230,7 +230,7 @@
         <text>Subsection (e-1) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§8-1804"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§8-1804|(e-1)"/>
             <num>(e-1)</num>
             <text>$2 of each fee collected pursuant to subsection (e) of this section shall be deposited into the Animal Education and Outreach Fund, established by <code-cite doc="D.C. Code" path="§8-1810.01">section 11a</code-cite>. Remaining money from the fees collected shall be deposited in the General Fund of the District of Columbia.</text>
           </para>
@@ -242,7 +242,7 @@
         <text>Subsection (h) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§8-1804"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§8-1804|(h)"/>
             <num>(h)</num>
             <text>Any license issued pursuant to this section shall be issued by the Department of Health. The Department of Health may delegate this function to any veterinarians licensed in the District of Columbia.</text>
           </para>
@@ -252,7 +252,7 @@
       <para codify:path="(j)">
         <num>(4)</num>
         <text>Subsection (j) is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§8-1804"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§8-1804|(j)"/>
       </para>
     </para>
     <para>
@@ -274,7 +274,7 @@
       <para codify:path="(a)">
         <num>(2)</num>
         <text>Subsection (a) is amended by striking the phrase "permit: EXCEPT," and inserting the phrase "permit; provided," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1804.01">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1804.01|(a)">
           <find>permit: Except,</find>
           <replace>permit; provided,</replace>
         </codify:find-replace>
@@ -284,7 +284,7 @@
         <text>Subsection (f) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§8-1804.01"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§8-1804.01|(f)"/>
             <num>(f)</num>
             <text>A holder of an animal hobby permit shall provide his or her animals with adequate care, adequate feed, adequate shelter, adequate space, adequate water, and appropriate veterinary care.</text>
           </para>
@@ -294,7 +294,7 @@
       <para codify:path="(g)">
         <num>(4)</num>
         <text>Subsection (g) is amended by striking the word "mammal" and inserting the word "animal" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1804.01">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1804.01|(g)">
           <find>mammal</find>
           <replace>[an] animal</replace>
         </codify:find-replace>
@@ -318,7 +318,7 @@
         <text>Subsection (g) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§8-1805"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§8-1805|(g)"/>
             <num>(g)</num>
             <para>
               <num>(1)</num>
@@ -564,7 +564,7 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the phrase "Low cost" and inserting the phrase "Low-cost" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1810">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1810|(1)">
           <find>Low cost</find>
           <replace>Low-cost</replace>
         </codify:find-replace>
@@ -574,7 +574,7 @@
         <text>Paragraph (2) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§8-1810"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§8-1810|(2)"/>
             <num>(2)</num>
             <text>An educational program for animal owners regarding pet care and safety, specifically in extreme weather conditions or emergencies, and the laws related to pet ownership.</text>
           </para>

@@ -2014,7 +2014,7 @@
       <text>Section 6 of the Office of Administrative Hearings Establishment Act of 2001, effective March 2, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.03) is amended by adding a new subsection (b-12) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§2-1831.03" after="(b-11)" codified:doc="D.C. Code" codified:path="§2-1831.03"/>
+          <codify:insert doc="D.C. Code" path="§2-1831.03" after="(b-11)" codified:doc="D.C. Code" codified:path="§2-1831.03|(b-12)"/>
           <num>(b-12)</num>
           <text>In addition to those adjudicated cases listed in subsections (a), (b), (b-1), (b-2), (b-3), (b-4), (b-5), (b-6), (b-7), (b-8), (b-9), (b-10), and (b-11) of this section, <code-cite doc="D.C. Code" path="2|18A">this act</code-cite> shall apply to all adjudicated cases that arise under the <code-cite doc="D.C. Code" path="32|5|IV">Universal Paid Leave Act of 2016, passed on 2nd reading on December 20, 2016 (Enrolled version of Bill 21-415)</code-cite>.</text>
         </para>
@@ -2030,7 +2030,7 @@
       <para>
         <num>(a)</num>
         <text>Subparagraph (B) is amended by striking the word "or".</text>
-        <codify:find-replace path="(B)" count="1" codified:doc="D.C. Code" codified:path="§32-501">
+        <codify:find-replace path="(B)" count="1" codified:doc="D.C. Code" codified:path="§32-501|(4)|(B)">
           <find>; or</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -2038,7 +2038,7 @@
       <para>
         <num>(b)</num>
         <text>Subparagraph (C) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-        <codify:find-replace path="(C)" count="1" codified:doc="D.C. Code" codified:path="§32-501">
+        <codify:find-replace path="(C)" count="1" codified:doc="D.C. Code" codified:path="§32-501|(4)|(C)">
           <find>p.</find>
           <replace>p; or</replace>
         </codify:find-replace>
@@ -2048,7 +2048,7 @@
         <text>A new subparagraph (D) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§32-501"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§32-501|(4)|(D)"/>
             <num>(D)</num>
             <text>A foster child.</text>
           </para>

@@ -26,7 +26,7 @@
     <para codify:path="§1-601.02|(a)|(2)">
       <num>(a)</num>
       <text>Section 103(a)(2) (D.C. Official Code § 1-601.02(a)(2)) is amended by striking the phrase "independent agencies" and inserting the phrase "the Council, independent agencies" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-601.02">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-601.02|(a)|(2)">
         <find>independent agencies</find>
         <replace>the Council, independent agencies</replace>
       </codify:find-replace>
@@ -34,7 +34,7 @@
     <para codify:path="§1-602.01|(c)">
       <num>(b)</num>
       <text>Section 201(c) (D.C. Official Code § 1-602.01(c)) is amended by striking the phrase "all District agencies" and inserting the phrase "the Council and all District agencies" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-602.01">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-602.01|(c)">
         <find>all District agencies</find>
         <replace>the Council and all District agencies</replace>
       </codify:find-replace>
@@ -45,7 +45,7 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the phrase "as an agency." and inserting the phrase "as an agency.  The term "agency" shall not include the Council." in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-603.01">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-603.01|(1)">
           <find>as an agency.</find>
           <replace>as an agency.  The term "agency" shall not include the Council.</replace>
         </codify:find-replace>
@@ -53,7 +53,7 @@
       <para codify:path="(13)">
         <num>(2)</num>
         <text>Paragraph (13) is amended by striking the phrase "the Council of the District of Columbia and the Office of the Attorney General for the District of Columbia shall be considered independent agencies" and inserting the phrase "the Office of the Attorney General for the District of Columbia shall be considered an independent agency" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-603.01">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-603.01|(13)">
           <find>the Council of the District of Columbia and the Office of the Attorney General for the District of Columbia shall be considered independent agencies</find>
           <replace>the Office of the Attorney General for the District of Columbia shall be considered an independent agency</replace>
         </codify:find-replace>
@@ -70,7 +70,7 @@
     <para codify:path="§1-607.01|(b)">
       <num>(e)</num>
       <text>Section 701(b) (D.C. Official Code § 1-607.01(b)) is amended by striking the phrase "Each agency" and inserting the phrase "The Council and each agency" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-607.01">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-607.01|(b)">
         <find>Each agency</find>
         <replace>The Council and each agency</replace>
       </codify:find-replace>
@@ -88,7 +88,7 @@
       <text>Section 855 (D.C. Official Code § 1-608.55) is amended by adding a new subsection (a-2) to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(a-1)" codified:doc="D.C. Code" codified:path="§1-608.55"/>
+          <codify:insert after="(a-1)" codified:doc="D.C. Code" codified:path="§1-608.55|(a-2)"/>
           <num>(a-2)</num>
           <text>Attorneys employed by the Council:</text>
           <para>
@@ -110,7 +110,7 @@
     <para codify:path="§1-608.57|(a)|(1)">
       <num>(h)</num>
       <text>Section 857(a)(1) (D.C. Official Code § 1-608.57(a)(1)) is amended by striking the phrase "independent agencies" and inserting the phrase "an independent agency or the Council" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-608.57">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-608.57|(a)|(1)">
         <find>independent agencies</find>
         <replace>an independent agency or the Council</replace>
       </codify:find-replace>
@@ -209,7 +209,7 @@
     <para codify:path="§1-611.19|(b)">
       <num>(k)</num>
       <text>Section 1119(b) (D.C. Official Code § 1-611.19(b)) is amended by striking the phrase "personnel authority" and inserting the phrase "personnel authority, as defined in section 406(b)," in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-611.19">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-611.19|(b)">
         <find>personnel authority</find>
         <replace>personnel authority, as defined in <code-cite doc="D.C. Code" path="§1-604.06|(b)">section 406(b)</code-cite>,</replace>
       </codify:find-replace>
@@ -220,7 +220,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "Each agency or independent agency" and inserting the phrase "The Council, each agency, and each independent agency" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.32">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.32|(a)">
           <find>Each agency or independent agency</find>
           <replace>The Council, each agency, and each independent agency</replace>
         </codify:find-replace>
@@ -228,7 +228,7 @@
       <para codify:path="(c)">
         <num>(2)</num>
         <text>Subsection (c) is amended by striking the phrase "Office of Personnel" and inserting the phrase "the Secretary to the Council, if the recipient employee is an employee of the Council, or the Director of Human Resources, if the recipient employee is an employee of an agency or independent agency" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.32">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.32|(c)">
           <find>Office of Personnel</find>
           <replace>the Secretary to the Council, if the recipient employee is an employee of the Council, or the Director of Human Resources, if the recipient employee is an employee of an agency or independent agency</replace>
         </codify:find-replace>
@@ -238,7 +238,7 @@
         <text>Subsection (d) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§1-612.32"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§1-612.32|(d)"/>
             <num>(d)</num>
             <para>
               <num>(1)</num>
@@ -259,7 +259,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "agency head or designee" and inserting the phrase "agency head or designee, or in the case of an employee of the Council, to the Secretary to the Council," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.33">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.33|(a)">
           <find>agency head or designee</find>
           <replace>agency head or designee, or in the case of an employee of the Council, to the Secretary to the Council,</replace>
         </codify:find-replace>
@@ -267,7 +267,7 @@
       <para codify:path="(c)|(3)">
         <num>(2)</num>
         <text>Subsection (c)(3) is amended by striking the phrase "the agency or independent agency" and inserting the phrase "the Council, agency, or independent agency" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.33">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.33|(c)|(3)">
           <find>the agency or independent agency</find>
           <replace>the Council, agency, or independent agency</replace>
         </codify:find-replace>
@@ -275,7 +275,7 @@
       <para codify:path="(d)">
         <num>(3)</num>
         <text>Subsection (d) is amended by striking the phrase "The agency" and inserting the phrase, "The Council or an agency" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.33">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.33|(d)">
           <find>The agency</find>
           <replace>The Council or an agency</replace>
         </codify:find-replace>
@@ -284,7 +284,7 @@
     <para codify:path="§1-612.34|(a)">
       <num>(n)</num>
       <text>Section 1234(a) (D.C. Official Code § 1-612.34(a)) is amended by striking the phrase "agency head or designee" and inserting the phrase "agency head or designee, or in the case of an employee of the Council, to the Secretary to the Council," in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.34">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.34|(a)">
         <find>agency head or designee</find>
         <replace>agency head or designee, or in the case of an employee of the Council, to the Secretary to the Council,</replace>
       </codify:find-replace>
@@ -295,7 +295,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "agency head or designee" and inserting the phrase "agency head or designee, or in the case of an employee of the Council, the Secretary to the Council," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.35">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.35|(a)">
           <find>agency head or designee</find>
           <replace>agency head or designee, or in the case of an employee of the Council, the Secretary to the Council,</replace>
         </codify:find-replace>
@@ -306,7 +306,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "agency head or designee" and insert the phrase "agency head or designee, or in the case of an employee of the Council, the Secretary to the Council," in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.35">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.35|(b)">
             <find>agency head or designee</find>
             <replace>agency head or designee, or in the case of an employee of the Council, the Secretary to the Council,</replace>
           </codify:find-replace>
@@ -314,7 +314,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "agency or independent agency" and insert the phrase "agency, independent agency, or, in the case of the Council, the relevant Council office," in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.35">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.35|(b)">
             <find>agency or independent agency</find>
             <replace>agency, independent agency, or, in the case of the Council, the relevant Council office,</replace>
           </codify:find-replace>
@@ -323,7 +323,7 @@
       <para codify:path="(c)">
         <num>(3)</num>
         <text>Subsection (c) is amended by striking the phrase "agency head or designee" and inserting the phrase "agency head or designee, or in the case of an employee of the Council, the Secretary to the Council," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.35">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.35|(c)">
           <find>agency head or designee</find>
           <replace>agency head or designee, or in the case of an employee of the Council, the Secretary to the Council,</replace>
         </codify:find-replace>
@@ -332,7 +332,7 @@
     <para codify:path="§1-612.36|(a)">
       <num>(p)</num>
       <text>Section 1236(a) (D.C. Official Code § 1-612.36(a)) is amended by striking the phrase "Each agency or independent agency" and inserting the phrase "The Council, each agency, and each independent agency" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.36">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-612.36|(a)">
         <find>Each agency or independent agency</find>
         <replace>The Council, each agency, and each independent agency</replace>
       </codify:find-replace>

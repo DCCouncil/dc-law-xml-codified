@@ -26,7 +26,7 @@
     <text>Section 305(d) of the District of Columbia Public Space Rental Act, approved October 17, 1968 (82 Stat. 1159; D.C. Official Code § 10-1103.04(d)), is amended by adding a new paragraph (3) to read as follows:</text>
     <include>
       <para>
-        <codify:insert path="§305|(d)" after="(2)" codified:doc="D.C. Code" codified:path="§10-1103.04"/>
+        <codify:insert path="§305|(d)" after="(2)" codified:doc="D.C. Code" codified:path="§10-1103.04|(d)|(3)"/>
         <num>(3)</num>
         <text>Any vault serving, in whole or in part, real property exempt from taxation under <code-cite doc="D.C. Code" path="§47-1002|(19)">D.C. Official Code § 47-1002(19)</code-cite> shall be exempt from vault rent.</text>
       </para>
@@ -43,7 +43,7 @@
     <num>4</num>
     <heading>Applicability.</heading>
     <text>This act shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan.</text>
-    <codify:applicability date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§10-1103.04"/>
+    <codify:applicability date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§10-1103.04|(d)|(3)"/>
   </section>
   <section>
     <num>5</num>

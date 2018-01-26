@@ -33,7 +33,7 @@
         <text>A new paragraph (1A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§38-201"/>
+            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§38-201|(1A)"/>
             <num>(1A)</num>
             <text>"Chronic absenteeism" means the incidence of students missing more than 10% of school days, including excused and unexcused absences.</text>
           </para>
@@ -45,7 +45,7 @@
         <text>A new paragraph (2B) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(2A)" codified:doc="D.C. Code" codified:path="§38-201"/>
+            <codify:insert after="(2A)" codified:doc="D.C. Code" codified:path="§38-201|(2B)"/>
             <num>(2B)</num>
             <text>"Full school day" means the entirety of the instructional hours regularly provided on a single school day.</text>
           </para>
@@ -59,12 +59,12 @@
       <para>
         <num>(1)</num>
         <text>Subsection (c) is amended by striking the phrase "Superintendent of Schools" and inserting the phrase "head of the educational institution in which the minor is enrolled" in its place.</text>
-        <codify:find-replace path="(c)" find="Superintendent of Schools" replace="head of the educational institution in which the minor is enrolled" count="1" codified:doc="D.C. Code" codified:path="§38-202"/>
+        <codify:find-replace path="(c)" find="Superintendent of Schools" replace="head of the educational institution in which the minor is enrolled" count="1" codified:doc="D.C. Code" codified:path="§38-202|(c)"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Subsection (d) is amended by striking the phrase "to govern the validity of applications for permission to be absent from school,".</text>
-        <codify:find-replace path="(d)" find="to govern the validity of applications for permission to be absent from school," replace="" count="1" codified:doc="D.C. Code" codified:path="§38-202"/>
+        <codify:find-replace path="(d)" find="to govern the validity of applications for permission to be absent from school," replace="" count="1" codified:doc="D.C. Code" codified:path="§38-202|(d)"/>
       </para>
     </para>
     <para codify:path="II|2">
@@ -73,12 +73,12 @@
       <para>
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "Superintendent of Schools" and inserting the phrase "State Superintendent of Education" in its place.</text>
-        <codify:find-replace path="(a)" find="Superintendent of Schools" replace="State Superintendent of Education" count="1" codified:doc="D.C. Code" codified:path="§38-203"/>
+        <codify:find-replace path="(a)" find="Superintendent of Schools" replace="State Superintendent of Education" count="1" codified:doc="D.C. Code" codified:path="§38-203|(a)"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Subsection (b) is repealed.</text>
-        <codify:repeal path="(b)" codified:doc="D.C. Code" codified:path="§38-203"/>
+        <codify:repeal path="(b)" codified:doc="D.C. Code" codified:path="§38-203|(b)"/>
       </para>
       <para codify:path="(c)">
         <num>(3)</num>
@@ -86,14 +86,14 @@
         <para>
           <num>(A)</num>
           <text>The existing text is designated as paragraph (1).</text>
-          <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§38-203"/>
+          <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§38-203|(c)"/>
         </para>
         <para>
           <num>(B)</num>
           <text>A new paragraph (2) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§38-203"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§38-203|(c)|(2)"/>
               <num>(2)</num>
               <text>An absence of a minor covered by <code-cite path="II|1|(a)">section 1(a) of this article</code-cite> who is enrolled in a public school is deemed unexcused unless the minor's parent, guardian, or other person who has custody or control of the minor provides the school with a valid excuse for the minor's absence within 5 school days upon the minor's return to school.</text>
             </para>
@@ -106,12 +106,12 @@
         <text>New subsections (f-1) and (f-2) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(f)" codified:doc="D.C. Code" codified:path="§38-203"/>
+            <codify:insert after="(f)" codified:doc="D.C. Code" codified:path="§38-203|(f-1)"/>
             <num>(f-1)</num>
             <text>Beginning school year 2016-2017, no minor covered by <code-cite path="II|1|(a)">section 1(a) of this article</code-cite> who is enrolled in a public school may be expelled or receive an out-of-school suspension due to an unexcused absence or due to a late arrival to school.</text>
           </para>
           <para>
-            <codify:insert after="(f-1)" codified:doc="D.C. Code" codified:path="§38-203"/>
+            <codify:insert after="(f-1)" codified:doc="D.C. Code" codified:path="§38-203|(f-2)"/>
             <num>(f-2)</num>
             <text>Beginning school year 2016-2017, no minor covered by <code-cite path="II|1|(a)">section 1(a) of this article</code-cite> who is enrolled in a public school, other than an adult education program, may be unenrolled from the local education agency due to an unexcused absence or due to a late arrival to school unless the minor has accumulated 20 or more full school day consecutive unexcused absences.</text>
           </para>
@@ -128,7 +128,7 @@
         <text>A new subsection (k) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§38-203"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§38-203|(k)"/>
             <num>(k)</num>
             <text>By October 1 of each year, the Office of the State Superintendent of Education shall publicly report on the state of absenteeism in the District based on data from the preceding school year, including an analysis of truancy and chronic absenteeism by school or campus and the impact of current laws on improving school attendance.</text>
           </para>
@@ -154,7 +154,7 @@
       <text>Section 6(a) of Article II (D.C. Official Code § 38-207(a)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§38-207"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§38-207|(a)"/>
           <num>(a)</num>
           <para>
             <num>(1)</num>
@@ -178,7 +178,7 @@
       <para>
         <num>(1)</num>
         <text>Subsection (a) is repealed.</text>
-        <codify:repeal path="(a)" codified:doc="D.C. Code" codified:path="§38-208"/>
+        <codify:repeal path="(a)" codified:doc="D.C. Code" codified:path="§38-208|(a)"/>
       </para>
       <para codify:path="(c)">
         <num>(2)</num>
@@ -186,7 +186,7 @@
         <para>
           <num>(A)</num>
           <text>The lead-in language is amended by striking the phrase "subsections (a) and" and inserting the word "subsection" in its place.</text>
-          <codify:find-replace path="text" count="1" find="subsections (a) and" replace="subsection" codified:doc="D.C. Code" codified:path="§38-208"/>
+          <codify:find-replace path="text" count="1" find="subsections (a) and" replace="subsection" codified:doc="D.C. Code" codified:path="§38-208|(c)"/>
         </para>
         <para codify:path="(1)">
           <num>(B)</num>
@@ -197,12 +197,12 @@
             <para>
               <num>(I)</num>
               <text>Strike the phrase "The educational institution" and insert the phrase "Beginning in the 2016-2017 school year, the educational institution" in its place.</text>
-              <codify:find-replace path="(A)" count="1" find="The educational institution" replace="Beginning in the 2016-2017 school year, the educational institution" codified:doc="D.C. Code" codified:path="§38-208"/>
+              <codify:find-replace path="(A)" count="1" find="The educational institution" replace="Beginning in the 2016-2017 school year, the educational institution" codified:doc="D.C. Code" codified:path="§38-208|(c)|(1)|(A)"/>
             </para>
             <para>
               <num>(II)</num>
               <text>Strike the phrase "10 unexcused absences" and insert the phrase "10 unexcused full school day absences" in its place.</text>
-              <codify:find-replace path="(A)" count="1" find="10 unexcused absences" replace="10 unexcused full school day absences" codified:doc="D.C. Code" codified:path="§38-208"/>
+              <codify:find-replace path="(A)" count="1" find="10 unexcused absences" replace="10 unexcused full school day absences" codified:doc="D.C. Code" codified:path="§38-208|(c)|(1)|(A)"/>
             </para>
           </para>
           <para>
@@ -211,12 +211,12 @@
             <para>
               <num>(I)</num>
               <text>Strike the phrase "Beginning in the 2013-2014 school year" and insert the phrase "Beginning in the 2016-2017 school year" in its place.</text>
-              <codify:find-replace path="(B)" count="1" find="Beginning in the 2013-2014 school year" replace="Beginning in the 2016-2017 school year" codified:doc="D.C. Code" codified:path="§38-208"/>
+              <codify:find-replace path="(B)" count="1" find="Beginning in the 2013-2014 school year" replace="Beginning in the 2016-2017 school year" codified:doc="D.C. Code" codified:path="§38-208|(c)|(1)|(B)"/>
             </para>
             <para>
               <num>(II)</num>
               <text>Strike the phrase "15 unexcused absences" and insert the phrase "15 unexcused full school day absences" in its place.</text>
-              <codify:find-replace path="(B)" count="1" find="15 unexcused absences" replace="15 unexcused full school day absences" codified:doc="D.C. Code" codified:path="§38-208"/>
+              <codify:find-replace path="(B)" count="1" find="15 unexcused absences" replace="15 unexcused full school day absences" codified:doc="D.C. Code" codified:path="§38-208|(c)|(1)|(B)"/>
             </para>
           </para>
         </para>
@@ -225,7 +225,7 @@
           <text>A new subparagraph (C) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert path="(1)" technical="this should be (B)(iii)" codified:doc="D.C. Code" codified:path="§38-208"/>
+              <codify:insert path="(1)" technical="this should be (B)(iii)" codified:doc="D.C. Code" codified:path="§38-208|(c)|(1)|(C)"/>
               <num>(C)</num>
               <text>The educational institution shall have discretion with regard to the referral requirements set forth in subparagraphs (A) and (B) of this paragraph if a minor student accrues the 10th or 15th unexcused absence, respectively, within the final 10 school days of a school year.</text>
             </para>
@@ -238,7 +238,7 @@
         <text>A new subsection (d) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§38-208"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§38-208|(d)"/>
             <num>(d)</num>
             <text>By July 1 of each year, the State Superintendent of Education shall send written notice to each educational institution outlining the attendance and reporting requirements outlined in <code-cite>this act</code-cite>.</text>
           </para>
@@ -252,7 +252,7 @@
     <text>Section 2206(g) of the District of Columbia School Reform Act of 1995, approved April 26, 1996 (110 Stat. 1321; D.C. Official Code § 38-1802.06(g)), is amended to read as follows:</text>
     <include>
       <para>
-        <codify:replace codified:doc="D.C. Code" codified:path="§38-1802.06"/>
+        <codify:replace codified:doc="D.C. Code" codified:path="§38-1802.06|(g)"/>
         <num>(g)</num>
         <heading codify:value="Expulsion and suspension. –">– Expulsion and suspension. –</heading>
         <text>The principal of a public charter school may expel or suspend a student from the school based on criteria set forth in the charter granted to the school; provided, that:</text>

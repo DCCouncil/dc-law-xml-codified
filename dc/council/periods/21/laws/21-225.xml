@@ -114,7 +114,7 @@
         <text>A new subsection (b) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert path="§1-327.57" after="(a)" codified:doc="D.C. Code" codified:path="§1-327.57"/>
+            <codify:insert path="§1-327.57" after="(a)" codified:doc="D.C. Code" codified:path="§1-327.57|(b)"/>
             <num>(b)</num>
             <para>
               <num>(1)</num>
@@ -156,7 +156,7 @@
     <text>Section 7 of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1121; D.C. Official Code § 50-1401.01), is amended by adding a new subsection (a-2) to read as follows:</text>
     <include>
       <para>
-        <codify:insert doc="D.C. Code" path="§50-1401.01" after="(a-1)" codified:doc="D.C. Code" codified:path="§50-1401.01"/>
+        <codify:insert doc="D.C. Code" path="§50-1401.01" after="(a-1)" codified:doc="D.C. Code" codified:path="§50-1401.01|(a-2)"/>
         <num>(a-2)</num>
         <para>
           <num>(1)</num>
@@ -178,8 +178,8 @@
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
       <codify:applicability doc="D.C. Law 21-225" path="§2|(a)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§1-327.54b"/>
-      <codify:applicability doc="D.C. Law 21-225" path="§2|(b)|(2)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§1-327.57"/>
-      <codify:applicability doc="D.C. Law 21-225" path="§3" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-1401.01"/>
+      <codify:applicability doc="D.C. Law 21-225" path="§2|(b)|(2)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§1-327.57|(b)"/>
+      <codify:applicability doc="D.C. Law 21-225" path="§3" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-1401.01|(a-2)"/>
     </para>
     <para>
       <num>(b)</num>

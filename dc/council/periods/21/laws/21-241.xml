@@ -35,7 +35,7 @@
         <text>A new paragraph (20A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(20)" codified:doc="D.C. Code" codified:path="§42-1901.02"/>
+            <codify:insert after="(20)" codified:doc="D.C. Code" codified:path="§42-1901.02|(20A)"/>
             <num>(20A)</num>
             <text>"Mortgage Electronic Registration System" or "MERS" shall mean the process created by the mortgage banking industry that tracks mortgage ownership and servicing, is used by the real estate finance industry for residential and commercial mortgage loan trading, and that simplifies the mortgage process by using electronic commerce.</text>
           </para>
@@ -47,7 +47,7 @@
         <text>A new paragraph (21A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(21)" codified:doc="D.C. Code" codified:path="§42-1901.02"/>
+            <codify:insert after="(21)" codified:doc="D.C. Code" codified:path="§42-1901.02|(21A)"/>
             <num>(21A)</num>
             <text>"Notice of Foreclosure Sale of Condominium Unit for Assessments Due"or "NFSCUAD" shall mean a notice sent to a condominium unit owner in default in the payment of condominium assessments, fees, charges, or other penalties owed by a unit owner that includes such information as the past due amount of assessments and other charges being foreclosed upon and the time, place, and date of the scheduled sale, sent pursuant to <code-cite doc="D.C. Code" path="§42-1903.13|(c)">section 313(c)</code-cite>.</text>
           </para>
@@ -189,7 +189,7 @@
       <text>Section 313(c)(4) (D.C. Official Code 42-1903.13(c)(4)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§42-1903.13"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§42-1903.13|(c)|(4)"/>
           <num>(4)</num>
           <para>
             <num>(A)</num>

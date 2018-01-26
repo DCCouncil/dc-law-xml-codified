@@ -23,7 +23,7 @@
   <section>
     <num>2</num>
     <text>Section 2(7) of the Language Access Act of 2004, effective June 19, 2004 (D.C. Law 15-167; D.C. Official Code § 2-1931(7)), is amended by striking the phrase "and instructions." and inserting the phrase "and instructions. The term "vital documents" shall include all written materials that the Department of Motor Vehicle makes available to the public relating to obtaining or renewing a license, permit, or identification card under sections 7, 8a, or 8c of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-1401.01, § 50-1401.03, or § 50-1401.05), including application forms, study guides, examinations, and other similar materials." in its place.</text>
-    <codify:find-replace doc="D.C. Code" path="§2-1931|(7)" count="1" codified:doc="D.C. Code" codified:path="§2-1931">
+    <codify:find-replace doc="D.C. Code" path="§2-1931|(7)" count="1" codified:doc="D.C. Code" codified:path="§2-1931|(7)">
       <find>and instructions.</find>
       <replace>and instructions. The term "vital documents" shall include all written materials that the Department of Motor Vehicle makes available to the public relating to obtaining or renewing a license, permit, or identification card under <code-cite doc="D.C. Code" path="§50-1401.01">sections 7</code-cite>, <code-cite doc="D.C. Code" path="§50-1401.03">8a</code-cite>, or <code-cite doc="D.C. Code" path="§50-1401.05">8c of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-1401.01, § 50-1401.03, or § 50-1401.05)</code-cite>, including application forms, study guides, examinations, and other similar materials.</replace>
     </codify:find-replace>
@@ -36,7 +36,7 @@
       <text>Section 7 (D.C. Official Code § 50-1401.01) is amended by adding a new subsection (h) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§50-1401.01" codified:doc="D.C. Code" codified:path="§50-1401.01"/>
+          <codify:insert doc="D.C. Code" path="§50-1401.01" codified:doc="D.C. Code" codified:path="§50-1401.01|(h)"/>
           <num>(h)</num>
           <para>
             <num>(1)</num>
@@ -64,7 +64,7 @@
       <text>Section 8c (D.C. Official Code § 50-1401.05) is amended by adding a new subsection (j) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§50-1401.05" codified:doc="D.C. Code" codified:path="§50-1401.05"/>
+          <codify:insert doc="D.C. Code" path="§50-1401.05" codified:doc="D.C. Code" codified:path="§50-1401.05|(j)"/>
           <num>(j)</num>
           <text>Unless otherwise provided in this section, the procedures for obtaining a limited purpose driver's license, permit, or identification card under this section, including policies pertaining to walk-in applicants, shall be substantially similar to the procedures for obtaining a non-limited purpose driver's license, permit, or identification card, respectively, under <code-cite doc="D.C. Code" path="§50-1401.01">section 7</code-cite> or <code-cite doc="D.C. Code" path="§50-1401.03">section 8a</code-cite>.</text>
         </para>

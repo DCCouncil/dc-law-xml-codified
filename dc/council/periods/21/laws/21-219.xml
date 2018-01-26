@@ -29,7 +29,7 @@
       <para>
         <num>(1)</num>
         <text>Redesignate paragraph (1) as paragraph (1A).</text>
-        <codify:replace path="(1)|num" codified:doc="D.C. Code" codified:path="§38-2801.01">
+        <codify:replace path="(1)|num" codified:doc="D.C. Code" codified:path="§38-2801.01|(1A)">
           <num>(1A)</num>
         </codify:replace>
       </para>
@@ -38,7 +38,7 @@
         <text>A new paragraph (1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert before="(1A)" codified:doc="D.C. Code" codified:path="§38-2801.01"/>
+            <codify:insert before="(1A)" codified:doc="D.C. Code" codified:path="§38-2801.01|(1)"/>
             <num>(1)</num>
             <text>"At-risk" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§38-2901|(2A)">section 102(2A) of the Uniform Per Student Funding Formula for Public Schools and Public Charter Schools Act of 1998, effective March 26, 1999 (D.C. Law 12-207; D.C. Official Code § 38-2901(2A))</code-cite>.</text>
           </para>
@@ -50,7 +50,7 @@
         <text>A new paragraph (1B) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(1A)" codified:doc="D.C. Code" codified:path="§38-2801.01"/>
+            <codify:insert after="(1A)" codified:doc="D.C. Code" codified:path="§38-2801.01|(1B)"/>
             <num>(1B)</num>
             <text>"Educational specification" means a description, complete to the degree that an architect may use it as the basic document from which to create a school facility design, of the educational program that a proposed school facility and grounds are intended to support and the types of spaces needed to accommodate those educational program requirements.</text>
           </para>
@@ -62,32 +62,32 @@
         <text>New paragraphs (2A), (2B), (2C), (2D), (2E), and (2F) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§38-2801.01"/>
+            <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§38-2801.01|(2A)"/>
             <num>(2A)</num>
             <text>"Feeder pattern" means the collection of DCPS elementary, middle, and high schools to or from which a student enrolled in a DCPS school may matriculate, by right, due to the student's geographic attendance zone.</text>
           </para>
           <para>
-            <codify:insert after="(2A)" codified:doc="D.C. Code" codified:path="§38-2801.01"/>
+            <codify:insert after="(2A)" codified:doc="D.C. Code" codified:path="§38-2801.01|(2B)"/>
             <num>(2B)</num>
             <text>"Full-funded cost estimate" means all projected costs over a capital  project's entire active period, not limited to 6 fiscal years, including costs for necessary swing space and soft costs such as architectural design, engineering, project management, project contingency, moving expenses, and other pre- and post-construction expenses.</text>
           </para>
           <para>
-            <codify:insert after="(2B)" codified:doc="D.C. Code" codified:path="§38-2801.01"/>
+            <codify:insert after="(2B)" codified:doc="D.C. Code" codified:path="§38-2801.01|(2C)"/>
             <num>(2C)</num>
             <text>"Local education agency" or "LEA" means the District of Columbia Public Schools system or any individual or group of public charter schools operating under a single charter.</text>
           </para>
           <para>
-            <codify:insert after="(2C)" codified:doc="D.C. Code" codified:path="§38-2801.01"/>
+            <codify:insert after="(2C)" codified:doc="D.C. Code" codified:path="§38-2801.01|(2D)"/>
             <num>(2D)</num>
             <text>"Major construction" means a capital improvement to a school facility that is not limited in scope to the ordinary repair or replacement of an element of a school facility's central mechanical and electrical systems, water systems, building structure, physical plant support spaces, hard and soft landscaping, or building envelope, including walls, floors, roof, windows, and doors.</text>
           </para>
           <para>
-            <codify:insert after="(2D)" codified:doc="D.C. Code" codified:path="§38-2801.01"/>
+            <codify:insert after="(2D)" codified:doc="D.C. Code" codified:path="§38-2801.01|(2E)"/>
             <num>(2E)</num>
             <text>"Neighborhood cluster" means an apolitical geographic boundary made up of 3 to 5 neighborhoods defined by the Office of Planning for use in budgeting, planning, service delivery, and analysis purposes by the District government.</text>
           </para>
           <para>
-            <codify:insert after="(2E)" codified:doc="D.C. Code" codified:path="§38-2801.01"/>
+            <codify:insert after="(2E)" codified:doc="D.C. Code" codified:path="§38-2801.01|(2F)"/>
             <num>(2F)</num>
             <text>"Rough order of magnitude estimate" means an estimate of a specific project's level of effort and cost to complete based on preliminary observations, quantities, and a reasonably foreseeable scope of work. These estimates are subject to change as specific project scope is established based on educational specifications.</text>
           </para>
@@ -106,7 +106,7 @@
           <text>Paragraph (1) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace path="(1)" codified:doc="D.C. Code" codified:path="§38-2803"/>
+              <codify:replace path="(1)" codified:doc="D.C. Code" codified:path="§38-2803|(a)|(1)"/>
               <num>(1)</num>
               <text>Beginning on December 15, 2017, and every 10 years thereafter, the Mayor shall prepare and submit to the Council for its review and approval a comprehensive 10-year Master Facilities Plan for public education facilities, along with a proposed resolution, in accordance with this section. The Council shall vote on the 10-year Master Facilities Plan concurrently with its vote on the Mayor's capital budget proposal. If approved by the Council, the 10-year Master Facilities Plan shall take effect on the first day of the succeeding fiscal year.</text>
             </para>
@@ -115,7 +115,7 @@
         <para>
           <num>(B)</num>
           <text>Paragraph (2) is amended by striking the phrase "5-year Master Facilities Plan" and inserting the phrase "10-year Master Facilities Plan" in its place.</text>
-          <codify:find-replace path="(2)" count="1" codified:doc="D.C. Code" codified:path="§38-2803">
+          <codify:find-replace path="(2)" count="1" codified:doc="D.C. Code" codified:path="§38-2803|(a)|(2)">
             <find>5-year Master Facilities Plan</find>
             <replace>10-year Master Facilities Plan</replace>
           </codify:find-replace>
@@ -123,7 +123,7 @@
         <para>
           <num>(C)</num>
           <text>Paragraph (3) is amended by striking the phrase "5-year Master Facilities Plan" and inserting the phrase "10-year Master Facilities Plan" in its place.</text>
-          <codify:find-replace path="(3)" count="1" codified:doc="D.C. Code" codified:path="§38-2803">
+          <codify:find-replace path="(3)" count="1" codified:doc="D.C. Code" codified:path="§38-2803|(a)|(3)">
             <find>5-year Master Facilities Plan</find>
             <replace>10-year Master Facilities Plan</replace>
           </codify:find-replace>
@@ -138,7 +138,7 @@
           <para>
             <num>(i)</num>
             <text>Subparagraph (A) is amended by striking the semicolon at the end and inserting the phrase "("DCPS") and each public charter school campus;" in its place.</text>
-            <codify:find-replace path="(A)" count="1" codified:doc="D.C. Code" codified:path="§38-2803">
+            <codify:find-replace path="(A)" count="1" codified:doc="D.C. Code" codified:path="§38-2803|(b)|(2)|(A)">
               <find>;</find>
               <replace> ("DCPS") and each public charter school campus;</replace>
             </codify:find-replace>
@@ -149,7 +149,7 @@
             <para>
               <num>(I)</num>
               <text>The lead-in language is amended by striking the phrase "5-year facility needs" and inserting the phrase "10-year facility needs" in its place.</text>
-              <codify:find-replace path="text" count="1" codified:doc="D.C. Code" codified:path="§38-2803">
+              <codify:find-replace path="text" count="1" codified:doc="D.C. Code" codified:path="§38-2803|(b)|(2)|(B)">
                 <find>5-year facility needs</find>
                 <replace>10-year facility needs</replace>
               </codify:find-replace>
@@ -157,7 +157,7 @@
             <para>
               <num>(II)</num>
               <text>Sub-subparagraph (ii) is amended by striking the word "and".</text>
-              <codify:find-replace path="(ii)" count="1" codified:doc="D.C. Code" codified:path="§38-2803">
+              <codify:find-replace path="(ii)" count="1" codified:doc="D.C. Code" codified:path="§38-2803|(b)|(2)|(B)|(ii)">
                 <find>and</find>
                 <replace/>
               </codify:find-replace>
@@ -165,7 +165,7 @@
             <para>
               <num>(III)</num>
               <text>Sub-subparagraph (iii) is amended by striking the semicolon at the end and inserting the phrase "; and" in its place.</text>
-              <codify:find-replace path="(iii)" count="1" codified:doc="D.C. Code" codified:path="§38-2803">
+              <codify:find-replace path="(iii)" count="1" codified:doc="D.C. Code" codified:path="§38-2803|(b)|(2)|(B)|(iii)">
                 <find>;</find>
                 <replace>; and</replace>
               </codify:find-replace>
@@ -175,7 +175,7 @@
               <text>A new sub-subparagraph (iv) is added to read as follows:</text>
               <include>
                 <para>
-                  <codify:insert after="(iii)" codified:doc="D.C. Code" codified:path="§38-2803"/>
+                  <codify:insert after="(iii)" codified:doc="D.C. Code" codified:path="§38-2803|(b)|(2)|(B)|(iv)"/>
                   <num>(iv)</num>
                   <text>DCPS school attendance zone boundaries;</text>
                 </para>
@@ -186,7 +186,7 @@
           <para codify:path="(C)">
             <num>(iii)</num>
             <text>Subparagraph (C) is amended by striking the semicolon at the end and inserting the phrase "for each DCPS school and public charter school;" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803|(b)|(2)|(C)">
               <find>;</find>
               <replace> for each DCPS school and public charter school;</replace>
             </codify:find-replace>
@@ -196,7 +196,7 @@
             <text>Subparagraph (H) is amended to read as follows:</text>
             <include>
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§38-2803"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§38-2803|(b)|(2)|(H)"/>
                 <num>(H)</num>
                 <text>A communications and community involvement plan for each neighborhood cluster that includes engagement of students, school-based personnel, parents, and key stakeholders throughout the community, including:</text>
                 <para>
@@ -222,7 +222,7 @@
           <para codify:path="(I)">
             <num>(v)</num>
             <text>Subparagraph (I) is amended by striking the phrase "housing, health, and welfare sectors," and inserting the phrase "the District's housing sector" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803|(b)|(2)|(I)">
               <find>housing, health, and welfare sectors,</find>
               <replace>the District's housing sector</replace>
             </codify:find-replace>
@@ -237,7 +237,7 @@
             <para codify:path="(i)">
               <num>(I)</num>
               <text>Sub-subparagraph (i) is amended by striking the phrase "it considers".</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803|(b)|(3)|(A)|(i)">
                 <find>it considers</find>
                 <replace/>
               </codify:find-replace>
@@ -247,7 +247,7 @@
               <text>Sub-subparagraph (iii) is amended to read as follows:</text>
               <include>
                 <para>
-                  <codify:replace codified:doc="D.C. Code" codified:path="§38-2803"/>
+                  <codify:replace codified:doc="D.C. Code" codified:path="§38-2803|(b)|(3)|(A)|(iii)"/>
                   <num>(iii)</num>
                   <text>Its 10-year enrollment projections for each school under its jurisdiction; and</text>
                 </para>
@@ -257,7 +257,7 @@
             <para codify:path="(iv)">
               <num>(III)</num>
               <text>Sub-subparagraph (iv) is amended by striking the phrase "5-year" and inserting the phrase "10-year" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803|(b)|(3)|(A)|(iv)">
                 <find>5-year</find>
                 <replace>10-year</replace>
               </codify:find-replace>
@@ -269,7 +269,7 @@
             <para>
               <num>(I)</num>
               <text>Strike the phrase "5-year" and insert the phrase "10-year" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803|(b)|(3)|(B)|(i)">
                 <find>5-year</find>
                 <replace>10-year</replace>
               </codify:find-replace>
@@ -277,7 +277,7 @@
             <para>
               <num>(II)</num>
               <text>Strike the phrase "facilities-related needs" and insert the phrase "each public charter LEA's 10-year projection of facility needs" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803|(b)|(3)|(B)|(i)">
                 <find>facilities-related needs</find>
                 <replace>each public charter LEA's 10-year projection of facility needs</replace>
               </codify:find-replace>
@@ -286,14 +286,14 @@
           <para codify:path="(D)">
             <num>(iii)</num>
             <text>Subparagraph (D) is repealed.</text>
-            <codify:repeal codified:doc="D.C. Code" codified:path="§38-2803"/>
+            <codify:repeal codified:doc="D.C. Code" codified:path="§38-2803|(b)|(3)|(D)"/>
           </para>
           <para codify:path="(E)">
             <num>(iv)</num>
             <text>Subparagraph (E) is amended to read as follows:</text>
             <include>
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§38-2803"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§38-2803|(b)|(3)|(E)"/>
                 <num>(E)</num>
                 <text>The Department of General Services, which shall:</text>
                 <para>
@@ -314,7 +314,7 @@
           <text>A new paragraph (5) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§38-2803"/>
+              <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§38-2803|(b)|(5)"/>
               <num>(5)</num>
               <text>The Mayor may levy a fine against the Public Charter School Board for the failure of a public charter LEA to cooperate in providing the data required pursuant to paragraph (3)(E)(ii) of this subsection for the development of the Master Facilities Plan and annual supplement.  The cumulative value of such fines shall not annually exceed $10,000.</text>
             </para>
@@ -328,12 +328,12 @@
         <para codify:path="(2)">
           <num>(A)</num>
           <text>Paragraph (2) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§38-2803"/>
+          <codify:repeal codified:doc="D.C. Code" codified:path="§38-2803|(c)|(2)"/>
         </para>
         <para codify:path="(4)">
           <num>(B)</num>
           <text>Paragraph (4) is amended by striking the word "and" at the end.</text>
-          <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§38-2803">
+          <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§38-2803|(c)|(4)">
             <find>and</find>
             <replace/>
           </codify:find-replace>
@@ -341,7 +341,7 @@
         <para codify:path="(6)">
           <num>(C)</num>
           <text>Paragraph (6) is amended by striking the period at the end and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§38-2803">
+          <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§38-2803|(c)|(6)">
             <find>.</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -351,17 +351,17 @@
           <text>New paragraphs (7), (8), and (9) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(6)" codified:doc="D.C. Code" codified:path="§38-2803"/>
+              <codify:insert after="(6)" codified:doc="D.C. Code" codified:path="§38-2803|(c)|(7)"/>
               <num>(7)</num>
               <text>The Office of Planning;</text>
             </para>
             <para>
-              <codify:insert after="(7)" codified:doc="D.C. Code" codified:path="§38-2803"/>
+              <codify:insert after="(7)" codified:doc="D.C. Code" codified:path="§38-2803|(c)|(8)"/>
               <num>(8)</num>
               <text>The Department of General Services; and</text>
             </para>
             <para>
-              <codify:insert after="(8)" codified:doc="D.C. Code" codified:path="§38-2803"/>
+              <codify:insert after="(8)" codified:doc="D.C. Code" codified:path="§38-2803|(c)|(9)"/>
               <num>(9)</num>
               <text>The District of Columbia Public Schools.</text>
             </para>
@@ -374,7 +374,7 @@
         <text>A new subsection (c-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§38-2803"/>
+            <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§38-2803|(c-1)"/>
             <num>(c-1)</num>
             <text>The Master Facilities Plan shall not affect the duties, powers, or control afforded to public charter schools under <code-cite doc="D.C. Code" path="§38-1802.04">section 2204 of the District of Columbia School Reform Act of 1995, approved April 26, 1996 (110 Stat. 1321; D.C. Official Code § 38-1802.04)</code-cite>, to the extent the Master Facilities Plan is inconsistent with that law.</text>
           </para>
@@ -387,7 +387,7 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the phrase "Beginning in fiscal year 2010" and inserting the phrase "Beginning in Fiscal Year 2017" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2803|(d)|(1)">
             <find>Beginning in fiscal year 2010</find>
             <replace>Beginning in Fiscal Year 2017</replace>
           </codify:find-replace>
@@ -397,7 +397,7 @@
           <text>Paragraphs (2) and (3) are amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace path="(2)" codified:doc="D.C. Code" codified:path="§38-2803"/>
+              <codify:replace path="(2)" codified:doc="D.C. Code" codified:path="§38-2803|(d)|(2)"/>
               <num>(2)</num>
               <text>The School Facility CIP shall include:</text>
               <para>
@@ -450,7 +450,7 @@
               </para>
             </para>
             <para>
-              <codify:replace path="(3)" codified:doc="D.C. Code" codified:path="§38-2803"/>
+              <codify:replace path="(3)" codified:doc="D.C. Code" codified:path="§38-2803|(d)|(3)"/>
               <num>(3)</num>
               <para>
                 <num>(A)</num>
@@ -570,7 +570,7 @@
           <text>A new paragraph (4) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§38-2803"/>
+              <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§38-2803|(d)|(4)"/>
               <num>(4)</num>
               <text>Before adding a school or other education facility project to a School Facility CIP, the project shall have the following completed:</text>
               <para>

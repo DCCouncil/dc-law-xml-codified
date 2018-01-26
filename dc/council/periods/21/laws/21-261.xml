@@ -435,7 +435,7 @@
     <para codify:path="(53)">
       <num>(a)</num>
       <text>Paragraph (54) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(53)">
         <find>Equity.</find>
         <replace>Equity;</replace>
       </codify:find-replace>
@@ -443,7 +443,7 @@
     <para codify:path="(54)">
       <num>(b)</num>
       <text>Paragraph (55) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(54)">
         <find>Youth Apprenticeship Advisory Committee, established by § <cite path="§32-1412.01">32-1412.01</cite>.</find>
         <replace>Youth apprenticeship Advisory Committee, established by § <cite path="§32-1412.01">32-1412.01</cite>; and</replace>
       </codify:find-replace>
@@ -453,7 +453,7 @@
       <text>A new paragraph (56) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§1-523.01"/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(56)"/>
           <num>(56)</num>
           <text>The Commission on Out of School Time Grants and Youth Outcomes established pursuant to <code-cite doc="D.C. Code" path="|2|15|III-B">the Office of Out of School Time Grants and Youth Outcomes Establishment Act of 2016, passed on 2nd reading on December 20, 2016 (Enrolled version of Bill 21-865)</code-cite>.</text>
         </para>

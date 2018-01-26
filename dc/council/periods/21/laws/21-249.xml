@@ -87,7 +87,7 @@
       <text>Section 47-2853.04(a) is amended by adding a new paragraph (18A) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§47-2853.04|(a)" after="(18)" codified:doc="D.C. Code" codified:path="§47-2853.04"/>
+          <codify:insert doc="D.C. Code" path="§47-2853.04|(a)" after="(18)" codified:doc="D.C. Code" codified:path="§47-2853.04|(a)|(18A)"/>
           <num>(18A)</num>
           <text>Landscape Architect;</text>
         </para>
@@ -99,7 +99,7 @@
       <text>Section 47-2853.06(a) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§47-2853.06"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§47-2853.06|(a)"/>
           <num>(a)</num>
           <para>
             <num>(1)</num>
@@ -142,7 +142,7 @@
         <text>A new subsection (b) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§47-2853.61"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§47-2853.61|(b)"/>
             <num>(b)</num>
             <text>Nothing contained in this chapter shall be construed to prohibit a student, draftsman, or employee from engaging in the practice of architecture; provided, that the practice is performed under the responsible charge, as defined in <code-cite doc="D.C. Code" path="§47-2853.64|(a)|(4)">§ 47-2853.64(a)(4)</code-cite>, of a licensed architect.</text>
           </para>
@@ -361,7 +361,7 @@
   <section codify:doc="D.C. Code" codify:path="§1-523.01|(f)|(37)">
     <num>3</num>
     <text>Section 2(f)(37) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(f)(37)), is amended by striking the phrase "Board of Architecture and Interior Designers" and inserting the phrase "Board of Architecture, Interior Design, and Landscape Architecture" in its place.</text>
-    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01">
+    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(37)">
       <find>Board of Architecture and Interior Designers</find>
       <replace>Board of Architecture, Interior Design, and Landscape Architecture</replace>
     </codify:find-replace>

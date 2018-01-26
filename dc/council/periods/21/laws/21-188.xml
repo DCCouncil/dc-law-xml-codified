@@ -26,14 +26,14 @@
     <para codify:doc="D.C. Code" codify:path="§47-4301|(d)|(2)">
       <num>(a)</num>
       <text>The existing text is designated as subparagraph (A).</text>
-      <codify:redesignate-para num-value="(A)" codified:doc="D.C. Code" codified:path="§47-4301"/>
+      <codify:redesignate-para num-value="(A)" codified:doc="D.C. Code" codified:path="§47-4301|(d)|(2)"/>
     </para>
     <para>
       <num>(b)</num>
       <text>A new subparagraph (B) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§§47-4301|(d)|(2)" codified:doc="D.C. Code" codified:path="§47-4301"/>
+          <codify:insert doc="D.C. Code" path="§§47-4301|(d)|(2)" codified:doc="D.C. Code" codified:path="§47-4301|(d)|(2)|(B)"/>
           <num>(B)</num>
           <para>
             <num>(i)</num>

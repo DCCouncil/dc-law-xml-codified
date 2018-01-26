@@ -35,7 +35,7 @@
         <text>Paragraph (1) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="(1)" codified:doc="D.C. Code" codified:path="§7-1721.01"/>
+            <codify:replace path="(1)" codified:doc="D.C. Code" codified:path="§7-1721.01|(1)"/>
             <num>(1)</num>
             <text>"Tobacco product" means any product that is made from or derived from tobacco and is intended for human consumption or is likely to be consumed, whether smoked, heated, chewed, absorbed, dissolved, inhaled, or ingested by any other means, including through a cigarette, a cigar, pipe tobacco, chewing tobacco, snuff, snus, smokeless tobacco, or an electronic smoking device, as that term is defined in section 4915(1) of the Department of Health Functions Clarification Act of 2001, effective April 4, 2006 (D.C. Law 16-90; D.C. Official Code § 7-741.01(1)). The term "tobacco product" also includes any component or accessory used in the consumption of a tobacco product, such as filters, rolling papers, pipes, or liquids used in electronic smoking devices. The term "tobacco product" does not include drugs, devices, or combination products authorized for sale by the U.S. Food and Drug  Administration, as those terms are defined in the Federal Food, Drug, and Cosmetic Act, approved June 25, 1938 (52 Stat. 1040; 21 U.S.C. § 301 <em>et seq</em>.).
             </text>
@@ -46,7 +46,7 @@
       <para>
         <num>(2)</num>
         <text>Paragraph (2) is amended by striking the phrase "cigarettes or other tobacco product" wherever it appears and inserting the phrase "tobacco products" in its place.</text>
-        <codify:find-replace path="(2)" count="2" codified:doc="D.C. Code" codified:path="§7-1721.01">
+        <codify:find-replace path="(2)" count="2" codified:doc="D.C. Code" codified:path="§7-1721.01|(2)">
           <find>cigarettes or other tobacco product</find>
           <replace>tobacco products</replace>
         </codify:find-replace>
@@ -57,7 +57,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "a retail store that is used" and insert the phrase "a retail store that bars entry to individuals under 21years of age and that is used" in its place.</text>
-          <codify:find-replace path="(3)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.01">
+          <codify:find-replace path="(3)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.01|(3)">
             <find>a retail store that is used</find>
             <replace>a retail store that bars entry to individuals under 21years of age and that is used</replace>
           </codify:find-replace>
@@ -65,7 +65,7 @@
         <para>
           <num>(C)</num>
           <text>Strike the phrase "cigarettes, other tobacco product," and insert the phrase "tobacco products" in its place.</text>
-          <codify:find-replace path="(3)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.01">
+          <codify:find-replace path="(3)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.01|(3)">
             <find>cigarettes, other tobacco product,</find>
             <replace>tobacco products</replace>
           </codify:find-replace>
@@ -89,7 +89,7 @@
         <text>Subsection (a) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="(a)" codified:doc="D.C. Code" codified:path="§7-1721.02"/>
+            <codify:replace path="(a)" codified:doc="D.C. Code" codified:path="§7-1721.02|(a)"/>
             <num>(a)</num>
             <text>No person shall sell, give, or furnish any tobacco product to, or purchase any tobacco product on behalf of, any person under 21 years of age.</text>
           </para>
@@ -105,7 +105,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "cigarette or other tobacco product" and insert the phrase "tobacco product" in its place.</text>
-            <codify:find-replace path="(b)|(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.02">
+            <codify:find-replace path="(b)|(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.02|(b)|(1)">
               <find>cigarette or other tobacco product</find>
               <replace>tobacco product</replace>
             </codify:find-replace>
@@ -113,7 +113,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the number "27" and insert the number "30" in its place.</text>
-            <codify:find-replace path="(b)|(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.02">
+            <codify:find-replace path="(b)|(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.02|(b)|(1)">
               <find>27</find>
               <replace>30</replace>
             </codify:find-replace>
@@ -122,7 +122,7 @@
         <para>
           <num>(B)</num>
           <text>Paragraph (2) is amended by striking the number "18" and inserting the number "21" in its place.</text>
-          <codify:find-replace path="(b)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.02">
+          <codify:find-replace path="(b)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.02|(b)|(2)">
             <find>18</find>
             <replace>21</replace>
           </codify:find-replace>
@@ -131,7 +131,7 @@
       <para>
         <num>(4)</num>
         <text>Subsection (d) is amended by striking the phrase "license to sell cigarettes" and inserting the phrase "license to sell tobacco products" in its place.</text>
-        <codify:find-replace path="(d)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.02">
+        <codify:find-replace path="(d)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.02|(d)">
           <find>license to sell cigarettes</find>
           <replace>license to sell tobacco products</replace>
         </codify:find-replace>
@@ -141,7 +141,7 @@
         <text>Subsection (e)(1) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="(e)|(1)" codified:doc="D.C. Code" codified:path="§7-1721.02"/>
+            <codify:replace path="(e)|(1)" codified:doc="D.C. Code" codified:path="§7-1721.02|(e)|(1)"/>
             <num>(1)</num>
             <text>In any place or business where a person sells any tobacco product, the owner, manager, or person in charge of the place or business shall post a warning sign that includes the following: "No tobacco product will be sold to any person under 21 years of age.  Sales clerks will ask for proof of age from any person seeking to purchase any tobacco product who appears to be under 30 years of age."</text>
           </para>
@@ -170,7 +170,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the number "18" and insert the number "21" in its place.</text>
-            <codify:find-replace path="(a)|(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03">
+            <codify:find-replace path="(a)|(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03|(a)|(1)">
               <find>18</find>
               <replace>21</replace>
             </codify:find-replace>
@@ -178,7 +178,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the phrase "cigarette or other tobacco product" wherever it appears and insert the phrase "tobacco product" in its place.</text>
-            <codify:find-replace path="(a)|(1)" count="3" codified:doc="D.C. Code" codified:path="§7-1721.03">
+            <codify:find-replace path="(a)|(1)" count="3" codified:doc="D.C. Code" codified:path="§7-1721.03|(a)|(1)">
               <find>cigarette or other tobacco product</find>
               <replace>tobacco product</replace>
             </codify:find-replace>
@@ -191,7 +191,7 @@
         <para>
           <num>(i)</num>
           <text>Strike the number "18" and insert the number "21" in its place.</text>
-          <codify:find-replace path="(a)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03">
+          <codify:find-replace path="(a)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03|(a)|(2)">
             <find>18</find>
             <replace>21</replace>
           </codify:find-replace>
@@ -199,7 +199,7 @@
         <para>
           <num>(ii)</num>
           <text>Strike the phrase "cigarettes or other tobacco product" and insert the phrase "tobacco products" in its place.</text>
-          <codify:find-replace path="(a)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03">
+          <codify:find-replace path="(a)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03|(a)|(2)">
             <find>cigarettes or other tobacco product</find>
             <replace>tobacco products</replace>
           </codify:find-replace>
@@ -211,7 +211,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the number "18" and insert the number "21" in its place.</text>
-          <codify:find-replace path="(b)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03">
+          <codify:find-replace path="(b)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03|(b)">
             <find>18</find>
             <replace>21</replace>
           </codify:find-replace>
@@ -219,7 +219,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "cigarettes or other tobacco product" and insert the phrase "tobacco products" in its place.</text>
-          <codify:find-replace path="(b)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03">
+          <codify:find-replace path="(b)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03|(b)">
             <find>cigarettes or other tobacco product</find>
             <replace>tobacco products</replace>
           </codify:find-replace>
@@ -231,7 +231,7 @@
         <para>
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the phrase "shall be subject to a civil penalty of $50" and inserting the phrase "may be subject to a civil penalty of $25" in its place.</text>
-          <codify:find-replace path="(c)|(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03">
+          <codify:find-replace path="(c)|(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03|(c)|(1)">
             <find>shall be subject to a civil penalty of $50</find>
             <replace>may be subject to a civil penalty of $25</replace>
           </codify:find-replace>
@@ -239,7 +239,7 @@
         <para>
           <num>(B)</num>
           <text>Paragraph (2) is amended by striking the word "shall" and inserting the word "may" in its place.</text>
-          <codify:find-replace path="(c)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03">
+          <codify:find-replace path="(c)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03|(c)|(2)">
             <find>shall</find>
             <replace>may</replace>
           </codify:find-replace>
@@ -250,7 +250,7 @@
     <para codify:doc="D.C. Code" codify:path="§7-1721.04|(a)">
       <num>(d)</num>
       <text>Section 5(a) (D.C. Official Code § 7-1721.04(a)) is amended by striking the phrase "cigarettes or other tobacco product" and inserting the phrase "tobacco products" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1721.04">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1721.04|(a)">
         <find>cigarettes or other tobacco product</find>
         <replace>tobacco products</replace>
       </codify:find-replace>
@@ -259,7 +259,7 @@
     <para codify:doc="D.C. Code" codify:path="§7-1721.05|(d)">
       <num>(e)</num>
       <text>Section 6(d) (D.C. Official Code § 7-1721.05(d)) is amended by striking the phrase "cigarettes or other tobacco product" and inserting the phrase "tobacco products" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1721.05">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1721.05|(d)">
         <find>cigarettes or other tobacco product</find>
         <replace>tobacco products</replace>
       </codify:find-replace>
@@ -268,7 +268,7 @@
     <para codify:doc="D.C. Code" codify:path="§7-1721.06|(a)">
       <num>(f)</num>
       <text>Section 7(a) (D.C. Official Code § 7-1721.06(a)) is amended by striking the phrase "cigarette or other tobacco product" and inserting the phrase "tobacco product" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1721.06">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1721.06|(a)">
         <find>cigarette or other tobacco product</find>
         <replace>tobacco product</replace>
       </codify:find-replace>
@@ -281,7 +281,7 @@
     <para>
       <num>(a)</num>
       <text>The existing text is designated as paragraph (1).</text>
-      <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§7-1731"/>
+      <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§7-1731|(a)"/>
     </para>
     <para>
       <num>(b)</num>
@@ -289,7 +289,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the phrase "any free cigarettes or other tobacco product" and insert the phrase "any free tobacco product" in its place.</text>
-        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1731">
+        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1731|(a)">
           <find>any free cigarettes or other tobacco product</find>
           <replace>any free tobacco product</replace>
         </codify:find-replace>
@@ -297,7 +297,7 @@
       <para>
         <num>(2)</num>
         <text>Strike the phrase "free cigarettes or other tobacco products" and insert the phrase "tobacco products" in its place.</text>
-        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1731">
+        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1731|(a)">
           <find>free cigarettes or other tobacco products</find>
           <replace>tobacco products</replace>
         </codify:find-replace>
@@ -305,7 +305,7 @@
       <para>
         <num>(3)</num>
         <text>Strike the phrase "catering to adults" and insert the phrase "catering to adults; provided, that no tobacco product shall be distributed to persons under 21 years of age" in its place.</text>
-        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1731">
+        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1731|(a)">
           <find>catering to adults</find>
           <replace>catering to adults; provided, that no tobacco product shall be distributed to persons under 21 years of age</replace>
         </codify:find-replace>
@@ -316,7 +316,7 @@
       <text>A new paragraph (2) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§7-1731"/>
+          <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§7-1731|(a)"/>
           <num>(2)</num>
           <text>For the purposes of this subsection, the term "tobacco product" shall have the same meaning as provided in section 2(1) of An act to prohibit the sale of tobacco to minors under sixteen years of age in the District of Columbia, approved February 7, 1891 (26 Stat. 736; D.C. Official Code § 7-1721.01(1)).</text>
         </para>
@@ -328,7 +328,7 @@
   <section codify:doc="D.C. Code" codify:path="§47-2404|(b)|(3)|(A)">
     <num>4</num>
     <text>Section 47-2404(b)(3)(A) of the District of Columbia Official Code is amended by striking the number "18" and inserting the number "21" in its place.</text>
-    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2404">
+    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2404|(b)|(3)|(A)">
       <find>18</find>
       <replace>21</replace>
     </codify:find-replace>
@@ -340,7 +340,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability date="pending" history="false" codified:doc="D.C. Code" codified:path="§7-1721.01"/>
+      <codify:applicability date="pending" history="false" codified:doc="D.C. Code" codified:path="§7-1721.01|(1)"/>
     </para>
     <para>
       <num>(b)</num>

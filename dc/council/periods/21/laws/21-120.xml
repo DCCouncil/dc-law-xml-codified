@@ -29,19 +29,19 @@
       <para>
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the word "and" at the end.</text>
-        <codify:find-replace path="(1)" find="and" replace="" count="1" position="last" codified:doc="D.C. Code" codified:path="§7-1131.17"/>
+        <codify:find-replace path="(1)" find="and" replace="" count="1" position="last" codified:doc="D.C. Code" codified:path="§7-1131.17|(a)|(1)"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Paragraph (2) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace path="(2)" find="." replace="; and" count="1" codified:doc="D.C. Code" codified:path="§7-1131.17"/>
+        <codify:find-replace path="(2)" find="." replace="; and" count="1" codified:doc="D.C. Code" codified:path="§7-1131.17|(a)|(2)"/>
       </para>
       <para>
         <num>(3)</num>
         <text>A new paragraph (3) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§7-1131.17"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§7-1131.17|(a)|(3)"/>
             <num>(3)</num>
             <text>Recognize the warning signs and risk factors for youth suicide and implement best practices for suicide prevention, suicide intervention, and suicide postvention.</text>
           </para>
@@ -52,14 +52,14 @@
     <para>
       <num>(b)</num>
       <text>Subsection (b)(1) is amended by striking the phrase "Starting October 1, 2014, completion of the program shall be mandatory for all:" and inserting the phrase "Starting October 1, 2016, completion of the program shall be mandatory once every 2 years for all:" in its place.</text>
-      <codify:find-replace path="(b)|(1)" find="Starting October 1, 2014, completion of the program shall be mandatory for all:" replace="Starting October 1, 2016, completion of the program shall be mandatory once every 2 years for all:" count="1" codified:doc="D.C. Code" codified:path="§7-1131.17"/>
+      <codify:find-replace path="(b)|(1)" find="Starting October 1, 2014, completion of the program shall be mandatory for all:" replace="Starting October 1, 2016, completion of the program shall be mandatory once every 2 years for all:" count="1" codified:doc="D.C. Code" codified:path="§7-1131.17|(b)|(1)"/>
     </para>
     <para>
       <num>(c)</num>
       <text>A new subsection (e) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§7-1131.17"/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§7-1131.17|(e)"/>
           <num>(e)</num>
           <text>For the purposes of this section, the term:</text>
           <para>
@@ -142,19 +142,19 @@
     <para>
       <num>(a)</num>
       <text>Paragraph (23) is amended by striking the word "and" at the end.</text>
-      <codify:find-replace path="(23)" find="and" replace="" count="1" position="last" codified:doc="D.C. Code" codified:path="§38-2602"/>
+      <codify:find-replace path="(23)" find="and" replace="" count="1" position="last" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(23)"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Paragraph (24)(F) is amended by striking the period and inserting a semicolon in its place.</text>
-      <codify:find-replace path="(24)|(F)" find="agencies; advanced" replace="agencies;" count="1" codified:doc="D.C. Code" codified:path="§38-2602"/>
+      <codify:find-replace path="(24)|(F)" find="agencies; advanced" replace="agencies;" count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(24)|(F)"/>
     </para>
     <para>
       <num>(c)</num>
       <text>New paragraphs (25), (26), and (27) are added to read as follows:</text>
       <include>
         <para>
-          <codify:insert warning="false" technical="true" codified:doc="D.C. Code" codified:path="§38-2602"/>
+          <codify:insert warning="false" technical="true" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(26)"/>
           <num codify:value="(26)">(25)</num>
           <para>
             <num>(A)</num>
@@ -270,7 +270,7 @@
           </para>
         </para>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§38-2602"/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§38-2602|(b)|(27)"/>
           <num codify:value="(27)">(26)</num>
           <para>
             <num>(A)</num>
@@ -302,7 +302,7 @@
           </para>
         </para>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§38-2602"/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)"/>
           <num codify:value="(28)">(27)</num>
           <para>
             <num>(A)</num>

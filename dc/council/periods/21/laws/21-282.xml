@@ -664,7 +664,7 @@
             <text>Paragraph (2) is amended to read as follows:</text>
             <include>
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§8-103.03"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§8-103.03|(b)|(2)"/>
                 <num>(2)</num>
                 <text>No person shall hunt, fish, capture, intentionally harm or attempt to hunt, fish, capture, or intentionally harm fish in District waters, except while in physical possession of a license issued by the Mayor. The Mayor may establish and modify, through administrative orders, the seasons, methods, species, and allowable volume of take for fishing; provided, that if the Mayor issues an administrative order pursuant to this paragraph, the Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5">the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, shall first issue rules outlining how the administrative orders will be made public, which shall include a website where the public may access up-to-date information about seasons, methods, species, and volume of take authorized pursuant to this section.</text>
               </para>
@@ -674,7 +674,7 @@
           <para codify:path="(3)">
             <num>(2)</num>
             <text>Paragraph (3) is repealed.</text>
-            <codify:repeal codified:doc="D.C. Code" codified:path="§8-103.03"/>
+            <codify:repeal codified:doc="D.C. Code" codified:path="§8-103.03|(b)|(3)"/>
           </para>
         </para>
         <para>
@@ -718,7 +718,7 @@
         <para>
           <num>(c)</num>
           <text>Section 19(b)(2)(A) (D.C. Official Code § 8-103.18(b)(2)(A)) is amended by striking the phrase "$50,000 for each violation" and inserting the phrase "$50,000 for each violation; provided, that the Mayor may adjust this civil penalty by rulemaking to account for inflation" in its place.</text>
-          <codify:find-replace path="§8-103.18|(b)|(2)|(A)" count="1" codified:doc="D.C. Code" codified:path="§8-103.18">
+          <codify:find-replace path="§8-103.18|(b)|(2)|(A)" count="1" codified:doc="D.C. Code" codified:path="§8-103.18|(b)|(2)|(A)">
             <find>$50,000 for each violation</find>
             <replace>$50,000 for each violation; provided, that the Mayor may adjust this civil penalty by rulemaking to account for inflation</replace>
           </codify:find-replace>
@@ -740,7 +740,7 @@
         <para codify:path="§8-151.06|(2)">
           <num>(a)</num>
           <text>Section 106(2) (D.C. Official Code § 8-151.06(2)) is amended by striking the phrase "such as initiatives" and inserting the phrase "such as an aquatic resources education program, experiential learning activities that promote understanding and conservation of natural resources, and initiatives" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.06">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.06|(2)">
             <find>such as initiatives</find>
             <replace>such as an aquatic resources education program, experiential learning activities that promote understanding and conservation of natural resources, and initiatives</replace>
           </codify:find-replace>
@@ -751,7 +751,7 @@
           <para codify:path="(11)">
             <num>(1)</num>
             <text>Paragraph (11) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.07">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.07|(11)">
               <find>; and</find>
               <replace>;</replace>
             </codify:find-replace>
@@ -769,7 +769,7 @@
             <text>A new paragraph (13) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(12)" codified:doc="D.C. Code" codified:path="§8-151.07"/>
+                <codify:insert after="(12)" codified:doc="D.C. Code" codified:path="§8-151.07|(13)"/>
                 <num>(13)</num>
                 <text>Plan, design, implement, construct, and maintain projects to protect, restore, and enhance the environment.</text>
               </para>
@@ -783,7 +783,7 @@
           <para codify:path="(2)">
             <num>(1)</num>
             <text>Paragraph (2) is amended by striking the phrase "natural resources policy and make" and inserting the phrase "natural resources policy, planning, and implementation, and making" in its place</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.08">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.08|(2)">
               <find>natural resources policy and make</find>
               <replace>natural resources policy, planning, and implementation, and making</replace>
             </codify:find-replace>
@@ -791,7 +791,7 @@
           <para codify:path="(5)">
             <num>(2)</num>
             <text>Paragraph (5) is amended by striking the phrase "protect the environment and to promote environmental awareness" and inserting the phrase "protect and enhance the environment and natural resources, to promote environmental awareness, and to enforce the District's environmental and natural resource laws" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.08">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.08|(5)">
               <find>protect the environment and to promote environmental awareness</find>
               <replace>protect and enhance the environment and natural resources, to promote environmental awareness, and to enforce the District's environmental and natural resource laws</replace>
             </codify:find-replace>
@@ -799,7 +799,7 @@
           <para codify:path="(6)">
             <num>(3)</num>
             <text>Paragraph (6) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.08">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.08|(6)">
               <find>; and</find>
               <replace>;</replace>
             </codify:find-replace>
@@ -807,7 +807,7 @@
           <para codify:path="(7)">
             <num>(4)</num>
             <text>Paragraph (7) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.08">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-151.08|(7)">
               <find>DOEE.</find>
               <replace>DOEE; and</replace>
             </codify:find-replace>
@@ -817,7 +817,7 @@
             <text>A new paragraph (8) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(7)" codified:doc="D.C. Code" codified:path="§8-151.08"/>
+                <codify:insert after="(7)" codified:doc="D.C. Code" codified:path="§8-151.08|(8)"/>
                 <num>(8)</num>
                 <text>Serve as the trustee for natural resources for the District.</text>
               </para>
@@ -921,7 +921,7 @@
       <text>Section 6 of the Office of Administrative Hearings Establishment Act of 2001, effective March 6, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.03), is amended by adding a new subsection (b-11) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§2-1831.03" after="(b-12)" num-value="(b-13)" codified:doc="D.C. Code" codified:path="§2-1831.03"/>
+          <codify:insert doc="D.C. Code" path="§2-1831.03" after="(b-12)" num-value="(b-13)" codified:doc="D.C. Code" codified:path="§2-1831.03|(b-13)"/>
           <num>(b-11)</num>
           <text>In addition to those cases described in subsections (a), (b), (b-1), (b-2), (b-3), (b-4), (b-5), (b-6), (b-7), (b-8), (b-9), and <span codify:value="(b-10)[, (b-11), and (b-12),]">(b-10)</span>, <code-cite doc="D.C. Code" path="2|18A">this act</code-cite> shall apply to all adjudicated cases involving the modification, suspension, revocation, or denial of a permit issued under <code-cite doc="D.C. Code" path="§8-1731.07">section 207 of the Fisheries and Wildlife Omnibus Amendment Act of 2016, passed on 2nd reading on December 6, 2016 (Enrolled version of Bill 21-386)</code-cite>, and all adjudicated cases involving the denial, revocation, or suspension of an authorization under <code-cite doc="D.C. Code" path="§8-2231.03">section 303 of the Fisheries and Wildlife Omnibus Amendment Act of 2016, passed on 2nd reading on December 6, 2016 (Enrolled version of Bill 21-386)</code-cite>.</text>
         </para>

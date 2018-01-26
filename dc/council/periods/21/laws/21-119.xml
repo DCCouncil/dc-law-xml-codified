@@ -355,19 +355,19 @@
     <para>
       <num>(a)</num>
       <text>Paragraph (7) is amended by striking the word "or" at the end.</text>
-      <codify:find-replace count="1" find="or" path="(7)" position="last" replace="" codified:doc="D.C. Code" codified:path="§42-3131.06"/>
+      <codify:find-replace count="1" find="or" path="(7)" position="last" replace="" codified:doc="D.C. Code" codified:path="§42-3131.06|(b)|(7)"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Paragraph (8) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-      <codify:find-replace count="1" find="." path="(8)" position="last" replace="; or" codified:doc="D.C. Code" codified:path="§42-3131.06"/>
+      <codify:find-replace count="1" find="." path="(8)" position="last" replace="; or" codified:doc="D.C. Code" codified:path="§42-3131.06|(b)|(8)"/>
     </para>
     <para>
       <num>(c)</num>
       <text>A new paragraph (9) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§42-3131.06"/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§42-3131.06|(b)|(9)"/>
           <num>(9)</num>
           <text technical="true">Located on the Water Reed Redevelopment Site, for so long as the building and the land on which the building sits is subject to the ground lease to the Developer.</text>
         </para>

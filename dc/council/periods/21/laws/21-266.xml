@@ -29,7 +29,7 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph (1) is redesignated as paragraph (1B).</text>
-        <codify:find-replace path="num" count="1" codified:doc="D.C. Code" codified:path="§32-1301">
+        <codify:find-replace path="num" count="1" codified:doc="D.C. Code" codified:path="§32-1301|(1B)">
           <find>(1)</find>
           <replace>(1B)</replace>
         </codify:find-replace>
@@ -39,12 +39,12 @@
         <text>New paragraphs (1) and (1A) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert before="(1B)" codified:doc="D.C. Code" codified:path="§32-1301"/>
+            <codify:insert before="(1B)" codified:doc="D.C. Code" codified:path="§32-1301|(1)"/>
             <num>(1)</num>
             <text>"Administrative Law Judge" means an administrative law judge of the Office of Administrative Hearings, established by <code-cite doc="D.C. Code" path="§2-1831.02">section 5 of the Office of Administrative Hearings Establishment Act of 2001, effective March 6, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.02)</code-cite>.</text>
           </para>
           <para>
-            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§32-1301"/>
+            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§32-1301|(1A)"/>
             <num>(1A)</num>
             <text>"Attorney General" means the Attorney General for the District of Columbia, as established by <code-cite doc="D.C. Code" path="§1-204.35">section 435 of the District of Columbia Home Rule Act, effective May 28, 2011 (D.C. Law 18-160A; D.C. Official Code § 1-204.35)</code-cite>.</text>
           </para>
@@ -68,7 +68,7 @@
         <text>Paragraph 5 is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§32-1303"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§32-1303|(5)"/>
             <num>(5)</num>
             <text>A subcontractor, including any intermediate subcontractor, and the general contractor shall be jointly and severally liable to the subcontractor's employees for the subcontractor's violations of <code-cite doc="D.C. Code" path="32|13">this act</code-cite>, <cite doc="D.C. Code" path="2|2|X-A">the Living Wage Act</cite>, and <cite doc="D.C. Code" path="32|5|III">the Sick and Safe Leave Act</cite>. Except as otherwise provided in a contract between the subcontractor and the general contractor, the subcontractor shall indemnify the general contractor for any wages, damages, interest, penalties, or attorneys' fees owed as a result of the subcontractor's violations of <code-cite doc="D.C. Code" path="32|13">this act</code-cite>, <cite doc="D.C. Code" path="2|2|X-A">the Living Wage Act</cite>, and <cite doc="D.C. Code" path="32|5|III">the Sick and Safe Leave Act</cite>, unless those violations were due to the lack of prompt payment in accordance with the terms of the contract between the general contractor and the subcontractor.</text>
           </para>
@@ -78,7 +78,7 @@
       <para codify:path="(6)">
         <num>(2)</num>
         <text>Paragraph 6 is amended by striking the phrase "Unless otherwise agreed to by the parties, the temporary staffing firm shall indemnify the employer as a result of the temporary staffing firm's violations" and inserting the phrase "Except as otherwise provided in a contract between the temporary staffing firm and its client, the temporary staffing firm shall indemnify its client for any wages, damages, interest, penalties, or attorneys' fees owed as a result of the temporary staffing firm's violations" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1303">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1303|(6)">
           <find>Unless otherwise agreed to by the parties, the temporary staffing firm shall indemnify the employer as a result of the temporary staffing firm's violations</find>
           <replace>Except as otherwise provided in a contract between the temporary staffing firm and its client, the temporary staffing firm shall indemnify its client for any wages, damages, interest, penalties, or attorneys' fees owed as a result of the temporary staffing firm's violations</replace>
         </codify:find-replace>
@@ -92,7 +92,7 @@
         <text>Subsection (a)(2) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§32-1306"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§32-1306|(a)|(2)"/>
             <num>(2)</num>
             <para>
               <num>(A)</num>
@@ -136,14 +136,14 @@
         <para>
           <num>(i)</num>
           <text>The existing text is designated as paragraph (1).</text>
-          <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§32-1306"/>
+          <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§32-1306|(b)"/>
         </para>
         <para>
           <num>(ii)</num>
           <text>A new paragraph (2) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§32-1306"/>
+              <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§32-1306|(b)|(2)"/>
               <num>(2)</num>
               <text>The Attorney General shall have the power to investigate whether there are violations of <code-cite doc="D.C. Code" path="32|13">this act</code-cite>, <cite doc="D.C. Code" path="2|2|X-A">the Living Wage Act</cite>, <cite doc="D.C. Code" path="32|5|III">the Sick and Safe Leave Act</cite>, or <cite doc="D.C. Code" path="32|10">the Minimum Wage Revision Act</cite>, and administer oaths and examine witnesses under oath, issue subpoenas, compel the attendance of witnesses, and the production of papers, books, accounts, records, payrolls, documents, and testimony and to take depositions and affidavits in connection with any such investigation.</text>
             </para>
@@ -156,7 +156,7 @@
         <text>Subsection (c) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§32-1306"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§32-1306|(c)"/>
             <num>(c)</num>
             <text>A person to whom a subpoena authorized by this section has been issued shall have the opportunity to move to quash or modify the subpoena in the Superior Court of the District of Columbia. In case of failure of a person to comply with any subpoena lawfully issued under this section, or on the refusal of a witness to testify to any matter regarding which he or she may be lawfully interrogated, it shall be the duty of the Superior Court of the District of Columbia, or any judge thereof, upon application by the Mayor or the Attorney General, to compel obedience by attachment proceedings for contempt, as in the case of disobedience of the requirements of a subpoena issued from the Court or a refusal to testify therein.</text>
           </para>
@@ -168,7 +168,7 @@
         <text>New subsections (d) and (e) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§32-1306"/>
+            <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§32-1306|(d)"/>
             <num>(d)</num>
             <para>
               <num>(1)</num>
@@ -207,7 +207,7 @@
             </para>
           </para>
           <para>
-            <codify:insert after="(d)" codified:doc="D.C. Code" codified:path="§32-1306"/>
+            <codify:insert after="(d)" codified:doc="D.C. Code" codified:path="§32-1306|(e)"/>
             <num>(e)</num>
             <text>Every employer shall furnish to each employee at the time of payment of wages an itemized statement showing the:</text>
             <para>
@@ -244,7 +244,7 @@
       <text>Section 7(a) (D.C. Official Code § 32-1307(a)) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§32-1307"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§32-1307|(a)"/>
           <num>(a)</num>
           <para>
             <num>(1)</num>
@@ -288,7 +288,7 @@
           <para>
             <num>(a)</num>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§32-1308"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§32-1308|(a)|(1)"/>
               <num>(1)</num>
               <para>
                 <num>(A)</num>
@@ -354,7 +354,7 @@
       <para codify:path="(b)|(4)">
         <num>(2)</num>
         <text>Subsection (b)(4) is amended by striking the word "Mayor" and inserting the word "District" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308|(b)|(4)">
           <find>Mayor</find>
           <replace>District</replace>
         </codify:find-replace>
@@ -366,7 +366,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "A signed complaint" and inserting the phrase "A physically or electronically signed complaint" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01|(a)">
           <find>A signed complaint</find>
           <replace>A physically or electronically signed complaint</replace>
         </codify:find-replace>
@@ -377,7 +377,7 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the word "deliver" and inserting the word "serve" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01|(c)|(1)">
             <find>deliver</find>
             <replace>serve</replace>
           </codify:find-replace>
@@ -385,7 +385,7 @@
         <para codify:path="(2)">
           <num>(B)</num>
           <text>Paragraph (2) is amended by striking the word "receipt" and inserting the phrase "receipt of service" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01|(c)|(2)">
             <find>receipt</find>
             <replace>receipt of service</replace>
           </codify:find-replace>
@@ -393,7 +393,7 @@
         <para codify:path="(3)">
           <num>(C)</num>
           <text>Paragraph (3) is amended by striking the word "mailed" and inserting the word "served" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01|(c)|(3)">
             <find>mailed</find>
             <replace>served</replace>
           </codify:find-replace>
@@ -403,7 +403,7 @@
           <text>Paragraph (4) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§32-1308.01"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§32-1308.01|(c)|(4)"/>
               <num>(4)</num>
               <text>If a respondent admits the allegation, the Mayor shall issue an administrative order requiring the respondent to provide restitution, including the payment of any back wages unlawfully withheld, liquidated damages equal to the amount of unpaid wages, reasonable attorney fees and costs, and other legal or equitable relief as may be appropriate, including reinstatement in employment, and other injunctive relief, and which may include statutory penalties. The Mayor or Attorney General may also proceed with an audit or subpoena to determine if the rights of employees other than the complainant have also been violated.</text>
             </para>
@@ -413,7 +413,7 @@
         <para codify:path="(5)">
           <num>(E)</num>
           <text>Paragraph (5) is amended by striking the word "mailed" and inserting the word "served" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01|(c)|(5)">
             <find>mailed</find>
             <replace>served</replace>
           </codify:find-replace>
@@ -424,7 +424,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the word "delivered" and insert the word "served" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01|(c)|(6)">
               <find>delivered</find>
               <replace>served</replace>
             </codify:find-replace>
@@ -432,7 +432,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the phrase "pay any unpaid wages, compensation, liquidated damages, and fine or penalty owed and requiring the respondent to cure any violations." and insert the phrase "provide restitution including the payment of any back wages unlawfully withheld, liquidated damages equal to treble the amount of unpaid wages, statutory penalties, reasonable attorney fees and costs, other legal or equitable relief as may be appropriate, including reinstatement in employment, and other injunctive relief." in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01|(c)|(6)">
               <find>pay any unpaid wages, compensation, liquidated damages, and fine or penalty owed and requiring the respondent to cure any violations.</find>
               <replace>provide restitution including the payment of any back wages unlawfully withheld, liquidated damages equal to treble the amount of unpaid wages, statutory penalties, reasonable attorney fees and costs, other legal or equitable relief as may be appropriate, including reinstatement in employment, and other injunctive relief.</replace>
             </codify:find-replace>
@@ -443,7 +443,7 @@
           <text>Paragraph (7) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§32-1308.01"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§32-1308.01|(c)|(7)"/>
               <num>(7)</num>
               <text>The Mayor shall issue an initial determination within 60 days after the date the complaint is served. The initial determination shall set forth a brief summary of the evidence considered, the findings of fact, the conclusions of law, and an order requiring the respondent to provide restitution, including the payment of any back wages unlawfully withheld, liquidated damages equal to treble the amount of unpaid wages, statutory penalties, reasonable attorney fees and costs, and other legal or equitable relief as may be appropriate, including reinstatement in employment, and other injunctive relief. The initial determination shall be provided to both parties and set forth the losing party's right to appeal under this section or to seek other relief available under <code-cite doc="D.C. Code" path="32|13">this act</code-cite>.</text>
             </para>
@@ -453,7 +453,7 @@
         <para codify:path="(9)">
           <num>(H)</num>
           <text>Paragraph (9) is amended by striking the word "filing" and inserting the word "serving" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01|(c)|(9)">
             <find>filing</find>
             <replace>serving</replace>
           </codify:find-replace>
@@ -462,7 +462,7 @@
       <para codify:path="(e)|(1)">
         <num>(3)</num>
         <text>Subsection (e)(1) is amended by striking the phrase "administrative law judge shall issue an order based on the findings from the hearing. The".</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01|(e)|(1)">
           <find>administrative law judge shall issue an order based on the findings from the hearing. The</find>
           <replace/>
         </codify:find-replace>
@@ -472,7 +472,7 @@
         <text>Subsection (f)(2) is amended to read as follows</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§32-1308.01"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§32-1308.01|(f)|(2)"/>
             <num>(2)</num>
             <text>Appropriate relief shall include the payment of any back wages unlawfully withheld, liquidated damages equal to treble the amount of unpaid wages, statutory penalties, reasonable attorney fees and costs, and other legal or equitable relief as may be appropriate, including reinstatement in employment, and other injunctive relief.</text>
           </para>
@@ -482,7 +482,7 @@
       <para codify:path="(m)|(4)">
         <num>(5)</num>
         <text>Subsection (m)(4) is amended by striking the word "Mayor" and inserting the word "District" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1308.01|(m)|(4)">
           <find>Mayor</find>
           <replace>District</replace>
         </codify:find-replace>
@@ -492,7 +492,7 @@
         <text>A new subsection (n) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(m)" codified:doc="D.C. Code" codified:path="§32-1308.01"/>
+            <codify:insert after="(m)" codified:doc="D.C. Code" codified:path="§32-1308.01|(n)"/>
             <num>(n)</num>
             <text>Appeals of any order issued or fine assessed under <code-cite doc="D.C. Code" path="32|13">this act</code-cite>, <cite doc="D.C. Code" path="32|10">the Minimum Wage Revision Act</cite>, <cite doc="D.C. Code" path="32|5|III">the Sick and Safe Leave Act</cite>, or <cite doc="D.C. Code" path="2|2|X-A">the Living Wage Act</cite> shall be made to the District of Columbia Court of Appeals.</text>
           </para>
@@ -531,7 +531,7 @@
     <para codify:path="§32-1331.12|(a)">
       <num>(j)</num>
       <text>Section 212(a) (D.C. Official Code § 32-1331.12(a)) is amended by striking the phrase "3 years, in or about its place of business," and inserting the phrase "3 years or the prevailing federal standard at the time the record is created, which shall be identified in rules issued pursuant to <code-cite doc="D.C. Code" path="32|13">this act</code-cite>, whichever is greater, in or about its place of business," in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1331.12">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1331.12|(a)">
         <find>3 years, in or about its place of business,</find>
         <replace>3 years or the prevailing federal standard at the time the record is created, which shall be identified in rules issued pursuant to <code-cite doc="D.C. Code" path="32|13">this act</code-cite>, whichever is greater, in or about its place of business,</replace>
       </codify:find-replace>
@@ -546,7 +546,7 @@
       <para codify:path="(3)">
         <num>(1)</num>
         <text>Paragraph (3) is amended by adding the word "or" at the end.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1004">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1004|(b)|(3)">
           <find>;</find>
           <replace>; or</replace>
         </codify:find-replace>
@@ -554,7 +554,7 @@
       <para>
         <num>(2)</num>
         <text>Paragraph (5) is repealed.</text>
-        <codify:repeal path="(5)" codified:doc="D.C. Code" codified:path="§32-1004"/>
+        <codify:repeal path="(5)" codified:doc="D.C. Code" codified:path="§32-1004|(b)|(5)"/>
       </para>
     </para>
     <para codify:path="§32-1007">
@@ -601,7 +601,7 @@
           <para codify:path="text">
             <num>(i)</num>
             <text>The lead-in language is amended striking the phrase "or whatever the prevailing federal standard is," and inserting the phrase "or the prevailing federal standard at the time the record is created, which shall be identified in rules issued pursuant to this act," in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1008">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1008|(a)|(1)">
               <find>or whatever the prevailing federal standard is,</find>
               <replace>or the prevailing federal standard at the time the record is created, which shall be identified in rules issued pursuant to <code-cite doc="D.C. Code" path="32|10">this act</code-cite>,</replace>
             </codify:find-replace>
@@ -611,7 +611,7 @@
             <text>Subparagraph (D) is amended to read as follows:</text>
             <include>
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§32-1008"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§32-1008|(a)|(1)|(D)"/>
                 <num>(D)</num>
                 <text>The precise times worked each day and each workweek by each employee, except for employees who are not paid on an hourly basis and who are exempt from the minimum wage and overtime requirements under <code-cite doc="D.C. Code" path="§32-1004|(a)">section 5(a)</code-cite>; and</text>
               </para>
@@ -624,7 +624,7 @@
           <text>Paragraph (2) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§32-1008"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§32-1008|(a)|(2)"/>
               <num>(2)</num>
               <para>
                 <num>(A)</num>
@@ -642,7 +642,7 @@
       <para codify:path="(c)">
         <num>(2)</num>
         <text>Subsection (c) is amended by striking the phrase "shall furnish to each employee at the time of hiring a written notice, both in English and in the employee's primary language, containing the following information:" and inserting the phrase "shall furnish to each employee at the time of hiring, and whenever any of the information contained in the written notice changes, a written notice in English; provided, that if the Mayor has made a sample template available in a language other than English that the employer knows to be the employee's primary language or that the employee requests, the employer shall furnish the written notice to the employee in that other language also. The notice required by this subsection shall contain:" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1008">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1008|(c)">
           <find>shall furnish to each employee at the time of hiring a written notice, both in English and in the employee's primary language, containing the following information:</find>
           <replace>shall furnish to each employee at the time of hiring, and whenever any of the information contained in the written notice changes, a written notice in English; provided, that if the Mayor has made a sample template available in a language other than English that the employer knows to be the employee's primary language or that the employee requests, the employer shall furnish the written notice to the employee in that other language also. The notice required by this subsection shall contain:</replace>
         </codify:find-replace>
@@ -655,7 +655,7 @@
           <text>Paragraph (1) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§32-1008"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§32-1008|(d)|(1)"/>
               <num>(1)</num>
               <para>
                 <num>(A)</num>
@@ -672,7 +672,7 @@
         <para codify:path="(3)">
           <num>(B)</num>
           <text>Paragraph (3) is amended by striking the phrase "subsections (b) and (c) of".</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1008">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1008|(d)|(3)">
             <find>subsections (b) and (c) of</find>
             <replace/>
           </codify:find-replace>
@@ -685,7 +685,7 @@
           <text>On or before February 26, 2017, the Mayor also shall publish online a translation of the sample template in any languages required for vital documents pursuant to <code-cite doc="D.C. Code" path="§2-1933">section 4 of the Language Access Act of 2004, effective June 19, 2004 (D.C. Law 15-167; D.C. Official Code § 2-1933)</code-cite>.  The Mayor shall also publish online translations of the sample template in any additional languages the Mayor considers appropriate to carry out the purposes of this section.</text>
         </include>
         <aftertext>.</aftertext>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1008">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1008|(e)">
           <find>2015.</find>
           <replace>2015. On or before February 26, 2017, the Mayor also shall publish online a translation of the sample template in any languages required for vital documents pursuant to <code-cite doc="D.C. Code" path="§2-1933">section 4 of the Language Access Act of 2004, effective June 19, 2004 (D.C. Law 15-167; D.C. Official Code § 2-1933)</code-cite>.  The Mayor shall also publish online translations of the sample template in any additional languages the Mayor considers appropriate to carry out the purposes of this section.</replace>
         </codify:find-replace>
@@ -701,7 +701,7 @@
           <text>The notice shall be provided in English and, if the Mayor has made available a translation of the sample template in a language that is known by the temporary staffing firm to be the employee's primary language or that the employee requests, the temporary staffing firm shall furnish written notice to the employee in that other language also.</text>
         </include>
         <aftertext>.</aftertext>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1008.01">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1008.01|(a)|(1)">
           <find>).</find>
           <replace>). The notice shall be provided in English and, if the Mayor has made available a translation of the sample template in a language that is known by the temporary staffing firm to be the employee's primary language or that the employee requests, the temporary staffing firm shall furnish written notice to the employee in that other language also.</replace>
         </codify:find-replace>
@@ -713,7 +713,7 @@
           <para>
             <num>(b)</num>
             <text>When a temporary staffing firm assigns an employee to perform work at, or provide services for, a client, the temporary staffing firm shall furnish the employee a written notice in English, and in another language that the employer knows to be the employee's primary language or that the employee requests, if a sample template has been made available pursuant to subsection (c) of this section, of:</text>
-            <codify:replace codified:doc="D.C. Code" codified:path="§32-1008.01">
+            <codify:replace codified:doc="D.C. Code" codified:path="§32-1008.01|(b)">
               <text>When a temporary staffing firm assigns an employee to perform work at, or provide services for, a client, the temporary staffing firm shall furnish the employee a written notice in English, and in another language that the employer knows to be the employee's primary language or that the employee requests, if a sample template has been made available pursuant to subsection (c) of this section, of:</text>
             </codify:replace>
           </para>
@@ -725,7 +725,7 @@
         <text>Subsection (c) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§32-1008.01"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§32-1008.01|(c)"/>
             <num>(c)</num>
             <text>On or before February 26, 2017, the Mayor shall publish online a translation of the sample template of the notice required by this section in any language required for vital documents pursuant to <code-cite doc="D.C. Code" path="§2-1933">section 4 of the Language Access Act of 2004, effective June 19, 2004 (D.C. Law 15-167; D.C. Official Code § 2-1933)</code-cite>. The Mayor shall also publish online translations of the sample template in any additional languages the Mayor considers appropriate to carry out the purposes of this section.</text>
           </para>
@@ -736,7 +736,7 @@
     <para codify:path="§32-1011|(d)|(1)|(C)">
       <num>(e)</num>
       <text>Section 12(d)(1)(C) (D.C. Official Code § 32-1011(d)(1)(C)) is amended by striking the phrase "or whatever the prevailing federal standard is, whichever is greater" and inserting the phrase "or the prevailing federal standard at the time the record is created, which shall be identified in rules issued pursuant to this act, whichever is greater," in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1011">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1011|(d)|(1)|(C)">
         <find>or whatever the prevailing federal standard is, whichever is greater</find>
         <replace>or the prevailing federal standard at the time the record is created, which shall be identified in rules issued pursuant to <code-cite doc="D.C. Code" path="32|10">this act</code-cite>, whichever is greater,</replace>
       </codify:find-replace>
@@ -755,7 +755,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "according to" and inserting the phrase "according to, and with all the remedies provided under," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1012">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1012|(a)">
           <find>according to</find>
           <replace>according to, and with all the remedies provided under,</replace>
         </codify:find-replace>
@@ -763,7 +763,7 @@
       <para codify:path="(b)|(2)">
         <num>(2)</num>
         <text>Subsection (b)(2) is amended by striking the phrase "The court may award an amount of liquidated damages less than treble the amount of unpaid wages, but not less than the amount of unpaid wages. In any action commenced to recover unpaid wages or liquidated damages, the employer shall demonstrate" and inserting the phrase "The court may award an additional amount of liquidated damages less than treble the amount of unpaid wages, but not less than the amount of unpaid wages, only if the employer demonstrates" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1012">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1012|(b)|(2)">
           <find>The court may award an amount of liquidated damages less than treble the amount of unpaid wages, but not less than the amount of unpaid wages. In any action commenced to recover unpaid wages or liquidated damages, the employer shall demonstrate</find>
           <replace>The court may award an additional amount of liquidated damages less than treble the amount of unpaid wages, but not less than the amount of unpaid wages, only if the employer demonstrates</replace>
         </codify:find-replace>
@@ -773,7 +773,7 @@
         <text>Subsection (c) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§32-1012"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§32-1012|(c)"/>
             <num>(c)</num>
             <text>A subcontractor, including any intermediate subcontractor, and the general contractor shall be jointly and severally liable to the subcontractor's employees for the subcontractor's violations of <code-cite doc="D.C. Code" path="32|10">this act</code-cite>. Except as otherwise provided in a contract between the subcontractor and the general contractor, the subcontractor shall indemnify the general contractor for any wages, damages, interest, penalties, or attorneys' fees owed as a result of the subcontractor's violations of <code-cite doc="D.C. Code" path="32|10">this act</code-cite>, unless those violations were due to the lack of prompt payment in accordance with the terms of the contract between the general contractor and the subcontractor.</text>
           </para>
@@ -785,7 +785,7 @@
         <text>Subsection (f) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§32-1012"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§32-1012|(f)"/>
             <num>(f)</num>
             <para>
               <num>(1)</num>
@@ -823,7 +823,7 @@
     <para>
       <num>(a)</num>
       <text>Section 11b(a) of the Accrued Sick and Safe Leave Act of 2008, effective February 22, 2014 (D.C. Law 20-89; D.C. Official Code § 32-131.10b(a)), is amended by striking the phrase "3 years," and inserting the phrase "3 years or the prevailing federal standard at the time the record is created, which shall be identified in rules issued pursuant to this act, whichever is greater," in its place.</text>
-      <codify:find-replace doc="D.C. Code" path="§32-531.10b|(a)" count="1" codified:doc="D.C. Code" codified:path="§32-531.10b">
+      <codify:find-replace doc="D.C. Code" path="§32-531.10b|(a)" count="1" codified:doc="D.C. Code" codified:path="§32-531.10b|(a)">
         <find>3 years,</find>
         <replace>3 years or the prevailing federal standard at the time the record is created, which shall be identified in rules issued pursuant to <code-cite doc="D.C. Code" path="32|5|III">this act</code-cite>, whichever is greater,</replace>
       </codify:find-replace>

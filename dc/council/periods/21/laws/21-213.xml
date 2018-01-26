@@ -25,7 +25,7 @@
     <text>Section 6 of An Act To provide for the abatement of nuisances in the District of Columbia by the Commissioners of said District, and for other purposes, effective April 27, 2001 (D.C. Law 13-281; D.C. Official Code § 42-3131.06), is amended by adding a new subsection (a-1) to read as follows:</text>
     <include>
       <para>
-        <codify:insert doc="D.C. Code" path="§42-3131.06" after="(a-1)" codified:doc="D.C. Code" codified:path="§42-3131.06"/>
+        <codify:insert doc="D.C. Code" path="§42-3131.06" after="(a-1)" codified:doc="D.C. Code" codified:path="§42-3131.06|(a-2)"/>
         <num>(a-2)</num>
         <para>
           <num>(1)</num>
@@ -82,7 +82,7 @@
         <text>A new subsection (a-1) is added to read as follows as follows:</text>
         <include>
           <para>
-            <codify:insert path="§47-2828" after="(a)" codified:doc="D.C. Code" codified:path="§47-2828"/>
+            <codify:insert path="§47-2828" after="(a)" codified:doc="D.C. Code" codified:path="§47-2828|(a-1)"/>
             <num>(a-1)</num>
             <para>
               <num>(1)</num>
@@ -106,14 +106,14 @@
         <para>
           <num>(A)</num>
           <text>The existing text is designated as paragraph (1).</text>
-          <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§47-2828"/>
+          <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§47-2828|(c)"/>
         </para>
         <para>
           <num>(B)</num>
           <text>A new paragraph (2) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§47-2828"/>
+              <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§47-2828|(c)|(2)"/>
               <num>(2)</num>
               <text>As a condition of licensure, apartment houses, all community-based residential facilities, and other residential housing businesses shall post and provide to the Mayor a telephone number as required by subsection (a-1) of this section.</text>
             </para>

@@ -28,7 +28,7 @@
       <text>Section 2 (D.C. Official Code § 50-1501.02) is amended by adding a new subsection (f-1) to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(f)" codified:doc="D.C. Code" codified:path="§50-1501.02"/>
+          <codify:insert after="(f)" codified:doc="D.C. Code" codified:path="§50-1501.02|(f-1)"/>
           <num>(f-1)</num>
           <para>
             <num>(1)</num>
@@ -45,7 +45,7 @@
     <para codify:path="§50-1501.02b|(a)">
       <num>(b)</num>
       <text>Section 2b(a) (D.C. Official Code § 50-1501.02b(a)) is amended by striking the phrase "TAXATION WITHOUT REPRESENTATION" and inserting the phrase "End Taxation Without Representation" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1501.02b">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1501.02b|(a)">
         <find>TAXATION WITHOUT REPRESENTATION</find>
         <replace>End Taxation Without Representation</replace>
       </codify:find-replace>
@@ -53,7 +53,7 @@
     <para codify:path="§50-1501.02c|(a)">
       <num>(c)</num>
       <text>Section 2c(a) (D.C. Official Code § 50-1501.02c(a)) is amended by striking the phrase "TAXATION WITHOUT REPRESENTATION" and inserting the phrase "End Taxation Without Representation" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1501.02c">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1501.02c|(a)">
         <find>TAXATION WITHOUT REPRESENTATION</find>
         <replace>End Taxation Without Representation</replace>
       </codify:find-replace>
@@ -94,7 +94,7 @@
         <text>Subsection (a)(1) is amended by adding a new subparagraph (H) to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(G)" codified:doc="D.C. Code" codified:path="§50-1501.03"/>
+            <codify:insert after="(G)" codified:doc="D.C. Code" codified:path="§50-1501.03|(a)|(1)|(H)"/>
             <num>(H)</num>
             <text>Any person ordering a "We Demand Statehood" identification tag designed and made available pursuant to section 2d(a) shall pay the fees established pursuant to <code-cite doc="D.C. Code" path="§50-1501.02d|(b)">section 2d(b)(1)</code-cite>(1).</text>
           </para>
@@ -107,7 +107,7 @@
         <para codify:path="(4)">
           <num>(A)</num>
           <text>Paragraph (4) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1501.03">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1501.03|(d)|(4)">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -115,7 +115,7 @@
         <para codify:path="(5)">
           <num>(B)</num>
           <text>Paragraph (5) is amended by striking the period at the end and inserting the phrase "; and" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1501.03">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-1501.03|(d)|(5)">
             <find><code-cite doc="D.C. Code" path="§50-921.20">section 9l of the Department of Transportation Establishment Act of 2002, effective October 22, 2015 (D.C. Law 21-36; D.C. Official Code § 50-921.20)</code-cite>.</find>
             <replace><code-cite doc="D.C. Code" path="§50-921.20">section 9l of the Department of Transportation Establishment Act of 2002, effective October 22, 2015 (D.C. Law 21-36; D.C. Official Code § 50-921.20)</code-cite>; and</replace>
           </codify:find-replace>
@@ -125,7 +125,7 @@
           <text>A new paragraph (6) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§50-1501.03"/>
+              <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§50-1501.03|(d)|(6)"/>
               <num>(6)</num>
               <text>The fees collected for "We Demand Statehood" identification tags shall be deposited in the New Columbia Statehood Fund, established by <code-cite doc="D.C. Code" path="§1-129.32">section 32 of the District of Columbia Statehood Constitutional Convention Initiative of 1979, effective May 2, 2015 (D.C. Law 20-271; D.C. Official Code § 1-129.32)</code-cite>.</text>
             </para>
@@ -141,7 +141,7 @@
     <para codify:path="(C)">
       <num>(a)</num>
       <text>Subparagraph (C) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-129.32">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-129.32|(b)|(1)|(C)">
         <find>; and</find>
         <replace>;</replace>
       </codify:find-replace>
@@ -149,7 +149,7 @@
     <para>
       <num>(b)</num>
       <text>Subparagraph (D) is amended by striking the period at the end and inserting a semicolon in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-129.32">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-129.32|(b)|(1)">
         <find><code-cite doc="D.C. Code" path="§1-155|(d)|(1)">section 5a(d)(1) of the District of Columbia Flag Adoption and Design Act of 2002, passed on 2nd reading on November 15, 2016 (Enrolled version of Bill 21-231)</code-cite>.</find>
         <replace><code-cite doc="D.C. Code" path="§1-155|(d)|(1)">section 5a(d)(1) of the District of Columbia Flag Adoption and Design Act of 2002, passed on 2nd reading on November 15, 2016 (Enrolled version of Bill 21-231)</code-cite>;</replace>
       </codify:find-replace>
@@ -159,12 +159,12 @@
       <text>New subparagraphs (E) and (F) are added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(D)" codified:doc="D.C. Code" codified:path="§1-129.32"/>
+          <codify:insert after="(D)" codified:doc="D.C. Code" codified:path="§1-129.32|(b)|(1)|(E)"/>
           <num>(E)</num>
           <text>Fees collected pursuant to <code-cite doc="D.C. Code" path="§50-1501.02d">section 2d of Title IV of the District of Columbia Revenue Act of 1937, passed on 2nd reading on December 20, 2016 (Enrolled version of Bill 21-708)</code-cite>; and</text>
         </para>
         <para>
-          <codify:insert after="(E)" codified:doc="D.C. Code" codified:path="§1-129.32"/>
+          <codify:insert after="(E)" codified:doc="D.C. Code" codified:path="§1-129.32|(b)|(1)|(F)"/>
           <num>(F)</num>
           <text>Fees collected pursuant to <code-cite doc="D.C. Code" path="§50-1501.03|(d)|(6)">section 3(d)(6) of Title IV of the District of Columbia Revenue Act of 1937, approved August 17, 1937 (50 Stat. 681; D.C. Official Code § 50-1501.03(d)(6))</code-cite>.</text>
         </para>
@@ -175,7 +175,7 @@
   <section codify:doc="D.C. Code" codify:path="§8-102.07|(a)">
     <num>4</num>
     <text>Section 8(a) of the Anacostia River Clean Up and Protection Act of 2009, effective September 23, 2009 (D.C. Law 18-55; D.C. Official Code § 8-102.07(a)), is amended by striking the phrase "TAXATION WITHOUT REPRESENTATION" and inserting the phrase "End Taxation Without Representation" in its place.</text>
-    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-102.07">
+    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-102.07|(a)">
       <find>TAXATION WITHOUT REPRESENTATION</find>
       <replace>End Taxation Without Representation</replace>
     </codify:find-replace>

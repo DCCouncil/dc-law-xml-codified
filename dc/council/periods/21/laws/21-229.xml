@@ -25,7 +25,7 @@
     <text>Section 1 of An Act Authorizing the sale of certain real estate in the District of Columbia no longer required for public purposes, approved August 5, 1939 (53 Stat. 1211; D.C. Official Code § 10-801), is amended by adding a new subsection (d-6) to read as follows:</text>
     <include>
       <para>
-        <codify:insert doc="D.C. Code" path="§10-801" after="(d-5)" codified:doc="D.C. Code" codified:path="§10-801"/>
+        <codify:insert doc="D.C. Code" path="§10-801" after="(d-5)" codified:doc="D.C. Code" codified:path="§10-801|(d-6)"/>
         <num>(d-6)</num>
         <text>Notwithstanding subsection (d) of this section, the time period within which the Mayor may dispose of District-owned real property located at 5131 Nannie Helen Burroughs Avenue, N.E., designated for tax and assessment purposes as Lot 801 in Square 5196, for the construction of a mixed-use residential and retail development, which was approved by the Council pursuant to the Strand Theater Disposition Approval Resolution of 2009, effective October 9, 2009 (Res. 18-263; 56 DCR 8410), is extended to December 10, 2018.</text>
       </para>

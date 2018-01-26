@@ -193,7 +193,7 @@
     <para>
       <num>(a)</num>
       <text>In General.--Section 11-1732(j)(5), District of Columbia Official Code, is amended by striking "Family Divisions" and inserting "Probate Divisions, and the Family Court,".</text>
-      <codify:find-replace doc="D.C. Code" path="§11-1732|(j)|(5)" count="1" codified:doc="D.C. Code" codified:path="§11-1732">
+      <codify:find-replace doc="D.C. Code" path="§11-1732|(j)|(5)" count="1" codified:doc="D.C. Code" codified:path="§11-1732|(j)|(5)">
         <find>Family Divisions</find>
         <replace>Probate Divisions, and the Family Court,</replace>
       </codify:find-replace>
@@ -201,7 +201,7 @@
     <para>
       <num>(b)</num>
       <text>Technical and Conforming Amendment.--Section 11-1732(j)(4)(A),District of Columbia Official Code, is amended by striking "Family Division" and inserting "Family Court".</text>
-      <codify:find-replace doc="D.C. Code" path="§11-1732|(j)|(4)|(A)" count="1" codified:doc="D.C. Code" codified:path="§11-1732">
+      <codify:find-replace doc="D.C. Code" path="§11-1732|(j)|(4)|(A)" count="1" codified:doc="D.C. Code" codified:path="§11-1732|(j)|(4)|(A)">
         <find>Family Division</find>
         <replace>Family Court</replace>
       </codify:find-replace>
@@ -339,11 +339,11 @@
       <para codify:doc="D.C. Code" codify:path="§11-2604|(c)">
         <num>(1)</num>
         <text>Criminal defense appointments.--Section 11-2604(c), District of Columbia Official Code, is amended by striking the last sentence and inserting the following: "Each chief judge may delegate such approval authority to an active or senior judge in the court in which the chief judge sits.".</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§11-2604">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§11-2604|(c)">
           <find>A decision shall be made by the appropriate chief judge in the case of every claim filed under this subsection.</find>
           <replace>Each chief judge may delegate such approval authority to an active or senior judge in the court in which the chief judge sits.</replace>
         </codify:find-replace>
-        <codify:annotation history="false" type="Editor's Notes" codified:doc="D.C. Code" codified:path="§11-2604"> Section 6(b) of Public Law 114-257 provided that the amendments made by section 6(a) of Public Law 114-257 shall apply with respect to any case or proceeding initiated on or December 14, 2016.</codify:annotation>
+        <codify:annotation history="false" type="Editor's Notes" codified:doc="D.C. Code" codified:path="§11-2604|(c)"> Section 6(b) of Public Law 114-257 provided that the amendments made by section 6(a) of Public Law 114-257 shall apply with respect to any case or proceeding initiated on or December 14, 2016.</codify:annotation>
       </para>
       <para codify:doc="D.C. Code" codify:path="§16-2326.01|(f)">
         <num>(2)</num>
@@ -360,13 +360,13 @@
           <num>(C)</num>
           <text>by adding at the end the following: "Each chief judge may delegate such approval authority to an active or senior judge in the court in which the chief judge sits.".</text>
         </para>
-        <codify:replace codified:doc="D.C. Code" codified:path="§16-2326.01">
+        <codify:replace codified:doc="D.C. Code" codified:path="§16-2326.01|(f)">
           <para>
             <num>(f)</num>
             <text>Claims for compensation and reimbursement in excess of the maximum amount provided in subsection (b) may be approved for extended or complex representation when the payment is necessary to provide fair compensation. The request for payment shall be submitted by the attorney for approval by the chief judge of the Superior Court of the District of Columbia upon recommendation of the presiding judge in the case or, in cases before the District of Columbia Court of Appeals, approval by the chief judge of the District of Columbia Court of Appeals upon recommendation of the presiding judge in the case. Each chief judge may delegate such approval authority to an active or senior judge in the court in which the chief judge sits.</text>
           </para>
         </codify:replace>
-        <codify:annotation history="false" type="Editor's Notes" codified:doc="D.C. Code" codified:path="§16-2326.01"> Section 6(b) of Public Law 114-257 provided that the amendments made by section 6(a) of Public Law 114-257 shall apply with respect to any case or proceeding initiated on or after December 14, 2016.</codify:annotation>
+        <codify:annotation history="false" type="Editor's Notes" codified:doc="D.C. Code" codified:path="§16-2326.01|(f)"> Section 6(b) of Public Law 114-257 provided that the amendments made by section 6(a) of Public Law 114-257 shall apply with respect to any case or proceeding initiated on or after December 14, 2016.</codify:annotation>
       </para>
     </para>
     <para>

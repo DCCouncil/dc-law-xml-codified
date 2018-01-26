@@ -150,7 +150,7 @@
     <text>Section 47-1803.02(a)(2) of the District of Columbia Official Code is amended by adding a new subparagraph (CC) to read as follows:</text>
     <include>
       <para>
-        <codify:insert after="(BB)" codified:doc="D.C. Code" codified:path="§47-1803.02"/>
+        <codify:insert after="(BB)" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)|(CC)"/>
         <num>(CC)</num>
         <text>The amount received by a taxpayer pursuant to <code-cite doc="D.C. Code" path="§7-551.01"><span codify:value="(b)"/> section 2(b) of the Safe at Home Act of 2016, passed on 2nd reading on September 20, 2016 (Enrolled version of Bill 21-316)</code-cite>.</text>
       </para>
@@ -165,7 +165,7 @@
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
       <codify:applicability path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§7-551.01"/>
-      <codify:applicability path="§3" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§47-1803.02"/>
+      <codify:applicability path="§3" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§47-1803.02|(a)|(2)|(CC)"/>
     </para>
     <para>
       <num>(b)</num>

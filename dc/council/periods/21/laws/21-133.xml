@@ -31,7 +31,7 @@
         <text>A new paragraph (3A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§8-651.02"/>
+            <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§8-651.02|(3A)"/>
             <num>(3A)</num>
             <text>"Heritage Tree" means a tree with a circumference of 100 inches or more.</text>
           </para>
@@ -41,7 +41,7 @@
       <para>
         <num>(2)</num>
         <text>Paragraph (5) is amended by striking the phrase "of 55 inches or more" and inserting the phrase "between 44 inches and 100 inches" in its place.</text>
-        <codify:find-replace count="1" find="of 55 inches or more" path="(5)" replace="between 44 inches and 100 inches" codified:doc="D.C. Code" codified:path="§8-651.02"/>
+        <codify:find-replace count="1" find="of 55 inches or more" path="(5)" replace="between 44 inches and 100 inches" codified:doc="D.C. Code" codified:path="§8-651.02|(5)"/>
       </para>
       <codify:not-funded-anno doc="D.C. Code" path="§8-651.02" applicability-path="§4|(b)"/>
       <codify:annotation path="§102" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§8-651.02"><cite doc="D.C. Law 21-133" path="§4|(a)">Section 4(a) of D.C. Law 21-133</cite> provided that section 2(a), (b)(1), and (c) of Law 21-133 shall not apply to a person or nongovernmental entity who has an application for a Special Tree removal permit pending as of July 1, 20016.
@@ -53,19 +53,19 @@
       <para>
         <num>(1)</num>
         <text>Subsection (b)(3) is amended by striking the phrase "equal to $35 for each inch" and inserting the phrase "not less than $55 for each inch" in its place.</text>
-        <codify:find-replace count="1" find="equal to $35 for each inch" path="(b)|(3)" replace="not less than $55 for each inch" codified:doc="D.C. Code" codified:path="§8-651.04"/>
+        <codify:find-replace count="1" find="equal to $35 for each inch" path="(b)|(3)" replace="not less than $55 for each inch" codified:doc="D.C. Code" codified:path="§8-651.04|(b)|(3)"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Subsection (d) is amended by striking the phrase "a fine of not less than $100" and inserting the phrase "a fine of not less than $300" in its place.</text>
-        <codify:find-replace count="1" find="a fine of not less than $100" path="(d)" replace="a fine of not less than $300" codified:doc="D.C. Code" codified:path="§8-651.04"/>
+        <codify:find-replace count="1" find="a fine of not less than $100" path="(d)" replace="a fine of not less than $300" codified:doc="D.C. Code" codified:path="§8-651.04|(d)"/>
       </para>
       <para>
         <num>(3)</num>
         <text>A new subsection (e) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§8-651.04"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§8-651.04|(e)"/>
             <num>(e)</num>
             <text>The Mayor may increase the fee described in subsection (b)(3) of this section or the fine described in subsection (d) of this section by regulation.</text>
           </para>
@@ -131,7 +131,7 @@
         <text>Subsection (b) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§8-651.07"/>
+            <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§8-651.07|(b)"/>
             <num>(b)</num>
             <para>
               <num>(1)</num>
@@ -170,7 +170,7 @@
         <text>A new subsection (b-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§8-651.07"/>
+            <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§8-651.07|(b-1)"/>
             <num>(b-1)</num>
             <text>The Mayor shall ensure that trees planted pursuant to this section are checked for survival at appropriate intervals to evaluate canopy replacement and inform future planting decisions.</text>
           </para>
@@ -296,7 +296,7 @@
       <text>Subparagraph (D) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace path="(D)" codified:doc="D.C. Code" codified:path="§50-921.04"/>
+          <codify:replace path="(D)" codified:doc="D.C. Code" codified:path="§50-921.04|(a)|(3)|(D)"/>
           <num>(D)</num>
           <text>Plant and maintain trees on public space and on District-owned land, including parks and school property;</text>
         </para>
@@ -308,12 +308,12 @@
       <text>New subparagraphs (D-i) and (D-ii) are added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(D)" codified:doc="D.C. Code" codified:path="§50-921.04"/>
+          <codify:insert after="(D)" codified:doc="D.C. Code" codified:path="§50-921.04|(a)|(3)|(D-i)"/>
           <num>(D-i)</num>
           <text>Remove and trim trees citywide;</text>
         </para>
         <para>
-          <codify:insert after="(D-i)" codified:doc="D.C. Code" codified:path="§50-921.04"/>
+          <codify:insert after="(D-i)" codified:doc="D.C. Code" codified:path="§50-921.04|(a)|(3)|(D-ii)"/>
           <num>(D-ii)</num>
           <text>Review construction plans for the District of Columbia Public Schools, the Department of General Services, the Department of Parks and Recreation, and other District agencies to ensure the tree canopy is protected;</text>
         </para>
@@ -350,7 +350,7 @@
           <text>The date of publication of the notice of the certification shall not affect the applicability of this act.</text>
         </para>
       </para>
-      <codify:applicability date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§8-651.02"/>
+      <codify:applicability date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§8-651.02|(3A)"/>
     </para>
   </section>
   <section>

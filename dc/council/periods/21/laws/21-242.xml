@@ -26,7 +26,7 @@
     <para codify:path="§50-301.03|(8)">
       <num>(a)</num>
       <text>Section 4(8) (D.C. Official Code § 50-301.03(8)) is amended by striking the phrase "Disability Taxicab Advisory Committee" and inserting the phrase "Vehicle-for-Hire Accessibility Advisory Committee" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-301.03">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-301.03|(8)">
         <find>Disability Taxicab Advisory Committee</find>
         <replace>Vehicle-for-Hire Accessibility Advisory Committee</replace>
       </codify:find-replace>
@@ -45,7 +45,7 @@
       <para codify:path="(a)">
         <num>(2)</num>
         <text>Subsection (a) is amended by striking the phrase "Taxicab service" and inserting the phrase "Public and private vehicle-for-hire service" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-301.25">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-301.25|(a)">
           <find>Taxicab service</find>
           <replace>Public and private vehicle-for-hire service</replace>
         </codify:find-replace>
@@ -56,7 +56,7 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the phrase "Disability Taxicab Advisory Committee to advise the Commission on how to make taxicab service" and inserting the phrase "Vehicle-for-Hire Accessibility Advisory Committee to advise the DFHV on how to make public and private vehicle-for-hire service" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-301.25">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-301.25|(b)|(1)">
             <find>Disability Taxicab Advisory Committee to advise the DFHV on how to make taxicab service</find>
             <replace>Vehicle-for-Hire Accessibility Advisory Committee to advise the DFHV on how to make public and private vehicle-for-hire service</replace>
           </codify:find-replace>
@@ -67,7 +67,7 @@
           <para codify:path="(vi)">
             <num>(i)</num>
             <text>Sub-subparagraph (vi) is amended by striking the phrase ", when appropriate; and" and inserting a semicolon in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-301.25">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-301.25|(b)|(2)|(A)|(vi)">
               <find>, when appropriate; and</find>
               <replace>;</replace>
             </codify:find-replace>
@@ -75,7 +75,7 @@
           <para codify:path="(vii)">
             <num>(ii)</num>
             <text>Sub-subparagraph (vii) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-            <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§50-301.25">
+            <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§50-301.25|(b)|(2)|(A)|(vii)">
               <find>Vehicles.</find>
               <replace>Vehicles; and</replace>
             </codify:find-replace>
@@ -85,7 +85,7 @@
             <text>A new sub-subparagraph (viii) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(vii)" codified:doc="D.C. Code" codified:path="§50-301.25"/>
+                <codify:insert after="(vii)" codified:doc="D.C. Code" codified:path="§50-301.25|(b)|(2)|(A)|(viii)"/>
                 <num>(viii)</num>
                 <text>Private vehicle-for-hire companies and private vehicle-for-hire operators, as those terms are defined in <code-cite doc="D.C. Code" path="§50-301.03">section 4</code-cite>(16B) and (16C), respectively.</text>
               </para>
@@ -98,7 +98,7 @@
           <text>A new paragraph (2A) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§50-301.25"/>
+              <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§50-301.25|(b)|(2A)"/>
               <num>(2A)</num>
               <para>
                 <num>(A)</num>
@@ -119,12 +119,12 @@
         <para codify:path="(3)">
           <num>(D)</num>
           <text>Paragraph (3) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§50-301.25"/>
+          <codify:repeal codified:doc="D.C. Code" codified:path="§50-301.25|(b)|(3)"/>
         </para>
         <para codify:path="(4)">
           <num>(E)</num>
           <text>Paragraph (4) is amended by striking the phrase "transmit to the Mayor and to the Council a report on the accessibility of taxicab service" and inserting the phrase "prepare and make publicly available a report on the accessibility of the vehicle-for-hire industry" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-301.25">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-301.25|(b)|(4)">
             <find>transmit to the Mayor and to the Council a report on the accessibility of taxicab service</find>
             <replace>prepare and make publicly available a report on the accessibility of the vehicle-for-hire industry</replace>
           </codify:find-replace>
@@ -135,7 +135,7 @@
         <text>A new subsection (c-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§50-301.25"/>
+            <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§50-301.25|(c-1)"/>
             <num>(c-1)</num>
             <para>
               <num>(1)</num>
@@ -167,7 +167,7 @@
       <text>Section 20f-1 (D.C. Official Code § 50-301.25a) is amended by adding a new subsection (b-1) to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§50-301.25a"/>
+          <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§50-301.25a|(b-1)"/>
           <num>(b-1)</num>
           <text>A company that provides digital dispatch shall, within 180 days of <span codify:value="April 7, 2017">the effective date of the Vehicle-for-Hire Accessibility Amendment Act of 2016, passed on 2nd reading on December 20, 2016 (Enrolled version of Bill 21-540)</span>, provide passengers with the ability to request a wheelchair-accessible vehicle. If the company cannot fulfill the request for a wheelchair-accessible vehicle through the company's digital dispatch, the company may refer the requestor to a company or other provider that can fulfill a request for wheelchair-accessible service.</text>
         </para>

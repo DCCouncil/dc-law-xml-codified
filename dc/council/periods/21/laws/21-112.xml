@@ -26,7 +26,7 @@
     <text> Section 2(a)(1)(A) of the Youth Employment Act of 1979, effective January 5, 1980 (D.C. Law 3-46; D.C. Official Code § 32-241(a)(1)(A)), is amended to read as follows:</text>
     <include>
       <para>
-        <codify:replace codified:doc="D.C. Code" codified:path="§32-241"/>
+        <codify:replace codified:doc="D.C. Code" codified:path="§32-241|(a)|(1)|(A)"/>
         <num>(A)</num>
         <para>
           <num>(i)</num>
@@ -52,7 +52,7 @@
     <codify:not-funded-anno applicability-path="§3"/>
   </section>
   <section>
-    <codify:applicability date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§32-241"/>
+    <codify:applicability date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§32-241|(a)|(1)|(A)"/>
     <num>3</num>
     <heading>Applicability.</heading>
     <para>

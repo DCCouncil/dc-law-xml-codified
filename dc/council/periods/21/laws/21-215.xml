@@ -29,7 +29,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the phrase "in his judgment" and insert the phrase "in the Mayor's judgment" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2844">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2844|(a)">
           <find>in his judgment</find>
           <replace>in the Mayor's judgment</replace>
         </codify:find-replace>
@@ -37,7 +37,7 @@
       <para>
         <num>(2)</num>
         <text>Strike the phrase "he may deem sufficient" and insert the phrase "the Mayor may deem sufficient" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2844">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2844|(a)">
           <find>he may deem sufficient</find>
           <replace>the Mayor may deem sufficient</replace>
         </codify:find-replace>
@@ -52,7 +52,7 @@
         <para>
           <num>(A)</num>
           <text>The lead-in language is amended by striking the phrase "subsection (a-1) of this section" and inserting the phrase "subsection (a-1) of this section and paragraph (1A) of this subsection" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2844">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-2844|(a-2)|(1)">
             <find>subsection (a-1) of this section</find>
             <replace>subsection (a-1) of this section and paragraph (1A) of this subsection</replace>
           </codify:find-replace>
@@ -60,7 +60,7 @@
         <para>
           <num>(B)</num>
           <text>Subparagraph (A) is amended by striking the word "subsection" and inserting the word "paragraph" in its place.</text>
-          <codify:find-replace path="(A)" count="1" codified:doc="D.C. Code" codified:path="§47-2844">
+          <codify:find-replace path="(A)" count="1" codified:doc="D.C. Code" codified:path="§47-2844|(a-2)|(1)|(A)">
             <find>subsection</find>
             <replace>paragraph</replace>
           </codify:find-replace>
@@ -68,7 +68,7 @@
         <para>
           <num>(C)</num>
           <text>Subparagraph (B) is amended by striking the word "subsection" and inserting the word "paragraph" in its place.</text>
-          <codify:find-replace path="(B)" count="1" codified:doc="D.C. Code" codified:path="§47-2844">
+          <codify:find-replace path="(B)" count="1" codified:doc="D.C. Code" codified:path="§47-2844|(a-2)|(1)|(B)">
             <find>subsection</find>
             <replace>paragraph</replace>
           </codify:find-replace>
@@ -76,7 +76,7 @@
         <para>
           <num>(D)</num>
           <text>Subparagraph (C) is amended by striking the word "subsection" and inserting the word "paragraph" in its place.</text>
-          <codify:find-replace path="(C)" count="1" codified:doc="D.C. Code" codified:path="§47-2844">
+          <codify:find-replace path="(C)" count="1" codified:doc="D.C. Code" codified:path="§47-2844|(a-2)|(1)|(C)">
             <find>subsection</find>
             <replace>paragraph</replace>
           </codify:find-replace>
@@ -87,7 +87,7 @@
         <text>A new paragraph (1A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§47-2844"/>
+            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§47-2844|(a-2)|(1A)"/>
             <num>(1A)</num>
             <text>In addition to the provisions of subsection (a-1) of this section and paragraph (1) of this subsection, the Mayor or the Chief of Police, notwithstanding <code-cite doc="D.C. Code" path="§2-1801.04|(a)|(1)">§ 2-1801.04(a)(1))</code-cite>, may take the following actions against, or impose the following requirements upon, any licensee, or agent or employee of a licensee, that knowingly engages or attempts to engage in the purchase, sale, exchange, or any other form of commercial transaction involving a synthetic drug, including the possession of multiple units of a synthetic drug:</text>
             <para>
@@ -224,7 +224,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the phrase "premises are primarily used" and insert the phrase "premises are used" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1801.06">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1801.06|(a)">
           <find>premises are primarily used</find>
           <replace>premises are used</replace>
         </codify:find-replace>
@@ -232,7 +232,7 @@
       <para>
         <num>(2)</num>
         <text>Add a new sentence at the end to read as follows: "Purchasing, selling, exchanging, or otherwise transacting any synthetic drug, as defined in D.C. Official Code § 47-2844(a-2)(1A)(G)(ii), shall be a per se imminent danger to the health or safety of the residents of the District.".</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1801.06">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1801.06|(a)">
           <find>pursuant to § <cite path="§3-1201.03">3-1201.03</cite>.</find>
           <replace>pursuant to § <cite path="§3-1201.03">3-1201.03</cite>. Purchasing, selling, exchanging, or otherwise transacting any synthetic drug, as defined in <code-cite doc="D.C. Code" path="§47-2844|(a-2)|(1A)|(G)|(ii)">D.C. Official Code § 47-2844(a-2)(1A)(G)(ii)</code-cite>, shall be a per se imminent danger to the health or safety of the residents of the District.</replace>
         </codify:find-replace>
@@ -244,12 +244,12 @@
       <para>
         <num>(1)</num>
         <text>The existing text is designated as paragraph (1).</text>
-        <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§2-1801.06"/>
+        <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§2-1801.06|(c)"/>
       </para>
       <para>
         <num>(2)</num>
         <text>The newly designated paragraph (1) is amended by striking the phrase "A licensee" and inserting the phrase "Except as provided in paragraph (2) of this subsection, a licensee" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1801.06">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1801.06|(c)">
           <find>A licensee</find>
           <replace>Except as provided in paragraph (2) of this subsection, a licensee</replace>
         </codify:find-replace>
@@ -259,7 +259,7 @@
         <text>A new paragraph (2) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§2-1801.06"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§2-1801.06|(c)|(2)"/>
             <num>(2)</num>
             <text>A licensee engaged in the purchase, sale, exchange, or any other form of commercial transaction involving a synthetic drug in violation of <code-cite doc="D.C. Code" path="§47-2844|(a-2)|(1A)">D.C. Official Code § 47-2844(a-2)(1A)</code-cite> shall have the right to request a hearing within 3 business days after service of notice of the sealing of the premises. The Office of Administrative Hearings shall hold a hearing within 3 business days of receipt of a timely request, and shall issue a decision within 3 business days after the hearing.</text>
           </para>
