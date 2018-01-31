@@ -25,7 +25,7 @@
     <para codify:path="(11)">
       <num>(a)</num>
       <text>Paragraph (11) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-771.07|(11)">
         <find>; and</find>
         <replace>;</replace>
       </codify:find-replace>
@@ -33,7 +33,7 @@
     <para codify:path="(12)">
       <num>(b)</num>
       <text>Paragraph (12) is amended by striking the period at the end and inserting the phrase "; and" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-771.07|(12)">
         <find>in § <cite path="§7-771.03">7-771.03</cite>.</find>
         <replace>in § <cite path="§7-771.03">7-771.03</cite>; and</replace>
       </codify:find-replace>
@@ -43,7 +43,7 @@
       <text>A new paragraph (13) is added to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert after="(12)"/>
+          <codify:insert after="(12)" codified:doc="D.C. Code" codified:path="§7-771.07|(13)"/>
           <num>(13)</num>
           <text>Explore the feasibility of incorporating D.C. Healthcare Alliance coverage into the District of Columbia Health Benefit Exchange Authority's D.C. Health Link program.</text>
         </para>
@@ -56,7 +56,7 @@
     <text>Section 7b of the Health Care Privatization Amendment Act of 2001, effective July 12, 2001 (D.C. Law 14-18; 64 DCR 10929), is amended to read as follows:</text>
     <include>
       <section>
-        <codify:replace/>
+        <codify:replace codified:doc="D.C. Code" codified:path="§7-1407"/>
         <num codify:value="7-1407">7b</num>
         <heading>D.C. HealthCare Alliance recertification.</heading>
         <text>D.C. Healthcare Alliance program enrollees shall be required to recertify their enrollment annually. Enrollees may recertify in-person with the Department of Human Services or with the District of Columbia Health Benefit Exchange Authority, if the D.C. Healthcare Alliance program is incorporated into the D.C. Health Link program. Enrollees may also recertify in-person at a community health provider that is approved by the Department of Health Care Finance for such purposes.</text>

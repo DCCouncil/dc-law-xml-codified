@@ -28,7 +28,7 @@
       <text>Subsection (a) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§25-340.01|(a)"/>
           <num>(a)</num>
           <text>For the purposes of this section, the term:</text>
           <para>
@@ -48,7 +48,7 @@
       <text>Subsection (d) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§25-340.01|(d)"/>
           <num>(d)</num>
           <text>The restrictions on the issuance in or transfer into Ward 4 of a class B off-premises retailer's license set forth in subsection (b) of this section shall not apply to a full-service grocery store.</text>
         </para>

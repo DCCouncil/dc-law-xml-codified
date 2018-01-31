@@ -40,7 +40,7 @@
       <text>A new section 47-2762.01 is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert doc="D.C. Code" path="47|27B" after="§47-2762"/>
+          <codify:insert doc="D.C. Code" path="47|27B" after="§47-2762" codified:doc="D.C. Code" codified:path="§47-2762.01"/>
           <prefix>§</prefix>
           <num>47-2762.01</num>
           <heading>Ballpark Fee Forgiveness Fund.</heading>

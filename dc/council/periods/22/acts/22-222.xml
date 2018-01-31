@@ -27,7 +27,7 @@
       <text>Subsection (a) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§38-621|(a)"/>
           <num>(a)</num>
           <text>Beginning August 1, 2018, a registered nurse shall be assigned to each public and public charter school for a minimum of 40 hours per week during each week the school is open to students for instruction.</text>
         </para>
@@ -39,7 +39,7 @@
       <text>Subsection (b) is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§38-621|(b)"/>
           <num>(b)</num>
           <text>A licensed practical nurse may be used to satisfy the requirement of subsection (a) of this section if the licensed practical nurse performs duties under the appropriate supervision of, and in general collaboration with, a registered nurse.</text>
         </para>
@@ -49,12 +49,12 @@
     <para codify:path="(c)">
       <num>(c)</num>
       <text>Subsection (c) is repealed.</text>
-      <codify:repeal/>
+      <codify:repeal codified:doc="D.C. Code" codified:path="§38-621|(c)"/>
     </para>
     <para codify:path="(g)">
       <num>(d)</num>
       <text>Subsection (g) is repealed.</text>
-      <codify:repeal/>
+      <codify:repeal codified:doc="D.C. Code" codified:path="§38-621|(g)"/>
     </para>
   </section>
   <section>

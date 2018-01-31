@@ -25,7 +25,7 @@
     <para codify:path="(3)">
       <num>(a)</num>
       <text>Paragraph (3) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1206.04|(3)">
         <find>; and</find>
         <replace>;</replace>
       </codify:find-replace>
@@ -33,7 +33,7 @@
     <para codify:path="(4)">
       <num>(b)</num>
       <text>Paragraph (4) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1206.04|(4)">
         <find>board.</find>
         <replace>board; and</replace>
       </codify:find-replace>
@@ -43,7 +43,7 @@
       <text>A new paragraph (5) is added to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§3-1206.04|(5)"/>
           <num>(5)</num>
           <text>Sign, certify, stamp, or endorse all documents that require a signature by a physician, in place of a physician, provided it is within the scope of their authorized practice.</text>
         </para>

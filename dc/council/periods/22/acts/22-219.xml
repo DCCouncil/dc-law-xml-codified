@@ -19,7 +19,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Office on African American Affairs Establishment Act of 2017".</text>
-  <codify:insert doc="D.C. Code" path="2" after="13C" history="false">
+  <codify:insert doc="D.C. Code" path="2" after="13C" history="false" codified:doc="D.C. Code" codified:path="2|13D">
     <container>
       <prefix>Chapter</prefix>
       <num>13D</num>
@@ -27,7 +27,7 @@
     </container>
   </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="2|13D" num-value="2-1398.01"/>
+    <codify:insert doc="D.C. Code" path="2|13D" num-value="2-1398.01" codified:doc="D.C. Code" codified:path="§2-1398.01"/>
     <num>2</num>
     <heading>Establishment of the Office on African American Affairs.</heading>
     <para>
@@ -40,7 +40,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="2|13D" num-value="2-1398.02"/>
+    <codify:insert doc="D.C. Code" path="2|13D" num-value="2-1398.02" codified:doc="D.C. Code" codified:path="§2-1398.02"/>
     <num>3</num>
     <heading>Duties of the Executive Director.</heading>
     <para>
