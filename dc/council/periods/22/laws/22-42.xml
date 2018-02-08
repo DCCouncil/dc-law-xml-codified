@@ -43,7 +43,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:redesignate-para doc="D.C. Code" path="§1-1163.09" codified:doc="D.C. Code" codified:path="§1-1163.09"/>
+      <codify:temporary doc="D.C. Code" path="§1-1163.09" codified:doc="D.C. Code" codified:path="§1-1163.09" codified:instruction="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -52,10 +52,10 @@
         <para>
           <num>(f-1)</num>
           <text>Limitations on contributions under this section shall apply to political action committees during nonelection years.</text>
-          <codify:redesignate-para doc="D.C. Code" path="§1-1163.33" codified:doc="D.C. Code" codified:path="§1-1163.33"/>
         </para>
       </include>
       <aftertext>.</aftertext>
+      <codify:temporary doc="D.C. Code" path="§1-1163.33" codified:doc="D.C. Code" codified:path="§1-1163.33" codified:instruction="Note"/>
     </para>
   </section>
   <section>

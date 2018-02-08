@@ -85,7 +85,7 @@
   <section codify:doc="D.C. Code">
     <num>3</num>
     <text>Section 309(b) of the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011, effective April 27, 2012 (D.C. Law 19-124; D.C. Official Code § 1-1163.09(b)), is amended by striking the phrase "8 days before an election" and inserting the phrase "8 days before a special or general election" in its place.</text>
-    <codify:find-replace path="§1-1163.09|(b)" count="1" codified:doc="D.C. Code" codified:path="§1-1163.09">
+    <codify:find-replace path="§1-1163.09|(b)" count="1" codified:doc="D.C. Code" codified:path="§1-1163.09|(b)">
       <find>8 days before an election</find>
       <replace>8 days before a special or general election</replace>
     </codify:find-replace>
