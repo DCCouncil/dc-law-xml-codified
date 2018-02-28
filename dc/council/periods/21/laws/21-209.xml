@@ -453,13 +453,17 @@
           </codify:find-replace>
         </para>
       </para>
-      <para codify:path="(d)">
+      <para>
         <num>(4)</num>
         <text>Subsection (d) is amended as follows:</text>
         <para>
           <num>(A)</num>
           <text>Strike the phrase "A physician" and insert the phrase "An authorized practitioner" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(d)">
+          <codify:find-replace path="(c)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(c)">
+            <find>a physician</find>
+            <replace>a physician [an authorized practitioner]</replace>
+          </codify:find-replace>
+          <codify:find-replace path="(d)" count="1" codified:doc="D.C. Code" codified:path="§7-1671.04|(d)">
             <find>A physician</find>
             <replace>An authorized practitioner</replace>
           </codify:find-replace>
@@ -467,7 +471,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "dispensary or cultivation center" wherever it appears and insert the phrase "dispensary, cultivation center, or testing laboratory" in its place.</text>
-          <codify:find-replace count="3" codified:doc="D.C. Code" codified:path="§7-1671.04|(d)">
+          <codify:find-replace count="3" codified:doc="D.C. Code" codified:path="§7-1671.04">
             <find>dispensary or cultivation center</find>
             <replace>dispensary, cultivation center, or testing laboratory</replace>
           </codify:find-replace>
