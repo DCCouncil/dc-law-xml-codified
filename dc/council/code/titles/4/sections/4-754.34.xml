@@ -11,7 +11,11 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The provider identifies and secures for the client a placement with another provider that more appropriately meets the client’s medical, mental health, behavioral, or rehabilitative service needs in accordance with the client’s service plan; or</text>
+      <text>The provider identifies and secures for the client a placement with another provider that more appropriately meets the client’s medical, mental health, behavioral, or rehabilitative service needs in accordance with the client’s service plan;</text>
+    </para>
+    <para>
+      <num>(2A)</num>
+      <text>The client is no longer eligible to receive services from the provider's program, as determined in accordance with <cite path="§4-753.02|(b-1)">§ 4-753.02(b-1)</cite>; or</text>
     </para>
     <para>
       <num>(3)</num>
@@ -20,14 +24,29 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>In addition to the circumstances under which a client may be transferred as described in subsection (a) of this section, a provider may transfer a client when a client fails or refuses to comply with the provider’s Program Rules and the client responsibilities listed in § <cite path="§4-754.13">4-754.13</cite>, or engages in any of the behaviors listed in § <cite path="§4-754.36">4-754.36</cite>(2); provided, that:</text>
     <para>
       <num>(1)</num>
-      <text>The client has received proper notice of the Program Rules, client responsibilities, and prohibited behaviors, as required by § <cite path="§4-754.33">4-754.33</cite>; and</text>
+      <text>In addition to the circumstances under which a client may be transferred as described in subsection (a) of this section, a provider may transfer a client when:</text>
+      <para>
+        <num>(A)</num>
+        <text>A client fails or refuses to comply with the provider's Program Rules and the client responsibilities listed in <cite path="§4-754.13">§ 4-754.13</cite>, or engages in any of the behaviors listed in <cite path="§4-754.36|(a)|(2)">§ 4-754.36(a)(2)</cite>; provided, that:</text>
+        <para>
+          <num>(i)</num>
+          <text>The client has received proper notice of the Program Rules, client responsibilities, and prohibited behaviors, as required by <cite path="§4-754.33">§ 4-754.33</cite>; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The provider has made a good-faith effort to enable the client to comply with the Program Rules so that the client is able to continue receiving services without a transfer; or</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A provider is unable to continue operating a program due to loss of funding or loss of control of the facility for circumstances beyond the control of the Department.</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>The provider has made a good-faith effort to enable the client to comply with the Program Rules so that the client is able to continue receiving services without a transfer.</text>
+      <text>A transfer pursuant to paragraph (1)(B) of this subsection shall be to a program with a vacancy that best meets the client's medical, mental health, behavioral, or rehabilitative service needs in accordance with the client's service plans, the District's centralized or coordinated assessment system protocol, and the procedures in this section.</text>
     </para>
   </para>
   <para>
@@ -39,5 +58,8 @@
     <annotation doc="D.C. Law 20-100" type="History">May 3, 2014, D.C. Law 20-100, § 2(j), 61 DCR 1873</annotation>
     <annotation type="Section References">This section is referenced in § <cite path="§4-754.11">4-754.11</cite>, § <cite path="§4-754.32">4-754.32</cite>, § <cite path="§4-754.35">4-754.35</cite>, § <cite path="§4-754.36">4-754.36</cite>, § <cite path="§4-754.37">4-754.37</cite>, and § <cite path="§4-755.01">4-755.01</cite>.</annotation>
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-100">D.C. Law 20-100</cite> added (a)(3) and made related changes.</annotation>
+    <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§2|(w)|(1)|(A)" type="History"/>
+    <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§2|(w)|(1)|(B)" type="History"/>
+    <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§2|(w)|(2)" type="History"/>
   </annotations>
 </section>
