@@ -22,5 +22,9 @@
   <annotations>
     <annotation app="1993-03-25" doc="D.C. Law 9-248" eff="1993-03-25" path="§8a" type="History"/>
     <annotation app="2016-08-19" doc="D.C. Law 21-144" eff="2016-08-19" path="§2|(d)" prefix="as added" type="History"/>
+    <annotation doc="D.C. Law 21-144" path="§2|(d)" type="Emergency Legislation" history="false" app="2016-08-19" eff="2016-08-19">
+          For temporary (90 days) creation of this section, see <cite doc="D.C. Act 21-428" path="§2|(d)">§ 2(d) of the Fair Shot Minimum Wage Emergency Amendment Act of 2016 (D.C. Act 21-428, June 28, 2016, 63 DCR 9275)</cite>.        
+        </annotation>
+    <annotation app="2016-08-19" doc="D.C. Law 21-144" eff="2016-08-19" path="§2|(d)" type="History" display="false"/>
   </annotations>
 </section>
