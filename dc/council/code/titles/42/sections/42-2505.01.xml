@@ -25,5 +25,9 @@
   <annotations>
     <annotation doc="D.C. Law 13-96" type="History" path="§6a">May 9, 2000, D.C. Law 13-96, § 6a</annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§2012|(f)" prefix="as added" type="History"/>
+    <annotation doc="D.C. Law 22-33" path="§2012|(f)" type="Emergency Legislation" history="false" app="2017-12-13" eff="2017-12-13">
+          For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-104" path="§2012|(f)">§ 2012(f) of Fiscal Year 2018 Budget Support Emergency Act of 2017, effective July 20, 2017 (D.C. Act 22-104; 64 DCR 7032)</cite>.
+        </annotation>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§2012|(f)" type="History" display="false"/>
   </annotations>
 </section>
