@@ -477,6 +477,7 @@
     <xi:include href="./sections/7-761.10.xml"/>
     <xi:include href="./sections/7-761.11.xml"/>
     <xi:include href="./sections/7-761.12.xml"/>
+    <xi:include href="./sections/7-761.13.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -632,7 +633,7 @@
     <xi:include href="./sections/7-1008.xml"/>
     <xi:include href="./sections/7-1009.xml"/>
   </container>
-  <subheading>Subtitle C. Mental Health.</subheading>
+  <subheading>Subtitle C. Mental and Behavioral Health.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>11</num>
@@ -831,7 +832,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
-      <heading>Admission, Commitment, Discharge, Transfer, Respite Care.</heading>
+      <heading>Commitments.<annotation app="2018-03-12" doc="D.C. Act 22-277" eff="2018-03-12" path="§201|(c)|(1)" type="History"/></heading>
       <xi:include href="./sections/7-1303.01.xml"/>
       <xi:include href="./sections/7-1303.02.xml"/>
       <xi:include href="./sections/7-1303.03.xml"/>
