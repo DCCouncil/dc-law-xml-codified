@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-1951.06</num>
-  <heading>Annual report on locations with the highest frequency of collisions that injure or kill pedestrians.</heading>
+  <heading>Annual report on locations with the highest rate of collisions that injure or kill pedestrians or bicyclists.</heading>
   <text>By July 1, 2017, and annually thereafter, DDOT shall transmit to the chairperson of the Council committee with oversight of transportation a report that:</text>
   <para>
     <num>(1)</num>
-    <text>Identifies the 20 locations at which pedestrians were most frequently seriously injured or killed as the result of a collision during the preceding 5 years;</text>
+    <text>Identifies the 20 locations at which pedestrians or bicyclists were most frequently seriously injured or killed as the result of a collision during the preceding 5 years;</text>
   </para>
   <para>
     <num>(2)</num>
@@ -13,7 +13,7 @@
   </para>
   <para>
     <num>(3)</num>
-    <text>Makes recommendations for how to decrease the number of collisions with pedestrians at the locations identified pursuant to paragraph (1) of this section and provides a timeline for implementing the recommendations; and</text>
+    <text>Makes recommendations for how to decrease the number of collisions with pedestrians or bicyclists at the locations identified pursuant to paragraph (1) of this section and provides a timeline for implementing the recommendations; and</text>
   </para>
   <para>
     <num>(4)</num>
@@ -22,5 +22,9 @@
   <annotations>
     <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§106" type="History"/>
+    <annotation app="2018-03-29" doc="D.C. Law 22-77" eff="2018-03-29" path="§2|(e)|(1)|(A)" type="History"/>
+    <annotation app="2018-03-29" doc="D.C. Law 22-77" eff="2018-03-29" path="§2|(e)|(1)|(B)" type="History"/>
+    <annotation app="2018-03-29" doc="D.C. Law 22-77" eff="2018-03-29" path="§2|(e)|(2)" type="History"/>
+    <annotation app="2018-03-29" doc="D.C. Law 22-77" eff="2018-03-29" path="§2|(e)|(3)" type="History"/>
   </annotations>
 </section>

@@ -15,7 +15,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>The location, by ward, block or intersection, and coordinates of the collision;</text>
+      <text>The location, by ward and block or intersection, of the collision;</text>
     </para>
     <para>
       <num>(4)</num>
@@ -59,11 +59,23 @@
     </para>
     <para>
       <num>(6)</num>
-      <text>Available demographic information about the person or persons  involved in the collision, including age-range, physical disabilities, if any, race, gender, and the jurisdiction in which the motor vehicle involved in the collision is registered; and</text>
+      <text>Available demographic information about the person or persons involved in the collision, which shall be aggregated and describe any injuries sustained in the collision using the term "minor", "serious", "critical", or "fatal"; provided, that the Mayor shall not publish any personal information, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>A person's name, address, photograph, or social security number;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Individually identifiable health information, as that term is defined in 45 C.F.R. § 160.103; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Any other information that could be used, on its own or in combination with other information, to identify, contact, or locate a person involved in a collision.[; and]</text>
+      </para>
     </para>
     <para>
       <num>(7)</num>
-      <text>As identified in MPD's accident report, the apparent human factor or factors that contributed to the collision, such as intoxication, driver inattention or distraction, speeding, or failure to yield.</text>
+      <text>As identified in MPD's crash report, the apparent human factor or factors that contributed to the collision, such as intoxication, driver inattention or distraction, speeding, or failure to yield.</text>
     </para>
   </para>
   <para>
@@ -73,5 +85,8 @@
   <annotations>
     <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="" type="History" display="false"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-155" eff="2016-10-08" path="§102" type="History"/>
+    <annotation app="2018-03-29" doc="D.C. Law 22-77" eff="2018-03-29" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2018-03-29" doc="D.C. Law 22-77" eff="2018-03-29" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2018-03-29" doc="D.C. Law 22-77" eff="2018-03-29" path="§2|(a)|(3)" type="History"/>
   </annotations>
 </section>

@@ -258,7 +258,10 @@
     <para>
       <num>(e)</num>
       <text>Section 10 (D.C. Official Code § 8-1809) is redesignated as section 5a.</text>
-      <codify:recodify-section doc="D.C. Code" path="§8-1809" num-value="8-1804.01" after="§8-1804" destination-path="8|18|I" history-prefix="redesignated as § 5a" codified:doc="D.C. Code" codified:path="§8-1809"/>
+      <codify:recodify-section doc="D.C. Code" path="§8-1809" num-value="8-1804.01" after="§8-1804" destination-path="8|18|I" history="false" codified:doc="D.C. Code" codified:path="§8-1809"/>
+      <codify:annotation doc="D.C. Code" path="§8-1804.01" type="History" history="false" codified:doc="D.C. Code" codified:path="§8-1804.01">
+       redesignated as § 5a, Dec. 20, 2017, D.C. Law 22-37, § 2(f), 64 DCR 11682
+      </codify:annotation>
     </para>
     <para codify:path="§8-1804.01">
       <num>(f)</num>
@@ -266,7 +269,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the word "mammals" wherever it appears and insert the word "animals" in its place.</text>
-        <codify:find-replace codified:doc="D.C. Code" codified:path="§8-1804.01">
+        <codify:find-replace history="false" codified:doc="D.C. Code" codified:path="§8-1804.01">
           <find>mammals</find>
           <replace>animals</replace>
         </codify:find-replace>
@@ -274,7 +277,7 @@
       <para codify:path="(a)">
         <num>(2)</num>
         <text>Subsection (a) is amended by striking the phrase "permit: EXCEPT," and inserting the phrase "permit; provided," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1804.01|(a)">
+        <codify:find-replace count="1" history="false" codified:doc="D.C. Code" codified:path="§8-1804.01|(a)">
           <find>permit: Except,</find>
           <replace>permit; provided,</replace>
         </codify:find-replace>
@@ -284,7 +287,7 @@
         <text>Subsection (f) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§8-1804.01|(f)"/>
+            <codify:replace history="false" codified:doc="D.C. Code" codified:path="§8-1804.01|(f)"/>
             <num>(f)</num>
             <text>A holder of an animal hobby permit shall provide his or her animals with adequate care, adequate feed, adequate shelter, adequate space, adequate water, and appropriate veterinary care.</text>
           </para>
@@ -294,7 +297,7 @@
       <para codify:path="(g)">
         <num>(4)</num>
         <text>Subsection (g) is amended by striking the word "mammal" and inserting the word "animal" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1804.01|(g)">
+        <codify:find-replace count="1" history="false" codified:doc="D.C. Code" codified:path="§8-1804.01|(g)">
           <find>mammal</find>
           <replace>[an] animal</replace>
         </codify:find-replace>
@@ -513,8 +516,8 @@
       <num>(j)</num>
       <text>Section 9a (D.C. Official Code § 8-1808.01) is redesignated as section 11b.</text>
       <codify:recodify-section doc="D.C. Code" path="§8-1808.01" num-value="8-1810.02" before="§8-1811" destination-path="8|18|I" history="false" codified:doc="D.C. Code" codified:path="§8-1808.01"/>
-      <codify:annotation doc="D.C. Code" path="§8-1810.02" type="History" codified:doc="D.C. Code" codified:path="§8-1810.02">
-        redesignated as § 11b
+      <codify:annotation doc="D.C. Code" path="§8-1810.02" type="History" history="false" codified:doc="D.C. Code" codified:path="§8-1810.02">
+        redesignated as § 11b, Dec. 20, 2017, D.C. Law 22-37, § 2(j), 64 DCR 11682
       </codify:annotation>
     </para>
     <para>

@@ -894,6 +894,7 @@
     <xi:include href="./sections/47-1098.xml"/>
     <xi:include href="./sections/47-1099.xml"/>
     <xi:include href="./sections/47-1099.01.xml"/>
+    <xi:include href="./sections/47-1099.02.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -2798,6 +2799,10 @@
     <xi:include href="./sections/47-4665.04.xml"/>
     <xi:include href="./sections/47-4665.05.xml"/>
     <xi:include href="./sections/47-4666.xml"/>
+    <xi:include href="./sections/47-4667.xml"/>
+    <annotation type="Applicability" app="2018-03-29" eff="2018-03-29" doc="D.C. Law 22-83" path="§2|(b)">Applicability of <cite doc="D.C. Law 22-83" path="">D.C. Law 22-83</cite>: <cite doc="D.C. Law 22-83" path="§3">§ 3 of D.C. Law 22-83</cite> provided that the change made to this section by <cite doc="D.C. Law 22-83" path="§2|(b)">§ 2(b) of D.C. Law 22-83</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
+    <annotation app="2018-03-29" doc="D.C. Law 22-83" eff="2018-03-29" path="§3|(a)" type="History" display="false"/>
+    <annotation app="2018-03-29" doc="D.C. Law 22-83" eff="2018-03-29" path="§2|(b)" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
