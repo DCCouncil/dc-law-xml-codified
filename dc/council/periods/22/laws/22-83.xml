@@ -215,7 +215,7 @@
               <text>"Eligible business" means a grocery anchor store, an anchor store selling grocery and retail goods, or a sit-down restaurant.</text>
             </para>
           </para>
-          <codify:not-funded-anno path="§47-4667" applicability-path="§3"/>
+          <codify:not-funded-anno applicability-path="§3"/>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -227,7 +227,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 22-83" path="§2|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§47-4667"/>
+      <codify:applicability doc="D.C. Law 22-83" path="§2|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§47-4601"/>
       <codify:find-replace doc="D.C. Code" path="§47-4667" count="1" history="false" codified:doc="D.C. Code" codified:path="§47-4667">
         <find>Not Funded.</find>
         <replace>[Not Funded.]</replace>
