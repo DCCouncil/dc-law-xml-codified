@@ -979,7 +979,7 @@
           <para>
             <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§2-361.06|(a)|(3)"/>
             <num>(3)</num>
-            <text>Notwithstanding paragraph (1) of this subsection, the Contract Appeals Board, pursuant <code-cite doc="D.C. Code" path="2|5|I">to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to implement the provisions of Title X.</text>
+            <text>Notwithstanding paragraph (1) of this subsection, the Contract Appeals Board, pursuant <code-cite doc="D.C. Code" path="2|5|I">to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to implement the provisions of <code-cite doc="D.C. Code" path="2|3A|X">Title X</code-cite>.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
@@ -1704,7 +1704,7 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>"St. Elizabeth East Campus Redevelopment Site" means the real property known as Square 5868, Suffix S.</text>
+            <text>"St. Elizabeth<span codify:value="[s]"/> East Campus Redevelopment Site" means the real property known as Square 5868, Suffix S.</text>
           </para>
         </para>
         <codify:annotation doc="D.C. Code" path="§1-325.361" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§1-325.361">
@@ -2264,7 +2264,7 @@
         <text>An Act Authorizing the sale of certain real estate in the District of Columbia no longer required for public purposes, approved August 5, 1939 (53 Stat. 1211; D.C. Official Code § 10-801 <em>et seq.</em>), is amended by adding a new section 1b to read as follows:</text>
         <include>
           <section>
-            <codify:insert doc="D.C. Code" path="10|8|I" after="10-801.01" num-value="10-801.02" codified:doc="D.C. Code" codified:path="§10-801.02"/>
+            <codify:insert doc="D.C. Code" path="10|8|I" after="10-801.01" num-value="10-801.02" history-prefix="as added" codified:doc="D.C. Code" codified:path="§10-801.02"/>
             <num>1b</num>
             <heading>Email notifications regarding the surplus and disposition of real property.</heading>
             <para>
@@ -2362,6 +2362,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <annotation type="History" doc="D.C. Law 22-33" path="§2162">Aug. 5, 1939, 53 Stat. 1211, ch. 449, § 1b</annotation>
         <codify:annotation doc="D.C. Code" path="§10-801.02" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§10-801.02">
           For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-104" path="§2162">§ 2162 of the Fiscal Year 2018 Budget Support Emergency Act of 2017, effective July 20, 2017 (D.C. Act 22-104; 64 DCR 7032)</cite>.
         </codify:annotation>
@@ -5055,7 +5056,7 @@
             <para>
               <codify:insert codified:doc="D.C. Code" codified:path="§10-304|(d)"/>
               <num>(d)</num>
-              <text>The Department may make a grant in accordance with <code-cite doc="D.C. Code" path="1|3|XII-A|B">the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.11 <em>et seq.</em>)</code-cite>, to a BID corporation for maintenance and operations of the parks identified in subsection (c)(1) of this section.</text>
+              <text>The Department may make a grant in accordance with <code-cite doc="D.C. Code" path="1|3|XII-A|B">the Grant Administration Act of 2013, effective December 24, 2013 (D.C. Law 20-61; D.C. Official Code § 1-328.11 <em>et seq.</em>),</code-cite> to a BID corporation for maintenance and operations of the parks identified in subsection (c)(1) of this section.</text>
             </para>
           </include>
           <aftertext>.</aftertext>
@@ -6928,7 +6929,7 @@
             <text>Subsection (b) is amended by striking the period and adding the phrase ". Revenue generated from the enforcement of this subtitle shall be deposited in the Product Stewardship Fund established by section 127." in its place.</text>
             <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§8-1041.12|(b)">
               <find><code-cite doc="D.C. Law 6-42">the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, effective October 5, 1985 (D.C. Law 6-42; D.C. Official Code § 2-1801.01 <em>et seq.</em>)</code-cite>.</find>
-              <replace><code-cite doc="D.C. Law 6-42">the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, effective October 5, 1985 (D.C. Law 6-42; D.C. Official Code § 2-1801.01 <em>et seq.</em>)</code-cite>. Revenue generated from the enforcement of this subtitle shall be deposited in the Product Stewardship Fund established by <code-cite doc="D.C. Code" path="§1-325.381">section 127</code-cite>.</replace>
+              <replace><code-cite doc="D.C. Law 6-42">the Department of Consumer and Regulatory Affairs Civil Infractions Act of 1985, effective October 5, 1985 (D.C. Law 6-42; D.C. Official Code § 2-1801.01 <em>et seq.</em>)</code-cite>. Revenue generated from the enforcement of <code-cite doc="D.C. Code" path="8|10B">this subtitle</code-cite> shall be deposited in the Product Stewardship Fund established by <code-cite doc="D.C. Code" path="§1-325.381">section 127</code-cite>.</replace>
             </codify:find-replace>
           </para>
         </para>
@@ -6948,7 +6949,7 @@
               <num>C</num>
               <heading>PRODUCT STEWARDSHIP</heading>
               <section>
-                <codify:insert path="MM" num-value="1-325.381" codified:doc="D.C. Code" codified:path="§1-325.381"/>
+                <codify:insert path="MM" num-value="1-325.381" history-prefix="as added" codified:doc="D.C. Code" codified:path="§1-325.381"/>
                 <num>127</num>
                 <heading>Product Stewardship Fund.</heading>
                 <para>
@@ -6990,6 +6991,7 @@
                     <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
                   </para>
                 </para>
+                <annotation doc="D.C. Law 22-33" type="History" path="§6003|(d)">Feb. 26, 2015, D.C. Law 20-154, § 127</annotation>
               </section>
             </container>
           </include>
@@ -7884,7 +7886,7 @@
               <text>For the purposes of this section, the term:</text>
               <para>
                 <num>(1)</num>
-                <text>Persons engaged in human trafficking or human trafficking-related crimes includes:</text>
+                <text>"Persons engaged in human trafficking or human trafficking-related crimes" includes:</text>
                 <para>
                   <num>(A)</num>
                   <text>Any person who attempts to recruit, entice, harbor, transport, provide, or obtain, or successfully recruits, entices, harbors, transports, provides, or obtains, by any means, another person, intending or knowing that the person will be subjected to forced labor or services; and</text>
@@ -8057,7 +8059,6 @@
       <section>
         <num>7012</num>
         <text>Section 3 of the Carcinogenic Flame Retardant Prohibition Amendment Act of 2016, effective May 12, 2016 (D.C. Law 21-108; 63 DCR 4315), is repealed.</text>
-        <codify:annotation doc="D.C. Code" path="§8-108.02a" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-108.02a"><cite doc="D.C. Law 22-33" path="§7012">Section 7012 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-108" path="§3">§ 3 of D.C. Law 21-108</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-108">D.C. Law 21-108</cite> has been given effect.</codify:annotation>
         <codify:annotation doc="D.C. Code" path="§8-108.02b" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-108.02b"><cite doc="D.C. Law 22-33" path="§7012">Section 7012 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-108" path="§3">§ 3 of D.C. Law 21-108</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-108">D.C. Law 21-108</cite> has been given effect.</codify:annotation>
         <codify:annotation doc="D.C. Code" path="§8-108.04a" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§8-108.04a"><cite doc="D.C. Law 22-33" path="§7012">Section 7012 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-108" path="§3">§ 3 of D.C. Law 21-108</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-108">D.C. Law 21-108</cite> has been given effect.</codify:annotation>
       </section>
@@ -10429,7 +10430,7 @@
           <text>A new section 1263c is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="1|3|XI|P" after="§1-325.153b" num-value="1-325.153c" codified:doc="D.C. Code" codified:path="§1-325.153c"/>
+              <codify:insert path="1|3|XI|P" after="§1-325.153b" num-value="1-325.153c" history-prefix="as added" codified:doc="D.C. Code" codified:path="§1-325.153c"/>
               <num>1263c</num>
               <heading>Release of encumbered or pre-encumbered funds; transfer of surplus capital funds.</heading>
               <para>
@@ -10451,6 +10452,7 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <annotation doc="D.C. Law 18-111" type="History" path="§1263c">Mar. 3, 2010, D.C. Law 18-111, § 1263c</annotation>
         </para>
         <para codify:path="§1-325.155|(a)">
           <num>(e)</num>
@@ -10798,7 +10800,7 @@
               </para>
               <para>
                 <num>(b)</num>
-                <text>Revenue derived from public rights-of-way user fees, charges, and penalties collected pursuant to <cite doc="D.C. Code" path="10|11|III">Title VI of the 1997 Act</cite> and regulations issued pursuant to the <cite doc="D.C. Code" path="10|11|III">1997 Act</cite> in Chapter 33 of Title 24 of the District of Columbia Municipal Regulations not deposited in the Fund pursuant to subsection (a) of this section shall be transferred to the Capital Improvements Program and used to fund the renovation, repair, and maintenance of local transportation infrastructure.</text>
+                <text>Revenue derived from public rights-of-way user fees, charges, and penalties collected pursuant to <span codify:value="">Title VI of</span> the <cite doc="D.C. Code" path="10|11|III">1997 Act</cite> and regulations issued pursuant to the <cite doc="D.C. Code" path="10|11|III">1997 Act</cite> in Chapter 33 of Title 24 of the District of Columbia Municipal Regulations not deposited in the Fund pursuant to subsection (a) of this section shall be transferred to the Capital Improvements Program and used to fund the renovation, repair, and maintenance of local transportation infrastructure.</text>
               </para>
             </section>
           </include>
