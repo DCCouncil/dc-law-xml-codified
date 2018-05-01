@@ -45,14 +45,14 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
-      <heading>District of Columbia State Athletics Association. </heading>
+      <heading>District of Columbia State Athletics Commission. </heading>
     </container>
   </codify:insert>
   <codify:insert doc="D.C. Code" path="38|26A-i" after="III" history="false" codified:doc="D.C. Code" codified:path="38|26A-i|IV">
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
-      <heading>Rules. </heading>
+      <heading>District of Columbia State Athletics Commission. </heading>
     </container>
   </codify:insert>
   <container>
@@ -709,8 +709,8 @@
         <text>A new paragraph (25) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert warning="false" codified:doc="D.C. Code" codified:path="§1-604.06|(b)|[(26)]"/>
-            <num codify:value="[(26)]">(25)</num>
+            <codify:insert warning="false" codified:doc="D.C. Code" codified:path="§1-604.06|(b)|(26)"/>
+            <num codify:value="(26)">(25)</num>
             <text>For the Director of the District of Columbia State Athletic Association ("DCSAA"), the personnel authority shall be the District of Columbia State Athletics Commission, and for any other employee of the DCSAA, the personnel authority shall be the Director of the DCSAA.</text>
           </para>
         </include>
