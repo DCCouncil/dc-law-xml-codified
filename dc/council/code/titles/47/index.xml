@@ -1909,7 +1909,7 @@
       <xi:include href="./sections/47-2851.18.xml"/>
       <xi:include href="./sections/47-2851.19.xml"/>
       <xi:include href="./sections/47-2851.20.xml"/>
-      <annotation type="Applicability" app="2017-02-18" eff="2017-02-18" doc="D.C. Law 21-213" path="§3|(c)">Applicability of <cite doc="D.C. Law 21-213" path="">D.C. Law 21-213</cite>: <cite doc="D.C. Law 21-213" path="§4">§ 4 of D.C. Law 21-213</cite> provided that the creation of this section by <cite doc="D.C. Law 21-213" path="§3|(c)">§ 3(c) of D.C. Law 21-213</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+      <annotation type="Applicability" app="2017-02-18" eff="2017-02-18" doc="D.C. Law 21-213" path="§3|(c)">Applicability of <cite doc="D.C. Law 21-213" path="">D.C. Law 21-213</cite>: <cite doc="D.C. Law 21-213" path="§4">§ 4 of D.C. Law 21-213</cite> provided that the creation of this section by <cite doc="D.C. Law 21-213" path="§3|(c)">§ 3(c) of D.C. Law 21-213</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been given effect.</annotation>
       <annotation app="2017-02-18" doc="D.C. Law 21-213" eff="2017-02-18" path="§3|(c)" type="History"/>
     </container>
     <container>
@@ -2832,17 +2832,5 @@
     <heading>ABLE Program.</heading>
     <xi:include href="./sections/47-4901.xml"/>
     <xi:include href="./sections/47-4902.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>50</num>
-    <heading>High Unemployment Area Tax Relief. [Not Funded]</heading>
-    <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="" type="History" display="false"/>
-    <xi:include href="./sections/47-5001.xml"/>
-    <xi:include href="./sections/47-5002.xml"/>
-    <xi:include href="./sections/47-5003.xml"/>
-    <xi:include href="./sections/47-5004.xml"/>
-    <xi:include href="./sections/47-5005.xml"/>
   </container>
 </container>
