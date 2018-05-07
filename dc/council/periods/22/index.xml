@@ -5,8 +5,6 @@
     <heading>Permanent Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
-      <xi:include href="./laws/22-88.xml"/>
-      <xi:include href="./laws/22-87.xml"/>
       <xi:include href="./laws/22-86.xml"/>
       <xi:include href="./laws/22-85.xml"/>
       <xi:include href="./laws/22-84.xml"/>
@@ -74,6 +72,8 @@
       <xi:include href="./acts/22-276.xml"/>
       <xi:include href="./acts/22-275.xml"/>
       <xi:include href="./acts/22-274.xml"/>
+      <xi:include href="./acts/22-271.xml"/>
+      <xi:include href="./acts/22-270.xml"/>
     </collection>
   </collection>
   <collection name="emergency">
@@ -160,7 +160,6 @@
     <heading>Temporary Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
-      <xi:include href="./laws/22-89.xml"/>
       <xi:include href="./laws/22-73.xml"/>
       <xi:include href="./laws/22-72.xml"/>
       <xi:include href="./laws/22-71.xml"/>
@@ -198,6 +197,7 @@
       <xi:include href="./acts/22-302.xml"/>
       <xi:include href="./acts/22-301.xml"/>
       <xi:include href="./acts/22-273.xml"/>
+      <xi:include href="./acts/22-272.xml"/>
     </collection>
   </collection>
 </collection>
