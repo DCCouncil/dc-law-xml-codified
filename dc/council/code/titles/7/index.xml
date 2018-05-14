@@ -489,6 +489,7 @@
     <xi:include href="./sections/7-761.10.xml"/>
     <xi:include href="./sections/7-761.11.xml"/>
     <xi:include href="./sections/7-761.12.xml"/>
+    <xi:include href="./sections/7-761.13.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -845,7 +846,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
-      <heading>Admission, Commitment, Discharge, Transfer, Respite Care.</heading>
+      <heading>Commitments.<annotation app="2018-05-05" doc="D.C. Law 22-93" eff="2018-05-05" path="§201|(c)|(1)" type="History"/></heading>
       <xi:include href="./sections/7-1303.01.xml"/>
       <xi:include href="./sections/7-1303.02.xml"/>
       <xi:include href="./sections/7-1303.03.xml"/>
@@ -1240,6 +1241,19 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>19B</num>
+    <heading>Health Care Provider Facility Expansion Program.</heading>
+    <annotation app="2018-05-05" doc="D.C. Law 22-97" eff="2018-05-05" path="" type="History" display="false"/>
+    <xi:include href="./sections/7-1941.01.xml"/>
+    <xi:include href="./sections/7-1941.02.xml"/>
+    <xi:include href="./sections/7-1941.03.xml"/>
+    <xi:include href="./sections/7-1941.04.xml"/>
+    <xi:include href="./sections/7-1941.05.xml"/>
+    <xi:include href="./sections/7-1941.06.xml"/>
+    <xi:include href="./sections/7-1941.07.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>20</num>
     <heading>Child Care Services and Facilities.</heading>
     <container>
@@ -1357,6 +1371,16 @@
     <xi:include href="./sections/7-2123.xml"/>
     <xi:include href="./sections/7-2124.xml"/>
     <xi:include href="./sections/7-2125.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>21B</num>
+    <heading>Supported Decision-Making Agreements.</heading>
+    <annotation app="2018-05-05" doc="D.C. Law 22-93" eff="2018-05-05" path="" type="History" display="false"/>
+    <xi:include href="./sections/7-2131.xml"/>
+    <xi:include href="./sections/7-2132.xml"/>
+    <xi:include href="./sections/7-2133.xml"/>
+    <xi:include href="./sections/7-2134.xml"/>
   </container>
   <subheading>Subtitle J. Public Safety.</subheading>
   <container>

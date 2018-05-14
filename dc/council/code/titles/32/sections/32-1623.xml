@@ -1,29 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <reason>Not Funded</reason>
   <num>32-1623</num>
   <heading>Requirement to share information.</heading>
-  <text>District agencies that manage, administer, oversee, or fund workforce development or adult education programs covered pursuant to <cite path="§32-1622|(c)">§ 32-1622(c)</cite> shall transmit to the WIC the information necessary to create the guide no later than 60 days after receiving a request from the WIC for such information; provided, that:</text>
-  <para>
-    <num undesignated="true">(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>An agency shall not be required to disclose information specifically protected from disclosure to another agency pursuant to District or federal law;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>An agency shall not be required to transmit individual-level or personally identifiable information without a legally executed memorandum of understanding or similar legal instrument;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>All agencies shall comply with all relevant privacy laws and no personally identifiable information shall be publicly released or made publicly available; and</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>The Public Charter School Board shall not be required to transmit the information required by <cite path="32|16|I-A">this subchapter</cite>, although the WIC may request such information from the Public Charter School Board.</text>
-    </para>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
-    <annotation app="2018-03-12" doc="D.C. Act 22-279" eff="2018-03-12" path="" type="History" display="false"/>
-    <annotation app="2018-03-12" doc="D.C. Act 22-279" eff="2018-03-12" path="§103" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 22-95" eff="2018-05-05" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-95" eff="2018-05-05" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-95" eff="2018-05-05" path="§103" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-95" path="§103" app="2018-05-05" eff="2018-05-05">Applicability of <cite doc="D.C. Law 22-95" path="">D.C. Law 22-95</cite>: <cite doc="D.C. Law 22-95" path="§301">§ 301 of D.C. Law 22-95</cite> provided that the creation of this section by <cite doc="D.C. Law 22-95" path="§103">§ 103 of D.C. Law 22-95</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-05-05" doc="D.C. Law 22-95" eff="2018-05-05" path="§103" type="History"/>
   </annotations>
 </section>

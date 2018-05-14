@@ -1,26 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <reason>Not Funded</reason>
   <num>1-1163.32k</num>
   <heading>2020 election cycle report by the District of Columbia Auditor.</heading>
-  <text>No later than December 31, 2021, the District of Columbia Auditor shall prepare and submit to the Mayor and Council a report on the Fair Elections Program's performance during the 2020 election cycle. The report shall include:</text>
-  <para>
-    <num undesignated="true">(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>An evaluation of the Fair Elections Program's performance in meeting the requirements of [add law citation];</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>A financial audit of the Fair Elections Program's spending during the 2020 election cycle; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Recommendations for improving the Fair Elections Program.</text>
-    </para>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 19-124" type="History" path="§332k">Apr. 27, 2012, D.C. Law 19-124, § 332k</annotation>
-    <annotation app="2018-03-12" doc="D.C. Act 22-278" eff="2018-03-12" path="§2|(b)|(5)" type="History" display="false"/>
-    <annotation app="2018-03-12" doc="D.C. Act 22-278" eff="2018-03-12" path="§2|(b)|(5)" prefix="as added" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 22-94" eff="2018-05-05" path="§3|(a)|(1)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-94" eff="2018-05-05" path="§2|(b)|(5)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-94" eff="2018-05-05" path="§2|(b)|(5)" prefix="as added" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-94" path="§2|(b)" app="2018-05-05" eff="2018-05-05">Applicability of <cite doc="D.C. Law 22-94" path="">D.C. Law 22-94</cite>: <cite doc="D.C. Law 22-94" path="§3">§ 3 of D.C. Law 22-94</cite> provided that the creation of this section by <cite doc="D.C. Law 22-94" path="§2|(b)">§ 2(b) of D.C. Law 22-94</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-05-05" doc="D.C. Law 22-94" eff="2018-05-05" path="§2|(b)" type="History"/>
   </annotations>
 </section>

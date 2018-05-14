@@ -706,6 +706,16 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>I-A</num>
+      <heading>Workforce Development System Expenditure Guide.</heading>
+      <annotation app="notfunded" doc="D.C. Law 22-95" eff="2018-05-05" path="§301|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 22-95" eff="2018-05-05" path="" type="History" display="false"/>
+      <xi:include href="./sections/32-1621.xml"/>
+      <xi:include href="./sections/32-1622.xml"/>
+      <xi:include href="./sections/32-1623.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Workforce Investment Implementation Individual Training Accounts Limitation.</heading>
       <xi:include href="./sections/32-1631.xml"/>
