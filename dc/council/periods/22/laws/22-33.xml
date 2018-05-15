@@ -5836,7 +5836,7 @@
           <text>Section 518(e) (D.C. Official Code § 4-205.18(e)) is amended by striking the phrase "act." and inserting the phrase "act; provided, that no sanction under <code-cite doc="D.C. Code" path="4|2|V">this title</code-cite>, or regulations implementing <code-cite doc="D.C. Code" path="4|2|V">this title</code-cite>, shall exceed 6% of the assistance unit's TANF benefits." in its place.</text>
           <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-205.18|(e)">
             <find>chapter.</find>
-            <replace>act; provided, that no sanction under <code-cite doc="D.C. Code" path="4|2|V">this title</code-cite>, or regulations implementing <code-cite doc="D.C. Code" path="4|2|V">this title</code-cite>, shall exceed 6% of the assistance unit's TANF benefits.</replace>
+            <replace><code-cite doc="D.C. Code" path="4|2">act</code-cite>; provided, that no sanction under <code-cite doc="D.C. Code" path="4|2|V">this title</code-cite>, or regulations implementing <code-cite doc="D.C. Code" path="4|2|V">this title</code-cite>, shall exceed 6% of the assistance unit's TANF benefits.</replace>
           </codify:find-replace>
         </para>
         <para codify:path="§4-205.19f">
@@ -8379,7 +8379,9 @@
         <text>Section 7 of the Child Care Study Act of 2017, enacted on June 5, 2017 (D.C. Act 22-72; 64 DCR 5610), is repealed.</text>
         <codify:annotation doc="D.C. Law 22-11" path="§7" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-2011.06"><cite doc="D.C. Law 22-33" path="§7038">Section 7038 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-259" path="§11">§ 11 of D.C. Law 21-259</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-259">D.C. Law 21-259</cite> has been given effect.
         </codify:annotation>
-        <codify:emergency doc="D.C. Code" path="7|20|I-A" action="repeal of § 7 of D.C. Law 22-11" codified:doc="D.C. Code" codified:path="§7-2011.01" codified:instruction="Note"/>
+        <codify:annotation doc="D.C. Code" path="7|20|I-A" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§7-2011.01">
+          For temporary (90 days) repeal of § 7 of D.C. Law 22-11, see <cite doc="D.C. Act 22-104" path="§7038">§ 7038 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, Jul. 20, 2017, 64 DCR 7032)</cite>.
+        </codify:annotation>
       </section>
     </container>
     <container>
@@ -8672,6 +8674,9 @@
                 <num>(e)</num>
                 <text>The abatement provided under this section shall be in addition to, and not in lieu of, any other tax relief or assistance from any other source applicable to the Property; provided, that no appeal of the Property's proposed assessed value for tax years 2017 through 2021 shall be allowed and no claim for a refund of real property tax paid for real property tax years 2016 through 2021 shall be allowed; except, that the Property owner may seek enforcement of the abatement provided by this section.</text>
               </para>
+              <codify:annotation doc="D.C. Code" path="§47-4666" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§47-4666">
+          For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-104" path="§7092|(b)">§ 7092(b) of the Fiscal Year 2018 Budget Support Emergency Act of 2017, effective July 20, 2017 (D.C. Act 22-104; 64 DCR 7032)</cite>.
+        </codify:annotation>
               <codify:annotation doc="D.C. Code" path="§47-4666" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§47-4666">
                 For temporary (90 days) Business Improvement Districts tax exemption, see <cite doc="D.C. Act 22-182" path="§2|(b)">§ 2 of the Business Improvement Districts Tax Exemption Emergency Amendment Act of 2017 (D.C. Act 22-182, Nov. 22, 2017, 64 DCR 12296</cite>).
               </codify:annotation>
@@ -10086,6 +10091,9 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:annotation doc="D.C. Code" path="§47-2002.03a" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§47-2002.03a">
+          For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-104" path="§7242|(b)">§ 7242(b) of the Fiscal Year 2018 Budget Support Emergency Act of 2017, effective July 20, 2017 (D.C. Act 22-104; 64 DCR 7032)</cite>.
+        </codify:annotation>
       </section>
     </container>
     <container>
@@ -10259,6 +10267,9 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:annotation doc="D.C. Code" path="§47-1099.01" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§47-1099.01">
+          For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-104" path="§7292|(b)">§ 7292(b) of the Fiscal Year 2018 Budget Support Emergency Act of 2017, effective July 20, 2017 (D.C. Act 22-104; 64 DCR 7032)</cite>.
+        </codify:annotation>
         <codify:annotation doc="D.C. Code" path="§47-1099.01" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§47-1099.01">
           Section 7292(b) of D.C. Law 22-33 added § 47-1009 which had previously been added by D.C. Law 12-160, therefore section 7292(b) of D.C. Law 22-33 has been codified here as § 47-1009.01.
         </codify:annotation>
