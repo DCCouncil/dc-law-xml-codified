@@ -28,7 +28,7 @@
       <para codify:path="(3)">
         <num>(1)</num>
         <text>Paragraph (3) is amended by striking the phrase "provision or referral" and inserting the word "provision" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.02|(3)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.02|(3)" codified:citation="§ 44-1051.02" codified:instruction="Amend">
           <find>provision or referral</find>
           <replace>provision</replace>
         </codify:find-replace>
@@ -39,7 +39,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "providing or referring" and insert the word "providing" in its place.</text>
-          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§44-1051.02|(7)">
+          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§44-1051.02|(7)" codified:citation="§ 44-1051.02" codified:instruction="Amend">
             <find>providing or referring</find>
             <replace>providing</replace>
           </codify:find-replace>
@@ -47,7 +47,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "temporary nursing services" and insert the phrase "temporary nursing personnel" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.02|(7)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.02|(7)" codified:citation="§ 44-1051.02" codified:instruction="Amend">
             <find>temporary nursing services</find>
             <replace>temporary nursing personnel</replace>
           </codify:find-replace>
@@ -60,7 +60,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the phrase "providing or referring" and insert the word "providing" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.03">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.03" codified:citation="§ 44-1051.03" codified:instruction="Amend">
           <find>providing or referring</find>
           <replace>providing</replace>
         </codify:find-replace>
@@ -68,7 +68,7 @@
       <para>
         <num>(2)</num>
         <text>Strike the phrase "services or related aide services" and insert the phrase "related aide personnel" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.03">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.03" codified:citation="§ 44-1051.03" codified:instruction="Amend">
           <find>services or related aide services</find>
           <replace>related aide personnel</replace>
         </codify:find-replace>
@@ -77,7 +77,7 @@
     <para codify:path="§44-1051.06|(b)">
       <num>(c)</num>
       <text>Section 6(b) (D.C. Official Code § 44-1051.06(b)) is amended by striking the phrase "providing and referring" and inserting the word "providing" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.06|(b)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.06|(b)" codified:citation="§ 44-1051.06" codified:instruction="Amend">
         <find>providing and referring</find>
         <replace>providing</replace>
       </codify:find-replace>
@@ -91,7 +91,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "providing or referring" and insert the word "providing" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.11|(a)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.11|(a)" codified:citation="§ 44-1051.11" codified:instruction="Amend">
             <find>providing or referring</find>
             <replace>providing</replace>
           </codify:find-replace>
@@ -99,7 +99,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "temporary nursing services" and insert the phrase "temporary nursing personnel" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.11|(a)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.11|(a)" codified:citation="§ 44-1051.11" codified:instruction="Amend">
             <find>temporary nursing services</find>
             <replace>temporary nursing personnel</replace>
           </codify:find-replace>
@@ -108,7 +108,7 @@
       <para codify:path="(b)">
         <num>(2)</num>
         <text>Subsection (b) is amended by striking the phrase "provided or referred" wherever it appears and inserting the word "provided" in its place.</text>
-        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§44-1051.11|(b)">
+        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§44-1051.11|(b)" codified:citation="§ 44-1051.11" codified:instruction="Amend">
           <find>provided or referred</find>
           <replace>provided</replace>
         </codify:find-replace>
@@ -120,7 +120,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the phrase "providing or referring" and insert the word "providing" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.12">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.12" codified:citation="§ 44-1051.12" codified:instruction="Amend">
           <find>providing or referring</find>
           <replace>providing</replace>
         </codify:find-replace>
@@ -128,7 +128,7 @@
       <para>
         <num>(2)</num>
         <text>Strike the phrase "personal care services" and insert the word "personal care aide personnel" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.12">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.12" codified:citation="§ 44-1051.12" codified:instruction="Amend">
           <find>personal care services</find>
           <replace>personal care aide personnel</replace>
         </codify:find-replace>
@@ -136,7 +136,7 @@
       <para>
         <num>(3)</num>
         <text>Strike the phrase "provided or referred" and insert the word "provided" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.12">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.12" codified:citation="§ 44-1051.12" codified:instruction="Amend">
           <find>provided or referred</find>
           <replace>provided</replace>
         </codify:find-replace>
@@ -148,7 +148,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the phrase "provide or refer" and insert the word "provide" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.13">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.13" codified:citation="§ 44-1051.13" codified:instruction="Amend">
           <find>provide or refer</find>
           <replace>provide</replace>
         </codify:find-replace>
@@ -156,7 +156,7 @@
       <para>
         <num>(2)</num>
         <text>Strike the phrase "temporary nursing services" and insert the phrase "temporary nursing personnel" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.13">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.13" codified:citation="§ 44-1051.13" codified:instruction="Amend">
           <find>temporary nursing services</find>
           <replace>temporary nursing personnel</replace>
         </codify:find-replace>
@@ -164,7 +164,7 @@
       <para>
         <num>(3)</num>
         <text>Strike the phrase "provided or referred" and insert the word "provided" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.13">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.13" codified:citation="§ 44-1051.13" codified:instruction="Amend">
           <find>provided or referred</find>
           <replace>provided</replace>
         </codify:find-replace>
@@ -176,7 +176,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "provided or referred" and inserting the word "provided" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.14|(a)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.14|(a)" codified:citation="§ 44-1051.14" codified:instruction="Amend">
           <find>provided or referred</find>
           <replace>provided</replace>
         </codify:find-replace>
@@ -186,7 +186,7 @@
         <text>Subsection (b) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§44-1051.14|(b)"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§44-1051.14|(b)" codified:citation="§ 44-1051.14" codified:instruction="Amend"/>
             <num>(b)</num>
             <text>If a nurse staffing agency terminates a Certified Nurse Aide due to unsafe practice pursuant to <code-cite doc="D.C. Code" path="3|12">the Health Occupations Revision Act of 1985, effective March 25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1201.01 <em>et seq</em>.),</code-cite> or Chapter 32 of Title 29 of the District of Columbia Municipal Regulations, the agency shall report the action to the Board within 10 days of the termination.</text>
           </para>
@@ -200,7 +200,7 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the phrase "provided or referred" and inserting the word "provided" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(1)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(1)" codified:citation="§ 44-1051.15" codified:instruction="Amend">
           <find>provided or referred</find>
           <replace>provided</replace>
         </codify:find-replace>
@@ -208,7 +208,7 @@
       <para codify:path="(2)">
         <num>(2)</num>
         <text>Paragraph (2) is amended by striking the phrase "provided or referred" and inserting the word "provided" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(2)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(2)" codified:citation="§ 44-1051.15" codified:instruction="Amend">
           <find>provided or referred</find>
           <replace>provided</replace>
         </codify:find-replace>
@@ -216,7 +216,7 @@
       <para codify:path="(4)">
         <num>(3)</num>
         <text>Paragraph (4) is amended by striking the phrase "providing or referring" and inserting the word "providing" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(4)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(4)" codified:citation="§ 44-1051.15" codified:instruction="Amend">
           <find>providing or referring</find>
           <replace>providing</replace>
         </codify:find-replace>
@@ -227,7 +227,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "provided or referred" and insert the word "provided" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(5)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(5)" codified:citation="§ 44-1051.15" codified:instruction="Amend">
             <find>provided or referred</find>
             <replace>provided</replace>
           </codify:find-replace>
@@ -235,7 +235,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "providing or referring" and insert the word "providing" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(5)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(5)" codified:citation="§ 44-1051.15" codified:instruction="Amend">
             <find>providing or referring</find>
             <replace>providing</replace>
           </codify:find-replace>
@@ -244,7 +244,7 @@
       <para codify:path="(6)">
         <num>(5)</num>
         <text>Paragraph (6) is amended by striking the phrase "providing or referring" and inserting the word "providing" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(6)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(6)" codified:citation="§ 44-1051.15" codified:instruction="Amend">
           <find>providing or referring</find>
           <replace>providing</replace>
         </codify:find-replace>
@@ -252,7 +252,7 @@
       <para codify:path="(8)">
         <num>(6)</num>
         <text>Paragraph (8) is amended by striking the phrase "provided or referred" wherever it appears and inserting the word "provided" in its place.</text>
-        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§44-1051.15|(8)">
+        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§44-1051.15|(8)" codified:citation="§ 44-1051.15" codified:instruction="Amend">
           <find>provided or referred</find>
           <replace>provided</replace>
         </codify:find-replace>
@@ -260,7 +260,7 @@
       <para codify:path="(9)">
         <num>(7)</num>
         <text>Paragraph (9) is amended by striking "provided or referred" wherever it appears and inserting the word "provided" in its place.</text>
-        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§44-1051.15|(9)">
+        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§44-1051.15|(9)" codified:citation="§ 44-1051.15" codified:instruction="Amend">
           <find>provided or referred</find>
           <replace>provided</replace>
         </codify:find-replace>
@@ -271,7 +271,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "provided or referred" and insert the word "provided" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(10)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(10)" codified:citation="§ 44-1051.15" codified:instruction="Amend">
             <find>provided or referred</find>
             <replace>provided</replace>
           </codify:find-replace>
@@ -279,7 +279,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "before being referred" and insert the phrase "before being provided" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(10)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.15|(10)" codified:citation="§ 44-1051.15" codified:instruction="Amend">
             <find>before being referred</find>
             <replace>before being provided</replace>
           </codify:find-replace>
@@ -295,7 +295,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "provided or referred" and insert the word "provided" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.16|(b)|(1)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.16|(b)|(1)" codified:citation="§ 44-1051.16" codified:instruction="Amend">
             <find>provided or referred</find>
             <replace>provided</replace>
           </codify:find-replace>
@@ -303,7 +303,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "temporary nursing services" and insert the phrase "temporary nursing personnel" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.16|(b)|(1)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.16|(b)|(1)" codified:citation="§ 44-1051.16" codified:instruction="Amend">
             <find>temporary nursing services</find>
             <replace>temporary nursing personnel</replace>
           </codify:find-replace>
@@ -312,7 +312,7 @@
       <para>
         <num>(2)</num>
         <text>Subsection (c) is amended by striking the phrase "provided or referred" and inserting the word "provided" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.16">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-1051.16" codified:citation="§ 44-1051.16" codified:instruction="Amend">
           <find>provided or referred</find>
           <replace>provided</replace>
         </codify:find-replace>

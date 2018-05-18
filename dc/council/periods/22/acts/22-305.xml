@@ -19,7 +19,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Community Residential Facilities Third-Party Notice of Utility Disconnection Requirement Act of 2018".</text>
-  <codify:insert doc="D.C. Code" path="34" after="4" history="false" codified:doc="D.C. Code" codified:path="34|4A">
+  <codify:insert doc="D.C. Code" path="34" after="4" history="false" codified:doc="D.C. Code" codified:path="34|4A" codified:citation="Chapter 4A of Title 34" codified:instruction="New">
     <container>
       <prefix>Chapter</prefix>
       <num>4A</num>
@@ -27,7 +27,7 @@
     </container>
   </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="34|4A" num-value="34-411.01" codified:doc="D.C. Code" codified:path="§34-411.01"/>
+    <codify:insert doc="D.C. Code" path="34|4A" num-value="34-411.01" codified:doc="D.C. Code" codified:path="§34-411.01" codified:citation="§ 34-411.01" codified:instruction="New"/>
     <num>2</num>
     <heading>Definitions.</heading>
     <text>For the purposes of <code-cite doc="D.C. Code" path="34|4A">this act</code-cite>, the term:</text>
@@ -84,7 +84,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="34|4A" num-value="34-411.02" codified:doc="D.C. Code" codified:path="§34-411.02"/>
+    <codify:insert doc="D.C. Code" path="34|4A" num-value="34-411.02" codified:doc="D.C. Code" codified:path="§34-411.02" codified:citation="§ 34-411.02" codified:instruction="New"/>
     <num>3</num>
     <heading>Third-Party Notification program; utility company requirement.</heading>
     <para>
@@ -111,7 +111,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="34|4A" num-value="34-411.03" codified:doc="D.C. Code" codified:path="§34-411.03"/>
+    <codify:insert doc="D.C. Code" path="34|4A" num-value="34-411.03" codified:doc="D.C. Code" codified:path="§34-411.03" codified:citation="§ 34-411.03" codified:instruction="New"/>
     <num>4</num>
     <heading>Third-Party Notification program; entity requirement.</heading>
     <para>
@@ -124,13 +124,13 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="34|4A" num-value="34-411.04" codified:doc="D.C. Code" codified:path="§34-411.04"/>
+    <codify:insert doc="D.C. Code" path="34|4A" num-value="34-411.04" codified:doc="D.C. Code" codified:path="§34-411.04" codified:citation="§ 34-411.04" codified:instruction="New"/>
     <num>5</num>
     <heading>Ombudsman; notification requirement.</heading>
     <text>Upon receiving a copy of a notification from a utility company to the utility company's customer of a past-due bill or termination of service, the third-party contact managing agency shall transmit a copy of the notification to the Ombudsman, which shall be transmitted so that the Ombudsman receives the copy on the same day that the notification was received by the third-party contact managing agency.</text>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="34|4A" num-value="34-411.05" codified:doc="D.C. Code" codified:path="§34-411.05"/>
+    <codify:insert doc="D.C. Code" path="34|4A" num-value="34-411.05" codified:doc="D.C. Code" codified:path="§34-411.05" codified:citation="§ 34-411.05" codified:instruction="New"/>
     <num>6</num>
     <heading>Nonliability of a third-party contact and Ombudsman.</heading>
     <text>A third-party contact, whether a managing agency or other designee, and the Ombudsman shall not have any:</text>
@@ -155,7 +155,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="34|4A" num-value="34-411.06" codified:doc="D.C. Code" codified:path="§34-411.06"/>
+    <codify:insert doc="D.C. Code" path="34|4A" num-value="34-411.06" codified:doc="D.C. Code" codified:path="§34-411.06" codified:citation="§ 34-411.06" codified:instruction="New"/>
     <num>7</num>
     <heading>Rules.</heading>
     <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to implement the provisions of <code-cite doc="D.C. Code" path="34|4A">this act</code-cite>.</text>

@@ -25,7 +25,7 @@
     <para codify:path="(1)">
       <num>(a)</num>
       <text>Paragraph (1) is amended by striking the number "25" and inserting the number "30" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3504.01|(a)|(1)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3504.01|(a)|(1)" codified:citation="§ 42-3504.01" codified:instruction="Amend">
         <find>25</find>
         <replace>30</replace>
       </codify:find-replace>
@@ -35,7 +35,7 @@
       <text>Paragraph (2) is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§42-3504.01|(a)|(2)"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§42-3504.01|(a)|(2)" codified:citation="§ 42-3504.01" codified:instruction="Amend"/>
           <num>(2)</num>
           <para>
             <num>(A)</num>

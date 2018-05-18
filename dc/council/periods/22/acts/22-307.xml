@@ -25,7 +25,7 @@
     <para codify:path="(1)">
       <num>(a)</num>
       <text>Paragraph (1) is amended by striking the phrase "In accordance with paragraph (2) of this subsection, the Mayor may submit" and inserting the phrase "The Mayor may submit" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-307.02|(a)|(1)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-307.02|(a)|(1)" codified:citation="§ 1-307.02" codified:instruction="Amend">
         <find>In accordance with paragraph (2) of this subsection, the Mayor may submit</find>
         <replace>The Mayor may submit</replace>
       </codify:find-replace>
@@ -33,7 +33,7 @@
     <para codify:path="(2)">
       <num>(b)</num>
       <text>Paragraph (2) is repealed.</text>
-      <codify:repeal codified:doc="D.C. Code" codified:path="§1-307.02|(a)|(2)"/>
+      <codify:repeal codified:doc="D.C. Code" codified:path="§1-307.02|(a)|(2)" codified:citation="§ 1-307.02" codified:instruction="Amend"/>
     </para>
   </section>
   <section>

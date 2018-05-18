@@ -25,7 +25,7 @@
     <para codify:path="(c)">
       <num>(a)</num>
       <text>Subsection (c) is amended by striking the phrase "(e) and (f)" and inserting the phrase "(e), (f), and (h)" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§5-633|(c)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§5-633|(c)" codified:citation="§ 5-633" codified:instruction="Amend">
         <find>(e) and (f)</find>
         <replace>(e), (f), and (h)</replace>
       </codify:find-replace>
@@ -35,7 +35,7 @@
       <text>A new subsection (h) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(g)" codified:doc="D.C. Code" codified:path="§5-633|(h)"/>
+          <codify:insert after="(g)" codified:doc="D.C. Code" codified:path="§5-633|(h)" codified:citation="§ 5-633" codified:instruction="Amend"/>
           <num>(h)</num>
           <para>
             <num>(1)</num>

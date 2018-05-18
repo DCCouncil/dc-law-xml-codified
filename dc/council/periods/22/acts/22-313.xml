@@ -20,21 +20,21 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Interstate Medical Licensure Compact Enactment Act of 2018".</text>
-  <codify:insert doc="D.C. Code" path="3" after="12A" history="false" codified:doc="D.C. Code" codified:path="3|12B">
+  <codify:insert doc="D.C. Code" path="3" after="12A" history="false" codified:doc="D.C. Code" codified:path="3|12B" codified:citation="Chapter 12B of Title 3" codified:instruction="New">
     <container>
       <prefix>Chapter</prefix>
       <num>12B</num>
       <heading>Interstate Medical Licensure Compact.</heading>
     </container>
   </codify:insert>
-  <codify:insert doc="D.C. Code" path="3|12B" history="false" codified:doc="D.C. Code" codified:path="3|12B|I">
+  <codify:insert doc="D.C. Code" path="3|12B" history="false" codified:doc="D.C. Code" codified:path="3|12B|I" codified:citation="subchapter I of Chapter 12B of Title 3" codified:instruction="New">
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Compact Provisions.</heading>
     </container>
   </codify:insert>
-  <codify:insert doc="D.C. Code" path="3|12B" after="I" history="false" codified:doc="D.C. Code" codified:path="3|12B|II">
+  <codify:insert doc="D.C. Code" path="3|12B" after="I" history="false" codified:doc="D.C. Code" codified:path="3|12B|II" codified:citation="subchapter II of Chapter 12B of Title 3" codified:instruction="New">
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
@@ -46,13 +46,13 @@
     <text>The Interstate Medical Licensure Compact is enacted into law and entered into by the District of Columbia with all other jurisdictions legally joining therein in the form substantially as follows:</text>
     <include>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.01" codified:doc="D.C. Code" codified:path="§3-1271.01"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.01" codified:doc="D.C. Code" codified:path="§3-1271.01" codified:citation="§ 3-1271.01" codified:instruction="New"/>
         <num>1</num>
         <heading>Purpose.</heading>
         <text>In order to strengthen access to health care, and in recognition of the advances in the delivery of health care, the member states of the Interstate Medical Licensure Compact ("Compact") have allied in common purpose to develop a comprehensive process that complements the existing licensing and regulatory authority of state medical boards, provides a streamlined process that allows physicians to become licensed in multiple states, thereby enhancing the portability of a medical license and ensuring the safety of patients.  The Compact creates another pathway for licensure and does not otherwise change a state's existing medical practice act.  The Compact also adopts the prevailing standard for licensure and affirms that the practice of medicine occurs where the patient is located at the time of the physician-patient encounter, and therefore, requires the physician to be under the jurisdiction of the state medical board where the patient is located.  State medical boards that participate in the Compact retain the jurisdiction to impose an adverse action against a license to practice medicine in that state issued to a physician through the procedures in the Compact.</text>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.02" codified:doc="D.C. Code" codified:path="§3-1271.02"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.02" codified:doc="D.C. Code" codified:path="§3-1271.02" codified:citation="§ 3-1271.02" codified:instruction="New"/>
         <num>2</num>
         <heading>Definitions.</heading>
         <text>In this Compact:</text>
@@ -157,7 +157,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.03" codified:doc="D.C. Code" codified:path="§3-1271.03"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.03" codified:doc="D.C. Code" codified:path="§3-1271.03" codified:citation="§ 3-1271.03" codified:instruction="New"/>
         <num>3</num>
         <heading>Eligibility.</heading>
         <para>
@@ -170,7 +170,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.04" codified:doc="D.C. Code" codified:path="§3-1271.04"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.04" codified:doc="D.C. Code" codified:path="§3-1271.04" codified:citation="§ 3-1271.04" codified:instruction="New"/>
         <num>4</num>
         <heading>Designation of state of principal license.</heading>
         <para>
@@ -203,7 +203,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.05" codified:doc="D.C. Code" codified:path="§3-1271.05"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.05" codified:doc="D.C. Code" codified:path="§3-1271.05" codified:citation="§ 3-1271.05" codified:instruction="New"/>
         <num>5</num>
         <heading>Application and issuance of expedited licensure.</heading>
         <para>
@@ -251,7 +251,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.06" codified:doc="D.C. Code" codified:path="§3-1271.06"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.06" codified:doc="D.C. Code" codified:path="§3-1271.06" codified:citation="§ 3-1271.06" codified:instruction="New"/>
         <num>6</num>
         <heading>Fees for expedited licensure.</heading>
         <para>
@@ -264,7 +264,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.07" codified:doc="D.C. Code" codified:path="§3-1271.07"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.07" codified:doc="D.C. Code" codified:path="§3-1271.07" codified:citation="§ 3-1271.07" codified:instruction="New"/>
         <num>7</num>
         <heading>Renewal and continued participation.</heading>
         <para>
@@ -309,7 +309,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.08" codified:doc="D.C. Code" codified:path="§3-1271.08"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.08" codified:doc="D.C. Code" codified:path="§3-1271.08" codified:citation="§ 3-1271.08" codified:instruction="New"/>
         <num>8</num>
         <heading>Coordinated information system.</heading>
         <para>
@@ -342,7 +342,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.09" codified:doc="D.C. Code" codified:path="§3-1271.09"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.09" codified:doc="D.C. Code" codified:path="§3-1271.09" codified:citation="§ 3-1271.09" codified:instruction="New"/>
         <num>9</num>
         <heading>Joint investigations.</heading>
         <para>
@@ -367,7 +367,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.10" codified:doc="D.C. Code" codified:path="§3-1271.10"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.10" codified:doc="D.C. Code" codified:path="§3-1271.10" codified:citation="§ 3-1271.10" codified:instruction="New"/>
         <num>10</num>
         <heading>Disciplinary actions.</heading>
         <para>
@@ -396,7 +396,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.11" codified:doc="D.C. Code" codified:path="§3-1271.11"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.11" codified:doc="D.C. Code" codified:path="§3-1271.11" codified:citation="§ 3-1271.11" codified:instruction="New"/>
         <num>11</num>
         <heading>Interstate medical licensure compact commission.</heading>
         <para>
@@ -489,7 +489,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.12" codified:doc="D.C. Code" codified:path="§3-1271.12"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.12" codified:doc="D.C. Code" codified:path="§3-1271.12" codified:citation="§ 3-1271.12" codified:instruction="New"/>
         <num>12</num>
         <heading>Powers and duties of the interstate commission.</heading>
         <text>The interstate commission shall have the duty and power to:</text>
@@ -582,7 +582,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.13" codified:doc="D.C. Code" codified:path="§3-1271.13"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.13" codified:doc="D.C. Code" codified:path="§3-1271.13" codified:citation="§ 3-1271.13" codified:instruction="New"/>
         <num>13</num>
         <heading>Finance powers.</heading>
         <para>
@@ -603,7 +603,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.14" codified:doc="D.C. Code" codified:path="§3-1271.14"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.14" codified:doc="D.C. Code" codified:path="§3-1271.14" codified:citation="§ 3-1271.14" codified:instruction="New"/>
         <num>14</num>
         <heading>Organization and operation of the interstate commission.</heading>
         <para>
@@ -639,7 +639,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.15" codified:doc="D.C. Code" codified:path="§3-1271.15"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.15" codified:doc="D.C. Code" codified:path="§3-1271.15" codified:citation="§ 3-1271.15" codified:instruction="New"/>
         <num>15</num>
         <heading>Rulemaking functions of the interstate commission.</heading>
         <para>
@@ -656,7 +656,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.16" codified:doc="D.C. Code" codified:path="§3-1271.16"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.16" codified:doc="D.C. Code" codified:path="§3-1271.16" codified:citation="§ 3-1271.16" codified:instruction="New"/>
         <num>16</num>
         <heading>Oversight of interstate compact.</heading>
         <para>
@@ -673,7 +673,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.17" codified:doc="D.C. Code" codified:path="§3-1271.17"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.17" codified:doc="D.C. Code" codified:path="§3-1271.17" codified:citation="§ 3-1271.17" codified:instruction="New"/>
         <num>17</num>
         <heading>Enforcement of interstate compact.</heading>
         <para>
@@ -690,7 +690,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.18" codified:doc="D.C. Code" codified:path="§3-1271.18"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.18" codified:doc="D.C. Code" codified:path="§3-1271.18" codified:citation="§ 3-1271.18" codified:instruction="New"/>
         <num>18</num>
         <heading>Default procedures.</heading>
         <para>
@@ -735,7 +735,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.19" codified:doc="D.C. Code" codified:path="§3-1271.19"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.19" codified:doc="D.C. Code" codified:path="§3-1271.19" codified:citation="§ 3-1271.19" codified:instruction="New"/>
         <num>19</num>
         <heading>Dispute resolution.</heading>
         <para>
@@ -748,7 +748,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.20" codified:doc="D.C. Code" codified:path="§3-1271.20"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.20" codified:doc="D.C. Code" codified:path="§3-1271.20" codified:citation="§ 3-1271.20" codified:instruction="New"/>
         <num>20</num>
         <heading>Member states, effective date and amendment.</heading>
         <para>
@@ -769,7 +769,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.21" codified:doc="D.C. Code" codified:path="§3-1271.21"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.21" codified:doc="D.C. Code" codified:path="§3-1271.21" codified:citation="§ 3-1271.21" codified:instruction="New"/>
         <num>21</num>
         <heading>Withdrawal.</heading>
         <para>
@@ -802,7 +802,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.22" codified:doc="D.C. Code" codified:path="§3-1271.22"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.22" codified:doc="D.C. Code" codified:path="§3-1271.22" codified:citation="§ 3-1271.22" codified:instruction="New"/>
         <num>22</num>
         <heading>Dissolution.</heading>
         <para>
@@ -815,7 +815,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.23" codified:doc="D.C. Code" codified:path="§3-1271.23"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.23" codified:doc="D.C. Code" codified:path="§3-1271.23" codified:citation="§ 3-1271.23" codified:instruction="New"/>
         <num>23</num>
         <heading>Severability and construction.</heading>
         <para>
@@ -832,7 +832,7 @@
         </para>
       </section>
       <section>
-        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.24" codified:doc="D.C. Code" codified:path="§3-1271.24"/>
+        <codify:insert doc="D.C. Code" path="3|12B|I" num-value="3-1271.24" codified:doc="D.C. Code" codified:path="§3-1271.24" codified:citation="§ 3-1271.24" codified:instruction="New"/>
         <num>24</num>
         <heading>Binding effect of compact and other laws.</heading>
         <para>
@@ -860,7 +860,7 @@
     <aftertext>.</aftertext>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="3|12B|II" num-value="3-1271.31" codified:doc="D.C. Code" codified:path="§3-1271.31"/>
+    <codify:insert doc="D.C. Code" path="3|12B|II" num-value="3-1271.31" codified:doc="D.C. Code" codified:path="§3-1271.31" codified:citation="§ 3-1271.31" codified:instruction="New"/>
     <num>3</num>
     <heading>Appointment of District commissioners.</heading>
     <para>
@@ -873,7 +873,7 @@
     </para>
   </section>
   <section>
-    <codify:insert doc="D.C. Code" path="3|12B|II" num-value="3-1271.32" codified:doc="D.C. Code" codified:path="§3-1271.32"/>
+    <codify:insert doc="D.C. Code" path="3|12B|II" num-value="3-1271.32" codified:doc="D.C. Code" codified:path="§3-1271.32" codified:citation="§ 3-1271.32" codified:instruction="New"/>
     <num>4</num>
     <heading>District appropriations required.</heading>
     <text>Pursuant to the requirements of 31 U.S.C. §§ 1341, 1342, 1349 to 1351, and 1511 to 1519, and <span codify:value="§§">D.C. Official Code §§</span> <code-cite doc="D.C. Code" path="§47-105" codify:number="47-105">47-105</code-cite> and <code-cite doc="D.C. Code" path="§47-355.01" codify:number="47-355.01">47-355.01</code-cite> to <code-cite doc="D.C. Code" path="§47-355.08" codify:number="47-355.08">47-355.08</code-cite>, nothing in the Interstate Medical Licensure Compact ("Compact") creates an obligation of the District in anticipation of an appropriation for such purpose, and the District's legal liability for the payment of any amount under the Compact does not and may not arise or obtain in advance of the lawful availability of appropriated funds for the applicable fiscal year.</text>
@@ -884,7 +884,7 @@
     <para codify:path="(56)">
       <num>(a)</num>
       <text>Paragraph (54) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(56)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(56)" codified:citation="§ 1-523.01" codified:instruction="Amend">
         <find>; and</find>
         <replace>;</replace>
       </codify:find-replace>
@@ -892,7 +892,7 @@
     <para codify:path="(57)">
       <num>(b)</num>
       <text>Paragraph (55) is amended by striking the period and inserting a semicolon in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(57)">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(57)" codified:citation="§ 1-523.01" codified:instruction="Amend">
         <find><code-cite doc="D.C. Code" path="§32-1661">the Adult Literacy Task Force Act of 2014, effective February 26, 2015 (D.C. Law 20-155; D.C. Official Code § 32-1661</code-cite>.</find>
         <replace><code-cite doc="D.C. Code" path="§32-1661">the Adult Literacy Task Force Act of 2014, effective February 26, 2015 (D.C. Law 20-155; D.C. Official Code § 32-1661</code-cite>; and</replace>
       </codify:find-replace>
@@ -906,7 +906,7 @@
       <text>A new paragraph (57) is added to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert after="(57)" num-value="(58)" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(58)"/>
+          <codify:insert after="(57)" num-value="(58)" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(58)" codified:citation="§ 1-523.01" codified:instruction="Amend"/>
           <num>(57)</num>
           <text>The Interstate Medical Licensure Compact Commission established by section 2 of the Interstate Medical Licensure Compact Enactment Act of 2018, passed on 2nd reading on March 6, 2018 (Enrolled version of Bill 22-177).</text>
         </para>
