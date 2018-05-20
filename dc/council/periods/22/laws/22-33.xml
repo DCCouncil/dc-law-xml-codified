@@ -5836,7 +5836,7 @@
           <text>Section 518(e) (D.C. Official Code § 4-205.18(e)) is amended by striking the phrase "act." and inserting the phrase "act; provided, that no sanction under <code-cite doc="D.C. Code" path="4|2|V">this title</code-cite>, or regulations implementing <code-cite doc="D.C. Code" path="4|2|V">this title</code-cite>, shall exceed 6% of the assistance unit's TANF benefits." in its place.</text>
           <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-205.18|(e)">
             <find>chapter.</find>
-            <replace><code-cite doc="D.C. Code" path="4|2">act</code-cite>; provided, that no sanction under <code-cite doc="D.C. Code" path="4|2|V">this title</code-cite>, or regulations implementing <code-cite doc="D.C. Code" path="4|2|V">this title</code-cite>, shall exceed 6% of the assistance unit's TANF benefits.</replace>
+            <replace>act; provided, that no sanction under <code-cite doc="D.C. Code" path="4|2|V">this title</code-cite>, or regulations implementing <code-cite doc="D.C. Code" path="4|2|V">this title</code-cite>, shall exceed 6% of the assistance unit's TANF benefits.</replace>
           </codify:find-replace>
         </para>
         <para codify:path="§4-205.19f">
@@ -7867,7 +7867,7 @@
       <section>
         <num>7002</num>
         <text>Section 4 of the Bicycle Safety Enhancement Amendment Act of 2008, effective March 25, 2009 (D.C. Law 17-352; 56 DCR 1115), is repealed.</text>
-        <codify:find-replace doc="D.C. Code" path="§50-205|(a)|(1)|(C)" count="1" history="false" codified:doc="D.C. Code" codified:path="§50-205|(a)|(1)|(C)">
+        <codify:find-replace doc="D.C. Code" path="§50-205|(a)|(1)|(C)" count="1" codified:doc="D.C. Code" codified:path="§50-205|(a)|(1)|(C)">
           <find>[Not Funded].</find>
           <replace>Side-underrun guards to prevent bicyclists, other vehicles, or pedestrians from sliding under rear wheels.</replace>
         </codify:find-replace>
@@ -8379,9 +8379,7 @@
         <text>Section 7 of the Child Care Study Act of 2017, enacted on June 5, 2017 (D.C. Act 22-72; 64 DCR 5610), is repealed.</text>
         <codify:annotation doc="D.C. Law 22-11" path="§7" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-2011.06"><cite doc="D.C. Law 22-33" path="§7038">Section 7038 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-259" path="§11">§ 11 of D.C. Law 21-259</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-259">D.C. Law 21-259</cite> has been given effect.
         </codify:annotation>
-        <codify:annotation doc="D.C. Code" path="7|20|I-A" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§7-2011.01">
-          For temporary (90 days) repeal of § 7 of D.C. Law 22-11, see <cite doc="D.C. Act 22-104" path="§7038">§ 7038 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, Jul. 20, 2017, 64 DCR 7032)</cite>.
-        </codify:annotation>
+        <codify:emergency doc="D.C. Code" path="7|20|I-A" action="repeal of § 7 of D.C. Law 22-11" codified:doc="D.C. Code" codified:path="§7-2011.01" codified:instruction="Note"/>
       </section>
     </container>
     <container>
@@ -8675,9 +8673,6 @@
                 <text>The abatement provided under this section shall be in addition to, and not in lieu of, any other tax relief or assistance from any other source applicable to the Property; provided, that no appeal of the Property's proposed assessed value for tax years 2017 through 2021 shall be allowed and no claim for a refund of real property tax paid for real property tax years 2016 through 2021 shall be allowed; except, that the Property owner may seek enforcement of the abatement provided by this section.</text>
               </para>
               <codify:annotation doc="D.C. Code" path="§47-4666" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§47-4666">
-          For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-104" path="§7092|(b)">§ 7092(b) of the Fiscal Year 2018 Budget Support Emergency Act of 2017, effective July 20, 2017 (D.C. Act 22-104; 64 DCR 7032)</cite>.
-        </codify:annotation>
-              <codify:annotation doc="D.C. Code" path="§47-4666" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§47-4666">
                 For temporary (90 days) Business Improvement Districts tax exemption, see <cite doc="D.C. Act 22-182" path="§2|(b)">§ 2 of the Business Improvement Districts Tax Exemption Emergency Amendment Act of 2017 (D.C. Act 22-182, Nov. 22, 2017, 64 DCR 12296</cite>).
               </codify:annotation>
             </section>
@@ -8892,13 +8887,13 @@
       <section>
         <num>7142</num>
         <text>The District of Columbia Deed Recordation Tax Act, approved March 2, 1962 (76 Stat. 11; D.C. Official Code § 42-1101 <em>et seq.</em>), is amended as follows:</text>
-        <para codify:path="§42-1101|(a)">
+        <para codify:path="§42-1101">
           <num>(a)</num>
           <text>Section 301 (D.C. Official Code § 42-1101) is amended as follows:</text>
           <para codify:path="(16)">
             <num>(1)</num>
             <text>Paragraph (16) is amended by striking the phrase "means an individual" and inserting the phrase "means an individual purchaser" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1101|(a)|(16)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1101|(16)">
               <find>means an individual</find>
               <replace>means an individual purchaser</replace>
             </codify:find-replace>
@@ -8906,7 +8901,7 @@
           <para codify:path="(17)">
             <num>(2)</num>
             <text>Paragraph (17) is amended by striking the phrase "cooperative unit, that qualifies for the homestead deduction provided pursuant to D.C. Official Code §  47-850" and inserting the phrase "cooperative unit, purchased at an amount not to exceed $625,000, adjusted annually by the Washington, D.C., Standard Metropolitan Statistical Area Consumer Price Index for Urban Wage Earners and Clerical Workers, that qualifies for the homestead deduction provided pursuant to D.C. Official Code § 47-850 or § 47-850.01" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1101|(a)|(17)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1101|(17)">
               <find>cooperative unit, that qualifies for the homestead deduction provided pursuant to <code-cite doc="D.C. Code" path="§47-850">D.C. Official Code § 47-850</code-cite></find>
               <replace>cooperative unit, purchased at an amount not to exceed $625,000, adjusted annually by the Washington, D.C., Standard Metropolitan Statistical Area Consumer Price Index for Urban Wage Earners and Clerical Workers, that qualifies for the homestead deduction provided pursuant to <code-cite doc="D.C. Code" path="§47-850">D.C. Official Code § 47-850</code-cite> or <code-cite doc="D.C. Code" path="§47-850.01">§ 47-850.01</code-cite></replace>
             </codify:find-replace>
@@ -10091,9 +10086,6 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <codify:annotation doc="D.C. Code" path="§47-2002.03a" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§47-2002.03a">
-          For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-104" path="§7242|(b)">§ 7242(b) of the Fiscal Year 2018 Budget Support Emergency Act of 2017, effective July 20, 2017 (D.C. Act 22-104; 64 DCR 7032)</cite>.
-        </codify:annotation>
       </section>
     </container>
     <container>
@@ -10267,9 +10259,6 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <codify:annotation doc="D.C. Code" path="§47-1099.01" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§47-1099.01">
-          For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-104" path="§7292|(b)">§ 7292(b) of the Fiscal Year 2018 Budget Support Emergency Act of 2017, effective July 20, 2017 (D.C. Act 22-104; 64 DCR 7032)</cite>.
-        </codify:annotation>
         <codify:annotation doc="D.C. Code" path="§47-1099.01" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§47-1099.01">
           Section 7292(b) of D.C. Law 22-33 added § 47-1009 which had previously been added by D.C. Law 12-160, therefore section 7292(b) of D.C. Law 22-33 has been codified here as § 47-1009.01.
         </codify:annotation>
