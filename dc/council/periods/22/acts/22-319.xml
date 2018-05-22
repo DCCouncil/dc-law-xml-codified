@@ -5,7 +5,7 @@
   <heading type="short">University of the District of Columbia Leased Property Tax Abatement Amendment Act of 2018</heading>
   <heading type="long">To amend Chapter 10 of Title 47 of the District of Columbia Official Code to exempt from taxation certain property leased by the University of the District of Columbia.</heading>
   <meta>
-    <effective>2018-05-03</effective>
+    <effective projected="true">2018-06-22</effective>
     <citations>
       <citation type="act" url="http://lims.dccouncil.us/Download/38924/B22-0513-SignedAct.pdf">D.C. Act 22-319</citation>
       <citation type="register">65 DCR 5028</citation>
@@ -40,7 +40,7 @@
       <text>A new section 47-1099.02 is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert doc="D.C. Code" path="47|10" after="§47-1099.02" num-value="[47-1099.03]" codified:doc="D.C. Code" codified:path="§[47-1099.03]"/>
+          <codify:insert doc="D.C. Code" path="47|10" after="§47-1099.02" num-value="[47-1099.03]" codified:doc="D.C. Code" codified:path="§[47-1099.03]" codified:citation="§ [47-1099.03]" codified:instruction="New"/>
           <prefix>§</prefix>
           <num>47-1099.02</num>
           <heading>University of the District of Columbia, Lot 114, Square 676.</heading>
