@@ -31,7 +31,7 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph (1) is redesignated as paragraph (1A).</text>
-        <codify:find-replace path="num" count="1" codified:doc="D.C. Code" codified:path="§38-821.01|(1)">
+        <codify:find-replace path="num" count="1" codified:doc="D.C. Code" codified:path="§38-821.01|[(1B)]">
           <find>(1)</find>
           <replace>(1A)</replace>
         </codify:find-replace>
@@ -41,7 +41,7 @@
         <text>New paragraphs (1) and (8A) are added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§38-821.01"/>
+            <codify:insert before="(1A)" codified:doc="D.C. Code" codified:path="§38-821.01|(1)"/>
             <num>(1)</num>
             <para>
               <num>(A)</num>
@@ -53,7 +53,7 @@
             </para>
           </para>
           <para>
-            <codify:insert after="(8)" codified:doc="D.C. Code" codified:path="§38-821.01"/>
+            <codify:insert after="(8)" codified:doc="D.C. Code" codified:path="§38-821.01|(8A)"/>
             <num>(8A)</num>
             <text>"Remediation steps" means, at a minimum, actions to:</text>
             <para>
@@ -743,8 +743,8 @@
     <para>
       <num>(a)</num>
       <text>Sections 2, 3, 4, 7, 8, and 9 shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 22-21" path="§2|(a)" date="pending" history="false" codified:doc="D.C. Code" codified:path="§38-821.01|(1)"/>
-      <codify:applicability doc="D.C. Law 22-21" path="§2|(b)" date="pending" history="false" codified:doc="D.C. Code" codified:path="§38-825.01|(a)|(1)|(E)"/>
+      <codify:applicability doc="D.C. Law 22-21" path="§2|(a)|(2)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§38-821.01|(1)"/>
+      <codify:applicability doc="D.C. Law 22-21" path="§2|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§38-825.01|(a)|(1)|(E)"/>
       <codify:applicability doc="D.C. Law 22-21" path="§2|(c)" date="notfunded" history="false" action="creation of" codified:doc="D.C. Code" codified:path="§38-825.01a"/>
       <codify:applicability doc="D.C. Law 22-21" path="§3|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§38-1802.04|(c)|(4)|(B)"/>
       <codify:applicability doc="D.C. Law 22-21" path="§3|(a)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§38-1802.04|(c)|(4)|(B)"/>
