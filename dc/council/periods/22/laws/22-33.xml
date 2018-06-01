@@ -1823,10 +1823,8 @@
           <para>
             <num>(2)</num>
             <text>Sub-subparagraph (iv) is amended by striking the phrase "at no less than" and inserting the phrase "at an hourly rate equal to" in its place.</text>
-            <codify:find-replace doc="D.C. Law 21-112" path="§2" count="1" codified:doc="D.C. Code" codified:path="§32-241|(a)|(1)|(A)">
-              <find>at no less than</find>
-              <replace>at an hourly rate equal to</replace>
-            </codify:find-replace>
+            <codify:annotation doc="D.C. Code" path="§32-241" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§32-241"><cite doc="D.C. Law 22-33" path="§2062|(a)|(2)">Section 2062(a)(2) of D.C. Law 22-33</cite> amended subsection (a)(1)(iv) of this subsection which is an unfunded provision and does not appear in this codification. 
+            </codify:annotation>
           </para>
         </para>
         <para codify:path="(A-i)">
@@ -8682,10 +8680,6 @@
               <codify:annotation doc="D.C. Code" path="§47-4666" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§47-4666">
                 For temporary (90 days) Business Improvement Districts tax exemption, see <cite doc="D.C. Act 22-182" path="§2|(b)">§ 2 of the Business Improvement Districts Tax Exemption Emergency Amendment Act of 2017 (D.C. Act 22-182, Nov. 22, 2017, 64 DCR 12296</cite>).
               </codify:annotation>
-              <codify:find-replace doc="D.C. Code" path="§47-4666" count="1" history="false" codified:doc="D.C. Code" codified:path="§47-4666">
-                <find>Subchapter</find>
-                <replace>[subchapter]</replace>
-              </codify:find-replace>
             </section>
           </include>
           <aftertext>.</aftertext>
@@ -9252,7 +9246,7 @@
             <para>
               <codify:replace doc="D.C. Code" path="§47-1806.03|(a)|(10)" codified:doc="D.C. Code" codified:path="§47-1806.03|(a)|(10)"/>
               <num>(10)</num>
-              <text>In the case of taxable years beginning after December 31, 2015, there is imposed on the taxable income of every resident a tax determined in accordance with the following table:</text>
+              <text>In the case of taxable years beginning after December 31, 2015, there is imposed on the taxable income of every resident a tax determined in accordance with the following table:".</text>
               <text>
                 <table>
                   <tr>
