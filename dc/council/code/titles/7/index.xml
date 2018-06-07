@@ -629,7 +629,7 @@
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7059" type="History" display="false"/>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7059" type="History"/>
   </container>
-  <subheading>Subtitle B-I. Blind and Physically Disabled Persons.</subheading>
+  <subheading>Subtitle B-i. Blind and Physically Disabled Persons.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>9</num>
@@ -652,6 +652,12 @@
     <xi:include href="./sections/7-1007.xml"/>
     <xi:include href="./sections/7-1008.xml"/>
     <xi:include href="./sections/7-1009.xml"/>
+  </container>
+  <subheading>Subtitle B-ii. Hearing Aid Assistance.</subheading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>10M</num>
+    <heading>Hearing Aid Assistance Program.</heading>
   </container>
   <subheading>Subtitle C. Mental and Behavioral Health.</subheading>
   <container>
