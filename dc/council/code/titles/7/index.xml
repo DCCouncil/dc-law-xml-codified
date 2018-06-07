@@ -211,6 +211,18 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>II-A</num>
+      <heading>Senior Dental Services Program.</heading>
+      <annotation app="2018-06-05" doc="D.C. Law 22-108" eff="2018-06-05" path="§6|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 22-108" eff="2018-06-05" path="" type="History" display="false"/>
+      <xi:include href="./sections/7-533.01.xml"/>
+      <xi:include href="./sections/7-533.02.xml"/>
+      <xi:include href="./sections/7-533.03.xml"/>
+      <xi:include href="./sections/7-533.04.xml"/>
+      <xi:include href="./sections/7-533.05.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Safe at Home Program.</heading>
       <annotation app="2016-11-26" doc="D.C. Law 21-168" eff="2016-11-26" path="III" type="History" display="false"/>
@@ -314,6 +326,22 @@
     <annotation doc="D.C. Law 22-33" path="§7018|(a)" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7018">Section 7018 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-182" path="§18">§ 18 of D.C. Law 21-182</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-182">D.C. Law 21-182</cite> has been given effect.
             </annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7018|(a)" type="History" display="false"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6C</num>
+    <heading>Maternal Mortality Review Committee.</heading>
+    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="§10|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-111" eff="2018-06-05" path="" type="History" display="false"/>
+    <xi:include href="./sections/7-672.01.xml"/>
+    <xi:include href="./sections/7-672.02.xml"/>
+    <xi:include href="./sections/7-672.03.xml"/>
+    <xi:include href="./sections/7-672.04.xml"/>
+    <xi:include href="./sections/7-672.05.xml"/>
+    <xi:include href="./sections/7-672.06.xml"/>
+    <xi:include href="./sections/7-672.07.xml"/>
+    <xi:include href="./sections/7-672.08.xml"/>
+    <xi:include href="./sections/7-672.09.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
