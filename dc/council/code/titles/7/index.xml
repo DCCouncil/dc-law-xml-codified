@@ -211,18 +211,6 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>II-A</num>
-      <heading>Senior Dental Services Program.</heading>
-      <annotation app="2018-06-05" doc="D.C. Law 22-108" eff="2018-06-05" path="§6|(a)" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 22-108" eff="2018-06-05" path="" type="History" display="false"/>
-      <xi:include href="./sections/7-533.01.xml"/>
-      <xi:include href="./sections/7-533.02.xml"/>
-      <xi:include href="./sections/7-533.03.xml"/>
-      <xi:include href="./sections/7-533.04.xml"/>
-      <xi:include href="./sections/7-533.05.xml"/>
-    </container>
-    <container>
-      <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Safe at Home Program.</heading>
       <annotation app="2016-11-26" doc="D.C. Law 21-168" eff="2016-11-26" path="III" type="History" display="false"/>
@@ -292,8 +280,6 @@
     </annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7011" codified:instruction="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) repeal of § 4 of D.C. Law 21-72, see <cite doc="D.C. Act 22-104" path="§7011">§ 7011 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
     <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7011" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7011" codified:instruction="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of § 4 of D.C. Law 21-72, see <cite doc="D.C. Act 22-167" path="§7011">§ 7011 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7011" type="History" display="false"/>
     <annotation doc="D.C. Law 22-33" path="§7011" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7011">Section 7011 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-72" path="§4">§ 4 of D.C. Law 21-72</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-72">D.C. Law 21-72</cite> has been given effect.</annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7011" type="History" display="false"/>
   </container>
@@ -321,27 +307,9 @@
     <xi:include href="./sections/7-661.17.xml"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7018" codified:instruction="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) repeal of § 18 of D.C. Law 21-182, see <cite doc="D.C. Act 22-104" path="§7018">§ 7018 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
     <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7018" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7018" codified:instruction="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of § 18 of D.C. Law 21-182, see <cite doc="D.C. Act 22-167" path="§7018">§ 7018 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7018" type="History" display="false"/>
     <annotation doc="D.C. Law 22-33" path="§7018|(a)" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7018">Section 7018 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-182" path="§18">§ 18 of D.C. Law 21-182</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-182">D.C. Law 21-182</cite> has been given effect.
             </annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7018|(a)" type="History" display="false"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>6C</num>
-    <heading>Maternal Mortality Review Committee.</heading>
-    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="§10|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-111" eff="2018-06-05" path="" type="History" display="false"/>
-    <xi:include href="./sections/7-671.01.xml"/>
-    <xi:include href="./sections/7-671.02.xml"/>
-    <xi:include href="./sections/7-671.03.xml"/>
-    <xi:include href="./sections/7-671.04.xml"/>
-    <xi:include href="./sections/7-671.05.xml"/>
-    <xi:include href="./sections/7-671.06.xml"/>
-    <xi:include href="./sections/7-671.07.xml"/>
-    <xi:include href="./sections/7-671.08.xml"/>
-    <xi:include href="./sections/7-671.09.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -653,11 +621,9 @@
     <xi:include href="./sections/7-881.11.xml"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7059" codified:instruction="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-104" path="§7059">§ 7059 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
     <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7059" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7059" codified:instruction="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of this section, see <cite doc="D.C. Act 22-167" path="§7059">§ 7059 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
-    <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7059" type="History" display="false"/>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7059" type="History"/>
   </container>
-  <subheading>Subtitle B-i. Blind and Physically Disabled Persons.</subheading>
+  <subheading>Subtitle B-I. Blind and Physically Disabled Persons.</subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>9</num>
@@ -680,12 +646,6 @@
     <xi:include href="./sections/7-1007.xml"/>
     <xi:include href="./sections/7-1008.xml"/>
     <xi:include href="./sections/7-1009.xml"/>
-  </container>
-  <subheading>Subtitle B-ii. Hearing Aid Assistance.</subheading>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>10M</num>
-    <heading>Hearing Aid Assistance Program.</heading>
   </container>
   <subheading>Subtitle C. Mental and Behavioral Health.</subheading>
   <container>
@@ -1325,9 +1285,6 @@
           For temporary (90 days) repeal of § 7 of D.C. Law 22-11, see <cite doc="D.C. Act 22-104" path="§7038">§ 7038 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, Jul. 20, 2017, 64 DCR 7032)</cite>.
         </annotation>
       <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7038" type="History" display="false"/>
-      <annotation doc="D.C. Law 22-33" path="§7038" type="Emergency Legislation" history="false" app="2017-12-13" eff="2017-12-13">
-          For temporary (90 days) repeal of § 7 of D.C. Law 22-11, see <cite doc="D.C. Act 22-167" path="§7038">§ 7038 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017, effective October 24, 2017 (D.C. Act 22-167; 64 DCR 10802)</cite>.
-        </annotation>
     </container>
     <container>
       <prefix>Subchapter</prefix>
