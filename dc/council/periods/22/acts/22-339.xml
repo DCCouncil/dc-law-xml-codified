@@ -110,17 +110,17 @@
     <para codify:path="§42-3404.08">
       <num>(c)</num>
       <text>Section 408 (D.C. Official Code § 42-3404.08) is amended by striking the phrase "409(2)" and inserting the phrase "409(c)(4)" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3404.08" codified:citation="§ 42-3404.08" codified:instruction="Amend">
-        <find>
-          <cite path="§42-3404.09|(2)">42-3404.09(2)</cite>
-        </find>
-        <replace>
-          <code-cite doc="D.C. Code" path="§42-3404.09|(c)|(4)">409(c)(4)</code-cite>
-        </replace>
-      </codify:find-replace>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3404.08" codified:citation="§ 42-3404.08" codified:instruction="Amend">
+      <codify:find-replace doc="D.C. Code" path="§42-3404.08" position="first" count="1" codified:doc="D.C. Code" codified:path="§42-3404.08" codified:citation="§ 42-3404.08" codified:instruction="Amend">
         <find>
           <cite path="§42-3404.09|(2)">§ 42-3404.09(2)</cite>
+        </find>
+        <replace>
+          <code-cite doc="D.C. Code" path="§42-3404.09|(c)|(4)" codify:value="§ 42-3404.09(c)(4)">409(c)(4)</code-cite>
+        </replace>
+      </codify:find-replace>
+      <codify:find-replace doc="D.C. Code" path="§42-3404.08" count="1" codified:doc="D.C. Code" codified:path="§42-3404.08" codified:citation="§ 42-3404.08" codified:instruction="Amend">
+        <find>
+          <cite path="§42-3404.09|(2)">42-3404.09(2)</cite>
         </find>
         <replace>
           <code-cite doc="D.C. Code" path="§42-3404.09|(c)|(4)" codify:value="42-3404.09(c)(4)">409(c)(4)</code-cite>
