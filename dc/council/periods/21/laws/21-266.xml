@@ -527,9 +527,6 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:annotation doc="D.C. Code" path="§32-1312" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§32-1312">
-        For temporary (90 days) creation of this section, see <cite doc="D.C. Act 21-480" path="§2|(d)">§ 2 of the Wage Theft Prevention Correction and Clarification Emergency Amendment Act of 2016 (D.C. Act 21-480, July 21, 2016, 63 DCR 10193)</cite>.        
-      </codify:annotation>
     </para>
     <para codify:path="§32-1331.12|(a)">
       <num>(j)</num>
@@ -704,9 +701,9 @@
           <text>The notice shall be provided in English and, if the Mayor has made available a translation of the sample template in a language that is known by the temporary staffing firm to be the employee's primary language or that the employee requests, the temporary staffing firm shall furnish written notice to the employee in that other language also.</text>
         </include>
         <aftertext>.</aftertext>
-        <codify:find-replace count="1" position="last" codified:doc="D.C. Code" codified:path="§32-1008.01|(a)|(1)">
-          <find>.</find>
-          <replace>. The notice shall be provided in English and, if the Mayor has made available a translation of the sample template in a language that is known by the temporary staffing firm to be the employee's primary language or that the employee requests, the temporary staffing firm shall furnish written notice to the employee in that other language also.</replace>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1008.01|(a)|(1)">
+          <find>).</find>
+          <replace>). The notice shall be provided in English and, if the Mayor has made available a translation of the sample template in a language that is known by the temporary staffing firm to be the employee's primary language or that the employee requests, the temporary staffing firm shall furnish written notice to the employee in that other language also.</replace>
         </codify:find-replace>
       </para>
       <para codify:path="(b)|text">
