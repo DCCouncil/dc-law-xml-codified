@@ -32,7 +32,7 @@
         <text>A new paragraph (1A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§42-3531.04|(a)|(1A)"/>
+            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§42-3531.04|(1A)"/>
             <num>(1A)</num>
             <text>"Closure order" means any order by a District agency requiring relocation of tenants.</text>
           </para>
@@ -44,7 +44,7 @@
         <text>A new paragraph (2A) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§42-3531.04|(a)|(2A)"/>
+            <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§42-3531.04|(2A)"/>
             <num>(2A)</num>
             <text>"Owner" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§47-802|(5)">D.C. Official Code § 47-802(5)</code-cite>.</text>
           </para>

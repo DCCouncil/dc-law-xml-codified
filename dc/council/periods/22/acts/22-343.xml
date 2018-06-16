@@ -240,7 +240,7 @@
         <para codify:path="(16)">
           <num>(1)</num>
           <text>Paragraph (16) is amended by striking the phrase "an individual who has never owned eligible property" and inserting the phrase "an individual purchaser who has never owned improved residential real property or an economic interest in a cooperative unit that qualified for the homestead deduction provided pursuant to D.C. Official Code § 47-850 or § 47-850.01" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1101|(a)|(16)" codified:citation="§ 42-1101" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1101|(16)" codified:citation="§ 42-1101" codified:instruction="Amend">
             <find>an individual purchaser who has never owned eligible property</find>
             <replace>an individual purchaser who has never owned improved residential real property or an economic interest in a cooperative unit that qualified for the homestead deduction provided pursuant to <code-cite doc="D.C. Code" path="§47-850">D.C. Official Code § 47-850</code-cite> or <cite doc="D.C. Code" path="§47-850.01">§ 47-850.01</cite></replace>
           </codify:find-replace>
@@ -250,7 +250,7 @@
           <text>Paragraph (17) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§42-1101|(a)|(17)" codified:citation="§ 42-1101" codified:instruction="Amend"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§42-1101|(17)" codified:citation="§ 42-1101" codified:instruction="Amend"/>
               <num>(17)</num>
               <text>The phrase "eligible property" means improved residential real property, including an economic interest in a cooperative unit, purchased at an amount not to exceed the purchase ceiling of $625,000 (adjusted annually beginning with real property tax year 2019 by the addition to the prior purchase ceiling of an amount equal to the percentage increase in the Washington, D.C., Standard Metropolitan Statistical Area Consumer Price Index for All Urban Consumers for the preceding calendar year in which the real property tax year begins, rounded to the next lowest multiple of $500), that qualifies for the homestead deduction provided pursuant to <code-cite doc="D.C. Code" path="§47-850">D.C. Official Code § 47-850</code-cite> or <cite doc="D.C. Code" path="§47-850.01">§ 47-850.01</cite>; and the phrase also includes within the purchase ceiling all other real property conveyed on the same deed.</text>
             </para>
