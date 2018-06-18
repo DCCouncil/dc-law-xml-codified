@@ -109,7 +109,7 @@
           <text>A new paragraph (1A) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert doc="D.C. Code" path="§10-1603.02|(a)" after="(1)" history="false" codified:doc="D.C. Code" codified:path="§10-1603.02|(a)|(1A)"/>
+              <codify:insert doc="D.C. Code" path="§10-1603.02|(a)" after="(1)" history="false" codified:doc="D.C. Code" codified:path="§10-1603.02|(1A)"/>
               <num>(1A)</num>
               <text>The acquisition of land for, construction of, and operation of a new stadium for D.C. United in itself serves a public purpose, in particular because the stadium will promote the recreation, entertainment, and enjoyment of the public.</text>
             </para>
@@ -119,7 +119,7 @@
         <para>
           <num>(2)</num>
           <text>Paragraph (2) is amended by striking the phrase "Without the development" and inserting the phrase "In addition, without the development" in its place.</text>
-          <codify:find-replace doc="D.C. Code" path="§10-1603.02|(a)|(2)" count="1" history="false" codified:doc="D.C. Code" codified:path="§10-1603.02|(a)|(2)">
+          <codify:find-replace doc="D.C. Code" path="§10-1603.02|(a)|(2)" count="1" history="false" codified:doc="D.C. Code" codified:path="§10-1603.02|(2)">
             <find>Without the development</find>
             <replace>In addition, without the development</replace>
           </codify:find-replace>

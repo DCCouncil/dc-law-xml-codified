@@ -56,7 +56,7 @@
       <para codify:path="(7A)">
         <num>(4)</num>
         <text>Paragraph (7A) is amended by striking the phrase "means services" and inserting the phrase "means services and supports" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-701.01|(a)|(7A)" codified:citation="§ 7-701.01" codified:instruction="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-701.01|(7A)" codified:citation="§ 7-701.01" codified:instruction="Amend">
           <find>means services</find>
           <replace>means services and supports</replace>
         </codify:find-replace>
@@ -66,7 +66,7 @@
         <text>A new paragraph (7B) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(7A)" codified:doc="D.C. Code" codified:path="§7-701.01|(a)|(7B)" codified:citation="§ 7-701.01" codified:instruction="Amend"/>
+            <codify:insert after="(7A)" codified:doc="D.C. Code" codified:path="§7-701.01|(7B)" codified:citation="§ 7-701.01" codified:instruction="Amend"/>
             <num>(7B)</num>
             <text>"Office" means the Office of the Long-Term Care Ombudsman established by <code-cite doc="D.C. Code" path="§7-702.02">section 202</code-cite>, including the ombudsman and any employees or volunteers designated by the ombudsman to fulfill the duties set forth in 45 C.F.R. § 1324.19(a).</text>
           </para>
@@ -78,7 +78,7 @@
         <text>Subsection (h) is redesignated as paragraph (9) and is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§7-701.01|(a)|(9)" codified:citation="§ 7-701.01" codified:instruction="Amend"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§7-701.01|(9)" codified:citation="§ 7-701.01" codified:instruction="Amend"/>
             <num>(9)</num>
             <text>"Ombudsman" means the individual responsible for administering the Long-Term Care Ombudsman Program established by <code-cite doc="D.C. Code" path="§7-702.01">section 201</code-cite>.</text>
           </para>
@@ -88,7 +88,7 @@
       <para codify:path="(8)">
         <num>(7)</num>
         <text>Subsection (i) is redesignated as paragraph (8).</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-701.01|(a)|(8)" codified:citation="§ 7-701.01" codified:instruction="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-701.01|(8)" codified:citation="§ 7-701.01" codified:instruction="Amend">
           <find>“Ombudsman” means the District of Columbia Long-Term Care Ombudsman established by <cite path="§7-702.02|(a)">§ 7-702.02(a)</cite> and designated under § 307(a)(12) of the Older Americans Act of 1965; (42 U.S.C. § 3027(a)(12)), to perform the mandated functions of the Long-Term Care Ombudsman Program.</find>
           <replace> “Office on Aging” means the District of Columbia Office on Aging established by<cite doc="D.C. Code" path="§7-503.01"> § 7-503.01</cite>.</replace>
         </codify:find-replace>
