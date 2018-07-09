@@ -167,7 +167,18 @@
   </para>
   <para>
     <num>(d)</num>
-    <text>The provisions of this subchapter shall not apply to the Vital Records Act of 1981.</text>
+    <para>
+      <num>(1)</num>
+      <text>Not funded.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Not funded.</text>
+      <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§2-534|(d)">
+        <find>Not funded.</find>
+        <replace>Not funded.</replace>
+      </codify:find-replace>
+    </para>
   </para>
   <para>
     <num>(e)</num>
@@ -194,7 +205,7 @@
     <annotation doc="D.C. Law 20-160" type="History">Feb. 26, 2015, D.C. Law 20-160, § 2(a), 61 DCR 10735</annotation>
     <annotation doc="D.C. Law 21-36" type="History">Oct. 22, 2015, D.C. Law 21-36, § 4063, 62 DCR 10905</annotation>
     <annotation doc="D.C. Law 21-83" type="History">Mar. 9, 2016, D.C. Law 21-83, § 2(b), 63 DCR 774</annotation>
-    <annotation type="Editor's Notes">Section 3 of <cite doc="D.C. Law 15-256">D.C. Law 15-256</cite> provided: “Sec. 3. Applicability. This act shall apply with respect to any requests for records pending on the effective date of this act, whether or not the request was made prior to that date, and shall apply to any civil action pending on that date.”</annotation>
+    <annotation type="Applicability">Section 3 of <cite doc="D.C. Law 15-256">D.C. Law 15-256</cite> provided: “Sec. 3. Applicability. This act shall apply with respect to any requests for records pending on the effective date of this act, whether or not the request was made prior to that date, and shall apply to any civil action pending on that date.”</annotation>
     <annotation type="References in Text">The “Vital Records Act of 1981”, referred to in subsection (d), is <cite doc="D.C. Law 4-34">D.C. Law 4-34</cite>.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 2(b) of the Body-Worn Camera Program Emergency Amendment Act of 2015 (D.C. Act 21-253, Dec. 30, 2015,  63 DCR 271).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 days) amendment of this section, see § 4063 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
@@ -242,5 +253,9 @@
     <annotation type="Section References">This section is referenced in <cite path="§1-301.89a">§ 1-301.89a</cite>, <cite path="§1-309.13">§ 1-309.13</cite>, <cite path="§1-610.64">§ 1-610.64</cite>, <cite path="§2-532">§ 2-532</cite>, <cite path="§2-533">§ 2-533</cite>, <cite path="§2-537">§ 2-537</cite>, <cite path="§8-105.09">§ 8-105.09</cite>, <cite path="§8-634.03">§ 8-634.03</cite>, and <cite path="§8-1321">§ 8-1321</cite>.</annotation>
     <annotation type="Cross References">Hazardous waste management, confidential or privileged information, exemption from disclosure, grounds for exemption, see <cite path="§8-1321">§ 8-1321</cite>.</annotation>
     <annotation type="Cross References">Environmental controls, wastewater control, confidential or privileged information, exemption from disclosure, grounds for exemption, see <cite path="§8-105.09">§ 8-105.09</cite>.</annotation>
+    <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="§201|(b)" type="History"/>
+    <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="§201|(a)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-118" path="§201" app="2018-07-03" eff="2018-07-03">Applicability of <cite doc="D.C. Law 22-118" path="">D.C. Law 22-118</cite>: <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> provided that the change made to this section by <cite doc="D.C. Law 22-118" path="§201">§ 201 of D.C. Law 22-118</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="§201" type="History"/>
   </annotations>
 </section>

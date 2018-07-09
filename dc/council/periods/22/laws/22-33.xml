@@ -948,7 +948,7 @@
           <text>A new paragraph (2) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§1-626.09|(b)|(2)"/>
+              <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§1-626.09|(b)"/>
               <num>(2)</num>
               <text>On behalf of each employee of the Council, the Office of the District of Columbia Auditor, and the Office of Advisory Neighborhood Commissions participating in the deferred compensation plan established by <code-cite doc="D.C. Code" path="§1-626.05|(2)">section 2605(2)</code-cite>, the District shall contribute each pay period an amount equal to that employee's contribution pursuant to paragraph (1) of this subsection for that pay period; provided, that the District's contribution pursuant to this paragraph on behalf of an employee in any pay period shall not exceed 3% of the employee's base salary during that pay period.</text>
             </para>
@@ -1218,7 +1218,7 @@
           <para codify:path="text">
             <num>(1)</num>
             <text>The lead-in language is amended by striking the phrase "permit fee," and inserting the phrase "liability insurance requirement or permit, custodial, and security fee," in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-1141.03a|(a)">
+            <codify:find-replace count="1">
               <find>permit fee,</find>
               <replace>liability insurance requirement or permit, custodial, and security fee,</replace>
             </codify:find-replace>
@@ -1226,7 +1226,7 @@
           <para codify:path="(1)">
             <num>(2)</num>
             <text>Paragraph (1) is amended by striking the phrase "civic association" and inserting the phrase "civic association, Advisory Neighborhood Commission," in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-1141.03a|(a)|(1)">
+            <codify:find-replace count="1">
               <find>civic association</find>
               <replace>civic association, Advisory Neighborhood Commission,</replace>
             </codify:find-replace>
@@ -1234,7 +1234,7 @@
           <para codify:path="(3)">
             <num>(3)</num>
             <text>Paragraph (3) is amended by striking the phrase "government;" and inserting the phrase "government, except for the costs of custodial and security services;" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-1141.03a|(a)|(3)">
+            <codify:find-replace count="1">
               <find>government;</find>
               <replace>government, except for the costs of custodial and security services;</replace>
             </codify:find-replace>
@@ -1246,12 +1246,12 @@
           <para>
             <num>(1)</num>
             <text>Designate the existing text as subparagraph (A).</text>
-            <codify:redesignate-para num-value="(A)" codified:doc="D.C. Code" codified:path="§10-1141.03a|(b)|(3)"/>
+            <codify:redesignate-para num-value="(A)"/>
           </para>
           <para codify:path="(A)">
             <num>(2)</num>
             <text>The newly designated subparagraph (A) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-1141.03a|(b)|(3)|(A)">
+            <codify:find-replace count="1">
               <find>).</find>
               <replace>); or</replace>
             </codify:find-replace>
@@ -1261,7 +1261,7 @@
             <text>A new subparagraph (B) is added to read as follows:</text>
             <include lvl="2">
               <para>
-                <codify:insert after="(A)" codified:doc="D.C. Code" codified:path="§10-1141.03a|(b)|(3)|(B)"/>
+                <codify:insert after="(A)"/>
                 <num>(B)</num>
                 <text>A member of the D.C. Federation of Civic Associations or the Federation of Citizens Associations of the District of Columbia.</text>
               </para>
@@ -1274,7 +1274,7 @@
           <text>A new subsection (c) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§10-1141.03a|(c)"/>
+              <codify:insert after="(b)"/>
               <num>(c)</num>
               <text>Beginning November 30, 2019, the Mayor shall report annually to the Council regarding the waiver of fees pursuant to <span codify:value="Subtitle P of Title I of D.C. Law 22-33">the Public Use of Public Buildings Amendment Act of 2017, passed on 2nd reading on June 27, 2017 (Enrolled version of Bill 22-244)</span>, and shall include the following information in the report:</text>
               <para>
@@ -6127,7 +6127,7 @@
                 </para>
                 <para>
                   <num>(3)</num>
-                  <text>"Telehealth" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§31-3861">section 2(4) of the Telehealth Reimbursement Act of 2013, effective October 17, 2013 (D.C. Law 20-26; D.C. Official Code § 31-3861(4))</code-cite>(4) <span codify:value="[18]"/>.</text>
+                  <text>"Telehealth" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§31-3861">section 2(4) of the Telehealth Reimbursement Act of 2013, effective October 17, 2013 (D.C. Law 20-26; D.C. Official Code § 31-3861(4))</code-cite>(4) <span codify:value="[(18)]"/>.</text>
                 </para>
               </para>
             </section>
@@ -9141,7 +9141,7 @@
               <para codify:path="(B)">
                 <num>(ii)</num>
                 <text>Subparagraph (B) is amended by striking the phrase "a household" and inserting the phrase "a household, including all owners," in its place.</text>
-                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1103|(e)|(2)|(B)">
+                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1103|(e)|(2)">
                   <find>a household</find>
                   <replace>a household, including all owners,</replace>
                 </codify:find-replace>
@@ -9149,7 +9149,7 @@
               <para codify:path="(D)">
                 <num>(iii)</num>
                 <text>Subparagraph (D) is amended by striking the phrase "a copy of the deed and".</text>
-                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1103|(e)|(2)|(D)">
+                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-1103|(e)|(2)">
                   <find>a copy of the deed and</find>
                   <replace/>
                 </codify:find-replace>

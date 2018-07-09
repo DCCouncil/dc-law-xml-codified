@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>2-361.04a</num>
+  <heading>Vendor portal.</heading>
+  <para>
+    <num>(a)</num>
+    <text>The Mayor shall establish and maintain on the Internet a publicly accessible website containing a portal which shall, at a minimum:</text>
+    <para>
+      <num>(1)</num>
+      <text>Show payments made by the District of Columbia government to contractors, searchable by purchase order number, invoice number, check number, voucher number, or any combination of the aforementioned necessary to identify a particular payment; and</text>
+    </para>
+    <para codify:applicability="notfunded">
+      <num>(2)</num>
+      <text>Not funded.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The website may require registration to view payments to contractors shown pursuant to subsection (a)(1) of this section, but such registration shall not require the viewer to supply any identifying information except for the viewer's name, email address, and password.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>This section shall apply to payments made by, and invoices submitted to, any agency that manages financial transactions through systems maintained by the Chief Financial Officer.</text>
+  </para>
+  <annotations>
+    <annotation doc="D.C. Law 18-371" type="History" path="§1104a">Apr. 8, 2011, D.C. Law 18-371, § 1104a</annotation>
+    <annotation app="2018-07-03" doc="D.C. Law 22-121" eff="2018-07-03" path="§3|(c)" type="History"/>
+    <annotation app="2018-07-03" doc="D.C. Law 22-121" eff="2018-07-03" path="§4|(a)" type="History" display="false"/>
+    <annotation app="2018-07-03" doc="D.C. Law 22-121" eff="2018-07-03" path="§3|(c)" prefix="as added" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-121" path="§3|(c)" app="2018-07-03" eff="2018-07-03">Applicability of <cite doc="D.C. Law 22-121" path="">D.C. Law 22-121</cite>: <cite doc="D.C. Law 22-121" path="§4">§ 4 of D.C. Law 22-121</cite> provided that the addition of subsection (a)(2) of this section by <cite doc="D.C. Law 22-121" path="§3|(c)">§ 3(c) of D.C. Law 22-121</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+  </annotations>
+</section>
