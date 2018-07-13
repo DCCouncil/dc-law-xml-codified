@@ -539,6 +539,10 @@
             <code-cite path="X">Title X</code-cite>
           </replace>
         </codify:find-replace>
+        <codify:find-replace path="§105|(c)|(19)" count="1" codified:doc="D.C. Code" codified:path="§2-351.05|(c)|(19)">
+          <find>of this chapter shall</find>
+          <replace>shall</replace>
+        </codify:find-replace>
       </section>
     </container>
     <container>
@@ -8983,18 +8987,18 @@
         <heading>Short title.</heading>
         <text>This subtitle may be cited as the "Civic Associations Public Space Permit Fee Waiver Amendment Act of 2016".</text>
       </section>
-      <section codify:doc="D.C. Law 11-198" codify:path="§603a">
+      <section codify:doc="D.C. Code" codify:path="§10-1141.03a">
         <num>6162</num>
         <text>Section 603a of the Fiscal Year 1997 Budget Support Act of 1996, effective December 2, 2011 (D.C. Law 19-48; D.C. Official Code § 10-1141.03a), is amended as follows:</text>
         <para>
           <num>(a)</num>
           <text>Designate the existing text as subsection (a).</text>
-          <codify:redesignate-para num-value="(a)" codified:doc="D.C. Code" codified:path="§10-1141.03a"/>
+          <codify:redesignate-para num-value="(a)" history="false" codified:doc="D.C. Code" codified:path="§10-1141.03a"/>
         </para>
         <para>
           <num>(b)</num>
           <text>The newly designated subsection (a)(1) is amended by striking the phrase "Is conducted by a" and inserting the phrase "Is conducted by a civic association or a" in its place.</text>
-          <codify:find-replace path="(a)|(1)" count="1" codified:doc="D.C. Code" codified:path="§10-1141.03a|(a)|(1)">
+          <codify:find-replace path="(a)|(1)" count="1" history="false" codified:doc="D.C. Code" codified:path="§10-1141.03a|(a)|(1)">
             <find>Is conducted by a</find>
             <replace>Is conducted by a civic association or a</replace>
           </codify:find-replace>
@@ -9004,7 +9008,7 @@
           <text>A new subsection (b) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§10-1141.03a|(b)"/>
+              <codify:insert after="(a)" history="false" codified:doc="D.C. Code" codified:path="§10-1141.03a|(b)"/>
               <num>(b)</num>
               <text>For the purposes of this section, the term "civic association" means an organization that is:</text>
               <para>
