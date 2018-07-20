@@ -16,6 +16,19 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>1A</num>
+    <heading>Personal Delivery Device Program.</heading>
+    <annotation app="2018-07-17" doc="D.C. Law 22-137" eff="2018-07-17" path="" type="History" display="false"/>
+    <xi:include href="./sections/50-110.01.xml"/>
+    <xi:include href="./sections/50-110.02.xml"/>
+    <xi:include href="./sections/50-110.03.xml"/>
+    <xi:include href="./sections/50-110.04.xml"/>
+    <xi:include href="./sections/50-110.05.xml"/>
+    <xi:include href="./sections/50-110.06.xml"/>
+    <xi:include href="./sections/50-110.07.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Public-Owned Vehicles.</heading>
     <container>
@@ -647,7 +660,7 @@
     <xi:include href="./sections/50-1541.27.xml"/>
     <xi:include href="./sections/50-1541.28.xml"/>
   </container>
-  <container>
+  <container codify:expire="2018-12-31">
     <prefix>Chapter</prefix>
     <num>15C</num>
     <heading>Personal Delivery Device Pilot Program.</heading>
@@ -657,6 +670,7 @@
     <xi:include href="./sections/50-1553.xml"/>
     <xi:include href="./sections/50-1554.xml"/>
     <xi:include href="./sections/50-1555.xml"/>
+    <annotation app="2018-07-17" doc="D.C. Law 22-137" eff="2018-07-17" path="§7|(c)" type="History"/>
   </container>
   <subheading>Subtitle V. Non-Motorized Vehicles.</subheading>
   <container>

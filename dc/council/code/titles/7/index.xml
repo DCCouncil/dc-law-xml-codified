@@ -148,6 +148,16 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>4A</num>
+    <heading>Semi-public Swimming Pools.</heading>
+    <annotation app="2018-07-17" doc="D.C. Law 22-147" eff="2018-07-17" path="" type="History" display="false"/>
+    <xi:include href="./sections/7-431.xml"/>
+    <xi:include href="./sections/7-432.xml"/>
+    <xi:include href="./sections/7-433.xml"/>
+    <xi:include href="./sections/7-434.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>5</num>
     <heading>Programs for Older Citizens.</heading>
     <container>
@@ -863,6 +873,15 @@
     <xi:include href="./sections/7-1231.14.xml"/>
     <xi:include href="./sections/7-1231.14a.xml"/>
     <xi:include href="./sections/7-1231.15.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>12B</num>
+    <heading>Maternal Mental Health Task Force.</heading>
+    <annotation app="notfunded" doc="D.C. Law 22-139" eff="2018-07-17" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-139" eff="2018-07-17" path="" type="History" display="false"/>
+    <xi:include href="./sections/7-1233.01.xml"/>
+    <xi:include href="./sections/7-1233.02.xml"/>
   </container>
   <subheading>Subtitle D. Citizens with Intellectual Disabilities.</subheading>
   <container>

@@ -36,6 +36,10 @@
     <text>"DPW" means the Department of Public Works.</text>
   </para>
   <para>
+    <num>(8A)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para>
     <num>(9)</num>
     <text>"Incineration" means a form of solid waste disposal through combustion or thermal conversion of solid waste materials into ash, flue gas, fuel, or heat; provided, that recycling, composting, anaerobic digestion of compostable solid waste, and conversion of compostable solid waste into biofuel are not considered incineration.</text>
   </para>
@@ -96,6 +100,10 @@
     <text>"Trash" means solid waste that is collected for disposal by incineration or landfill.</text>
   </para>
   <para>
+    <num>(20A)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para>
     <num>(21)</num>
     <text>"Waste diversion" means activities that result in solid waste source reduction, reuse, recycling, composting, or conversion of compostable solid waste into biofuel.</text>
   </para>
@@ -109,5 +117,10 @@
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6032|(a)|(1)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6032|(a)|(2)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6032|(a)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 22-146" eff="2018-07-17" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-146" eff="2018-07-17" path="§2|(a)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 22-146" eff="2018-07-17" path="§2|(a)|(2)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-146" path="§2|(a)" app="2018-07-17" eff="2018-07-17">Applicability of <cite doc="D.C. Law 22-146" path="">D.C. Law 22-146</cite>: <cite doc="D.C. Law 22-146" path="§4">§ 4 of D.C. Law 22-146</cite> provided that the change made to this section by <cite doc="D.C. Law 22-146" path="§2|(a)">§ 2(a) of D.C. Law 22-146</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-07-17" doc="D.C. Law 22-146" eff="2018-07-17" path="§2|(a)" type="History"/>
   </annotations>
 </section>

@@ -723,6 +723,8 @@
     <xi:include href="./sections/8-1031.10.xml"/>
     <xi:include href="./sections/8-1031.11.xml"/>
     <xi:include href="./sections/8-1031.12.xml"/>
+    <xi:include href="./sections/8-1031.12a.xml"/>
+    <xi:include href="./sections/8-1031.12b.xml"/>
     <xi:include href="./sections/8-1031.13.xml"/>
     <xi:include href="./sections/8-1031.14.xml"/>
   </container>
@@ -1003,6 +1005,13 @@
       <xi:include href="./sections/8-1774.15.xml"/>
       <xi:include href="./sections/8-1774.16.xml"/>
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>17N-i</num>
+    <heading>Solar energy Collection Devices for Cooperative Associations.</heading>
+    <annotation app="2018-07-17" doc="D.C. Law 22-142" eff="2018-07-17" path="" type="History" display="false"/>
+    <xi:include href="./sections/8-1774.51.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
