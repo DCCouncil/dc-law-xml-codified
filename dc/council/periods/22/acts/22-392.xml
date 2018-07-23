@@ -5,7 +5,7 @@
   <heading type="short">Public Housing Credit-Building Pilot Program Amendment Act of 2018</heading>
   <heading type="long">To amend the District of Columbia Housing Authority Act of 1999 to establish a pilot program enabling residents residing in District of Columbia Housing Authority properties to opt to have rent payments reported to consumer credit bureaus.</heading>
   <meta>
-    <effective>2018-06-27</effective>
+    <effective projected="true">2018-08-30</effective>
     <citations>
       <citation type="act" url="http://lims.dccouncil.us/Download/37591/B22-0168-SignedAct.pdf">D.C. Act 22-392</citation>
       <citation type="register">65 DCR 7146</citation>
@@ -24,7 +24,7 @@
     <text>The District of Columbia Housing Authority Act of 1999, effective May 9, 2000 (D.C. Law 13-105; D.C. Official Code § 6-201<em> et seq.</em>), is amended by adding a new section 15a to read as follows:</text>
     <include>
       <section>
-        <codify:insert doc="D.C. Code" path="6|2|I" after="§6-214" num-value="6-214.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§6-214.01"/>
+        <codify:insert doc="D.C. Code" path="6|2|I" after="§6-214" num-value="6-214.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§6-214.01" codified:citation="§ 6-214.01" codified:instruction="New"/>
         <num>15a</num>
         <heading>Public housing credit-building pilot program.</heading>
         <para>
@@ -102,7 +102,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§6-214.01"/>
+      <codify:applicability path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§6-214.01" codified:citation="§ 6-214.01" codified:instruction="Note"/>
     </para>
     <para>
       <num>(b)</num>
