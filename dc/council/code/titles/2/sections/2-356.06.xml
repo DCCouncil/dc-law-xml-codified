@@ -1,9 +1,59 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-356.06</num>
-  <reason>Not funded</reason>
   <heading>Use of project labor agreements for construction projects.</heading>
-  <text>[Not funded].</text>
+  <para>
+    <num>(a)</num>
+    <text>The Mayor shall require, as part of a solicitation for a construction contract pursuant to <cite path="2|3A|VI">this subchapter</cite>, that every contractor and subcontractor that will engage in the construction project agree to negotiate or become a party to a project labor agreement, for that project, with one or more labor organizations if:</text>
+    <para>
+      <num>(1)</num>
+      <text>Use of a project labor agreement will advance the District's interest in producing labor-management stability, and ensuring compliance with laws and regulations governing safety and health, equal employment opportunity, labor and employment standards, and other matters;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The project will require multiple construction contractors or subcontractors employing workers in multiple crafts or trades; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The total cost, not including ongoing operations and maintenance, of the contract to the District is anticipated to be $75 million or more.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A project labor agreement agreed to pursuant to subsection (a) of this section shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Bind all contractors and subcontractors engaged in construction on the construction project to comply with the project labor agreement;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Contain guarantees against strikes, lockouts, and similar job disruptions;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Set forth effective, prompt, and mutually binding procedures for resolving labor disputes arising during the term of the project labor agreement;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Provide other mechanisms for labor-management cooperation on matters of mutual interest and concern, including productivity, quality of work, safety, and health; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Include any additional requirements that the CPO considers necessary to promote the District's interest.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The Mayor may waive the requirements of this section by issuing a determination and findings, posted on the Internet for at least 10 calendar days before advertising the solicitation, that:</text>
+    <para>
+      <num>(1)</num>
+      <text>A project does not meet the criteria set forth in subsection (a) of this section; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A project labor agreement would be contrary to the interests of the District.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 18-371" type="History" path="§606">Apr. 8, 2011, D.C. Law 18-371, § 606</annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-158" eff="2016-10-08" path="§3|(m)" prefix="as added" type="History"/>
@@ -13,8 +63,9 @@
     <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7017" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7017" codified:instruction="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) amendment of § 5 of D.C. Law 21-158, see <cite doc="D.C. Act 22-167" path="§7017">§ 7017 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7017" type="History" display="false"/>
-    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7017" type="History" display="false"/>
     <annotation doc="D.C. Law 22-33" path="§7017" history="false" type="Applicability" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7017">Section 7017 of Law 22-33</cite> amended <cite doc="D.C. Law 21-158" path="§2">section 5 of D.C. Law 21-158,</cite> retaining the applicability restriction affecting this section, therefore the creation of this section by <cite doc="D.C. Law 21-158"> D.C. Law 21-158</cite> has not been implemented. 
             </annotation>
+    <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7017" type="History" display="false"/>
   </annotations>
+  <codify:annotation codify:applicability="effective" type="Applicability" path="§2-356.06">Applicability of <cite doc="D.C. Law 21-158" path="">D.C. Law 21-158</cite>: <cite doc="D.C. Law 21-158" path="§5">§ 5 of D.C. Law 21-158</cite> provided that the addition of section 606 of this section by <cite doc="D.C. Law 21-158" path="§3|(m)">§ 3(m) of D.C. Law 21-158</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
 </section>
