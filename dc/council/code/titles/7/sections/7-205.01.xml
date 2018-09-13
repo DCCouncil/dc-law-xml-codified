@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Repealed</reason>
   <num>7-205.01</num>
   <heading>Social Security numbers.</heading>
-  <text>Repealed.</text>
+  <para>
+    <num>(a)</num>
+    <text>A person required to prepare and file a certificate of birth shall provide on a form separate from the certificate of birth, the Social Security account number or numbers of each parent, if the parent has more than 1 Social Security account number. The Social Security account number shall not be recorded on the certificate of birth.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The social security account number shall be collected by the Registrar and made available only to the IV-D agency for the establishment, modification, and enforcement of support orders. A social security account number shall not be available for any other purpose.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 4-34" type="History" path="§6a">Oct. 8, 1981, D.C. Law 4-34, § 6a</annotation>
     <annotation doc="D.C. Law 8-150" type="History">as added July 25, 1990, D.C. Law 8-150, § 5, 37 DCR 3720</annotation>
@@ -23,6 +29,5 @@
     <annotation type="Effect of Amendments">“(b) The Social Security account number shall be collected by the Register of Vital Records and made available only to the Department of Human Services Office of Paternity and Child Support Enforcement, and the Child Support Section of the Civil Division of the Office of the Corporation Counsel for the enforcement of child support orders. A Social Security account number shall not be available for any other purpose.”</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 13-269">D.C. Law 13-269</cite> rewrote subsec. (b) which formerly read:</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 6-205.1.</annotation>
-    <annotation app="2018-09-05" doc="D.C. Act 22-438" eff="2018-09-05" path="§130" type="History"/>
   </annotations>
 </section>
