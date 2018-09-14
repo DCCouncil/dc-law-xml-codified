@@ -7736,7 +7736,7 @@
           <text>Subsection (b) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§7-221"/>
+              <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§7-221|(b)"/>
               <num>(b)</num>
               <para>
                 <num>(1)</num>
@@ -7759,7 +7759,7 @@
           <text>A new subsection (c) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§7-221"/>
+              <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§7-221|(c)"/>
               <num>(c)</num>
               <para>
                 <num>(1)</num>
