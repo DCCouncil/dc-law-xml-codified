@@ -668,7 +668,7 @@
         <text>A new paragraph (2) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§2-534|(d)"/>
+            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§2-534|(d)|(2)"/>
             <num>(2)</num>
             <text>An actual address, as that term is defined in <code-cite doc="D.C. Code" path="§4-555.01">section 101 of the Address Confidentiality Act of 2018, passed on 2nd reading on April 10, 2018 (Enrolled version of Bill 22-37)</code-cite>, shall not be disclosed under <code-cite doc="D.C. Code" path="2|5|I">this title</code-cite>.</text>
           </para>
