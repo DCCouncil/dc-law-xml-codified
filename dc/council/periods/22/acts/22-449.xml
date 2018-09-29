@@ -26,11 +26,11 @@
     <para codify:path="§50-2301.05|(a)|(2)|(A)">
       <num>(a)</num>
       <text>Section 105(a)(2)(A) (D.C. Official Code § 50-2301.05(a)(2)(A)) is amended by striking the phrase "sections 205(d)(1) and 305(d)(1)" and inserting the phrase "section 205(d) or section 305(d)(1)" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2301.05|(a)|(2)|(A)" codified:citation="§ 50-2301.05" codified:instruction="Amend">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2301.05|(a)|(2)|(A)" codified:citation="§ 50-2301.05" codified:display="Amend">
         <find>§§ <cite path="§50-2302.05|(d)|(1)" proof="true">50-2302.05(d)(1)</cite> and <cite path="§50-2303.05|(d)|(1)">50-2303.05(d)(1)</cite></find>
         <replace><cite path="§50-2302.05|(d)">§ 50-2302.05(d)</cite> or <cite path="§50-2303.05|(d)|(1)">§ 50-2303.05(d)(1)</cite></replace>
       </codify:find-replace>
-      <codify:not-funded-anno doc="D.C. Code" path="§50-2301.05" applicability-path="§3"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§50-2301.05" applicability-path="§3" codified:doc="D.C. Code" codified:path="§50-2301.05" codified:citation="§ 50-2301.05" codified:display="Note"/>
     </para>
     <para codify:path="§50-2302.04">
       <num>(b)</num>
@@ -38,14 +38,14 @@
       <para codify:path="(c)">
         <num>(1)</num>
         <text>Subsection (c) is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2302.04|(c)" codified:citation="§ 50-2302.04" codified:instruction="Amend"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2302.04|(c)" codified:citation="§ 50-2302.04" codified:display="Amend"/>
       </para>
       <para>
         <num>(2)</num>
         <text>A new subsection (c-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§50-2302.04|(c-1)" codified:citation="§ 50-2302.04" codified:instruction="Amend"/>
+            <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§50-2302.04|(c-1)" codified:citation="§ 50-2302.04" codified:display="Amend"/>
             <num>(c-1)</num>
             <para>
               <num>(1)</num>
@@ -75,7 +75,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§50-2302.04" applicability-path="§3"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§50-2302.04" applicability-path="§3" codified:doc="D.C. Code" codified:path="§50-2302.04" codified:citation="§ 50-2302.04" codified:display="Note"/>
     </para>
     <para codify:path="§50-2302.05">
       <num>(c)</num>
@@ -85,7 +85,7 @@
         <text>Subsection (d) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§50-2302.05|(d)" codified:citation="§ 50-2302.05" codified:instruction="Amend"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§50-2302.05|(d)" codified:citation="§ 50-2302.05" codified:display="Amend"/>
             <num>(d)</num>
             <para>
               <num>(1)</num>
@@ -105,7 +105,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "If a person" and insert the phrase "Except for notices of infraction that were detected by an automated traffic enforcement system pursuant to section 901 of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01), if a person" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(e)" codified:citation="§ 50-2302.05" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(e)" codified:citation="§ 50-2302.05" codified:display="Amend">
             <find>If a person</find>
             <replace>Except for notices of infraction that were detected by an automated traffic enforcement system pursuant to <code-cite doc="D.C. Code" path="§50-2209.01">section 901 of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01)</code-cite>, if a person</replace>
           </codify:find-replace>
@@ -113,7 +113,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "assessed, and, except where the notice of infraction was issued in reliance upon an automated traffic enforcement device, the person's District of Columbia's operator's permit, or the person's privilege to drive within the District in the case of a person holding an out-of-state permit, shall be suspended until payment of the penalties, fines, and a reinstatement fee" and insert the word "assessed" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(e)" codified:citation="§ 50-2302.05" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(e)" codified:citation="§ 50-2302.05" codified:display="Amend">
             <find>assessed, and, except where the notice of infraction was issued in reliance upon an automated traffic enforcement device, the person’s District of Columbia operator’s permit, or the person’s privilege to drive within the District in the case of a person holding an out-of-state permit, shall be suspended until payment of the penalties, fines, and a reinstatement fee.</find>
             <replace>assessed.</replace>
           </codify:find-replace>
@@ -124,7 +124,7 @@
         <text>A new subsection (e-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(e)" codified:doc="D.C. Code" codified:path="§50-2302.05|(e-1)" codified:citation="§ 50-2302.05" codified:instruction="Amend"/>
+            <codify:insert after="(e)" codified:doc="D.C. Code" codified:path="§50-2302.05|(e-1)" codified:citation="§ 50-2302.05" codified:display="Amend"/>
             <num>(e-1)</num>
             <text>For notices of infraction that were detected by an automated traffic enforcement system pursuant to <code-cite doc="D.C. Code" path="§50-2209.01">section 901 of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01)</code-cite>, if a person fails to answer the notice within 120 calendar days after the date the notice was issued, or within a greater period of time as prescribed by the Director by regulation, the commission of the infraction shall be deemed admitted and all points, penalties, and fines shall be assessed.</text>
           </para>
@@ -137,7 +137,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "and suspension of driving privileges." and insert a period in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(f)" codified:citation="§ 50-2302.05" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(f)" codified:citation="§ 50-2302.05" codified:display="Amend">
             <find> and suspension of driving privileges.</find>
             <replace>.</replace>
           </codify:find-replace>
@@ -145,7 +145,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "For holders" and insert the phrase "For a notice of infraction that was detected by an automated traffic enforcement system pursuant to section 901 of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01), in addition to the notice required by the preceding sentence, if the notice of infraction remains unanswered, not more than 100 days after the date the notice is issued, the Director shall send by regular mail addressed to the person's address on the Department of Motor Vehicle's records notice of the outstanding notice of infraction and the effective date of the deemed admission. For holders" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(f)" codified:citation="§ 50-2302.05" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(f)" codified:citation="§ 50-2302.05" codified:display="Amend">
             <find>For holders</find>
             <replace>For a notice of infraction that was detected by an automated traffic enforcement system pursuant to <code-cite doc="D.C. Code" path="§50-2209.01">section 901 of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01)</code-cite>, in addition to the notice required by the preceding sentence, if the notice of infraction remains unanswered, not more than 100 days after the date the notice is issued, the Director shall send by regular mail addressed to the person's address on the Department of Motor Vehicle's records notice of the outstanding notice of infraction and the effective date of the deemed admission. For holders</replace>
           </codify:find-replace>
@@ -154,7 +154,7 @@
       <para codify:path="(g)">
         <num>(5)</num>
         <text>Subsection (g) is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2302.05|(g)" codified:citation="§ 50-2302.05" codified:instruction="Amend"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§50-2302.05|(g)" codified:citation="§ 50-2302.05" codified:display="Amend"/>
       </para>
       <para codify:path="(j)">
         <num>(6)</num>
@@ -162,7 +162,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "penalties, points, or suspension of a person's license or privilege to drive in the District" and insert the phrase "penalties, or points" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(j)" codified:citation="§ 50-2302.05" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(j)" codified:citation="§ 50-2302.05" codified:display="Amend">
             <find>penalties, points, or suspension of a person's license or privilege to drive in the District</find>
             <replace>penalties, or points</replace>
           </codify:find-replace>
@@ -170,13 +170,13 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "and points assessed or the suspension of a person's license or privilege to drive may be vacated." and insert the phrase "and points assessed may be vacated." in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(j)" codified:citation="§ 50-2302.05" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.05|(j)" codified:citation="§ 50-2302.05" codified:display="Amend">
             <find>and points assessed or the suspension of a person's license or privilege to drive may be vacated.</find>
             <replace>and points assessed may be vacated.</replace>
           </codify:find-replace>
         </para>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§50-2302.05" applicability-path="§3"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§50-2302.05" applicability-path="§3" codified:doc="D.C. Code" codified:path="§50-2302.05" codified:citation="§ 50-2302.05" codified:display="Note"/>
     </para>
     <para codify:path="§50-2302.06">
       <num>(d)</num>
@@ -187,7 +187,7 @@
         <para>
           <num>(A)</num>
           <text>Strike the phrase "if any, and suspend the person's license or privilege to drive in the District until the fines and penalties are paid, if" and insert the phrase "if any, if" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.06|(b)|(1)" codified:citation="§ 50-2302.06" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.06|(b)|(1)" codified:citation="§ 50-2302.06" codified:display="Amend">
             <find>if any, and suspend the person's license or privilege to drive in the District until the fines and penalties are paid, if</find>
             <replace>if any, if</replace>
           </codify:find-replace>
@@ -195,7 +195,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "judgment and suspension" and insert the word "judgment" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.06|(b)|(1)" codified:citation="§ 50-2302.06" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2302.06|(b)|(1)" codified:citation="§ 50-2302.06" codified:display="Amend">
             <find>judgment and suspension</find>
             <replace>judgment</replace>
           </codify:find-replace>
@@ -206,7 +206,7 @@
         <text>Subsection (i) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§50-2302.06|(i)" codified:citation="§ 50-2302.06" codified:instruction="Amend"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§50-2302.06|(i)" codified:citation="§ 50-2302.06" codified:display="Amend"/>
             <num>(i)</num>
             <text>All civil fines and other monies collected pursuant to the provisions of <code-cite doc="D.C. Code" path="50|23|II">this title</code-cite> shall be paid into the General Fund of the District of Columbia.</text>
           </para>
@@ -219,15 +219,15 @@
       <text>New sections 207 and 208 are added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="50|23|II" after="§50-2302.06" num-value="50-2302.07" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2302.07" codified:citation="§ 50-2302.07" codified:instruction="New"/>
+          <codify:insert path="50|23|II" after="§50-2302.06" num-value="50-2302.07" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2302.07" codified:citation="§ 50-2302.07" codified:display="New"/>
           <num>207</num>
           <heading>Restriction on collecting fines after 10 years.</heading>
           <text>If a civil fine or penalty resulting from a notice of infraction adjudicated pursuant to the provisions of <code-cite doc="D.C. Code" path="50|23|II">this title</code-cite> remains unpaid 10 years after the notice is issued, the infraction shall be dismissed and any assessed civil fine or penalty shall be vacated and shall not be collected.</text>
           <annotation doc="D.C. Law 2-104" type="History" path="§207">Sept. 12, 1978, D.C. Law 2-104, § 207</annotation>
-          <codify:not-funded-anno doc="D.C. Code" path="§50-2302.07" applicability-path="§3" action="creation of"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§50-2302.07" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§50-2302.07" codified:citation="§ 50-2302.07" codified:display="Note"/>
         </section>
         <section>
-          <codify:insert path="50|23|II" after="§50-2302.07" num-value="50-2302.08" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2302.08" codified:citation="§ 50-2302.08" codified:instruction="New"/>
+          <codify:insert path="50|23|II" after="§50-2302.07" num-value="50-2302.08" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2302.08" codified:citation="§ 50-2302.08" codified:display="New"/>
           <num>208</num>
           <heading>Reinstatement of suspended licenses.</heading>
           <text>Within 30 days after the <span codify:value="[insert effective date when becomes law]">effective date of the Traffic and Parking Ticket Penalty Amendment Act of 2018, passed on 2nd reading on July 10, 2018 (Enrolled version of Bill 22-204)</span>, the Department shall reinstate a person's license, or privilege to drive within the District in the case of a person holding an out-of-state permit, if the person's license, or privilege to drive in the District, was suspended due to failure to pay any civil fines or penalties assessed pursuant to <code-cite doc="D.C. Code" path="50|23|II">this title</code-cite> or failure to appear at a hearing under <code-cite doc="D.C. Code" path="§50-2302.06|(b)">section 206(b)</code-cite>.</text>
@@ -242,7 +242,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the number "30" and insert the number "60" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2303.04|(c)" codified:citation="§ 50-2303.04" codified:instruction="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2303.04|(c)" codified:citation="§ 50-2303.04" codified:display="Amend">
           <find>30 days</find>
           <replace>60 days</replace>
         </codify:find-replace>
@@ -250,12 +250,12 @@
       <para>
         <num>(2)</num>
         <text>Strike the number "60" and insert the number "120" in its place.</text>
-        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§50-2303.04|(c)" codified:citation="§ 50-2303.04" codified:instruction="Amend">
+        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§50-2303.04|(c)" codified:citation="§ 50-2303.04" codified:display="Amend">
           <find>60 days</find>
           <replace>120 days</replace>
         </codify:find-replace>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§50-2303.04" applicability-path="§3"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§50-2303.04" applicability-path="§3" codified:doc="D.C. Code" codified:path="§50-2303.04" codified:citation="§ 50-2303.04" codified:display="Note"/>
     </para>
     <para codify:path="§50-2303.05|(d)">
       <num>(g)</num>
@@ -263,7 +263,7 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph 1 is amended by striking the number "30" and inserting the number "60" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(1)" codified:citation="§ 50-2303.05" codified:instruction="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(1)" codified:citation="§ 50-2303.05" codified:display="Amend">
           <find>30 calendar days</find>
           <replace>60 calendar days</replace>
         </codify:find-replace>
@@ -271,7 +271,7 @@
       <para codify:path="(2)">
         <num>(2)</num>
         <text>Paragraph (2) is amended by striking the number "60" and inserting the number "120" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(2)" codified:citation="§ 50-2303.05" codified:instruction="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(2)" codified:citation="§ 50-2303.05" codified:display="Amend">
           <find>60 days</find>
           <replace>120 days</replace>
         </codify:find-replace>
@@ -281,21 +281,21 @@
         <text>A new paragraph (3) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(3)" codified:citation="§ 50-2303.05" codified:instruction="Amend"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(3)" codified:citation="§ 50-2303.05" codified:display="Amend"/>
             <num>(3)</num>
             <text>In addition to the notice required by paragraph (2) of this subsection, if a notice of infraction remains unanswered, not more than 100 days after the notice is issued, the Director shall send by regular mail, addressed to the person's address on the Department of Motor Vehicle's records, notice of the outstanding notice of infraction and the effective date of the deemed admission.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§50-2303.05" applicability-path="§3"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§50-2303.05" applicability-path="§3" codified:doc="D.C. Code" codified:path="§50-2303.05" codified:citation="§ 50-2303.05" codified:display="Note"/>
     </para>
     <para>
       <num>(h)</num>
       <text>A new section 309 is added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="50|23|III" after="§50-2303.08" num-value="50-2303.09" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2303.09" codified:citation="§ 50-2303.09" codified:instruction="New"/>
+          <codify:insert path="50|23|III" after="§50-2303.08" num-value="50-2303.09" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2303.09" codified:citation="§ 50-2303.09" codified:display="New"/>
           <num>309</num>
           <heading>Restriction on collecting fines after 10 years.</heading>
           <text>If a civil fine or penalty resulting from a notice of infraction adjudicated pursuant to the provisions of <code-cite doc="D.C. Code" path="50|23|III">this title</code-cite> remains unpaid 10 years after the date the notice is issued, the infraction shall be dismissed and any assessed civil fine or penalty shall be vacated and shall not be collected.</text>
@@ -303,14 +303,14 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno doc="D.C. Code" path="§50-2303.09" applicability-path="§3" action="creation of"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§50-2303.09" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§50-2303.09" codified:citation="§ 50-2303.09" codified:display="Note"/>
     </para>
     <para>
       <num>(i)</num>
       <text>A new Title III-B is added to read as follows:</text>
       <include>
         <container>
-          <codify:insert doc="D.C. Code" path="50|23" after="III-A" history="false" codified:doc="D.C. Code" codified:path="50|23|III-B" codified:citation="subchapter III-B of Chapter 23 of Title 50" codified:instruction="New">
+          <codify:insert doc="D.C. Code" path="50|23" after="III-A" history="false" codified:doc="D.C. Code" codified:path="50|23|III-B" codified:citation="subchapter III-B of Chapter 23 of Title 50" codified:display="New">
             <container>
               <prefix>Subchapter</prefix>
               <num>III-B</num>
@@ -321,7 +321,7 @@
           <num>III-B</num>
           <heading>COMMUNITY SERVICE DEBT REPAYMENT PROGRAM</heading>
           <section>
-            <codify:insert doc="D.C. Code" path="50|23|III-B" num-value="50-2303.21" codified:doc="D.C. Code" codified:path="§50-2303.21" codified:citation="§ 50-2303.21" codified:instruction="New"/>
+            <codify:insert doc="D.C. Code" path="50|23|III-B" num-value="50-2303.21" codified:doc="D.C. Code" codified:path="§50-2303.21" codified:citation="§ 50-2303.21" codified:display="New"/>
             <num>321</num>
             <heading>Community Service Debt Repayment Program.</heading>
             <para>
@@ -371,7 +371,7 @@
               <num>(d)</num>
               <text>The Mayor, <code-cite doc="D.C. Code" path="2|5|I">pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, shall issue rules to implement the provisions of this section.</text>
             </para>
-            <codify:not-funded-anno doc="D.C. Code" path="§50-2303.21" applicability-path="§3"/>
+            <codify:not-funded-anno doc="D.C. Code" path="§50-2303.21" applicability-path="§3" codified:doc="D.C. Code" codified:path="§50-2303.21" codified:citation="§ 50-2303.21" codified:display="Note"/>
           </section>
         </container>
       </include>
@@ -387,26 +387,26 @@
       <para>
         <num>(1)</num>
         <text>Section 2(a);</text>
-        <codify:applicability doc="D.C. Act 22-449" path="§2|(a)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2301.05|(a)|(2)|(A)" codified:citation="§ 50-2301.05" codified:instruction="Note"/>
+        <codify:applicability doc="D.C. Act 22-449" path="§2|(a)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2301.05|(a)|(2)|(A)" codified:citation="§ 50-2301.05" codified:display="Note"/>
       </para>
       <para>
         <num>(2)</num>
         <text>Section 2(b)(2);</text>
-        <codify:applicability doc="D.C. Act 22-449" path="§2|(b)|(2)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.04|(c-1)" codified:citation="§ 50-2302.04" codified:instruction="Note"/>
+        <codify:applicability doc="D.C. Act 22-449" path="§2|(b)|(2)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.04|(c-1)" codified:citation="§ 50-2302.04" codified:display="Note"/>
       </para>
       <para>
         <num>(3)</num>
         <text>Section 2(c)(1), (2)(A), (3), and (4)(B);</text>
-        <codify:applicability doc="D.C. Act 22-449" path="§2|(c)|(1)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.05|(d)" codified:citation="§ 50-2302.05" codified:instruction="Note"/>
-        <codify:applicability doc="D.C. Act 22-449" path="§2|(c)|(2)|(A)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.05|(e)" codified:citation="§ 50-2302.05" codified:instruction="Note"/>
-        <codify:applicability doc="D.C. Act 22-449" path="§2|(c)|(3)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.05|(e-1)" codified:citation="§ 50-2302.05" codified:instruction="Note"/>
-        <codify:applicability doc="D.C. Act 22-449" path="§2|(c)|(4)|(B)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.05|(f)" codified:citation="§ 50-2302.05" codified:instruction="Note"/>
+        <codify:applicability doc="D.C. Act 22-449" path="§2|(c)|(1)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.05|(d)" codified:citation="§ 50-2302.05" codified:display="Note"/>
+        <codify:applicability doc="D.C. Act 22-449" path="§2|(c)|(2)|(A)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.05|(e)" codified:citation="§ 50-2302.05" codified:display="Note"/>
+        <codify:applicability doc="D.C. Act 22-449" path="§2|(c)|(3)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.05|(e-1)" codified:citation="§ 50-2302.05" codified:display="Note"/>
+        <codify:applicability doc="D.C. Act 22-449" path="§2|(c)|(4)|(B)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.05|(f)" codified:citation="§ 50-2302.05" codified:display="Note"/>
       </para>
       <para>
         <num>(4)</num>
         <text>The amendatory section 207 within section 2(e);</text>
-        <codify:repeal doc="D.C. Code" path="§50-2302.07" history="false" codified:doc="D.C. Code" codified:path="§50-2302.07" codified:citation="§ 50-2302.07" codified:instruction="Repeal"/>
-        <codify:find-replace doc="D.C. Code" path="§50-2302.07" count="2" history="false" codified:doc="D.C. Code" codified:path="§50-2302.07" codified:citation="§ 50-2302.07" codified:instruction="Amend">
+        <codify:repeal doc="D.C. Code" path="§50-2302.07" history="false" codified:doc="D.C. Code" codified:path="§50-2302.07" codified:citation="§ 50-2302.07" codified:display="Repeal"/>
+        <codify:find-replace doc="D.C. Code" path="§50-2302.07" count="2" history="false" codified:doc="D.C. Code" codified:path="§50-2302.07" codified:citation="§ 50-2302.07" codified:display="Amend">
           <find>Repealed</find>
           <replace>Not Funded</replace>
         </codify:find-replace>
@@ -414,22 +414,22 @@
       <para>
         <num>(5)</num>
         <text>Section 2(f);</text>
-        <codify:applicability doc="D.C. Act 22-449" path="§2|(f)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2303.04|(c)" codified:citation="§ 50-2303.04" codified:instruction="Note"/>
+        <codify:applicability doc="D.C. Act 22-449" path="§2|(f)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2303.04|(c)" codified:citation="§ 50-2303.04" codified:display="Note"/>
       </para>
       <para>
         <num>(6)</num>
         <text>Section 2(g);</text>
-        <codify:applicability doc="D.C. Act 22-449" path="§2|(g)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(1)" codified:citation="§ 50-2303.05" codified:instruction="Note"/>
+        <codify:applicability doc="D.C. Act 22-449" path="§2|(g)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(1)" codified:citation="§ 50-2303.05" codified:display="Note"/>
       </para>
       <para>
         <num>(7)</num>
         <text>Section 2(h); and</text>
-        <codify:applicability doc="D.C. Act 22-449" path="§2|(h)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2303.09" codified:citation="§ 50-2303.09" codified:instruction="Note"/>
+        <codify:applicability doc="D.C. Act 22-449" path="§2|(h)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2303.09" codified:citation="§ 50-2303.09" codified:display="Note"/>
       </para>
       <para>
         <num>(8)</num>
         <text>Section 2(i).</text>
-        <codify:applicability doc="D.C. Act 22-449" path="§2|(i)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="50|23|III-B" codified:citation="subchapter III-B of Chapter 23 of Title 50" codified:instruction="Note"/>
+        <codify:applicability doc="D.C. Act 22-449" path="§2|(i)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="50|23|III-B" codified:citation="subchapter III-B of Chapter 23 of Title 50" codified:display="Note"/>
       </para>
     </para>
     <para>

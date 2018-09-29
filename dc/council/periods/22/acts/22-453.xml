@@ -23,7 +23,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Birth-to-Three for All DC Amendment Act of 2018".</text>
-  <codify:insert doc="D.C. Code" path="4" after="6A" history="false" codified:doc="D.C. Code" codified:path="4|6B" codified:citation="Chapter 6B of Title 4" codified:instruction="New">
+  <codify:insert doc="D.C. Code" path="4" after="6A" history="false" codified:doc="D.C. Code" codified:path="4|6B" codified:citation="Chapter 6B of Title 4" codified:display="New">
     <container>
       <prefix>Chapter</prefix>
       <num>6B</num>
@@ -35,7 +35,7 @@
     <num>I</num>
     <heading>HEALTHY EARLY CHILDHOOD DEVELOPMENT</heading>
     <section>
-      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.01" codified:doc="D.C. Code" codified:path="§4-651.01" codified:citation="§ 4-651.01" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.01" codified:doc="D.C. Code" codified:path="§4-651.01" codified:citation="§ 4-651.01" codified:display="New"/>
       <num>101</num>
       <heading>Definitions.</heading>
       <text>For the purposes of <code-cite doc="D.C. Code" path="4|6B">this act</code-cite>, the term:</text>
@@ -204,7 +204,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.02" codified:doc="D.C. Code" codified:path="§4-651.02" codified:citation="§ 4-651.02" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.02" codified:doc="D.C. Code" codified:path="§4-651.02" codified:citation="§ 4-651.02" codified:display="New"/>
       <num>102</num>
       <heading>Healthy Steps Pediatric Primary Care Demonstration Program.</heading>
       <para>
@@ -371,10 +371,10 @@
           <text>In Fiscal Year 2023, an amount for at least one additional primary care clinic selected to participate in the Program; provided, that no more than 20% of the grant shall be allocated for an external evaluation conducted pursuant to <code-cite doc="D.C. Code" path="§4-651.03">section 103</code-cite>.</text>
         </para>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§4-651.02" applicability-path="§301" action="creation of some of the provisions of"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§4-651.02" applicability-path="§301" action="creation of some of the provisions of" codified:doc="D.C. Code" codified:path="§4-651.02" codified:citation="§ 4-651.02" codified:display="Note"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.03" codified:doc="D.C. Code" codified:path="§4-651.03" codified:citation="§ 4-651.03" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.03" codified:doc="D.C. Code" codified:path="§4-651.03" codified:citation="§ 4-651.03" codified:display="New"/>
       <num>103</num>
       <heading>External evaluation contractor.</heading>
       <para>
@@ -435,7 +435,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.04" codified:doc="D.C. Code" codified:path="§4-651.04" codified:citation="§ 4-651.04" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.04" codified:doc="D.C. Code" codified:path="§4-651.04" codified:citation="§ 4-651.04" codified:display="New"/>
       <num>104</num>
       <heading>Help Me Grow.</heading>
       <para>
@@ -478,10 +478,10 @@
         <num>(d)</num>
         <text>Beginning January 1, 2020, and semiannually thereafter, DOH shall submit a report to the Mayor, Council, Interagency Coordinating Council, SECDCC, and the Quality Improvement Network Interagency Steering Committee regarding the implementation of Help Me Grow.</text>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§4-651.04" applicability-path="§301" action="creation of"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§4-651.04" applicability-path="§301" action="creation of" codified:doc="D.C. Code" codified:path="§4-651.04" codified:citation="§ 4-651.04" codified:display="Note"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.05" codified:doc="D.C. Code" codified:path="§4-651.05" codified:citation="§ 4-651.05" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.05" codified:doc="D.C. Code" codified:path="§4-651.05" codified:citation="§ 4-651.05" codified:display="New"/>
       <num>105</num>
       <heading>Home Visiting Program.</heading>
       <para>
@@ -514,7 +514,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.06" codified:doc="D.C. Code" codified:path="§4-651.06" codified:citation="§ 4-651.06" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.06" codified:doc="D.C. Code" codified:path="§4-651.06" codified:citation="§ 4-651.06" codified:display="New"/>
       <num>106</num>
       <heading>Home visiting reports.</heading>
       <para>
@@ -568,10 +568,10 @@
           <text>Challenges to hiring and educating home visitors.</text>
         </para>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§4-651.06" applicability-path="§301" action="creation of some of the provisions of"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§4-651.06" applicability-path="§301" action="creation of some of the provisions of" codified:doc="D.C. Code" codified:path="§4-651.06" codified:citation="§ 4-651.06" codified:display="Note"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.07" codified:doc="D.C. Code" codified:path="§4-651.07" codified:citation="§ 4-651.07" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.07" codified:doc="D.C. Code" codified:path="§4-651.07" codified:citation="§ 4-651.07" codified:display="New"/>
       <num>107</num>
       <heading>Early Head Start.</heading>
       <para>
@@ -616,7 +616,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.08" codified:doc="D.C. Code" codified:path="§4-651.08" codified:citation="§ 4-651.08" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.08" codified:doc="D.C. Code" codified:path="§4-651.08" codified:citation="§ 4-651.08" codified:display="New"/>
       <num>108</num>
       <heading>Lactation Certification Preparatory Program.</heading>
       <para>
@@ -645,7 +645,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.09" codified:doc="D.C. Code" codified:path="§4-651.09" codified:citation="§ 4-651.09" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.09" codified:doc="D.C. Code" codified:path="§4-651.09" codified:citation="§ 4-651.09" codified:display="New"/>
       <num>109</num>
       <heading>Community Resource Inventory Program.</heading>
       <para>
@@ -692,10 +692,10 @@
         <num>(d)</num>
         <text>Beginning in Fiscal Year 2020, DHCF shall develop an online resource inventory and license fee and shall design, implement, and support this screening tool.</text>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§4-651.09" applicability-path="§301" action="creation of some of the provisions of"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§4-651.09" applicability-path="§301" action="creation of some of the provisions of" codified:doc="D.C. Code" codified:path="§4-651.09" codified:citation="§ 4-651.09" codified:display="Note"/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.10" codified:doc="D.C. Code" codified:path="§4-651.10" codified:citation="§ 4-651.10" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="4|6B" num-value="4-651.10" codified:doc="D.C. Code" codified:path="§4-651.10" codified:citation="§ 4-651.10" codified:display="New"/>
       <num>110</num>
       <heading>Healthy Futures.</heading>
       <para>
@@ -723,7 +723,7 @@
           <text>Paragraph (1) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§4-401|(1)" codified:citation="§ 4-401" codified:instruction="Amend"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§4-401|(1)" codified:citation="§ 4-401" codified:display="Amend"/>
               <num>(1)</num>
               <text>The term "child" means an individual between 3 and 15 years of age.</text>
             </para>
@@ -735,17 +735,17 @@
           <text>New paragraphs (3B), (3C), and (3D) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(3A)" codified:doc="D.C. Code" codified:path="§4-401|(3B)" codified:citation="§ 4-401" codified:instruction="Amend"/>
+              <codify:insert after="(3A)" codified:doc="D.C. Code" codified:path="§4-401|(3B)" codified:citation="§ 4-401" codified:display="Amend"/>
               <num>(3B)</num>
               <text>The term "concentrated poverty" means an area in which 40% or more of a census tract population lives below the federal poverty level, as updated periodically in the Federal Register by the United States Department of Health and Human Services pursuant to section 673(2) of the Community Services Block Grant Act, approved October 27, 1998 (112 Stat. 2729; 42 U.S.C. § 9902(2)).</text>
             </para>
             <para>
-              <codify:insert after="(3B)" codified:doc="D.C. Code" codified:path="§4-401|(3C)" codified:citation="§ 4-401" codified:instruction="Amend"/>
+              <codify:insert after="(3B)" codified:doc="D.C. Code" codified:path="§4-401|(3C)" codified:citation="§ 4-401" codified:display="Amend"/>
               <num>(3C)</num>
               <text>The term "cost modeling analysis" means the methodology for determining the likely cost of delivering services and reimbursement rates to achieve financial solvency at each level of the District's current Quality Rating and Improvement system.</text>
             </para>
             <para>
-              <codify:insert after="(3C)" codified:doc="D.C. Code" codified:path="§4-401|(3D)" codified:citation="§ 4-401" codified:instruction="Amend"/>
+              <codify:insert after="(3C)" codified:doc="D.C. Code" codified:path="§4-401|(3D)" codified:citation="§ 4-401" codified:display="Amend"/>
               <num>(3D)</num>
               <text>The term "cost of care" means the daily per-child dollar amount necessary for a child development facility to deliver services to maintain financial solvency at each level of the District's current Quality Rating and Improvement system.</text>
             </para>
@@ -757,7 +757,7 @@
           <text>A new paragraph (4A) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§4-401|(4A)" codified:citation="§ 4-401" codified:instruction="Amend"/>
+              <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§4-401|(4A)" codified:citation="§ 4-401" codified:display="Amend"/>
               <num>(4A)</num>
               <text>The term "infant" means an individual younger than 12 months of age.</text>
             </para>
@@ -767,7 +767,7 @@
         <para codify:path="(5A)|num">
           <num>(4)</num>
           <text>Paragraph (5A) is redesignated as paragraph (5C).</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-401|(5C)" codified:citation="§ 4-401" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-401|(5C)" codified:citation="§ 4-401" codified:display="Amend">
             <find>(5A)</find>
             <replace>(5C)</replace>
           </codify:find-replace>
@@ -777,12 +777,12 @@
           <text>New paragraphs (5A) and (5B) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§4-401|(5A)" codified:citation="§ 4-401" codified:instruction="Amend"/>
+              <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§4-401|(5A)" codified:citation="§ 4-401" codified:display="Amend"/>
               <num>(5A)</num>
               <text>The term "parity" means compensation for an individual that includes compensation equivalent to the average base salary and fringe benefits of an elementary school teacher employed by District of Columbia Public Schools with the equivalent role, credentials, and experience.</text>
             </para>
             <para>
-              <codify:insert after="(5A)" codified:doc="D.C. Code" codified:path="§4-401|(5B)" codified:citation="§ 4-401" codified:instruction="Amend"/>
+              <codify:insert after="(5A)" codified:doc="D.C. Code" codified:path="§4-401|(5B)" codified:citation="§ 4-401" codified:display="Amend"/>
               <num>(5B)</num>
               <text>The term "Quality Rating Improvement System" or "QRIS" means the method utilized by the Office of the State Superintendent of Education to assess the level of quality of child care provided by a child development facility.</text>
             </para>
@@ -794,12 +794,12 @@
           <text>New paragraphs (7) and (8) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(6)" codified:doc="D.C. Code" codified:path="§4-401|(7)" codified:citation="§ 4-401" codified:instruction="Amend"/>
+              <codify:insert after="(6)" codified:doc="D.C. Code" codified:path="§4-401|(7)" codified:citation="§ 4-401" codified:display="Amend"/>
               <num>(7)</num>
               <text>The term "toddler" means an individual between 12 months of age and 36 months of age.</text>
             </para>
             <para>
-              <codify:insert after="(7)" codified:doc="D.C. Code" codified:path="§4-401|(8)" codified:citation="§ 4-401" codified:instruction="Amend"/>
+              <codify:insert after="(7)" codified:doc="D.C. Code" codified:path="§4-401|(8)" codified:citation="§ 4-401" codified:display="Amend"/>
               <num>(8)</num>
               <text>The term "vulnerable child" means:</text>
               <para>
@@ -834,7 +834,7 @@
       <para codify:path="§4-409|(a)">
         <num>(b)</num>
         <text>Section 10(a) (D.C. Official Code § 4-409(a)) is amended by striking the phrase "The Department shall" and inserting the phrase "Except as provided in section 11b, the Department shall" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-409|(a)" codified:citation="§ 4-409" codified:instruction="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-409|(a)" codified:citation="§ 4-409" codified:display="Amend">
           <find>The Department shall</find>
           <replace>Except as provided in <code-cite doc="D.C. Code" path="§4-410.02">section 11b</code-cite>, the Department shall</replace>
         </codify:find-replace>
@@ -842,7 +842,7 @@
       <para codify:path="§4-410|(a)">
         <num>(c)</num>
         <text>Section 11(a) (D.C. Official Code § 4-410(a)) is amended by striking the phrase "Payments to child development homes" and inserting the phrase "Except as provided in section 11b, payments to child development homes" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-410|(a)" codified:citation="§ 4-410" codified:instruction="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-410|(a)" codified:citation="§ 4-410" codified:display="Amend">
           <find>Payments to child development homes</find>
           <replace>Except as provided in <code-cite doc="D.C. Code" path="§4-410.02">section 11b</code-cite>, payments to child development homes</replace>
         </codify:find-replace>
@@ -852,7 +852,7 @@
         <text>New sections 11a, 11b, and 11c are added to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="4|4" after="§4-410" num-value="4-410.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-410.01" codified:citation="§ 4-410.01" codified:instruction="New"/>
+            <codify:insert path="4|4" after="§4-410" num-value="4-410.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-410.01" codified:citation="§ 4-410.01" codified:display="New"/>
             <num>11a</num>
             <heading>Studies of child development facilities for infants and toddlers.</heading>
             <para>
@@ -927,10 +927,10 @@
               </para>
             </para>
             <annotation doc="D.C. Law 3-16" type="History" path="§11a">Sept. 19, 1979, D.C. Law 3-16, § 11a</annotation>
-            <codify:not-funded-anno doc="D.C. Code" path="§4-410.01" applicability-path="§301" action="creation of"/>
+            <codify:not-funded-anno doc="D.C. Code" path="§4-410.01" applicability-path="§301" action="creation of" codified:doc="D.C. Code" codified:path="§4-410.01" codified:citation="§ 4-410.01" codified:display="Note"/>
           </section>
           <section>
-            <codify:insert path="4|4" after="§4-410.01" num-value="4-410.02" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-410.02" codified:citation="§ 4-410.02" codified:instruction="New"/>
+            <codify:insert path="4|4" after="§4-410.01" num-value="4-410.02" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-410.02" codified:citation="§ 4-410.02" codified:display="New"/>
             <num>11b</num>
             <heading>Payments to child development facilities for infants and toddlers.</heading>
             <para>
@@ -962,10 +962,10 @@
               <text>Child development facilities receiving payments under <code-cite doc="D.C. Code" path="4|4">this act</code-cite> shall, at a minimum, compensate teaching assistants and lead teachers according to the salary scale and implementation schedule  developed pursuant to <code-cite doc="D.C. Code" path="§4-410.01|(b)">section 11a(b)</code-cite>.</text>
             </para>
             <annotation doc="D.C. Law 3-16" type="History" path="§11b">Sept. 19, 1979, D.C. Law 3-16, § 11b</annotation>
-            <codify:not-funded-anno doc="D.C. Code" path="§4-410.02" applicability-path="§301" action="creation of"/>
+            <codify:not-funded-anno doc="D.C. Code" path="§4-410.02" applicability-path="§301" action="creation of" codified:doc="D.C. Code" codified:path="§4-410.02" codified:citation="§ 4-410.02" codified:display="Note"/>
           </section>
           <section>
-            <codify:insert path="4|4" after="§4-410.02" num-value="4-410.03" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-410.03" codified:citation="§ 4-410.03" codified:instruction="New"/>
+            <codify:insert path="4|4" after="§4-410.02" num-value="4-410.03" history-prefix="as added" codified:doc="D.C. Code" codified:path="§4-410.03" codified:citation="§ 4-410.03" codified:display="New"/>
             <num>11c</num>
             <heading>Subsidized child care services.</heading>
             <para>
@@ -1326,7 +1326,7 @@
               <text/>
             </para>
             <annotation doc="D.C. Law 3-16" type="History" path="§11c">Sept. 19, 1979, D.C. Law 3-16, § 11c</annotation>
-            <codify:not-funded-anno doc="D.C. Code" path="§4-410.03" applicability-path="§301" action="creation of"/>
+            <codify:not-funded-anno doc="D.C. Code" path="§4-410.03" applicability-path="§301" action="creation of" codified:doc="D.C. Code" codified:path="§4-410.03" codified:citation="§ 4-410.03" codified:display="Note"/>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -1336,7 +1336,7 @@
         <text>A new sections 15b is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="4|4" after="§4-415" num-value="4-416" codified:doc="D.C. Code" codified:path="§4-416" codified:citation="§ 4-416" codified:instruction="New"/>
+            <codify:insert path="4|4" after="§4-415" num-value="4-416" codified:doc="D.C. Code" codified:path="§4-416" codified:citation="§ 4-416" codified:display="New"/>
             <num>15b</num>
             <heading>Expansion of the Quality Improvement Network.</heading>
             <para>
@@ -1376,7 +1376,7 @@
               </para>
             </para>
             <annotation doc="D.C. Law 3-16" type="History" path="§15b">Sept. 19, 1979, D.C. Law 3-16, § 15b</annotation>
-            <codify:not-funded-anno doc="D.C. Code" path="§4-416" applicability-path="§301" action="creation of"/>
+            <codify:not-funded-anno doc="D.C. Code" path="§4-416" applicability-path="§301" action="creation of" codified:doc="D.C. Code" codified:path="§4-416" codified:citation="§ 4-416" codified:display="Note"/>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -1391,23 +1391,23 @@
         <para>
           <num>(1)</num>
           <text>Paragraphs (1) through (1C) are redesignated as paragraphs (1B) through (1E).</text>
-          <codify:find-replace path="(1D)|num" count="1" codified:doc="D.C. Code" codified:path="§38-271.01|(1H)" codified:citation="§ 38-271.01" codified:instruction="Amend">
+          <codify:find-replace path="(1D)|num" count="1" codified:doc="D.C. Code" codified:path="§38-271.01|(1H)" codified:citation="§ 38-271.01" codified:display="Amend">
             <find>(1D)</find>
             <replace>(1H)</replace>
           </codify:find-replace>
-          <codify:find-replace path="(1C)|num" count="1" codified:doc="D.C. Code" codified:path="§38-271.01|(1E)" codified:citation="§ 38-271.01" codified:instruction="Amend">
+          <codify:find-replace path="(1C)|num" count="1" codified:doc="D.C. Code" codified:path="§38-271.01|(1E)" codified:citation="§ 38-271.01" codified:display="Amend">
             <find>(1C)</find>
             <replace>(1E)</replace>
           </codify:find-replace>
-          <codify:find-replace path="(1B)|num" count="1" codified:doc="D.C. Code" codified:path="§38-271.01|(1D)" codified:citation="§ 38-271.01" codified:instruction="Amend">
+          <codify:find-replace path="(1B)|num" count="1" codified:doc="D.C. Code" codified:path="§38-271.01|(1D)" codified:citation="§ 38-271.01" codified:display="Amend">
             <find>(1B)</find>
             <replace>(1D)</replace>
           </codify:find-replace>
-          <codify:find-replace path="(1A)|num" count="1" codified:doc="D.C. Code" codified:path="§38-271.01|(1C)" codified:citation="§ 38-271.01" codified:instruction="Amend">
+          <codify:find-replace path="(1A)|num" count="1" codified:doc="D.C. Code" codified:path="§38-271.01|(1C)" codified:citation="§ 38-271.01" codified:display="Amend">
             <find>(1A)</find>
             <replace>(1C)</replace>
           </codify:find-replace>
-          <codify:find-replace path="(1)|num" count="1" codified:doc="D.C. Code" codified:path="§38-271.01|(1B)" codified:citation="§ 38-271.01" codified:instruction="Amend">
+          <codify:find-replace path="(1)|num" count="1" codified:doc="D.C. Code" codified:path="§38-271.01|(1B)" codified:citation="§ 38-271.01" codified:display="Amend">
             <find>(1)</find>
             <replace>(1B)</replace>
           </codify:find-replace>
@@ -1421,12 +1421,12 @@
           <text>New paragraphs (1) and (1A) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert doc="D.C. Code" path="§38-271.01|(a)" before="(1B)" codified:doc="D.C. Code" codified:path="§38-271.01|(1)" codified:citation="§ 38-271.01" codified:instruction="Amend"/>
+              <codify:insert doc="D.C. Code" path="§38-271.01|(a)" before="(1B)" codified:doc="D.C. Code" codified:path="§38-271.01|(1)" codified:citation="§ 38-271.01" codified:display="Amend"/>
               <num>(1)</num>
               <text>"Child development center" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§4-401|(2)">section 2(2) of the Day Care Policy Act of 1979, effective September 19, 1979 (D.C. Law 3-16; D.C. Official Code § 4-401(2))</code-cite>.</text>
             </para>
             <para>
-              <codify:insert doc="D.C. Code" path="§38-271.01|(a)" before="(1B)" codified:doc="D.C. Code" codified:path="§38-271.01|(1A)" codified:citation="§ 38-271.01" codified:instruction="Amend"/>
+              <codify:insert doc="D.C. Code" path="§38-271.01|(a)" before="(1B)" codified:doc="D.C. Code" codified:path="§38-271.01|(1A)" codified:citation="§ 38-271.01" codified:display="Amend"/>
               <num>(1A)</num>
               <text>"Child development facility" shall have the same meaning as provided in in <code-cite doc="D.C. Code" path="§7-2031|(3)">section 2(3) of the Child Development Facilities Regulation Act of 1998, effective April 13, 1999 (D.C. Law 12-215; D.C. Official Code § 7-2031(3))</code-cite>.</text>
             </para>
@@ -1438,12 +1438,12 @@
           <text>New paragraphs (1F) and (1G) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert doc="D.C. Code" path="§38-271.01|(a)" before="(1H)" codified:doc="D.C. Code" codified:path="§38-271.01|(1F)" codified:citation="§ 38-271.01" codified:instruction="Amend"/>
+              <codify:insert doc="D.C. Code" path="§38-271.01|(a)" before="(1H)" codified:doc="D.C. Code" codified:path="§38-271.01|(1F)" codified:citation="§ 38-271.01" codified:display="Amend"/>
               <num>(1F)</num>
               <text>"DCRA" means the Department of Consumer and Regulatory Affairs.</text>
             </para>
             <para>
-              <codify:insert doc="D.C. Code" path="§38-271.01|(a)" before="(1H)" codified:doc="D.C. Code" codified:path="§38-271.01|(1G)" codified:citation="§ 38-271.01" codified:instruction="Amend"/>
+              <codify:insert doc="D.C. Code" path="§38-271.01|(a)" before="(1H)" codified:doc="D.C. Code" codified:path="§38-271.01|(1G)" codified:citation="§ 38-271.01" codified:display="Amend"/>
               <num>(1G)</num>
               <text>"Early childhood development provider" means a child development facility or CBO.</text>
             </para>
@@ -1456,7 +1456,7 @@
         <text>A new section 108 is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="38|2A|I" after="§38-271.07" num-value="38-271.08" history-prefix="as added" codified:doc="D.C. Code" codified:path="§38-271.08" codified:citation="§ 38-271.08" codified:instruction="New"/>
+            <codify:insert path="38|2A|I" after="§38-271.07" num-value="38-271.08" history-prefix="as added" codified:doc="D.C. Code" codified:path="§38-271.08" codified:citation="§ 38-271.08" codified:display="New"/>
             <num>108</num>
             <heading>Early Childhood Development Facility Coordinators.</heading>
             <para>
@@ -1522,14 +1522,14 @@
         </include>
         <aftertext>.</aftertext>
         <annotation doc="D.C. Law 17-202" type="History" path="§108">July 18, 2008, D.C. Law 17-202, § 108</annotation>
-        <codify:not-funded-anno doc="D.C. Code" path="§38-271.08" applicability-path="§301" action="creation of"/>
+        <codify:not-funded-anno doc="D.C. Code" path="§38-271.08" applicability-path="§301" action="creation of" codified:doc="D.C. Code" codified:path="§38-271.08" codified:citation="§ 38-271.08" codified:display="Note"/>
       </para>
       <para>
         <num>(c)</num>
         <text>Section 401 (D.C. Official Code § 38-274.01) is amended by adding a new subsection (f) to read as follows:</text>
         <include>
           <para>
-            <codify:insert path="§38-274.01" after="(e)" codified:doc="D.C. Code" codified:path="§38-274.01|(f)" codified:citation="§ 38-274.01" codified:instruction="Amend"/>
+            <codify:insert path="§38-274.01" after="(e)" codified:doc="D.C. Code" codified:path="§38-274.01|(f)" codified:citation="§ 38-274.01" codified:display="Amend"/>
             <num>(f)</num>
             <para>
               <num>(1)</num>
@@ -1555,43 +1555,43 @@
       <para>
         <num>(a)</num>
         <text>Sections 102(g)(2), (3), (4), and (5), 104, 106(b)(2), 107, 108, 109(d), 110, 201(d), 201(e), and 202(b), shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
-        <codify:repeal doc="D.C. Code" path="§4-651.02|(g)|(2)" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(2)" codified:citation="§ 4-651.02" codified:instruction="Amend"/>
-        <codify:find-replace doc="D.C. Code" path="§4-651.02|(g)|(2)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(2)" codified:citation="§ 4-651.02" codified:instruction="Amend">
+        <codify:repeal doc="D.C. Code" path="§4-651.02|(g)|(2)" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(2)" codified:citation="§ 4-651.02" codified:display="Amend"/>
+        <codify:find-replace doc="D.C. Code" path="§4-651.02|(g)|(2)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(2)" codified:citation="§ 4-651.02" codified:display="Amend">
           <find>Repealed</find>
           <replace>Not Funded</replace>
         </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="§4-651.02|(g)|(3)" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(3)" codified:citation="§ 4-651.02" codified:instruction="Amend"/>
-        <codify:find-replace doc="D.C. Code" path="§4-651.02|(g)|(3)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(3)" codified:citation="§ 4-651.02" codified:instruction="Amend">
+        <codify:repeal doc="D.C. Code" path="§4-651.02|(g)|(3)" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(3)" codified:citation="§ 4-651.02" codified:display="Amend"/>
+        <codify:find-replace doc="D.C. Code" path="§4-651.02|(g)|(3)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(3)" codified:citation="§ 4-651.02" codified:display="Amend">
           <find>Repealed</find>
           <replace>Not Funded</replace>
         </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="§4-651.02|(g)|(4)" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(4)" codified:citation="§ 4-651.02" codified:instruction="Amend"/>
-        <codify:find-replace doc="D.C. Code" path="§4-651.02|(g)|(4)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(4)" codified:citation="§ 4-651.02" codified:instruction="Amend">
+        <codify:repeal doc="D.C. Code" path="§4-651.02|(g)|(4)" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(4)" codified:citation="§ 4-651.02" codified:display="Amend"/>
+        <codify:find-replace doc="D.C. Code" path="§4-651.02|(g)|(4)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(4)" codified:citation="§ 4-651.02" codified:display="Amend">
           <find>Repealed</find>
           <replace>Not Funded</replace>
         </codify:find-replace>
-        <codify:repeal doc="D.C. Code" path="§4-651.02|(g)|(5)" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(5)" codified:citation="§ 4-651.02" codified:instruction="Amend"/>
-        <codify:find-replace doc="D.C. Code" path="§4-651.02|(g)|(5)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(5)" codified:citation="§ 4-651.02" codified:instruction="Amend">
+        <codify:repeal doc="D.C. Code" path="§4-651.02|(g)|(5)" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(5)" codified:citation="§ 4-651.02" codified:display="Amend"/>
+        <codify:find-replace doc="D.C. Code" path="§4-651.02|(g)|(5)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-651.02|(g)|(5)" codified:citation="§ 4-651.02" codified:display="Amend">
           <find>Repealed</find>
           <replace>Not Funded</replace>
         </codify:find-replace>
-        <codify:applicability doc="D.C. Act 22-453" path="§104" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-651.04" codified:citation="§ 4-651.04" codified:instruction="Note"/>
-        <codify:repeal doc="D.C. Code" path="§4-651.06|(b)|(2)" history="false" codified:doc="D.C. Code" codified:path="§4-651.06|(b)|(2)" codified:citation="§ 4-651.06" codified:instruction="Amend"/>
-        <codify:find-replace doc="D.C. Code" path="§4-651.06|(b)|(2)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-651.06|(b)|(2)" codified:citation="§ 4-651.06" codified:instruction="Amend">
+        <codify:applicability doc="D.C. Act 22-453" path="§104" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-651.04" codified:citation="§ 4-651.04" codified:display="Note"/>
+        <codify:repeal doc="D.C. Code" path="§4-651.06|(b)|(2)" history="false" codified:doc="D.C. Code" codified:path="§4-651.06|(b)|(2)" codified:citation="§ 4-651.06" codified:display="Amend"/>
+        <codify:find-replace doc="D.C. Code" path="§4-651.06|(b)|(2)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-651.06|(b)|(2)" codified:citation="§ 4-651.06" codified:display="Amend">
           <find>Repealed</find>
           <replace>Not Funded</replace>
         </codify:find-replace>
-        <codify:applicability doc="D.C. Act 22-453" path="§107" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-651.07" codified:citation="§ 4-651.07" codified:instruction="Note"/>
-        <codify:applicability doc="D.C. Act 22-453" path="§108" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-651.08" codified:citation="§ 4-651.08" codified:instruction="Note"/>
-        <codify:repeal doc="D.C. Code" path="§4-651.09|(d)" history="false" codified:doc="D.C. Code" codified:path="§4-651.09|(d)" codified:citation="§ 4-651.09" codified:instruction="Amend"/>
-        <codify:find-replace doc="D.C. Code" path="§4-651.09|(d)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-651.09|(d)" codified:citation="§ 4-651.09" codified:instruction="Amend">
+        <codify:applicability doc="D.C. Act 22-453" path="§107" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-651.07" codified:citation="§ 4-651.07" codified:display="Note"/>
+        <codify:applicability doc="D.C. Act 22-453" path="§108" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-651.08" codified:citation="§ 4-651.08" codified:display="Note"/>
+        <codify:repeal doc="D.C. Code" path="§4-651.09|(d)" history="false" codified:doc="D.C. Code" codified:path="§4-651.09|(d)" codified:citation="§ 4-651.09" codified:display="Amend"/>
+        <codify:find-replace doc="D.C. Code" path="§4-651.09|(d)" count="1" history="false" codified:doc="D.C. Code" codified:path="§4-651.09|(d)" codified:citation="§ 4-651.09" codified:display="Amend">
           <find>Repealed</find>
           <replace>Not Funded</replace>
         </codify:find-replace>
-        <codify:applicability doc="D.C. Act 22-453" path="§110" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-651.10" codified:citation="§ 4-651.10" codified:instruction="Note"/>
-        <codify:applicability doc="D.C. Act 22-453" path="§201|(d)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-410.01" codified:citation="§ 4-410.01" codified:instruction="Note"/>
-        <codify:applicability doc="D.C. Act 22-453" path="§201|(e)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-416" codified:citation="§ 4-416" codified:instruction="Note"/>
-        <codify:applicability doc="D.C. Act 22-453" path="§202|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§38-271.08" codified:citation="§ 38-271.08" codified:instruction="Note"/>
+        <codify:applicability doc="D.C. Act 22-453" path="§110" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-651.10" codified:citation="§ 4-651.10" codified:display="Note"/>
+        <codify:applicability doc="D.C. Act 22-453" path="§201|(d)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-410.01" codified:citation="§ 4-410.01" codified:display="Note"/>
+        <codify:applicability doc="D.C. Act 22-453" path="§201|(e)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-416" codified:citation="§ 4-416" codified:display="Note"/>
+        <codify:applicability doc="D.C. Act 22-453" path="§202|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§38-271.08" codified:citation="§ 38-271.08" codified:display="Note"/>
       </para>
       <para>
         <num>(b)</num>

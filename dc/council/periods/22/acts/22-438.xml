@@ -27,23 +27,11 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Vital Records Modernization Amendment Act of 2018".</text>
-  <codify:insert doc="D.C. Code" path="5" after="14" history="false" codified:doc="D.C. Code" codified:path="5|14A" codified:citation="Chapter 14A of Title 5" codified:instruction="New">
-    <container>
-      <prefix>Chapter</prefix>
-      <num>14A</num>
-      <heading>Fatality Review Committee.</heading>
-    </container>
-  </codify:insert>
-  <section>
-    <codify:insert doc="D.C. Code" path="5|14A" num-value="5-1431.02" history="false" codified:doc="D.C. Code" codified:path="§5-1431.02" codified:citation="§ 5-1431.02" codified:instruction="New"/>
-    <num>3043</num>
-    <heading>Composition of the Committee; procedural requirements.</heading>
-  </section>
-  <codify:find-replace doc="D.C. Code" path="7|2A|num" count="1" codified:doc="D.C. Code" codified:path="7|2B" codified:citation="Chapter 2B of Title 7" codified:instruction="Amend">
+  <codify:find-replace doc="D.C. Code" path="7|2A|num" count="1" codified:doc="D.C. Code" codified:path="7|2B" codified:citation="Chapter 2B of Title 7" codified:display="Amend">
     <find>2A</find>
     <replace>2B</replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§4-209.04" count="2" codified:doc="D.C. Code" codified:path="§4-209.04" codified:citation="§ 4-209.04" codified:instruction="Amend">
+  <codify:find-replace doc="D.C. Code" path="§4-209.04" count="2" codified:doc="D.C. Code" codified:path="§4-209.04" codified:citation="§ 4-209.04" codified:display="Amend">
     <find>
       <cite path="7|2A">Chapter 2A of Title 7</cite>
     </find>
@@ -51,7 +39,7 @@
       <cite path="7|2B">Chapter 2B of Title 7</cite>
     </replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§4-1303.06" count="1" codified:doc="D.C. Code" codified:path="§4-1303.06" codified:citation="§ 4-1303.06" codified:instruction="Amend">
+  <codify:find-replace doc="D.C. Code" path="§4-1303.06" count="1" codified:doc="D.C. Code" codified:path="§4-1303.06" codified:citation="§ 4-1303.06" codified:display="Amend">
     <find>
       <cite path="7|2A">Chapter 2A of Title 7</cite>
     </find>
@@ -59,7 +47,7 @@
       <cite path="7|2B">Chapter 2B of Title 7</cite>
     </replace>
   </codify:find-replace>
-  <codify:insert doc="D.C. Code" path="7" after="2" history="false" codified:doc="D.C. Code" codified:path="7|2A" codified:citation="Chapter 2A of Title 7" codified:instruction="New">
+  <codify:insert doc="D.C. Code" path="7" after="2" history="false" codified:doc="D.C. Code" codified:path="7|2A" codified:citation="Chapter 2A of Title 7" codified:display="New">
     <container>
       <prefix>Chapter</prefix>
       <num>2A</num>
@@ -71,7 +59,7 @@
     <num>I</num>
     <heading>VITAL RECORDS</heading>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.01" codified:doc="D.C. Code" codified:path="§7-231.01" codified:citation="§ 7-231.01" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.01" codified:doc="D.C. Code" codified:path="§7-231.01" codified:citation="§ 7-231.01" codified:display="New"/>
       <num>101</num>
       <heading>Definitions.</heading>
       <text>For the purposes of <code-cite doc="D.C. Code" path="7|2A">this act</code-cite>, the term:</text>
@@ -316,7 +304,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.02" codified:doc="D.C. Code" codified:path="§7-231.02" codified:citation="§ 7-231.02" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.02" codified:doc="D.C. Code" codified:path="§7-231.02" codified:citation="§ 7-231.02" codified:display="New"/>
       <num>102</num>
       <heading>Vital statistics system; Vital Records Division.</heading>
       <para>
@@ -329,7 +317,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.03" codified:doc="D.C. Code" codified:path="§7-231.03" codified:citation="§ 7-231.03" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.03" codified:doc="D.C. Code" codified:path="§7-231.03" codified:citation="§ 7-231.03" codified:display="New"/>
       <num>103</num>
       <heading>Appointment and duties of Registrar of Vital Records Division.</heading>
       <para>
@@ -417,7 +405,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.04" codified:doc="D.C. Code" codified:path="§7-231.04" codified:citation="§ 7-231.04" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.04" codified:doc="D.C. Code" codified:path="§7-231.04" codified:citation="§ 7-231.04" codified:display="New"/>
       <num>104</num>
       <heading>Security of vital statistics system.</heading>
       <text>To ensure the security of the vital statistics system, the Registrar shall:</text>
@@ -478,7 +466,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.05" codified:doc="D.C. Code" codified:path="§7-231.05" codified:citation="§ 7-231.05" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.05" codified:doc="D.C. Code" codified:path="§7-231.05" codified:citation="§ 7-231.05" codified:display="New"/>
       <num>105</num>
       <heading>Individuals required to keep records.</heading>
       <para>
@@ -533,7 +521,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.06" codified:doc="D.C. Code" codified:path="§7-231.06" codified:citation="§ 7-231.06" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.06" codified:doc="D.C. Code" codified:path="§7-231.06" codified:citation="§ 7-231.06" codified:display="New"/>
       <num>106</num>
       <heading>Duties to furnish information.</heading>
       <para>
@@ -554,7 +542,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.07" codified:doc="D.C. Code" codified:path="§7-231.07" codified:citation="§ 7-231.07" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.07" codified:doc="D.C. Code" codified:path="§7-231.07" codified:citation="§ 7-231.07" codified:display="New"/>
       <num>107</num>
       <heading>Content of vital records and vital reports.</heading>
       <para>
@@ -567,7 +555,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.08" codified:doc="D.C. Code" codified:path="§7-231.08" codified:citation="§ 7-231.08" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.08" codified:doc="D.C. Code" codified:path="§7-231.08" codified:citation="§ 7-231.08" codified:display="New"/>
       <num>108</num>
       <heading>Live birth registration.</heading>
       <para>
@@ -747,7 +735,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.09" codified:doc="D.C. Code" codified:path="§7-231.09" codified:citation="§ 7-231.09" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.09" codified:doc="D.C. Code" codified:path="§7-231.09" codified:citation="§ 7-231.09" codified:display="New"/>
       <num>109</num>
       <heading>Social Security numbers.</heading>
       <para>
@@ -760,7 +748,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.10" codified:doc="D.C. Code" codified:path="§7-231.10" codified:citation="§ 7-231.10" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.10" codified:doc="D.C. Code" codified:path="§7-231.10" codified:citation="§ 7-231.10" codified:display="New"/>
       <num>110</num>
       <heading>Infants of unknown parentage.</heading>
       <para>
@@ -805,7 +793,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.11" codified:doc="D.C. Code" codified:path="§7-231.11" codified:citation="§ 7-231.11" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.11" codified:doc="D.C. Code" codified:path="§7-231.11" codified:citation="§ 7-231.11" codified:display="New"/>
       <num>111</num>
       <heading>Delayed registration of live birth.</heading>
       <para>
@@ -841,7 +829,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.12" codified:doc="D.C. Code" codified:path="§7-231.12" codified:citation="§ 7-231.12" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.12" codified:doc="D.C. Code" codified:path="§7-231.12" codified:citation="§ 7-231.12" codified:display="New"/>
       <num>112</num>
       <heading>Death registration.</heading>
       <para>
@@ -957,7 +945,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.13" codified:doc="D.C. Code" codified:path="§7-231.13" codified:citation="§ 7-231.13" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.13" codified:doc="D.C. Code" codified:path="§7-231.13" codified:citation="§ 7-231.13" codified:display="New"/>
       <num>113</num>
       <heading>Delayed registration of death.</heading>
       <para>
@@ -970,7 +958,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.14" codified:doc="D.C. Code" codified:path="§7-231.14" codified:citation="§ 7-231.14" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.14" codified:doc="D.C. Code" codified:path="§7-231.14" codified:citation="§ 7-231.14" codified:display="New"/>
       <num>114</num>
       <heading>Fetal death registration.</heading>
       <para>
@@ -1022,7 +1010,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.15" codified:doc="D.C. Code" codified:path="§7-231.15" codified:citation="§ 7-231.15" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.15" codified:doc="D.C. Code" codified:path="§7-231.15" codified:citation="§ 7-231.15" codified:display="New"/>
       <num>115</num>
       <heading>Reports of induced termination of pregnancy.</heading>
       <para>
@@ -1035,7 +1023,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.16" codified:doc="D.C. Code" codified:path="§7-231.16" codified:citation="§ 7-231.16" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.16" codified:doc="D.C. Code" codified:path="§7-231.16" codified:citation="§ 7-231.16" codified:display="New"/>
       <num>116</num>
       <heading>Judicial proceedings to register a vital record.</heading>
       <para>
@@ -1112,7 +1100,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.17" codified:doc="D.C. Code" codified:path="§7-231.17" codified:citation="§ 7-231.17" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.17" codified:doc="D.C. Code" codified:path="§7-231.17" codified:citation="§ 7-231.17" codified:display="New"/>
       <num>117</num>
       <heading>Final disposition of dead body or fetus.</heading>
       <para>
@@ -1177,13 +1165,13 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.18" codified:doc="D.C. Code" codified:path="§7-231.18" codified:citation="§ 7-231.18" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.18" codified:doc="D.C. Code" codified:path="§7-231.18" codified:citation="§ 7-231.18" codified:display="New"/>
       <num>118</num>
       <heading>Marriage, divorce, and annulment reporting.</heading>
       <text>The court shall complete and forward to the Registrar on or before the 20th day of each month in an electronic format prescribed by the Registrar a report of completed applications and licenses for marriage returned to the court during the preceding month, and a record of each divorce or annulment decree granted during the preceding month.</text>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.19" codified:doc="D.C. Code" codified:path="§7-231.19" codified:citation="§ 7-231.19" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.19" codified:doc="D.C. Code" codified:path="§7-231.19" codified:citation="§ 7-231.19" codified:display="New"/>
       <num>119</num>
       <heading>Adoption forms.</heading>
       <para>
@@ -1242,7 +1230,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.20" codified:doc="D.C. Code" codified:path="§7-231.20" codified:citation="§ 7-231.20" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.20" codified:doc="D.C. Code" codified:path="§7-231.20" codified:citation="§ 7-231.20" codified:display="New"/>
       <num>120</num>
       <heading>Amendments and corrections.</heading>
       <para>
@@ -1341,7 +1329,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.21" codified:doc="D.C. Code" codified:path="§7-231.21" codified:citation="§ 7-231.21" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.21" codified:doc="D.C. Code" codified:path="§7-231.21" codified:citation="§ 7-231.21" codified:display="New"/>
       <num>121</num>
       <heading>New records of live birth for adoption and determination of parentage.</heading>
       <para>
@@ -1438,7 +1426,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.22" codified:doc="D.C. Code" codified:path="§7-231.22" codified:citation="§ 7-231.22" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.22" codified:doc="D.C. Code" codified:path="§7-231.22" codified:citation="§ 7-231.22" codified:display="New"/>
       <num>122</num>
       <heading>New records of live birth for change of gender designation.</heading>
       <para>
@@ -1519,7 +1507,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.23" codified:doc="D.C. Code" codified:path="§7-231.23" codified:citation="§ 7-231.23" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.23" codified:doc="D.C. Code" codified:path="§7-231.23" codified:citation="§ 7-231.23" codified:display="New"/>
       <num>123</num>
       <heading>Preservation of vital records.</heading>
       <para>
@@ -1540,7 +1528,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.24" codified:doc="D.C. Code" codified:path="§7-231.24" codified:citation="§ 7-231.24" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.24" codified:doc="D.C. Code" codified:path="§7-231.24" codified:citation="§ 7-231.24" codified:display="New"/>
       <num>124</num>
       <heading>Confidentiality and disclosure of information from vital records or vital reports.</heading>
       <para>
@@ -1730,11 +1718,11 @@
         <num>(n)</num>
         <text>Notwithstanding the provisions of this section, the Registrar shall provide reports of homicides or suicides, as that term is defined in <code-cite doc="D.C. Code" path="§5-1431.02|(e)">section 3042(e) of the Fatality Review Committee Amendment Act of 2018, passed on 2nd reading on June 26, 2018 (Enrolled version of Bill 22-753)</code-cite>, to the <code-cite doc="D.C. Code" path="§5-1431.02">Violence Fatality Review Committee established pursuant to section 3042 of the Fatality Review Committee Amendment Act of 2018, passed on 2nd reading on June 26, 2018 (Enrolled version of Bill 22-753)</code-cite>.</text>
       </para>
-      <codify:annotation doc="D.C. Code" path="§7-231.24" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-231.24" codified:citation="§ 7-231.24" codified:instruction="Note"><cite doc="D.C. Act 22-438" path="§401">Section 401 of D.C. Act 22-438</cite> provided that subsection (n) of this section shall apply as of October 1, 2018.
+      <codify:annotation doc="D.C. Code" path="§7-231.24" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-231.24" codified:citation="§ 7-231.24" codified:display="Note"><cite doc="D.C. Act 22-438" path="§401">Section 401 of D.C. Act 22-438</cite> provided that subsection (n) of this section shall apply as of October 1, 2018.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.25" codified:doc="D.C. Code" codified:path="§7-231.25" codified:citation="§ 7-231.25" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.25" codified:doc="D.C. Code" codified:path="§7-231.25" codified:citation="§ 7-231.25" codified:display="New"/>
       <num>125</num>
       <heading>Certification from the system of vital statistics.</heading>
       <para>
@@ -1857,11 +1845,11 @@
         <num>(r)</num>
         <text>An application and any supporting documentation submitted to obtain a certificate of a vital record shall be confidential and shall not be disclosed except upon the order of the court.</text>
       </para>
-      <codify:annotation doc="D.C. Code" path="§7-231.25" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-231.25" codified:citation="§ 7-231.25" codified:instruction="Note"><cite doc="D.C. Act 22-438" path="§401">Section 401 of D.C. Act 22-438</cite> provided that subsection (c) of this section shall apply as of October 1, 2018.
+      <codify:annotation doc="D.C. Code" path="§7-231.25" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-231.25" codified:citation="§ 7-231.25" codified:display="Note"><cite doc="D.C. Act 22-438" path="§401">Section 401 of D.C. Act 22-438</cite> provided that subsection (c) of this section shall apply as of October 1, 2018.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.26" codified:doc="D.C. Code" codified:path="§7-231.26" codified:citation="§ 7-231.26" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.26" codified:doc="D.C. Code" codified:path="§7-231.26" codified:citation="§ 7-231.26" codified:display="New"/>
       <num>126</num>
       <heading>Fraud or misrepresentation.</heading>
       <para>
@@ -1897,7 +1885,7 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.27" codified:doc="D.C. Code" codified:path="§7-231.27" codified:citation="§ 7-231.27" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.27" codified:doc="D.C. Code" codified:path="§7-231.27" codified:citation="§ 7-231.27" codified:display="New"/>
       <num>127</num>
       <heading>Fees.</heading>
       <para>
@@ -1960,11 +1948,11 @@
           <text>An individual in the custody of the BOP at a halfway house in the District.</text>
         </para>
       </para>
-      <codify:annotation doc="D.C. Code" path="§7-231.27" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-231.27" codified:citation="§ 7-231.27" codified:instruction="Note"><cite doc="D.C. Act 22-438" path="§401">Section 401 of D.C. Act 22-438</cite> provided that subsection (b) of this section shall apply as of October 1, 2018.
+      <codify:annotation doc="D.C. Code" path="§7-231.27" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-231.27" codified:citation="§ 7-231.27" codified:display="Note"><cite doc="D.C. Act 22-438" path="§401">Section 401 of D.C. Act 22-438</cite> provided that subsection (b) of this section shall apply as of October 1, 2018.
       </codify:annotation>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.28" codified:doc="D.C. Code" codified:path="§7-231.28" codified:citation="§ 7-231.28" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.28" codified:doc="D.C. Code" codified:path="§7-231.28" codified:citation="§ 7-231.28" codified:display="New"/>
       <num>128</num>
       <heading>Penalties.</heading>
       <para>
@@ -2037,17 +2025,17 @@
       </para>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.29" codified:doc="D.C. Code" codified:path="§7-231.29" codified:citation="§ 7-231.29" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.29" codified:doc="D.C. Code" codified:path="§7-231.29" codified:citation="§ 7-231.29" codified:display="New"/>
       <num>129</num>
       <heading>Rules.</heading>
       <text>The Registrar, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, shall issue rules to implement the provisions of <code-cite doc="D.C. Code" path="7|2A">this act</code-cite>.</text>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.30" codified:doc="D.C. Code" codified:path="§7-231.30" codified:citation="§ 7-231.30" codified:instruction="New"/>
+      <codify:insert doc="D.C. Code" path="7|2A" num-value="7-231.30" codified:doc="D.C. Code" codified:path="§7-231.30" codified:citation="§ 7-231.30" codified:display="New"/>
       <num>130</num>
       <heading>Repealer; savings clause.</heading>
       <text><code-cite doc="D.C. Code" path="7|2">The Vital Records Act of 1981, effective October 8, 1981 (D.C. Law 4-34; D.C. Official Code § 7-201 <em>et seq.</em>)("Act")</code-cite>, is repealed. The existing rules implementing <code-cite doc="D.C. Code" path="7|2">the Act</code-cite> shall remain in effect until superseded by rules promulgated under <code-cite doc="D.C. Code" path="7|2A">the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)</code-cite>.</text>
-      <codify:repeal doc="D.C. Code" path="7|2" codified:doc="D.C. Code" codified:path="§7-201" codified:citation="§ 7-201" codified:instruction="Repeal"/>
+      <codify:repeal doc="D.C. Code" path="7|2" codified:doc="D.C. Code" codified:path="§7-201" codified:citation="§ 7-201" codified:display="Repeal"/>
     </section>
   </container>
   <container>
@@ -2059,7 +2047,7 @@
       <text>Section 204(d) of the District of Columbia Administrative Procedure Act of 1976, effective March 25, 1977 (D.C. Law 1-96; D.C. Official Code § 2-534(d)), is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace doc="D.C. Code" path="§2-534|(d)" codified:doc="D.C. Code" codified:path="§2-534|(d)" codified:citation="§ 2-534" codified:instruction="Amend"/>
+          <codify:replace doc="D.C. Code" path="§2-534|(d)" codified:doc="D.C. Code" codified:path="§2-534|(d)" codified:citation="§ 2-534" codified:display="Amend"/>
           <num>(d)</num>
           <text>The provisions of <code-cite doc="D.C. Code" path="2|5|II">this title</code-cite> shall not apply to vital records covered by <code-cite doc="D.C. Code" path="7|2">the Vital Records Act of 1981, effective October 8, 1981 (D.C. Law 434; D.C. Official Code 7-201 <em>et seq.</em>)</code-cite> or <code-cite doc="D.C. Code" path="7|2A">the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)</code-cite>.</text>
         </para>
@@ -2069,7 +2057,7 @@
     <section>
       <num>202</num>
       <text>Section 4606(a)(4) of the Child Fatality Review Committee Establishment Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 4-1371.06(a)(4)), is amended by striking the phrase "section 20 of the Vital Records Act of 1981, effective October 8, 1981 (D.C. Law 4-34; D.C. Official Code § 7-219)" and inserting the phrase "section 124 of the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)" in its place.</text>
-      <codify:find-replace doc="D.C. Code" path="§4-1371.06|(a)|(4)" count="1" codified:doc="D.C. Code" codified:path="§4-1371.06|(a)|(4)" codified:citation="§ 4-1371.06" codified:instruction="Amend">
+      <codify:find-replace doc="D.C. Code" path="§4-1371.06|(a)|(4)" count="1" codified:doc="D.C. Code" codified:path="§4-1371.06|(a)|(4)" codified:citation="§ 4-1371.06" codified:display="Amend">
         <find>
           <cite path="§7-219">7-219</cite>
         </find>
@@ -2084,7 +2072,7 @@
       <para>
         <num>(a)</num>
         <text>Section 16-309(b)(4) is amended by striking the phrase "section 10 of the Vital Records Act of 1981" and inserting the phrase "section 119 of the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)" in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§16-309|(b)|(4)" count="1" codified:doc="D.C. Code" codified:path="§16-309|(b)|(4)" codified:citation="§ 16-309" codified:instruction="Amend">
+        <codify:find-replace doc="D.C. Code" path="§16-309|(b)|(4)" count="1" codified:doc="D.C. Code" codified:path="§16-309|(b)|(4)" codified:citation="§ 16-309" codified:display="Amend">
           <find>section 10 of the Vital Records Act of 1981</find>
           <replace>
             <span codify:value="["/>
@@ -2099,7 +2087,7 @@
         <para codify:path="(a)">
           <num>(1)</num>
           <text>Subsection (a) is amended by striking the phrase "Vital Records Act of 1981" both times it appears and inserting the phrase "the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)" in its place.</text>
-          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§16-314|(a)" codified:citation="§ 16-314" codified:instruction="Amend">
+          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§16-314|(a)" codified:citation="§ 16-314" codified:display="Amend">
             <find>the Vital Records Act of 1981</find>
             <replace>
               <code-cite doc="D.C. Code" path="7|2A">the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)</code-cite>
@@ -2109,13 +2097,13 @@
         <para codify:path="(b)">
           <num>(2)</num>
           <text>Subsection (b) is amended by striking the phrase "section 11 of the Vital Records Act of 1981" both times it appears and inserting the phrase "section 121 of the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-314|(b)" codified:citation="§ 16-314" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-314|(b)" codified:citation="§ 16-314" codified:display="Amend">
             <find>section 11 of the Vital Records Act of 1981</find>
             <replace>
               <cite-cite doc="D.C. Code" path="§7-231.21">section 121 of the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)</cite-cite>
             </replace>
           </codify:find-replace>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-314|(b)" codified:citation="§ 16-314" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-314|(b)" codified:citation="§ 16-314" codified:display="Amend">
             <find>the Vital Records Act of 1981</find>
             <replace>
               <code-cite doc="D.C. Code" path="7|2A">the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)</code-cite>
@@ -2125,7 +2113,7 @@
         <para codify:path="(c-1)">
           <num>(3)</num>
           <text>Subsection (c-1) is amended by striking the phrase "section 11 of the Vital Records Act of 1981" and inserting the phrase "section 121 of the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-314|(c-1)" codified:citation="§ 16-314" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-314|(c-1)" codified:citation="§ 16-314" codified:display="Amend">
             <find>section 11 of the Vital Records Act of 1981</find>
             <replace>
               <code-cite doc="D.C. Code" path="§7-231.21">section 121 of the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)</code-cite>
@@ -2136,7 +2124,7 @@
       <para codify:doc="D.C. Code" codify:path="§16-1054|(a)|(4)">
         <num>(c)</num>
         <text>Section 16-1054(a)(4) is amended by striking the phrase "7-219" and inserting the phrase "section 124 of the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-1054|(a)|(4)" codified:citation="§ 16-1054" codified:instruction="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-1054|(a)|(4)" codified:citation="§ 16-1054" codified:display="Amend">
           <find>
             <cite path="§7-219">7-219</cite>
           </find>
@@ -2148,7 +2136,7 @@
       <para codify:doc="D.C. Code" codify:path="§16-2345|(a)">
         <num>(d)</num>
         <text>Section 16-2345(a) is amended by striking the phrase "pursuant to section 16-909(e)(1)(A) and section 7-205(e)(3A))" and inserting the phrase "pursuant to section 16-909(e)(1)(A) and section 108(l)(6) of the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2345|(a)" codified:citation="§ 16-2345" codified:instruction="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2345|(a)" codified:citation="§ 16-2345" codified:display="Amend">
           <find>pursuant to <cite path="§16-909|(e)|(1)|(A)">§ 16-909(e)(1)(A)</cite> and <cite path="§7-205|(e)|(3A)">§ 7-205(e)(3A)</cite></find>
           <replace>pursuant to <span codify:value="sections">section</span> <cite doc="D.C. Code" path="§16-909|(e)|(1)|(A)" codify:value="[16-909(e)(1)(A)]">16-909(e)(1)(A)</cite> and <code-cite doc="D.C. Code" path="§7-231.08|(l)|(6)" codify:value="[7-231.08(l)(6)]">section 108(l)(6) of the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)</code-cite></replace>
         </codify:find-replace>
@@ -2156,7 +2144,7 @@
       <para codify:doc="D.C. Code" codify:path="§16-2503">
         <num>(e)</num>
         <text>Section 16-2503 is amended by striking the phrase "as described in section 7-210.01(a)(2)" both times it appears and inserting the phrase "as described in section 122(a)(2) of the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)" in its place.</text>
-        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§16-2503" codified:citation="§ 16-2503" codified:instruction="Amend">
+        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§16-2503" codified:citation="§ 16-2503" codified:display="Amend">
           <find>as described in <cite path="§7-210.01|(a)|(2)">§ 7-210.01(a)(2)</cite></find>
           <replace>as described in <code-cite doc="D.C. Code" path="§7-231.22|(a)|(2)">section 122(a)(2) of the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250)</code-cite></replace>
         </codify:find-replace>
@@ -2173,7 +2161,7 @@
       <para codify:path="(a)">
         <num>(a)</num>
         <text>Subsection (a) is amended by striking the number "3" and inserting the number "5" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1202.02|(a)" codified:citation="§ 3-1202.02" codified:instruction="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1202.02|(a)" codified:citation="§ 3-1202.02" codified:display="Amend">
           <find>3</find>
           <replace>5</replace>
         </codify:find-replace>
@@ -2183,7 +2171,7 @@
         <text>Subsection (c) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§3-1202.02|(c)" codified:citation="§ 3-1202.02" codified:instruction="Amend"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§3-1202.02|(c)" codified:citation="§ 3-1202.02" codified:display="Amend"/>
             <num>(c)</num>
             <text>Of the members of the Board, 4 shall be licensed dieticians or licensed nutritionists and one shall be a consumer member who is not licensed as a dietician or nutritionist.</text>
           </para>
@@ -2199,7 +2187,7 @@
         <text>Paragraph (1)(D) is amended to read as follows:</text>
         <include lvl="2">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§8-1808|(j)|(1)|(D)" codified:citation="§ 8-1808" codified:instruction="Amend"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§8-1808|(j)|(1)|(D)" codified:citation="§ 8-1808" codified:display="Amend"/>
             <num>(D)</num>
             <text>Captive-bred species of common cage birds, including chickens;</text>
           </para>
@@ -2211,7 +2199,7 @@
         <text>A new paragraph (5) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§8-1808|(j)|(5)" codified:citation="§ 8-1808" codified:instruction="Amend"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§8-1808|(j)|(5)" codified:citation="§ 8-1808" codified:display="Amend"/>
             <num>(5)</num>
             <text>The Mayor shall allow goats and sheep to be temporarily imported into the District and possessed for the purposes of eating grass, milking and shearing demonstrations, participating in yoga or similar activities, being on display in temporary pettings zoos for the enjoyment and education of District youth, and any other activities approved by the Department of Health through regulation. The Department of Health may issue rules to protect the safety of the goats and sheep.</text>
           </para>
@@ -2228,7 +2216,7 @@
         <para codify:path="text">
           <num>(1)</num>
           <text>The lead-in language is amended by striking the phrase "for women for contraceptives, including over-the-counter contraceptives and contraceptives prescribed and dispensed by a pharmacist" and inserting the phrase "for women for contraceptive drugs, devices, products, and services, including those obtained over-the-counter and those prescribed and dispensed by a pharmacist" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.02|(b)" codified:citation="§ 31-3834.02" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.02|(b)" codified:citation="§ 31-3834.02" codified:display="Amend">
             <find>for women for contraceptives, including over-the-counter contraceptives and contraceptives prescribed and dispensed by a pharmacist</find>
             <replace>for women for contraceptive drugs, devices, products, and services, including those obtained over-the-counter and those prescribed and dispensed by a pharmacist</replace>
           </codify:find-replace>
@@ -2236,7 +2224,7 @@
         <para codify:path="(2)">
           <num>(2)</num>
           <text>Paragraph (2) is amended by striking the phrase "Any additional contraceptive drug products" and inserting the phrase "Any additional contraceptive drugs, devices, products and services" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.02|(b)|(2)" codified:citation="§ 31-3834.02" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.02|(b)|(2)" codified:citation="§ 31-3834.02" codified:display="Amend">
             <find>Any additional contraceptive drug products</find>
             <replace>Any additional contraceptive drugs, devices, products and services</replace>
           </codify:find-replace>
@@ -2254,7 +2242,7 @@
             <para codify:path="(A)">
               <num>(i)</num>
               <text>Subparagraph (A) is amended by striking the phrase "contraceptive products" and inserting the phrase "contraceptive drugs, devices, products and services" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(2)|(A)" codified:citation="§ 31-3834.03" codified:instruction="Amend">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(2)|(A)" codified:citation="§ 31-3834.03" codified:display="Amend">
                 <find>contraceptive products</find>
                 <replace>contraceptive drugs, devices, products and services</replace>
               </codify:find-replace>
@@ -2262,7 +2250,7 @@
             <para codify:path="(B)">
               <num>(ii)</num>
               <text>Subparagraph (B) is amended by striking the phrase "contraceptive drug, device, or product" both times it appears and inserting the phrase "contraceptive drug, device, product, or service" in its place.</text>
-              <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(2)|(B)" codified:citation="§ 31-3834.03" codified:instruction="Amend">
+              <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(2)|(B)" codified:citation="§ 31-3834.03" codified:display="Amend">
                 <find>contraceptive drug, device, or product</find>
                 <replace>contraceptive drug, device, product, or service</replace>
               </codify:find-replace>
@@ -2270,7 +2258,7 @@
             <para codify:path="(C)">
               <num>(iii)</num>
               <text>Subparagraph (C) is amended by striking the phrase "contraceptive drug, device, or product" both times it appears and inserting the phrase "contraceptive drug, device, product, or service" in its place.</text>
-              <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(2)|(C)" codified:citation="§ 31-3834.03" codified:instruction="Amend">
+              <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(2)|(C)" codified:citation="§ 31-3834.03" codified:display="Amend">
                 <find>contraceptive drug, device, or product</find>
                 <replace>contraceptive drug, device, product, or service</replace>
               </codify:find-replace>
@@ -2281,7 +2269,7 @@
               <para codify:path="text">
                 <num>(I)</num>
                 <text>The lead-in language is amended by striking the phrase "contraceptive services" and inserting the phrase "contraceptive drugs, devices, products, or services" in its place.</text>
-                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(2)|(D)" codified:citation="§ 31-3834.03" codified:instruction="Amend">
+                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(2)|(D)" codified:citation="§ 31-3834.03" codified:display="Amend">
                   <find>contraceptive services</find>
                   <replace>contraceptive drugs, devices, products, or services</replace>
                 </codify:find-replace>
@@ -2289,7 +2277,7 @@
               <para codify:path="(i)">
                 <num>(II)</num>
                 <text>Sub-subparagraph (i) is amended by striking the phrase "contraceptive drug" and inserting the phrase "contraceptive drug, device, product, or service" in its place.</text>
-                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(2)|(D)|(i)" codified:citation="§ 31-3834.03" codified:instruction="Amend">
+                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(2)|(D)|(i)" codified:citation="§ 31-3834.03" codified:display="Amend">
                   <find>contraceptive drug</find>
                   <replace>contraceptive drug, device, product, or service</replace>
                 </codify:find-replace>
@@ -2297,7 +2285,7 @@
               <para codify:path="(ii)">
                 <num>(III)</num>
                 <text>Sub-subparagraph (ii) is amended by striking the phrase "contraceptive drug" and inserting the phrase "contraceptive drug, device, product, or service" in its place.</text>
-                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(2)|(D)|(ii)" codified:citation="§ 31-3834.03" codified:instruction="Amend">
+                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(2)|(D)|(ii)" codified:citation="§ 31-3834.03" codified:display="Amend">
                   <find>contraceptive drug</find>
                   <replace>contraceptive drug, device, product, or service</replace>
                 </codify:find-replace>
@@ -2307,7 +2295,7 @@
           <para codify:path="(3)">
             <num>(B)</num>
             <text>Paragraph (3) is amended by striking the phrase "contraception" and inserting the phrase "contraceptive drugs, devices, products, or services" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(3)" codified:citation="§ 31-3834.03" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(3)" codified:citation="§ 31-3834.03" codified:display="Amend">
               <find>contraception</find>
               <replace>contraceptive drugs, devices, products, or services</replace>
             </codify:find-replace>
@@ -2315,7 +2303,7 @@
           <para codify:path="(4)">
             <num>(C)</num>
             <text>Paragraph (4) is amended by striking the phrase "procedures" and inserting the phrase "services" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(4)" codified:citation="§ 31-3834.03" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.03|(a)|(4)" codified:citation="§ 31-3834.03" codified:display="Amend">
               <find>procedures</find>
               <replace>services</replace>
             </codify:find-replace>
@@ -2326,7 +2314,7 @@
           <text>Subsection (b) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§31-3834.03|(b)" codified:citation="§ 31-3834.03" codified:instruction="Amend"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§31-3834.03|(b)" codified:citation="§ 31-3834.03" codified:display="Amend"/>
               <num>(b)</num>
               <text>Beginning on January 1, 2019, or the next date when carrier forms are approved, whichever is earlier, an individual health plan or group health plan shall also provide coverage for and shall not impose any cost-sharing requirements for all drugs, devices, products, and services listed in subsection (a) of this section; provided, that an individual health plan or group health plan subject to this subsection may require a co-payment or cost sharing for coverage of male contraceptive products for an enrollee covered by a high deductible health plan, as defined in section 1201(a) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, approved December 8, 2003 (117 Stat. 2066; 26 U.S.C. § 223(c)(2)).</text>
             </para>
@@ -2343,7 +2331,7 @@
           <para codify:path="(1)">
             <num>(A)</num>
             <text>Paragraph (1) is amended by striking the phrase "may be exempt from any requirement to cover contraceptive products and services under section 5a and section 5b" and inserting the phrase "may be exempt from any requirement to cover contraceptive drugs, devices, products, and services under sections 5a, 5b, and 5c" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(a)|(1)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(a)|(1)" codified:citation="§ 31-3834.04" codified:display="Amend">
               <find>may be exempt from any requirement to cover contraceptive products and services under <code-cite doc="D.C. Code" path="§31-3834.01">section 5a</code-cite> and <code-cite doc="D.C. Code" path="§31-3834.02">section 5b</code-cite></find>
               <replace>may be exempt from any requirement to cover contraceptive drugs, devices, products, and services under §§ <code-cite doc="D.C. Code" path="§31-3834.01" codify:value="31-3834.01">sections 5a</code-cite>, <code-cite doc="D.C. Code" path="§31-3834.02" codify:value="31-3834.02">5b</code-cite>, and <code-cite doc="D.C. Code" path="§31-3834.03" codify:value="31-3834.03">5c</code-cite></replace>
             </codify:find-replace>
@@ -2351,7 +2339,7 @@
           <para codify:path="(2)">
             <num>(B)</num>
             <text>Paragraph (2) is amended by striking the phrase "contraceptive products and services" and inserting the phrase "contraceptive drugs, devices, products, and services" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(a)|(2)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(a)|(2)" codified:citation="§ 31-3834.04" codified:display="Amend">
               <find>contraceptive products and services</find>
               <replace>contraceptive drugs, devices, products, and services</replace>
             </codify:find-replace>
@@ -2362,7 +2350,7 @@
             <para>
               <num>(i)</num>
               <text>Strike the phrase "contraceptive supplies" and insert the phrase "contraceptive drugs, devices, products, and service" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(a)|(3)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(a)|(3)" codified:citation="§ 31-3834.04" codified:display="Amend">
                 <find>contraceptive supplies</find>
                 <replace>contraceptive drugs, devices, products, and service</replace>
               </codify:find-replace>
@@ -2370,7 +2358,7 @@
             <para>
               <num>(ii)</num>
               <text>Strike the phrase "contraception that is" and insert the phrase "contraceptive drugs, devices, products, and services that are" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(a)|(3)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(a)|(3)" codified:citation="§ 31-3834.04" codified:display="Amend">
                 <find>contraception that is</find>
                 <replace>contraceptive drugs, devices, products, and services that are</replace>
               </codify:find-replace>
@@ -2383,7 +2371,7 @@
           <para codify:path="(1)">
             <num>(A)</num>
             <text>Paragraph (1) is amended by striking the phrase "contraceptive products or services" and inserting the phrase "contraceptive drugs, devices, products, and services" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(b)|(1)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(b)|(1)" codified:citation="§ 31-3834.04" codified:display="Amend">
               <find>contraceptive products or services</find>
               <replace>contraceptive drugs, devices, products, and services</replace>
             </codify:find-replace>
@@ -2394,7 +2382,7 @@
             <para>
               <num>(i)</num>
               <text>Strike the phrase "contraceptive supplies" and insert the phrase "contraceptive drugs, devices, products, and services" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(b)|(3)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(b)|(3)" codified:citation="§ 31-3834.04" codified:display="Amend">
                 <find>contraceptive supplies</find>
                 <replace>contraceptive drugs, devices, products, and services</replace>
               </codify:find-replace>
@@ -2402,7 +2390,7 @@
             <para>
               <num>(ii)</num>
               <text>Strike the phrase "contraception that is" and insert the phrase "contraceptive drugs, devices, products, and services that are" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(b)|(3)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(b)|(3)" codified:citation="§ 31-3834.04" codified:display="Amend">
                 <find>contraception that is</find>
                 <replace>contraceptive drugs, devices, products, and services that are</replace>
               </codify:find-replace>
@@ -2415,7 +2403,7 @@
           <para codify:path="text">
             <num>(A)</num>
             <text>The lead-in language is amended by striking the phrase "section 5a or 5b" and inserting the phrase "sections 5a, 5b, or 5c" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(c)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(c)" codified:citation="§ 31-3834.04" codified:display="Amend">
               <find><code-cite doc="D.C. Code" path="§31-3834.01">section 5a</code-cite> or <code-cite doc="D.C. Code" path="§31-3834.02">section 5b</code-cite></find>
               <replace><code-cite doc="D.C. Code" path="§31-3834.01">section 5a</code-cite>, <code-cite doc="D.C. Code" path="§31-3834.02">section 5b</code-cite>, or <code-cite doc="D.C. Code" path="§31-3834.03">section 5c</code-cite></replace>
             </codify:find-replace>
@@ -2423,7 +2411,7 @@
           <para codify:path="(1)">
             <num>(B)</num>
             <text>Paragraph (1) is amended by striking the phrase "contraceptive services" and inserting the phrase "contraceptive drugs, devices, products, or services" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(c)|(1)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(c)|(1)" codified:citation="§ 31-3834.04" codified:display="Amend">
               <find>contraceptive services</find>
               <replace>contraceptive drugs, devices, products, or services</replace>
             </codify:find-replace>
@@ -2431,7 +2419,7 @@
           <para codify:path="(2)">
             <num>(C)</num>
             <text>Paragraph (2) is amended by striking the phrase "contraceptive services" and inserting the phrase "contraceptive drugs, devices, products, or services" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(c)|(2)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(c)|(2)" codified:citation="§ 31-3834.04" codified:display="Amend">
               <find>contraceptive services</find>
               <replace>contraceptive drugs, devices, products, or services</replace>
             </codify:find-replace>
@@ -2443,7 +2431,7 @@
           <para codify:path="(1)">
             <num>(A)</num>
             <text>Paragraph (1) is amended by striking the phrase "contraceptive" and inserting the phrase "contraceptive drugs, devices, products, or services" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(d)|(1)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(d)|(1)" codified:citation="§ 31-3834.04" codified:display="Amend">
               <find>contraceptive</find>
               <replace>contraceptive drugs, devices, products, or services</replace>
             </codify:find-replace>
@@ -2454,7 +2442,7 @@
             <para>
               <num>(i)</num>
               <text>Strike the phrase "contraceptive products or services" and insert the phrase "contraceptive drugs, devices, products, or services" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(d)|(2)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(d)|(2)" codified:citation="§ 31-3834.04" codified:display="Amend">
                 <find>contraceptive products or services</find>
                 <replace>contraceptive drugs, devices, products, or services</replace>
               </codify:find-replace>
@@ -2462,7 +2450,7 @@
             <para>
               <num>(ii)</num>
               <text>Strike the phrase "sections 5a and 5b" and insert the phrase "5a, 5b, or 5c" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(d)|(2)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(d)|(2)" codified:citation="§ 31-3834.04" codified:display="Amend">
                 <find>§§ <code-cite doc="D.C. Code" path="§31-3834.01" codify:value="31-3834.01">sections 5a</code-cite> and <code-cite doc="D.C. Code" path="§31-3834.02" codify:value="31-3834.02">5b</code-cite></find>
                 <replace><code-cite doc="D.C. Code" path="§31-3834.01">section 5a</code-cite>, <code-cite doc="D.C. Code" path="§31-3834.02">section 5b</code-cite>, or <code-cite doc="D.C. Code" path="§31-3834.03">section 5c</code-cite></replace>
               </codify:find-replace>
@@ -2470,7 +2458,7 @@
             <para>
               <num>(iii)</num>
               <text>Strike the phrase "of beneficiaries" and insert the phrase "or beneficiaries" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(d)|(2)" codified:citation="§ 31-3834.04" codified:instruction="Amend">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.04|(d)|(2)" codified:citation="§ 31-3834.04" codified:display="Amend">
                 <find>of beneficiaries</find>
                 <replace>of beneficiaries</replace>
               </codify:find-replace>
@@ -2487,7 +2475,7 @@
           <para codify:path="text">
             <num>(A)</num>
             <text>The lead-in language is amended by striking the phrase "section 5a or section 5b" and inserting the phrase "sections 5a, 5b, or 5c" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.05|(a)" codified:citation="§ 31-3834.05" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.05|(a)" codified:citation="§ 31-3834.05" codified:display="Amend">
               <find><code-cite doc="D.C. Code" path="§31-3834.01">section 5a</code-cite> or <code-cite doc="D.C. Code" path="§31-3834.02">section 5b</code-cite></find>
               <replace><code-cite doc="D.C. Code" path="§31-3834.01">section 5a</code-cite>, <code-cite doc="D.C. Code" path="§31-3834.02">section 5b</code-cite>, or <code-cite doc="D.C. Code" path="§31-3834.03">section 5c</code-cite></replace>
             </codify:find-replace>
@@ -2495,7 +2483,7 @@
           <para codify:path="(1)">
             <num>(B)</num>
             <text>Paragraph (1) is amended by striking the phrase "contraceptive services" and inserting the phrase "contraceptive drugs, devices, products, and services" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.05|(a)|(1)" codified:citation="§ 31-3834.05" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.05|(a)|(1)" codified:citation="§ 31-3834.05" codified:display="Amend">
               <find>contraceptive services</find>
               <replace>contraceptive drugs, devices, products, and services</replace>
             </codify:find-replace>
@@ -2503,7 +2491,7 @@
           <para codify:path="(2)">
             <num>(C)</num>
             <text>Paragraph (2) is amended by striking the phrase "services, drugs, devices, products, and procedures described in sections 5a and 5b" and inserting the phrase "drugs, devices, products, and services described in sections 5a, 5b, and 5c" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.05|(a)|(2)" codified:citation="§ 31-3834.05" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.05|(a)|(2)" codified:citation="§ 31-3834.05" codified:display="Amend">
               <find>services, drugs, devices, products, and procedures described in §§ <code-cite doc="D.C. Code" path="§31-3834.01" codify:value="31-3834.01">sections 5a</code-cite> and <code-cite doc="D.C. Code" path="§31-3834.02" codify:value="31-3834.02">5b</code-cite></find>
               <replace>drugs, devices, products, and services described in §§ <code-cite doc="D.C. Code" path="§31-3834.01" codify:value="31-3834.01">sections 5a</code-cite>, <code-cite doc="D.C. Code" path="§31-3834.02" codify:value="31-3834.02">5b</code-cite>, and <code-cite doc="D.C. Code" path="§31-3834.03" codify:value="31-3834.03">5c</code-cite></replace>
             </codify:find-replace>
@@ -2511,7 +2499,7 @@
           <para codify:path="(3)">
             <num>(D)</num>
             <text>Paragraph (3) is amended by striking the phrase "contraception" and inserting the phrase "self-administered hormonal contraceptives" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.05|(a)|(3)" codified:citation="§ 31-3834.05" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.05|(a)|(3)" codified:citation="§ 31-3834.05" codified:display="Amend">
               <find>contraception</find>
               <replace>self-administered hormonal contraceptives</replace>
             </codify:find-replace>
@@ -2520,7 +2508,7 @@
         <para codify:path="(c)">
           <num>(2)</num>
           <text>Subsection (c) is amended by striking the phrase "services, drugs, devices, products, and procedures described in sections 5a and 5b" and inserting the phrase "drugs, devices, products, and services described in sections 5a, 5b, and 5c" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.05|(c)" codified:citation="§ 31-3834.05" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§31-3834.05|(c)" codified:citation="§ 31-3834.05" codified:display="Amend">
             <find>services, drugs, devices, products, and procedures described in §§ <code-cite doc="D.C. Code" path="§31-3834.01" codify:value="31-3834.01">sections 5a</code-cite> and <code-cite doc="D.C. Code" path="§31-3834.02" codify:value="31-3834.02">5b</code-cite></find>
             <replace>drugs, devices, products, and services described in §§ <code-cite doc="D.C. Code" path="§31-3834.01" codify:value="31-3834.01">sections 5a</code-cite>, <code-cite doc="D.C. Code" path="§31-3834.02" codify:value="31-3834.02">5b</code-cite>, and <code-cite doc="D.C. Code" path="§31-3834.03" codify:value="31-3834.03">5c</code-cite></replace>
           </codify:find-replace>
@@ -2533,14 +2521,14 @@
       <para codify:path="(c)">
         <num>(a)</num>
         <text>Subsection (c) is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§38-621|(c)" codified:citation="§ 38-621" codified:instruction="Amend"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§38-621|(c)" codified:citation="§ 38-621" codified:display="Amend"/>
       </para>
       <para>
         <num>(b)</num>
         <text>A new subsection (c-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§38-621|(c-1)" codified:citation="§ 38-621" codified:instruction="Amend"/>
+            <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§38-621|(c-1)" codified:citation="§ 38-621" codified:display="Amend"/>
             <num>(c-1)</num>
             <text>Any school that, on October 25, 2016, received school nursing services pursuant to this section that exceeded the hours per week prescribed by subsection (b) of this section shall continue the level of service existing on that date, or the level recommended by the Department of Health's risk-based assessment, whichever is greater, for school year 2018-2019.</text>
           </para>

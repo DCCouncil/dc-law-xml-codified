@@ -23,7 +23,7 @@
   <section>
     <num>2</num>
     <text>Section 47-4640(d) of the District of Columbia Official Code is amended by striking the phrase "Owner agreeing to provide no less than 50 affordable housing units and" and inserting the phrase "Owner agreeing to provide no fewer than 50 affordable housing units on the Center Leg Freeway (Interstate 395) PILOT Area if the Center Leg Freeway (Interstate 395) PILOT Area is ever developed for residential use and" in its place.</text>
-    <codify:find-replace doc="D.C. Code" path="§47-4640|(d)" count="1" codified:doc="D.C. Code" codified:path="§47-4640|(d)" codified:citation="§ 47-4640" codified:instruction="Amend">
+    <codify:find-replace doc="D.C. Code" path="§47-4640|(d)" count="1" codified:doc="D.C. Code" codified:path="§47-4640|(d)" codified:citation="§ 47-4640" codified:display="Amend">
       <find>Owner agreeing to provide no less than 50 affordable housing units and</find>
       <replace>Owner agreeing to provide no fewer than 50 affordable housing units on the Center Leg Freeway (Interstate 395) PILOT Area if the Center Leg Freeway (Interstate 395) PILOT Area is ever developed for residential use and</replace>
     </codify:find-replace>
@@ -57,7 +57,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:annotation doc="D.C. Code" path="§47-4640" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§47-4640" codified:citation="§ 47-4640" codified:instruction="Note">
+    <codify:annotation doc="D.C. Code" path="§47-4640" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§47-4640" codified:citation="§ 47-4640" codified:display="Note">
       For amendment to section 3(a)(2) of the Redevelopment of the Center Leg Freeway (Interstate 395) Act of 2010 (D.C. Law 18-257), see <cite doc="D.C. Act 22-440" path="§3">section 3 of D.C. Act 22-440</cite>.
     </codify:annotation>
   </section>

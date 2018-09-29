@@ -360,7 +360,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno applicability-path="§5" action="except for §2(5),any change made to"/>
+      <codify:not-funded-anno applicability-path="§5" action="except for §2(5),any change made to" codified:doc="D.C. Code" codified:path="§1-1001.07" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -378,7 +378,7 @@
       <find>30</find>
       <replace>21</replace>
     </codify:find-replace>
-    <codify:not-funded-anno doc="D.C. Code" path="§1-1061.06" applicability-path="§5"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§1-1061.06" applicability-path="§5" codified:doc="D.C. Code" codified:path="§1-1061.06" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>
@@ -440,7 +440,7 @@
     </include>
     <aftertext>.</aftertext>
     <annotation type="History" doc="Stat. 68-2-ch443" path="§7b">Mar. 3, 1925, 43 Stat. 1121, ch. 443, § 7b</annotation>
-    <codify:not-funded-anno doc="D.C. Code" path="§50-1401.01c" applicability-path="§5" action="creation of"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§50-1401.01c" applicability-path="§5" action="creation of" codified:doc="D.C. Code" codified:path="§50-1401.01c" codified:display="Note"/>
   </section>
   <section>
     <num>5</num>

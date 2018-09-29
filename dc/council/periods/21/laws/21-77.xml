@@ -60,7 +60,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno applicability-path="§4"/>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§38-651.01" codified:display="Note"/>
     </para>
     <para codify:path="§4|(a)|(1)|(B)">
       <num>(b)</num>
@@ -69,7 +69,7 @@
         <find>responsible person</find>
         <replace>responsible person, or, if the student is 18 years of age or older, another adult suitable to serve as an emergency contact</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§4"/>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§38-651.03|(a)|(1)|(B)" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -163,7 +163,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno path="§5a" applicability-path="§4"/>
+      <codify:not-funded-anno path="§5a" applicability-path="§4" codified:doc="D.C. Code" codified:path="§38-651.04a" codified:display="Note"/>
     </para>
     <para codify:path="§7|(d)">
       <num>(d)</num>
@@ -172,7 +172,7 @@
         <find>a minor</find>
         <replace>the</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§4"/>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§38-651.06|(d)" codified:display="Note"/>
     </para>
     <para codify:path="§10|(a)">
       <num>(e)</num>
@@ -193,7 +193,7 @@
           <replace/>
         </codify:find-replace>
       </para>
-      <codify:not-funded-anno applicability-path="§4"/>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§38-651.09|(a)" codified:display="Note"/>
     </para>
     <para codify:path="§12">
       <num>(f)</num>
@@ -202,7 +202,7 @@
         <find>The District, a school, or an employee or agent of a school</find>
         <replace>The District, a school, an employee or agent of a school, or the practicing physician, physician assistant, or advanced practice nurse who has issued the standing order pursuant to <code-cite>this act</code-cite></replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§4"/>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§38-651.11" codified:display="Note"/>
     </para>
     <para codify:path="§13">
       <num>(g)</num>
@@ -215,7 +215,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno applicability-path="§4"/>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§38-651.12" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -228,7 +228,7 @@
         <find>of the person for whom</find>
         <replace>of the person for whom or, with respect to auto-injectable epinephrine, the school to which</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§4"/>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§3-1201.02|(11)|(B)|(iii)" codified:display="Note"/>
     </para>
     <para codify:doc="D.C. Law 13-176" codify:path="§3|(b)">
       <num>(b)</num>

@@ -52,7 +52,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno applicability-path="§3"/>
+      <codify:not-funded-anno applicability-path="§3" codified:doc="D.C. Code" codified:path="§50-921.01a" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -133,7 +133,7 @@
       </include>
       <aftertext>.</aftertext>
       <annotation doc="D.C. Law 22-78" type="History" path="§2|(b)">May 21, 2002, D.C. Law 14-137, § 2o [§ 9o]</annotation>
-      <codify:not-funded-anno path="§50-921.23" applicability-path="§3" action="creation of"/>
+      <codify:not-funded-anno path="§50-921.23" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§50-921.23" codified:display="Note"/>
     </para>
   </section>
   <section>

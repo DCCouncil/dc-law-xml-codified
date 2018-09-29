@@ -123,7 +123,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <codify:not-funded-anno applicability-path="§701"/>
+        <codify:not-funded-anno applicability-path="§701" codified:doc="D.C. Code" codified:path="§16-2312|(a)" codified:display="Note"/>
       </para>
       <para codify:doc="D.C. Code" codify:path="§16-2313">
         <num>(e)</num>
@@ -207,7 +207,7 @@
           <text>Subsection (e) is repealed.</text>
           <codify:repeal codified:doc="D.C. Code" codified:path="§16-2313|(e)"/>
         </para>
-        <codify:not-funded-anno applicability-path="§701"/>
+        <codify:not-funded-anno applicability-path="§701" codified:doc="D.C. Code" codified:path="§16-2313" codified:display="Note"/>
       </para>
       <para codify:doc="D.C. Code" codify:path="§16-2320">
         <num>(f)</num>
@@ -238,7 +238,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
-          <codify:not-funded-anno applicability-path="§701"/>
+          <codify:not-funded-anno applicability-path="§701" codified:doc="D.C. Code" codified:path="§16-2320|(d)" codified:display="Note"/>
         </para>
       </para>
       <para codify:doc="D.C. Code" codify:path="§16-2322">
@@ -432,7 +432,7 @@
         <find>appeal;</find>
         <replace>appeal; provided, that after October 1, 2018, if the person is younger than 18 years of age, direct that the person be transferred to the custody of the Department of Youth Rehabilitation Services, subject to the federal standards under 28 C.F.R. § 115.14;</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§701"/>
+      <codify:not-funded-anno applicability-path="§701" codified:doc="D.C. Code" codified:path="§23-1322|(g)|(2)" codified:display="Note"/>
     </section>
   </container>
   <container>
@@ -655,7 +655,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno doc="D.C. Code" path="§1-301.81" applicability-path="§701"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§1-301.81" applicability-path="§701" codified:doc="D.C. Code" codified:path="§1-301.81" codified:display="Note"/>
     </section>
     <section>
       <num>303</num>
@@ -677,7 +677,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§5-113.01" applicability-path="§701"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§5-113.01" applicability-path="§701" codified:doc="D.C. Code" codified:path="§5-113.01" codified:display="Note"/>
     </section>
     <section>
       <num>304</num>
@@ -699,7 +699,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§22-4234" applicability-path="§701"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§22-4234" applicability-path="§701" codified:doc="D.C. Code" codified:path="§22-4234" codified:display="Note"/>
     </section>
     <section codify:doc="D.C. Code" codify:path="§24-211.02|(b)">
       <num>305</num>
@@ -732,7 +732,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno applicability-path="§701"/>
+      <codify:not-funded-anno applicability-path="§701" codified:doc="D.C. Code" codified:path="§24-211.02|(b)" codified:display="Note"/>
     </section>
     <section codify:doc="D.C. Code">
       <num>306</num>
@@ -968,7 +968,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <codify:not-funded-anno applicability-path="§701"/>
+        <codify:not-funded-anno applicability-path="§701" codified:doc="D.C. Code" codified:path="§2-1515.04" codified:display="Note"/>
       </para>
       <para codify:path="|2|15|I-A|A">
         <num>(c)</num>
@@ -1018,7 +1018,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:not-funded-anno doc="D.C. Code" path="§2-1515.04b" applicability-path="§701" action="creation of"/>
+        <codify:not-funded-anno doc="D.C. Code" path="§2-1515.04b" applicability-path="§701" action="creation of" codified:doc="D.C. Code" codified:path="§2-1515.04b" codified:display="Note"/>
       </para>
       <para codify:path="§2-1515.52">
         <num>(d)</num>

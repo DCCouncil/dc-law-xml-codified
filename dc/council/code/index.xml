@@ -3,19 +3,10 @@
   <heading>Code of the District of Columbia</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency>
-      <law>
-        <law>22-160</law>
-        <effective>2018-09-01</effective>
-      </law>
-      <emergency>
-        <law>21-354</law>
-        <effective>2016-03-23</effective>
-      </emergency>
-      <federal>
-        <law></law>
-        <effective>2017-05-05</effective>
-      </federal>
+    <recency through="2018-09-01">
+      <law doc="D.C. Law 22-160">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
+      <emergency doc="D.C. Act 22-435">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
+      <federal doc="Pub. L. 115-31">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
     </recency>
   </meta>
   <subheading>Division I. Government of District.</subheading>

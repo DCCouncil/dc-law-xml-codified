@@ -296,7 +296,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno applicability-path="§4"/>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§7-1671.02|(c)" codified:display="Note"/>
     </para>
     <para codify:path="§7-1671.03">
       <num>(c)</num>
@@ -751,7 +751,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <codify:not-funded-anno applicability-path="§4"/>
+      <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§7-1671.05" codified:display="Note"/>
     </para>
     <para codify:path="§7-1671.06">
       <num>(f)</num>

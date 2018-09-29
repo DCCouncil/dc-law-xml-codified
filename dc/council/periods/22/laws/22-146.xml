@@ -52,7 +52,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§8-1031.01" applicability-path="§4"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§8-1031.01" applicability-path="§4" codified:doc="D.C. Code" codified:path="§8-1031.01" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -136,7 +136,7 @@
             </para>
           </para>
           <annotation doc="D.C. Law 20-154" type="History" path="§112a">Feb. 26, 2015, D.C. Law 20-154, § 112a</annotation>
-          <codify:not-funded-anno doc="D.C. Code" path="§8-1031.12a" applicability-path="§4" action="creation of"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§8-1031.12a" applicability-path="§4" action="creation of" codified:doc="D.C. Code" codified:path="§8-1031.12a" codified:display="Note"/>
         </section>
         <section>
           <codify:insert path="8|10A" after="§8-1031.12a" num-value="8-1031.12b" history-prefix="as added" codified:doc="D.C. Code" codified:path="§8-1031.12b"/>
@@ -155,7 +155,7 @@
             </para>
           </para>
           <annotation doc="D.C. Law 20-154" type="History" path="§112b">Feb. 26, 2015, D.C. Law 20-154, § 112b</annotation>
-          <codify:not-funded-anno doc="D.C. Code" path="§8-1031.12b" applicability-path="§4" action="creation of"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§8-1031.12b" applicability-path="§4" action="creation of" codified:doc="D.C. Code" codified:path="§8-1031.12b" codified:display="Note"/>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -171,7 +171,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno doc="D.C. Code" path="§8-1031.14" applicability-path="§4"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§8-1031.14" applicability-path="§4" codified:doc="D.C. Code" codified:path="§8-1031.14" codified:display="Note"/>
     </para>
   </section>
   <section codify:doc="D.C. Code">

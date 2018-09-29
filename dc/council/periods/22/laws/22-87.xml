@@ -32,7 +32,7 @@
           <codify:insert doc="D.C. Code" path="§1-606.01" after="(l)" codified:doc="D.C. Code" codified:path="§1-606.01|(m)"/>
           <num>(m)</num>
           <text>Hearing examiners employed by the Office of Employee Appeals shall be licensed to practice law in the District of Columbia.</text>
-          <codify:not-funded-anno applicability-path="§3"/>
+          <codify:not-funded-anno applicability-path="§3" codified:doc="D.C. Code" codified:path="§1-606.01" codified:display="Note"/>
         </para>
       </include>
       <aftertext>.</aftertext>
@@ -53,7 +53,7 @@
             <num>(B)</num>
             <text>Notwithstanding subparagraph (A) of this paragraph, a hearing examiner employed by the Office of Employee Appeals.</text>
           </para>
-          <codify:not-funded-anno applicability-path="§3"/>
+          <codify:not-funded-anno applicability-path="§3" codified:doc="D.C. Code" codified:path="§1-608.51|(2)" codified:display="Note"/>
         </para>
       </include>
       <aftertext>.</aftertext>

@@ -26,7 +26,7 @@
     <para>
       <num>(a)</num>
       <text>Section 3(24)(B) (D.C. Official Code § 2-1215.02(24)(B)) is amended by striking the phrase "Capitol Riverfront, and Downtown BIDs," and inserting the phrase "Capitol Riverfront, Downtown, and Golden Triangle BIDs," in its place.</text>
-      <codify:find-replace doc="D.C. Code" path="§2-1215.02|(24)|(B)" count="1" codified:doc="D.C. Code" codified:path="§2-1215.02|(24)|(B)" codified:citation="§ 2-1215.02" codified:instruction="Amend">
+      <codify:find-replace doc="D.C. Code" path="§2-1215.02|(24)|(B)" count="1" codified:doc="D.C. Code" codified:path="§2-1215.02|(24)|(B)" codified:citation="§ 2-1215.02" codified:display="Amend">
         <find>Capitol Riverfront, and Downtown BIDs,</find>
         <replace>Capitol Riverfront, Downtown, and Golden Triangle BIDs,</replace>
       </codify:find-replace>
@@ -34,7 +34,7 @@
     <para>
       <num>(b)</num>
       <text>Section 10b(a)(1) (D.C. Official Code § 2-1215.09b(a)(1)) is amended by striking the phrase "Downtown BID petition to join the Downtown BID;" and inserting the phrase  "Downtown BID or Golden Triangle BID petition to join such BID;" in its place.</text>
-      <codify:find-replace doc="D.C. Code" path="§2-1215.09b|(a)|(1)" count="1" codified:doc="D.C. Code" codified:path="§2-1215.09b|(a)|(1)" codified:citation="§ 2-1215.09b" codified:instruction="Amend">
+      <codify:find-replace doc="D.C. Code" path="§2-1215.09b|(a)|(1)" count="1" codified:doc="D.C. Code" codified:path="§2-1215.09b|(a)|(1)" codified:citation="§ 2-1215.09b" codified:display="Amend">
         <find>Downtown BID petition to join the Downtown BID;</find>
         <replace>Downtown BID or Golden Triangle BID petition to join such BID;</replace>
       </codify:find-replace>
@@ -47,7 +47,7 @@
         <text>Subsection (b) is amended by adding a new paragraph (4) to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§2-1215.52|(b)|(4)" codified:citation="§ 2-1215.52" codified:instruction="Amend"/>
+            <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§2-1215.52|(b)|(4)" codified:citation="§ 2-1215.52" codified:display="Amend"/>
             <num>(4)</num>
             <text>Square 0115, Lots 0064, 0065, 0803, and 0804; Square 0073, Lots 0079, 0883, and 0884; Square 0182, Lot 0084; Square 0166, Lot 0861; and Square 0159, Lot 0087; provided, that Lot 0087 is included in the Golden Triangle BID effective as of October 1, 2019.</text>
           </para>
@@ -60,7 +60,7 @@
         <para codify:path="(A)|(iii)|(II)">
           <num>(A)</num>
           <text>Subparagraph (A)(iii)(II) is amended by striking the word "and".</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.52|(c)|(2)|(A)|(iii)|(II)" codified:citation="§ 2-1215.52" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.52|(c)|(2)|(A)|(iii)|(II)" codified:citation="§ 2-1215.52" codified:display="Amend">
             <find>and</find>
             <replace/>
           </codify:find-replace>
@@ -71,7 +71,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "For tax years 2011 and thereafter:" and insert the phrase "For tax years 2011 through 2018:" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.52|(c)|(2)|(B)" codified:citation="§ 2-1215.52" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1215.52|(c)|(2)|(B)" codified:citation="§ 2-1215.52" codified:display="Amend">
               <find>For tax years 2011 and thereafter:</find>
               <replace>For tax years 2011 through 2018:</replace>
             </codify:find-replace>
@@ -79,7 +79,7 @@
           <para codify:path="(iii)|(II)">
             <num>(ii)</num>
             <text>Sub-subparagraph (iii)(II) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-            <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§2-1215.52|(c)|(2)|(B)|(iii)|(II)" codified:citation="§ 2-1215.52" codified:instruction="Amend">
+            <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§2-1215.52|(c)|(2)|(B)|(iii)|(II)" codified:citation="§ 2-1215.52" codified:display="Amend">
               <find>.</find>
               <replace>; <span codify:value="[  ]"/></replace>
             </codify:find-replace>
@@ -90,7 +90,7 @@
           <text>New subparagraphs (C) and (D) are added to read as follows:</text>
           <include lvl="2">
             <para>
-              <codify:insert after="(B)" codified:doc="D.C. Code" codified:path="§2-1215.52|(c)|(2)|(C)" codified:citation="§ 2-1215.52" codified:instruction="Amend"/>
+              <codify:insert after="(B)" codified:doc="D.C. Code" codified:path="§2-1215.52|(c)|(2)|(C)" codified:citation="§ 2-1215.52" codified:display="Amend"/>
               <num>(C)</num>
               <text>For tax years 2019 and thereafter:</text>
               <para>
@@ -132,7 +132,7 @@
               </para>
             </para>
             <para>
-              <codify:insert after="(C)" codified:doc="D.C. Code" codified:path="§2-1215.52|(c)|(2)|(D)" codified:citation="§ 2-1215.52" codified:instruction="Amend"/>
+              <codify:insert after="(C)" codified:doc="D.C. Code" codified:path="§2-1215.52|(c)|(2)|(D)" codified:citation="§ 2-1215.52" codified:display="Amend"/>
               <num>(D)</num>
               <text>For tax year 2020 and thereafter, a 3% annual increase in the BID taxes over the current year rates specified in this section is authorized, subject to the requirements of <code-cite doc="D.C. Code" path="§2-1215.08|(b)">section 9(b)</code-cite>.</text>
             </para>

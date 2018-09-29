@@ -32,7 +32,7 @@
       <para codify:path="(A)">
         <num>(a)</num>
         <text>Subparagraph (A) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-101.01|(f)|(1)|(A)" codified:citation="§ 24-101.01" codified:instruction="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-101.01|(f)|(1)|(A)" codified:citation="§ 24-101.01" codified:display="Amend">
           <find>; and</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -40,7 +40,7 @@
       <para codify:path="(B)">
         <num>(b)</num>
         <text>Subparagraph (B) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§24-101.01|(f)|(1)|(B)" codified:citation="§ 24-101.01" codified:instruction="Amend">
+        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§24-101.01|(f)|(1)|(B)" codified:citation="§ 24-101.01" codified:display="Amend">
           <find>.</find>
           <replace>; and</replace>
         </codify:find-replace>
@@ -50,7 +50,7 @@
         <text>A new subparagraph (C) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§24-101.01|(f)|(1)|(C)" codified:citation="§ 24-101.01" codified:instruction="Amend"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§24-101.01|(f)|(1)|(C)" codified:citation="§ 24-101.01" codified:display="Amend"/>
             <num>(C)</num>
             <text>A report on the conditions of confinement of and programming provided to District of Columbia youth offenders, as that term is defined in <code-cite doc="D.C. Code" path="§24-901|(6)">section 2(6) of the Youth Rehabilitation Amendment Act of 1985, effective December 7, 1985 (D.C. Law 6-69; D.C. Official Code § 24-901(6))</code-cite>, in the custody of the Bureau of Prisons.</text>
           </para>
@@ -67,7 +67,7 @@
         <para codify:path="(1)">
           <num>(1)</num>
           <text>Paragraph (1) is amended by striking the phrase "individual committed" and inserting the phrase "individual sentenced" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-901|(1)" codified:citation="§ 24-901" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-901|(1)" codified:citation="§ 24-901" codified:display="Amend">
             <find>individual committed</find>
             <replace>individual sentenced</replace>
           </codify:find-replace>
@@ -77,7 +77,7 @@
           <text>Paragraph (5) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§24-901|(5)" codified:citation="§ 24-901" codified:instruction="Amend"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§24-901|(5)" codified:citation="§ 24-901" codified:display="Amend"/>
               <num>(5)</num>
               <text>"Treatment" means guidance for youth offenders designed to improve public safety by facilitating rehabilitation and preventing recidivism.</text>
             </para>
@@ -89,7 +89,7 @@
           <text>Paragraph (6) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§24-901|(6)" codified:citation="§ 24-901" codified:instruction="Amend"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§24-901|(6)" codified:citation="§ 24-901" codified:display="Amend"/>
               <num>(6)</num>
               <text>"Youth offender" means a person 24 years of age or younger at the time that the person committed a crime other than murder, first degree murder that constitutes an act of terrorism, second degree murder that constitutes an act of terrorism, first degree sexual abuse, second degree sexual abuse, and first degree child sexual abuse.</text>
             </para>
@@ -107,7 +107,7 @@
             <section>
               <num>3</num>
               <heading>Facilities, treatment, and services for youth offenders.</heading>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-902" codified:citation="§ 24-902" codified:instruction="Amend">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-902" codified:citation="§ 24-902" codified:display="Amend">
                 <find>Facilities for treatment and rehabilitation.</find>
                 <replace>Facilities, treatment, and services for youth offenders.</replace>
               </codify:find-replace>
@@ -120,7 +120,7 @@
           <text>Subsection (a) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§24-902|(a)" codified:citation="§ 24-902" codified:instruction="Amend"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§24-902|(a)" codified:citation="§ 24-902" codified:display="Amend"/>
               <num>(a)</num>
               <text>The Mayor shall provide facilities, treatment, and services for the developmentally appropriate care, custody, subsistence, education, workforce training, and protection of the following youth offenders:</text>
               <para>
@@ -140,7 +140,7 @@
           <text>A new subsection (a-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§24-902|(a-1)" codified:citation="§ 24-902" codified:instruction="Amend"/>
+              <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§24-902|(a-1)" codified:citation="§ 24-902" codified:display="Amend"/>
               <num>(a-1)</num>
               <para>
                 <num>(1)</num>
@@ -181,14 +181,14 @@
         <para codify:path="(b)">
           <num>(4)</num>
           <text>Subsection (b) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§24-902|(b)" codified:citation="§ 24-902" codified:instruction="Amend"/>
+          <codify:repeal codified:doc="D.C. Code" codified:path="§24-902|(b)" codified:citation="§ 24-902" codified:display="Amend"/>
         </para>
         <para codify:path="(c)">
           <num>(5)</num>
           <text>Subsection (c) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§24-902|(c)" codified:citation="§ 24-902" codified:instruction="Amend"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§24-902|(c)" codified:citation="§ 24-902" codified:display="Amend"/>
               <num>(c)</num>
               <text>The federal Bureau of Prisons is authorized to provide facilities, treatment, and services for the developmentally appropriate care, custody, subsistence, education, workforce training, segregation, and protection of youth offenders convicted of felony offenses under District law and in federal care or custody.</text>
             </para>
@@ -205,7 +205,7 @@
           <para codify:path="(1)">
             <num>(A)</num>
             <text>Paragraph (1) is amended by striking the phrase "If the court is of the opinion that the youth offender does not need commitment," and inserting the phrase "If the court determines that a youth offender would be better served by probation instead of confinement," in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-903|(a)|(1)" codified:citation="§ 24-903" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-903|(a)|(1)" codified:citation="§ 24-903" codified:display="Amend">
               <find>If the court is of the opinion that the youth offender does not need commitment,</find>
               <replace>If the court determines that a youth offender would be better served by probation instead of confinement,</replace>
             </codify:find-replace>
@@ -215,7 +215,7 @@
             <text>Paragraph (2) is amended to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§24-903|(a)|(2)" codified:citation="§ 24-903" codified:instruction="Amend"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§24-903|(a)|(2)" codified:citation="§ 24-903" codified:display="Amend"/>
                 <num>(2)</num>
                 <text>The court, as part of an order of probation of a youth offender 15 to 24 years of age, shall require the youth offender to perform not fewer than 90 hours of community service for a District government agency, a nonprofit, or a community service organization, unless the court determines that an order of community service would be unreasonable.</text>
               </para>
@@ -225,7 +225,7 @@
           <para codify:path="(3)">
             <num>(C)</num>
             <text>Paragraph (3) is amended by striking the phrase "Within 120 days of January 31, 1990," and inserting the phrase "By September 30, 2019," in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-903|(a)|(3)" codified:citation="§ 24-903" codified:instruction="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-903|(a)|(3)" codified:citation="§ 24-903" codified:display="Amend">
               <find>Within 120 days of January 31, 1990,</find>
               <replace>By September 30, 2019,</replace>
             </codify:find-replace>
@@ -236,7 +236,7 @@
           <text>Subsections (b), (c), and (d) are amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace doc="D.C. Code" path="§24-903|(b)" codified:doc="D.C. Code" codified:path="§24-903|(b)" codified:citation="§ 24-903" codified:instruction="Amend"/>
+              <codify:replace doc="D.C. Code" path="§24-903|(b)" codified:doc="D.C. Code" codified:path="§24-903|(b)" codified:citation="§ 24-903" codified:display="Amend"/>
               <num>(b)</num>
               <para>
                 <num>(1)</num>
@@ -252,7 +252,7 @@
               </para>
             </para>
             <para>
-              <codify:replace doc="D.C. Code" path="§24-903|(c)" codified:doc="D.C. Code" codified:path="§24-903|(c)" codified:citation="§ 24-903" codified:instruction="Amend"/>
+              <codify:replace doc="D.C. Code" path="§24-903|(c)" codified:doc="D.C. Code" codified:path="§24-903|(c)" codified:citation="§ 24-903" codified:display="Amend"/>
               <num>(c)</num>
               <para>
                 <num>(1)</num>
@@ -316,7 +316,7 @@
               </para>
             </para>
             <para>
-              <codify:replace doc="D.C. Code" path="§24-903|(d)" codified:doc="D.C. Code" codified:path="§24-903|(d)" codified:citation="§ 24-903" codified:instruction="Amend"/>
+              <codify:replace doc="D.C. Code" path="§24-903|(d)" codified:doc="D.C. Code" codified:path="§24-903|(d)" codified:citation="§ 24-903" codified:display="Amend"/>
               <num>(d)</num>
               <text>If the court does not sentence a youth offender under <code-cite doc="D.C. Code" path="24|9|I">this act</code-cite>, the court shall make a written statement on the record of the reasons for its determination and may sentence the youth offender under any other applicable penalty provision. Any statement concerning or related to the youth offender's contacts with the juvenile justice system or child welfare authorities, or medical and mental health records, shall be conducted at the bench and placed under seal.</text>
             </para>
@@ -326,7 +326,7 @@
         <para codify:path="(e)">
           <num>(3)</num>
           <text>Subsection (e) is amended by striking the phrase "will derive benefit from treatment" and inserting the phrase "will benefit from sentencing" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-903|(e)" codified:citation="§ 24-903" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-903|(e)" codified:citation="§ 24-903" codified:display="Amend">
             <find>will derive benefit from treatment</find>
             <replace>will benefit from sentencing</replace>
           </codify:find-replace>
@@ -335,7 +335,7 @@
       <para codify:path="§24-905">
         <num>(d)</num>
         <text>Section 6 (D.C. Official Code § 24-905) is repealed.</text>
-        <codify:repeal codified:doc="D.C. Code" codified:path="§24-905" codified:citation="§ 24-905" codified:instruction="Repeal"/>
+        <codify:repeal codified:doc="D.C. Code" codified:path="§24-905" codified:citation="§ 24-905" codified:display="Repeal"/>
       </para>
       <para codify:path="§24-906">
         <num>(e)</num>
@@ -343,12 +343,12 @@
         <para codify:path="(d)">
           <num>(1)</num>
           <text>Subsection (d) is repealed.</text>
-          <codify:repeal codified:doc="D.C. Code" codified:path="§24-906|(d)" codified:citation="§ 24-906" codified:instruction="Amend"/>
+          <codify:repeal codified:doc="D.C. Code" codified:path="§24-906|(d)" codified:citation="§ 24-906" codified:display="Amend"/>
         </para>
         <para codify:path="(e)">
           <num>(2)</num>
           <text>Subsection (e) is amended by striking the phrase "conviction. In any case where the court sets aside the conviction of a youth offender, the court shall issue to the youth offender a certificate to that effect." and inserting the phrase "conviction." in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-906|(e)" codified:citation="§ 24-906" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-906|(e)" codified:citation="§ 24-906" codified:display="Amend">
             <find>conviction. In any case where the court sets aside the conviction of a youth offender, the court shall issue to the youth offender a certificate to that effect.</find>
             <replace>conviction.</replace>
           </codify:find-replace>
@@ -358,7 +358,7 @@
           <text>New subsections (e-1) and (e-2) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(e)" codified:doc="D.C. Code" codified:path="§24-906|(e-1)" codified:citation="§ 24-906" codified:instruction="Amend"/>
+              <codify:insert after="(e)" codified:doc="D.C. Code" codified:path="§24-906|(e-1)" codified:citation="§ 24-906" codified:display="Amend"/>
               <num>(e-1)</num>
               <para>
                 <num>(1)</num>
@@ -370,7 +370,7 @@
               </para>
             </para>
             <para>
-              <codify:insert after="(e-1)" codified:doc="D.C. Code" codified:path="§24-906|(e-2)" codified:citation="§ 24-906" codified:instruction="Amend"/>
+              <codify:insert after="(e-1)" codified:doc="D.C. Code" codified:path="§24-906|(e-2)" codified:citation="§ 24-906" codified:display="Amend"/>
               <num>(e-2)</num>
               <text>In any case in which the youth offender's conviction is set aside, the youth offender shall be issued a certificate to that effect.</text>
             </para>
@@ -380,7 +380,7 @@
         <para codify:path="(f)|(4)">
           <num>(4)</num>
           <text>Subsection (f)(4) is amended by striking the word "his" and inserting the phrase "his or her" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-906|(f)|(4)" codified:citation="§ 24-906" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-906|(f)|(4)" codified:citation="§ 24-906" codified:display="Amend">
             <find>his</find>
             <replace>his or her</replace>
           </codify:find-replace>
@@ -391,14 +391,14 @@
         <text>New sections 7a and 7b are added to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="24|9|I" after="§24-906" num-value="24-906.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§24-906.01" codified:citation="§ 24-906.01" codified:instruction="New"/>
+            <codify:insert path="24|9|I" after="§24-906" num-value="24-906.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§24-906.01" codified:citation="§ 24-906.01" codified:display="New"/>
             <num>7a</num>
             <heading>Grants for victims of crime and youth offenders.</heading>
             <text>The Office of Victim Services and Justice Grants shall, on an annual basis, provide grants to organizations to assist victims of crime and youth offenders in understanding and navigating the sentencing and set aside provisions of <code-cite doc="D.C. Code" path="24|9|I">this act</code-cite>. Annual grant amounts shall be limited to funds included in an approved budget and financial plan.</text>
             <annotation doc="D.C. Law 6-69" type="History" path="§7a">Dec. 7, 1985, D.C. Law 6-69, § 7a</annotation>
           </section>
           <section>
-            <codify:insert path="24|9|I" after="§24-906.01" num-value="24-906.02" history-prefix="as added" codified:doc="D.C. Code" codified:path="§24-906.02" codified:citation="§ 24-906.02" codified:instruction="New"/>
+            <codify:insert path="24|9|I" after="§24-906.01" num-value="24-906.02" history-prefix="as added" codified:doc="D.C. Code" codified:path="§24-906.02" codified:citation="§ 24-906.02" codified:display="New"/>
             <num>7b</num>
             <heading>Biennial analysis and information-sharing.</heading>
             <para>
@@ -476,7 +476,7 @@
       </para>
     </section>
   </container>
-  <codify:insert doc="D.C. Code" path="24" after="4" history="false" codified:doc="D.C. Code" codified:path="24|4A" codified:citation="Chapter 4A of Title 24" codified:instruction="New">
+  <codify:insert doc="D.C. Code" path="24" after="4" history="false" codified:doc="D.C. Code" codified:path="24|4A" codified:citation="Chapter 4A of Title 24" codified:display="New">
     <container>
       <prefix>Chapter</prefix>
       <num>4A</num>
@@ -492,13 +492,13 @@
       <num>A</num>
       <heading/>
       <section>
-        <codify:insert path="24|4A" num-value="24-481.01" codified:doc="D.C. Code" codified:path="§24-481.01" codified:citation="§ 24-481.01" codified:instruction="New"/>
+        <codify:insert path="24|4A" num-value="24-481.01" codified:doc="D.C. Code" codified:path="§24-481.01" codified:citation="§ 24-481.01" codified:display="New"/>
         <num>201</num>
         <heading>Short title.</heading>
         <text><code-cite doc="D.C. Code" path="24|4A">This title</code-cite> may be cited as the "Clemency Board Establishment Act of 2018".</text>
       </section>
       <section>
-        <codify:insert path="24|4A" num-value="24-481.02" codified:doc="D.C. Code" codified:path="§24-481.02" codified:citation="§ 24-481.02" codified:instruction="New"/>
+        <codify:insert path="24|4A" num-value="24-481.02" codified:doc="D.C. Code" codified:path="§24-481.02" codified:citation="§ 24-481.02" codified:display="New"/>
         <num>202</num>
         <heading>Definitions.</heading>
         <text>For the purposes of <code-cite doc="D.C. Code" path="24|4A">this title</code-cite>, the term:</text>
@@ -531,7 +531,7 @@
         </para>
       </section>
       <section>
-        <codify:insert path="24|4A" num-value="24-481.03" codified:doc="D.C. Code" codified:path="§24-481.03" codified:citation="§ 24-481.03" codified:instruction="New"/>
+        <codify:insert path="24|4A" num-value="24-481.03" codified:doc="D.C. Code" codified:path="§24-481.03" codified:citation="§ 24-481.03" codified:display="New"/>
         <num>203</num>
         <heading>Establishment and duties.</heading>
         <para>
@@ -588,7 +588,7 @@
         </para>
       </section>
       <section>
-        <codify:insert path="24|4A" num-value="24-481.04" codified:doc="D.C. Code" codified:path="§24-481.04" codified:citation="§ 24-481.04" codified:instruction="New"/>
+        <codify:insert path="24|4A" num-value="24-481.04" codified:doc="D.C. Code" codified:path="§24-481.04" codified:citation="§ 24-481.04" codified:display="New"/>
         <num>204</num>
         <heading>Composition.</heading>
         <para>
@@ -659,7 +659,7 @@
         </para>
       </section>
       <section>
-        <codify:insert path="24|4A" num-value="24-481.05" codified:doc="D.C. Code" codified:path="§24-481.05" codified:citation="§ 24-481.05" codified:instruction="New"/>
+        <codify:insert path="24|4A" num-value="24-481.05" codified:doc="D.C. Code" codified:path="§24-481.05" codified:citation="§ 24-481.05" codified:display="New"/>
         <num>205</num>
         <heading>Eligibility for a clemency recommendation.</heading>
         <para>
@@ -716,7 +716,7 @@
         </para>
       </section>
       <section>
-        <codify:insert path="24|4A" num-value="24-481.06" codified:doc="D.C. Code" codified:path="§24-481.06" codified:citation="§ 24-481.06" codified:instruction="New"/>
+        <codify:insert path="24|4A" num-value="24-481.06" codified:doc="D.C. Code" codified:path="§24-481.06" codified:citation="§ 24-481.06" codified:display="New"/>
         <num>206</num>
         <heading>Confidentiality of proceedings.</heading>
         <para>
@@ -744,7 +744,7 @@
         </para>
       </section>
       <section>
-        <codify:insert path="24|4A" num-value="24-481.07" codified:doc="D.C. Code" codified:path="§24-481.07" codified:citation="§ 24-481.07" codified:instruction="New"/>
+        <codify:insert path="24|4A" num-value="24-481.07" codified:doc="D.C. Code" codified:path="§24-481.07" codified:citation="§ 24-481.07" codified:display="New"/>
         <num>207</num>
         <heading>Confidentiality of information.</heading>
         <para>
@@ -768,11 +768,14 @@
         </para>
       </section>
       <section>
-        <codify:insert path="24|4A" num-value="24-481.08" codified:doc="D.C. Code" codified:path="§24-481.08" codified:citation="§ 24-481.08" codified:instruction="New"/>
+        <codify:insert path="24|4A" num-value="24-481.08" codified:doc="D.C. Code" codified:path="§24-481.08" codified:citation="§ 24-481.08" codified:display="New"/>
         <num>208</num>
         <heading>Rules.</heading>
         <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>)</code-cite>, may issue rules to implement the provisions of <code-cite doc="D.C. Code" path="24|4A">this title</code-cite>.</text>
       </section>
+      <codify:annotation doc="D.C. Code" path="24|4A" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§24-481.01" codified:citation="§ 24-481.01" codified:display="Note">
+          For temporary (90-day) creation of this chapter, see <cite doc="D.C. Act 22-434" path="§3112">§§ 3112 through 3118 of the Fiscal Year 2018 Budget Support Emergency Act of 2018, effective July 30, 2018 (D.C. Act 22-434; 65 DCR 8200)</cite>.
+</codify:annotation>
     </container>
     <container>
       <prefix>SUBTITLE</prefix>
@@ -784,7 +787,7 @@
         <para codify:path="(33)">
           <num>(a)</num>
           <text>Paragraph (33) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01|(e)|(33)" codified:citation="§ 1-523.01" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01|(e)|(33)" codified:citation="§ 1-523.01" codified:display="Amend">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -792,7 +795,7 @@
         <para codify:path="(34)">
           <num>(b)</num>
           <text>Paragraph (34) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§1-523.01|(e)|(34)" codified:citation="§ 1-523.01" codified:instruction="Amend">
+          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§1-523.01|(e)|(34)" codified:citation="§ 1-523.01" codified:display="Amend">
             <find>.</find>
             <replace>; and</replace>
           </codify:find-replace>
@@ -802,7 +805,7 @@
           <text>A new paragraph (35) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(34)" codified:doc="D.C. Code" codified:path="§1-523.01|(e)|(35)" codified:citation="§ 1-523.01" codified:instruction="Amend"/>
+              <codify:insert after="(34)" codified:doc="D.C. Code" codified:path="§1-523.01|(e)|(35)" codified:citation="§ 1-523.01" codified:display="Amend"/>
               <num>(35)</num>
               <text>The Clemency Board, established by <code-cite doc="D.C. Code" path="§24-481.03">section 203 of the Youth Rehabilitation Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-451)</code-cite>.</text>
             </para>
@@ -816,7 +819,7 @@
         <para codify:path="(16)">
           <num>(a)</num>
           <text>Paragraph (15) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-534|(a)|(16)" codified:citation="§ 2-534" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-534|(a)|(16)" codified:citation="§ 2-534" codified:display="Amend">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -824,7 +827,7 @@
         <para codify:path="(17)">
           <num>(b)</num>
           <text>Paragraph (16) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§2-534|(a)|(17)" codified:citation="§ 2-534" codified:instruction="Amend">
+          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§2-534|(a)|(17)" codified:citation="§ 2-534" codified:display="Amend">
             <find>.</find>
             <replace>; and</replace>
           </codify:find-replace>
@@ -834,7 +837,7 @@
           <text>A new paragraph (17) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert warning="false" codified:doc="D.C. Code" codified:path="§2-534|(a)|[18]" codified:citation="§ 2-534" codified:instruction="Amend"/>
+              <codify:insert warning="false" codified:doc="D.C. Code" codified:path="§2-534|(a)|[18]" codified:citation="§ 2-534" codified:display="Amend"/>
               <num codify:value="[18]">(17)</num>
               <text>Information exempt from disclosure pursuant to <code-cite doc="D.C. Code" path="§24-481.07|(a)">section 207(a) of the Youth Rehabilitation Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-451)</code-cite>.</text>
             </para>
@@ -857,7 +860,7 @@
         <para codify:path="(a)">
           <num>(1)</num>
           <text>Subsection (a) is amended by striking the word "career" and inserting the word "workforce" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-1302|(a)" codified:citation="§ 24-1302" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-1302|(a)" codified:citation="§ 24-1302" codified:display="Amend">
             <find>career</find>
             <replace>workforce</replace>
           </codify:find-replace>
@@ -871,7 +874,7 @@
             <para codify:path="(B)">
               <num>(i)</num>
               <text>Subparagraph (B) is amended by striking the phrase "the returning" and inserting the word "returning" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-1302|(b)|(2)|(B)" codified:citation="§ 24-1302" codified:instruction="Amend">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-1302|(b)|(2)|(B)" codified:citation="§ 24-1302" codified:display="Amend">
                 <find>the returning</find>
                 <replace>returning</replace>
               </codify:find-replace>
@@ -879,7 +882,7 @@
             <para codify:path="(H)">
               <num>(ii)</num>
               <text>Subparagraph (H) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-1302|(b)|(2)|(H)" codified:citation="§ 24-1302" codified:instruction="Amend">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-1302|(b)|(2)|(H)" codified:citation="§ 24-1302" codified:display="Amend">
                 <find>; and</find>
                 <replace>;</replace>
               </codify:find-replace>
@@ -887,7 +890,7 @@
             <para codify:path="(I)">
               <num>(iii)</num>
               <text>Subparagraph (I) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-              <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§24-1302|(b)|(2)|(I)" codified:citation="§ 24-1302" codified:instruction="Amend">
+              <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§24-1302|(b)|(2)|(I)" codified:citation="§ 24-1302" codified:display="Amend">
                 <find>.</find>
                 <replace>; and</replace>
               </codify:find-replace>
@@ -897,7 +900,7 @@
               <text>A new subparagraph (J) is added to read as follows:</text>
               <include lvl="2">
                 <para>
-                  <codify:insert codified:doc="D.C. Code" codified:path="§24-1302|(b)|(2)|(J)" codified:citation="§ 24-1302" codified:instruction="Amend"/>
+                  <codify:insert codified:doc="D.C. Code" codified:path="§24-1302|(b)|(2)|(J)" codified:citation="§ 24-1302" codified:display="Amend"/>
                   <num>(J)</num>
                   <text>Establish a pilot program for Fiscal Year 2019 to provide transportation subsidies to returning citizens, pursuant to criteria to be developed by the Office, in the amount of $60,000.</text>
                 </para>
@@ -910,7 +913,7 @@
             <text>A new paragraph (4) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§24-1302|(b)|(4)" codified:citation="§ 24-1302" codified:instruction="Amend"/>
+                <codify:insert codified:doc="D.C. Code" codified:path="§24-1302|(b)|(4)" codified:citation="§ 24-1302" codified:display="Amend"/>
                 <num>(4)</num>
                 <text>The Director may communicate and coordinate with and seek information from the federal Bureau of Prisons ("BOP"), including by:</text>
                 <para>
@@ -945,7 +948,7 @@
         <para codify:path="(I)">
           <num>(1)</num>
           <text>Subparagraph (I) is amended by striking the word "Rehabilitative" and inserting the word "Rehabilitation" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-1303|(b)|(1)|(I)" codified:citation="§ 24-1303" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-1303|(b)|(1)|(I)" codified:citation="§ 24-1303" codified:display="Amend">
             <find>Rehabilitative</find>
             <replace>Rehabilitation</replace>
           </codify:find-replace>
@@ -953,7 +956,7 @@
         <para codify:path="(L)">
           <num>(2)</num>
           <text>Subparagraph (L) is amended by striking the word "Mental" and inserting the word "Behavioral" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-1303|(b)|(1)|(L)" codified:citation="§ 24-1303" codified:instruction="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§24-1303|(b)|(1)|(L)" codified:citation="§ 24-1303" codified:display="Amend">
             <find>Mental</find>
             <replace>Behavioral</replace>
           </codify:find-replace>

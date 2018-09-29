@@ -68,13 +68,13 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§38-821.01" applicability-path="§11"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§38-821.01" applicability-path="§11" codified:doc="D.C. Code" codified:path="§38-821.01" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Section 501(a)(1)(E) (D.C. Official Code § 38-825.01(a)(1)(E)) is repealed.</text>
       <codify:repeal path="§38-825.01|(a)|(1)|(E)" codified:doc="D.C. Code" codified:path="§38-825.01|(a)|(1)|(E)"/>
-      <codify:not-funded-anno doc="D.C. Code" path="§38-825.01" applicability-path="§11"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§38-825.01" applicability-path="§11" codified:doc="D.C. Code" codified:path="§38-825.01" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
@@ -322,7 +322,7 @@
       </include>
       <aftertext>.</aftertext>
       <annotation doc="D.C. Law 18-209" type="History" path="§501a">July 27, 2010, D.C. Law 18-209, § 501a</annotation>
-      <codify:not-funded-anno doc="D.C. Code" path="§38-825.01a" applicability-path="§11" action="addition of"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§38-825.01a" applicability-path="§11" action="addition of" codified:doc="D.C. Code" codified:path="§38-825.01a" codified:display="Note"/>
     </para>
   </section>
   <section codify:doc="D.C. Code" codify:path="§38-1802.04|(c)|(4)|(B)">
@@ -344,7 +344,7 @@
         <replace>upon request. A public charter school shall, within 10 business days of submitting the report, publish the report on the public charter school's website or on the website of the public charter school's local education agency, and transmit the report to DGS for publication on DGS's website.</replace>
       </codify:find-replace>
     </para>
-    <codify:not-funded-anno doc="D.C. Code" path="§38-1802.04" applicability-path="§11"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§38-1802.04" applicability-path="§11" codified:doc="D.C. Code" codified:path="§38-1802.04" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>
@@ -461,7 +461,7 @@
           <num>(d)</num>
           <text>Nothing in this section is intended to, or does, create a private right of action against any person or entity based upon compliance or noncompliance with its provisions. No person or entity may assert any claim or right as a beneficiary or protected class under this section in any civil, criminal, or administrative action against the District of Columbia.</text>
         </para>
-        <codify:not-funded-anno doc="D.C. Code" path="§10-551.07c" applicability-path="§11" action="creation of"/>
+        <codify:not-funded-anno doc="D.C. Code" path="§10-551.07c" applicability-path="§11" action="creation of" codified:doc="D.C. Code" codified:path="§10-551.07c" codified:display="Note"/>
       </section>
     </include>
     <aftertext>.</aftertext>
@@ -706,7 +706,7 @@
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:not-funded-anno doc="D.C. Code" path="§2-1831.03" applicability-path="§11"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§2-1831.03" applicability-path="§11" codified:doc="D.C. Code" codified:path="§2-1831.03" codified:display="Note"/>
   </section>
   <section>
     <num>8</num>
@@ -715,7 +715,7 @@
       <find>examinations, and other similar materials.</find>
       <replace>examinations, and other similar materials. The term "vital documents" shall include written information and notifications sent to parents or guardians pursuant to <code-cite doc="D.C. Code" path="§38-825.01a|(a)|(2)">section 501a(a)(2)</code-cite>, <cite doc="D.C. Code" path="§38-825.01a|(b)">(b)(2)(E)(iii)</cite>, or <cite doc="D.C. Code" path="§38-825.01a|(b)">(b)(2)(E)(v)</cite><span codify:value=""> of the Healthy Schools Act of 2010, passed on 2nd reading on July 11, 2017 (Enrolled version of Bill 22-29)</span>.</replace>
     </codify:find-replace>
-    <codify:not-funded-anno doc="D.C. Code" path="§2-1931" applicability-path="§11"/>
+    <codify:not-funded-anno doc="D.C. Code" path="§2-1931" applicability-path="§11" codified:doc="D.C. Code" codified:path="§2-1931" codified:display="Note"/>
   </section>
   <section>
     <num>9</num>

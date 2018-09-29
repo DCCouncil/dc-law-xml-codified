@@ -31,7 +31,7 @@
         <find>this section and place notice of the application in the District of Columbia Register</find>
         <replace>this section and <code-cite path="§9c">section 9c</code-cite>, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§3"/>
+      <codify:not-funded-anno applicability-path="§3" codified:doc="D.C. Code" codified:path="§6-1104|(a)" codified:display="Note"/>
     </para>
     <para codify:path="§6|(a)">
       <num>(b)</num>
@@ -40,7 +40,7 @@
         <find>this section and place notice of the application in the District of Columbia Register</find>
         <replace>this section and <code-cite path="§9c">section 9c</code-cite>, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§3"/>
+      <codify:not-funded-anno applicability-path="§3" codified:doc="D.C. Code" codified:path="§6-1105|(a)" codified:display="Note"/>
     </para>
     <para codify:path="§7|(a)">
       <num>(c)</num>
@@ -49,7 +49,7 @@
         <find>this section and place notice of the application in the District of Columbia Register</find>
         <replace>this section and <code-cite path="§9c">section 9c</code-cite>, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§3"/>
+      <codify:not-funded-anno applicability-path="§3" codified:doc="D.C. Code" codified:path="§6-1106|(a)" codified:display="Note"/>
     </para>
     <para codify:path="§8|(a)">
       <num>(d)</num>
@@ -58,7 +58,7 @@
         <find>this section and shall place notice of the application in the District of Columbia Register</find>
         <replace>this section and <code-cite path="§9c">section 9c</code-cite>, and, for applications that will be submitted to the Historic Preservation Review Board or the Commission of Fine Arts for a public hearing, place notice of the application in the District of Columbia Register and on the website for the Historic Preservation Office</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§3"/>
+      <codify:not-funded-anno applicability-path="§3" codified:doc="D.C. Code" codified:path="§6-1107|(a)" codified:display="Note"/>
     </para>
     <para codify:path="§9">
       <num>(e)</num>
@@ -103,7 +103,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno applicability-path="§3"/>
+      <codify:not-funded-anno applicability-path="§3" codified:doc="D.C. Code" codified:path="§6-1108" codified:display="Note"/>
     </para>
     <para>
       <num>(f)</num>
@@ -158,7 +158,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
-      <codify:not-funded-anno path="§9c" applicability-path="§3"/>
+      <codify:not-funded-anno path="§9c" applicability-path="§3" codified:doc="D.C. Code" codified:path="§6-1108.03" codified:display="Note"/>
     </para>
   </section>
   <section>

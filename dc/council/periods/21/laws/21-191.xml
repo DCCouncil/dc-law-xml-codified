@@ -71,7 +71,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <codify:not-funded-anno applicability-path="§5"/>
+      <codify:not-funded-anno applicability-path="§5" codified:doc="D.C. Code" codified:path="§7-1721.01" codified:display="Note"/>
     </para>
     <para codify:doc="D.C. Code" codify:path="§7-1721.02">
       <num>(b)</num>
@@ -148,7 +148,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno applicability-path="§5"/>
+      <codify:not-funded-anno applicability-path="§5" codified:doc="D.C. Code" codified:path="§7-1721.02" codified:display="Note"/>
     </para>
     <para codify:doc="D.C. Code" codify:path="§7-1721.03">
       <num>(c)</num>
@@ -245,7 +245,7 @@
           </codify:find-replace>
         </para>
       </para>
-      <codify:not-funded-anno applicability-path="§5"/>
+      <codify:not-funded-anno applicability-path="§5" codified:doc="D.C. Code" codified:path="§7-1721.03" codified:display="Note"/>
     </para>
     <para codify:doc="D.C. Code" codify:path="§7-1721.04|(a)">
       <num>(d)</num>
@@ -254,7 +254,7 @@
         <find>cigarettes or other tobacco product</find>
         <replace>tobacco products</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§5"/>
+      <codify:not-funded-anno applicability-path="§5" codified:doc="D.C. Code" codified:path="§7-1721.04|(a)" codified:display="Note"/>
     </para>
     <para codify:doc="D.C. Code" codify:path="§7-1721.05|(d)">
       <num>(e)</num>
@@ -263,7 +263,7 @@
         <find>cigarettes or other tobacco product</find>
         <replace>tobacco products</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§5"/>
+      <codify:not-funded-anno applicability-path="§5" codified:doc="D.C. Code" codified:path="§7-1721.05|(d)" codified:display="Note"/>
     </para>
     <para codify:doc="D.C. Code" codify:path="§7-1721.06|(a)">
       <num>(f)</num>
@@ -272,7 +272,7 @@
         <find>cigarette or other tobacco product</find>
         <replace>tobacco product</replace>
       </codify:find-replace>
-      <codify:not-funded-anno applicability-path="§5"/>
+      <codify:not-funded-anno applicability-path="§5" codified:doc="D.C. Code" codified:path="§7-1721.06|(a)" codified:display="Note"/>
     </para>
   </section>
   <section codify:doc="D.C. Code" codify:path="§7-1731|(a)">
@@ -323,7 +323,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:not-funded-anno applicability-path="§5"/>
+    <codify:not-funded-anno applicability-path="§5" codified:doc="D.C. Code" codified:path="§7-1731|(a)" codified:display="Note"/>
   </section>
   <section codify:doc="D.C. Code" codify:path="§47-2404|(b)|(3)|(A)">
     <num>4</num>
@@ -332,7 +332,7 @@
       <find>18</find>
       <replace>21</replace>
     </codify:find-replace>
-    <codify:not-funded-anno applicability-path="§5"/>
+    <codify:not-funded-anno applicability-path="§5" codified:doc="D.C. Code" codified:path="§47-2404|(b)|(3)|(A)" codified:display="Note"/>
   </section>
   <section>
     <num>5</num>

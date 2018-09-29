@@ -150,7 +150,7 @@
         <find>Allow for electronic submission of invoices to the District by a contractor</find>
         <replace>Not funded</replace>
       </codify:find-replace>
-      <codify:not-funded-anno doc="D.C. Code" path="§2-361.04a" applicability-path="§4" action="addition of subsection (a)(2) of"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§2-361.04a" applicability-path="§4" action="addition of subsection (a)(2) of" codified:doc="D.C. Code" codified:path="§2-361.04a" codified:display="Note"/>
     </para>
   </section>
   <section>
