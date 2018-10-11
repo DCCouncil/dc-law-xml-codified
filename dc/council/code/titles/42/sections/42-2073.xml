@@ -1,77 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-2073</num>
-  <heading>Membership.</heading>
+  <heading>Common Interest Community Repairs Program; eligibility.</heading>
+  <text>To be eligible for the Program, a common interest community shall meet the following requirements:</text>
   <para>
-    <num>(a)</num>
-    <text>The composition of the Task Force shall be as follows:</text>
+    <num undesignated="true">(a)</num>
     <para>
       <num>(1)</num>
-      <text>Three residents, each of whom is currently a board member of an LEC in the District; provided, that no 2 residents shall be from the board of the same LEC.</text>
+      <text>A common interest community shall have at least 5 units;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>One representative from a community-based organization that provides training, counseling, and client advocacy services to low- to moderate-income residents.</text>
+      <text>At least 2/3rds of a common interest community's owner-occupied or shareholder-occupied units shall be occupied by households with a household income, as defined by D.C. Official Code § 47-1806.09(4), of no greater than 60% of the MFI;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>One representative from a property management company that manages cooperatives in the District.</text>
+      <text>The board shall be registered with the Department of Consumer and Regulatory Affairs; and</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>One representative from a development company that develops cooperatives in the District.</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>One representative from a financial entity that specializes in the financing of LECs.</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>One attorney with experience working with LECs.</text>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>One individual who has conducted significant research on LECs in the District and elsewhere in the United States.</text>
-    </para>
-    <para>
-      <num>(8)</num>
-      <text>Other representatives appointed by the Chairperson of the Committee on Housing and Neighborhood Revitalization.</text>
-    </para>
-    <para>
-      <num>(9)</num>
-      <text>One representative from the Department of Housing and Community Development.</text>
-    </para>
-    <para>
-      <num>(10)</num>
-      <text>One representative from the District of Columbia Housing Finance Agency.</text>
+      <text>A common interest community may not have received services under the Program in the past year.</text>
     </para>
   </para>
-  <para>
-    <num>(b)</num>
-    <text>The Chairperson of the Council Committee on Housing and Neighborhood Revitalization shall appoint the:</text>
-    <para>
-      <num>(1)</num>
-      <text>Chair of the Task Force; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Task Force representatives designated in subsection (a)(1) through (8) of this section.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>The members of the Task Force shall serve without compensation and shall either reside or work in the District.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>Meetings of the Task Force shall be open to the public.</text>
-  </para>
-  <para>
-    <num>(e)</num>
-    <text>The Department of Housing and Community Development shall provide administrative support to the Task Force.</text>
-  </para>
+  <codify:emergency doc="D.C. Code" path="§42-2073" display-template="" history="false" action="creation of this section" codified:doc="D.C. Code" codified:path="§42-2073" codified:display="Note"/>
   <annotations>
-    <annotation app="2018-07-03" doc="D.C. Law 22-119" eff="2018-07-03" path="" type="History" display="false"/>
-    <annotation app="2018-07-03" doc="D.C. Law 22-119" eff="2018-07-03" path="§4" type="History"/>
+    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="II" type="History" display="false"/>
+    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§2234" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§2234" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-434" path="§2234">§ 2234 of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
   </annotations>
 </section>
