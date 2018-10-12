@@ -1307,7 +1307,6 @@
       <xi:include href="./sections/47-1806.12.xml"/>
       <xi:include href="./sections/47-1806.13.xml"/>
       <xi:include href="./sections/47-1806.14.xml"/>
-      <xi:include href="./sections/47-1806.15.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1327,7 +1326,6 @@
       <xi:include href="./sections/47-1807.11.xml"/>
       <xi:include href="./sections/47-1807.12.xml"/>
       <xi:include href="./sections/47-1807.13.xml"/>
-      <xi:include href="./sections/47-1807.14.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1371,7 +1369,6 @@
       <xi:include href="./sections/47-1808.11.xml"/>
       <xi:include href="./sections/47-1808.12.xml"/>
       <xi:include href="./sections/47-1808.13.xml"/>
-      <xi:include href="./sections/47-1808.14.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2786,7 +2783,6 @@
     <xi:include href="./sections/47-4648.xml"/>
     <xi:include href="./sections/47-4649.xml"/>
     <xi:include href="./sections/47-4650.xml"/>
-    <xi:include href="./sections/47-4650.01.xml"/>
     <xi:include href="./sections/47-4651.xml"/>
     <xi:include href="./sections/47-4652.xml"/>
     <xi:include href="./sections/47-4653.xml"/>
@@ -2810,7 +2806,6 @@
     <xi:include href="./sections/47-4666.xml"/>
     <xi:include href="./sections/47-4667.xml"/>
     <xi:include href="./sections/[47-4668].xml"/>
-    <xi:include href="./sections/[47-4669].xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -2855,20 +2850,5 @@
     <xi:include href="./sections/47-5003.xml"/>
     <xi:include href="./sections/47-5004.xml"/>
     <xi:include href="./sections/47-5005.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>51</num>
-    <heading>Individual Taxpayer Health Insurance Responsibility Requirement.</heading>
-    <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="V|A" type="History" display="false"/>
-    <xi:include href="./sections/47-5101.xml"/>
-    <xi:include href="./sections/47-5102.xml"/>
-    <xi:include href="./sections/47-5103.xml"/>
-    <xi:include href="./sections/47-5104.xml"/>
-    <xi:include href="./sections/47-5105.xml"/>
-    <xi:include href="./sections/47-5106.xml"/>
-    <xi:include href="./sections/47-5107.xml"/>
-    <xi:include href="./sections/47-5108.xml"/>
-    <xi:include href="./sections/47-5109.xml"/>
   </container>
 </container>
