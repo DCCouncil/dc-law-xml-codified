@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-163">
+  <num type="law">22-163</num>
+  <num type="bill">22-920</num>
+  <num type="act">22-436</num>
+  <heading type="short">Initiative No. 77 -- Minimum Wage Amendment Act of 2018</heading>
+  <heading type="long">This Initiative will: Gradually increase the minimum wage in the District of Columbia to $15.00 hourly by 2020; Gradually increase the minimum wage for tipped employees so that they receive the same minimum wage directly from their employer as other employees by 2026; Beginning in 2021, require the minimum wage to increase yearly in proportion to increases in the Consumer Price Index; The minimum wage increases under the initiative will not apply to District of Columbia government employees or employees of District of Columbia government contractors.</heading>
+  <meta>
+    <introduced>2018-06-29</introduced>
+    <effective>2018-10-11</effective>
+    <citations>
+      <citation type="law" url="http://lims.dccouncil.us/Download/40324/B22-0920-SignedAct.pdf">D.C. Law 22-163</citation>
+      <citation type="act" url="http://lims.dccouncil.us/Download/4077/B22-0920-Introduction.pdf">D.C. Act 22-436</citation>
+      <citation type="register">65 DCR 8513</citation>
+    </citations>
+    <history url="http://lims.dccouncil.us/Legislation/B22-0920">
+      <enacted>2018-06-29</enacted>
+      <committee>Retaiined by the Council</committee>
+    </history>
+  </meta>
+  <text>BE IT ENACTED BY THE ELECTORS OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Initiative No. 77 -- Minimum Wage Amendment Act of 2018".</text>
+  <section codify:doc="D.C. Code" codify:path="§32-1003">
+    <num>2</num>
+    <text>Section 4 of the Minimum Wage Act Revision Act of 1992, effective March 25, 1993 (D.C. Law 9-248; D.C. Official Code § 32-1003), is amended as follows:</text>
+    <codify:find-replace doc="D.C. Code" path="§32-1003|(a)|(1)" count="1" codified:doc="D.C. Code" codified:path="§32-1003|(a)|(1)">
+      <find>Except</find>
+      <replace>Except</replace>
+    </codify:find-replace>
+  </section>
+  <section>
+    <num>3</num>
+    <text>Nothing in this act shall be construed as preventing the Council of the District of Columbia from increasing minimum wages or benefits to levels in excess of those provided for in this act for any category of employees, including those employees described in section 4(i) of the Minimum Wage Act Revision Act of 1992, effective March 25, 1993 (D.C. Law 9-248; D.C. Official Code § 32-1003(i)).</text>
+    <codify:annotation doc="D.C. Code" path="§32-1003" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§32-1003">
+      Section 3 of D.C. Act 22-436 provided that "Nothing in this act shall be construed as preventing the Council of the District of Columbia from increasing minimum wages or benefits to levels in excess of those provided for in this act for any category of employees, including those employees described in section 4(i) of the Minimum Wage Act Revision Act of 1992, effective March 25, 1993 (D.C. Law 9-248; D.C. Official Code § 32-1003(i))."
+    </codify:annotation>
+  </section>
+  <section>
+    <num>4</num>
+    <heading>If any section of this act or its application to any persons or circumstances is held invalid, the remainder of this measure, or the application of its provisions to other persons or circumstances, shall not be affected.</heading>
+    <text>To this end, the provisions of this act are severable.</text>
+    <codify:annotation doc="D.C. Code" path="§32-1003" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§32-1003">
+      Section 4 of D.C. Act 22-436 provided that "If any section of this act or its application to any persons or circumstances is held invalid, the remainder of this measure, or the application of its provisions to other persons or circumstances, shall not be affected. To this end, the provisions of this act are severable."
+    </codify:annotation>
+  </section>
+  <section>
+    <num>5</num>
+    <text>This act shall supersede any amendments to section 4 of the Minimum Wage Act Revision Act of 1992, effective March 25, 1993 (D.C. Law 9-248; D.C. Official Code § 32-1003), enacted on or after June 1, 2016, but before the effective date of this act.</text>
+    <codify:annotation doc="D.C. Code" path="§32-1003" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§32-1003">
+      Section 5 of D.C. Act 22-436 provided that "This act shall supersede any amendments to section 4 of the Minimum Wage Act Revision Act of 1992, effective March 25, 1993 (D.C. Law 9-248; D.C. Official Code § 32-1003), enacted on or after June 1, 2016, but before the effective date of this act."
+    </codify:annotation>
+  </section>
+  <section>
+    <num>6</num>
+    <text>This act shall take effect after a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)).</text>
+  </section>
+</document>
