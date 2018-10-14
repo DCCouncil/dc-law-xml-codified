@@ -1213,13 +1213,6 @@
         <annotation app="2018-07-03" doc="D.C. Law 22-122" eff="2018-07-03" path="" type="History" display="false"/>
         <xi:include href="./sections/1-325.391.xml"/>
       </container>
-      <container>
-        <prefix>Part</prefix>
-        <num>OO</num>
-        <heading>Washington Metropolitan Area Transit Authority Dedicated Financing Fund.</heading>
-        <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="VI|A" type="History" display="false"/>
-        <xi:include href="./sections/1-325.401.xml"/>
-      </container>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2629,15 +2622,11 @@
         <xi:include href="./sections/1-1162.03.xml"/>
         <xi:include href="./sections/1-1162.04.xml"/>
         <xi:include href="./sections/1-1162.05.xml"/>
-        <xi:include href="./sections/1-1162.05a.xml"/>
-        <xi:include href="./sections/1-1162.05b.xml"/>
-        <xi:include href="./sections/1-1162.05c.xml"/>
         <xi:include href="./sections/1-1162.06.xml"/>
         <xi:include href="./sections/1-1162.07.xml"/>
         <xi:include href="./sections/1-1162.08.xml"/>
         <xi:include href="./sections/1-1162.09.xml"/>
         <xi:include href="./sections/1-1162.10.xml"/>
-        <xi:include href="./sections/1-1162.10a.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
