@@ -1,11 +1,64 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>47-310</num>
-  <heading>[Reserved].</heading>
+  <heading>Master capital projects.</heading>
+  <para>
+    <num>(a)</num>
+    <text>For any master capital project that is included in an approved budget and financial plan and is owned and implemented by the same agency that owns and implements all the sub-projects within it, an agency director may submit requests to the Office of Budget and Planning ("OBP") of the Office of the Chief Financial Officer to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Reallocate funds from the master capital project to a sub-project;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Reallocate funds from a sub-project to the master capital project; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Reallocate funds from one sub-project to another sub-project;</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Upon receiving a request under subsection (a) of this section, OBP shall reallocate the funds as requested, unless OBP determines that the funds are not available for reallocation.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>After funds are reallocated pursuant to subsections (a) and (b) of this section, the agency director described in subsection (a) of this section may obligate and expend the reallocated funds.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>An agency director described in subsection (a) of this section also may submit requests to OBP to reallocate to a master capital project any available fund balances from a related capital project, in order to align the related capital project with the master capital project.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For the purposes of this subsection, the term "related capital project" means a capital project that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Was created before the master capital project was created;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Is associated with the master capital project based on the description of the master project and the description of the capital project; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Has current fund balances for which there are no out-year appropriations.".</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>[<cite path="47|3|IV">Subchapter IV</cite> of this chapter] shall not apply to reallocations made pursuant to this section.</text>
+  </para>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§8032|(b)" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-434" path="§8032|(b)">§ 8032(b) of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§8032|(b)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§8032|(b)" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-458" path="§8032|(b)">§ 8032(b) of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§8032|(b)" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-458" path="§8032|(b)">§ 8032(b) of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§8032|(b)" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§8032|(b)" type="History"/>
   </annotations>
 </section>

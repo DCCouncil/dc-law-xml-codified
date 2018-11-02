@@ -485,11 +485,15 @@
     <xi:include href="./sections/4-408.xml"/>
     <xi:include href="./sections/4-409.xml"/>
     <xi:include href="./sections/4-410.xml"/>
+    <xi:include href="./sections/4-410.01.xml"/>
+    <xi:include href="./sections/4-410.02.xml"/>
+    <xi:include href="./sections/4-410.03.xml"/>
     <xi:include href="./sections/4-411.xml"/>
     <xi:include href="./sections/4-412.xml"/>
     <xi:include href="./sections/4-413.xml"/>
     <xi:include href="./sections/4-414.xml"/>
     <xi:include href="./sections/4-415.xml"/>
+    <xi:include href="./sections/4-416.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -620,6 +624,22 @@
     <xi:include href="./sections/4-636.xml"/>
     <xi:include href="./sections/4-637.xml"/>
     <xi:include href="./sections/4-638.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6B</num>
+    <heading>Healthy Early Childhood Development Programs.</heading>
+    <annotation app="2018-10-30" doc="D.C. Law 22-179" eff="2018-10-30" path="" type="History" display="false"/>
+    <xi:include href="./sections/4-651.01.xml"/>
+    <xi:include href="./sections/4-651.02.xml"/>
+    <xi:include href="./sections/4-651.03.xml"/>
+    <xi:include href="./sections/4-651.04.xml"/>
+    <xi:include href="./sections/4-651.05.xml"/>
+    <xi:include href="./sections/4-651.06.xml"/>
+    <xi:include href="./sections/4-651.07.xml"/>
+    <xi:include href="./sections/4-651.08.xml"/>
+    <xi:include href="./sections/4-651.09.xml"/>
+    <xi:include href="./sections/4-651.10.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

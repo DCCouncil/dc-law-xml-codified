@@ -1,14 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>7-671.01</num>
   <heading>Definitions.</heading>
-  <text>Not Funded.</text>
+  <text>For the purposes of <cite path="7|6C">this chapter</cite>, the term:</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>"Committee" means the Maternal Mortality Review Committee established in <cite path="§7-671.02">§ 7-671.02</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Maternal mortality" means any pregnancy-related death or pregnancy-associated death.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Personally identifiable information" means information that identifies any person or could be used to identify any person, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>Prenatal, fetal, pediatric, and infant medical records;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Hospital discharge records;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Hospital or clinic records and laboratory reports;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Health insurance claim information;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Records of fetal deaths or induced termination of pregnancies; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Records of public benefits, child abuse and neglect records, school records, mental health records, police reports, and autopsy reports.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Pregnancy-associated death" means the death of a woman while the woman is pregnant or within one year after the end of the pregnancy, irrespective of the cause, other than a pregnancy-related death.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Pregnancy-related death" means the death of a woman while the woman is pregnant or within one year after the end of the pregnancy, from any cause related to the pregnancy or its management, but not from accidental or incidental causes.</text>
+    </para>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-671.01">Applicability of <cite doc="D.C. Law 22-111" path="">D.C. Law 22-111</cite>: <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> provided that the creation of this section by <cite doc="D.C. Law 22-111" path="§2">§ 2 of D.C. Law 22-111</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="§10|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-111" eff="2018-06-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-111" eff="2018-06-05" path="§2" type="History"/>
-    <annotation type="Applicability" codified:display="Note" app="2018-06-05" eff="2018-06-05" doc="D.C. Law 22-111" path="§2">Applicability of <cite doc="D.C. Law 22-111" path="">D.C. Law 22-111</cite>: <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> provided that the creation of this section by <cite doc="D.C. Law 22-111" path="§2">§ 2 of D.C. Law 22-111</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="" type="History" display="false"/>
     <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="§2" type="History"/>
+    <annotation type="Applicability" codified:display="Note" app="2018-06-05" eff="2018-06-05" doc="D.C. Law 22-111" path="§2">Applicability of <cite doc="D.C. Law 22-111" path="">D.C. Law 22-111</cite>: <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> provided that the creation of this section by <cite doc="D.C. Law 22-111" path="§2">§ 2 of D.C. Law 22-111</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 22-168" path="§7033" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7033">Section 7033 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-111">D.C. Law 22-111</cite> has been given effect.
+          </annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7033" type="History" display="false"/>
   </annotations>
 </section>

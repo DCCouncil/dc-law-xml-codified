@@ -1,15 +1,88 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>35-332</num>
   <heading>Rail Advisory Board.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>There is hereby established the Rail Advisory Board.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Board shall be composed of 9 members, appointed as follows:</text>
+    <para>
+      <num>(1)</num>
+      <text>One member from a railroad carrier authorized to operate in the District of Columbia, appointed by the Mayor.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Two labor representatives, appointed by the Mayor.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>One community representative appointed by the Chairperson of the Council committee with oversight over the Homeland Security and Emergency Management Agency.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>One community representative appointed by the Chairperson of the Council committee with oversight over the Department of Energy and Environment.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The Director of the Homeland Security and Emergency Management Agency or the Director's designee,</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The Chief of the Fire and Emergency Medical Services Department or the Chief's designee;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The Director of the District Department of Transportation or the Director's designee; and</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Director of the Department of Energy and Environment or the Director's designee.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>The members of the Board appointed under subsections (b)(1) and (2) of this section shall serve 4-year terms.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The members of the Board appointed under subsections (b)(3) and (4) of this section shall serve 3-year terms.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The Board shall elect, by a majority vote, one of its member to serve as chairperson of the Board. The chairperson shall be elected at the Board's first meeting and biannually thereafter.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The Board shall elect, by a majority vote, one of its members to serve as vice-chairperson of the Board. The vice-chairperson shall be elected at the Board's first meeting and biannually thereafter.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>Vacancies shall be filled in the same manner as the initial appointment.  A member appointed to fill a vacancy shall serve for the remainder of the unexpired term.</text>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>The Board shall meet, at a minimum, on a quarterly basis, at times to be determined by the Board at the Board's first meeting.</text>
+  </para>
+  <codify:annotation doc="D.C. Code" path="§35-332" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§35-332">
+             Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
+      </codify:annotation>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§35-332" codified:display="Note" codified:doc="D.C. Code" codified:path="§35-332">Applicability of <cite doc="D.C. Law 21-254" path="">D.C. Law 21-254</cite>: <cite doc="D.C. Law 21-254" path="§501">§ 501 of D.C. Law 21-254</cite> provided that the creation of this section by <cite doc="D.C. Law 21-254" path="§202">§ 202 of D.C. Law 21-254</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 21-254" eff="2017-04-07" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 21-254" eff="2017-04-07" path="§202" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 21-254" path="§202" codified:display="Note" app="2017-04-07" eff="2017-04-07">Applicability of <cite doc="D.C. Law 21-254" path="">D.C. Law 21-254</cite>: <cite doc="D.C. Law 21-254" path="§501">§ 501 of D.C. Law 21-254</cite> provided that the creation of this section by <cite doc="D.C. Law 21-254" path="§202">§ 202 of D.C. Law 21-254</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(a)" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="" type="History" display="false"/>
     <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§202" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 21-254" eff="2017-04-07" path="§202" type="History" display="false"/>
+    <annotation doc="D.C. Law 21-254" path="§202" type="Construction of Law" history="false" app="2017-04-07" eff="2017-04-07">
+             Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
+      </annotation>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§202" type="History" display="false"/>
+    <annotation type="Applicability" doc="D.C. Law 21-254" path="§202" codified:display="Note" app="2017-04-07" eff="2017-04-07">Applicability of <cite doc="D.C. Law 21-254" path="">D.C. Law 21-254</cite>: <cite doc="D.C. Law 21-254" path="§501">§ 501 of D.C. Law 21-254</cite> provided that the creation of this section by <cite doc="D.C. Law 21-254" path="§202">§ 202 of D.C. Law 21-254</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6033|(a)" type="History" display="false"/>
+    <annotation doc="D.C. Law 22-168" path="§6033|(a)" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§6033">Section 6033 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 21-254" path="§501|(a)">§ 501(a) of D.C. Law 21-254</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-254">D.C. Law 21-254</cite> has been implemented.</annotation>
   </annotations>
 </section>

@@ -83,7 +83,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>2</num>
-    <heading>Vital Records.</heading>
+    <heading>Vital Records. [Repealed]<annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§130" type="History"/></heading>
     <xi:include href="./sections/7-201.xml"/>
     <xi:include href="./sections/7-202.xml"/>
     <xi:include href="./sections/7-203.xml"/>
@@ -114,10 +114,47 @@
     <xi:include href="./sections/7-226.xml"/>
     <xi:include href="./sections/7-227.xml"/>
     <xi:include href="./sections/7-228.xml"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§130" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>2A</num>
+    <heading>Vital Records, 2018.</heading>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="" type="History" display="false"/>
+    <xi:include href="./sections/7-231.01.xml"/>
+    <xi:include href="./sections/7-231.02.xml"/>
+    <xi:include href="./sections/7-231.03.xml"/>
+    <xi:include href="./sections/7-231.04.xml"/>
+    <xi:include href="./sections/7-231.05.xml"/>
+    <xi:include href="./sections/7-231.06.xml"/>
+    <xi:include href="./sections/7-231.07.xml"/>
+    <xi:include href="./sections/7-231.08.xml"/>
+    <xi:include href="./sections/7-231.09.xml"/>
+    <xi:include href="./sections/7-231.10.xml"/>
+    <xi:include href="./sections/7-231.11.xml"/>
+    <xi:include href="./sections/7-231.12.xml"/>
+    <xi:include href="./sections/7-231.13.xml"/>
+    <xi:include href="./sections/7-231.14.xml"/>
+    <xi:include href="./sections/7-231.15.xml"/>
+    <xi:include href="./sections/7-231.16.xml"/>
+    <xi:include href="./sections/7-231.17.xml"/>
+    <xi:include href="./sections/7-231.18.xml"/>
+    <xi:include href="./sections/7-231.19.xml"/>
+    <xi:include href="./sections/7-231.20.xml"/>
+    <xi:include href="./sections/7-231.21.xml"/>
+    <xi:include href="./sections/7-231.22.xml"/>
+    <xi:include href="./sections/7-231.23.xml"/>
+    <xi:include href="./sections/7-231.24.xml"/>
+    <xi:include href="./sections/7-231.25.xml"/>
+    <xi:include href="./sections/7-231.26.xml"/>
+    <xi:include href="./sections/7-231.27.xml"/>
+    <xi:include href="./sections/7-231.28.xml"/>
+    <xi:include href="./sections/7-231.29.xml"/>
+    <xi:include href="./sections/7-231.30.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2B<annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="" type="History"/></num>
     <heading>Data Sharing.</heading>
     <xi:include href="./sections/7-241.xml"/>
     <xi:include href="./sections/7-242.xml"/>
@@ -341,8 +378,7 @@
     <prefix>Chapter</prefix>
     <num>6C</num>
     <heading>Maternal Mortality Review Committee.</heading>
-    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="§10|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-111" eff="2018-06-05" path="" type="History" display="false"/>
+    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="" type="History" display="false"/>
     <xi:include href="./sections/7-671.01.xml"/>
     <xi:include href="./sections/7-671.02.xml"/>
     <xi:include href="./sections/7-671.03.xml"/>
@@ -502,6 +538,8 @@
     <prefix>Chapter</prefix>
     <num>7B-iii</num>
     <heading>Health Literacy Council. [Not Funded]</heading>
+    <annotation doc="D.C. Law 22-168" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30" path="§7023" display="false"><cite doc="D.C. Law 22-168" path="§7023">Section 7023 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-66" path="§7">section 7 of D.C. Law 22-66</cite> amending the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-66">D.C. Law 22-66</cite> has been implemented.</annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7023" type="History" display="false"/>
     <annotation app="2018-03-06" doc="D.C. Law 22-66" eff="2018-03-06" path="" type="History" display="false"/>
     <xi:include href="./sections/7-757.01.xml"/>
     <xi:include href="./sections/7-757.02.xml"/>

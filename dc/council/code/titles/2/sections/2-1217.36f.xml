@@ -1,14 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>2-1217.36f</num>
   <heading>Creation of the Union Market TIF Fund.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>There is established as a nonlapsing fund the Union Market TIF Fund. The Chief Financial Officer shall deposit into the Union Market TIF Fund the Available Tax Increment and any other taxes or fees specifically designated by law for deposit in the Union Market TIF Fund.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Mayor may pledge and create a security interest in the funds in the Union Market TIF Fund, or any sub-account within the Union Market TIF Fund, for the payment of debt service on the bonds without further action by the Council as permitted by <cite path="§1-204.90|(f)">§ 1-204.90(f)</cite>. The payment of debt service shall be made in accordance with the provisions of the Financing Documents entered into by the District in connection with the issuance of the bonds.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>If, at the end of any fiscal year of the District, the balance of cash and investments in the Union Market TIF Fund exceeds the amount of debt service (including prepayment of principal and interest), reserves on any bonds, and any approved bond-related administrative expenses during the upcoming fiscal year, 50% of the excess shall be used to prepay the principal of the bonds and the remaining 50% of the excess shall be transferred to the unrestricted balance of the General Fund of the District of Columbia.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1217.36f">Applicability of <cite doc="D.C. Law 22-58" path="">D.C. Law 22-58</cite>: <cite doc="D.C. Law 22-58" path="§16">§ 16 of D.C. Law 22-58</cite> provided that the creation of this section by <cite doc="D.C. Law 22-58" path="§3">§ 3 of D.C. Law 22-58</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 22-58" eff="2018-02-15" path="§16|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-58" eff="2018-02-15" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-58" eff="2018-02-15" path="§3" type="History"/>
-    <annotation type="Applicability" codified:display="Note" app="2018-02-15" eff="2018-02-15" doc="D.C. Law 22-58" path="§3">Applicability of <cite doc="D.C. Law 22-58" path="">D.C. Law 22-58</cite>: <cite doc="D.C. Law 22-58" path="§16">§ 16 of D.C. Law 22-58</cite> provided that the creation of this section by <cite doc="D.C. Law 22-58" path="§3">§ 3 of D.C. Law 22-58</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-02-15" doc="D.C. Law 22-58" eff="2018-02-15" path="" type="History" display="false"/>
     <annotation app="2018-02-15" doc="D.C. Law 22-58" eff="2018-02-15" path="§3" type="History"/>
+    <annotation type="Applicability" codified:display="Note" app="2018-02-15" eff="2018-02-15" doc="D.C. Law 22-58" path="§3">Applicability of <cite doc="D.C. Law 22-58" path="">D.C. Law 22-58</cite>: <cite doc="D.C. Law 22-58" path="§16">§ 16 of D.C. Law 22-58</cite> provided that the creation of this section by <cite doc="D.C. Law 22-58" path="§3">§ 3 of D.C. Law 22-58</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 22-168" path="§7020" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7020">Section 7020 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-58" path="§16">section 16 of D.C. Law 22-58</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-58">D.C. Law 22-58</cite> has been implemented.</annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7020" type="History" display="false"/>
   </annotations>
 </section>

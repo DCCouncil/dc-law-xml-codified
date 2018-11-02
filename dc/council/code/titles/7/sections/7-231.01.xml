@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-231.01</num>
   <heading>Definitions.</heading>
-  <text>For the purposes of this act, the term:</text>
+  <text>For the purposes of <cite path="7|2A">this chapter</cite>, the term:</text>
   <para>
     <num undesignated="true">(a)</num>
     <para>
@@ -15,7 +15,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>"Application" means a formal request to an authority for access to vital records, vital event data, and other related documentation. The application requirements for services to be obtained from the Vital Records Division shall be defined by rules issued pursuant to section 129.</text>
+      <text>"Application" means a formal request to an authority for access to vital records, vital event data, and other related documentation. The application requirements for services to be obtained from the Vital Records Division shall be defined by rules issued pursuant to <cite path="§7-231.29">§ 7-231.29</cite>.</text>
     </para>
     <para>
       <num>(4)</num>
@@ -75,7 +75,7 @@
     </para>
     <para>
       <num>(18)</num>
-      <text>"Domestic partner" means an individual who has registered either in accordance with section 3(a) of the Health Care Benefits Expansion Act of 1992, effective June 11, 1992 (D.C. Law 9-114; D.C. Official Code § 32-702(a)) ("Act"), or in another jurisdiction that recognizes a substantially similar relationship pursuant to section 3(i) of the Act . The term "domestic partner" shall not include a domestic partner who is the parent, grandparent, sibling, child, grandchild, niece, nephew, aunt, or uncle of a woman who gives birth to a child.</text>
+      <text>"Domestic partner" means an individual who has registered either in accordance with <cite path="§32-702|(a)">§ 32-702(a)</cite>, or in another jurisdiction that recognizes a substantially similar relationship pursuant to <cite path="§23-702">§ 23-702</cite>(i) . The term "domestic partner" shall not include a domestic partner who is the parent, grandparent, sibling, child, grandchild, niece, nephew, aunt, or uncle of a woman who gives birth to a child.</text>
     </para>
     <para>
       <num>(19)</num>
@@ -167,7 +167,7 @@
     </para>
     <para>
       <num>(41)</num>
-      <text>"Order" or "order of the court" means a directive to the Register, signed by a judge of the court, to establish or amend a vital record or produce information contained in a vital record, including a subpoena submitted in accordance with D.C. Official Code § 13-443.</text>
+      <text>"Order" or "order of the court" means a directive to the Register, signed by a judge of the court, to establish or amend a vital record or produce information contained in a vital record, including a subpoena submitted in accordance with <cite path="§13-433">§ 13-433</cite>.</text>
     </para>
     <para>
       <num>(42)</num>
@@ -207,11 +207,11 @@
     </para>
     <para>
       <num>(51)</num>
-      <text>"Sealed record" means the original record of a reportable vital event and the evidence submitted to support a change by the Registrar for the purpose of the administration of vital records, that shall not be subject to inspection except upon order of the court or as provided by rules issued pursuant to section 129.</text>
+      <text>"Sealed record" means the original record of a reportable vital event and the evidence submitted to support a change by the Registrar for the purpose of the administration of vital records, that shall not be subject to inspection except upon order of the court or as provided by rules issued pursuant to <cite path="§7-231.29">§ 7-231.29</cite>.</text>
     </para>
     <para>
       <num>(52)</num>
-      <text>"Second parent" means a father or same-sex parent that has acknowledged parentage pursuant to section 16-909.01(a) of the District of Columbia Official Code, or whose parentage has otherwise been determined pursuant to section 16-909.01(d) of the District of Columbia Official Code.</text>
+      <text>"Second parent" means a father or same-sex parent that has acknowledged parentage pursuant to <cite path="§16-909.01|(a)">§ 16-909.01(a)</cite>, or whose parentage has otherwise been determined pursuant to <cite path="§16-909.01|(d)">§ 16-909.01(d)</cite>.</text>
     </para>
     <para>
       <num>(53)</num>
@@ -243,7 +243,7 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2018-09-05" doc="D.C. Act 22-438" eff="2018-09-05" path="" type="History" display="false"/>
-    <annotation app="2018-09-05" doc="D.C. Act 22-438" eff="2018-09-05" path="§101" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§101" type="History"/>
   </annotations>
 </section>

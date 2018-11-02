@@ -28,7 +28,7 @@
       <text>Section 2 (D.C. Official Code § 7-201) is amended by adding a new paragraph (7B) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§7-201" after="(7A)" codified:doc="D.C. Code" codified:path="§7-201|(7B)"/>
+          <codify:insert doc="D.C. Code" path="§7-201" after="(7A)" codified:doc="D.C. Code" codified:path="§7-201"/>
           <num>(7B)</num>
           <text>"Gender identity or expression" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§2-1401.02|(12A)">section 102(12A) of the Human Rights Act of 1977, effective December 13, 1977 (D.C. Law 2-38; D.C. Official Code § 2-1401.02(12A))</code-cite>.</text>
         </para>
@@ -43,7 +43,7 @@
         <text>New subsections (a-1), (a-2), (a-3), and (a-4) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert doc="D.C. Code" path="§7-211" after="(a)" codified:doc="D.C. Code" codified:path="§7-211|(a-1)"/>
+            <codify:insert doc="D.C. Code" path="§7-211" after="(a)" codified:doc="D.C. Code" codified:path="§7-211"/>
             <num>(a-1)</num>
             <para>
               <num>(1)</num>
@@ -55,7 +55,7 @@
             </para>
           </para>
           <para>
-            <codify:insert doc="D.C. Code" path="§7-211" after="(a-1)" codified:doc="D.C. Code" codified:path="§7-211|(a-2)"/>
+            <codify:insert doc="D.C. Code" path="§7-211" after="(a-1)" codified:doc="D.C. Code" codified:path="§7-211"/>
             <num>(a-2)</num>
             <para>
               <num>(1)</num>
@@ -67,12 +67,12 @@
             </para>
           </para>
           <para>
-            <codify:insert doc="D.C. Code" path="§7-211" after="(a-2)" codified:doc="D.C. Code" codified:path="§7-211|(a-3)"/>
+            <codify:insert doc="D.C. Code" path="§7-211" after="(a-2)" codified:doc="D.C. Code" codified:path="§7-211"/>
             <num>(a-3)</num>
             <text>Upon the filing of a certificate of death by the funeral director or person acting as such, the Registrar shall check the decedent's reported sex under subsection (a-1) of this section against the pre-designation of gender identity or expression filed under subsection (a-2) of this section. If there is a conflict between the decedent's reported sex and the pre-designated gender identity or expression, the Registrar shall amend the certificate of death to list the decedent's sex as the pre-designated gender identity or expression.</text>
           </para>
           <para>
-            <codify:insert doc="D.C. Code" path="§7-211" after="(a-3)" codified:doc="D.C. Code" codified:path="§7-211|(a-4)"/>
+            <codify:insert doc="D.C. Code" path="§7-211" after="(a-3)" codified:doc="D.C. Code" codified:path="§7-211"/>
             <num>(a-4)</num>
             <para>
               <num>(1)</num>
@@ -136,7 +136,7 @@
       <para>
         <num>(2)</num>
         <text>Subsection (e) is amended by striking the phrase "death certificate" and inserting the phrase "certificate of death" in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§7-211|(e)" count="1" codified:doc="D.C. Code" codified:path="§7-211|(e)">
+        <codify:find-replace doc="D.C. Code" path="§7-211|(e)" count="1" codified:doc="D.C. Code" codified:path="§7-211">
           <find>death certificate</find>
           <replace>certificate of death</replace>
         </codify:find-replace>
@@ -144,7 +144,7 @@
       <para>
         <num>(3)</num>
         <text>Subsection (f) is amended by striking the phrase "death certificate" and inserting the phrase "certificate of death" in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§7-211|(f)" count="1" codified:doc="D.C. Code" codified:path="§7-211|(f)">
+        <codify:find-replace doc="D.C. Code" path="§7-211|(f)" count="1" codified:doc="D.C. Code" codified:path="§7-211">
           <find>death certificate</find>
           <replace>certificate of death</replace>
         </codify:find-replace>
@@ -152,7 +152,7 @@
       <para>
         <num>(4)</num>
         <text>Subsection (h) is amended by striking the phrase "death certificate" wherever it appears and inserting the phrase "certificate of death" in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§7-211|(h)" count="3" codified:doc="D.C. Code" codified:path="§7-211|(h)">
+        <codify:find-replace doc="D.C. Code" path="§7-211|(h)" count="3" codified:doc="D.C. Code" codified:path="§7-211">
           <find>death certificate</find>
           <replace>certificate of death</replace>
         </codify:find-replace>
@@ -160,7 +160,7 @@
       <para>
         <num>(5)</num>
         <text>Subsection (i) is amended by striking the phrase "death certificate" and inserting the phrase "certificate of death" in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§7-211|(i)" count="1" codified:doc="D.C. Code" codified:path="§7-211|(i)">
+        <codify:find-replace doc="D.C. Code" path="§7-211|(i)" count="1" codified:doc="D.C. Code" codified:path="§7-211">
           <find>death certificate</find>
           <replace>certificate of death</replace>
         </codify:find-replace>
@@ -168,7 +168,7 @@
       <para>
         <num>(6)</num>
         <text>Subsection (j) is amended by striking the phrase "death certificate" and inserting the phrase "certificate of death" in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§7-211|(j)" count="1" codified:doc="D.C. Code" codified:path="§7-211|(j)">
+        <codify:find-replace doc="D.C. Code" path="§7-211|(j)" count="1" codified:doc="D.C. Code" codified:path="§7-211">
           <find>death certificate</find>
           <replace>certificate of death</replace>
         </codify:find-replace>

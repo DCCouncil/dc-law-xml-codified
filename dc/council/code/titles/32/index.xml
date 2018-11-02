@@ -14,7 +14,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>1A</num>
-    <heading>Employee Sick Leave.</heading>
+    <heading>Employee Sick Leave. [Recodified]</heading>
     <xi:include href="./sections/32-131.01.xml"/>
     <xi:include href="./sections/32-131.02.xml"/>
     <xi:include href="./sections/32-131.03.xml"/>
@@ -462,7 +462,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>12</num>
-    <heading>Parental Leave.</heading>
+    <heading>Parental Leave. [Recodified]</heading>
     <xi:include href="./sections/32-1201.xml"/>
     <xi:include href="./sections/32-1202.xml"/>
     <xi:include href="./sections/32-1203.xml"/>
@@ -580,12 +580,13 @@
   <container>
     <prefix>Chapter</prefix>
     <num>13D</num>
-    <heading>Unemployment Profile.</heading>
+    <heading>Unemployment Profile. [Repealed]</heading>
     <xi:include href="./sections/32-1371.xml"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§7205" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) repeal of this chapter, see <cite doc="D.C. Act 22-434" path="§7205">§ 7205 of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§7205" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§7205" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) repeal of this chapter, see <cite doc="D.C. Act 22-458" path="§7205">§ 7205 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§7205" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) repeal of this chapter, see <cite doc="D.C. Act 22-458" path="§7205">§ 7205 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§7205" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7205" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -716,8 +717,7 @@
       <prefix>Subchapter</prefix>
       <num>I-A</num>
       <heading>Workforce Development System Expenditure Guide.</heading>
-      <annotation app="notfunded" doc="D.C. Law 22-95" eff="2018-05-05" path="§301|(a)" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 22-95" eff="2018-05-05" path="" type="History" display="false"/>
+      <annotation app="2018-05-05" doc="D.C. Law 22-95" eff="2018-05-05" path="" type="History" display="false"/>
       <xi:include href="./sections/32-1621.xml"/>
       <xi:include href="./sections/32-1622.xml"/>
       <xi:include href="./sections/32-1623.xml"/>

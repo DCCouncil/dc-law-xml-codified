@@ -1,30 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-174.01</num>
-  <heading>Event sponsorships.</heading>
+  <heading>Event sponsorships, sales of intellectual property and tickets; establishment of special fund.</heading>
   <para>
     <num>(a)</num>
-    <text>The Chancellor may contract for advertisements and sponsorships for athletics, community engagement events, educational programs, or facilities improvements designed to generate resources for the District of Columbia Public Schools.</text>
+    <text>Notwithstanding any other provision of law, the Chancellor of the District of Columbia Public Schools may:</text>
+    <para>
+      <num>(1)</num>
+      <text>Contract for advertisements for and sponsorships of District of Columbia Public Schools athletics programs or events, community engagement events, educational programs, or facilities improvements for the purpose of generating resources for the District of Columbia Public Schools;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>With the approval of the Mayor, sell or license intellectual property rights of the District for intellectual property created by the District of Columbia Public Schools for use by the District of Columbia Public Schools; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Sell tickets to District of Columbia Public Schools athletic events and school performances.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>There is established as a special fund the District of Columbia Public Schools Advertisements and Sponsorships Fund (“Fund”), which shall be administered by the Chancellor in accordance with paragraph (3) of this subsection.</text>
+      <text>There is established as a special fund the District of Columbia Public Schools Sales and Sponsorship Fund ("Fund"), which shall be administered by the District of Columbia Public Schools in accordance with paragraph (3) of this subsection.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The Fund shall consist of all revenue from contracts for advertisements and sponsorships for athletics, community engagement events, educational programs, or facilities improvements pursuant to subsection (a) of this section.</text>
+      <text>Revenue from the following sources shall be deposited into the Fund:</text>
+      <para>
+        <num>(A)</num>
+        <text>Contracts for advertisements for and sponsorships of athletics programs and events, community engagement events, educational programs, or facilities improvements entered into pursuant to subsection (a)(1) of this section;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The sale or license of intellectual property rights pursuant to subsection (a)(2) of this section; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The sale of tickets to District of Columbia Public Schools athletic events and school performances pursuant to subsection (a)(3) of this section.</text>
+      </para>
     </para>
     <para>
       <num>(3)</num>
-      <text>The Fund shall be used for the support of the operations of the District of Columbia Public Schools.</text>
+      <text>Money in the Fund shall be used to support the operations of the District of Columbia Public Schools, including instruction, education programs, human resources, athletics, the arts, and community engagement.</text>
     </para>
     <para>
       <num>(4)</num>
       <para>
         <num>(A)</num>
-        <text>The money deposited into the Fund, and interest earned, shall not revert to the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+        <text>The money deposited into the Fund shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -38,7 +62,8 @@
     <annotation type="Emergency Legislation">For temporary (90 days) addition of this section, see § 4052 of the Fiscal Year 2016 Budget Support Emergency Act of 2015 (D.C. Act 21-127, July 27, 2015,  62 DCR 10201).</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§4042" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-434" path="§4042">§ 4042 of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§4042" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§4042" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§4042">§ 4042 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§4042" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§4042">§ 4042 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§4042" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§4042" type="History"/>
   </annotations>
 </section>

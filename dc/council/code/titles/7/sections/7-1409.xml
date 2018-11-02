@@ -1,18 +1,90 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>7-1409</num>
   <heading>Reporting requirements.</heading>
-  <text>Not Funded.</text>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§7-1409" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1409|(a)">Applicability of <cite doc="D.C. Law 22-35" path="">D.C. Law 22-35</cite>: <cite doc="D.C. Law 22-35" path="§3">§ 3 of D.C. Law 22-35</cite> provided that the creation of this section by <cite doc="D.C. Law 22-35" path="§2">§ 2 of D.C. Law 22-35</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <para>
+    <num>(a)</num>
+    <text>Beginning October 1, 2018, and on an annual basis thereafter, the Mayor shall submit a public report to the Council that shall include, for each of the last 12 months, the following information:</text>
+    <para>
+      <num undesignated="true">(a)</num>
+      <para>
+        <num>(1)</num>
+        <text>The number of DC HealthCare Alliance enrollees required to recertify;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>The number of DC HealthCare Alliance enrollees required to recertify who successfully completed recertification;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>The number of DC HealthCare Alliance enrollees who did not recertify;</text>
+      </para>
+      <para>
+        <num>(4)</num>
+        <text>The number of DC HealthCare Alliance enrollees who re-enrolled in DC HealthCare Alliance within 30 days after termination and the number of enrollees who re-enrolled within 60 days after termination;</text>
+      </para>
+      <para>
+        <num>(5)</num>
+        <text>The number of DC HealthCare Alliance enrollees required to recertify who completed interviews, whether face-to-face or over the telephone, disaggregated by interview type.</text>
+      </para>
+      <para>
+        <num>(6)</num>
+        <text>The number of recertification interviews conducted at each location where interviews are offered;</text>
+      </para>
+      <para>
+        <num>(7)</num>
+        <text>Repealed.</text>
+      </para>
+      <para>
+        <num>(8)</num>
+        <text>Repealed.</text>
+      </para>
+      <para>
+        <num>(9)</num>
+        <text>The number of requests made before, or during, an interview for an accommodation due to disability, disaggregated by interview type;</text>
+      </para>
+      <para>
+        <num>(10)</num>
+        <text>The number of requests made before, or during, an interview for service in a language other than English, disaggregated by interview type; and</text>
+      </para>
+      <para>
+        <num>(11)</num>
+        <text>The number of requests for waivers of face-to-face interviews that were:</text>
+        <para>
+          <num>(A)</num>
+          <text>Made;</text>
+        </para>
+        <para>
+          <num>(B)</num>
+          <text>Granted; and</text>
+        </para>
+        <para>
+          <num>(C)</num>
+          <text>Denied, and the grounds for denial.</text>
+        </para>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Not funded.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 14-18" type="History" path="§6">July 12, 2001, D.C. Law 14-18, § 7d</annotation>
-    <annotation app="2017-12-13" doc="D.C. Law 22-35" eff="2017-12-13" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-35" eff="2017-12-13" path="§2" prefix="as added" type="History"/>
+    <annotation app="2017-12-13" doc="D.C. Law 22-35" eff="2017-12-13" path="§2" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-35" path="§2" codified:display="Note" app="2017-12-13" eff="2017-12-13">Applicability of <cite doc="D.C. Law 22-35" path="">D.C. Law 22-35</cite>: <cite doc="D.C. Law 22-35" path="§3">§ 3 of D.C. Law 22-35</cite> provided that the creation of this section by <cite doc="D.C. Law 22-35" path="§2">§ 2 of D.C. Law 22-35</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-35" eff="2017-12-13" path="§2" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§5022" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-434" path="§5022">§ 5022 of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§5022" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§5022" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§5022">§ 5022 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§5022" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§5022">§ 5022 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§5022" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5022|(b)|(2)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5022|(b)|(1)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5022|(a)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5022|(c)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5023" type="History" display="false"/>
+    <annotation doc="D.C. Law 22-168" path="§5023" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§5023">Section 5023 of D.C. Law 22-168</cite> amended <cite doc="D.C. Law 22-35" path="§3|(a)">section 3(a) of D.C. Law 22-35</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by section 2 of Law 22-35 has been implemented, except for subsection (b).
+        </annotation>
   </annotations>
 </section>

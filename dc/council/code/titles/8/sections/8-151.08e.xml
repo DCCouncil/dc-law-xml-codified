@@ -1,16 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>8-151.08e</num>
   <heading>Public reporting.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Director shall, consistent with applicable federal railroad safety laws, publish on a biannual basis, information related to railroad safety and security, including:</text>
+    <para>
+      <num>(1)</num>
+      <text>The quantity of hazardous materials that were transported within or through the District by railroad during the reporting period; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The railroad inspection, investigation, and surveillance activities performed by the Department under §§ <cite path="§8-151.08c" num-value="8-151.08c">§ 8-151.08c</cite> and <cite path="§8-151.08f" num-value="8-151.08f">§ 8-151.08f</cite> during the reporting period.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>In publishing the information required by subsection (a) of this section, the Director shall take into account public safety and confidentiality necessary for public security.</text>
+  </para>
+  <codify:annotation doc="D.C. Code" path="§8-151.08e" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§8-151.08e">
+             Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
+            </codify:annotation>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§8-151.08e" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-151.08e">Applicability of <cite doc="D.C. Law 21-254" path="">D.C. Law 21-254</cite>: <cite doc="D.C. Law 21-254" path="§501">§ 501 of D.C. Law 21-254</cite> provided that the creation of this section by <cite doc="D.C. Law 21-254" path="§101|(c)">§ 101(c) of D.C. Law 21-254</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 16-51" type="History" path="§108e">Feb. 15, 2006, D.C. Law 16-51, § 108e</annotation>
-    <annotation app="notfunded" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(c)" prefix="as added" type="History"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(a)" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(c)" prefix="as added" type="History"/>
+    <annotation doc="D.C. Law 21-254" path="§101|(c)" type="Construction of Law" history="false" app="2017-04-07" eff="2017-04-07">
+             Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
+            </annotation>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(c)" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 21-254" path="§101|(c)" codified:display="Note" app="2017-04-07" eff="2017-04-07">Applicability of <cite doc="D.C. Law 21-254" path="">D.C. Law 21-254</cite>: <cite doc="D.C. Law 21-254" path="§501">§ 501 of D.C. Law 21-254</cite> provided that the creation of this section by <cite doc="D.C. Law 21-254" path="§101|(c)">§ 101(c) of D.C. Law 21-254</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(c)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 21-254" eff="2017-04-07" path="§101|(c)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(d)" type="History" display="false"/>
+    <annotation doc="D.C. Law 21-254" path="§501|(d)" type="Applicability" history="false" app="2017-04-07" eff="2017-04-07">
+         Section 501(d) of D.C. Law 21-254 provided that this section shall apply after the Mayor enters an agreement to participate in railroad investigative and surveillance activities with the Federal Railroad Administration ("FRA") and the FRA delegates investigative and surveillance authority with respect to all or any part of federal railroad safety laws pursuant to 49 C.F.R. § 212.105.
+        </annotation>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(d)" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6033|(a)" type="History" display="false"/>
+    <annotation doc="D.C. Law 22-168" path="§6033|(a)" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§6033">Section 6033 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 21-254" path="§501|(a)">§ 501(a) of D.C. Law 21-254</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-254">D.C. Law 21-254</cite> has been implemented.</annotation>
   </annotations>
 </section>

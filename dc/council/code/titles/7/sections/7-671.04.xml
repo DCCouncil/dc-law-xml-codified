@@ -1,14 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>7-671.04</num>
   <heading>Access to information.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Notwithstanding any other provision of law, immediately upon the request of the Committee and as necessary to carry out the Committee's purpose and duties, the Committee shall be provided, without cost and without authorization of the persons to whom the information or records relate, access to:</text>
+    <para>
+      <num>(1)</num>
+      <text>All information and records of:</text>
+      <para>
+        <num>(A)</num>
+        <text>Any District agency, or a District agency's contractors, including birth and death certificates, law enforcement investigation data, medical examiner investigation data, and autopsy reports; and</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Health agencies that provided prenatal services to the woman; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>All information and records of any healthcare provider, healthcare facility, clinic, laboratory, or medical record department, including providers of mental health services who provided services to the deceased mother, that receives information related to maternal mortalities or prenatal care.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Committee may seek information from entities and agencies outside the District by any legal means.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>Notwithstanding subsection (a)(1) of this section, information and records concerning a current law enforcement investigation may be withheld, at the discretion of the investigating authority, if disclosure of the information would compromise a criminal investigation.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If information or records are withheld under paragraph (1) of this subsection, a report on the status of the investigation shall be submitted to the Committee every 3 months until the earliest of the following events occurs:</text>
+      <para>
+        <num>(A)</num>
+        <text>The investigation is concluded and the information or records are provided to the Committee; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The investigating authority determines that providing the information will no longer compromise the investigation and the information or records are provided to the Committee.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Committee may have access to personally identifiable information relating to maternal mortalities; provided, that the Committee shall not disclose personally identifiable information.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Department of Health and the Committee may retain data on facilities where maternal mortalities occur for analytical purposes.</text>
+    </para>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-671.04">Applicability of <cite doc="D.C. Law 22-111" path="">D.C. Law 22-111</cite>: <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> provided that the creation of this section by <cite doc="D.C. Law 22-111" path="§5">§ 5 of D.C. Law 22-111</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="§10|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-111" eff="2018-06-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-111" eff="2018-06-05" path="§5" type="History"/>
-    <annotation type="Applicability" codified:display="Note" app="2018-06-05" eff="2018-06-05" doc="D.C. Law 22-111" path="§5">Applicability of <cite doc="D.C. Law 22-111" path="">D.C. Law 22-111</cite>: <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> provided that the creation of this section by <cite doc="D.C. Law 22-111" path="§5">§ 5 of D.C. Law 22-111</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="" type="History" display="false"/>
     <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="§5" type="History"/>
+    <annotation type="Applicability" codified:display="Note" app="2018-06-05" eff="2018-06-05" doc="D.C. Law 22-111" path="§5">Applicability of <cite doc="D.C. Law 22-111" path="">D.C. Law 22-111</cite>: <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> provided that the creation of this section by <cite doc="D.C. Law 22-111" path="§5">§ 5 of D.C. Law 22-111</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 22-168" path="§7033" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7033">Section 7033 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-111">D.C. Law 22-111</cite> has been given effect.
+          </annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7033" type="History" display="false"/>
   </annotations>
 </section>

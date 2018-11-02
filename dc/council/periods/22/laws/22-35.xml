@@ -55,7 +55,7 @@
         <codify:not-funded-anno doc="D.C. Code" path="§7-1408" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§7-1408" codified:display="Note"/>
       </section>
       <section>
-        <codify:insert path="7|14" num-value="7-1409" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-1409"/>
+        <codify:insert path="7|14" num-value="7-1409" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-1409|(a)"/>
         <num>7d</num>
         <heading>Reporting requirements.</heading>
         <text>Beginning February 1, 2018, and on an annual basis thereafter, the Mayor shall submit a public report to the Council that shall include, for each of the last 12 months, the following information:</text>
@@ -119,7 +119,7 @@
           </para>
         </para>
         <annotation doc="D.C. Law 14-18" type="History" path="§6">July 12, 2001, D.C. Law 14-18, § 7d</annotation>
-        <codify:not-funded-anno doc="D.C. Code" path="§7-1409" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§7-1409" codified:display="Note"/>
+        <codify:not-funded-anno doc="D.C. Code" path="§7-1409" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§7-1409|(a)" codified:display="Note"/>
       </section>
     </include>
     <aftertext>.</aftertext>
@@ -130,7 +130,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 22-35" path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§7-1407"/>
+      <codify:applicability doc="D.C. Law 22-35" path="§2" date="notfunded" history="false"/>
     </para>
     <para>
       <num>(b)</num>

@@ -1,14 +1,96 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>42-2161.02</num>
   <heading>Membership.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Task Force shall be composed of the following 9 members:</text>
+      <para>
+        <num>(A)</num>
+        <text>A low-income renter;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A representative of an apartment building owner or office building owner;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A representative of an organization that advocates for the production, preservation, and rehabilitation of affordable housing for low-income households;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A representative of a philanthropic organization that funds affordable housing;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>A representative of an organization that provides supportive housing services to low-income residents, including housing counseling, financial management, in-kind assistance, or legal representation;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>A representative with expertise in affordable housing policy from the academic or nonprofit community;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>A representative from the for-profit residential development community;</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>A residential architect; and</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>A structural engineer.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>One representative each from the following District agencies shall also serve on the Task Force:</text>
+      <para>
+        <num>(A)</num>
+        <text>The Office of the Deputy Mayor of Planning and Economic Development;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Office of Zoning; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The Department of Housing and Community Development.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Mayor may appoint the Task Force members identified in subsection (a)(1) of this section; provided, that after 90 days from June 5, 2018 becomes applicable pursuant to <cite path="§42-2161.05">§ 42-2161.05</cite>, the Chairman of the Council of the District of Columbia shall appoint a member to any position that the Mayor has not yet filled.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Mayor may appoint the chair of the Task Force; provided, that the Chairman of the Council of the District of Columbia shall appoint the chair if the Mayor has not done so within 90 days after June 5, 2018 becomes applicable pursuant to <cite path="§42-2161.05">§ 42-2161.05</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Each member shall serve without compensation, except that members may receive reimbursement for expenses incurred in the service of the Task Force.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The Office of the Deputy Mayor of Planning and Economic Development shall provide administrative support for the Task Force.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The Task Force shall meet monthly.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§42-2161.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-2161.02">Applicability of <cite doc="D.C. Law 22-103" path="">D.C. Law 22-103</cite>: <cite doc="D.C. Law 22-103" path="§6">§ 6 of D.C. Law 22-103</cite> provided that the creation of this section by <cite doc="D.C. Law 22-103" path="§3">§ 3 of D.C. Law 22-103</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="2018-06-05" doc="D.C. Law 22-103" eff="2018-06-05" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-103" eff="2018-06-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-103" eff="2018-06-05" path="§3" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-103" path="§3" codified:display="Note" app="2018-06-05" eff="2018-06-05">Applicability of <cite doc="D.C. Law 22-103" path="">D.C. Law 22-103</cite>: <cite doc="D.C. Law 22-103" path="§6">§ 6 of D.C. Law 22-103</cite> provided that the creation of this section by <cite doc="D.C. Law 22-103" path="§3">§ 3 of D.C. Law 22-103</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-06-05" doc="D.C. Law 22-103" eff="2018-06-05" path="" type="History" display="false"/>
     <annotation app="2018-06-05" doc="D.C. Law 22-103" eff="2018-06-05" path="§3" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-103" path="§3" codified:display="Note" app="2018-06-05" eff="2018-06-05">Applicability of <cite doc="D.C. Law 22-103" path="">D.C. Law 22-103</cite>: <cite doc="D.C. Law 22-103" path="§6">§ 6 of D.C. Law 22-103</cite> provided that the creation of this section by <cite doc="D.C. Law 22-103" path="§3">§ 3 of D.C. Law 22-103</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 22-168" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30" path="§7032" display="false"><cite doc="D.C. Law 22-168" path="§7031">Section 7031 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-103" path="§6">section 6 of D.C. Law 22-103</cite> amending the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-103">D.C. Law 22-103</cite> has been implemented.</annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7032" type="History" display="false"/>
+    <annotation doc="D.C. Law 22-168" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30" path="§7032"><cite doc="D.C. Law 22-168" path="§7031">Section 7031 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-103" path="§6">section 6 of D.C. Law 22-103</cite> amending the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-103">D.C. Law 22-103</cite> has been implemented.</annotation>
   </annotations>
 </section>

@@ -154,7 +154,7 @@
       <text>New paragraphs (25), (26), and (27) are added to read as follows:</text>
       <include>
         <para>
-          <codify:insert warning="false" technical="true" codified:doc="D.C. Code" codified:path="§38-2602|(b)|[(26)]"/>
+          <codify:insert warning="false" technical="true" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(26)"/>
           <num codify:value="[(26)]">(25)</num>
           <para>
             <num>(A)</num>
@@ -270,7 +270,7 @@
           </para>
         </para>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§38-2602|(b)|[(27)]"/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§38-2602|(b)|(27)"/>
           <num codify:value="[(27)]">(26)</num>
           <para>
             <num>(A)</num>
@@ -302,7 +302,7 @@
           </para>
         </para>
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§38-2602|(b)|[(28)]"/>
+          <codify:insert codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)"/>
           <num codify:value="[(28)]">(27)</num>
           <para>
             <num>(A)</num>

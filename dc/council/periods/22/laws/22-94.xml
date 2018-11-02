@@ -34,7 +34,7 @@
       <para codify:path="(3A)|num">
         <num>(1)</num>
         <text>Paragraph (3A) is redesignated as paragraph (3B).</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1161.01|(3A)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1161.01|[(3C)]">
           <find>(3A)</find>
           <replace>(3B)</replace>
         </codify:find-replace>
@@ -173,7 +173,7 @@
       <para codify:path="(33A)|num">
         <num>(9)</num>
         <text>Paragraph (33A) is redesignated as paragraph (33B).</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1161.01|(33A)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1161.01|(33B)">
           <find>(33A)</find>
           <replace>(33B)</replace>
         </codify:find-replace>
@@ -376,11 +376,11 @@
       <para codify:path="§1-1163.10a">
         <num>(3)</num>
         <text>Section 310a (D.C. Official Code § 1-1163.10a) is amended by striking the word "Within" and inserting the phrase "Except as provided in section 332h, within" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1163.10a">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1163.10a|(a)">
           <find>Within</find>
           <replace>Except as provided in <code-cite doc="D.C. Code" path="§1-1163.32h">section 332h</code-cite>, within</replace>
         </codify:find-replace>
-        <codify:not-funded-anno doc="D.C. Code" path="§1-1163.10a" applicability-path="§3" codified:doc="D.C. Code" codified:path="§1-1163.10a" codified:display="Note"/>
+        <codify:not-funded-anno doc="D.C. Code" path="§1-1163.10a" applicability-path="§3" codified:doc="D.C. Code" codified:path="§1-1163.10a|(a)" codified:display="Note"/>
       </para>
       <para codify:path="§1-1163.12|(a)">
         <num>(4)</num>
@@ -997,7 +997,7 @@
               <codify:not-funded-anno doc="D.C. Code" path="§1-1163.32i" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§1-1163.32i" codified:display="Note"/>
             </section>
             <section>
-              <codify:insert doc="D.C. Code" path="1|11A|III|C-i" num-value="1-1163.32j" history-prefix="as added" codified:doc="D.C. Code" codified:path="§1-1163.32j"/>
+              <codify:insert doc="D.C. Code" path="1|11A|III|C-i" num-value="1-1163.32j" history-prefix="as added" codified:doc="D.C. Code" codified:path="§1-1163.32j|(a)"/>
               <num>332j</num>
               <heading>Reporting by the Director of Campaign Finance.</heading>
               <text>The Director of Campaign Finance shall publish on the Office of Campaign Finance's website and submit a report to the Mayor and the Council no later than 9 months after the end of each election cycle. The report shall include, at a minimum, the following:</text>
@@ -1113,7 +1113,7 @@
                 </para>
               </para>
               <annotation doc="D.C. Law 19-124" type="History" path="§332j">Apr. 27, 2012, D.C. Law 19-124, § 332j</annotation>
-              <codify:not-funded-anno doc="D.C. Code" path="§1-1163.32j" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§1-1163.32j" codified:display="Note"/>
+              <codify:not-funded-anno doc="D.C. Code" path="§1-1163.32j" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§1-1163.32j|(a)" codified:display="Note"/>
             </section>
             <section>
               <codify:insert doc="D.C. Code" path="1|11A|III|C-i" num-value="1-1163.32k" history-prefix="as added" codified:doc="D.C. Code" codified:path="§1-1163.32k"/>
@@ -1208,7 +1208,7 @@
       <para>
         <num>(1)</num>
         <text>The date of inclusion of its fiscal effect in an approved budget and financial plan; or</text>
-        <codify:applicability doc="D.C. Law 22-94" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§1-1161.01|(3A)"/>
+        <codify:applicability doc="D.C. Law 22-94" date="notfunded" history="false"/>
       </para>
       <para>
         <num>(2)</num>

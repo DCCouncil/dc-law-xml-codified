@@ -1,21 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>25-408</num>
-  <heading>Application for a tasting permit for a class A licensee.</heading>
-  <text>The application for issuance or renewal of a tasting permit for off-premises retailer’s license, class A, shall include:</text>
-  <para>
-    <num>(1)</num>
-    <text>A copy of the applicant’s off-premises’s retailers license, class A;</text>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>Drawings of the premises indicating the areas where sampling is to occur; and</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>The hours and days during which the tasting is to occur.</text>
-  </para>
+  <heading>Application for a tasting permit.</heading>
+  <text>The application for a new or the renewal of a tasting permit issued in accordance with <cite path="§25-118">§ 25-118</cite> shall include a diagram of the premises indicating the areas where sampling is to occur and the hours and days during which the tasting is to occur.</text>
   <annotations>
     <annotation doc="D.C. Law 13-298" type="History">May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959</annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-165" eff="2018-10-30" path="§2|(d)|(2)" type="History"/>
   </annotations>
 </section>

@@ -289,7 +289,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the phrase "any free cigarettes or other tobacco product" and insert the phrase "any free tobacco product" in its place.</text>
-        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1731|(a)">
+        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1731|(a)|(1)">
           <find>any free cigarettes or other tobacco product</find>
           <replace>any free tobacco product</replace>
         </codify:find-replace>
@@ -297,7 +297,7 @@
       <para>
         <num>(2)</num>
         <text>Strike the phrase "free cigarettes or other tobacco products" and insert the phrase "tobacco products" in its place.</text>
-        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1731|(a)">
+        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1731|(a)|(1)">
           <find>free cigarettes or other tobacco products</find>
           <replace>tobacco products</replace>
         </codify:find-replace>
@@ -305,7 +305,7 @@
       <para>
         <num>(3)</num>
         <text>Strike the phrase "catering to adults" and insert the phrase "catering to adults; provided, that no tobacco product shall be distributed to persons under 21 years of age" in its place.</text>
-        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1731|(a)">
+        <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1731|(a)|(1)">
           <find>catering to adults</find>
           <replace>catering to adults; provided, that no tobacco product shall be distributed to persons under 21 years of age</replace>
         </codify:find-replace>
@@ -316,7 +316,7 @@
       <text>A new paragraph (2) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§7-1731|(a)"/>
+          <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§7-1731|(a)|(2)"/>
           <num>(2)</num>
           <text>For the purposes of this subsection, the term "tobacco product" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§7-1721.01|(1)">section 2(1) of An act to prohibit the sale of tobacco to minors under sixteen years of age in the District of Columbia, approved February 7, 1891 (26 Stat. 736; D.C. Official Code § 7-1721.01(1))</code-cite>.</text>
         </para>
@@ -340,7 +340,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability date="pending" history="false" codified:doc="D.C. Code" codified:path="§7-1721.01|(1)"/>
+      <codify:applicability date="pending" history="false"/>
     </para>
     <para>
       <num>(b)</num>

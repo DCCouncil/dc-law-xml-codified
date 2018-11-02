@@ -1,14 +1,50 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>7-757.01</num>
   <heading>Definitions.</heading>
-  <text>Not Funded.</text>
+  <text>For the purposes of <cite path="7|7B-iii">this chapter</cite>, the term:</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>"Health literacy" means the ability to make informed decisions about one's personal health, to prevent or treat illness, based on an understanding of the principles of obtaining, processing, and comprehending basic health information, products, and services, including:</text>
+      <para>
+        <num>(A)</num>
+        <text>Knowing how the Patient Protection and Affordable Care Act impacts them;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Developing health knowledge into a set of positive attitudes and behaviors;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Learning how to apply for and access health care through DC Health Link, the federal health care exchange, or private health care providers;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Being able to communicate health needs with health care providers, evaluate information for credibility and quality, calculate dosages of medicines and treatments, understand the components of health plans, and read a health insurance card;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Knowing how to appropriately navigate and utilize the health care system and internalize health care terminology; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Being aware of the beneficial effects of good health practices, and making good health a personal priority.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Health literacy level" means a person's ability to apply health literacy skills to everyday situations and tasks.</text>
+    </para>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-757.01">Applicability of <cite doc="D.C. Law 22-66" path="">D.C. Law 22-66</cite>: <cite doc="D.C. Law 22-66" path="§7">§ 7 of D.C. Law 22-66</cite> provided that the creation of this section by <cite doc="D.C. Law 22-66" path="§2">§ 2 of D.C. Law 22-66</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2018-03-06" doc="D.C. Law 22-66" eff="2018-03-06" path="" type="History" display="false"/>
-    <annotation app="2018-03-06" doc="D.C. Law 22-66" eff="2018-03-06" path="§7|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-66" eff="2018-03-06" path="§2" type="History"/>
-    <annotation type="Applicability" codified:display="Note" app="2018-03-06" eff="2018-03-06" doc="D.C. Law 22-66" path="§2">Applicability of <cite doc="D.C. Law 22-66" path="">D.C. Law 22-66</cite>: <cite doc="D.C. Law 22-66" path="§7">§ 7 of D.C. Law 22-66</cite> provided that the creation of this section by <cite doc="D.C. Law 22-66" path="§2">§ 2 of D.C. Law 22-66</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2018-03-06" doc="D.C. Law 22-66" eff="2018-03-06" path="§2" type="History"/>
+    <annotation type="Applicability" codified:display="Note" app="2018-03-06" eff="2018-03-06" doc="D.C. Law 22-66" path="§2">Applicability of <cite doc="D.C. Law 22-66" path="">D.C. Law 22-66</cite>: <cite doc="D.C. Law 22-66" path="§7">§ 7 of D.C. Law 22-66</cite> provided that the creation of this section by <cite doc="D.C. Law 22-66" path="§2">§ 2 of D.C. Law 22-66</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 22-168" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30" path="§7023" display="false"><cite doc="D.C. Law 22-168" path="§7023">Section 7023 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-66" path="§7">section 7 of D.C. Law 22-66</cite> amending the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-66">D.C. Law 22-66</cite> has been implemented.</annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7023" type="History" display="false"/>
+    <annotation doc="D.C. Law 22-168" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30" path="§7023"><cite doc="D.C. Law 22-168" path="§7023">Section 7023 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-66" path="§7">section 7 of D.C. Law 22-66</cite> amending the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-66">D.C. Law 22-66</cite> has been implemented.</annotation>
   </annotations>
 </section>

@@ -668,7 +668,7 @@
         <text>A new paragraph (2) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§2-534|(d)|(2)"/>
+            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§2-534|(d)"/>
             <num>(2)</num>
             <text>An actual address, as that term is defined in <code-cite doc="D.C. Code" path="§4-555.01">section 101 of the Address Confidentiality Act of 2018, passed on 2nd reading on April 10, 2018 (Enrolled version of Bill 22-37)</code-cite>, shall not be disclosed under <code-cite doc="D.C. Code" path="2|5|I">this title</code-cite>.</text>
           </para>
@@ -714,9 +714,9 @@
       <para>
         <num>(a)</num>
         <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-        <codify:applicability path="I" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-555.01"/>
-        <codify:applicability path="§202" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§2-1831.03|(b-24)"/>
-        <codify:applicability path="§203" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§5-113.06|(d)"/>
+        <codify:applicability path="I" date="notfunded" history="false"/>
+        <codify:applicability path="§202" date="notfunded" history="false"/>
+        <codify:applicability path="§203" date="notfunded" history="false"/>
       </para>
       <para>
         <num>(b)</num>

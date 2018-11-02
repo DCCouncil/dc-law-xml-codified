@@ -399,7 +399,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VII</num>
-      <heading>2017 - 2018 Medicaid Hospital Outpatient Supplemental Payment.</heading>
+      <heading> Hospital Outpatient Supplemental Payment.<annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5032" type="History"/></heading>
       <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="V" type="History" display="false"/>
       <xi:include href="./sections/44-664.01.xml"/>
       <xi:include href="./sections/44-664.02.xml"/>
@@ -414,7 +414,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VIII</num>
-      <heading>2017 - 2018 Medicaid Hospital Inpatient Rate Supplement.</heading>
+      <heading> Hospital Inpatient Rate Supplement.<annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5032" type="History"/></heading>
       <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="V" type="History" display="false"/>
       <xi:include href="./sections/44-664.11.xml"/>
       <xi:include href="./sections/44-664.12.xml"/>
@@ -682,7 +682,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>11A</num>
-    <heading>Stroke System of Care.</heading>
+    <heading>Stroke System of Care. [Repealed]</heading>
     <xi:include href="./sections/44-1151.xml"/>
     <xi:include href="./sections/44-1152.xml"/>
     <xi:include href="./sections/44-1153.xml"/>
@@ -694,8 +694,9 @@
     <xi:include href="./sections/44-1159.xml"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§7204" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) repeal of this chapter, see <cite doc="D.C. Act 22-434" path="§7204">§ 7204 of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§7204" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§7204" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) repeal of this chapter, see <cite doc="D.C. Act 22-458" path="§7204">§ 7204 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§7204" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) repeal of this chapter, see <cite doc="D.C. Act 22-458" path="§7204">§ 7204 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§7204" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7204" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

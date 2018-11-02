@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-231.25</num>
-  <text>Certification from the system of vital statistics</text>
+  <heading>Certification from the system of vital statistics.</heading>
   <para>
     <num>(a)</num>
     <para>
@@ -30,7 +30,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>The Registrar shall specify through rules issued pursuant to section 129 the forms of identification an applicant may provide in support of an application for a certified copy of a vital record; provided, that for applications received pursuant to subsection (b) of this section from inmates incarcerated by the Federal Bureau of Prisons, if the Registrar requires an applicant to provide identification when requesting a certified copy of all or part of a vital record, the Registrar shall accept identifying information provided by the Federal Bureau of Prisons as one permissible form of identification.</text>
+    <text>The Registrar shall specify through rules issued pursuant to <cite path="§7-231.29">§ 7-231.29</cite> the forms of identification an applicant may provide in support of an application for a certified copy of a vital record; provided, that for applications received pursuant to subsection (b) of this section from inmates incarcerated by the Federal Bureau of Prisons, if the Registrar requires an applicant to provide identification when requesting a certified copy of all or part of a vital record, the Registrar shall accept identifying information provided by the Federal Bureau of Prisons as one permissible form of identification.</text>
   </para>
   <para>
     <num>(d)</num>
@@ -40,7 +40,7 @@
     <num>(e)</num>
     <para>
       <num>(1)</num>
-      <text>The Registrar shall review the evidence of entitlement the applicant provides to support a request for a certified copy of a vital record. Such evidence shall consist of copies of vital records, court documents, or alternative methods identified and considered acceptable by the Registrar through rules issued pursuant to section 129. Evidence of entitlement shall demonstrate that the applicant is authorized to receive a certified copy of a vital record.</text>
+      <text>The Registrar shall review the evidence of entitlement the applicant provides to support a request for a certified copy of a vital record. Such evidence shall consist of copies of vital records, court documents, or alternative methods identified and considered acceptable by the Registrar through rules issued pursuant to <cite path="§7-231.29">§ 7-231.29</cite>. Evidence of entitlement shall demonstrate that the applicant is authorized to receive a certified copy of a vital record.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -88,11 +88,11 @@
   </para>
   <para>
     <num>(j)</num>
-    <text>Each death certificate issued for a record shall include the date of registration.  Except as provided by rules issued pursuant to section 129, each certificate issued from a record marked or flagged as "amended" shall be similarly marked or flagged and shall indicate the effective date of the amendment. A certificate issued from a record marked or flagged as "delayed" shall be similarly marked or flagged and shall include the date of registration and a description of the evidence used to establish the delayed record. A certificate issued from a record of foreign live birth shall indicate this fact , display the actual place of live birth, and state that the certificate is not proof of United States citizenship. A certificate issued from a live birth record that has been matched to a death record shall be marked or flagged as "deceased".</text>
+    <text>Each death certificate issued for a record shall include the date of registration.  Except as provided by rules issued pursuant to <cite path="§7-231.29">§ 7-231.29</cite>, each certificate issued from a record marked or flagged as "amended" shall be similarly marked or flagged and shall indicate the effective date of the amendment. A certificate issued from a record marked or flagged as "delayed" shall be similarly marked or flagged and shall include the date of registration and a description of the evidence used to establish the delayed record. A certificate issued from a record of foreign live birth shall indicate this fact , display the actual place of live birth, and state that the certificate is not proof of United States citizenship. A certificate issued from a live birth record that has been matched to a death record shall be marked or flagged as "deceased".</text>
   </para>
   <para>
     <num>(k)</num>
-    <text>Information identified in the U.S. Standard Certificates of Live Birth, Death, and Report of Fetal Death, or identified as for medical or health use only in any vital record through rules issued pursuant to section 129 shall not be subject to subpoena or court order and shall not be admissible before any court, tribunal, or judicial body. Information identified as for administrative, statistical, medical, or health use only shall not be included in a certificate issued for the vital record.</text>
+    <text>Information identified in the U.S. Standard Certificates of Live Birth, Death, and Report of Fetal Death, or identified as for medical or health use only in any vital record through rules issued pursuant to <cite path="§7-231.29">§ 7-231.29</cite> shall not be subject to subpoena or court order and shall not be admissible before any court, tribunal, or judicial body. Information identified as for administrative, statistical, medical, or health use only shall not be included in a certificate issued for the vital record.</text>
   </para>
   <para>
     <num>(l)</num>
@@ -116,14 +116,17 @@
   </para>
   <para>
     <num>(q)</num>
-    <text>No individual shall prepare or issue any paper or electronic document that purports to be an original vital record, a certification or a verification of a vital record, or a copy of a vital record except as authorized by this act or rules promulgated pursuant to section 129.</text>
+    <text>No individual shall prepare or issue any paper or electronic document that purports to be an original vital record, a certification or a verification of a vital record, or a copy of a vital record except as authorized by <cite path="7|2A">this chapter</cite> or rules promulgated pursuant to <cite path="§7-231.29">§ 7-231.29</cite>.</text>
   </para>
   <para>
     <num>(r)</num>
     <text>An application and any supporting documentation submitted to obtain a certificate of a vital record shall be confidential and shall not be disclosed except upon the order of the court.</text>
   </para>
   <annotations>
-    <annotation app="2018-09-05" doc="D.C. Act 22-438" eff="2018-09-05" path="" type="History" display="false"/>
-    <annotation app="2018-09-05" doc="D.C. Act 22-438" eff="2018-09-05" path="§125" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§125" type="History"/>
+    <annotation doc="D.C. Law 22-164" path="§401" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-164" path="§401">Section 401 of D.C. Law 22-164</cite> provided that subsection (c) of this section shall apply as of October 1, 2018.
+      </annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§401" type="History" display="false"/>
   </annotations>
 </section>

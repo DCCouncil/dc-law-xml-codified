@@ -4295,7 +4295,7 @@
         <para codify:path="§38-2903">
           <num>(a)</num>
           <text>Section 104 (D.C. Official Code § 38-2903) is amended by striking the phrase "$9,682 per student for fiscal year 2017" and inserting the phrase "$9,972 per student for Fiscal Year 2018" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2903">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2903|(a)">
             <find>$9,682 per student for Fiscal Year 2017</find>
             <replace>$9,972 per student for Fiscal Year 2018</replace>
           </codify:find-replace>
@@ -4663,7 +4663,7 @@
           <num>(b)</num>
           <text>The increase to the Uniform Per Student Funding Formula for District of Columbia Public Schools, pursuant to section 4002, shall not be used in Fiscal Year 2018 to satisfy any compensation terms required by any collective bargaining agreements that become effective in Fiscal Year 2018.</text>
         </para>
-        <codify:annotation path="§38-2903" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§38-2903">
+        <codify:annotation path="§38-2903" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§38-2903|(a)">
           For the intent to increase funding for instructional staffing and support and prohibition on use of funding, see <cite doc="D.C. Law 22-33" path="§4003">section 4003 of D.C. Law 22-33</cite>.
         </codify:annotation>
         <codify:annotation path="§38-2904" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§38-2904">
@@ -4942,7 +4942,7 @@
         <para codify:path="[(27)]|(B)">
           <num>(a)</num>
           <text>Paragraph (27) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|[(27)]|(B)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(27)|(B)">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -4950,7 +4950,7 @@
         <para codify:path="[(28)]|(E)|(iii)">
           <num>(b)</num>
           <text>Paragraph (28) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|[(28)]|(E)|(iii)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)|(E)|(iii)">
             <find>discipline.</find>
             <replace>discipline; and</replace>
           </codify:find-replace>
@@ -8138,7 +8138,7 @@
               <para>
                 <num>(1)</num>
                 <text><code-cite doc="D.C. Code" path="§5-652" codify:value="Section 5-652">Section 652</code-cite> shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-                <codify:applicability doc="D.C. Law 15-194" path="§652" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§5-652"/>
+                <codify:applicability doc="D.C. Law 15-194" path="§652" date="notfunded" history="false"/>
               </para>
               <para>
                 <num>(2)</num>
@@ -8374,36 +8374,36 @@
         <text>Section 701(a) of the Comprehensive Youth Justice Amendment Act of 2016, effective April 4, 2017 (D.C. Law 21-238; 63 DCR 15312), is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace doc="D.C. Law 21-238" path="§701|(a)" codified:doc="D.C. Code" codified:path="§1-301.81"/>
+            <codify:replace doc="D.C. Law 21-238" path="§701|(a)"/>
             <num>(a)</num>
             <text>Sections 102(e)(3) and (4), 103, and 204(b) shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
-            <codify:applicability path="§102|(e)|(3)|(B)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§16-2313|(d)|(1)"/>
-            <codify:applicability path="§102|(e)|(3)|(C)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§16-2313|(d)|(2)"/>
-            <codify:applicability path="§102|(e)|(4)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§16-2313|(e)"/>
-            <codify:applicability path="§103" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§23-1322|(g)|(2)"/>
-            <codify:annotation doc="D.C. Code" path="§16-2310" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-2310"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section.
+            <codify:applicability path="§102|(e)|(3)|(B)" date="notfunded" history="false"/>
+            <codify:applicability path="§102|(e)|(3)|(C)" date="notfunded" history="false"/>
+            <codify:applicability path="§102|(e)|(4)" date="notfunded" history="false"/>
+            <codify:applicability path="§103" date="notfunded" history="false"/>
+            <codify:annotation doc="D.C. Code" path="§16-2310" type="Applicability" history="false"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section.
             </codify:annotation>
-            <codify:annotation doc="D.C. Code" path="§16-2312" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-2312"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
+            <codify:annotation doc="D.C. Code" path="§16-2312" type="Applicability" history="false"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
             </codify:annotation>
-            <codify:annotation doc="D.C. Code" path="§16-2313" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-2313"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, retaining some of the applicability restrictions affecting this section, therefore those changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have not been implemented.
+            <codify:annotation doc="D.C. Code" path="§16-2313" type="Applicability" history="false"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, retaining some of the applicability restrictions affecting this section, therefore those changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have not been implemented.
             </codify:annotation>
-            <codify:annotation doc="D.C. Code" path="§16-2320" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§16-2320"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
+            <codify:annotation doc="D.C. Code" path="§16-2320" type="Applicability" history="false"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
             </codify:annotation>
-            <codify:annotation doc="D.C. Code" path="§23-1322" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§23-1322"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, retaining the applicability restrictions affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have not been implemented.
+            <codify:annotation doc="D.C. Code" path="§23-1322" type="Applicability" history="false"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, retaining the applicability restrictions affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have not been implemented.
             </codify:annotation>
-            <codify:annotation doc="D.C. Code" path="§1-301.81" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§1-301.81"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
+            <codify:annotation doc="D.C. Code" path="§1-301.81" type="Applicability" history="false"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
             </codify:annotation>
-            <codify:annotation doc="D.C. Code" path="§5-113.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§5-113.01"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
+            <codify:annotation doc="D.C. Code" path="§5-113.01" type="Applicability" history="false"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
             </codify:annotation>
-            <codify:annotation doc="D.C. Code" path="§22-4234" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§22-4234"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
+            <codify:annotation doc="D.C. Code" path="§22-4234" type="Applicability" history="false"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
             </codify:annotation>
-            <codify:annotation doc="D.C. Code" path="§24-211.02" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§24-211.02"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
+            <codify:annotation doc="D.C. Code" path="§24-211.02" type="Applicability" history="false"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
             </codify:annotation>
-            <codify:annotation doc="D.C. Code" path="§2-1515.04" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1515.04"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
+            <codify:annotation doc="D.C. Code" path="§2-1515.04" type="Applicability" history="false"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
             </codify:annotation>
-            <codify:annotation doc="D.C. Code" path="§2-1515.04b" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§2-1515.04b"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
+            <codify:annotation doc="D.C. Code" path="§2-1515.04b" type="Applicability" history="false"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended <cite doc="D.C. Law 21-238" path="§701|(a)">§ 701(a) of D.C. Law 21-238</cite>, removing the applicability restriction affecting this section, therefore the changes made to this section by <cite doc="D.C. Law 21-238">D.C. Law 21-238</cite> have been implemented.
             </codify:annotation>
-            <codify:annotation doc="D.C. Code" path="§24-913" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§24-913"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended section 701(a) of D.C. Law 21-238 providing that the creation of subsection (b) this section by § 204 of D.C. Law 21-238 is subject to the inclusion of the provision’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
+            <codify:annotation doc="D.C. Code" path="§24-913" type="Applicability" history="false"><cite doc="D.C. Law 22-33" path="§7026">Section 7026 of D.C. Law 22-33</cite> amended section 701(a) of D.C. Law 21-238 providing that the creation of subsection (b) this section by § 204 of D.C. Law 21-238 is subject to the inclusion of the provision’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.
             </codify:annotation>
           </para>
         </include>
@@ -10461,7 +10461,7 @@
         <para codify:path="(2)">
           <num>(a)</num>
           <text>Paragraph (2) is amended by striking the phrase "$90 million" and inserting the phrase "$94 million" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1217.36b|(2)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1217.36b">
             <find>$90 million</find>
             <replace>$94 million</replace>
           </codify:find-replace>
@@ -10471,27 +10471,27 @@
           <text>New paragraphs (4), (5), (6), (7), and (8) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§2-1217.36b|(4)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§2-1217.36b"/>
               <num>(4)</num>
               <text>An analysis has been completed showing the Project is financially sustainable and economically viable.</text>
             </para>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§2-1217.36b|(5)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§2-1217.36b"/>
               <num>(5)</num>
               <text>The TIF scope will include a significant investment in new infrastructure, public improvements, and ample parking for the area.</text>
             </para>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§2-1217.36b|(6)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§2-1217.36b"/>
               <num>(6)</num>
               <text>The Project has strong community and Council support.</text>
             </para>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§2-1217.36b|(7)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§2-1217.36b"/>
               <num>(7)</num>
               <text>The Project will serve as a catalyst for welcoming retail and residential visits to an emerging neighborhood and along a prominent gateway corridor of the District.</text>
             </para>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§2-1217.36b|(8)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§2-1217.36b"/>
               <num>(8)</num>
               <text>The TIF is ready to proceed to market, and given current market conditions, it is important that the Council approve a TIF for this project in 2017.</text>
             </para>

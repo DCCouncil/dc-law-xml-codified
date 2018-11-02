@@ -232,7 +232,7 @@
       <para codify:path="[(58)]">
         <num>(b)</num>
         <text>Paragraph (57) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|[(58)]">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01|(f)">
           <find><code-cite doc="D.C. Code" path="3|12B|I">section 2 of the Interstate Medical Licensure Compact Enactment Act of 2018, passed on 2nd reading on March 6, 2018 (Enrolled version of Bill 22-177)</code-cite>.</find>
           <replace><code-cite doc="D.C. Code" path="3|12B|I">section 2 of the Interstate Medical Licensure Compact Enactment Act of 2018, passed on 2nd reading on March 6, 2018 (Enrolled version of Bill 22-177)</code-cite>; and</replace>
         </codify:find-replace>
@@ -242,7 +242,7 @@
         <text>A new paragraph (58) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="[(58)]" num-value="[(59)]" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|[(59)]"/>
+            <codify:insert after="[(58)]" num-value="[(59)]" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(59)"/>
             <num>(58)</num>
             <text>The Maternal Mental Health Task Force, established by <code-cite doc="D.C. Code" path="7|12B">the Maternal Mental Health Task Force Establishment Act of 2018, passed on 2nd reading on May 1, 2018 (Enrolled version of Bill 22-172)</code-cite>.</text>
           </para>

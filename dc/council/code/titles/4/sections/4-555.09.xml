@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>4-555.09</num>
   <heading>Immunity from liability.</heading>
-  <text>Not Funded.</text>
+  <text>Neither the District government nor its employees, nor an application assistant, shall be liable for the failure of a participant to receive any mail forwarded to her or him by OVSJG pursuant to <cite path="4|5|III-A">this subchapter</cite>.</text>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§4-555.09" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-555.09">Applicability of <cite doc="D.C. Law 22-118" path="">D.C. Law 22-118</cite>: <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> provided that the creation of this section by <cite doc="D.C. Law 22-118" path="§109">§ 109 of D.C. Law 22-118</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="" type="History" display="false"/>
-    <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-118" eff="2018-07-03" path="§109" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-118" path="§109" codified:display="Note" app="2018-07-03" eff="2018-07-03">Applicability of <cite doc="D.C. Law 22-118" path="">D.C. Law 22-118</cite>: <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> provided that the creation of this section by <cite doc="D.C. Law 22-118" path="§109">§ 109 of D.C. Law 22-118</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="§109" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-118" path="§109" codified:display="Note" app="2018-07-03" eff="2018-07-03">Applicability of <cite doc="D.C. Law 22-118" path="">D.C. Law 22-118</cite>: <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> provided that the creation of this section by <cite doc="D.C. Law 22-118" path="§109">§ 109 of D.C. Law 22-118</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 22-168" path="§7035" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7035">Section 7035 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-118">D.C. Law 22-118</cite> has been given effect.
+          </annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7035" type="History" display="false"/>
   </annotations>
 </section>

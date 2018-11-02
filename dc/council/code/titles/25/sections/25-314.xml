@@ -26,7 +26,7 @@
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>No license shall be issued for any establishment within 400 feet of a public, private, or parochial primary, elementary, or high school; college or university; or recreation area operated by the District of Columbia Department of Parks and Recreation, except as provided in paragraphs (2) through (5) of this subsection.</text>
+      <text>No license shall be issued for any establishment within 400 feet of a public, private, or parochial primary, elementary, or high school; college or university; or recreation area operated by the District of Columbia Department of Parks and Recreation, except as provided in paragraphs (2) through (9) of this subsection.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -34,7 +34,14 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>The 400-foot restriction shall not apply if there exists within 400 feet a currently-functioning establishment holding a license of the same class at  the time that the new application is submitted.</text>
+      <para>
+        <num>(A)</num>
+        <text>The 400-foot restriction shall not apply if there exists within 400 feet a currently-functioning establishment holding a license of the same class at  the time that the new application is submitted.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The exception to the 400-foot restriction in subparagraph (A) of this paragraph shall not apply if the currently operating establishment holding a license of the same class is exempt from the 400-foot restriction under paragraph (8) of this subsection.</text>
+      </para>
     </para>
     <para>
       <num>(4)</num>
@@ -79,6 +86,14 @@
     <para>
       <num>(7)</num>
       <text>The 400-foot restriction shall not apply to an applicant for a retailer's license, class B, if the applicant's establishment will be located inside of a hotel and will have no direct public access to the street or the outside of the hotel's building.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>The 400-foot restriction shall not apply to an application for an on-premises retailer's license, class CT, DT, CX, or DX, or an off-premises retailer's license, class A or B, located in the Mixed Use-12 Zone, Square 473 according to the official atlases of the Zoning Commission of the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>The 400-foot restriction shall not apply to an application for an on-premises retailer's license, CR, DR, CH, DH, CT, DT, CX, or DX, where the establishment will be located entirely on a college or university campus and will not have direct public access to the street or the outside of the college's or university's main entrance.</text>
     </para>
   </para>
   <para>
@@ -131,5 +146,9 @@
     <annotation app="2018-05-03" doc="D.C. Act 22-327" eff="2018-05-03" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 22-136" path="§2" codified:display="Note" app="2018-07-17" eff="2018-07-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 22-136" path="§2">§ 2 of Southwest Waterfront Exemption Temporary Amendment Act of 2018 (D.C. Law 22-136, July 17, 2018, 65 DCR 5771)</cite>.</annotation>
     <annotation app="2018-07-17" doc="D.C. Law 22-136" eff="2018-07-17" path="§2" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-165" eff="2018-10-30" path="§2|(c)|(4)|(A)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-165" eff="2018-10-30" path="§2|(c)|(4)|(B)|(i)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-165" eff="2018-10-30" path="§2|(c)|(4)|(B)|(ii)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-165" eff="2018-10-30" path="§2|(c)|(4)|(C)" type="History"/>
   </annotations>
 </section>

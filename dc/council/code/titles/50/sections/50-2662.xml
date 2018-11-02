@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2662</num>
-  <text>Establishment of a Pilot Passenger Loading Zone Program</text>
+  <heading>Establishment of a Pilot Passenger Loading Zone Program.</heading>
   <text>DDOT shall implement a pilot program ("Program") for the establishment and operation of passenger loading zones in the District as follows:</text>
   <para>
     <num undesignated="true">(a)</num>
@@ -35,7 +35,7 @@
     </para>
     <para>
       <num>(8)</num>
-      <text>DDOT may accept funds from a BID corporation established in accordance with the Business Improvement Districts Act of 1996, effective May 29, 1996 (D.C. Law 11-134; D.C. Official Code § 2-1215.01 <em>et seq.</em>), and donated pursuant to section 115 of Title III of Division C of the Consolidated Appropriations Resolution, 2003, approved February 20, 2003 (117 Stat. 123; D.C. Official Code § 1-329.01); provided, that such funds shall be expended for the purpose of establishing and operating a passenger loading zone in that BID corporation's business improvement district.</text>
+      <text>DDOT may accept funds from a BID corporation established in accordance with <cite path="2|12|VIII">subchapter VIII of Chapter 12 of Title 2</cite>, and donated pursuant to <cite path="§1-329.01">§ 1-329.01</cite>; provided, that such funds shall be expended for the purpose of establishing and operating a passenger loading zone in that BID corporation's business improvement district.</text>
     </para>
     <para>
       <num>(9)</num>
@@ -46,12 +46,12 @@
       <text>DDOT shall operate the passenger loading zone in the Golden Triangle BID for no more than 7 months.</text>
     </para>
   </para>
-  <codify:emergency doc="D.C. Code" path="§50-2662" display-template="" history="false" action="creation of this section" codified:doc="D.C. Code" codified:path="§50-2662" codified:display="Note"/>
   <annotations>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="VI|M" type="History" display="false"/>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§6123" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§6123" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-434" path="§6123">§ 6123 of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§6123" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§6123" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-458" path="§6123">§ 6123 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§6123" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-458" path="§6123">§ 6123 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6133" type="History"/>
   </annotations>
 </section>

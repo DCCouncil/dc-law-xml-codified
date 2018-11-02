@@ -4620,7 +4620,7 @@
         <para>
           <num>(a)</num>
           <text>Section 104 (D.C. Official Code § 38-2903) is amended by striking the phrase "$9,492 per student for fiscal year 2015" and inserting the phrase "$9,682 per student for Fiscal Year 2017" in its place.</text>
-          <codify:find-replace path="§104" count="1" codified:doc="D.C. Code" codified:path="§38-2903">
+          <codify:find-replace path="§104" count="1" codified:doc="D.C. Code" codified:path="§38-2903|(a)">
             <find>$ 9,492 per student for Fiscal Year 2015</find>
             <replace>$9,682 per student for Fiscal Year 2017</replace>
           </codify:find-replace>
@@ -7736,7 +7736,7 @@
           <text>Subsection (b) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§7-221|(b)"/>
+              <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§7-221"/>
               <num>(b)</num>
               <para>
                 <num>(1)</num>
@@ -7759,7 +7759,7 @@
           <text>A new subsection (c) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§7-221|(c)"/>
+              <codify:insert after="(b)" codified:doc="D.C. Code" codified:path="§7-221"/>
               <num>(c)</num>
               <para>
                 <num>(1)</num>

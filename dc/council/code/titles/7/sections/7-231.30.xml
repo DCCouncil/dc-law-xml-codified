@@ -2,10 +2,14 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-231.30</num>
   <heading>Repealer; savings clause.</heading>
-  <text>The Vital Records Act of 1981, effective October 8, 1981 (D.C. Law 4-34; D.C. Official Code § 7-201 <em>et seq.</em>)("Act"), is repealed. The existing rules implementing the Act shall remain in effect until superseded by rules promulgated under the Vital Records Modernization Amendment Act of 2018, passed on 3rd reading on July 10, 2018 (Enrolled version of Bill 22-250).</text>
-  <codify:repeal doc="D.C. Code" path="7|2" codified:doc="D.C. Code" codified:path="§7-201"/>
+  <text><cite path="7|2">Chapter 2 of this title</cite>, is repealed. The existing rules implementing <cite path="7|2">Chapter 2 of this title</cite> shall remain in effect until superseded by rules promulgated under <cite path="7|2A">this chapter</cite>.</text>
+  <codify:repeal doc="D.C. Code" path="7|2" display-template="" codified:doc="D.C. Code" codified:path="§7-201"/>
+  <codify:find-replace doc="D.C. Code" path="7|2|heading" display="Repeal" count="1" codified:doc="D.C. Code" codified:path="7|2">
+    <find>Records.</find>
+    <replace>Records. [Repealed]</replace>
+  </codify:find-replace>
   <annotations>
-    <annotation app="2018-09-05" doc="D.C. Act 22-438" eff="2018-09-05" path="" type="History" display="false"/>
-    <annotation app="2018-09-05" doc="D.C. Act 22-438" eff="2018-09-05" path="§130" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§130" type="History"/>
   </annotations>
 </section>

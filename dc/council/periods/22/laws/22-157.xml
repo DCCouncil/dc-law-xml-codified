@@ -848,7 +848,7 @@
       <para codify:path="[(28)]">
         <num>(1)</num>
         <text>Paragraph (28) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§38-2602|(b)|[(28)]">
+        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(28)">
           <find>; and</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -881,23 +881,23 @@
     <para>
       <num>(a)</num>
       <text>Sections 204(a), 204(b), 206, and 207 of Title II of the Attendance Accountability Amendment Act of 2013, passed on 2nd reading on May 1, 2018 (Enrolled version of Bill 22-594), added by section 2(c), shall apply upon the date of inclusion of the section's fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal doc="D.C. Code" path="§38-236.04|(a)" history="false" codified:doc="D.C. Code" codified:path="§38-236.04|(a)"/>
-      <codify:find-replace doc="D.C. Code" path="§38-236.04|(a)" count="1" history="false" codified:doc="D.C. Code" codified:path="§38-236.04|(a)">
+      <codify:repeal doc="D.C. Code" path="§38-236.04|(a)" history="false"/>
+      <codify:find-replace doc="D.C. Code" path="§38-236.04|(a)" count="1" history="false">
         <find>Repealed</find>
         <replace>Not funded</replace>
       </codify:find-replace>
-      <codify:repeal doc="D.C. Code" path="§38-236.04|(b)" history="false" codified:doc="D.C. Code" codified:path="§38-236.04|(b)"/>
-      <codify:find-replace doc="D.C. Code" path="§38-236.04|(b)" count="1" history="false" codified:doc="D.C. Code" codified:path="§38-236.04|(b)">
+      <codify:repeal doc="D.C. Code" path="§38-236.04|(b)" history="false"/>
+      <codify:find-replace doc="D.C. Code" path="§38-236.04|(b)" count="1" history="false">
         <find>Repealed</find>
         <replace>Not funded</replace>
       </codify:find-replace>
-      <codify:repeal doc="D.C. Code" path="§38-236.06" history="false" codified:doc="D.C. Code" codified:path="§38-236.06"/>
-      <codify:find-replace doc="D.C. Code" path="§38-236.06" count="2" history="false" codified:doc="D.C. Code" codified:path="§38-236.06">
+      <codify:repeal doc="D.C. Code" path="§38-236.06" history="false"/>
+      <codify:find-replace doc="D.C. Code" path="§38-236.06" count="2" history="false">
         <find>Repealed</find>
         <replace>Not funded</replace>
       </codify:find-replace>
-      <codify:repeal doc="D.C. Code" path="§38-236.07" history="false" codified:doc="D.C. Code" codified:path="§38-236.07"/>
-      <codify:find-replace doc="D.C. Code" path="§38-236.07" count="2" history="false" codified:doc="D.C. Code" codified:path="§38-236.07">
+      <codify:repeal doc="D.C. Code" path="§38-236.07" history="false"/>
+      <codify:find-replace doc="D.C. Code" path="§38-236.07" count="2" history="false">
         <find>Repealed</find>
         <replace>Not funded</replace>
       </codify:find-replace>

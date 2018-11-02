@@ -1,14 +1,166 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>4-555.01</num>
   <heading>Definitions.</heading>
-  <text>Not Funded.</text>
+  <text>For the purposes of <cite path="4|5|III-A">this subchapter</cite>, the term:</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>"Actual address" means a participant's residential, work, or school address, or a combination thereof, as specified on an applicant's application to participate in the Program.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Applicant" means a District resident who:</text>
+      <para>
+        <num>(A)</num>
+        <text>Submits or intends to submit an application to OVSJG to participate in the Program; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Is a victim of a covered offense or a covered employee.</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Application assistant" means a person trained and designated by OVSJG to assist an applicant or an applicant's representative in the preparation of an application to participate in the Program.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Covered employee" means an individual, including a volunteer, who provides services at an organization:</text>
+      <para>
+        <num>(A)</num>
+        <text>That focuses on reproductive healthcare; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Whose primary purpose is serving victims of a covered offense.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Covered offense" means domestic violence, a sexual offense, stalking, or human trafficking.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Day" means calendar day, unless otherwise specified in <cite path="4|5|III-A">this subchapter</cite>.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"District agency" means any office, department, division, board, commission, or other unit of the District government, including an independent agency, required by law or by the Mayor or the Council to administer any law or any rule adopted under the authority of a law.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Domestic violence" shall have the same meaning as provided in <cite path="§4-551|(1)">§ 4-551(1)</cite>.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>"Human trafficking" means an act prohibited by <cite path="§22-1833">§ 22-1833</cite> or <cite path="§22-1834">§ 22-1834</cite>.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>"Law enforcement agency" means the Metropolitan Police Department, the Office of the Attorney General, or any other District agency, except the Office of the Chief Medical Examiner and the Department of Forensic Sciences, that has the authority to investigate, make arrests for, or prosecute or adjudicate District criminal or delinquency offenses. The term "law enforcement agency" includes a covered Federal law enforcement agency, as that term is defined in <cite path="§5-133.17|(d)">§ 5-133.17(d)</cite>, that has entered into a cooperative agreement with the Metropolitan Police Department pursuant to <cite path="§5-133.17">§ 5-133.17</cite>, to the extent the covered Federal law enforcement agency is acting pursuant to the cooperative agreement.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>"OVSJG" means the Office of Victim Services and Justice Grants.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>"Participant" means an applicant who is certified under <cite path="§4-555.03">§ 4-555.03</cite>.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>"Program" means the Address Confidentiality Program established by <cite path="4|5|III-A">this subchapter</cite> to protect the confidentiality of an actual address of a participant.</text>
+    </para>
+    <para>
+      <num>(14)</num>
+      <text>"Representative" means a parent, guardian, or legal representative of:</text>
+      <para>
+        <num>(A)</num>
+        <text>A minor, if the minor resides with the parent, guardian, or legal representative; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>An incapacitated person.</text>
+      </para>
+    </para>
+    <para>
+      <num>(15)</num>
+      <text>"Sexual offense" means any of the following offenses:</text>
+      <para>
+        <num>(A)</num>
+        <text>Incest, as described in <cite path="§22-1901">§ 22-1901</cite>);</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>First degree sexual abuse, as described in <cite path="§22-3002">§ 22-3002</cite>;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Second degree sexual abuse, as described in <cite path="§22-3003">§ 22-3003</cite>;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Third degree sexual abuse, as described in <cite path="§22-3004">§ 22-3004</cite>;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Fourth degree sexual abuse, as described in <cite path="§22-3005">§ 22-3005</cite>;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Misdemeanor sexual abuse, as described in <cite path="§22-3006">§ 22-3006</cite>;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>First degree sexual abuse of a secondary education student, as described in <cite path="§22-3009.03">§ 22-3009.03</cite>;</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Second degree sexual abuse of a secondary education student, as described in <cite path="§22-3009.04">§ 22-3009.04</cite>;</text>
+      </para>
+      <para>
+        <num>(I)</num>
+        <text>First degree sexual abuse of a ward, patient, client, or prisoner, as described in <cite path="§22-3013">§ 22-3013</cite>;</text>
+      </para>
+      <para>
+        <num>(J)</num>
+        <text>Second degree sexual abuse of a ward, patient, client, or prisoner, as described in <cite path="§22-3014">§ 22-3014</cite>;</text>
+      </para>
+      <para>
+        <num>(K)</num>
+        <text>First degree sexual abuse of a patient or client, as described in <cite path="§22-3015">§ 22-3015</cite>;</text>
+      </para>
+      <para>
+        <num>(L)</num>
+        <text>Second degree sexual abuse of a patient or client, as described in <cite path="§22-3016">§ 22-3016</cite>; or</text>
+      </para>
+      <para>
+        <num>(M)</num>
+        <text>Attempts to commit sexual offenses, as described in <cite path="§22-3018">§ 22-3018</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(16)</num>
+      <text>"Stalking" means an act prohibited by <cite path="§22-3133">§ 22-3133</cite>.</text>
+    </para>
+    <para>
+      <num>(17)</num>
+      <text>"Substitute address" means an address designated by OVSJG under the Program that can be used by a participant or a participant's representative pursuant to <cite path="4|5|III-A">this subchapter</cite>, instead of the participant's actual address.</text>
+    </para>
+    <para>
+      <num>(18)</num>
+      <text>"Tribunal" means a court, administrative agency, or other body acting in an adjudicative capacity that, after presentation of evidence or legal argument, has jurisdiction to render a decision affecting a party's interests in a matter.</text>
+    </para>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§4-555.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-555.01">Applicability of <cite doc="D.C. Law 22-118" path="">D.C. Law 22-118</cite>: <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> provided that the creation of this section by <cite doc="D.C. Law 22-118" path="§101">§ 101 of D.C. Law 22-118</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="" type="History" display="false"/>
-    <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-118" eff="2018-07-03" path="§101" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-118" path="§101" codified:display="Note" app="2018-07-03" eff="2018-07-03">Applicability of <cite doc="D.C. Law 22-118" path="">D.C. Law 22-118</cite>: <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> provided that the creation of this section by <cite doc="D.C. Law 22-118" path="§101">§ 101 of D.C. Law 22-118</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="§101" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-118" path="§101" codified:display="Note" app="2018-07-03" eff="2018-07-03">Applicability of <cite doc="D.C. Law 22-118" path="">D.C. Law 22-118</cite>: <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> provided that the creation of this section by <cite doc="D.C. Law 22-118" path="§101">§ 101 of D.C. Law 22-118</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 22-168" path="§7035" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7035">Section 7035 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-118">D.C. Law 22-118</cite> has been given effect.
+          </annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7035" type="History" display="false"/>
   </annotations>
 </section>

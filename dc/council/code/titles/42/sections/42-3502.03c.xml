@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-3502.03c</num>
-  <heading>Public Accessible Rent Control Housing Clearinghouse.</heading>
+  <heading>Public Accessible Rent Control Housing Database.</heading>
   <para>
     <num>(a)</num>
-    <text>The Office of the Tenant Advocate ("OTA"), with the assistance of and in close consultation with the Department of Consumer and Regulatory Affairs, the Office of Tax and Revenue, the Rental Accommodations Division ("RAD") of the Department of Housing and Community Development, the Housing Provider Ombudsman of the Department of Housing and Community Development, and the Office of the Chief Technology Officer, shall develop a demonstration project ("demonstration project") to establish the initial framework of a user-friendly, Internet-accessible, and searchable database for the submission, management, and review of all documents and relevant data housing providers are required to submit to the RAD pursuant to <cite path="42|35|II">this subchapter</cite>.</text>
+    <text>The Office of the Tenant Advocate ("OTA"), with the assistance of and in close consultation with the Department of Consumer and Regulatory Affairs, the Office of Tax and Revenue, the Rental Accommodations Division ("RAD") of the Department of Housing and Community Development, the Housing Provider Ombudsman of the Department of Housing and Community Development, and the Office of the Chief Technology Officer, shall develop and administer a user-friendly, Internet-accessible, and searchable database for the submission, management, and review of all documents and relevant data housing providers are required to submit to the RAD pursuant to <cite path="42|35|II">this subchapter</cite>.</text>
   </para>
   <para>
     <num>(a-1)</num>
@@ -12,14 +12,14 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>The database shall:</text>
+    <text>The database shall include:</text>
     <para>
       <num>(1)</num>
-      <text>Include an online portal, not accessible to the general public, for the filing of all documents and data by housing providers as required by this subchapter, and all regulations promulgated pursuant to this subchapter; and</text>
+      <text>An online portal for housing providers located on the website of the Department of Housing and Community Development ("DHCD"), not accessible to the general public, which housing providers shall use to file all documents and data required by this title and all regulations promulgated pursuant to <cite path="42|35|II">this subchapter</cite>; and</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Include an online portal accessible to the general public that provides information drawn from the documents submitted by housing providers pursuant to paragraph (1) of this subsection, relevant to tenants seeking and living in rent control accommodations.</text>
+      <text>An online portal accessible to the general public located on the DHCD website that provides information relevant to tenants seeking and living in rent-controlled accommodations populated from the documents submitted by housing providers pursuant to paragraph (1) of this subsection.</text>
     </para>
   </para>
   <para>
@@ -94,7 +94,7 @@
       </para>
       <para>
         <num>(Q)</num>
-        <text>The rate of return for the housing accommodation and computation required by <cite path="§42-3502.05|(f)|(6)">§ 42-3502.05(f)(6)</cite>;</text>
+        <text>The rate of return for the housing accommodation and computation required by <cite path="§42-3502.05|(f)|(3)|(D)|(iv)">§ 42-3502.05(f)(3)(D)(iv)</cite>;</text>
       </para>
       <para>
         <num>(R)</num>
@@ -109,14 +109,40 @@
         <text>Other information the OTA determines is relevant to tenants seeking and living in rent control accommodations.</text>
       </para>
     </para>
+    <para>
+      <num>(2)</num>
+      <text>Exclude any documentation submitted in support of a tenant's application for elderly or disability status pursuant to <cite path="§42-3502.08|(h)|(2)">§ 42-3502.08(h)(2)</cite>, and any other information the Rent Administrator may deem necessary to exclude to protect the privacy and personal information of a tenant.</text>
+    </para>
   </para>
   <para>
     <num>(d)</num>
-    <text>The portal accessible to the general public shall exclude any documentation submitted in support of a tenant’s application for elderly or disability status pursuant to <cite path="§42-3502.08|(h)|(2)">§ 42-3502.08(h)(2)</cite>, and any other information the Rent Administrator may deem necessary to exclude to protect the privacy and personal information of a tenant.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(e)</num>
-    <text>The demonstration project shall be completed within 2 years after December 13, 2017.</text>
+    <text>The database created pursuant to subsection (a) of this section shall be completed, tested, and operational by December 13, 2019.</text>
+  </para>
+  <para>
+    <num>(e-1)</num>
+    <para>
+      <num>(1)</num>
+      <text>Notwithstanding subsections (a) and (e) of this section, OTA shall develop and launch an online portal and database for filing registration statements and claims of exemption under <cite path="§42-3502.05|(f)">§ 42-3502.05(f)</cite> within 180 days after [insert D.C. Law 22-168 effective date], which it shall integrate into the database created pursuant to subsection (a) of this section by December 13, 2019.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The OTA may enter into a memorandum of understanding with one or more District agencies to facilitate timely completion and effective administration of the online portal and database for filing registration statements and claims of exemption.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e-2)</num>
+    <para>
+      <num>(1)</num>
+      <text>The OTA shall transfer administration and maintenance of the databases created pursuant to this section to RAD no later than December 13, 2019.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>While OTA is administering the databases created pursuant to this section, RAD may access the databases and any data housed therein as necessary to carry out its duties under <cite path="42|35|II">this subchapter</cite>.</text>
+    </para>
   </para>
   <para>
     <num>(f)</num>
@@ -124,7 +150,11 @@
   </para>
   <para>
     <num>(g)</num>
-    <text>OTA shall report to the Council regarding the progress of the demonstration project on a quarterly basis. Following completion of the demonstration project, OTA shall prepare a final report that includes OTA's recommendations for the development of a permanent rent control housing database.</text>
+    <text>The OTA shall report to the Council regarding the progress of the database created pursuant to subsection (a) of this section on a quarterly basis.</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>Beginning January 2020, DHCD shall report to the Council monthly on database usage, including, for the relevant reporting period, the total number of filings housing providers made pursuant to <cite path="42|35|II">this subchapter</cite>, the number of new registrations and claims of exemption filed pursuant to <cite path="§42-3502.05">§ 42-3502.05</cite>, and the number of searches conducted by members of the general public.  With the report, DHCD shall provide electronic spreadsheets of all data housing providers entered into the database during the relevant reporting period.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 6-10" type="History" path="§203c">July 17, 1985, D.C. Law 6-10, §  203a [203c]</annotation>
@@ -142,7 +172,17 @@
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§2092|(f)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§2282|(b)" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-434" path="§2282|(b)">§ 2282(b) of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§2282|(b)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§2282|(b)" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§2282|(b)">§ 2282(b) of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§2282|(b)" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§2282|(b)">§ 2282(b) of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§2282|(b)" type="History" display="false"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2282|(b)|(1)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2282|(b)|(2)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2282|(b)|(3)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2282|(b)|(4)|(D)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2282|(b)|(4)|(E)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2282|(b)|(5)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2282|(b)|(6)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2282|(b)|(7)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2282|(b)|(8)" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2282|(b)|(9)" type="History"/>
   </annotations>
 </section>

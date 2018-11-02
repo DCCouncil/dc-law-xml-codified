@@ -1,15 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>35-331</num>
   <heading>Definitions.</heading>
-  <text>Not Funded.</text>
+  <text>For the purposes of <cite path="35|3A">this chapter</cite>, the term:</text>
+  <para>
+    <num>(1)</num>
+    <text>"Board" means the Railroad Advisory Board established by <cite path="§35-332">§ 35-332</cite>.</text>
+  </para>
+  <para>
+    <num>(2)</num>
+    <text>"Federal railroad safety laws" shall have the same meaning as provided in <cite path="§8-151.01|(5B)">§ 8-151.01(5B)</cite>.</text>
+  </para>
+  <para>
+    <num>(3)</num>
+    <text>"Railroad carrier" shall have the same meaning as provided in <cite path="§8-151.01|(11C)">§ 8-151.01(11C)</cite>.</text>
+  </para>
+  <codify:annotation doc="D.C. Code" path="§35-331" type="Construction of Law" history="false" codified:doc="D.C. Code" codified:path="§35-331">
+             Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
+      </codify:annotation>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§35-331" codified:display="Note" codified:doc="D.C. Code" codified:path="§35-331">Applicability of <cite doc="D.C. Law 21-254" path="">D.C. Law 21-254</cite>: <cite doc="D.C. Law 21-254" path="§501">§ 501 of D.C. Law 21-254</cite> provided that the creation of this section by <cite doc="D.C. Law 21-254" path="§201">§ 201 of D.C. Law 21-254</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 21-254" eff="2017-04-07" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 21-254" eff="2017-04-07" path="§201" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 21-254" path="§201" codified:display="Note" app="2017-04-07" eff="2017-04-07">Applicability of <cite doc="D.C. Law 21-254" path="">D.C. Law 21-254</cite>: <cite doc="D.C. Law 21-254" path="§501">§ 501 of D.C. Law 21-254</cite> provided that the creation of this section by <cite doc="D.C. Law 21-254" path="§201">§ 201 of D.C. Law 21-254</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§501|(a)" type="History" display="false"/>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="" type="History" display="false"/>
     <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§201" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 21-254" eff="2017-04-07" path="§201" type="History" display="false"/>
+    <annotation doc="D.C. Law 21-254" path="§201" type="Construction of Law" history="false" app="2017-04-07" eff="2017-04-07">
+             Section 401 of Law 21-254 provided that Law 21-254 shall be construed, and the authority granted under it shall be exercised, in a manner consistent with applicable federal laws and regulations. 
+      </annotation>
+    <annotation app="2017-04-07" doc="D.C. Law 21-254" eff="2017-04-07" path="§201" type="History" display="false"/>
+    <annotation type="Applicability" doc="D.C. Law 21-254" path="§201" codified:display="Note" app="2017-04-07" eff="2017-04-07">Applicability of <cite doc="D.C. Law 21-254" path="">D.C. Law 21-254</cite>: <cite doc="D.C. Law 21-254" path="§501">§ 501 of D.C. Law 21-254</cite> provided that the creation of this section by <cite doc="D.C. Law 21-254" path="§201">§ 201 of D.C. Law 21-254</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6033|(a)" type="History" display="false"/>
+    <annotation doc="D.C. Law 22-168" path="§6033|(a)" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§6033">Section 6033 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 21-254" path="§501|(a)">§ 501(a) of D.C. Law 21-254</cite>. Therefore the creation of this section by <cite doc="D.C. Law 21-254">D.C. Law 21-254</cite> has been implemented.</annotation>
   </annotations>
 </section>

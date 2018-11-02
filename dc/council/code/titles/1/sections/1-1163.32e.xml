@@ -1,15 +1,55 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>1-1163.32e</num>
   <heading>Matching payments for qualified small-dollar contributions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Qualified-small-dollar contributions received in an election cycle before a candidate is certified as a participating candidate pursuant to <cite path="§1-1163.32c|(b)">§ 1-1163.32c(b)</cite> shall not be matched until the candidate is certified.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>After the candidate is certified, the participating candidate shall receive matching payments from the Fair Elections Fund for the qualified small-dollar contributions that the participating candidate received in that election cycle before the participating candidate was certified and those qualified small-dollar contributions received after the participating candidate was certified, in an amount equal to 500% of the amount of the qualified small-dollar contributions, subject to subsection (d) of this section.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Contributions from non-District resident individuals shall not be matched.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The maximum amount participating candidates may receive under this section shall be:</text>
+    <para>
+      <num>(1)</num>
+      <text>For candidates for Mayor and Chairman of the Council, 110% of the average expenditures of the winning candidates for that covered office, respectively, in the prior 4 election cycles (not including special elections);</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For candidates for Attorney General, 110% of the average expenditures of the winning candidates for that covered office in all prior election cycles, until such time as 4 election cycles for that covered office have been held, after which time, 110% of the average expenditures of the winning candidates for that covered office in the prior 4 election cycles (not including special elections); and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>For candidates for member of the Council elected at-large or by ward, and for candidates for member of the State Board of Education elected at-large or by ward, 110% of the average expenditures of all winning candidates for that covered office, respectively, in the prior 2 election cycles (not including special elections).</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Payments under this section shall be made no later than 5 business days after the receipt of a report made under <cite path="§1-1163.06|(a)">§ 1-1163.06(a)</cite> and <cite path="§1-1163.06|(b-1)">(b-1)</cite>.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>The Director of Campaign Finance shall provide a written explanation with respect to any denial of any payment under this section and shall provide an opportunity to appeal the denial within 5 business days.</text>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>Funds shall be distributed to participating candidates under this section through the use of an electronic funds transfer or a debit card.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§1-1163.32e" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1163.32e">Applicability of <cite doc="D.C. Law 22-94" path="">D.C. Law 22-94</cite>: <cite doc="D.C. Law 22-94" path="§3">§ 3 of D.C. Law 22-94</cite> provided that the creation of this section by <cite doc="D.C. Law 22-94" path="§2|(b)|(5)">§ 2(b)(5) of D.C. Law 22-94</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 19-124" type="History" path="§332e">Apr. 27, 2012, D.C. Law 19-124, § 332e</annotation>
-    <annotation app="notfunded" doc="D.C. Law 22-94" eff="2018-05-05" path="§3|(a)|(1)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-94" eff="2018-05-05" path="§2|(b)|(5)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-94" eff="2018-05-05" path="§2|(b)|(5)" prefix="as added" type="History"/>
+    <annotation app="2018-05-05" doc="D.C. Law 22-94" eff="2018-05-05" path="§2|(b)|(5)" type="History" display="false"/>
+    <annotation app="2018-05-05" doc="D.C. Law 22-94" eff="2018-05-05" path="§2|(b)|(5)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-94" path="§2|(b)|(5)" codified:display="Note" app="2018-05-05" eff="2018-05-05">Applicability of <cite doc="D.C. Law 22-94" path="">D.C. Law 22-94</cite>: <cite doc="D.C. Law 22-94" path="§3">§ 3 of D.C. Law 22-94</cite> provided that the creation of this section by <cite doc="D.C. Law 22-94" path="§2|(b)|(5)">§ 2(b)(5) of D.C. Law 22-94</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2018-05-05" doc="D.C. Law 22-94" eff="2018-05-05" path="§2|(b)|(5)" type="History"/>
+    <annotation doc="D.C. Law 22-168" path="§1003" history="false" type="Applicability" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§3">Section 3 of D.C. Law 22-168</cite> amended <cite doc="D.C. Law 22-94" path="§3">section 3 of D.C. Law 22-94</cite>, removing the applicability restriction impacting this section. Therefore the creation of this section by section 2(b)(5) of D.C. Law 22-94 has been implemented as of November 7, 2018. </annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1003" type="History" display="false"/>
   </annotations>
 </section>

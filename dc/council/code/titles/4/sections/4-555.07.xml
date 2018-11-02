@@ -1,14 +1,57 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>4-555.07</num>
   <heading>Program participation and procedures.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>If, at any time, a participant is subject to an order or is involved in an action of a tribunal, OVSJG shall notify the relevant tribunal of the participant's certification.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>No person shall be compelled to disclose a participant's actual address during any proceeding before a tribunal unless the tribunal finds, based upon clear and convincing evidence, that:</text>
+      <para>
+        <num>(A)</num>
+        <text>A party will suffer material harm without disclosure of the participant's actual address;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The harm to the participant is substantially outweighed by the material harm to the party requesting disclosure of the participant's actual address;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>There are no alternatives to disclosure of the participant's actual address that would address the material harm; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The disclosure is narrowly tailored in both scope and manner to disclose the minimum amount of participant information necessary to address the material harm.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A tribunal may seal the portion of any record that contains a participant's actual address.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Nothing in <cite path="4|5|III-A">this subchapter</cite>, including the fact that a person is a participant, shall affect an existing or future order relating to the allocation of custody, parental responsibilities, or parenting time.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Participation in the Program shall not constitute evidence of a covered offense.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Whenever the laws of the District provide a participant a legal duty to act within a prescribed period of 10 days or less after the service of a notice or other paper upon the participant, and the notice or paper is served upon the participant by mail pursuant to <cite path="4|5|III-A">this subchapter</cite>, 5 days shall be added to the prescribed period.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§4-555.07" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-555.07">Applicability of <cite doc="D.C. Law 22-118" path="">D.C. Law 22-118</cite>: <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> provided that the creation of this section by <cite doc="D.C. Law 22-118" path="§107">§ 107 of D.C. Law 22-118</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="" type="History" display="false"/>
-    <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-118" eff="2018-07-03" path="§107" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-118" path="§107" codified:display="Note" app="2018-07-03" eff="2018-07-03">Applicability of <cite doc="D.C. Law 22-118" path="">D.C. Law 22-118</cite>: <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> provided that the creation of this section by <cite doc="D.C. Law 22-118" path="§107">§ 107 of D.C. Law 22-118</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2018-07-03" doc="D.C. Law 22-118" eff="2018-07-03" path="§107" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-118" path="§107" codified:display="Note" app="2018-07-03" eff="2018-07-03">Applicability of <cite doc="D.C. Law 22-118" path="">D.C. Law 22-118</cite>: <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> provided that the creation of this section by <cite doc="D.C. Law 22-118" path="§107">§ 107 of D.C. Law 22-118</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 22-168" path="§7035" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7035">Section 7035 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-118" path="§301">§ 301 of D.C. Law 22-118</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-118">D.C. Law 22-118</cite> has been given effect.
+          </annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7035" type="History" display="false"/>
   </annotations>
 </section>

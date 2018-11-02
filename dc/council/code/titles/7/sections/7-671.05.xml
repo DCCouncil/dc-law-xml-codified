@@ -1,14 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>7-671.05</num>
   <heading>Subpoena power.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>When necessary for the discharge of its duties, the Committee may issue subpoenas to compel witnesses to appear, testify, or produce books, papers, correspondence, memoranda, documents, medical records, or other relevant records.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Except as provided in subsection (c) of this section, subpoenas shall be served personally upon the witness or the witness's designated agent, not less than 5 business days before the date the witness must appear or the documents must be produced, by a special process server, at least 18 years of age, engaged by the Committee.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>If, after a reasonable attempt, personal service on a witness or a witness's agent cannot be effected, a special process server identified in subsection (b) of this section may serve a subpoena by registered or certified mail not fewer than 8 business days before the date the witness must appear, testify, or produce documents.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>If a witness who has been personally summoned neglects or refuses to obey the subpoena issued pursuant to subsection (a) of this section, the Committee may report that fact to the Superior Court of the District of Columbia, and the court may compel obedience to the subpoena to the same extent as witnesses may be compelled to obey the subpoenas of the court.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-671.05">Applicability of <cite doc="D.C. Law 22-111" path="">D.C. Law 22-111</cite>: <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> provided that the creation of this section by <cite doc="D.C. Law 22-111" path="§6">§ 6 of D.C. Law 22-111</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="§10|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-111" eff="2018-06-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-111" eff="2018-06-05" path="§6" type="History"/>
-    <annotation type="Applicability" codified:display="Note" app="2018-06-05" eff="2018-06-05" doc="D.C. Law 22-111" path="§6">Applicability of <cite doc="D.C. Law 22-111" path="">D.C. Law 22-111</cite>: <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> provided that the creation of this section by <cite doc="D.C. Law 22-111" path="§6">§ 6 of D.C. Law 22-111</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="" type="History" display="false"/>
     <annotation app="2018-06-05" doc="D.C. Law 22-111" eff="2018-06-05" path="§6" type="History"/>
+    <annotation type="Applicability" codified:display="Note" app="2018-06-05" eff="2018-06-05" doc="D.C. Law 22-111" path="§6">Applicability of <cite doc="D.C. Law 22-111" path="">D.C. Law 22-111</cite>: <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> provided that the creation of this section by <cite doc="D.C. Law 22-111" path="§6">§ 6 of D.C. Law 22-111</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 22-168" path="§7033" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7033">Section 7033 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-111" path="§10">§ 10 of D.C. Law 22-111</cite> removing the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-111">D.C. Law 22-111</cite> has been given effect.
+          </annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7033" type="History" display="false"/>
   </annotations>
 </section>

@@ -1,14 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>42-2161.03</num>
   <heading>Report.</heading>
-  <text>Not Funded.</text>
+  <text>Within 120 days after the appointment of the appointed members, the Task Force shall submit a report to the Mayor and the Council that addresses the following:</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>Whether transitioning vacant commercial office space to affordable housing units, including units with multiple bedrooms, would help address the District of Columbia's affordable housing crisis;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Any legislative, regulatory, zoning, or policy changes that the Task Force recommends making to promote the transition of vacant commercial office buildings to affordable housing units, including units with multiple bedrooms; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Any costs to the District and property owners associated with the recommended changes and recommendations on how to fund such costs.</text>
+    </para>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§42-2161.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§42-2161.03">Applicability of <cite doc="D.C. Law 22-103" path="">D.C. Law 22-103</cite>: <cite doc="D.C. Law 22-103" path="§6">§ 6 of D.C. Law 22-103</cite> provided that the creation of this section by <cite doc="D.C. Law 22-103" path="§4">§ 4 of D.C. Law 22-103</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="2018-06-05" doc="D.C. Law 22-103" eff="2018-06-05" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-103" eff="2018-06-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-103" eff="2018-06-05" path="§4" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-103" path="§4" codified:display="Note" app="2018-06-05" eff="2018-06-05">Applicability of <cite doc="D.C. Law 22-103" path="">D.C. Law 22-103</cite>: <cite doc="D.C. Law 22-103" path="§6">§ 6 of D.C. Law 22-103</cite> provided that the creation of this section by <cite doc="D.C. Law 22-103" path="§4">§ 4 of D.C. Law 22-103</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2018-06-05" doc="D.C. Law 22-103" eff="2018-06-05" path="" type="History" display="false"/>
     <annotation app="2018-06-05" doc="D.C. Law 22-103" eff="2018-06-05" path="§4" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-103" path="§4" codified:display="Note" app="2018-06-05" eff="2018-06-05">Applicability of <cite doc="D.C. Law 22-103" path="">D.C. Law 22-103</cite>: <cite doc="D.C. Law 22-103" path="§6">§ 6 of D.C. Law 22-103</cite> provided that the creation of this section by <cite doc="D.C. Law 22-103" path="§4">§ 4 of D.C. Law 22-103</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Law 22-168" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30" path="§7032" display="false"><cite doc="D.C. Law 22-168" path="§7031">Section 7031 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-103" path="§6">section 6 of D.C. Law 22-103</cite> amending the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-103">D.C. Law 22-103</cite> has been implemented.</annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7032" type="History" display="false"/>
+    <annotation doc="D.C. Law 22-168" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30" path="§7032"><cite doc="D.C. Law 22-168" path="§7031">Section 7031 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 22-103" path="§6">section 6 of D.C. Law 22-103</cite> amending the applicability restriction impacting this section. Therefore the creation of this section by <cite doc="D.C. Law 22-103">D.C. Law 22-103</cite> has been implemented.</annotation>
   </annotations>
 </section>
