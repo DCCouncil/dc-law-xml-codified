@@ -26,12 +26,12 @@
     <para>
       <num>(a)</num>
       <text>Subsection (a) is amended by striking the phrase "charged by notaries public." and inserting the phrase "charged by notaries public; provided, that the schedule of fees shall not include a fee for a notarial act in an amount less than the fee established for that act by subsection (c) of this section." in its place.</text>
-      <codify:find-replace path="§571|(a)" find="charged by notaries public." replace="charged by notaries public; provided, that the schedule of fees shall not include a fee for a notarial act in an amount less than the fee established for that act by subsection (c) of this section." count="1" codified:doc="D.C. Code" codified:path="§1-1213|(a)"/>
+      <codify:find-replace path="§571|(a)" find="charged by notaries public." replace="charged by notaries public; provided, that the schedule of fees shall not include a fee for a notarial act in an amount less than the fee established for that act by subsection (c) of this section." count="1" codified:doc="D.C. Code" codified:path="§1-1213"/>
     </para>
     <para>
       <num>(b)</num>
       <text>Subsection (c) is amended by striking the figure "$2" wherever it appears and inserting the figure "$5" in its place.</text>
-      <codify:find-replace path="§571|(c)" find="$2" replace="$5" codified:doc="D.C. Code" codified:path="§1-1213|(c)"/>
+      <codify:find-replace path="§571|(c)" find="$2" replace="$5" codified:doc="D.C. Code" codified:path="§1-1213"/>
     </para>
   </section>
   <section>
