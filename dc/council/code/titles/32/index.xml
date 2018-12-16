@@ -47,6 +47,14 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>1C</num>
+    <heading>Public Information Regarding District Labor Laws.</heading>
+    <annotation app="2018-12-13" doc="D.C. Law 22-196" eff="2018-12-13" path="" type="History" display="false"/>
+    <xi:include href="./sections/32-161.xml"/>
+    <xi:include href="./sections/32-162.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Employment of Minors.</heading>
     <container>
@@ -367,6 +375,7 @@
       <xi:include href="./sections/32-1008.01.xml"/>
       <xi:include href="./sections/32-1009.xml"/>
       <xi:include href="./sections/32-1009.01.xml"/>
+      <xi:include href="./sections/32-1009.02.xml"/>
       <xi:include href="./sections/32-1010.xml"/>
       <xi:include href="./sections/32-1011.xml"/>
       <xi:include href="./sections/32-1011.01.xml"/>
@@ -504,6 +513,7 @@
       <xi:include href="./sections/32-1304.xml"/>
       <xi:include href="./sections/32-1305.xml"/>
       <xi:include href="./sections/32-1306.xml"/>
+      <xi:include href="./sections/32-1306.01.xml"/>
       <xi:include href="./sections/32-1307.xml"/>
       <xi:include href="./sections/32-1307.01.xml"/>
       <xi:include href="./sections/32-1308.xml"/>

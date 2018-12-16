@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1231.15</num>
-  <heading>Short forms</heading>
+  <heading>Short forms.</heading>
   <text>The following short form certificates of notarial acts are sufficient for the purposes indicated, if completed with the information required by <cite path="§1-1231.14|(a)">§ 1-1231.14(a)</cite> and <cite path="§1-1231.14|(b)">(b)</cite>:</text>
   <include>
     <para>
@@ -11,7 +11,7 @@
         <text>For an acknowledgment in an individual capacity:</text>
         <text>District of Columbia</text>
         <text>This record was acknowledged before me on ________ by ____________________</text>
-        <text>Date          Name(s) of individual(s)</text>
+        <text>....................................................................................Date...........Name(s) of individual(s)</text>
         <text>__________________________________</text>
         <text>	Signature of notarial officer</text>
         <text>[Seal]</text>
@@ -24,7 +24,7 @@
         <text>For an acknowledgment in a representative capacity:</text>
         <text>District of Columbia</text>
         <text>This record was acknowledged before me on ________ by _____________________</text>
-        <text>						    Date            Name(s) of individual(s)</text>
+        <text>....................................................................................Date...........Name(s) of individual(s)</text>
         <text>as (type of authority, such as officer or trustee) of (name of party on behalf of whom record was executed).</text>
         <text>__________________________________</text>
         <text>	Signature of notarial officer</text>
@@ -38,7 +38,7 @@
         <text>For a verification on oath or affirmation:</text>
         <text>District of Columbia</text>
         <text>Signed and sworn to (or affirmed) before me on ________ by ______________________</text>
-        <text>         						           Date            Name(s) of individual(s) </text>
+        <text>.......................................................................................Date...........Name(s) of individual(s)</text>
         <text>								              making statement   </text>
         <text/>
         <text>__________________________________</text>
@@ -53,7 +53,7 @@
         <text>For witnessing or attesting a signature:</text>
         <text>District of Columbia</text>
         <text>Signed [or attested] before me on ________ by _______________________</text>
-        <text>      		                                  Date	          Name(s) of individual(s)    </text>
+        <text>...............................................................Date...........Name(s) of individual(s)</text>
         <text>__________________________________</text>
         <text>       Signature of notarial officer</text>
         <text>[Seal]</text>
