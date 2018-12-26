@@ -331,6 +331,24 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>4A</num>
+    <heading>Clemency Board.</heading>
+    <annotation app="2018-12-13" doc="D.C. Law 22-197" eff="2018-12-13" path="" type="History" display="false"/>
+    <xi:include href="./sections/24-481.01.xml"/>
+    <xi:include href="./sections/24-481.02.xml"/>
+    <xi:include href="./sections/24-481.03.xml"/>
+    <xi:include href="./sections/24-481.04.xml"/>
+    <xi:include href="./sections/24-481.05.xml"/>
+    <xi:include href="./sections/24-481.06.xml"/>
+    <xi:include href="./sections/24-481.07.xml"/>
+    <xi:include href="./sections/24-481.08.xml"/>
+    <annotation doc="D.C. Law 22-197" path="II|A" type="Emergency Legislation" display-template="" history="false" app="2018-12-13" eff="2018-12-13">
+          For temporary (90-day) creation of this chapter, see <cite doc="D.C. Act 22-434" path="§3112">§§ 3111 through 3118 of the Fiscal Year 2018 Budget Support Emergency Act of 2018, effective July 30, 2018 (D.C. Act 22-434; 65 DCR 8200)</cite>.
+</annotation>
+    <annotation app="2018-12-13" doc="D.C. Law 22-197" eff="2018-12-13" path="II|A" type="History" display="false"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>5</num>
     <heading>Insane Defendants.</heading>
     <xi:include href="./sections/24-501.xml"/>
@@ -461,6 +479,8 @@
       <xi:include href="./sections/24-904.xml"/>
       <xi:include href="./sections/24-905.xml"/>
       <xi:include href="./sections/24-906.xml"/>
+      <xi:include href="./sections/24-906.01.xml"/>
+      <xi:include href="./sections/24-906.02.xml"/>
       <xi:include href="./sections/24-907.xml"/>
     </container>
     <container>
