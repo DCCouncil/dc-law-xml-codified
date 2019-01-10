@@ -1,14 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>1-1231.20</num>
   <heading>Requirement of endorsement as electronic notary; selection of technology.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>A notary public shall not perform notarial acts with respect to electronic records unless the notary public has received an endorsement as an electronic notary pursuant to <cite path="§1-1231.19|(i)">§ 1-1231.19(i)</cite>.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>An electronic notary may select one or more tamper-evident technologies to perform notarial acts with respect to electronic records. An electronic notary shall not be required to perform a notarial act with respect to an electronic record with a technology that the electronic notary has not selected.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Before a notary public holding an endorsement as an electronic notary performs the notary's initial notarial act with respect to an electronic record, the notary shall complete a training course provided by the Mayor, shall take the oath prescribed for civil officers in the District of Columbia, identify the tamper-evident technologies the electronic notary intends to use, and file an exemplar of the electronic notary's electronic signature and official seal. If the Mayor has issued rules establishing standards for approval of technology pursuant to <cite path="§1-1231.31">§ 1-1231.31</cite>, the technology shall conform to the prescribed standards. If the technology conforms to the standards, the Mayor shall approve the use of the technology.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§1-1231.20" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1231.20">Applicability of <cite doc="D.C. Law 22-189" path="">D.C. Law 22-189</cite>: <cite doc="D.C. Law 22-189" path="§35">§ 35 of D.C. Law 22-189</cite> provided that the creation of this section by <cite doc="D.C. Law 22-189" path="§21">§ 21 of D.C. Law 22-189</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="" type="History" display="false"/>
-    <annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="§35|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-189" eff="2018-12-04" path="§21" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-189" path="§21" codified:display="Note" app="2018-12-04" eff="2018-12-04">Applicability of <cite doc="D.C. Law 22-189" path="">D.C. Law 22-189</cite>: <cite doc="D.C. Law 22-189" path="§35">§ 35 of D.C. Law 22-189</cite> provided that the creation of this section by <cite doc="D.C. Law 22-189" path="§21">§ 21 of D.C. Law 22-189</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="§21" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-189" path="§21" codified:display="Note" app="2018-12-04" eff="2018-12-04">Applicability of <cite doc="D.C. Law 22-189" path="">D.C. Law 22-189</cite>: <cite doc="D.C. Law 22-189" path="§35">§ 35 of D.C. Law 22-189</cite> provided that the creation of this section by <cite doc="D.C. Law 22-189" path="§21">§ 21 of D.C. Law 22-189</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

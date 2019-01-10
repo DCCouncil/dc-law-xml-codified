@@ -1098,17 +1098,7 @@
     <para>
       <num>(a)</num>
       <text>Sections 20(i), 21, and 22(b) shall apply upon the date of inclusion of each provision's fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal doc="D.C. Code" path="§1-1231.19|(i)" codified:doc="D.C. Code" codified:path="§1-1231.19|(i)"/>
-      <codify:find-replace doc="D.C. Code" path="§1-1231.19|(i)" count="1" codified:doc="D.C. Code" codified:path="§1-1231.19|(i)">
-        <find>Repealed</find>
-        <replace>Not Funded</replace>
-      </codify:find-replace>
-      <codify:applicability doc="D.C. Law 22-189" path="§21" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§1-1231.20"/>
-      <codify:repeal doc="D.C. Code" path="§1-1231.21|(b)" codified:doc="D.C. Code" codified:path="§1-1231.21|(b)"/>
-      <codify:find-replace doc="D.C. Code" path="§1-1231.21|(b)" count="1" codified:doc="D.C. Code" codified:path="§1-1231.21|(b)">
-        <find>Repealed</find>
-        <replace>Not Funded</replace>
-      </codify:find-replace>
+      <codify:applicability doc="D.C. Code" path="§1-1231.19|(i)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§1-1231.19|(i)"/>
     </para>
     <para>
       <num>(b)</num>
