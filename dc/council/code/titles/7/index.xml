@@ -242,13 +242,6 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
-      <num>I-A</num>
-      <heading>Office on Aging reporting requirements.</heading>
-      <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="" type="History" display="false"/>
-      <xi:include href="./sections/7-521.xml"/>
-    </container>
-    <container>
-      <prefix>Subchapter</prefix>
       <num>II</num>
       <heading>Volunteer Service Credit Program.</heading>
       <xi:include href="./sections/7-531.01.xml"/>
@@ -281,6 +274,13 @@
       <heading>Safe at Home Program.</heading>
       <annotation app="2016-11-26" doc="D.C. Law 21-168" eff="2016-11-26" path="III" type="History" display="false"/>
       <xi:include href="./sections/7-551.01.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IV</num>
+      <heading>Office on Aging reporting requirements.</heading>
+      <annotation app="2015-10-22" doc="D.C. Law 21-36" eff="2015-10-22" path="" type="History" display="false"/>
+      <xi:include href="./sections/7-561.xml"/>
     </container>
   </container>
   <container>
