@@ -471,8 +471,8 @@
       <text>Sections 2(b)(1), 2(d)(2), amendatory section 202b(c)-(d) contained within section 2(e), and section 3(a) shall apply upon the date of inclusion of their fiscal effects in an approved budget and financial plan.</text>
       <codify:applicability doc="D.C. Act 22-492" path="§2|(b)|(1)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3502.01|(a)" codified:citation="§ 42-3502.01" codified:display="Note"/>
       <codify:applicability doc="D.C. Act 22-492" path="§2|(d)|(2)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§42-3502.02|(d)" codified:citation="§ 42-3502.02" codified:display="Note"/>
-      <codify:repeal doc="D.C. Code" path="§42-3502.02b|(c)" display-template="" codified:doc="D.C. Code" codified:path="§42-3502.02b|(c)" codified:citation="§ 42-3502.02b" codified:display="Amend"/>
-      <codify:find-replace doc="D.C. Code" path="§42-3502.02b|(c)" display-template="" count="1" codified:doc="D.C. Code" codified:path="§42-3502.02b|(c)" codified:citation="§ 42-3502.02b" codified:display="Amend">
+      <codify:repeal doc="D.C. Code" path="§42-3502.02b|(c)" codified:doc="D.C. Code" codified:path="§42-3502.02b|(c)" codified:citation="§ 42-3502.02b" codified:display="Amend"/>
+      <codify:find-replace doc="D.C. Code" path="§42-3502.02b|(c)" count="1" codified:doc="D.C. Code" codified:path="§42-3502.02b|(c)" codified:citation="§ 42-3502.02b" codified:display="Amend">
         <find>Repeal</find>
         <replace>Not Funded</replace>
       </codify:find-replace>
