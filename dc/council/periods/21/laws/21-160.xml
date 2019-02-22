@@ -4371,17 +4371,17 @@
             <text>New paragraphs (2A), (2B), and (2C) are added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§44-231|(2A)"/>
+                <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§7-2371.01|(2A)"/>
                 <num>(2A)</num>
                 <text>"CPR" means cardiopulmonary resuscitation.</text>
               </para>
               <para>
-                <codify:insert after="(2A)" codified:doc="D.C. Code" codified:path="§44-231|(2B)"/>
+                <codify:insert after="(2A)" codified:doc="D.C. Code" codified:path="§7-2371.01|(2B)"/>
                 <num>(2B)</num>
                 <text>"CPR and AED program" means a training course on CPR and the operation and use of an AED that has been approved by the Mayor pursuant to <code-cite path="§3c">section 3c</code-cite>.</text>
               </para>
               <para>
-                <codify:insert after="(2B)" codified:doc="D.C. Code" codified:path="§44-231|(2C)"/>
+                <codify:insert after="(2B)" codified:doc="D.C. Code" codified:path="§7-2371.01|(2C)"/>
                 <num>(2C)</num>
                 <text>"Facility AED Coordinator" means the person who acquires the AED for a facility, or his or her designee.</text>
               </para>
@@ -4393,7 +4393,7 @@
             <text>A new paragraph (5) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§44-231|(5)"/>
+                <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§7-2371.01|(5)"/>
                 <num>(5)</num>
                 <text>"School" means a school in the District of Columbia Public Schools system, a public charter school, an independent school, a private school, or a parochial school.</text>
               </para>
@@ -4410,7 +4410,7 @@
             <para>
               <num>(A)</num>
               <text>Paragraph (1) is amended by striking the phrase "Expected AED users receive training from and be certified by the American Heart Association, the American Red Cross, or an equivalent state or nationally recognized course," and inserting the phrase "The Facility AED Coordinator receives training from or is certified by the American Heart Association, the American Red Cross, or an equivalent state or nationally recognized course, such as the Heart Saver CPR AED course," in its place.</text>
-              <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§44-232|(a)|(1)">
+              <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§7-2371.02|(a)|(1)">
                 <find>Expected AED users receive training from and be certified by the American Heart Association, the American Red Cross, or an equivalent state or nationally recognized course,</find>
                 <replace>The Facility AED Coordinator receives training from or is certified by the American Heart Association, the American Red Cross, or an equivalent state or nationally recognized course, such as the Heart Saver CPR AED course,</replace>
               </codify:find-replace>
@@ -4418,7 +4418,7 @@
             <para>
               <num>(B)</num>
               <text>Paragraph (3) is amended by striking the phrase "; and" and inserting the phrase "; provided, that a physician is not required if a person or entity enters into an agreement with the Department pursuant to which the Department provides the equipment, training, and oversight required by this subsection; and" in its place.</text>
-              <codify:find-replace path="(3)" count="1" codified:doc="D.C. Code" codified:path="§44-232|(a)|(3)">
+              <codify:find-replace path="(3)" count="1" codified:doc="D.C. Code" codified:path="§7-2371.02|(a)|(3)">
                 <find>; and</find>
                 <replace>; provided, that a physician is not required if a person or entity enters into an agreement with the Department pursuant to which the Department provides the equipment, training, and oversight required by this subsection; and</replace>
               </codify:find-replace>
@@ -4427,14 +4427,14 @@
           <para>
             <num>(2)</num>
             <text>Subsection (b) is repealed</text>
-            <codify:repeal path="(b)" codified:doc="D.C. Code" codified:path="§44-232|(b)"/>
+            <codify:repeal path="(b)" codified:doc="D.C. Code" codified:path="§7-2371.02|(b)"/>
           </para>
           <para>
             <num>(3)</num>
             <text>Subsection (c) is amended to read as follows:</text>
             <include>
               <para>
-                <codify:replace path="(c)" codified:doc="D.C. Code" codified:path="§44-232|(c)"/>
+                <codify:replace path="(c)" codified:doc="D.C. Code" codified:path="§7-2371.02|(c)"/>
                 <num>(c)</num>
                 <text>Any person or entity who acquires an AED shall notify the Chief of the Fire and Emergency Medical Services Department ("Chief of the Department") or his or her designee and the call center, as defined in <code-cite doc="D.C. Law 15-205" path="§3202|(2)" technical="Should be (2) not (a)(2).">section 3202(a)(2) of the Office of Unified Communications Establishment Act of 2004, effective December 7, 2004 (D.C. Law 15-205; D.C. Official Code § 1-327.51(a)(2))</code-cite>, of the AED and the location and type of the AED.  If an AED is removed, the Chief of the Department shall be notified.  The Chief of the Department may issue a citation if the requirements of this subsection are not followed; provided, that the Chief of the Department has adopted regulations governing the issuance of the citations.</text>
               </para>
@@ -4447,8 +4447,8 @@
           <text>A new section 3c is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert after="§3" num-value="3c" history-prefix="as added" codified:doc="D.C. Code" codified:path="§44-232.03"/>
-              <codify:insert doc="D.C. Code" path="44|2A" after="§44-232.02" num-value="44-232.03" codified:doc="D.C. Code" codified:path="§44-232.03"/>
+              <codify:insert after="§3" num-value="3c" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-2371.02c"/>
+              <codify:insert doc="D.C. Code" path="44|2A" after="§44-232.02" num-value="44-232.03" codified:doc="D.C. Code" codified:path="§7-2371.02c"/>
               <num>3c</num>
               <heading>CPR and AED program.</heading>
               <para>

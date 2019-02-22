@@ -1519,6 +1519,7 @@
       <heading>Organization for Personnel Management.</heading>
       <xi:include href="./sections/1-604.01.xml"/>
       <xi:include href="./sections/1-604.02.xml"/>
+      <xi:include href="./sections/1-604.02a.xml"/>
       <xi:include href="./sections/1-604.03.xml"/>
       <xi:include href="./sections/1-604.04.xml"/>
       <xi:include href="./sections/1-604.05.xml"/>
@@ -1680,6 +1681,18 @@
       <xi:include href="./sections/1-610.74.xml"/>
       <xi:include href="./sections/1-610.75.xml"/>
       <xi:include href="./sections/1-610.76.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>X-C</num>
+      <heading>Government Appenticeships.</heading>
+      <annotation app="2019-02-22" doc="D.C. Law 22-211" eff="2019-02-22" path="§4|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 22-211" eff="2019-02-22" path="§2|(d)" type="History" display="false"/>
+      <xi:include href="./sections/1-610.81.xml"/>
+      <xi:include href="./sections/1-610.82.xml"/>
+      <xi:include href="./sections/1-610.83.xml"/>
+      <xi:include href="./sections/1-610.84.xml"/>
+      <xi:include href="./sections/1-610.85.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

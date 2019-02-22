@@ -1619,6 +1619,42 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>23D</num>
+    <heading>Public Access to Defibrillators and Epinephrine.</heading>
+    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" type="History" display="false"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>Access to Defibrillator.</heading>
+      <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" type="History" display="false"/>
+      <xi:include href="./sections/7-2371.01.xml"/>
+      <xi:include href="./sections/7-2371.02.xml"/>
+      <xi:include href="./sections/7-2371.02a.xml"/>
+      <xi:include href="./sections/7-2371.02b.xml"/>
+      <xi:include href="./sections/7-2371.02c.xml"/>
+      <xi:include href="./sections/7-2371.03.xml"/>
+      <xi:include href="./sections/7-2371.04.xml"/>
+      <xi:include href="./sections/7-2371.05.xml"/>
+      <xi:include href="./sections/7-2371.06.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Access to Treatment for Anaphylaxis.</heading>
+      <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" type="History" display="false"/>
+      <xi:include href="./sections/7-2381.01.xml"/>
+      <xi:include href="./sections/7-2381.02.xml"/>
+      <xi:include href="./sections/7-2381.03.xml"/>
+      <xi:include href="./sections/7-2381.04.xml"/>
+      <xi:include href="./sections/7-2381.05.xml"/>
+      <xi:include href="./sections/7-2381.06.xml"/>
+      <xi:include href="./sections/7-2381.07.xml"/>
+      <xi:include href="./sections/7-2381.08.xml"/>
+      <xi:include href="./sections/7-2381.09.xml"/>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>24</num>
     <heading>Nuclear Weapons Freeze.</heading>
     <xi:include href="./sections/7-2401.xml"/>
