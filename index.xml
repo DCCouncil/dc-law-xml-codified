@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <library xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <heading>D.C. Law Library</heading>
-  <meta xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" name="dc-law-xml" commit="d2ed05cf27d04e138709801f2978e646dabb3720" oll-core="****.*.*" date="2019-03-04 22:17:32" oll-partners-us-dc="****.*.*"/>
   <meta>
     <description>Browse the laws and code of the District of Columbia</description>
     <contact>
@@ -12,6 +11,13 @@
       <html-bulk>https://github.com/dccouncil/dc-law-html</html-bulk>
       <html>https://code.dccouncil.us</html>
     </canonical-urls>
+    <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+      <repositories>
+        <repository name="dc-law-xml" commit="e0f36ac027770d08b36d8a6536c3b048c15f66af"/>
+      </repositories>
+      <platform version="2019.2.0" reproducible="true"/>
+      <date>2019-03-14 20:53:34</date>
+    </build>
   </meta>
   <xi:include href="./dc/council/code/index.xml"/>
   <collection name="dclaws">
