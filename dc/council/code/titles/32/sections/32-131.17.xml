@@ -3,16 +3,6 @@
   <num>32-131.17</num>
   <heading>Appropriations contingency.</heading>
   <text>Recodified as <cite path="§32-531.17">§ 32-531.17</cite></text>
-  <codify:find-replace doc="D.C. Code" path="§32-1301|(2C)" count="1" history="false" codified:doc="D.C. Code" codified:path="§32-1301|(2C)">
-    <find><cite path="32|1A" doc="D.C. Law 21-264">Chapter 1A of this title</cite> [<cite path="§32-131.01" doc="D.C. Law 21-264">§ 32-131.01</cite> et seq.]</find>
-    <replace>subchapter III of Chapter 5 of this title</replace>
-  </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§32-1301" count="1" history="false" codified:doc="D.C. Code" codified:path="§32-1301">
-    <find>subchapter III of Chapter 5 of this title</find>
-    <replace>
-      <cite path="32|5|III">subchapter III of Chapter 5 of this title</cite>
-    </replace>
-  </codify:find-replace>
   <annotations>
     <annotation doc="D.C. Law 17-152" type="History" path="§18">May 13, 2008, D.C. Law 17-152, § 18, 55 DCR 3452</annotation>
     <annotation doc="D.C. Law 17-219" type="History">Aug. 16, 2008, D.C. Law 17-219, § 7095, 55 DCR 7598</annotation>
