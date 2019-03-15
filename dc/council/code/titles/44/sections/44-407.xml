@@ -114,6 +114,10 @@
     <num>(g)</num>
     <text>The District government and the Public Benefit Corporation are exempt from certificate of need requirements for any changes in health care service that may result from the abolishment of the Public Benefit Corporation.</text>
   </para>
+  <para>
+    <num>(h)</num>
+    <text>Not Funded.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 11-191" type="History" path="§8">April 9, 1997, D.C. Law 11-191, § 8, 43 DCR 4535</annotation>
     <annotation doc="D.C. Law 14-18" type="History">July 12, 2001, D.C. Law 14-18, § 8(3), 48 DCR 4047</annotation>
@@ -177,5 +181,9 @@
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5112|(a)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5112|(b)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§5112|(c)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 22-246" eff="2019-03-13" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-246" eff="2019-03-13" path="§201" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-246" path="§201" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-246" path="">D.C. Law 22-246</cite>: <cite doc="D.C. Law 22-246" path="§301">§ 301 of D.C. Law 22-246</cite> provided that the change made to this section by <cite doc="D.C. Law 22-246" path="§201">§ 201 of D.C. Law 22-246</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2019-03-13" doc="D.C. Law 22-246" eff="2019-03-13" path="§201" type="History"/>
   </annotations>
 </section>

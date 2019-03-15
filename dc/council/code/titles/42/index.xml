@@ -1207,6 +1207,7 @@
     <xi:include href="./sections/42-3208.xml"/>
     <xi:include href="./sections/42-3209.xml"/>
     <xi:include href="./sections/42-3210.xml"/>
+    <xi:include href="./sections/42-3210.01.xml"/>
     <xi:include href="./sections/42-3211.xml"/>
     <xi:include href="./sections/42-3212.xml"/>
     <xi:include href="./sections/42-3213.xml"/>
@@ -1239,6 +1240,13 @@
     <xi:include href="./sections/42-3253.xml"/>
     <xi:include href="./sections/42-3254.xml"/>
     <xi:include href="./sections/42-3255.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>32B</num>
+    <heading>Lead Plumbing Disclosure Requirements by Dwelling Unit Owners.</heading>
+    <annotation app="2019-03-13" doc="D.C. Law 22-241" eff="2019-03-13" path="" type="History" display="false"/>
+    <xi:include href="./sections/42-3271.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1401,6 +1409,7 @@
       <xi:include href="./sections/42-3502.20.xml"/>
       <xi:include href="./sections/42-3502.21.xml"/>
       <xi:include href="./sections/42-3502.22.xml"/>
+      <xi:include href="./sections/42-3502.22a.xml"/>
       <xi:include href="./sections/42-3502.23.xml"/>
       <xi:include href="./sections/42-3502.24.xml"/>
     </container>
@@ -1429,6 +1438,7 @@
       <num>V</num>
       <heading>Evictions; Retaliatory Action; and Other Matters.</heading>
       <xi:include href="./sections/42-3505.01.xml"/>
+      <xi:include href="./sections/42-3505.01a.xml"/>
       <xi:include href="./sections/42-3505.02.xml"/>
       <xi:include href="./sections/42-3505.03.xml"/>
       <xi:include href="./sections/42-3505.04.xml"/>

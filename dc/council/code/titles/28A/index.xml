@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<container xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>Title</prefix>
+  <num>28A</num>
+  <heading>Other Consumer Protections.</heading>
+  <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="" type="History" display="false"/>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1</num>
+    <heading>Structured Settlements Protection.</heading>
+    <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="" type="History" display="false"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>General.</heading>
+      <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="" type="History" display="false"/>
+      <xi:include href="./sections/28A-101.xml"/>
+      <xi:include href="./sections/28A-102.xml"/>
+      <xi:include href="./sections/28A-103.xml"/>
+      <xi:include href="./sections/28A-104.xml"/>
+      <xi:include href="./sections/28A-105.xml"/>
+      <xi:include href="./sections/28A-106.xml"/>
+      <xi:include href="./sections/28A-107.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Applicability.</heading>
+      <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="" type="History" display="false"/>
+      <xi:include href="./sections/28A-121.xml"/>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2</num>
+    <heading>Automatic Renewal Protections.</heading>
+    <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="" type="History" display="false"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>General.</heading>
+      <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="" type="History" display="false"/>
+      <xi:include href="./sections/28A-201.xml"/>
+      <xi:include href="./sections/28A-202.xml"/>
+      <xi:include href="./sections/28A-203.xml"/>
+      <xi:include href="./sections/28A-204.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Applicability.</heading>
+      <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="" type="History" display="false"/>
+      <xi:include href="./sections/28A-221.xml"/>
+    </container>
+  </container>
+</container>

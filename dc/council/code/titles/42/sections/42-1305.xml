@@ -10,7 +10,23 @@
       <text>A list of actually known defects or information concerning the following:</text>
       <para>
         <num>(A)</num>
-        <text>Water and sewer systems;</text>
+        <text>Water and sewer systems[,] including:</text>
+        <para>
+          <num>(i)</num>
+          <text>The results of any lead tests conducted on the water supply of the property;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Lead-bearing plumbing, including the lead service line serving the property;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Whether the portion of the lead water service line on private property, and the portion of the lead water service line on public property, that serves the property in which the dwelling unit is located has been replaced, and if so, the date of the replacement; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Inclusion on the DC Water website as a property with lead water service lines[;]</text>
+        </para>
       </para>
       <para>
         <num>(B)</num>
@@ -54,5 +70,6 @@
     <annotation doc="D.C. Law 12-263" type="History" path="§6">Apr. 20, 1999, D.C. Law 12-263, § 6, 46 DCR 2111</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 45-955.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§42-1303">§ 42-1303</cite>.</annotation>
+    <annotation app="2019-03-13" doc="D.C. Law 22-241" eff="2019-03-13" path="§4" type="History"/>
   </annotations>
 </section>

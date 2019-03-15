@@ -545,9 +545,11 @@
       <xi:include href="./sections/38-822.02.xml"/>
       <xi:include href="./sections/38-822.03.xml"/>
       <xi:include href="./sections/38-822.04.xml"/>
+      <xi:include href="./sections/38-822.04a.xml"/>
       <xi:include href="./sections/38-822.05.xml"/>
       <xi:include href="./sections/38-822.06.xml"/>
       <xi:include href="./sections/38-822.07.xml"/>
+      <xi:include href="./sections/38-822.08.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -555,6 +557,7 @@
       <heading>Farm-to-School Program.</heading>
       <xi:include href="./sections/38-823.01.xml"/>
       <xi:include href="./sections/38-823.01a.xml"/>
+      <xi:include href="./sections/38-823.01b.xml"/>
       <xi:include href="./sections/38-823.02.xml"/>
       <xi:include href="./sections/38-823.03.xml"/>
     </container>

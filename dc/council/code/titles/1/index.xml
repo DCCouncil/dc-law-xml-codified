@@ -2431,6 +2431,7 @@
       <xi:include href="./sections/1-1001.03.xml"/>
       <xi:include href="./sections/1-1001.04.xml"/>
       <xi:include href="./sections/1-1001.05.xml"/>
+      <xi:include href="./sections/1-1001.05a.xml"/>
       <xi:include href="./sections/1-1001.06.xml"/>
       <xi:include href="./sections/1-1001.06a.xml"/>
       <xi:include href="./sections/1-1001.07.xml"/>
@@ -2445,6 +2446,7 @@
       <xi:include href="./sections/1-1001.15.xml"/>
       <xi:include href="./sections/1-1001.16.xml"/>
       <xi:include href="./sections/1-1001.17.xml"/>
+      <xi:include href="./sections/1-1001.18.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2705,6 +2707,8 @@
         <num>A</num>
         <heading>Office of Campaign Finance.</heading>
         <xi:include href="./sections/1-1163.02.xml"/>
+        <xi:include href="./sections/1-1163.02a.xml"/>
+        <xi:include href="./sections/1-1163.02b.xml"/>
         <xi:include href="./sections/1-1163.03.xml"/>
         <xi:include href="./sections/1-1163.04.xml"/>
         <xi:include href="./sections/1-1163.05.xml"/>
@@ -2721,6 +2725,7 @@
         <xi:include href="./sections/1-1163.10a.xml"/>
         <xi:include href="./sections/1-1163.11.xml"/>
         <xi:include href="./sections/1-1163.12.xml"/>
+        <xi:include href="./sections/1-1163.12a.xml"/>
         <xi:include href="./sections/1-1163.13.xml"/>
         <xi:include href="./sections/1-1163.14.xml"/>
         <xi:include href="./sections/1-1163.15.xml"/>
@@ -2772,6 +2777,7 @@
         <heading>Contribution Limitations.</heading>
         <xi:include href="./sections/1-1163.33.xml"/>
         <xi:include href="./sections/1-1163.34.xml"/>
+        <xi:include href="./sections/1-1163.34a.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>

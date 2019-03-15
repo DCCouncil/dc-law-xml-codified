@@ -282,6 +282,18 @@
       <annotation app="2016-11-26" doc="D.C. Law 21-168" eff="2016-11-26" path="III" type="History" display="false"/>
       <xi:include href="./sections/7-551.01.xml"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IV</num>
+      <heading>All-Inclusive Care for the Elderly Program.</heading>
+      <annotation app="notfunded" doc="D.C. Law 22-246" eff="2019-03-13" path="§301|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 22-246" eff="2019-03-13" path="" type="History" display="false"/>
+      <xi:include href="./sections/7-571.01.xml"/>
+      <xi:include href="./sections/7-571.02.xml"/>
+      <xi:include href="./sections/7-571.03.xml"/>
+      <xi:include href="./sections/7-571.04.xml"/>
+      <xi:include href="./sections/7-571.05.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -388,6 +400,15 @@
     <xi:include href="./sections/7-671.07.xml"/>
     <xi:include href="./sections/7-671.08.xml"/>
     <xi:include href="./sections/7-671.09.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6D</num>
+    <heading>Long-Term Care Study.</heading>
+    <annotation app="notfunded" doc="D.C. Law 22-238" eff="2019-03-13" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-238" eff="2019-03-13" path="" type="History" display="false"/>
+    <xi:include href="./sections/7-681.xml"/>
+    <xi:include href="./sections/7-682.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
