@@ -174,7 +174,6 @@
     </collection>
     <collection name="pending">
       <heading>Acts pending congressional review</heading>
-      <xi:include href="./acts/22-608.xml"/>
       <xi:include href="./acts/22-602.xml"/>
       <xi:include href="./acts/22-601.xml"/>
       <xi:include href="./acts/22-600.xml"/>
@@ -416,7 +415,6 @@
     </collection>
     <collection name="pending">
       <heading>Acts pending congressional review</heading>
-      <xi:include href="./acts/22-603.xml"/>
       <xi:include href="./acts/22-576.xml"/>
       <xi:include href="./acts/22-575.xml"/>
     </collection>
