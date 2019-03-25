@@ -776,24 +776,24 @@
       </para>
     </section>
   </container>
-  <codify:create-sub-container doc="D.C. Code" path="8|17M-i" num-value="I" prefix-value="Subchapter" heading-value="Commercial Energy Conservation." history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1772.01" codified:citation="§ 8-1772.01" codified:display="New"/>
-  <codify:find-replace doc="D.C. Code" path="8|17M-i|heading" count="1" display-template="" codified:doc="D.C. Code" codified:path="8|17M-i" codified:citation="Chapter 17M-i of Title 8" codified:display="Amend">
+  <codify:create-sub-container doc="D.C. Code" path="8|17M-i" num-value="I" prefix-value="Subchapter" heading-value="Commercial Energy Conservation." history="false" codified:doc="D.C. Code" codified:path="§8-1772.01" codified:citation="§ 8-1772.01" codified:display="New"/>
+  <codify:find-replace doc="D.C. Code" path="8|17M-i|heading" count="1" codified:doc="D.C. Code" codified:path="8|17M-i" codified:citation="Chapter 17M-i of Title 8" codified:display="Amend">
     <find>Commercial Energy Conservation.</find>
     <replace>Commercial and Local Government Property Energy Conservation.</replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§8-1772.01|text" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1772.01" codified:citation="§ 8-1772.01" codified:display="Amend">
+  <codify:find-replace doc="D.C. Code" path="§8-1772.01|text" count="1" history="false" codified:doc="D.C. Code" codified:path="§8-1772.01" codified:citation="§ 8-1772.01" codified:display="Amend">
     <find>this chapter</find>
     <replace>
       <code-cite doc="D.C. Code" path="8|17M-i|I">this subchapter</code-cite>
     </replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§8-1772.03" count="6" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1772.03" codified:citation="§ 8-1772.03" codified:display="Amend">
+  <codify:find-replace doc="D.C. Code" path="§8-1772.03" count="6" history="false" codified:doc="D.C. Code" codified:path="§8-1772.03" codified:citation="§ 8-1772.03" codified:display="Amend">
     <find>this chapter</find>
     <replace>
       <code-cite doc="D.C. Code" path="8|17M-i|I">this subchapter</code-cite>
     </replace>
   </codify:find-replace>
-  <codify:find-replace doc="D.C. Code" path="§8-1772.04" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1772.04" codified:citation="§ 8-1772.04" codified:display="Amend">
+  <codify:find-replace doc="D.C. Code" path="§8-1772.04" count="1" history="false" codified:doc="D.C. Code" codified:path="§8-1772.04" codified:citation="§ 8-1772.04" codified:display="Amend">
     <find>
       <code-cite>this title</code-cite>
     </find>
