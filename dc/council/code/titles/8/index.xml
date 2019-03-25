@@ -314,9 +314,10 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
-      <heading>Definitions.</heading>
+      <heading>Declaration of Public Purpose and Definitions.<annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§202|(a)" type="History"/></heading>
       <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" type="History" display="false"/>
       <xi:include href="./sections/8-173.01.xml"/>
+      <xi:include href="./sections/8-173.01a.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1037,11 +1038,35 @@
   <container>
     <prefix>Chapter</prefix>
     <num>17M-i</num>
-    <heading>Commercial Energy Conservation.</heading>
-    <xi:include href="./sections/8-1772.01.xml"/>
-    <xi:include href="./sections/8-1772.02.xml"/>
-    <xi:include href="./sections/8-1772.03.xml"/>
-    <xi:include href="./sections/8-1772.04.xml"/>
+    <heading>Commercial and Local Government Property Energy Conservation.<annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" type="History"/></heading>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>Commercial Energy Conservation.</heading>
+      <xi:include href="./sections/8-1772.01.xml"/>
+      <xi:include href="./sections/8-1772.02.xml"/>
+      <xi:include href="./sections/8-1772.03.xml"/>
+      <xi:include href="./sections/8-1772.04.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Building Energy Performance Standards and Benchmarking.</heading>
+      <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="III" type="History" display="false"/>
+      <xi:include href="./sections/8-1772.21.xml"/>
+      <xi:include href="./sections/8-1772.22.xml"/>
+      <xi:include href="./sections/8-1772.23.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>Sustainable Energy Infrastructure Capacity Building and Pipeline Program.</heading>
+      <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" type="History" display="false"/>
+      <xi:include href="./sections/8-1773.31.xml"/>
+      <xi:include href="./sections/8-1773.32.xml"/>
+      <xi:include href="./sections/8-1773.33.xml"/>
+    </container>
+    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

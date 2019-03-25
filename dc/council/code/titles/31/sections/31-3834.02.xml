@@ -12,6 +12,18 @@
         <text>Breast cancer screening;</text>
       </para>
       <para>
+        <num>(A-i)</num>
+        <text>Adjuvant breast cancer screening, including magnetic resonance imaging, ultrasound screening, or molecular breast imaging of the breast, if:</text>
+        <para>
+          <num>(i)</num>
+          <text>A mammogram demonstrates a Class C or Class D breast density classification; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>A woman is believed to be at an increased risk for cancer due to family history or prior personal history of breast cancer, positive genetic testing, or other indications of an increased risk for cancer as determined by a woman's physician or advanced practice registered nurse;</text>
+        </para>
+      </para>
+      <para>
         <num>(B)</num>
         <text>Breast feeding support, services, and supplies;</text>
       </para>
@@ -100,6 +112,26 @@
       </para>
     </para>
   </para>
+  <para>
+    <num>(d)</num>
+    <text>For the purposes of this section, the term "breast density classification" means the 4 levels of breast density identified in the Breast Imaging Reporting and Data System established by the American College of Radiology, which are:</text>
+    <para>
+      <num>(A)</num>
+      <text>Class A, indicating fatty breast tissue;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Class B, indicating scattered fibroglandular breast tissue;</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Class C, indicating heterogeneously dense breast tissue with fibrous and glandular tissue that are evenly distributed throughout the breast; and</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Class D, indicating extremely dense breast tissue.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 13-254" type="History" path="§5b">Apr. 3, 2001, D.C. Law 13-254, § 5b </annotation>
     <annotation app="2018-03-28" doc="D.C. Law 22-75" eff="2018-03-28" path="§3|(b)" prefix="as added" type="History"/>
@@ -109,5 +141,7 @@
     <annotation app="2018-03-28" doc="D.C. Law 22-75" eff="2018-03-28" path="§3" type="History" display="false"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§303|(a)|(1)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-164" eff="2018-10-30" path="§303|(a)|(2)" type="History"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-261" eff="2019-03-22" path="§202|(a)" type="History"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-261" eff="2019-03-22" path="§202|(b)" type="History"/>
   </annotations>
 </section>

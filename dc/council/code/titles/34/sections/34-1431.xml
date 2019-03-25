@@ -116,7 +116,15 @@
   </para>
   <para>
     <num>(10)</num>
-    <text>“Renewable energy credit” or “credit” means a credit representing one megawatt-hour of energy produced by a tier one or tier two renewable source located within the PJM Interconnection region or within a state that is adjacent to the PJM Interconnection region.</text>
+    <text>"Renewable energy credit" or "credit" means a credit representing one megawatt-hour of energy produced by:</text>
+    <para>
+      <num>(A)</num>
+      <text>A tier one or tier two renewable source located within the PJM Interconnection region; or</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Until January 1, 2029, a tier one or tier two renewable source located within a state that is adjacent to the PJM Interconnection region that was certified by the Commission as of [March 22, 2019].</text>
+    </para>
   </para>
   <para>
     <num>(11)</num>
@@ -228,5 +236,6 @@
     <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(a)|(2)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-154" eff="2016-10-08" path="§2|(a)|(3)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6043|(a)" type="History"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§101|(a)" type="History"/>
   </annotations>
 </section>

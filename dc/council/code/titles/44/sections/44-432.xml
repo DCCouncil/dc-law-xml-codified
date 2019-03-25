@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>44-432</num>
+  <heading>Health care facility mammography report.</heading>
+  <para>
+    <num>(a)</num>
+    <text>Beginning January 1, 2019, a health care facility shall provide a patient receiving a mammography exam with a mammography report detailing the results of the mammography exam, including an identification of the patient's breast tissue classification.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>If a patient receives a class C or class D breast density classification, the mammography report prepared pursuant to subsection (a) of this section shall include the following notice:</text>
+    <include>
+      <text>Your mammogram indicates that you have dense breast tissue. Dense breast tissue is relatively common and is not abnormal. Dense breast tissue can, however, make it more difficult to detect cancers in the breast by mammography because it can hide small abnormalities and may be associated with an increased risk for breast cancer. Accordingly, you may benefit from supplementary screening tests, which may include a breast ultrasound screening, or a breast MRI examination, or both, depending on your individual risk factors.</text>
+      <text>This information is given to you to raise your awareness. Use this information to talk to your health care provider about your own risks for breast cancer. At that time, ask your health care provider if additional screening and/or tests may be useful based on your own risk.</text>
+      <text>A report of your results was sent to your health care provider. You should contact your health care provider if you have any questions or concerns about this report.</text>
+    </include>
+    <aftertext>.</aftertext>
+  </para>
+  <annotations>
+    <annotation app="2019-03-22" doc="D.C. Law 22-261" eff="2019-03-22" path="" type="History" display="false"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-261" eff="2019-03-22" path="§102" type="History"/>
+  </annotations>
+</section>
