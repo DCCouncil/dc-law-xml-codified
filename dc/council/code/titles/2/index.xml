@@ -842,15 +842,6 @@
       <xi:include href="./sections/2-381.42.xml"/>
       <xi:include href="./sections/2-381.43.xml"/>
     </container>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>V</num>
-      <heading>Vendors participating in WIC.</heading>
-      <annotation app="notfunded" doc="D.C. Law 22-255" eff="2019-03-22" path="§4|(a)" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 22-255" eff="2019-03-22" path="" type="History" display="false"/>
-      <xi:include href="./sections/2-381.51.xml"/>
-      <xi:include href="./sections/2-381.52.xml"/>
-    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1364,7 +1355,7 @@
       <num>VI-B</num>
       <heading>Prohibition on Grocery Store Restrictive Covenants.</heading>
       <annotation app="2018-07-17" doc="D.C. Law 22-138" eff="2018-07-17" path="" type="History" display="false"/>
-      <xi:include href="./sections/2-1212.61.xml"/>
+      <xi:include href="./sections/2-1212.91.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1579,28 +1570,6 @@
           <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="§301|(a)" type="History" display="false"/>
           <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="" type="History" display="false"/>
           <xi:include href="./sections/2-1217.38.xml"/>
-        </container>
-        <container>
-          <prefix>Subpart</prefix>
-          <num>9</num>
-          <heading>Rhode Island Avenue Project.</heading>
-          <annotation app="2019-03-22" doc="D.C. Law 22-263" eff="2019-03-22" path="§16|(a)" type="History" display="false"/>
-          <annotation app="notfunded" doc="D.C. Law 22-263" eff="2019-03-22" path="" type="History" display="false"/>
-          <xi:include href="./sections/2-1217.39a.xml"/>
-          <xi:include href="./sections/2-1217.39b.xml"/>
-          <xi:include href="./sections/2-1217.39c.xml"/>
-          <xi:include href="./sections/2-1217.39d.xml"/>
-          <xi:include href="./sections/2-1217.39e.xml"/>
-          <xi:include href="./sections/2-1217.39f.xml"/>
-          <xi:include href="./sections/2-1217.39g.xml"/>
-          <xi:include href="./sections/2-1217.39h.xml"/>
-          <xi:include href="./sections/2-1217.39i.xml"/>
-          <xi:include href="./sections/2-1217.39j.xml"/>
-          <xi:include href="./sections/2-1217.39k.xml"/>
-          <xi:include href="./sections/2-1217.39l.xml"/>
-          <xi:include href="./sections/2-1217.39m.xml"/>
-          <xi:include href="./sections/2-1217.39n.xml"/>
-          <xi:include href="./sections/2-1217.39o.xml"/>
         </container>
       </container>
       <container>
@@ -2437,16 +2406,6 @@
     <xi:include href="./sections/2-1712.xml"/>
     <xi:include href="./sections/2-1713.xml"/>
     <xi:include href="./sections/2-1714.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>17A</num>
-    <heading>Improving Efficiencies in Data Collection, Information Sharing, and Information Resources Management.</heading>
-    <annotation app="2019-03-22" doc="D.C. Law 22-264" eff="2019-03-22" path="" type="History" display="false"/>
-    <xi:include href="./sections/2-1731.xml"/>
-    <xi:include href="./sections/2-1732.xml"/>
-    <xi:include href="./sections/2-1733.xml"/>
-    <xi:include href="./sections/2-1734.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

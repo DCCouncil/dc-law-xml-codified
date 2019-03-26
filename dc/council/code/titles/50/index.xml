@@ -235,14 +235,6 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>7B</num>
-    <heading>Transportation Electrification Program and Regional Participation in Greenhouse Gas Emissions Reduction.</heading>
-    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="V" type="History" display="false"/>
-    <xi:include href="./sections/50-741.xml"/>
-    <xi:include href="./sections/50-742.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
     <num>8</num>
     <heading>Environmental Plates and Protection Fund.</heading>
     <xi:include href="./sections/50-801.xml"/>
@@ -310,7 +302,6 @@
       <xi:include href="./sections/50-921.21.xml"/>
       <xi:include href="./sections/50-921.22.xml"/>
       <xi:include href="./sections/50-921.23.xml"/>
-      <xi:include href="./sections/50-921.24.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
