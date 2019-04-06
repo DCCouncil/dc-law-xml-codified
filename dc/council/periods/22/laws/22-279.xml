@@ -33,7 +33,7 @@
         <text>A new paragraph (4A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(4)"/>
+            <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§22-1831|(4A)"/>
             <num>(4A)</num>
             <text>"Court" means the Superior Court of the District of Columbia.</text>
           </para>
@@ -45,12 +45,12 @@
         <text>New paragraphs (5A) and (5B) are added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(5)"/>
+            <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§22-1831|(5A)"/>
             <num>(5A)</num>
             <text>"Eligible offense" means any criminal offense under the District of Columbia Official Code, except an ineligible offense.</text>
           </para>
           <para>
-            <codify:insert after="(5A)"/>
+            <codify:insert after="(5A)" codified:doc="D.C. Code" codified:path="§22-1831|(5B)"/>
             <num>(5B)</num>
             <text>"Ineligible offense" means:</text>
             <para>
@@ -150,7 +150,7 @@
         <text>A new paragraph (12) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(11)"/>
+            <codify:insert after="(11)" codified:doc="D.C. Code" codified:path="§22-1831|(12)"/>
             <num>(12)</num>
             <text>"Victim of trafficking" means:</text>
             <para>
@@ -183,7 +183,7 @@
       <text>New sections 114, 115, 116, and 117 are added to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="22|18A" after="§22-1843" num-value="22-1844" history-prefix="as added"/>
+          <codify:insert path="22|18A" after="§22-1843" num-value="22-1844" history-prefix="as added" codified:doc="D.C. Code" codified:path="§22-1844"/>
           <num>114</num>
           <heading>Motion to vacate conviction or expunge criminal records for victims of trafficking.</heading>
           <para>
@@ -245,7 +245,7 @@
           <annotation doc="D.C. Law 18-239" type="History" path="§114">Oct. 23, 2010, D.C. Law 18-239, §  114</annotation>
         </section>
         <section>
-          <codify:insert path="22|18A" after="§22-1844" num-value="22-1845" history-prefix="as added"/>
+          <codify:insert path="22|18A" after="§22-1844" num-value="22-1845" history-prefix="as added" codified:doc="D.C. Code" codified:path="§22-1845"/>
           <num>115</num>
           <heading>Review by Court.</heading>
           <para>
@@ -310,7 +310,7 @@
           <annotation doc="D.C. Law 18-239" type="History" path="§115">Oct. 23, 2010, D.C. Law 18-239, §  115</annotation>
         </section>
         <section>
-          <codify:insert path="22|18A" after="§22-1845" num-value="22-1846" history-prefix="as added"/>
+          <codify:insert path="22|18A" after="§22-1845" num-value="22-1846" history-prefix="as added" codified:doc="D.C. Code" codified:path="§22-1846"/>
           <num>116</num>
           <heading>Grants and denials of motion.</heading>
           <para>
@@ -378,7 +378,7 @@
           <annotation doc="D.C. Law 18-239" type="History" path="§116">Oct. 23, 2010, D.C. Law 18-239, §  116</annotation>
         </section>
         <section>
-          <codify:insert path="22|18A" after="§22-1846" num-value="22-1847" history-prefix="as added"/>
+          <codify:insert path="22|18A" after="§22-1846" num-value="22-1847" history-prefix="as added" codified:doc="D.C. Code" codified:path="§22-1847"/>
           <num>117</num>
           <heading>Appeals.</heading>
           <text>An order dismissing, granting, or denying a motion filed under<code-cite doc="D.C. Code" path="§22-1844"> section 114</code-cite> shall be a final order for purposes of appeal.</text>
