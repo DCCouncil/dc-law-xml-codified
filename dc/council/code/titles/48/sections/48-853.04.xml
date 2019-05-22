@@ -2,16 +2,41 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>48-853.04</num>
   <heading>Authority to access database.</heading>
-  <text>A prescriber or dispenser authorized to access the information in the possession of the Program pursuant to this chapter may delegate, pursuant to regulations promulgated by the Director to implement the provisions of this section, such authority to up to 2 health care professionals who are:</text>
-  <para>
-    <num>(1)</num>
-    <text>Licensed, registered, or certified by a health occupations board; and</text>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>Employed at the same facility and under the direct supervision of the prescriber or dispenser.</text>
-  </para>
   <annotations>
     <annotation doc="D.C. Law 20-66" type="History" path="§5">Feb. 22, 2014, D.C. Law 20-66, § 5, 61 DCR 7</annotation>
+    <annotation app="2019-04-11" doc="D.C. Law 22-288" eff="2019-04-11" path="§401|(b)|(1)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-288" eff="2019-04-11" path="§401|(b)|(2)" type="History"/>
   </annotations>
+  <para>
+    <num>(a)</num>
+    <text>A prescriber or dispenser authorized to access the information in the possession of the Program pursuant to this chapter may delegate, pursuant to regulations promulgated by the Director to implement the provisions of this section, such authority to up to 2 health care professionals who are:</text>
+    <para>
+      <num>(1)</num>
+      <text>Licensed, registered, or certified by a health occupations board; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Employed at the same facility and under the direct supervision of the prescriber or dispenser.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>No prescriber or dispenser shall provide false or misleading information to the Department with the intent to obtain unauthorized access to, or alter the information in the possession of the Program.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A violation of subsection (b) of this section shall constitute grounds for:</text>
+    <para>
+      <num>(1)</num>
+      <text>The revocation, suspension, or denial of a District controlled substances registration;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Disciplinary action by the relevant health occupations board pursuant to <cite path="§3-1205.14|(c)">§ 3-1205.14(c)</cite>; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The imposition of civil fines pursuant to <cite path="§2-1801.04">§ 2-1801.04</cite>.</text>
+    </para>
+  </para>
 </section>

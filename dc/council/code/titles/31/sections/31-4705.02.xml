@@ -417,18 +417,39 @@
         <num>(F)</num>
         <text>For insurance issued on a substandard basis, the calculation of any adjusted premiums and present values may be based on appropriate modifications of the tables described in subparagraph (E) of this paragraph.</text>
       </para>
-      <para>
+      <para codify:path="(G)">
         <num>(G)</num>
-        <text>Any ordinary mortality tables adopted after 1980 by the National Association of Insurance Commissioners and by the Commissioner for determining the minimum nonforfeiture standard may be substituted for the Commissioners 1980 Standard Ordinary Mortality Table with or without Ten-Year Select Mortality Factors or for the Commissioners 1980 Extended Term Insurance Table.</text>
+        <para>
+          <num>(i)</num>
+          <text>For policies issued before the operative date of the valuation manual, any Commissioners Standard Ordinary Mortality Tables adopted after 1980 by the National Association of Insurance Commissioners and by the Commissioner determining the minimum nonforfeiture standard may be substituted for the Commissioners 1980 Standard Ordinary Mortality Table with or without Ten-Year Select Mortality Factors or for the Commissioners 1980 Extended Term Insurance Table.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>For policies issued on or after the operative date of the valuation manual, the valuation manual shall provide the Commissioners Standard mortality table for use in determining the minimum nonforfeiture standard that may be substituted for the Commissioners 1980 Standard Ordinary Mortality Table with or without Ten-Year Select Mortality Factors or for the Commissioners 1980 Extended Term Insurance Table.  If the Commissioner approves by regulation any Commissioners Standard Ordinary Mortality Table adopted by the National Association of Insurance Commissioners for use in determining the minimum nonforfeiture standard for policies issued on or after the operative date of the valuation manual, then that minimum nonforfeiture standard shall supersede the minimum nonforfeiture standard provided by the valuation manual.</text>
+        </para>
       </para>
-      <para>
+      <para codify:path="(H)">
         <num>(H)</num>
-        <text>Any industrial mortality tables adopted after 1980 by the National Association of Insurance Commissioners and approved by the Commissioner for determining the minimum nonforfeiture standard may be substituted for the Commissioners 1961 Standard Industrial Mortality Table or the Commissioners 1961 Industrial Extended Term Insurance Table.</text>
+        <para>
+          <num>(i)</num>
+          <text>For policies issued before the operative date of the valuation manual, any Commissioners Standard Industrial Mortality Tables adopted after 1980 by the National Association of Insurance Commissioners and approved by the Commissioner for determining the minimum nonforfeiture standard may be substituted for the Commissioners 1961 Standard Industrial Mortality Table or the Commissioners 1961 Industrial Extended Term Insurance Table.</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>For policies issued on or after the operative date of the valuation manual, the valuation manual shall provide the Commissioners Standard Mortality Table for use in determining the minimum nonforfeiture standard that may be substituted for the Commissioners 1961 Standard Industrial Mortality Table or the Commissioners 1961 Industrial Extended Term Insurance Table. If the Commissioner approves by regulation any Commissioners Standard Industrial Mortality Table adopted by the National Association of Insurance Commissioners for use in determining the minimum nonforfeiture standard for policies or contracts issued on or after the operative date of the valuation manual, then that minimum nonforfeiture standard shall supersede the minimum nonforfeiture standard provided by the valuation manual.</text>
+        </para>
       </para>
     </para>
     <para>
       <num>(17)</num>
-      <text>The nonforfeiture interest rate for a policy issued in a particular calendar year shall be equal to 125% of the calendar year statutory valuation interest rate for the policy, as described in <cite path="§31-4701">§ 31-4701</cite>, rounded to the nearest 1/4%.</text>
+      <para>
+        <num>(A)</num>
+        <text>The nonforfeiture interest rate for policies issued before the operative date of the valuation manual in a particular calendar year shall be equal to 125% of the calendar year statutory valuation interest rate for the policy, as described in <cite path="§31-4701">§ 31-4701</cite>, rounded to the nearest 1/4%; provided, that the nonforfeiture interest rate shall not be less than 4.00%.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>For policies issued on or after the operative date of the valuation manual, the nonforfeiture interest rate per annum for any policy issued in a particular calendar year shall be provided by the valuation manual.</text>
+      </para>
     </para>
     <para>
       <num>(18)</num>
@@ -687,5 +708,12 @@
     <annotation type="Prior Codifications">1973 Ed., § 35-705b.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-507.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§31-4701">§ 31-4701</cite>, <cite path="§31-4703">§ 31-4703</cite>, <cite path="§31-4705.01">§ 31-4705.01</cite>, <cite path="§31-4705.04">§ 31-4705.04</cite>, and <cite path="§31-4722">§ 31-4722</cite>.</annotation>
+    <annotation app="2019-04-11" doc="D.C. Law 22-286" eff="2019-04-11" path="§2|(b)|(1)|(A)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-286" eff="2019-04-11" path="§2|(b)|(1)|(B)" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-286" eff="2019-04-11" path="§2|(b)|(2)" type="History"/>
   </annotations>
+  <para>
+    <num>(k)</num>
+    <text>For the purposes of this section, the term "operative date of the valuation manual" means the valuation as described in <cite path="§31-4701">§ 31-4701</cite>.</text>
+  </para>
 </section>
