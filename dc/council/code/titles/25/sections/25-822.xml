@@ -2,6 +2,19 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>25-822</num>
   <heading>Mandatory revocation.</heading>
+  <text>The Board shall revoke the license of a licensee as a result of any of the following events during the period for which the license was issued:</text>
+  <para>
+    <num>(1)</num>
+    <text>The licensee has been convicted of multiple violations of the terms of  this title or the regulations issued under this title and the penalties set  forth in Chapter 8 or established by the Board require revocation;</text>
+  </para>
+  <para>
+    <num>(2)</num>
+    <text>The licensee has knowingly permitted, in the licensed establishment (A)  the illegal sale, or negotiations for sale, or the use, of any controlled  substance identified in the CSA, or (B) the possession or sale, or  negotiations for sale, of drug paraphernalia in violation of the CSA or  <cite path="48|11">Chapter 11 of Title 48</cite>. Successive sales, or negotiations for sale, over a  continuous period of time shall be deemed evidence of knowing permission; or</text>
+  </para>
+  <para>
+    <num>(3)</num>
+    <text>The licensee has been convicted of a felony.</text>
+  </para>
   <annotations>
     <annotation type="History">Jan. 24, 1934, 48 Stat. 330, ch. 4, § 17</annotation>
     <annotation type="History">Aug. 27, 1935, 49 Stat. 900, ch. 756, § 9</annotation>
@@ -17,28 +30,5 @@
     <annotation doc="D.C. Law 13-298" type="History">May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 25-118.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 25-822.</annotation>
-    <annotation app="2019-04-11" doc="D.C. Law 22-288" eff="2019-04-11" path="§201|(b)|(2)" type="History"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-288" eff="2019-04-11" path="§201|(b)|(1)" type="History"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-288" eff="2019-04-11" path="§201|(b)|(3)" type="History"/>
   </annotations>
-  <para>
-    <num>(a)</num>
-    <text>The Board shall revoke the license of a licensee as a result of any of the following events during the period for which the license was issued:</text>
-    <para>
-      <num>(1)</num>
-      <text>The licensee has been convicted of multiple violations of the terms of  this title or the regulations issued under this title and the penalties set  forth in Chapter 8 or established by the Board require revocation;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The licensee has knowingly permitted, in the licensed establishment (A)  the illegal sale, or negotiations for sale, or the use, of any controlled  substance identified in the CSA, or (B) the possession, other than for personal use, or sale, or  negotiations for sale, of drug paraphernalia in violation of the CSA or  <cite path="48|11">Chapter 11 of Title 48</cite>. Successive sales, or negotiations for sale, over a  continuous period of time shall be deemed evidence of knowing permission; or</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The licensee has been convicted of a felony.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>For the purposes of this section, the term "personal use" means the possession of drug paraphernalia in circumstances where there is no evidence of an intent to distribute or manufacture a controlled substance.</text>
-  </para>
 </section>

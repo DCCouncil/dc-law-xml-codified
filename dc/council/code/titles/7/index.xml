@@ -631,7 +631,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>8A</num>
-    <heading>Newborn Metabolic Screening [Repealed].<annotation app="2019-04-11" doc="D.C. Law 22-290" eff="2019-04-11" path="§401" type="History"/></heading>
+    <heading>Newborn Metabolic Screening.</heading>
     <xi:include href="./sections/7-831.xml"/>
     <xi:include href="./sections/7-832.xml"/>
     <xi:include href="./sections/7-833.xml"/>
@@ -642,18 +642,16 @@
     <xi:include href="./sections/7-838.xml"/>
     <xi:include href="./sections/7-839.xml"/>
     <xi:include href="./sections/7-840.xml"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-290" eff="2019-04-11" path="§401" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>8B</num>
-    <heading>Newborn Hearing Screening [Repealed].<annotation app="2019-04-11" doc="D.C. Law 22-290" eff="2019-04-11" path="§402" type="History"/></heading>
+    <heading>Newborn Hearing Screening.</heading>
     <xi:include href="./sections/7-851.xml"/>
     <xi:include href="./sections/7-852.xml"/>
     <xi:include href="./sections/7-853.xml"/>
     <xi:include href="./sections/7-854.xml"/>
     <xi:include href="./sections/7-855.xml"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-290" eff="2019-04-11" path="§402" type="History"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -663,16 +661,6 @@
     <xi:include href="./sections/7-857.02.xml"/>
     <xi:include href="./sections/7-857.03.xml"/>
     <xi:include href="./sections/7-857.04.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>8B-ii</num>
-    <heading>Compehensive Newborn Screening.</heading>
-    <annotation app="2019-04-11" doc="D.C. Law 22-290" eff="2019-04-11" path="" type="History" display="false"/>
-    <xi:include href="./sections/7-858.01.xml"/>
-    <xi:include href="./sections/7-858.02.xml"/>
-    <xi:include href="./sections/7-858.03.xml"/>
-    <xi:include href="./sections/7-858.04.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1956,16 +1944,5 @@
     <xi:include href="./sections/7-3101.xml"/>
     <xi:include href="./sections/7-3102.xml"/>
     <xi:include href="./sections/7-3103.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>32</num>
-    <heading>Opioid Overdose Treatment and Prevention.</heading>
-    <annotation app="2019-04-11" doc="D.C. Law 22-288" eff="2019-04-11" path="" type="History" display="false"/>
-    <xi:include href="./sections/7-3201.xml"/>
-    <xi:include href="./sections/7-3202.xml"/>
-    <xi:include href="./sections/7-3203.xml"/>
-    <xi:include href="./sections/7-3204.xml"/>
-    <xi:include href="./sections/7-3205.xml"/>
   </container>
 </container>
