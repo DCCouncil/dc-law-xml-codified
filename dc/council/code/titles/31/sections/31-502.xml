@@ -1,23 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>31-502</num>
-  <heading>Reduction from liability for reinsurance ceded by a domestic insurer to an assuming insurer.</heading>
-  <text>A reduction from liability for the reinsurance ceded by a domestic insurer to an assuming insurer not meeting the requirements of <cite path="§31-501">§ 31-501</cite> shall be allowed in an amount not exceeding the liabilities carried by the ceding insurer, and such a reduction shall be in the amount of funds held by or on behalf of the ceding insurer, including funds held in trust for the ceding insurer, under a reinsurance contract with the assuming insurer as security for the payment of obligations thereunder, if the security is held in the United States subject to withdrawal solely by, and under the exclusive control of, the ceding insurer, or, in the case of a trust, held in a qualified United States financial institution. This security may be in the form of:</text>
+  <heading>Asset or reduction from liability for reinsurance ceded by a domestic insurer to an assuming insurer not meeting the requirements of § 31-501.</heading>
   <para>
-    <num>(1)</num>
-    <text>Cash;</text>
+    <num>(a)</num>
+    <text>An asset or a reduction from liability for the reinsurance ceded by a domestic insurer to an assuming insurer not meeting the requirements of <cite path="§31-501">§ 31-501</cite> shall be allowed in an amount not exceeding the liabilities carried by the ceding insurer; provided, that the Commissioner may adopt by regulation pursuant to <cite path="§31-504|(b)">§ 31-504(b)</cite> specific additional requirements relating to or setting forth the:</text>
+    <para>
+      <num>(1)</num>
+      <text>Valuation of assets or reserve credits;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Amount and forms of security supporting reinsurance arrangements described <cite path="§31-504|(b)">§ 31-504(b)</cite>; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Circumstances pursuant to which credit will be reduced or eliminated.</text>
+    </para>
   </para>
   <para>
-    <num>(2)</num>
-    <text>Securities listed by the Securities Valuation Office of the National Association of Insurance Commissioners, including those deemed exempt from filing as defined by the Purposes and Procedures Manual of the Securities Valuation Office, and qualifying as admitted assets;</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>Irrevocable, unconditional letters of credit issued or confirmed by a qualified United States institution no later than December 31st in respect of the year for which filing is being made, and in the possession of the ceding company on or before the filing date of its annual statement. Letters of credit meeting applicable standards of insurer acceptability as of the dates of their issuance or confirmation shall, notwithstanding the issuing or confirming institution’s subsequent failure to meet applicable standards of issuers acceptability, continue to be acceptable as security until their expiration, extension, renewal, modification, or amendment, whichever occurs first; or</text>
-  </para>
-  <para>
-    <num>(4)</num>
-    <text>Any other investment which the Commissioner concludes is sufficiently secure and liquid to provide adequate security.</text>
+    <num>(b)</num>
+    <text>The reduction shall be in the amount of funds held by or on behalf of the ceding insurer, including funds held in trust for the ceding insurer, under a reinsurance contract with the assuming insurer as security for the payment of obligations thereunder, if the security is held in the United States subject to withdrawal solely by, and under the exclusive control of, the ceding insurer, or, in the case of a trust, held in a qualified U.S. financial institution, as defined in <cite path="§31-503|(a)">§ 31-503(a)</cite>.  This security may be in the form of:</text>
+    <para>
+      <num>(1)</num>
+      <text>Cash;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Securities listed by the Securities Valuation Office of the National Association of Insurance Commissioners, including those deemed exempt from filing as defined by the Purposes and Procedures Manual of the Securities Valuation Office, and qualifying as admitted assets;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Clean, irrevocable, unconditional letters of credit, issued or confirmed by a qualified U.S. financial institution effective no later than December 31 of the year for which the filing is being made, and in the possession of, or in trust for, the ceding insurer on or before the filing date of its annual statement; provided, that letters of credit meeting applicable standards of issuer acceptability as of the dates of their issuance (or confirmation) shall, notwithstanding the issuing (or confirming) institution's subsequent failure to meet applicable standards of issuer acceptability, continue to be acceptable as security until their expiration, extension, renewal, modification, or amendment, whichever first occurs; or</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Any other form of security acceptable to the Commissioner.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 10-36" type="History" path="§3">Oct. 15, 1993, D.C. Law 10-36, § 3, 40 DCR 5812</annotation>
@@ -27,5 +46,10 @@
     <annotation type="Effect of Amendments">The 2015 amendment by <cite doc="D.C. Law 20-235">D.C. Law 20-235</cite> rewrote (2).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 35-3302.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§31-3932.11">§ 31-3932.11</cite>.</annotation>
+    <annotation app="2019-04-11" doc="D.C. Law 22-292" eff="2019-04-11" path="§201|(b)" type="History"/>
+    <annotation doc="D.C. Law 22-292" path="§401" type="Applicability" history="false" app="2019-04-11" eff="2019-04-11">
+        Section 401 of D.C. Law 22-292 provided that the changes made to this section by D.C. Law 22-292 shall apply to all insurance policies issued or renewed in the District 90 days after April 11, 2019.
+      </annotation>
+    <annotation app="2019-04-11" doc="D.C. Law 22-292" eff="2019-04-11" path="§401" type="History" display="false"/>
   </annotations>
 </section>
