@@ -1,35 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <prefix>§</prefix>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>16-572</num>
   <heading>Attachment of wages; percentage limitations; priority of attachments.</heading>
-  <text>Notwithstanding any other provision of subchapter II of this chapter:</text>
+  <text>Notwithstanding any other provision of <cite path="16|5|II">subchapter II of this chapter</cite>, where an attachment is levied upon wages due a judgment debtor from an employer-garnishee, the attachment shall become a lien and a continuing levy upon the gross wages due or to become due to the judgment debtor for the amount specified in the attachment to the extent of:</text>
   <para>
-    <num undesignated="true">(a)</num>
-    <para>
-      <num>(1)</num>
-      <para>
-        <num>(A)</num>
-        <text>Where an attachment is levied upon wages due a judgment debtor from an employer-garnishee, the attachment shall become a lien and a continuing levy upon the gross wages due or to become due to the judgment debtor for the amount specified in the attachment to the extent of 25% of the amount by which the judgment debtor's disposable wages for that week exceed 40 times the minimum hourly wage, as prescribed in <cite path="§32-1003">[§ 32-1003]</cite> ("minimum hourly wage"), in effect at the time the wages are payable.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>In the case of wages for any pay period other than a week, the Mayor shall, by regulation, prescribe a multiple of the minimum hourly wage equivalent in effect to that set forth in subparagraph (A) of this paragraph.</text>
-      </para>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The levy shall be a continuing levy until the judgment, interest, and costs thereof are fully satisfied and paid, and in no event may moneys be withheld, by the employer-garnishee from the judgment debtor, in amounts greater than those prescribed by this section.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Only one attachment upon the wages of a judgment debtor may be satisfied at one time.</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Where more than one attachment is issued upon the wages of the same judgment debtor and served upon the same employer-garnishee, the attachment first delivered to the marshal shall have priority, and all subsequent attachments shall be satisfied in the order of priority set forth in <cite path="§16-507">§ 16-507.</cite></text>
-    </para>
+    <num>(1)</num>
+    <text>25 per centum of his disposable wages that week, or</text>
   </para>
+  <para>
+    <num>(2)</num>
+    <text>the amount by which his disposable wages for that week exceed thirty times the federal minimum hourly wage prescribed by section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206) in effect at the time the wages are payable,</text>
+  </para>
+  <aftertext>whichever is less. In the case of wages for any pay period other than a week, the Mayor of the District of Columbia shall by regulation prescribe a multiple of the federal minimum hourly wage equivalent in effect to that set forth in paragraph (2).</aftertext>
+  <aftertext>The levy shall be a continuing levy until the judgment, interest, and costs thereof are fully satisfied and paid, and in no event may moneys be withheld, by the employer-garnishee from the judgment debtor, in amounts greater than those prescribed by this section. Only one attachment upon the wages of a judgment debtor may be satisfied at one time. Where more than one attachment is issued upon the wages of the same judgment debtor and served upon the same employer-garnishee, the attachment first delivered to the marshal shall have priority, and all subsequent attachments shall be satisfied in the order of priority set forth in section 16-507  .</aftertext>
   <annotations>
     <annotation doc="Pub. L. 88-241" type="History">Dec. 23, 1963, 77 Stat. 555, Pub. L. 88-241, § 1</annotation>
     <annotation doc="Pub. L. 92-200" type="History">Dec. 17, 1971, 85 Stat. 678, Pub. L. 92-200, § 6</annotation>
@@ -38,11 +21,5 @@
     <annotation type="Prior Codifications">1973 Ed., § 16-572.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 16-572.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§16-577">§ 16-577</cite>.</annotation>
-    <annotation type="Applicability" doc="D.C. Law 22-296" codified:display="Note" app="2019-04-11" eff="2019-04-11" path="§2|(c)">Applicability of <cite doc="D.C. Law 22-296" path="">D.C. Law 22-296</cite>: <cite doc="D.C. Law 22-296" path="§3|(b)">§ 3(b) of D.C. Law 22-296</cite> provided that the change made to this section by <cite doc="D.C. Law 22-296" path="§2|(c)">§ 2(c) of D.C. Law 22-296</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2019-04-11" doc="D.C. Law 22-296" eff="2019-04-11" path="§2|(c)" type="History"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-296" eff="2019-04-11" path="§2|(b)" type="History"/>
-    <annotation doc="D.C. Law 22-296" path="§3|(a)" type="Applicability" history="false" app="2019-04-11" eff="2019-04-11"><cite doc="D.C. Law 22-296" path="§3|(a)">Section 3(a) of D.C. Law 22-296</cite> provided that the amendment made to this section by <cite doc="D.C. Law 22-296" path="§2|(b)">section 2(b) of D.C. Law 22-296</cite> shall not apply to a writ of attachment issued before April 11, 2019.
-      </annotation>
-    <annotation app="2019-04-11" doc="D.C. Law 22-296" eff="2019-04-11" path="§3|(a)" type="History" display="false"/>
   </annotations>
 </section>
