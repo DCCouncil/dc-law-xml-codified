@@ -1414,8 +1414,15 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>I-A</num>
-      <heading>Residency Preferences and Requirements for Government Employees.</heading>
+      <heading>Residency Requirements for Government Employees and Residency Preferences for Applicants.<annotation app="2019-05-23" doc="D.C. Law 22-315" eff="2019-05-23" path="§2" type="History" display="false"/></heading>
       <xi:include href="./sections/1-515.01.xml"/>
+      <xi:include href="./sections/1-515.02.xml"/>
+      <xi:include href="./sections/1-515.03.xml"/>
+      <xi:include href="./sections/1-515.04.xml"/>
+      <xi:include href="./sections/1-515.05.xml"/>
+      <xi:include href="./sections/1-515.06.xml"/>
+      <xi:include href="./sections/1-515.07.xml"/>
+      <xi:include href="./sections/1-515.08.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1686,8 +1693,7 @@
       <prefix>Subchapter</prefix>
       <num>X-C</num>
       <heading>Government Appenticeships.</heading>
-      <annotation app="2019-02-22" doc="D.C. Law 22-211" eff="2019-02-22" path="§4|(a)" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 22-211" eff="2019-02-22" path="§2|(d)" type="History" display="false"/>
+      <annotation app="2019-02-22" doc="D.C. Law 22-211" eff="2019-02-22" path="§2|(d)" type="History" display="false"/>
       <xi:include href="./sections/1-610.81.xml"/>
       <xi:include href="./sections/1-610.82.xml"/>
       <xi:include href="./sections/1-610.83.xml"/>

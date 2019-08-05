@@ -1,27 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <reason>Recodified</reason>
   <num>3-1301</num>
   <heading>Creation; established as an office within the Office of the Chief Financial Officer; transfer of powers; definitions.</heading>
-  <para>
-    <num>(a)</num>
-    <text>There is hereby created by the District of Columbia, the District of Columbia Lottery and Charitable Games Control Board.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Effective with the appointment of the first Chief Financial Officer under <cite path="§1-204.24b">§ 1-204.24b</cite> and pursuant to <cite path="§1-204.24a|(c)">§ 1-204.24a(c)</cite>, the Board is established as the Office of Lottery and Charitable Games, a subordinate office within the Office of the Chief Financial Officer.  All of the powers, duties, functions, and personnel of the Board are transferred to the Office of the Chief Financial Officer.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>For the purposes of <cite path="3|13">this chapter</cite>, the term:</text>
-    <para>
-      <num>(1)</num>
-      <text>"Board" means the District of Columbia Lottery and Charitable Games Control Board established by this section.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>"Office" means the Office of Lottery and Charitable Games established by this section.</text>
-    </para>
-  </para>
+  <text>Recodified as <cite path="§36-601.01">§ 36-601.01</cite>.</text>
   <annotations>
     <annotation doc="D.C. Law 3-172" type="History" path="§4">Mar. 10, 1981, D.C. Law 3-172, § 4, 27 DCR 4736</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 2-2501.</annotation>
@@ -30,5 +12,6 @@
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(a)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-630" path="§2|(d)|(1)" codified:display="Note" app="2019-01-30" eff="2019-01-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-630" path="§2|(d)|(1)">§ 2(d)(1) of Sports Wagering Lottery Emergency Amendment Act of 2018 (D.C. Act 22-630, Jan. 30, 2019, 66 DCR 1745)</cite>.</annotation>
     <annotation app="2019-01-30" doc="D.C. Act 22-630" eff="2019-01-30" path="§2|(d)|(1)" type="History" display="false"/>
+    <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History" display="false"/>
   </annotations>
 </section>

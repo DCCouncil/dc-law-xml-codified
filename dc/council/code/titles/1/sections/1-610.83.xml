@@ -1,14 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>1-610.83</num>
   <heading>Apprenticeship program requirements.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>The apprenticeship sponsor shall register the apprenticeship program with OAIT in accordance with <cite path="32|14|I">subchapter I of Chapter 14 of Title 32</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>An apprenticeship program shall comply with standards, rules, and regulations issued pursuant to <cite path="§32-1403">§ 32-1403</cite>; provided, that no apprenticeship agreement may conflict with the terms or conditions of a District employee's employment under <cite path="1|6">this chapter</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>An apprenticeship program in a single occupation may have multiple host agencies.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A single host agency, DCHR, or another entity may serve as the apprenticeship sponsor for an apprenticeship program.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>All apprenticeship programs shall include life skills training for apprentices.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <para>
+      <num>(1)</num>
+      <text>Federal funding sources shall be used to pay for related technical instruction before local funding sources.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>DCHR, OAIT, or the host agency shall request the University of the District of Columbia Community College to provide apprentices with related technical instruction that is not provided directly by the host agency or apprenticeship sponsor.</text>
+    </para>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§1-610.83" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-610.83">Applicability of <cite doc="D.C. Law 22-211" path="">D.C. Law 22-211</cite>: <cite doc="D.C. Law 22-211" path="§4">§ 4 of D.C. Law 22-211</cite> provided that the creation of this section by <cite doc="D.C. Law 22-211" path="§2|(d)">§ 2(d) of D.C. Law 22-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 2-139" type="History" path="§1082">Mar. 3, 1979, D.C. Law 2-139, § 1082 [1083]</annotation>
-    <annotation app="2019-02-22" doc="D.C. Law 22-211" eff="2019-02-22" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-211" eff="2019-02-22" path="§2|(d)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-211" eff="2019-02-22" path="§2|(d)" prefix="as added" type="History"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-211" eff="2019-02-22" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-211" eff="2019-02-22" path="§2|(d)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-211" path="§2|(d)" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-211" path="">D.C. Law 22-211</cite>: <cite doc="D.C. Law 22-211" path="§4">§ 4 of D.C. Law 22-211</cite> provided that the creation of this section by <cite doc="D.C. Law 22-211" path="§2|(d)">§ 2(d) of D.C. Law 22-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-02-22" doc="D.C. Law 22-211" eff="2019-02-22" path="§2|(d)" type="History"/>
   </annotations>
