@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <reason>Recodified</reason>
   <num>3-1320</num>
   <heading>Persons ineligible to purchase tickets or shares or receive prizes.</heading>
-  <text>Recodified as <cite path="§36-601.20">§ 36-601.20</cite>.</text>
+  <para>
+    <num>(a)</num>
+    <text>No ticket or share shall be purchased by, and no prize shall be paid to, any of the following persons: The Chief Financial Officer, any employee of the Office, or any spouse, domestic partner, child, brother, sister, or parent residing as a member of the same household in the principal place of abode of the Chief Financial Officer or any employee of the Office.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>For the purposes of this section, the term “domestic partner” shall have the same meaning as provided in <cite path="§32-701|(3)">§ 32-701(3)</cite>.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 3-172" type="History" path="§4">Mar. 10, 1981, D.C. Law 3-172, § 4, 27 DCR 4736</annotation>
     <annotation doc="D.C. Law 17-231" type="History">Sept. 12, 2008, D.C. Law 17-231, § 11(a), 55 DCR 6758</annotation>
@@ -11,6 +17,5 @@
     <annotation type="Prior Codifications">1981 Ed., § 2-2520.</annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(t)|(1)" type="History"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7072|(t)|(2)" type="History"/>
-    <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History" display="false"/>
   </annotations>
 </section>

@@ -10465,7 +10465,7 @@
             <para>
               <num>(A)</num>
               <text>Strike the phrase "The Board shall have" both times it appears and insert the phrase "The Chief Financial Officer shall have" in its place.</text>
-              <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§3-1306">
+              <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§3-1306|(a)">
                 <find>The Board shall have</find>
                 <replace>The Chief Financial Officer shall have</replace>
               </codify:find-replace>
@@ -10473,7 +10473,7 @@
             <para>
               <num>(B)</num>
               <text>Strike the phrase "existing licensees of the Board" and insert the phrase "existing licensees of the Office" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1306">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1306|(a)">
                 <find>existing licensees of the Board</find>
                 <replace>existing licensees of the Office</replace>
               </codify:find-replace>
@@ -10481,7 +10481,7 @@
             <para>
               <num>(C)</num>
               <text>Strike the phrase "Corporation Counsel" and insert the phrase "Attorney General" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1306">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1306|(a)">
                 <find>Corporation Counsel</find>
                 <replace>Attorney General</replace>
               </codify:find-replace>
@@ -10490,7 +10490,7 @@
           <para>
             <num>(2)</num>
             <text>Subsection (b) is amended by striking the word "Board" both times it appears and inserting the phrase "Chief Financial Officer" in its place.</text>
-            <codify:find-replace path="(b)" count="2" codified:doc="D.C. Code" codified:path="§3-1306">
+            <codify:find-replace path="(b)" count="2" codified:doc="D.C. Code" codified:path="§3-1306|(b)">
               <find>Board</find>
               <replace>Chief Financial Officer</replace>
             </codify:find-replace>
@@ -10629,7 +10629,7 @@
           <para>
             <num>(1)</num>
             <text>Subsection (a) is amended by striking the word "Board" wherever it appears and inserting the phrase "Chief Financial Officer" in its place.</text>
-            <codify:find-replace path="(a)" codified:doc="D.C. Code" codified:path="§3-1312">
+            <codify:find-replace path="(a)" codified:doc="D.C. Code" codified:path="§3-1312|(a)">
               <find>Board</find>
               <replace>Chief Financial Officer</replace>
             </codify:find-replace>
@@ -10639,7 +10639,7 @@
             <text>Subsection (b) is amended to read as follows:</text>
             <include>
               <para>
-                <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§3-1312"/>
+                <codify:replace path="(b)" codified:doc="D.C. Code" codified:path="§3-1312|(b)"/>
                 <num>(b)</num>
                 <text>Any monies of the Office, from whatever source derived (including gifts to the Office), shall be for the sole use of the Fund and shall be deposited as soon as practicable in the Fund and shall be disbursed from the Fund according to the terms of <code-cite doc="D.C. Code" path="|3|13">this act</code-cite>.  Disbursements of up to $500 from the Fund shall be paid out in checks signed by the Executive Director or designee.  Disbursements in excess of $500 shall be paid out in checks signed by the Executive Director and the Treasurer of the District of Columbia.</text>
               </para>
@@ -10649,7 +10649,7 @@
           <para>
             <num>(3)</num>
             <text>Subsection (c) is amended by striking the word "Board" wherever it appears and inserting the phrase "Chief Financial Officer" in its place.</text>
-            <codify:find-replace path="(c)" codified:doc="D.C. Code" codified:path="§3-1312">
+            <codify:find-replace path="(c)" codified:doc="D.C. Code" codified:path="§3-1312|(c)">
               <find>Board</find>
               <replace>Chief Financial Officer</replace>
             </codify:find-replace>
@@ -10700,7 +10700,7 @@
             <para>
               <num>(A)</num>
               <text>Strike the phrase "Board, in its discretion," and insert the phrase "Chief Financial Officer, in the Chief Financial Officer's discretion," in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1316">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1316|(a)">
                 <find>Board, in its discretion,</find>
                 <replace>Chief Financial Officer, in the Chief Financial Officer's discretion,</replace>
               </codify:find-replace>
@@ -10708,7 +10708,7 @@
             <para>
               <num>(B)</num>
               <text>Strike the phrase "in the name of the Board, to the Credit of the Board, which the Board is authorized to establish, in institutions designated by it which are legal" and insert the phrase "in the name of the Office, to the credit of the Office, which the Chief Financial Officer is authorized to establish, in institutions designated by the Chief Financial Officer that are legal" in its place.</text>
-              <codify:find-replace count="1" technical="'credit' is lower case." codified:doc="D.C. Code" codified:path="§3-1316">
+              <codify:find-replace count="1" technical="'credit' is lower case." codified:doc="D.C. Code" codified:path="§3-1316|(a)">
                 <find>in the name of the Board, to the credit of the Board, which the Board is authorized to establish, in institutions designated by it which are legal</find>
                 <replace>in the name of the Office, to the credit of the Office, which the Chief Financial Officer is authorized to establish, in institutions designated by the Chief Financial Officer that are legal</replace>
               </codify:find-replace>
@@ -10720,7 +10720,7 @@
             <para>
               <num>(A)</num>
               <text>Strike the phrase "benefit of the Board" and insert the phrase "benefit of the Office" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1316">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1316|(b)">
                 <find>benefit of the Board</find>
                 <replace>benefit of the Office</replace>
               </codify:find-replace>
@@ -10728,7 +10728,7 @@
             <para>
               <num>(B)</num>
               <text>Strike the phrase "transferred to the Board. The Board shall" and insert the phrase "transferred to the Office. The Chief Financial Officer shall" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1316">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1316|(b)">
                 <find>transferred to the Board. The Board shall</find>
                 <replace>transferred to the Office. The Chief Financial Officer shall</replace>
               </codify:find-replace>
@@ -10736,7 +10736,7 @@
             <para>
               <num>(C)</num>
               <text>Strike the phrase "sales agents. The Board" and insert the phrase "sales agents. The Chief Financial Officer" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1316">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1316|(b)">
                 <find>sales agents. The Board</find>
                 <replace>sales agents. The Chief Financial Officer</replace>
               </codify:find-replace>
@@ -10796,7 +10796,7 @@
             <para>
               <num>(A)</num>
               <text>The lead-in language is amended by striking the word "Board" and inserting the word "Office" in its place.</text>
-              <codify:find-replace path="text" count="1" codified:doc="D.C. Code" codified:path="§3-1318">
+              <codify:find-replace path="text" count="1" codified:doc="D.C. Code" codified:path="§3-1318|(a)">
                 <find>Board</find>
                 <replace>Office</replace>
               </codify:find-replace>
@@ -10804,7 +10804,7 @@
             <para>
               <num>(B)</num>
               <text>Paragraph (5) is amended by striking the word "Board" and inserting the phrase "Chief Financial Officer" in its place.</text>
-              <codify:find-replace path="(5)" count="1" codified:doc="D.C. Code" codified:path="§3-1318">
+              <codify:find-replace path="(5)" count="1" codified:doc="D.C. Code" codified:path="§3-1318|(a)|(5)">
                 <find>Board</find>
                 <replace>Chief Financial Officer</replace>
               </codify:find-replace>
@@ -10813,7 +10813,7 @@
           <para codify:path="(b)">
             <num>(2)</num>
             <text>Subsection (b) is amended by striking the word "Board" and inserting the phrase "Chief Financial Officer" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1318">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1318|(b)">
               <find>Board</find>
               <replace>Chief Financial Officer</replace>
             </codify:find-replace>
@@ -10833,7 +10833,7 @@
           <para>
             <num>(1)</num>
             <text>Strike the phrase "Any member or employee of the Board" and insert the phrase "The Chief Financial Officer, any employee of the Office," in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1320">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1320|(a)">
               <find>Any member or employee of the Board</find>
               <replace>The Chief Financial Officer, any employee of the Office,</replace>
             </codify:find-replace>
@@ -10841,7 +10841,7 @@
           <para>
             <num>(2)</num>
             <text>Strike the phrase "any member or employee of the Board" and insert the phrase "the Chief Financial Officer or any employee of the Office" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1320">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1320|(a)">
               <find>any member or employee of the Board</find>
               <replace>the Chief Financial Officer or any employee of the Office</replace>
             </codify:find-replace>
@@ -10861,7 +10861,7 @@
             <para>
               <num>(A)</num>
               <text>Strike the phrase "The Board" wherever it appears and insert the phrase "The Chief Financial Officer" in its place.</text>
-              <codify:find-replace codified:doc="D.C. Code" codified:path="§3-1321">
+              <codify:find-replace codified:doc="D.C. Code" codified:path="§3-1321|(a)">
                 <find>The Board</find>
                 <replace>The Chief Financial Officer</replace>
               </codify:find-replace>
@@ -10869,7 +10869,7 @@
             <para>
               <num>(B)</num>
               <text>Strike the phrase "paid over to the Board which shall" and insert the phrase "paid over to the District of Columbia Treasurer, who shall" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1321">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1321|(a)">
                 <find>paid over to the Board which shall</find>
                 <replace>paid over to the District of Columbia Treasurer, who shall</replace>
               </codify:find-replace>
@@ -10880,7 +10880,7 @@
             <text>A new subsection (b) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§3-1321"/>
+                <codify:insert codified:doc="D.C. Code" codified:path="§3-1321|(b)"/>
                 <num>(b)</num>
                 <text>Any rule or regulation promulgated by the Board before the transfer of its functions and personnel to the Chief Financial Officer by <code-cite doc="D.C. Code" path="§1-204.24a|(c)">section 424(a)(3) of the District of Columbia Home Rule Act, approved April 17, 1995 (109 Stat. 142; D.C. Official Code § 1-204.24a(c))</code-cite>, shall continue in effect, except to the extent it is modified or superseded by the Chief Financial Officer, or designee, or made inapplicable by or under other law.</text>
               </para>
@@ -10910,7 +10910,7 @@
           <para codify:path="(a)">
             <num>(1)</num>
             <text>Subsection (a) is amended by striking the word "Board" and inserting the word "Office" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1323">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1323|(a)">
               <find>Board</find>
               <replace>Office</replace>
             </codify:find-replace>
@@ -10918,7 +10918,7 @@
           <para codify:path="(b)">
             <num>(2)</num>
             <text>Subsection (b) is amended by striking the word "Board" and inserting the word "Office" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1323">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1323|(b)">
               <find>Board</find>
               <replace>Office</replace>
             </codify:find-replace>
@@ -10929,7 +10929,7 @@
             <para>
               <num>(A)</num>
               <text>Paragraph (1) is amended by striking the word "Board" and inserting the word "Office" in its place.</text>
-              <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§3-1323">
+              <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§3-1323|(b-1)|(1)">
                 <find>Board</find>
                 <replace>Office</replace>
               </codify:find-replace>
@@ -10937,11 +10937,11 @@
             <para>
               <num>(B)</num>
               <text>Paragraphs (2) and (3) are amended by striking the word "Board" both times it appears and inserting the phrase "Chief Financial Officer" in its place.</text>
-              <codify:find-replace path="(2)" count="2" codified:doc="D.C. Code" codified:path="§3-1323">
+              <codify:find-replace path="(2)" count="2" codified:doc="D.C. Code" codified:path="§3-1323|(b-1)|(2)">
                 <find>Board</find>
                 <replace>Chief Financial Officer</replace>
               </codify:find-replace>
-              <codify:find-replace path="(3)" count="1" codified:doc="D.C. Code" codified:path="§3-1323">
+              <codify:find-replace path="(3)" count="1" codified:doc="D.C. Code" codified:path="§3-1323|(b-1)|(3)">
                 <find>Board</find>
                 <replace>Chief Financial Officer</replace>
               </codify:find-replace>
@@ -10950,11 +10950,11 @@
           <para>
             <num>(4)</num>
             <text>Subsections (c) and (d) are amended by striking the word "Board" wherever it appears and inserting the word "Office" in its place.</text>
-            <codify:find-replace path="(c)" codified:doc="D.C. Code" codified:path="§3-1323">
+            <codify:find-replace path="(c)" codified:doc="D.C. Code" codified:path="§3-1323|(c)">
               <find>Board</find>
               <replace>Office</replace>
             </codify:find-replace>
-            <codify:find-replace path="(d)" codified:doc="D.C. Code" codified:path="§3-1323">
+            <codify:find-replace path="(d)" codified:doc="D.C. Code" codified:path="§3-1323|(d)">
               <find>Board</find>
               <replace>Office</replace>
             </codify:find-replace>
@@ -11046,7 +11046,7 @@
           <para>
             <num>(1)</num>
             <text>Strike the phrase "licensed by the Board" both times it appears and insert the phrase "licensed by the Office" in its place.</text>
-            <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§3-1326">
+            <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§3-1326|(a)">
               <find>licensed by the Board</find>
               <replace>licensed by the Office</replace>
             </codify:find-replace>
@@ -11054,7 +11054,7 @@
           <para>
             <num>(2)</num>
             <text>Strike the phrase "regulations of the Board" and insert the phrase "regulations of the Chief Financial Officer" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1326">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1326|(a)">
               <find>regulations of the Board</find>
               <replace>regulations of the Chief Financial Officer</replace>
             </codify:find-replace>
@@ -11062,7 +11062,7 @@
           <para>
             <num>(3)</num>
             <text>Strike the phrase "prescribed by the Board" and insert the phrase "prescribed by the Office" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1326">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1326|(a)">
               <find>prescribed by the Board</find>
               <replace>prescribed by the Office</replace>
             </codify:find-replace>
@@ -11070,7 +11070,7 @@
           <para>
             <num>(4)</num>
             <text>Strike the phrase "directives of the Board" and insert the phrase "directives of the Chief Financial Officer" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1326">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1326|(a)">
               <find>directives of the Board</find>
               <replace>directives of the Chief Financial Officer</replace>
             </codify:find-replace>
@@ -11099,7 +11099,7 @@
         <para codify:doc="D.C. Code" codify:path="§3-1328|(a)">
           <num>(cc)</num>
           <text>Section 2-2528(a) (D.C. Official Code § 3-1328(a)) is amended by striking the phrase "The Board, in its discretion" and inserting the phrase "The Chief Financial Officer, in the Chief Financial Officer's discretion" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1328">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1328|(a)">
             <find>The Board, in its discretion</find>
             <replace>The Chief Financial Officer, in the Chief Financial Officer's discretion</replace>
           </codify:find-replace>
@@ -11162,7 +11162,7 @@
           <para codify:path="(a)">
             <num>(1)</num>
             <text>Subsection (a) is amended by striking the phrase "No Board member, officer, or employee of the Board" and inserting the phrase "Neither the Chief Financial Officer nor any employee of the Office of the Chief Financial Officer or the Office" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1336">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1336|(a)">
               <find>No Board member, officer, or employee of the Board</find>
               <replace>Neither the Chief Financial Officer nor any employee of the Office of the Chief Financial Officer or the Office</replace>
             </codify:find-replace>
@@ -11173,7 +11173,7 @@
             <para>
               <num>(A)</num>
               <text>Strike the phrase "Office of Contracting and Procurement" and insert the phrase "Office of Contracts of the Office of the Chief Financial Officer" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1336">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1336|(b)">
                 <find>Office of Contracting and Procurement</find>
                 <replace>Office of Contracts of the Office of the Chief Financial Officer</replace>
               </codify:find-replace>
@@ -11181,7 +11181,7 @@
             <para>
               <num>(B)</num>
               <text>Strike the phrase "on behalf of the Board" and insert the phrase "on behalf of the Office" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1336">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§3-1336|(b)">
                 <find>on behalf of the Board</find>
                 <replace>on behalf of the Office</replace>
               </codify:find-replace>
@@ -11192,7 +11192,7 @@
             <text>Subsection (d) is amended to read as follows:</text>
             <include>
               <para>
-                <codify:replace path="(d)" codified:doc="D.C. Code" codified:path="§3-1336"/>
+                <codify:replace path="(d)" codified:doc="D.C. Code" codified:path="§3-1336|(d)"/>
                 <num>(d)</num>
                 <text>No contract awarded or entered into by the Office of the Chief Financial Officer may be assigned by the holder thereof except by specific approval of the Chief Financial Officer.</text>
               </para>
@@ -11202,7 +11202,7 @@
           <para>
             <num>(4)</num>
             <text>Subsection (g) is amended by striking the word "Board" and inserting the phrase "Chief Financial Officer" in its place.</text>
-            <codify:find-replace path="(g)" count="1" codified:doc="D.C. Code" codified:path="§3-1336">
+            <codify:find-replace path="(g)" count="1" codified:doc="D.C. Code" codified:path="§3-1336|(g)">
               <find>Board</find>
               <replace>Chief Financial Officer</replace>
             </codify:find-replace>
