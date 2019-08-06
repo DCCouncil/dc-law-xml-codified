@@ -1,13 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 22-620">
+<document xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Law 22-314">
+  <num type="law">22-314</num>
   <num type="bill">22-588</num>
   <num type="act">22-620</num>
   <heading type="short">Firearms Safety Omnibus Amendment Act of 2018</heading>
   <heading type="long">To amend the Firearms Control Regulations Act of 1975 to create a judicial process through which individuals who have been disqualified from receiving a firearms registration certificate due to having been voluntarily admitted or involuntarily committed to a mental health facility, determined to be an incapacitated individual, adjudicated as a mental defective, or committed to a mental institution, can petition the Superior Court of the District of Columbia for relief from that disqualification, to increase the penalty for possessing a large capacity ammunition feeding device, to allow persons to petition the Superior Court of the District of Columbia for an extreme risk protection order, which would prohibit the respondent from having possession or control of, purchasing, or receiving any firearm, ammunition, registration certificate, license to carry a concealed pistol, or dealer's license, if the court finds that the subject poses a significant danger of causing bodily injury to self or others, to establish a process for the personal service, renewal, and termination of extreme risk protection orders, to establish procedures for the surrender, storage, assessment of fees for storage, and return of firearms and ammunition that are recovered pursuant to an extreme risk protection order, and to establish a penalty for a violation of an extreme risk protection order; and to amend An Act To control the possession, sale, transfer, and use of pistols and other dangerous weapons in the District of Columbia, to provide penalties, to prescribe rules of evidence, and for other purposes to prohibit the possession of bump stocks.</heading>
   <meta>
     <introduced>2017-11-09</introduced>
-    <effective projected="true">2019-05-23</effective>
+    <effective>2019-05-10</effective>
     <citations>
+      <citation type="law" url="http://lims.dccouncil.us/Download/39205/B22-0588-SignedAct.pdf">D.C. Law 22-314</citation>
       <citation type="act" url="http://lims.dccouncil.us/Download/39205/B22-0588-SignedAct.pdf">D.C. Act 22-620</citation>
       <citation type="register">66 DCR 1672</citation>
     </citations>
@@ -17,12 +19,12 @@
       <vote date="2018-12-18" reading="Amendment"/>
       <vote date="2018-12-18" reading="Final"/>
       <enacted>2019-01-30</enacted>
-      <summary>BILL SUMMARY - As introduced, this bill establishes that it is unlawful to knowingly possess or receive a firearm that has a removed, obliterated, or altered serial number or to possess, conceal, store, barter, sell, or dispose of a stolen firearm or ammunition, and establishes a sentence duration of two to five years for violation of either prohibition; exempts persons and organizations who briefly possess stolen firearms, ammunition, or firearms with altered serial numbers from criminal liability if the possession was undertaken in order to surrender the firearm or ammunition to the MPD; and establishes a penalty for persons previously convicted of a felony who re-offend by possessing ammunition and a penalty for possession a large capacity ammunition feeding device. </summary>
+      <summary>Law 22-314 establishes a process for individuals disqualified from firearms registration due to mental health to petition the Superior Court of the District of Columbia for relief from that disqualification. It makes it unlawful to knowingly possess or receive a firearm that has a removed, obliterated, or altered serial number or to possess, conceal, store, barter, sell, or dispose of a stolen firearm or ammunition and establishes increased penalties for violations; exempts persons and organizations who briefly possess stolen firearms, ammunition, or firearms with altered serial numbers from criminal liability if the possession was undertaken in order to surrender the firearm or ammunition to the MPD; and establishes a penalty for persons previously convicted of a felony who re-offend by possessing ammunition and a penalty for possession a large capacity ammunition feeding device.  It also establishes a process for the personal service, renewal, and termination of extreme risk protection orders. It prohibits the possession of bump stocks. </summary>
       <committee>Committee on Judiciary and Public Safety</committee>
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Firearms Safety Omnibus Amendment Act of 2018".</text>
-  <codify:insert doc="D.C. Code" path="7|25" after="IX" history="false" display-template="" codified:doc="D.C. Code" codified:path="7|25|X" codified:citation="subchapter X of Chapter 25 of Title 7" codified:display="New">
+  <codify:insert doc="D.C. Code" path="7|25" after="IX" history="false" display-template="" codified:doc="D.C. Code" codified:path="7|25|X">
     <container>
       <prefix>Subchapter</prefix>
       <num>X</num>
@@ -41,7 +43,7 @@
         <para codify:path="text">
           <num>(A)</num>
           <text>The lead-in language is amended by striking the phrase "and his" and inserting the phrase "and the person's" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)" codified:citation="§ 7-2502.03" codified:display="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)">
             <find>and his</find>
             <replace>and the person's</replace>
           </codify:find-replace>
@@ -49,7 +51,7 @@
         <para codify:path="(1)|(A)">
           <num>(B)</num>
           <text>Paragraph (1)(A) is amended by striking the phrase "his parent" and inserting the phrase "the applicant's parent" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(1)|(A)" codified:citation="§ 7-2502.03" codified:display="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(1)|(A)">
             <find>his parent</find>
             <replace>the applicant's parent</replace>
           </codify:find-replace>
@@ -60,7 +62,7 @@
           <para codify:path="(E)">
             <num>(i)</num>
             <text>Subparagraph (E) is amended by striking the phrase "; or" and inserting a semicolon in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(4)|(E)" codified:citation="§ 7-2502.03" codified:display="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(4)|(E)">
               <find>; or</find>
               <replace>;</replace>
             </codify:find-replace>
@@ -68,7 +70,7 @@
           <para codify:path="(F)">
             <num>(ii)</num>
             <text>Subparagraph (F) is amended by striking the semicolon and inserting the phrase "; or" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(4)|(F)" codified:citation="§ 7-2502.03" codified:display="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(4)|(F)">
               <find>;</find>
               <replace>; or</replace>
             </codify:find-replace>
@@ -78,7 +80,7 @@
             <text>A new subparagraph (G) is added to read as follows:</text>
             <include lvl="2">
               <para>
-                <codify:insert after="(F)" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(4)|(G)" codified:citation="§ 7-2502.03" codified:display="Amend"/>
+                <codify:insert after="(F)" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(4)|(G)"/>
                 <num>(G)</num>
                 <text>Violation of an extreme risk protection order pursuant to <code-cite doc="D.C. Code" path="§7-2510.11">section 1011</code-cite>;</text>
               </para>
@@ -91,7 +93,7 @@
           <text>Paragraph (6) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(6)" codified:citation="§ 7-2502.03" codified:display="Amend"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(6)"/>
               <num>(6)</num>
               <para>
                 <num>(A)</num>
@@ -128,7 +130,7 @@
         <para codify:path="(13)|(B)|(iii)">
           <num>(E)</num>
           <text>Paragraph (13)(B)(iii) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(13)|(B)|(iii)" codified:citation="§ 7-2502.03" codified:display="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(13)|(B)|(iii)">
             <find>; and</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -136,7 +138,7 @@
         <para codify:path="(14)">
           <num>(F)</num>
           <text>Paragraph (14) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(14)" codified:citation="§ 7-2502.03" codified:display="Amend">
+          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(14)">
             <find>.</find>
             <replace>; and</replace>
           </codify:find-replace>
@@ -146,7 +148,7 @@
           <text>A new paragraph (15) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(15)" codified:citation="§ 7-2502.03" codified:display="Amend"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§7-2502.03|(a)|(15)"/>
               <num>(15)</num>
               <text>Is not the subject of a final extreme risk protection order issued pursuant to <code-cite doc="D.C. Code" path="§7-2510.03">section 1003</code-cite> or renewed pursuant to <code-cite doc="D.C. Code" path="§7-2510.06">section 1006</code-cite>.</text>
             </para>
@@ -159,7 +161,7 @@
         <text>A new subsection (f) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§7-2502.03|(f)" codified:citation="§ 7-2502.03" codified:display="Amend"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§7-2502.03|(f)"/>
             <num>(f)</num>
             <para>
               <num>(1)</num>
@@ -319,7 +321,7 @@
     <para codify:path="§7-2505.01">
       <num>(b)</num>
       <text>Section 501 (D.C. Official Code § 7-2505.01) is amended by striking the phrase "sections 210(c), 502, or 705 of this act" and inserting the phrase "section 210(c), section 502, section 705, section 1007, or section 1009" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2505.01" codified:citation="§ 7-2505.01" codified:display="Amend">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2505.01">
         <find><cite path="§7-2502.10|(c)">§ 7-2502.10(c)</cite>, <cite path="§7-2505.02">§ 7-2505.02</cite>, or <cite path="§7-2507.05">§ 7-2507.05</cite></find>
         <replace><code-cite doc="D.C. Code" path="§7-2502.10|(c)">section 210(c)</code-cite>, <code-cite doc="D.C. Code" path="§7-2505.02">section 502</code-cite>, <code-cite doc="D.C. Code" path="§7-2507.05">section 705</code-cite>, <code-cite doc="D.C. Code" path="§7-2510.07">section 1007</code-cite>, or <code-cite doc="D.C. Code" path="§7-2510.09">section 1009</code-cite></replace>
       </codify:find-replace>
@@ -332,7 +334,7 @@
         <text>Subsection (a) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§7-2507.05|(a)" codified:citation="§ 7-2507.05" codified:display="Amend"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§7-2507.05|(a)"/>
             <num>(a)</num>
             <para>
               <num>(1)</num>
@@ -361,7 +363,7 @@
       <para codify:path="(b)">
         <num>(2)</num>
         <text>Subsection (b) is amended by striking the phrase "under this section or pursuant to section 210(c)(1)" and inserting the phrase "under this section, section 210(c)(1), or section 1009(c)" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2507.05|(b)" codified:citation="§ 7-2507.05" codified:display="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2507.05|(b)">
           <find>under this section or pursuant to <cite path="§7-2502.10|(c)|(1)">§ 7-2502.10(c)(1)</cite></find>
           <replace>under this section, <code-cite doc="D.C. Code" path="§7-2502.10|(c)|(1)">section 210(c)(1)</code-cite>, or <code-cite doc="D.C. Code" path="§7-2510.09|(c)">section 1009(c)</code-cite></replace>
         </codify:find-replace>
@@ -373,7 +375,7 @@
       <para codify:path="text">
         <num>(1)</num>
         <text>The lead-in language is amended by striking the phrase "and Title IX" and inserting the phrase "Title IX, and section 1011" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2507.06|(a)" codified:citation="§ 7-2507.06" codified:display="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2507.06|(a)">
           <find>and <cite path="7|25|IX">subchapter IX of this chapter</cite> [<cite path="§7-2509.01">§ 7-2509.01</cite> et seq.]</find>
           <replace><code-cite doc="D.C. Code" path="7|25|IX">Title IX</code-cite>, and <code-cite doc="D.C. Code" path="§7-2510.11" codify:value="7-2510.11">section 1011</code-cite></replace>
         </codify:find-replace>
@@ -383,7 +385,7 @@
         <text>A new paragraph (4) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§7-2507.06|(a)|(4)" codified:citation="§ 7-2507.06" codified:display="Amend"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§7-2507.06|(a)|(4)"/>
             <num>(4)</num>
             <text>A person convicted of possessing a large capacity ammunition feeding device in violation of <code-cite doc="D.C. Code" path="§7-2506.01|(b)">section 601(b)</code-cite> shall be fined no more than the amount set forth in <code-cite doc="D.C. Code" path="§22-3571.01">section 101 of the Criminal Fine Proportionality Amendment Act of 2012, effective June 11, 2013 (D.C. Law 19-317; D.C. Official Code § 22-3571.01)</code-cite>, or incarcerated for no more than 3 years, or both.</text>
           </para>
@@ -400,7 +402,7 @@
           <num>X</num>
           <heading>– EXTREME RISK PROTECTION ORDERS.</heading>
           <section>
-            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.01" codified:doc="D.C. Code" codified:path="§7-2510.01" codified:citation="§ 7-2510.01" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.01" codified:doc="D.C. Code" codified:path="§7-2510.01"/>
             <num>1001</num>
             <heading>Definitions.</heading>
             <text>For the purposes of <code-cite doc="D.C. Code" path="7|25|X">this title</code-cite>, the term:</text>
@@ -433,7 +435,7 @@
             </para>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.02" codified:doc="D.C. Code" codified:path="§7-2510.02" codified:citation="§ 7-2510.02" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.02" codified:doc="D.C. Code" codified:path="§7-2510.02"/>
             <num>1002</num>
             <heading>Petitions for extreme risk protection orders.</heading>
             <para>
@@ -486,7 +488,7 @@
             </para>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.03" codified:doc="D.C. Code" codified:path="§7-2510.03" codified:citation="§ 7-2510.03" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.03" codified:doc="D.C. Code" codified:path="§7-2510.03"/>
             <num>1003</num>
             <heading>Final extreme risk protection orders.</heading>
             <para>
@@ -625,7 +627,7 @@
             </para>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.04" codified:doc="D.C. Code" codified:path="§7-2510.04" codified:citation="§ 7-2510.04" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.04" codified:doc="D.C. Code" codified:path="§7-2510.04"/>
             <num>1004</num>
             <heading>Ex parte extreme risk protection orders.</heading>
             <para>
@@ -742,7 +744,7 @@
             </para>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.05" codified:doc="D.C. Code" codified:path="§7-2510.05" codified:citation="§ 7-2510.05" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.05" codified:doc="D.C. Code" codified:path="§7-2510.05"/>
             <num>1005</num>
             <heading>Service of extreme risk protection orders.</heading>
             <para>
@@ -770,7 +772,7 @@
             </para>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.06" codified:doc="D.C. Code" codified:path="§7-2510.06" codified:citation="§ 7-2510.06" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.06" codified:doc="D.C. Code" codified:path="§7-2510.06"/>
             <num>1006</num>
             <heading>Renewal of final extreme risk protection orders.</heading>
             <para>
@@ -875,7 +877,7 @@
             </para>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.07" codified:doc="D.C. Code" codified:path="§7-2510.07" codified:citation="§ 7-2510.07" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.07" codified:doc="D.C. Code" codified:path="§7-2510.07"/>
             <num>1007</num>
             <heading>Surrender of firearms, ammunition, registration certificates, licenses to carry a concealed pistol, and dealer's licenses.</heading>
             <para>
@@ -950,7 +952,7 @@
             </para>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.08" codified:doc="D.C. Code" codified:path="§7-2510.08" codified:citation="§ 7-2510.08" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.08" codified:doc="D.C. Code" codified:path="§7-2510.08"/>
             <num>1008</num>
             <heading>Termination of extreme risk protection orders.</heading>
             <para>
@@ -1026,7 +1028,7 @@
             </para>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.09" codified:doc="D.C. Code" codified:path="§7-2510.09" codified:citation="§ 7-2510.09" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.09" codified:doc="D.C. Code" codified:path="§7-2510.09"/>
             <num>1009</num>
             <heading>Return or disposal of firearms or ammunition.</heading>
             <para>
@@ -1069,7 +1071,7 @@
             </para>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.10" codified:doc="D.C. Code" codified:path="§7-2510.10" codified:citation="§ 7-2510.10" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.10" codified:doc="D.C. Code" codified:path="§7-2510.10"/>
             <num>1010</num>
             <heading>Recording requirements.</heading>
             <para>
@@ -1090,7 +1092,7 @@
             </para>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.11" codified:doc="D.C. Code" codified:path="§7-2510.11" codified:citation="§ 7-2510.11" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.11" codified:doc="D.C. Code" codified:path="§7-2510.11"/>
             <num>1011</num>
             <heading>Violation of an extreme risk protection order.</heading>
             <para>
@@ -1123,7 +1125,7 @@
             </para>
           </section>
           <section>
-            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.12" codified:doc="D.C. Code" codified:path="§7-2510.12" codified:citation="§ 7-2510.12" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="7|25|X" num-value="7-2510.12" codified:doc="D.C. Code" codified:path="§7-2510.12"/>
             <num>1012</num>
             <heading>Law enforcement to retain other authority.</heading>
             <text>Nothing in <code-cite doc="D.C. Code" path="7|25|X">this title</code-cite> shall be construed to affect the ability of a law enforcement officer, as that term is defined in <code-cite doc="D.C. Code" path="§7-2509.01|(3)">section 901(3)</code-cite>, to remove firearms or ammunition from any person pursuant to other lawful authority.</text>
@@ -1142,7 +1144,7 @@
       <para codify:path="(1)|num">
         <num>(1)</num>
         <text>Paragraph (1) is redesignated as paragraph (1A).</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§22-4501|(1A)" codified:citation="§ 22-4501" codified:display="Amend">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§22-4501|(1A)">
           <find>(1)</find>
           <replace>(1A)</replace>
         </codify:find-replace>
@@ -1152,7 +1154,7 @@
         <text>A new paragraph (1) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert before="(1A)" codified:doc="D.C. Code" codified:path="§22-4501|(1)" codified:citation="§ 22-4501" codified:display="Amend"/>
+            <codify:insert before="(1A)" codified:doc="D.C. Code" codified:path="§22-4501|(1)"/>
             <num>(1)</num>
             <text>"Bump stock" means any object that, when installed in or attached to a firearm, increases the rate of fire of the firearm by using energy from the recoil of the firearm to generate a reciprocating action that facilitates repeated activation of the trigger.</text>
           </para>
@@ -1163,7 +1165,7 @@
     <para codify:path="§22-4514|(a)">
       <num>(b)</num>
       <text>Section 14(a) (D.C. Official Code § 22-4514(a)) is amended by striking the phrase "sawed-off shotgun, knuckles" both times it appears and inserting the phrase "sawed-off shotgun, bump stock, knuckles" in it its place.</text>
-      <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§22-4514|(a)" codified:citation="§ 22-4514" codified:display="Amend">
+      <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§22-4514|(a)">
         <find>sawed-off shotgun, knuckles</find>
         <replace>sawed-off shotgun, bump stock, knuckles</replace>
       </codify:find-replace>

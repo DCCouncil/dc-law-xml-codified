@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>24-101.01</num>
-  <heading>District of Columbia Corrections Information Council.</heading>
+  <heading>Corrections Information Council.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established a District of Columbia Corrections Information Council (“CIC ”). The CIC shall be responsible for the inspection of all facilities housing District of Columbia inmates who are under the jurisdiction of either the Bureau of Prisons or the Department of Corrections, and for the monitoring of the conditions and treatment of District of Columbia inmates incarcerated in those facilities.</text>
+    <text>There is established a Corrections Information Council (“CIC ”). The CIC shall be responsible for the inspection of all facilities housing District of Columbia inmates who are under the jurisdiction of either the Bureau of Prisons or the Department of Corrections, and for the monitoring of the conditions and treatment of District of Columbia inmates incarcerated in those facilities.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -16,7 +16,7 @@
       <num>(2)</num>
       <para>
         <num>(A)</num>
-        <text>The Board shall be composed of 5 members, 3 of whom shall be appointed by the Mayor with the advice and consent of the Council, and 2 of whom shall be appointed by the Council.</text>
+        <text>The Board shall be composed of 5 members, 3 of whom shall be appointed by the Mayor pursuant to <cite path="§1-523.01|(e)">§ 1-523.01(e)</cite>, and 2 of whom shall be appointed by the Council.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -186,5 +186,8 @@
     <annotation app="2018-12-13" doc="D.C. Law 22-197" eff="2018-12-13" path="§101|(a)" type="History"/>
     <annotation app="2018-12-13" doc="D.C. Law 22-197" eff="2018-12-13" path="§101|(b)" type="History"/>
     <annotation app="2018-12-13" doc="D.C. Law 22-197" eff="2018-12-13" path="§101|(c)" type="History"/>
+    <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§15|(a)" type="History"/>
+    <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§15|(b)" type="History"/>
+    <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§15|(c)" type="History"/>
   </annotations>
 </section>

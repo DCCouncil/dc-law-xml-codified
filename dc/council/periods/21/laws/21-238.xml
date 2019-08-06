@@ -286,7 +286,7 @@
           <para>
             <num>(A)</num>
             <text>Strike the word "he" and insert the phrase "the child" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2322|(f)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2322|(f)|(1)">
               <find> he</find>
               <replace> the child</replace>
             </codify:find-replace>
@@ -294,7 +294,7 @@
           <para>
             <num>(B)</num>
             <text>Strike the phrase "age." and insert the phrase "age, except that orders under this subchapter in force with respect to a child adjudicated in need of supervision, but not delinquent, terminate when the child reaches 18 years of age." in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2322|(f)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-2322|(f)|(1)">
               <find>age.</find>
               <replace>age, except that orders under this subchapter in force with respect to a child adjudicated in need of supervision, but not delinquent, terminate when the child reaches 18 years of age.</replace>
             </codify:find-replace>
