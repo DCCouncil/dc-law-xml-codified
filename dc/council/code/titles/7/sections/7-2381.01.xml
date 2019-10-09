@@ -1,14 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>7-2381.01</num>
   <heading>Definitions.</heading>
-  <text>Not Funded.</text>
+  <text>For the purposes of <cite path="7|23D|II">this subchapter</cite>, the term:</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>"Administer" means the direct application of an epinephrine auto-injection to a human body.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Authorized entity" means any entity or organization other than a public school, including recreational camps, colleges, universities, day care facilities, youth sports leagues, restaurants, places of employment, and sports arenas.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Department" means the Department of Health.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Epinephrine auto-injector" means a disposable drug delivery system with a spring-activated needle that is designed for the emergency administration of epinephrine to a person suffering an episode of anaphylaxis.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Health care professional" means a physician, physician assistant, or advanced practice registered nurse licensed under <cite path="3|12">Chapter 12 of Title 3</cite>.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Standing order" means a prescriptive order written by a health care professional that is not specific to and does not identify a particular patient.</text>
+    </para>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§7-2381.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2381.01">Applicability of <cite doc="D.C. Law 22-207" path="">D.C. Law 22-207</cite>: <cite doc="D.C. Law 22-207" path="§10">§ 10 of D.C. Law 22-207</cite> provided that the creation of this section by <cite doc="D.C. Law 22-207" path="§2">§ 2 of D.C. Law 22-207</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" type="History" display="false"/>
-    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="§10|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-207" eff="2019-02-22" path="§2" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-207" path="§2" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-207" path="">D.C. Law 22-207</cite>: <cite doc="D.C. Law 22-207" path="§10">§ 10 of D.C. Law 22-207</cite> provided that the creation of this section by <cite doc="D.C. Law 22-207" path="§2">§ 2 of D.C. Law 22-207</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="§2" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-207" path="§2" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-207" path="">D.C. Law 22-207</cite>: <cite doc="D.C. Law 22-207" path="§10">§ 10 of D.C. Law 22-207</cite> provided that the creation of this section by <cite doc="D.C. Law 22-207" path="§2">§ 2 of D.C. Law 22-207</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

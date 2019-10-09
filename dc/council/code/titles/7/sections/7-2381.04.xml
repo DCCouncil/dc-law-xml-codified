@@ -1,14 +1,43 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>7-2381.04</num>
   <heading>Training required.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>An employee or agent of an authorized entity may not provide or administer an epinephrine auto-injector under <cite path="7|23D|II">this subchapter</cite> unless he or she completes an anaphylaxis training program. The training program shall be conducted by:</text>
+    <para>
+      <num>(1)</num>
+      <text>A nationally recognized organization experienced in training laypersons in emergency health treatment; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>An entity or individual approved by the Department.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The training program may be conducted online or in person and shall include instruction on:</text>
+    <para>
+      <num>(1)</num>
+      <text>The recognition of signs and symptoms of severe allergic reactions, including anaphylaxis;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Standards and procedures for the storage and administration of an epinephrine auto-injector; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Post-administration emergency medical follow-up procedures.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>An organization, individual, or entity that conducts the training program shall issue a certificate, on a form developed by the Department, to each person who successfully completes the training program.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§7-2381.04" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2381.04">Applicability of <cite doc="D.C. Law 22-207" path="">D.C. Law 22-207</cite>: <cite doc="D.C. Law 22-207" path="§10">§ 10 of D.C. Law 22-207</cite> provided that the creation of this section by <cite doc="D.C. Law 22-207" path="§5">§ 5 of D.C. Law 22-207</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" type="History" display="false"/>
-    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="§10|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-207" eff="2019-02-22" path="§5" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-207" path="§5" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-207" path="">D.C. Law 22-207</cite>: <cite doc="D.C. Law 22-207" path="§10">§ 10 of D.C. Law 22-207</cite> provided that the creation of this section by <cite doc="D.C. Law 22-207" path="§5">§ 5 of D.C. Law 22-207</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="§5" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-207" path="§5" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-207" path="">D.C. Law 22-207</cite>: <cite doc="D.C. Law 22-207" path="§10">§ 10 of D.C. Law 22-207</cite> provided that the creation of this section by <cite doc="D.C. Law 22-207" path="§5">§ 5 of D.C. Law 22-207</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

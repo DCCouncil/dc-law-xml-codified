@@ -2238,11 +2238,10 @@
           Pursuant to section 2124 of D.C. Law 21-160, the amendment made to this section by section 2123 of D.C. Law 21-160 will expire on September 30, 2017.
         </annotation>
       </section>
-      <section codify:expire="">
+      <section>
         <num>2124</num>
         <heading>Sunset.</heading>
         <text>This subtitle shall expire on September 30, 2017.</text>
-        <codify:expire path="II|M" date="2017-09-30" codified:doc="D.C. Code" codified:path="§42-2857.01|(c)|(15)"/>
       </section>
     </container>
     <container>
@@ -3292,12 +3291,10 @@
           <aftertext>.</aftertext>
         </para>
       </section>
-      <section codify:expire="">
+      <section>
         <num>3073</num>
         <heading>Sunset.</heading>
         <text>Section 3072(a)(2)(C) and (3) shall expire on September 30, 2019.</text>
-        <codify:expire path="§3072|(a)|(2)|(C)" date="2019-09-30" codified:doc="D.C. Code" codified:path="§5-401|(b)|(2)"/>
-        <codify:expire path="§3072|(a)|(3)" date="2019-09-30" codified:doc="D.C. Code" codified:path="§5-401|(d)"/>
       </section>
     </container>
     <container>
@@ -4071,12 +4068,11 @@
             Section 3127 of D.C. Law 21-160 provided that this section shall expire on October 1, 2018.
           </annotation>
         </section>
-        <section codify:expire="">
+        <section>
           <codify:insert num-value="3-156" codified:doc="D.C. Code" codified:path="§3-156"/>
           <num>3127</num>
           <heading>Sunset.</heading>
           <text><code-cite doc="D.C. Code" path="|3|1A">This part</code-cite> shall expire on October 1, 2018.</text>
-          <codify:expire doc="D.C. Law 21-160" path="III|M|1" date="2019-10-01" history="false" codified:doc="D.C. Code" codified:path="§3-151"/>
         </section>
       </container>
       <container>
@@ -6858,12 +6854,11 @@
           Section 5070 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
         </annotation>
       </section>
-      <section codify:expire="">
+      <section>
         <codify:insert doc="D.C. Code" path="44|6A|V" num-value="44-663.09" codified:doc="D.C. Code" codified:path="§44-663.09"/>
         <num>5070</num>
         <heading>Sunset.</heading>
         <text><code-cite doc="D.C. Law 21-160" path="V|G">This subtitle</code-cite> shall expire on September 30, 2017.</text>
-        <codify:expire doc="D.C. Law 21-160" path="V|G" date="2017-09-30" codified:doc="D.C. Code" codified:path="§44-663.01"/>
       </section>
     </container>
     <codify:insert doc="D.C. Code" path="44|6A" history="false" codified:doc="D.C. Code" codified:path="44|6A|VI">
@@ -7085,12 +7080,11 @@
           Section 5079 of D.C. Law 21-160 provided that this section shall expire on September 30, 2017.
         </annotation>
       </section>
-      <section codify:expire="">
+      <section>
         <codify:insert doc="D.C. Code" path="44|6A|VI" num-value="44-663.18" codified:doc="D.C. Code" codified:path="§44-663.18"/>
         <num>5079</num>
         <heading>Sunset.</heading>
         <text><code-cite doc="D.C. Law 21-160" path="V|H">This subtitle</code-cite> shall expire on September 30, 2017.</text>
-        <codify:expire doc="D.C. Law 21-160" path="V|H" date="2017-09-30" codified:doc="D.C. Code" codified:path="§44-663.11"/>
       </section>
     </container>
     <container>
@@ -7213,11 +7207,10 @@
         <heading>Administration and appropriations.</heading>
         <text>The Office of the Deputy Mayor for Health and Human Services shall provide facilities and other administrative support for the Task Force.</text>
       </section>
-      <section codify:expire="">
+      <section>
         <num>5094</num>
         <heading>Sunset.</heading>
         <text>This subtitle shall expire on March 17, 2017.</text>
-        <codify:expire path="V|J" date="2017-03-17"/>
       </section>
     </container>
     <container>
@@ -8971,11 +8964,10 @@
         </include>
         <aftertext>.</aftertext>
       </section>
-      <section codify:expire="">
+      <section>
         <num>6143</num>
         <heading>Sunset.</heading>
         <text>This subtitle shall expire on September 30, 2018.</text>
-        <codify:expire path="VI|M" date="2018-09-30" codified:doc="D.C. Code" codified:path="§50-1110"/>
       </section>
     </container>
     <container>
@@ -9571,7 +9563,7 @@
           <text>Section 202(b)(1) is amended by adding a new subparagraph (C) to read as follows:</text>
           <include>
             <para>
-              <codify:insert path="§202|(b)|(1)" after="(B)" codified:doc="D.C. Code" codified:path="§8-752|(b)|(1)|(C)"/>
+              <codify:insert path="§202|(b)|(1)" after="(B)" codified:doc="D.C. Code" codified:path="§8-752"/>
               <num>(C)</num>
               <text>The total amount of grants for Fiscal Year 2017 shall not exceed $1 million.</text>
             </para>

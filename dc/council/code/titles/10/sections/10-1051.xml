@@ -1,14 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>10-1051</num>
   <heading>Definitions.</heading>
-  <text>Not Funded.</text>
+  <text>For the purposes of <cite path="10|10B">this chapter</cite>, the term:</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>"BID" shall have the same meaning as provided in <cite path="§2-1215.02|(7)">§ 2-1215.02(7)</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Participant" means a place of public accommodation located within the BID selected by the Mayor under <cite path="§10-1053|(b)">§ 10-1053(b)</cite> that is participating in the Community Restroom Incentive Pilot Program.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Place of public accommodation" shall have the same meaning as provided in <cite path="§2-1401.02|(24)">§ 2-1401.02(24)</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Public restroom facility" means a restroom maintained by the District and accessible to the public free of charge.</text>
+    </para>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§10-1051" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-1051">Applicability of <cite doc="D.C. Law 22-280" path="">D.C. Law 22-280</cite>: <cite doc="D.C. Law 22-280" path="§5">§ 5 of D.C. Law 22-280</cite> provided that the creation of this section by <cite doc="D.C. Law 22-280" path="§2">§ 2 of D.C. Law 22-280</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 22-280" eff="2019-04-11" path="§5|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-280" eff="2019-04-11" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-280" eff="2019-04-11" path="§2" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-280" path="§2" codified:display="Note" app="2019-04-11" eff="2019-04-11">Applicability of <cite doc="D.C. Law 22-280" path="">D.C. Law 22-280</cite>: <cite doc="D.C. Law 22-280" path="§5">§ 5 of D.C. Law 22-280</cite> provided that the creation of this section by <cite doc="D.C. Law 22-280" path="§2">§ 2 of D.C. Law 22-280</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2019-04-11" doc="D.C. Law 22-280" eff="2019-04-11" path="" type="History" display="false"/>
     <annotation app="2019-04-11" doc="D.C. Law 22-280" eff="2019-04-11" path="§2" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-280" path="§2" codified:display="Note" app="2019-04-11" eff="2019-04-11">Applicability of <cite doc="D.C. Law 22-280" path="">D.C. Law 22-280</cite>: <cite doc="D.C. Law 22-280" path="§5">§ 5 of D.C. Law 22-280</cite> provided that the creation of this section by <cite doc="D.C. Law 22-280" path="§2">§ 2 of D.C. Law 22-280</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

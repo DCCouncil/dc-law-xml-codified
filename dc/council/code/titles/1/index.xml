@@ -815,6 +815,7 @@
         <xi:include href="./sections/1-307.89.xml"/>
         <xi:include href="./sections/1-307.90.xml"/>
         <xi:include href="./sections/1-307.91.xml"/>
+        <xi:include href="./sections/1-307.91a.xml"/>
         <xi:include href="./sections/1-307.92.xml"/>
         <xi:include href="./sections/1-307.92a.xml"/>
         <xi:include href="./sections/1-307.93.xml"/>
@@ -1479,6 +1480,13 @@
       <heading>Workplace Wellness.</heading>
       <xi:include href="./sections/1-541.01.xml"/>
       <xi:include href="./sections/1-541.02.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VIII-A</num>
+      <heading>Student loan repayment assistance for Council employees.</heading>
+      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="I|D" type="History" display="false"/>
+      <xi:include href="./sections/1-545.01.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

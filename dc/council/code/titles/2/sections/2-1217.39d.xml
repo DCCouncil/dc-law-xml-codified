@@ -1,14 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>2-1217.39d</num>
   <heading>Class A Bond authorization.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Council approves and authorizes the issuance of one or more series of Class A Bonds in an aggregate principal amount not to exceed $32 million to fund the project. The Class A Bonds, which may be issued from time to time, in one or more series, shall be tax-exempt or taxable as the Mayor shall determine and shall be payable and secured as provided in <cite path="§2-1217.39f|(a)">§ 2-1217.39f(a)</cite>.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The proceeds of the Class A Bonds shall be used as follows:</text>
+    <para>
+      <num>(1)</num>
+      <text>An amount not to exceed $23 million shall be used to pay Development Costs of the project; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The balance of the proceeds may be used to pay the financing costs incurred by the District and to fund capitalized interest and required reserves.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The Mayor may pay from the proceeds of the Class A Bonds the financing costs and expenses of issuing and delivering the Class A Bonds, including, but not limited to, underwriting, legal, accounting, financial advisory, credit enhancement, marketing, sale, and printing costs and expenses.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1217.39d" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1217.39d">Applicability of <cite doc="D.C. Law 22-263" path="">D.C. Law 22-263</cite>: <cite doc="D.C. Law 22-263" path="§16">§ 16 of D.C. Law 22-263</cite> provided that the creation of this section by <cite doc="D.C. Law 22-263" path="§5">§ 5 of D.C. Law 22-263</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="2019-03-22" doc="D.C. Law 22-263" eff="2019-03-22" path="§16|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-263" eff="2019-03-22" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-263" eff="2019-03-22" path="§5" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-263" path="§5" codified:display="Note" app="2019-03-22" eff="2019-03-22">Applicability of <cite doc="D.C. Law 22-263" path="">D.C. Law 22-263</cite>: <cite doc="D.C. Law 22-263" path="§16">§ 16 of D.C. Law 22-263</cite> provided that the creation of this section by <cite doc="D.C. Law 22-263" path="§5">§ 5 of D.C. Law 22-263</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2019-03-22" doc="D.C. Law 22-263" eff="2019-03-22" path="" type="History" display="false"/>
     <annotation app="2019-03-22" doc="D.C. Law 22-263" eff="2019-03-22" path="§5" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-263" path="§5" codified:display="Note" app="2019-03-22" eff="2019-03-22">Applicability of <cite doc="D.C. Law 22-263" path="">D.C. Law 22-263</cite>: <cite doc="D.C. Law 22-263" path="§16">§ 16 of D.C. Law 22-263</cite> provided that the creation of this section by <cite doc="D.C. Law 22-263" path="§5">§ 5 of D.C. Law 22-263</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

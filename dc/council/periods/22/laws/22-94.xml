@@ -88,12 +88,12 @@
         <text>New paragraphs (10C) and (10D) are added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(10B)" codified:doc="D.C. Code" codified:path="§1-1161.01|(10C)"/>
+            <codify:insert after="(10B)" codified:doc="D.C. Code" codified:path="§1-1161.01|(10D)"/>
             <num>(10C)</num>
             <text>"Covered office" means the office of Mayor, Attorney General, Chairman of the Council, member of the Council, and member of the State Board of Education.</text>
           </para>
           <para>
-            <codify:insert after="(10C)" codified:doc="D.C. Code" codified:path="§1-1161.01|(10D)"/>
+            <codify:insert after="(10C)" codified:doc="D.C. Code" codified:path="§1-1161.01|(10E)"/>
             <num>(10D)</num>
             <text>"Debate" means the public, moderated, reciprocal discussion of issues conducted by the Director of Campaign Finance pursuant to <code-cite doc="D.C. Code" path="§1-1163.32g">section 332g</code-cite>.</text>
           </para>
@@ -376,11 +376,11 @@
       <para codify:path="§1-1163.10a">
         <num>(3)</num>
         <text>Section 310a (D.C. Official Code § 1-1163.10a) is amended by striking the word "Within" and inserting the phrase "Except as provided in section 332h, within" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1163.10a|(a)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1163.10a">
           <find>Within</find>
           <replace>Except as provided in <code-cite doc="D.C. Code" path="§1-1163.32h">section 332h</code-cite>, within</replace>
         </codify:find-replace>
-        <codify:not-funded-anno doc="D.C. Code" path="§1-1163.10a" applicability-path="§3" codified:doc="D.C. Code" codified:path="§1-1163.10a|(a)" codified:display="Note"/>
+        <codify:not-funded-anno doc="D.C. Code" path="§1-1163.10a" applicability-path="§3" codified:doc="D.C. Code" codified:path="§1-1163.10a" codified:display="Note"/>
       </para>
       <para codify:path="§1-1163.12|(a)">
         <num>(4)</num>

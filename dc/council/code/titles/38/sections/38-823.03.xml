@@ -1,8 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-823.03</num>
   <heading>Mandatory reporting.</heading>
-  <text>On or before September 30 of each year, the Office of the State Superintendent of Education shall submit to the Mayor, the Council, and the Healthy Schools and Youth Commission a comprehensive report on the District’s farm-to-school initiatives and recommendations for improvement.</text>
+  <text>Beginning September 30, 2020, and biennially thereafter, the Office of the State Superintendent of Education shall submit to the Mayor, the Council, and the Healthy Youth and Schools Commission a comprehensive report on the District's compliance with <cite path="38|8A">this chapter</cite>, which shall include:</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>An update on farm-to-school initiatives and recommendations for improving these initiatives; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The information required in §§ <cite path="§38-824.05">38-824.05</cite> and <cite path="§38-825.02|(c)">38-825.02(c)</cite>.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 18-209" type="History" path="§303">July 27, 2010, D.C. Law 18-209, § 303, 57 DCR 4779</annotation>
     <annotation doc="D.C. Law 19-168" type="History">Sept. 20, 2012, D.C. Law 19-168, § 4062(h), 59 DCR 8025</annotation>
@@ -18,9 +29,7 @@
     <annotation doc="D.C. Law 22-33" path="§4147" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§4150">Section 4150 of D.C. Law 22-33</cite> provided that the amendment made to this section shall apply as of June 27, 2017.
         </annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§4147" type="History" display="false"/>
-    <annotation type="Applicability" doc="D.C. Law 22-240" path="§2|(n)" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-240" path="">D.C. Law 22-240</cite>: <cite doc="D.C. Law 22-240" path="§3">§ 3 of D.C. Law 22-240</cite> provided that the change made to this section by <cite doc="D.C. Law 22-240" path="§2|(n)">§ 2(n) of D.C. Law 22-240</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2019-03-13" doc="D.C. Law 22-240" eff="2019-03-13" path="§3|(a)" type="History" display="false"/>
     <annotation app="2019-03-13" doc="D.C. Law 22-240" eff="2019-03-13" path="§2|(n)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 22-240" eff="2019-03-13" path="§2|(n)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-240" path="§2|(n)" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-240" path="">D.C. Law 22-240</cite>: <cite doc="D.C. Law 22-240" path="§3">§ 3 of D.C. Law 22-240</cite> provided that the change made to this section by <cite doc="D.C. Law 22-240" path="§2|(n)">§ 2(n) of D.C. Law 22-240</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

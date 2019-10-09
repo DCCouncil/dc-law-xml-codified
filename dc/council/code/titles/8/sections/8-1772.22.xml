@@ -1,15 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:xi="http://www.w3.org/2001/XInclude" codify:doc="D.C. Code">
-  <reason>Not Funded</reason>
   <num>8-1772.22</num>
   <heading>Strategic energy management plan for District government buildings.</heading>
-  <text>Not Funded.</text>
+  <text>By January 1, 2020, the Department of General Services ("DGS") shall develop a strategic energy management plan for reducing energy and water use across the DGS portfolio of buildings. The plan shall include timelines and cost estimates for implementing:</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>An energy retrofit program across at least 9% of the DGS portfolio of District government-owned buildings by square footage between 2021 and 2024, prioritizing buildings that have core systems and equipment nearing the end of their useful lives, with a goal of achieving at least 30% reductions in energy and greenhouse gas emissions; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A net-zero energy retrofit program across at least 12.5% of the DGS portfolio of District government-owned buildings between 2026 and 2032.</text>
+    </para>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§8-1772.22" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-1772.22">Applicability of <cite doc="D.C. Law 22-257" path="">D.C. Law 22-257</cite>: <cite doc="D.C. Law 22-257" path="§601">§ 601 of D.C. Law 22-257</cite> provided that the creation of this section by <cite doc="D.C. Law 22-257" path="§303">§ 303 of D.C. Law 22-257</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="" type="History" display="false"/>
     <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="III" type="History" display="false"/>
-    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§601|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-257" eff="2019-03-22" path="§303" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-257" path="§303" codified:display="Note" app="2019-03-22" eff="2019-03-22">Applicability of <cite doc="D.C. Law 22-257" path="">D.C. Law 22-257</cite>: <cite doc="D.C. Law 22-257" path="§601">§ 601 of D.C. Law 22-257</cite> provided that the creation of this section by <cite doc="D.C. Law 22-257" path="§303">§ 303 of D.C. Law 22-257</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§303" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-257" path="§303" codified:display="Note" app="2019-03-22" eff="2019-03-22">Applicability of <cite doc="D.C. Law 22-257" path="">D.C. Law 22-257</cite>: <cite doc="D.C. Law 22-257" path="§601">§ 601 of D.C. Law 22-257</cite> provided that the creation of this section by <cite doc="D.C. Law 22-257" path="§303">§ 303 of D.C. Law 22-257</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

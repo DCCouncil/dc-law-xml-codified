@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>7-681</num>
   <heading>Definitions.</heading>
-  <text>Not Funded.</text>
+  <text>For the purposes of <cite path="7|6D">this chapter</cite>, the term:</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>"Department" means the Department of Health.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Long-term care facility" shall have the same meaning as provided in <cite path="§7-701.01|(7)">§ 7-701.01(7)</cite>.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Long-term care services" shall have the same meaning as provided in <cite path="§7-701.01|(7A)">§ 7-701.01(7A)</cite>.</text>
+    </para>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 22-238" path="§2" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-681">Applicability of <cite doc="D.C. Law 22-238" path="">D.C. Law 22-238</cite>: <cite doc="D.C. Law 22-238" path="§4">§ 4 of D.C. Law 22-238</cite> provided that the creation of this section by <cite doc="D.C. Law 22-238" path="§2">§ 2 of D.C. Law 22-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 22-238" eff="2019-03-13" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-238" eff="2019-03-13" path="" type="History" display="false"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-238" eff="2019-03-13" path="" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 22-238" path="§2" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-238" path="">D.C. Law 22-238</cite>: <cite doc="D.C. Law 22-238" path="§4">§ 4 of D.C. Law 22-238</cite> provided that the creation of this section by <cite doc="D.C. Law 22-238" path="§2">§ 2 of D.C. Law 22-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-03-13" doc="D.C. Law 22-238" eff="2019-03-13" path="§2" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 22-238" eff="2019-03-13" path="§2" type="History"/>
   </annotations>
 </section>

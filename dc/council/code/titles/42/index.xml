@@ -871,15 +871,28 @@
   <container>
     <prefix>Chapter</prefix>
     <num>25</num>
-    <heading>Government Employer-Assisted Housing Program.</heading>
-    <xi:include href="./sections/42-2501.xml"/>
-    <xi:include href="./sections/42-2502.xml"/>
-    <xi:include href="./sections/42-2503.xml"/>
-    <xi:include href="./sections/42-2504.xml"/>
-    <xi:include href="./sections/42-2505.xml"/>
-    <xi:include href="./sections/42-2505.01.xml"/>
-    <xi:include href="./sections/42-2506.xml"/>
-    <xi:include href="./sections/42-2507.xml"/>
+    <heading>District Government Employee Housing Assistance.<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" type="History"/></heading>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>Government Employer-Assisted Housing Program.</heading>
+      <xi:include href="./sections/42-2501.xml"/>
+      <xi:include href="./sections/42-2502.xml"/>
+      <xi:include href="./sections/42-2503.xml"/>
+      <xi:include href="./sections/42-2504.xml"/>
+      <xi:include href="./sections/42-2505.xml"/>
+      <xi:include href="./sections/42-2505.01.xml"/>
+      <xi:include href="./sections/42-2506.xml"/>
+      <xi:include href="./sections/42-2507.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Negotiate Employee Affordable Housing.</heading>
+      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" type="History" display="false"/>
+      <xi:include href="./sections/42-2521.xml"/>
+    </container>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

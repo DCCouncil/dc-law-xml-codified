@@ -605,11 +605,11 @@
       <para>
         <num>(7)</num>
         <text>Paragraphs (10C) and (10D) are redesignated as paragraphs (10D) and (10E).</text>
-        <codify:find-replace path="(10D)|num" count="1" codified:doc="D.C. Code" codified:path="§1-1161.01|(10D)">
+        <codify:find-replace path="(10D)|num" count="1" codified:doc="D.C. Code" codified:path="§1-1161.01|(10E)">
           <find>(10D)</find>
           <replace>(10E)</replace>
         </codify:find-replace>
-        <codify:find-replace path="(10C)|num" count="1" codified:doc="D.C. Code" codified:path="§1-1161.01|(10C)">
+        <codify:find-replace path="(10C)|num" count="1" codified:doc="D.C. Code" codified:path="§1-1161.01|(10D)">
           <find>(10C)</find>
           <replace>(10D)</replace>
         </codify:find-replace>
@@ -2731,7 +2731,7 @@
         <para codify:path="(1)">
           <num>(B)</num>
           <text>The newly designated paragraph (1) is amended by striking the phrase "election, including primary and general elections, but excluding special elections," and inserting the word "election" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1163.33|(f)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1163.33|(f)|(1)">
             <find>election, including primary and general elections, but excluding special elections,</find>
             <replace>election</replace>
           </codify:find-replace>
@@ -3239,7 +3239,7 @@
               <text>A notation identifying:</text>
               <para>
                 <num>(i)</num>
-                <text>Whether the vendor is a covered contractor, as that term is defined in <code-cite doc="D.C. Code" path="§1-1161.01|(10C)">section 101(10C) of the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011, effective April 27, 2012 (D.C. Law 19-124; D.C. Official Code § 1-1161.01(10C))</code-cite>; and</text>
+                <text>Whether the vendor is a covered contractor, as that term is defined in <code-cite doc="D.C. Code" path="§1-1161.01">section 101(10C) of the Board of Ethics and Government Accountability Establishment and Comprehensive Ethics Reform Amendment Act of 2011, effective April 27, 2012 (D.C. Law 19-124; D.C. Official Code § 1-1161.01(10C))</code-cite>; and</text>
               </para>
               <para>
                 <num>(ii)</num>

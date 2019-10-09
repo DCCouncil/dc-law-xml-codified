@@ -317,7 +317,7 @@
       <heading>Declaration of Public Purpose and Definitions.<annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§202|(a)" type="History"/></heading>
       <annotation app="2018-08-22" doc="D.C. Law 22-155" eff="2018-08-22" path="" type="History" display="false"/>
       <xi:include href="./sections/8-173.01.xml"/>
-      <xi:include href="./sections/8-173.01a.xml"/>
+      <xi:include href="./sections/8-173.02.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -700,7 +700,8 @@
     <prefix>Chapter</prefix>
     <num>7C</num>
     <heading>Trash Compactor Grant Program.</heading>
-    <annotation app="2015-03-11" doc="D.C. Law 20-223" eff="2015-03-11" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 20-223" eff="2015-03-11" path="§301|(a)|(1)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 20-223" eff="2015-03-11" path="" type="History" display="false"/>
     <xi:include href="./sections/8-751.xml"/>
     <xi:include href="./sections/8-752.xml"/>
     <xi:include href="./sections/8-753.xml"/>

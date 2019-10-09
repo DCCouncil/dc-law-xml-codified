@@ -107,19 +107,6 @@
   </section>
   <section>
     <num>25</num>
-    <codify:find-replace doc="D.C. Code" path="32|8|heading" count="1" history="false" codified:doc="D.C. Code" codified:path="32|8">
-      <find>Safety.</find>
-      <replace>Safety. [Repealed]</replace>
-    </codify:find-replace>
-    <codify:find-replace doc="D.C. Code" path="32|8|I|heading" count="1" codified:doc="D.C. Code" codified:path="32|8|I">
-      <find>General.</find>
-      <replace>General. [Repealed]</replace>
-    </codify:find-replace>
-    <codify:find-replace doc="D.C. Code" path="32|8|II|heading" count="1" codified:doc="D.C. Code" codified:path="32|8|II">
-      <find>Employees.</find>
-      <replace>Employees. [Repealed]</replace>
-    </codify:find-replace>
-    <codify:repeal doc="D.C. Code" path="32|8|I" codified:doc="D.C. Code" codified:path="§32-801"/>
   </section>
   <section>
     <num>26</num>

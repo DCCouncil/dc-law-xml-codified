@@ -1,14 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>2-1217.39k</num>
   <heading>District officials.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Except as otherwise provided in <cite path="§2-1217.39j|(c)">§ 2-1217.39j(c)</cite>, the elected or appointed officials, officers, employees, or agents of the District shall not be liable personally for the payment of the bonds or be subject to any personal liability by reason of the issuance of the bonds, or for any representations, warranties, covenants, obligations, or agreements of the District contained in <cite path="2|12|IX|B|9">this subpart</cite>, the bonds, the Financing Documents, or the Closing Documents.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The signature, countersignature, facsimile signature, or facsimile countersignature of any official appearing on the bonds, the Financing Documents, or the Closing Documents shall be valid and sufficient for all purposes notwithstanding the fact that the individual signatory ceases to hold that office before delivery of the bonds, the Financing Documents, or the Closing Documents.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1217.39k" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1217.39k">Applicability of <cite doc="D.C. Law 22-263" path="">D.C. Law 22-263</cite>: <cite doc="D.C. Law 22-263" path="§16">§ 16 of D.C. Law 22-263</cite> provided that the creation of this section by <cite doc="D.C. Law 22-263" path="§12">§ 12 of D.C. Law 22-263</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="2019-03-22" doc="D.C. Law 22-263" eff="2019-03-22" path="§16|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-263" eff="2019-03-22" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-263" eff="2019-03-22" path="§12" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-263" path="§12" codified:display="Note" app="2019-03-22" eff="2019-03-22">Applicability of <cite doc="D.C. Law 22-263" path="">D.C. Law 22-263</cite>: <cite doc="D.C. Law 22-263" path="§16">§ 16 of D.C. Law 22-263</cite> provided that the creation of this section by <cite doc="D.C. Law 22-263" path="§12">§ 12 of D.C. Law 22-263</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2019-03-22" doc="D.C. Law 22-263" eff="2019-03-22" path="" type="History" display="false"/>
     <annotation app="2019-03-22" doc="D.C. Law 22-263" eff="2019-03-22" path="§12" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-263" path="§12" codified:display="Note" app="2019-03-22" eff="2019-03-22">Applicability of <cite doc="D.C. Law 22-263" path="">D.C. Law 22-263</cite>: <cite doc="D.C. Law 22-263" path="§16">§ 16 of D.C. Law 22-263</cite> provided that the creation of this section by <cite doc="D.C. Law 22-263" path="§12">§ 12 of D.C. Law 22-263</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

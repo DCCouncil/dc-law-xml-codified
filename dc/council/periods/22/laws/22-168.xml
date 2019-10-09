@@ -90,7 +90,7 @@
           <para>
             <num>(2)</num>
             <text>The newly designated subsection (a) is amended by striking the phrase "Except as provided in section 332h, within" and inserting the word "Within" in its place.</text>
-            <codify:find-replace path="§1-1163.10a|(a)" count="1" codified:doc="D.C. Code" codified:path="§1-1163.10a|(a)">
+            <codify:find-replace path="§1-1163.10a|(a)" count="1" codified:doc="D.C. Code" codified:path="§1-1163.10a">
               <find>Except as provided in <code-cite doc="D.C. Code" path="§1-1163.32h">section 332h</code-cite>, within</find>
               <replace>Within</replace>
             </codify:find-replace>
@@ -100,7 +100,7 @@
             <text>A new subsection (b) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert path="§1-1163.10a" after="(a)" codified:doc="D.C. Code" codified:path="§1-1163.10a|(b)"/>
+                <codify:insert path="§1-1163.10a" after="(a)" codified:doc="D.C. Code" codified:path="§1-1163.10a"/>
                 <num>(b)</num>
                 <text>This section shall not apply to <code-cite doc="D.C. Code" path="1|11A|III|C-i">subtitle C-i</code-cite>.</text>
               </para>
@@ -3756,10 +3756,6 @@
           <para codify:path="(15)">
             <num>(1)</num>
             <text>Paragraph (15) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-2857.01|(c)|(15)">
-              <find>; and</find>
-              <replace>;</replace>
-            </codify:find-replace>
           </para>
           <para codify:path="(16)">
             <num>(2)</num>
@@ -4318,7 +4314,7 @@
         <para codify:path="§42-3502.13|(a)|(2)">
           <num>(e)</num>
           <text>Section 213(a)(2) (D.C. Official Code § 42-3502.13(a)(2)) is amended by striking the phrase "section 205(d)" and inserting the phrase "section 205(f)" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3502.13|(a)|(2)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3502.13">
             <find>
               <cite path="§42-3502.05|(d)">§ 42-3502.05(d)</cite>
             </find>
@@ -5583,7 +5579,7 @@
           <text>Section 8a(a) (D.C. Official Code § 50-1401.03(a)) is amended by adding a new paragraph (1B) to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(1A)" codified:doc="D.C. Code" codified:path="§50-1401.03|(a)|(1B)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§50-1401.03|(a)|(1B)"/>
               <num>(1B)</num>
               <para>
                 <num>(A)</num>
@@ -6567,37 +6563,38 @@
           <num>(a)</num>
           <text>Section 2(c) is amended by striking the phrase "including non-instructional personnel with specialized expertise in behavioral health, trauma-informed educational settings, and restorative justice practices, to assist local education agencies and schools in developing" and inserting the phrase "including non-instructional specialized experts from the fields of behavioral health, trauma-informed educational settings, or restorative justice, to assist schools and local education agencies, as needed and in accordance with policies OSSE adopts, in developing and" in its place.</text>
           <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§38-236.06|(a)|(4)">
-            <find>Not funded</find>
-            <replace>Not Funded</replace>
+            <find>including non-instructional personnel with specialized expertise in behavioral health, trauma-informed educational settings, and restorative justice practices, to assist local education agencies and schools in developing</find>
+            <replace>including non-instructional specialized experts from the fields of behavioral health, trauma-informed educational settings, or restorative justice, to assist schools and local education agencies, as needed and in accordance with policies OSSE adopts, in developing and</replace>
           </codify:find-replace>
         </para>
         <para codify:path="§38-2602|(b)">
           <num>(b)</num>
           <text>Section 3(d) is repealed.</text>
+          <codify:repeal path="(30)" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(30)"/>
         </para>
         <para>
           <num>(c)</num>
           <text>Section 4(a) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace doc="D.C. Law 22-157" path="§4|(a)" codified:doc="D.C. Code" codified:path="§38-236.04|(a)"/>
+              <codify:replace doc="D.C. Law 22-157" path="§4|(a)"/>
               <num>(a)</num>
               <text>Sections 204(a) and 206(a)(4) of Title II of the Attendance Accountability Amendment Act of 2013, passed on 2nd reading on May 1, 2018 (Enrolled version of Bill 22-594), added by section 2(c), shall apply upon the date of inclusion of the section's fiscal effect in an approved budget and financial plan.</text>
-              <codify:repeal doc="D.C. Code" path="§38-236.04|(a)" display-template="" history="false" codified:doc="D.C. Code" codified:path="§38-236.04|(a)"/>
-              <codify:find-replace doc="D.C. Code" path="§38-236.04|(a)" count="1" display-template="" history="false" codified:doc="D.C. Code" codified:path="§38-236.04|(a)">
+              <codify:repeal doc="D.C. Code" path="§38-236.04|(a)" display-template="" history="false"/>
+              <codify:find-replace doc="D.C. Code" path="§38-236.04|(a)" count="1" display-template="" history="false">
                 <find>Repealed</find>
                 <replace>Not funded</replace>
               </codify:find-replace>
-              <codify:repeal doc="D.C. Code" path="§38-236.06|(a)|(4)" display-template="" history="false" codified:doc="D.C. Code" codified:path="§38-236.06|(a)|(4)"/>
-              <codify:find-replace doc="D.C. Code" path="§38-236.06|(a)|(4)" count="1" display-template="" history="false" codified:doc="D.C. Code" codified:path="§38-236.06|(a)|(4)">
+              <codify:repeal doc="D.C. Code" path="§38-236.06|(a)|(4)" display-template="" history="false"/>
+              <codify:find-replace doc="D.C. Code" path="§38-236.06|(a)|(4)" count="1" display-template="" history="false">
                 <find>Repealed</find>
                 <replace>Not funded</replace>
               </codify:find-replace>
-              <codify:annotation doc="D.C. Code" path="§38-236.04" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-236.04"><cite doc="D.C. Law 22-168" path="§4064|(c)">Section 4064(c) of D.C. Law 22-168</cite> amended section 4(a) of D.C. Law 22-157 implementing subsection (b) of this section.  Subsection (a) of this subsection has not been implemented.
+              <codify:annotation doc="D.C. Code" path="§38-236.04" type="Applicability" history="false"><cite doc="D.C. Law 22-168" path="§4064|(c)">Section 4064(c) of D.C. Law 22-168</cite> amended section 4(a) of D.C. Law 22-157 implementing subsection (b) of this section.  Subsection (a) of this subsection has not been implemented.
               </codify:annotation>
-              <codify:annotation doc="D.C. Code" path="§38-236.06" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-236.06"><cite doc="D.C. Law 22-168" path="§4064|(c)">Section 4064(c) of D.C. Law 22-168</cite> amended section 4(a) of D.C. Law 22-157 implementing this section, except subsection (a)(4).
+              <codify:annotation doc="D.C. Code" path="§38-236.06" type="Applicability" history="false"><cite doc="D.C. Law 22-168" path="§4064|(c)">Section 4064(c) of D.C. Law 22-168</cite> amended section 4(a) of D.C. Law 22-157 implementing this section, except subsection (a)(4).
               </codify:annotation>
-              <codify:annotation doc="D.C. Code" path="§38-236.07" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§38-236.07"><cite doc="D.C. Law 22-168" path="§4064|(c)">Section 4064(c) of D.C. Law 22-168</cite> amended section 4(a) of D.C. Law 22-157 implementing this section.
+              <codify:annotation doc="D.C. Code" path="§38-236.07" type="Applicability" history="false"><cite doc="D.C. Law 22-168" path="§4064|(c)">Section 4064(c) of D.C. Law 22-168</cite> amended section 4(a) of D.C. Law 22-157 implementing this section.
               </codify:annotation>
             </para>
           </include>
@@ -9328,12 +9325,12 @@
           <num>(a)</num>
           <text>Subsection (a) is amended by striking the phrase "This act shall" and inserting the phrase "Section 47-2005(39) of the District of Columbia Official Code, as added by section 2(b), shall" in its place.</text>
           <codify:repeal doc="D.C. Law 21-201" path="§3"/>
-          <codify:repeal doc="D.C. Code" path="§47-2005|(39)" history="false" codified:doc="D.C. Code" codified:path="§47-2005|(39)"/>
-          <codify:find-replace doc="D.C. Code" path="§47-2005|(39)" count="1" history="false" codified:doc="D.C. Code" codified:path="§47-2005|(39)">
+          <codify:repeal doc="D.C. Code" path="§47-2005|(39)" history="false"/>
+          <codify:find-replace doc="D.C. Code" path="§47-2005|(39)" count="1" history="false">
             <find>Repealed</find>
             <replace>Not Funded</replace>
           </codify:find-replace>
-          <codify:annotation doc="D.C. Law 21-201" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§47-2005|(36)"><cite doc="D.C. Law 22-168" path="§7022">Section 7022 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 21-201" path="§3">section 3 of D.C. Law 21-201</cite> amending the applicability restriction impacting this section. Therefore the amendments of this section by <cite doc="D.C. Law 21-201">D.C. Law 21-201</cite> have been implemented, except for paragraph (39).</codify:annotation>
+          <codify:annotation doc="D.C. Law 21-201" type="Applicability" history="false"><cite doc="D.C. Law 22-168" path="§7022">Section 7022 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 21-201" path="§3">section 3 of D.C. Law 21-201</cite> amending the applicability restriction impacting this section. Therefore the amendments of this section by <cite doc="D.C. Law 21-201">D.C. Law 21-201</cite> have been implemented, except for paragraph (39).</codify:annotation>
         </para>
         <para>
           <num>(b)</num>

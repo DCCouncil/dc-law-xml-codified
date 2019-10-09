@@ -620,8 +620,8 @@
       <para>
         <num>(a)</num>
         <text>Section 102(b)(2) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-        <codify:repeal doc="D.C. Code" path="§7-3202|(b)|(2)" codified:doc="D.C. Code" codified:path="§7-3202|(b)|(2)"/>
-        <codify:find-replace doc="D.C. Code" path="§7-3202|(b)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-3202|(b)|(2)">
+        <codify:repeal doc="D.C. Code" path="§7-3202|(b)|(2)"/>
+        <codify:find-replace doc="D.C. Code" path="§7-3202|(b)|(2)" count="1">
           <find>Repeal</find>
           <replace>Not Funded</replace>
         </codify:find-replace>

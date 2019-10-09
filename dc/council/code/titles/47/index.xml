@@ -1346,7 +1346,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VII-B</num>
-      <heading>Wheelchair-Accessible Vehicle Tax Credit.</heading>
+      <heading>Wheelchair-Accessible Vehicle Tax Credit. [Repealed]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7186" type="History"/></heading>
       <xi:include href="./sections/47-1807.61.xml"/>
       <xi:include href="./sections/47-1807.62.xml"/>
       <xi:include href="./sections/47-1807.63.xml"/>
@@ -1354,6 +1354,7 @@
       <xi:include href="./sections/47-1807.65.xml"/>
       <xi:include href="./sections/47-1807.66.xml"/>
       <annotation app="2017-04-07" doc="D.C. Law 21-242" eff="2017-04-07" path="§3|(c)" type="History"/>
+      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7186" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -2774,6 +2775,7 @@
     <xi:include href="./sections/47-4624.xml"/>
     <xi:include href="./sections/47-4625.xml"/>
     <xi:include href="./sections/47-4626.xml"/>
+    <xi:include href="./sections/47-4626.01.xml"/>
     <xi:include href="./sections/47-4627.xml"/>
     <xi:include href="./sections/47-4628.xml"/>
     <xi:include href="./sections/47-4629.xml"/>

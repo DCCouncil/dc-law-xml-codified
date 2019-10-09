@@ -79,8 +79,8 @@
     <para>
       <num>(a)</num>
       <text>The amendatory section 3b(c)(3) within section 2(b) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal doc="D.C. Code" path="§10-302.02|(c)|(3)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-302.02|(c)|(3)"/>
-      <codify:find-replace doc="D.C. Code" path="§10-302.02|(c)|(3)" count="1" history="false" display="Note" codified:doc="D.C. Code" codified:path="§10-302.02|(c)|(3)">
+      <codify:repeal doc="D.C. Code" path="§10-302.02|(c)|(3)" history="false" display-template=""/>
+      <codify:find-replace doc="D.C. Code" path="§10-302.02|(c)|(3)" count="1" history="false" display="Note">
         <find>Repealed</find>
         <replace>Not Funded</replace>
       </codify:find-replace>

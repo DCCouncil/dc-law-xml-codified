@@ -1,13 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>50-921.24</num>
   <heading>Comprehensive clean vehicle transition plan.</heading>
-  <text>Not Funded.</text>
+  <text>By July 1, 2021, DDOT shall prepare and submit to the Mayor, as well as publish on its website, a comprehensive clean vehicle transition plan outlining strategies that will encourage and promote the adoption of zero-emission vehicles by drivers in the District. In preparing the plan, DDOT shall consult with the Office of the State Superintendent of Education and other stakeholders. The plan shall include recommendations for policies, including cost estimates and timelines, estimated to achieve:</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>At least 25% zero-emission vehicle registrations by calendar year 2030;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>100% replacement of public buses, including school buses, with electric public buses upon the end of their useful life, by calendar year 2021; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Implementation of the transportation electrification program established pursuant to <cite path="§50-741">§ 50-741</cite>.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 14-137" type="History" path="§9p">May 21, 2002, D.C. Law 14-137, §  9p</annotation>
-    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§601|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-257" eff="2019-03-22" path="§503|(c)" prefix="as added" type="History"/>
+    <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§503|(c)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-257" path="§503|(c)" codified:display="Note" app="2019-03-22" eff="2019-03-22">Applicability of <cite doc="D.C. Law 22-257" path="">D.C. Law 22-257</cite>: <cite doc="D.C. Law 22-257" path="§601">§ 601 of D.C. Law 22-257</cite> provided that the creation of this section by <cite doc="D.C. Law 22-257" path="§503|(c)">§ 503(c) of D.C. Law 22-257</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-03-22" doc="D.C. Law 22-257" eff="2019-03-22" path="§503|(c)" type="History"/>
   </annotations>

@@ -1,14 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>7-682</num>
   <heading>Study of long-term care facilities and long-term care services.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Department, in consultation with residents receiving long-term care services, providers of long-term care services, community advocates, and any other appropriate District agencies, shall conduct a study using a community-based participatory research framework to evaluate the availability of affordable long-term care facilities and long-term care services in the District. The study shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Review the availability of affordable long-term care facilities;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Evaluate the number of beds available at long-term care facilities;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Identify the payment sources accepted by long-term care facilities for the provision of long-term care services;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Develop an estimate of the number of District residents who receive long-term care services from long-term care facilities located in Virginia and Maryland;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Assess the availability of long-term care services provided to residents in the District;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Identify the number of residents receiving long-term care services in the District who transitioned in the preceding year to a long-term care facility either within or outside of the District;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Develop an estimate of the number of District residents who may require long-term care services over the next 10-year period; and</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Recommend resources to ensure residents have access to affordable long-term care services in the District.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>By February 1, 2019, the Department shall submit the study required pursuant to subsection (a) of this section to the Council.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 22-238" path="§3" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-682">Applicability of <cite doc="D.C. Law 22-238" path="">D.C. Law 22-238</cite>: <cite doc="D.C. Law 22-238" path="§4">§ 4 of D.C. Law 22-238</cite> provided that the creation of this section by <cite doc="D.C. Law 22-238" path="§3">§ 3 of D.C. Law 22-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 22-238" eff="2019-03-13" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-238" eff="2019-03-13" path="" type="History" display="false"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-238" eff="2019-03-13" path="" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 22-238" path="§3" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-238" path="">D.C. Law 22-238</cite>: <cite doc="D.C. Law 22-238" path="§4">§ 4 of D.C. Law 22-238</cite> provided that the creation of this section by <cite doc="D.C. Law 22-238" path="§3">§ 3 of D.C. Law 22-238</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-03-13" doc="D.C. Law 22-238" eff="2019-03-13" path="§3" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 22-238" eff="2019-03-13" path="§3" type="History"/>
   </annotations>
 </section>

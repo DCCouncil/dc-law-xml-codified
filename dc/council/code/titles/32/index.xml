@@ -303,11 +303,11 @@
   <container>
     <prefix>Chapter</prefix>
     <num>8</num>
-    <heading>Industrial Safety. [Repealed]<annotation app="1989-03-16" doc="D.C. Law 7-186" eff="1989-03-16" path="§25" type="History" display="false"/></heading>
+    <heading>Industrial Safety.</heading>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
-      <heading>General. [Repealed]<annotation app="1989-03-16" doc="D.C. Law 7-186" eff="1989-03-16" path="§25" type="History"/></heading>
+      <heading>General.</heading>
       <xi:include href="./sections/32-801.xml"/>
       <xi:include href="./sections/32-802.xml"/>
       <xi:include href="./sections/32-803.xml"/>
@@ -320,12 +320,11 @@
       <xi:include href="./sections/32-810.xml"/>
       <xi:include href="./sections/32-811.xml"/>
       <xi:include href="./sections/32-812.xml"/>
-      <annotation app="1989-03-16" doc="D.C. Law 7-186" eff="1989-03-16" path="§25" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
-      <heading>Seats for Employees. [Repealed]<annotation app="1989-03-16" doc="D.C. Law 7-186" eff="1989-03-16" path="§25" type="History"/></heading>
+      <heading>Seats for Employees.</heading>
       <xi:include href="./sections/32-831.xml"/>
       <xi:include href="./sections/32-832.xml"/>
     </container>

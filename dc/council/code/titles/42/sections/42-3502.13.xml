@@ -1,42 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3502.13</num>
   <heading>Vacant accommodation.</heading>
   <para>
     <num>(a)</num>
-    <text>When a tenant vacates a rental unit on the tenant’s own initiative or as a result of a notice to vacate for nonpayment of rent, violation of an obligation of the tenant’s tenancy, or use of the rental unit for illegal purpose or purposes as determined by a court of competent jurisdiction, the amount of rent charged may, at the election of the housing provider, be increased:</text>
+    <text>When a tenant vacates a rental unit on the tenant's own initiative or as a result of a notice to vacate for nonpayment of rent, violation of an obligation of the tenant's tenancy, or use of the rental unit for illegal purpose or purposes as determined by a court of competent jurisdiction, the housing provider may elect to increase the amount of rent charged by:</text>
     <para>
       <num>(1)</num>
-      <text>By 10% of the current allowable amount of rent charged for the vacant unit; or</text>
+      <text>10% of the current allowable amount of rent charged for the vacant unit, if the previous tenant occupied the unit for 10 years or less; or</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>To the amount of rent charged for a substantially identical rental unit in the same housing accommodation; provided, that the increase shall not exceed 30% of the current lawful amount of rent charged for the vacant unit, except that no increase under this section shall be permitted unless the housing accommodation has been registered under <cite path="§42-3502.05|(f)">§ 42-3502.05(f)</cite>.</text>
+      <text>20% of the current allowable amount of rent charged for the vacant unit, if the previous tenant occupied the unit for more than 10 years.</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>For the purposes of this section, rental units shall be defined to be substantially identical where they contain essentially the same square footage, essentially the same floor plan, comparable amenities and equipment, comparable locations with respect to exposure and height, if exposure and height have previously been factors in the amount of rent charged, and are in comparable physical condition.</text>
+    <text>No increase under this section shall be permitted unless the housing accommodation has been registered under <cite path="§42-3502.05|(f)">§ 42-3502.05(f)</cite>.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>No rent increase under subsections (a)(1) and (a)(2) may be sought or granted within the 12-month period following the implementation of a hardship increase under <cite path="§42-3502.12">§ 42-3502.12</cite>.</text>
+    <text>No rent increase under subsection (a) may be sought or granted within the 12-month period following the implementation of any rent increase pursuant to <cite path="§42-3502.12">§ 42-3502.12</cite>.</text>
   </para>
   <para>
     <num>(d)</num>
-    <text>Within 15 days after of the commencement of the new tenancy, the housing provider shall disclose to the tenant on a form published by the Rent Administrator (or in another suitable format until a form is published):</text>
+    <text>As part of a lease agreement for a new tenancy, the housing provider shall disclose to the tenant on a form published by the Rent Administrator:</text>
     <para>
       <num>(1)</num>
-      <text>The applicable rent for the rental unit at the commencement of the tenancy;</text>
+      <text>The rent charged for the rental unit at the commencement of the tenancy; and</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The amount of the increases in the amount of rent charged for the rental unit during the preceding 3 years, including the basis for each increase and, if applicable, the identification of any substantially identical rental unit on which a vacancy increase is based, and the current increase in the rent charged; and</text>
+      <text>The amount of the increases in the rent charged for the rental unit during the preceding 3 years, including the basis for each rent adjustment.</text>
     </para>
-    <para>
-      <num>(3)</num>
-      <text>The identification of any substantially identical rental unit on which the vacancy increase is based.</text>
-    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>For the purposes of this section, the term "rent charged" means the entire amount of money, money's worth, benefit, bonus, or gratuity a tenant must actually pay to a housing provider as a condition of occupancy or use of a rental unit, its related services, and its related facilities, pursuant to the Rent Stabilization Program.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 6-10" type="History" path="§213">July 17, 1985, D.C. Law 6-10, § 213, 32 DCR 3089</annotation>
@@ -52,12 +52,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§2282|(e)" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§2282|(e)">§ 2282(e) of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§2282|(e)" type="History" display="false"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2282|(e)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-223" codified:display="Note" app="2019-02-22" eff="2019-02-22" path="§2" display="false">Applicability of <cite doc="D.C. Law 22-223" path="">D.C. Law 22-223</cite>: <cite doc="D.C. Law 22-223" path="§3">§ 3 of D.C. Law 22-223</cite> provided that the change made to this section by <cite doc="D.C. Law 22-223" path="§2">§ 2 of D.C. Law 22-223</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2019-02-22" doc="D.C. Law 22-223" eff="2019-02-22" path="§2" type="History" display="false"/>
-    <annotation app="2019-02-22" doc="D.C. Law 22-223" eff="2019-02-22" path="§3|(a)" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 22-223" codified:display="Note" app="2019-02-22" eff="2019-02-22" path="§2">Applicability of <cite doc="D.C. Law 22-223" path="">D.C. Law 22-223</cite>: <cite doc="D.C. Law 22-223" path="§3">§ 3 of D.C. Law 22-223</cite> provided that the change made to this section by <cite doc="D.C. Law 22-223" path="§2">§ 2 of D.C. Law 22-223</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-02-22" doc="D.C. Law 22-223" eff="2019-02-22" path="§2" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 22-223" eff="2019-02-22" path="§2" type="History"/>
     <annotation app="2019-03-13" doc="D.C. Law 22-248" eff="2019-03-13" path="§4" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 22-248" eff="2019-03-13" path="§2|(e)" type="History"/>
     <annotation doc="D.C. Law 22-248" path="§3" type="Editor's Notes" history="false" app="2019-03-13" eff="2019-03-13"><cite doc="D.C. Law 22-248" path="§3">Section 3 of D.C. Law 22-248</cite> provided that within 180 days after the effective date of <cite doc="D.C. Law 22-248">D.C. Law 22-248</cite>, the Rental Housing Commission, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; <cite path="2|5|I">D.C. Official Code § 2-501</cite> <em>et seq</em>.), shall issue rules to implement the provisions of <cite doc="D.C. Law 22-248">D.C. Law 22-248</cite>, including revisions necessary to update relevant housing provider reporting forms according to the requirements of <cite doc="D.C. Law 22-248">D.C. Law 22-248</cite>.

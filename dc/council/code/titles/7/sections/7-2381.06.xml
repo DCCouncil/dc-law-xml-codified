@@ -1,14 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>7-2381.06</num>
   <heading>Limitations on liability.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The following shall be immune from civil or criminal liability for the performance of actions authorized by <cite path="7|23D|II">this subchapter</cite>; provided, that no immunity shall extend to gross negligence, recklessness, or intentional misconduct:</text>
+    <para>
+      <num>(1)</num>
+      <text>An authorized entity and its employees or agents; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A third party that facilitates the availability of epinephrine auto-injectors to an authorized entity.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The following shall be immune from civil or criminal liability for the performance of actions authorized by <cite path="7|23D|II">this subchapter</cite>; provided, that no immunity shall extend to gross negligence, recklessness, intentional misconduct, or a willful or wanton disregard for the health or safety of others:</text>
+    <para>
+      <num>(1)</num>
+      <text>A health care professional that prescribes epinephrine auto-injectors to an authorized entity;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A pharmacist that dispenses or distributes epinephrine auto-injectors to an authorized entity; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>An organization, individual, or entity that conducts the training described in <cite path="§7-2381.04">§ 7-2381.04</cite>.</text>
+    </para>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§7-2381.06" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-2381.06">Applicability of <cite doc="D.C. Law 22-207" path="">D.C. Law 22-207</cite>: <cite doc="D.C. Law 22-207" path="§10">§ 10 of D.C. Law 22-207</cite> provided that the creation of this section by <cite doc="D.C. Law 22-207" path="§7">§ 7 of D.C. Law 22-207</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="" type="History" display="false"/>
-    <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="§10|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-207" eff="2019-02-22" path="§7" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-207" path="§7" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-207" path="">D.C. Law 22-207</cite>: <cite doc="D.C. Law 22-207" path="§10">§ 10 of D.C. Law 22-207</cite> provided that the creation of this section by <cite doc="D.C. Law 22-207" path="§7">§ 7 of D.C. Law 22-207</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-02-22" doc="D.C. Law 22-207" eff="2019-02-22" path="§7" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-207" path="§7" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-207" path="">D.C. Law 22-207</cite>: <cite doc="D.C. Law 22-207" path="§10">§ 10 of D.C. Law 22-207</cite> provided that the creation of this section by <cite doc="D.C. Law 22-207" path="§7">§ 7 of D.C. Law 22-207</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

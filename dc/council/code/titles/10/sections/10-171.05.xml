@@ -1,25 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <reason>Not Funded</reason>
   <num>10-171.05</num>
   <heading>Study of unsafe surface and ambient temperatures at public recreational spaces.</heading>
-  <text>Within one year after April 11, 2019, DGS shall transmit to the Council a study on methods for testing of surfaces in public recreational spaces for unsafe surface and ambient temperatures. This study shall include:</text>
-  <para>
-    <num undesignated="true">(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>Information on the methods available to test the surface and ambient temperature of surfaces composed of synthetic materials, including information on each method's cost and reliability;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>A summary of existing research on the health and safety risks posed by particular surface or ambient temperatures on surfaces composed of synthetic materials, including information on any specific temperature threshold that, when exceeded, can create a health and safety risk to individuals using the turf surface; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>A summary of steps that DGS and other District agencies would need to take to implement a protocol to test the District's public recreational spaces for unsafe surface and ambient temperatures.</text>
-    </para>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
     <annotation app="2019-04-11" doc="D.C. Law 22-293" eff="2019-04-11" path="" type="History" display="false"/>
-    <annotation app="2019-04-11" doc="D.C. Law 22-293" eff="2019-04-11" path="§6" type="History"/>
+    <annotation app="2019-04-11" doc="D.C. Law 22-293" eff="2019-04-11" path="§8a|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-293" eff="2019-04-11" path="§6" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7169" type="History" display="false"/>
   </annotations>
 </section>
