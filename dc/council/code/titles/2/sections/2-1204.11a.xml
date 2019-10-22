@@ -47,7 +47,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>An estimate of and total investment in qualified film and digital media infrastructure projects in the District associated with an identified qualified production.</text>
+      <text>An estimate of direct District expenditures.</text>
     </para>
   </para>
   <para>
@@ -119,17 +119,17 @@
         <num>(A)</num>
         <text>Estimated qualified production expenditures;</text>
       </para>
-      <para>
+      <para codify:path="(B)">
         <num>(B)</num>
-        <text>Qualified personnel expenditures;</text>
+        <text>Estimated qualified personnel expenditures;</text>
       </para>
-      <para>
+      <para codify:path="(C)">
         <num>(C)</num>
-        <text>Qualified job training expenditures; and</text>
+        <text>Estimated qualified job training expenditures; and</text>
       </para>
-      <para>
+      <para codify:path="(D)">
         <num>(D)</num>
-        <text>The base infrastructure investment;</text>
+        <text>Estimated direct District expenditures.</text>
       </para>
     </para>
     <para>
@@ -162,5 +162,7 @@
     <annotation type="Effect of Amendments">The 2016 amendment by <cite doc="D.C. Law 21-81">D.C. Law 21-81</cite> deleted “development” preceding “preproduction” in (a)(1); substituted “rebate agreement” for “incentive agreement” in (a)(3); added (a)(6) and made related changes; substituted “rebate agreement” for “incentive agreement” twice in (c) and in (d).</annotation>
     <annotation type="Prior Codifications">2001 Ed., § 39-501.01.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§2-1204.11">§ 2-1204.11</cite>.</annotation>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2033|(b)|(1)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2033|(b)|(2)" type="History"/>
   </annotations>
 </section>

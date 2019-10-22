@@ -9860,7 +9860,7 @@
         <para>
           <num>(a)</num>
           <text>Paragraph (4) is amended by striking the word "outcomes" and inserting the phrase "outcomes as of December 31, 2015," in its place.</text>
-          <codify:find-replace path="(4)" count="1" codified:doc="D.C. Code" codified:path="§32-241|(g)|(4)">
+          <codify:find-replace path="(4)" count="1" codified:doc="D.C. Code" codified:path="§32-242|(g)|(4)">
             <find>outcomes</find>
             <replace>outcomes as of December 31, 2015,</replace>
           </codify:find-replace>
@@ -9870,7 +9870,7 @@
           <text>A new paragraph (5) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§32-241|(g)|(5)"/>
+              <codify:insert after="(4)" codified:doc="D.C. Code" codified:path="§32-242|(g)|(5)"/>
               <num>(5)</num>
               <text>In Fiscal Year 2016, the District of Columbia Auditor shall conduct an evaluation of multiple years of the summer youth jobs program to assess whether the program has met and is meeting program objectives.</text>
             </para>

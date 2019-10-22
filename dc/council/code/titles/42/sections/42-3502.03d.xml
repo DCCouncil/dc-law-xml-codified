@@ -1,29 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <reason></reason>
   <num>42-3502.03d</num>
-  <heading>Housing provider online filing and registration requirements.</heading>
-  <para>
-    <num>(a)</num>
-    <text>Beginning 180 days after October 30, 2018, and before December 13, 2019, a housing provider shall use the online provider portal developed pursuant to <cite path="§42-3502.03c|(e-1)">§ 42-3502.03c(e-1)</cite> to file a registration statement or claim of exemption required by <cite path="§42-3502.05|(f)">§ 42-3502.05(f)</cite>.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Beginning December 13, 2019, a housing provider shall use the online provider portal created pursuant to <cite path="§42-3502.03c|(b)|(1)">§ 42-3502.03c(b)(1)</cite> to file all documents and data required to be filed pursuant to this title and all regulations promulgated pursuant to <cite path="42|35|II">this subchapter</cite>.</text>
-  </para>
+  <heading>Housing provider online filing  requirements.</heading>
+  <text>Upon completion of the publicly accessible rent control housing database created pursuant to <cite path="§42-3502.03c">§ 42-3502.03c</cite>, a housing provider shall use the online housing provider portal developed pursuant to <cite path="§42-3502.03c|(b)|(1)">§ 42-3502.03c(b)(1)</cite> to file all documents and data required to be filed pursuant to <cite path="42|35|II">this subchapter</cite> and all regulations promulgated pursuant to <cite path="42|35|II">this subchapter</cite>..</text>
   <annotations>
-    <annotation doc="D.C. Law 6-10" type="History" path="§203d">July 17, 1985, D.C. Law 6-10, §  203b [203d]</annotation>
+    <annotation doc="D.C. Law 6-10" type="History" path="§203d">July 17, 1985, D.C. Law 6-10, §  203b [redesignated]</annotation>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§2282|(c)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§2282|(c)" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-434" path="§2282|(c)">§ 2282(c) of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§2282|(c)" codify:applicability="" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-434" path="§2282|(c)">§ 2282(c) of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§2282|(c)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§2282|(c)" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-458" path="§2282|(c)">§ 2282(c) of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§2282|(c)" codify:applicability="" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-458" path="§2282|(c)">§ 2282(c) of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§2282|(c)" prefix="as added" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-4" path="§2|(d)" codified:display="Note" app="2019-02-06" eff="2019-02-06">For temporary (90 days) redesignation of this section, see <cite doc="D.C. Act 23-4" path="§2|(d)">§ 2(d) of Rental Housing Registration Extension Emergency Amendment Act of 2019 (D.C. Act 23-4, Feb. 6, 2019, 66 DCR 2056)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-4" path="§2|(d)" codify:applicability="" codified:display="Note" app="2019-02-06" eff="2019-02-06">For temporary (90 days) redesignation of this section, see <cite doc="D.C. Act 23-4" path="§2|(d)">§ 2(d) of Rental Housing Registration Extension Emergency Amendment Act of 2019 (D.C. Act 23-4, Feb. 6, 2019, 66 DCR 2056)</cite>.</annotation>
     <annotation app="2019-02-06" doc="D.C. Act 23-4" eff="2019-02-06" path="§2|(d)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-4" path="§2|(e)" codified:display="Note" app="2019-02-06" eff="2019-02-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-4" path="§2|(e)">§ 2(e) of Rental Housing Registration Extension Emergency Amendment Act of 2019 (D.C. Act 23-4, Feb. 6, 2019, 66 DCR 2056)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-4" path="§2|(e)" codify:applicability="" codified:display="Note" app="2019-02-06" eff="2019-02-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-4" path="§2|(e)">§ 2(e) of Rental Housing Registration Extension Emergency Amendment Act of 2019 (D.C. Act 23-4, Feb. 6, 2019, 66 DCR 2056)</cite>.</annotation>
     <annotation app="2019-02-06" doc="D.C. Act 23-4" eff="2019-02-06" path="§2|(e)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-2" path="§2|(d)" codified:display="Note" app="2019-04-18" eff="2019-04-18">For temporary (225 days) redesignation of this section, see <cite doc="D.C. Law 23-2" path="§2|(d)">§ 2(d) of Rental Housing Registration Extension Temporary Amendment Act of 2019 (D.C. Law 23-2, Apr. 18, 2019, 66 DCR 2453)</cite>.</annotation>
     <annotation app="2019-04-18" doc="D.C. Law 23-2" eff="2019-04-18" path="§2|(d)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-2" path="§2|(e)" codified:display="Note" app="2019-04-18" eff="2019-04-18">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-2" path="§2|(e)">§ 2(e) of Rental Housing Registration Extension Temporary Amendment Act of 2019 (D.C. Law 23-2, Apr. 18, 2019, 66 DCR 2453)</cite>.</annotation>
     <annotation app="2019-04-18" doc="D.C. Law 23-2" eff="2019-04-18" path="§2|(e)" type="History" display="false"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2132|(e)|(2)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2132|(e)|(1)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2132|(d)" prefix="redesignated as § 203d," type="History"/>
   </annotations>
 </section>

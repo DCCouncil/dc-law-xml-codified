@@ -16,20 +16,34 @@
   <container>
     <prefix>Chapter</prefix>
     <num>2</num>
-    <heading>Short-term Rental Regulations.</heading>
+    <heading>Short-term Rental Regulation.</heading>
     <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§301|(a)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
-    <xi:include href="./sections/30-201.01.xml"/>
-    <xi:include href="./sections/30-201.02.xml"/>
-    <xi:include href="./sections/30-201.03.xml"/>
-    <xi:include href="./sections/30-201.04.xml"/>
-    <xi:include href="./sections/30-201.05.xml"/>
-    <xi:include href="./sections/30-201.06.xml"/>
-    <xi:include href="./sections/30-201.07.xml"/>
-    <xi:include href="./sections/30-201.08.xml"/>
-    <xi:include href="./sections/30-201.09.xml"/>
-    <xi:include href="./sections/30-201.10.xml"/>
-    <xi:include href="./sections/30-201.11.xml"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>General.</heading>
+      <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§301|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
+      <xi:include href="./sections/30-201.01.xml"/>
+      <xi:include href="./sections/30-201.02.xml"/>
+      <xi:include href="./sections/30-201.03.xml"/>
+      <xi:include href="./sections/30-201.04.xml"/>
+      <xi:include href="./sections/30-201.05.xml"/>
+      <xi:include href="./sections/30-201.06.xml"/>
+      <xi:include href="./sections/30-201.07.xml"/>
+      <xi:include href="./sections/30-201.08.xml"/>
+      <xi:include href="./sections/30-201.09.xml"/>
+      <xi:include href="./sections/30-201.10.xml"/>
+      <xi:include href="./sections/30-201.11.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Short-Term Rental Funding.</heading>
+      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="II" type="History" display="false"/>
+      <xi:include href="./sections/30-210.01.xml"/>
+    </container>
   </container>
   <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§301|(a)" type="History" display="false"/>
   <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
