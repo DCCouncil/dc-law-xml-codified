@@ -3461,7 +3461,7 @@
             <para codify:path="(2)">
               <num>(A)</num>
               <text>Paragraph (2) is amended by striking the semicolon and inserting the phrase "; and" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2413|(b)|(2)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2413">
                 <find>;</find>
                 <replace>; and</replace>
               </codify:find-replace>
@@ -3469,7 +3469,7 @@
             <para codify:path="(3)">
               <num>(B)</num>
               <text>Paragraph (3) is amended by striking the phrase "the public; and" and inserting the phrase "" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2413|(b)|(3)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2413">
                 <find>the public; and</find>
                 <replace>public and private entities.</replace>
               </codify:find-replace>
@@ -3477,7 +3477,7 @@
             <para codify:path="(4)">
               <num>(C)</num>
               <text>Paragraph (4) is repealed.</text>
-              <codify:repeal codified:doc="D.C. Code" codified:path="§7-2413|(b)|(4)"/>
+              <codify:repeal codified:doc="D.C. Code" codified:path="§7-2413"/>
             </para>
           </para>
           <para codify:path="(c)">
@@ -3485,7 +3485,7 @@
             <text>Subsection (c) is amended to read as follows:</text>
             <include>
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§7-2413|(c)"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§7-2413"/>
                 <num>(c)</num>
                 <text>Money in the Fund shall be used to fund the activities of the ONSE, including:</text>
                 <para>
