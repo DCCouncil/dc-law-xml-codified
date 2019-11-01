@@ -1,14 +1,98 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>28A-203</num>
   <heading>Automatic renewal provisions; notice; penalties.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>A person who sells a good or service to a consumer pursuant to a contract that will automatically renew at the end of a definite term shall disclose the automatic renewal provision and cancellation procedure clearly and conspicuously in the contract.  If an offer of sale of a good or service subject to this subsection also includes a free gift or trial, the offer shall include a clear and conspicuous explanation of the price that will be charged after the trial ends or the manner in which the subscription or purchasing price will change upon conclusion of the trial.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>A person who sells a good or service to a consumer pursuant to a contract with an initial term of 12 months or more, that will automatically renew for a term of one month or more unless the consumer cancels the contract, shall notify the consumer, in accordance with paragraph (2) of this subsection, of the first automatic renewal and annually thereafter, by:</text>
+      <para>
+        <num>(A)</num>
+        <text>First-class mail;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Email; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Another easily accessible form of communication, such as text message or a mobile phone application, if the consumer specifically authorizes the person to provide notice in such form.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The notice required by paragraph (1) of this subsection shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Be sent to the consumer no fewer than 30 days and no more than 60 days before the cancellation deadline for the first automatic renewal, and no fewer than 30 days and no more than 60 days before each year after the first automatic renewal;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Disclose clearly and conspicuously:</text>
+        <para>
+          <num>(i)</num>
+          <text>That unless the consumer cancels the contract, it will automatically renew;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The cost of the goods or services for the term of the renewal;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>The deadline by which the consumer must cancel the contract to prevent automatic renewal; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>The methods by which the consumer may obtain details of the automatic renewal provision and cancellation procedures, including by contacting the seller at a specified telephone number, e-mail address, or by another easily accessible form of communication, such as within a mobile phone application; and</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>If the notice is provided by email, include active weblinks to allow the consumer to cancel the automatic renewal.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A person who sells a free trial of a good or service to a consumer with a term of one month or more, where the contract automatically renews at the end of the free trial period, shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Notify the consumer of the automatic renewal at least 15 and no more than 30 days before the expiration of the free trial period; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Notwithstanding the consumer's consent to the free trial, obtain the consumer's affirmative consent to the automatic renewal before charging the consumer for the automatic renewal.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>A violation of <cite path="28A|2">this chapter</cite> shall render an automatic renewal provision void and terminate the contract at the end of the term in which the violation occurred, and shall also constitute a violation of <cite path="28|39">Chapter 39 of Title 28</cite>, unless the person demonstrates that:</text>
+    <para>
+      <num>(1)</num>
+      <text>The person has established and implemented written procedures to comply with <cite path="28A|2">this chapter</cite>;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Any failure to comply with <cite path="28A|2">this chapter</cite> is the result of a good-faith mistake; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Where a good-faith mistake has caused a failure to comply with <cite path="28A|2">this chapter</cite>, the person provides the consumer with a credit for all amounts billed to or a refund for all amounts paid by the consumer due to the mistaken renewal.</text>
+    </para>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 22-235" path="§203" codified:display="Note" codified:doc="D.C. Code" codified:path="§28A-203">Applicability of <cite doc="D.C. Law 22-235" path="">D.C. Law 22-235</cite>: <cite doc="D.C. Law 22-235" path="§301|(b)">§ 301(b) of D.C. Law 22-235</cite> provided that the creation of this section by <cite doc="D.C. Law 22-235" path="§203">§ 203 of D.C. Law 22-235</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="" type="History" display="false"/>
     <annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 22-235" path="§203" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-235" path="">D.C. Law 22-235</cite>: <cite doc="D.C. Law 22-235" path="§301|(b)">§ 301(b) of D.C. Law 22-235</cite> provided that the creation of this section by <cite doc="D.C. Law 22-235" path="§203">§ 203 of D.C. Law 22-235</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="§203" type="History"/>
     <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="§301|(a)|(2)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-235" eff="2019-03-13" path="§203" type="History"/>
+    <annotation app="2019-09-10" doc="D.C. Law 22-235" eff="2019-03-13" path="§203" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3022|(a)|(1)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3022|(a)|(2)" type="History"/>
   </annotations>
 </section>

@@ -7663,7 +7663,7 @@
               <text>A new paragraph (2) is added to read as follows:</text>
               <include lvl="1">
                 <para>
-                  <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§38-821.02|(f)|(2)"/>
+                  <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§38-821.02|(f)"/>
                   <num>(2)</num>
                   <text>For the fiscal year beginning on October 1, 2017, and ending on September 30, 2018, in addition to the amount required by paragraph (1) of this subsection, an additional $400,000 from the revenues derived from the collection of the tax imposed upon all vendors by <code-cite doc="D.C. Code" path="§47-2002">D.C. Official Code § 47-2002</code-cite> shall be deposited into the Fund.</text>
                 </para>

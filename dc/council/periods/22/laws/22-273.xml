@@ -42,26 +42,14 @@
       <para codify:path="(11)">
         <num>(1)</num>
         <text>Paragraph (11) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-407|(b)|(11)">
-          <find>; and</find>
-          <replace>;</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(13)">
         <num>(2)</num>
         <text>Paragraph (13) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-407|(b)|(13)">
-          <find>; and</find>
-          <replace>;</replace>
-        </codify:find-replace>
       </para>
       <para codify:path="(14)">
         <num>(3)</num>
         <text>Paragraph (14) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§44-407|(b)|(14)">
-          <find>.</find>
-          <replace>[;]</replace>
-        </codify:find-replace>
       </para>
       <para>
         <num>(4)</num>
@@ -212,7 +200,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 22-273" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§44-407|(b)|(11)"/>
+      <codify:applicability doc="D.C. Law 22-273" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§44-407|(b)|(15)"/>
     </para>
     <para>
       <num>(b)</num>
