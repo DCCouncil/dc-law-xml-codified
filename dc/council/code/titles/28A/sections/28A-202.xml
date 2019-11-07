@@ -1,25 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <reason>Not Funded</reason>
   <num>28A-202</num>
   <heading>Definitions.</heading>
-  <text>For the purposes of <cite path="28A|2">this chapter</cite>, the term:</text>
-  <para>
-    <num undesignated="true">(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>"Clearly and conspicuously" means in larger type than the surrounding text, in contrasting type, font, or color to the surrounding text of the same size, or set off from the surrounding text of the same size by symbols or other marks, in a manner that calls attention to the language and is visually proximate to any request for the consumer's consent.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>"Consumer" means any person who seeks or acquires, by purchase or lease, any goods or services.</text>
-    </para>
-  </para>
-  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 22-235" path="§202" codified:display="Note" codified:doc="D.C. Code" codified:path="§28A-202">Applicability of <cite doc="D.C. Law 22-235" path="">D.C. Law 22-235</cite>: <cite doc="D.C. Law 22-235" path="§301|(b)">§ 301(b) of D.C. Law 22-235</cite> provided that the creation of this section by <cite doc="D.C. Law 22-235" path="§202">§ 202 of D.C. Law 22-235</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
     <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="" type="History" display="false"/>
     <annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 22-235" path="§202" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-235" path="">D.C. Law 22-235</cite>: <cite doc="D.C. Law 22-235" path="§301|(b)">§ 301(b) of D.C. Law 22-235</cite> provided that the creation of this section by <cite doc="D.C. Law 22-235" path="§202">§ 202 of D.C. Law 22-235</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="§202" type="History"/>
     <annotation app="2019-03-13" doc="D.C. Law 22-235" eff="2019-03-13" path="§301|(a)|(2)" type="History" display="false"/>
-    <annotation app="2019-09-10" doc="D.C. Law 22-235" eff="2019-03-13" path="§202" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 22-235" eff="2019-03-13" path="§202" type="History"/>
   </annotations>
 </section>
