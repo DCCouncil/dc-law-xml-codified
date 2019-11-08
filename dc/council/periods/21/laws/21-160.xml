@@ -9883,7 +9883,7 @@
         <para>
           <num>(a)</num>
           <text>Paragraph (2)(A) is amended by striking the phrase "Under 22 years of age" and inserting the phrase "A resident of the District of Columbia under 22 years of age" in its place.</text>
-          <codify:find-replace path="(2)|(A)" count="1" codified:doc="D.C. Code" codified:path="§35-233|(h)|(2)|(A)">
+          <codify:find-replace path="(2)|(A)" count="1" codified:doc="D.C. Code" codified:path="§35-233">
             <find>Under 22 years of age</find>
             <replace>A resident of the District of Columbia under 22 years of age</replace>
           </codify:find-replace>
@@ -9891,7 +9891,7 @@
         <para>
           <num>(b)</num>
           <text>Paragraph (6) is repealed.</text>
-          <codify:repeal path="(6)" codified:doc="D.C. Code" codified:path="§35-233|(h)|(6)"/>
+          <codify:repeal path="(6)" codified:doc="D.C. Code" codified:path="§35-233"/>
         </para>
       </section>
       <section codify:doc="D.C. Code">
