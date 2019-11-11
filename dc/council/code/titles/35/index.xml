@@ -53,7 +53,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>II</num>
-      <heading>Student Fares. [Repealed]<annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6049" type="History"/></heading>
+      <heading>Student Fares.</heading>
       <xi:include href="./sections/35-231.xml"/>
       <xi:include href="./sections/35-232.xml"/>
       <xi:include href="./sections/35-233.xml"/>
@@ -61,20 +61,6 @@
       <xi:include href="./sections/35-235.xml"/>
       <xi:include href="./sections/35-236.xml"/>
       <xi:include href="./sections/35-237.xml"/>
-      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§6049" type="History"/>
-    </container>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>II-A</num>
-      <heading>Student, Foster Youth, Summer Youth Employee, and Adult Learner Transit Subsidies.</heading>
-      <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="VI" type="History" display="false"/>
-      <xi:include href="./sections/35-241.xml"/>
-      <xi:include href="./sections/35-242.xml"/>
-      <xi:include href="./sections/35-243.xml"/>
-      <xi:include href="./sections/35-244.xml"/>
-      <xi:include href="./sections/35-245.xml"/>
-      <xi:include href="./sections/35-246.xml"/>
-      <xi:include href="./sections/35-247.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
