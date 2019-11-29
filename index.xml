@@ -13,10 +13,10 @@
     </canonical-urls>
     <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="dc-law-xml" commit="6095059c0e661060bfd68f36f0db51e72e67731e"/>
+        <repository name="dc-law-xml" commit="56d552a6b570332da80196d869784ac555bb5e18"/>
       </repositories>
       <platform version="2019.2.5" reproducible="true"/>
-      <date>2019-11-26 17:51:11</date>
+      <date>2019-11-29 05:03:56</date>
     </build>
   </meta>
   <xi:include href="./dc/council/code/index.xml"/>
