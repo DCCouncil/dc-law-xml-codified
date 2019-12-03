@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-205.71</num>
-  <heading>Granting TANF benefits to drug felons.</heading>
-  <text>An adult who is a drug felon shall not be denied TANF benefits solely because he or she is a drug felon.</text>
+  <heading>Granting cash and food assistance benefits to drug felons.</heading>
+  <text>An adult who is a drug felon shall not be denied cash or food assistance benefits, including TANF, Supplemental Nutrition Assistance Program, POWER, GAC, or Interim Disability Assistant benefits, solely because he or she is a drug felon.</text>
   <annotations>
     <annotation doc="D.C. Law 4-101" type="History" path="§571">Apr. 6, 1982, D.C. Law 4-101, § 571</annotation>
     <annotation doc="D.C. Law 12-241" type="History">as added Apr. 20, 1999, D.C. Law 12-241, § 4(g), 46 DCR 905</annotation>
@@ -13,5 +13,6 @@
     <annotation app="2018-10-23" doc="D.C. Act 22-493" eff="2018-10-23" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 22-199" path="§2" codified:display="Note" app="2019-02-22" eff="2019-02-22">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 22-199" path="§2">§ 2 of Access to Public Benefits Temporary Amendment Act of 2018 (D.C. Law 22-199, Feb. 22, 2019, 65 DCR 12329)</cite>.</annotation>
     <annotation app="2019-02-22" doc="D.C. Law 22-199" eff="2019-02-22" path="§2" type="History" display="false"/>
+    <annotation app="2019-11-26" doc="D.C. Law 23-31" eff="2019-11-26" path="§2" type="History"/>
   </annotations>
 </section>
