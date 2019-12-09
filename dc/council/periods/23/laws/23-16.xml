@@ -1582,8 +1582,12 @@
               <aftertext>.</aftertext>
             </para>
           </para>
+          <codify:find-replace display="Subject to appropriations" codified:doc="D.C. Code" codified:path="§32-161">
+            <find>Not Funded</find>
+            <replace>Not Funded</replace>
+          </codify:find-replace>
         </para>
-        <para>
+        <para codify:path="§32-162">
           <num>(c)</num>
           <text>Section 4 (D.C. Official Code § 32-162) is amended as follows:</text>
           <para>
@@ -1616,6 +1620,10 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:find-replace display="Subject to appropriations" codified:doc="D.C. Code" codified:path="§32-162">
+            <find>Not Funded</find>
+            <replace>Not Funded</replace>
+          </codify:find-replace>
         </para>
       </section>
       <section codify:path="§32-1009.01|(b)|(1)">
@@ -1629,6 +1637,10 @@
           <num>(b)</num>
           <text>Subparagraph (C) is repealed.</text>
         </para>
+        <codify:find-replace display="Subject to appropriations" codified:doc="D.C. Code" codified:path="§32-1009.01|(b)|(1)">
+          <find>The Mayor</find>
+          <replace>The Mayor</replace>
+        </codify:find-replace>
       </section>
     </container>
     <container>
@@ -7098,6 +7110,7 @@
         <text>This subtitle may be cited as the "Residential Parking Permit Amendment Act of 2019".</text>
       </section>
       <section>
+        <codify:ignore display-template="DCMR"/>
         <num>6072</num>
         <text>Section 2415.3 of Title 18 of the District of Columbia Municipal Regulations is amended to read as follows:</text>
         <include>
