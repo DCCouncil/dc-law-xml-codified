@@ -74,7 +74,8 @@
       <text>Section 201 (D.C. Official Code § 4-561.01) is amended to read as follows:</text>
       <include>
         <section>
-          <num>201</num>
+          <codify:replace codified:doc="D.C. Code" codified:path="§4-561.01" codified:citation="§ 4-561.01" codified:display="Amend"/>
+          <num codify:value="4-561.01">201</num>
           <heading>Definitions.</heading>
           <text>For the purposes of <code-cite doc="D.C. Code" path="4|5|IV">this title</code-cite>, the term:</text>
           <para>
@@ -152,7 +153,7 @@
               <text>"Task Force" means the Sexual Assault Victims' Rights Task Force established pursuant to <code-cite doc="D.C. Code" path="§4-561.15"> section 215</code-cite>.</text>
             </para>
           </para>
-          <codify:annotation doc="D.C. Code" path="§4-561.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§4-561.01" codified:citation="§ 4-561.01" codified:display="Note"><cite doc="D.C. Act 23-174" path="§9|(a)">Section 9(a) of D.C. Act 23-174</cite> provided that the amendments made to this section shall apply as of October 1, 2020..
+          <codify:annotation doc="D.C. Code" path="§4-561.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§4-561.01" codified:citation="§ 4-561.01" codified:display="Note"><cite doc="D.C. Act 23-174" path="§9|(a)">Section 9(a) of D.C. Act 23-174 provided that the amendments made to this section shall apply as of October 1, 2020.</cite>.
          </codify:annotation>
           <codify:annotation doc="D.C. Code" path="§4-561.01" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§4-561.01" codified:citation="§ 4-561.01" codified:display="Note">
            This is a test.
@@ -749,7 +750,7 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the phrase "victims of sexual assault" and inserting the phrase "sexual assault victims" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.13|(a)|(1)" codified:citation="§ 4-561.13" codified:display="Amend">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.13|(1)" codified:citation="§ 4-561.13" codified:display="Amend">
             <find>victims of sexual assault</find>
             <replace>sexual assault victims</replace>
           </codify:find-replace>
@@ -759,7 +760,7 @@
           <text>Paragraph (2) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§4-561.13|(a)|(2)" codified:citation="§ 4-561.13" codified:display="Amend"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§4-561.13|(2)" codified:citation="§ 4-561.13" codified:display="Amend"/>
               <num>(2)</num>
               <text>Conduct regular case reviews, through the Case Review Subcommittee, of all parties involved in sexual assault responses involving sexual assault victims 18 years of age or older, including a review of sexual assault reports and investigations by the MPD and cases reported to any member of the SART;</text>
             </para>
@@ -772,7 +773,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "Case Review Subcommittee, established by section 214," and insert the phrase "Case Review Subcommittee" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.13|(a)|(3)" codified:citation="§ 4-561.13" codified:display="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.13|(3)" codified:citation="§ 4-561.13" codified:display="Amend">
               <find>Case Review Subcommittee, established by <cite path="§4-561.14">§ 4-561.14</cite>, </find>
               <replace>Case Review Subcommittee</replace>
             </codify:find-replace>
@@ -780,7 +781,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the period and insert a semicolon in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.13|(a)|(3)" codified:citation="§ 4-561.13" codified:display="Amend">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-561.13|(3)" codified:citation="§ 4-561.13" codified:display="Amend">
               <find>.</find>
               <replace>;</replace>
             </codify:find-replace>
@@ -791,12 +792,12 @@
           <text>New paragraphs (4) and (5) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§4-561.13|(a)|(4)" codified:citation="§ 4-561.13" codified:display="Amend"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§4-561.13|(4)" codified:citation="§ 4-561.13" codified:display="Amend"/>
               <num>(4)</num>
               <text>Establish a Feedback Review Committee for the purpose of receiving and investigating all complaints and comments from sexual assault victims, including complaints and comments regarding the United States Attorney's Office for the District of Columbia; and</text>
             </para>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§4-561.13|(a)|(5)" codified:citation="§ 4-561.13" codified:display="Amend"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§4-561.13|(5)" codified:citation="§ 4-561.13" codified:display="Amend"/>
               <num>(5)</num>
               <text>By January 1, 2022, submit a report to the Mayor and the Council that includes the following:</text>
               <para>
@@ -1764,9 +1765,7 @@
     <para>
       <num>(a)</num>
       <text>Except as provided in subsection (b) of this section, sections 3, 4, 5, 6, and 8 shall apply as of October 1, 2020.</text>
-      <codify:applicability doc="D.C. Act 23-174" path="§4" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§7-2123|(3)" codified:citation="§ 7-2123" codified:display="Note"/>
-      <codify:applicability doc="D.C. Act 23-174" path="§5" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§14-312" codified:citation="§ 14-312" codified:display="Note"/>
-      <codify:applicability doc="D.C. Act 23-174" path="§6" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§22-3020.52|(c)|(3)" codified:citation="§ 22-3020.52" codified:display="Note"/>
+      <codify:applicability doc="D.C. Act 23-174" path="§3" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-561.01" codified:citation="§ 4-561.01" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
