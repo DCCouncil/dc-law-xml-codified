@@ -153,6 +153,12 @@
               <text>"Task Force" means the Sexual Assault Victims' Rights Task Force established pursuant to <code-cite doc="D.C. Code" path="§4-561.15"> section 215</code-cite>.</text>
             </para>
           </para>
+          <codify:annotation doc="D.C. Code" path="§4-561.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§4-561.01" codified:citation="§ 4-561.01" codified:display="Note"><cite doc="D.C. Act 23-174" path="§9|(a)">Section 9(a) of D.C. Act 23-174 provided that the amendments made to this section shall apply as of October 1, 2020.</cite>.
+         </codify:annotation>
+          <codify:annotation doc="D.C. Code" path="§4-561.01" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§4-561.01" codified:citation="§ 4-561.01" codified:display="Note">
+           This is a test.
+         </codify:annotation>
+          <codify:not-funded-anno doc="D.C. Code" path="§4-561.01" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§4-561.01" codified:citation="§ 4-561.01" codified:display="Note"/>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -254,7 +260,6 @@
           <replace>after the</replace>
         </codify:find-replace>
       </para>
-      <codify:annotation applicability="effective" doc="D.C. Code" path="§4-561.02" type="Applicability" display-template="" codified:doc="D.C. Code" codified:path="§4-561.02" codified:citation="§ 4-561.02" codified:display="Note"><cite doc="D.C. Act 23-174" path="§9|(a)">Section 9(a) of D.C. Act 23-174</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
     </para>
     <para codify:path="§4-561.03">
       <num>(c)</num>
@@ -1325,7 +1330,7 @@
       <text>Section 23-1907 is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace codified:doc="D.C. Code" codified:path="§23-1907|(a)" codified:citation="§ 23-1907" codified:display="Amend"/>
+          <codify:replace codified:doc="D.C. Code" codified:path="§23-1907" codified:citation="§ 23-1907" codified:display="Amend"/>
           <num undesignated="true">(a)</num>
           <text>For the purposes of this subchapter, the term:</text>
           <para>
@@ -1760,48 +1765,7 @@
     <para>
       <num>(a)</num>
       <text>Except as provided in subsection (b) of this section, sections 3, 4, 5, 6, and 8 shall apply as of October 1, 2020.</text>
-      <codify:annotation applicability="effective" doc="D.C. Act 23-174" path="§3" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-561.01" codified:citation="§ 4-561.01" codified:display="Note"><cite doc="D.C. Act 23-174" path="§9|(a)">Section 9(a) of D.C. Act 23-174</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Act 23-174" path="§3" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-561.01" codified:citation="§ 4-561.01" codified:display="Note"/>
-      <codify:find-replace doc="D.C. Code" path="§4-561.02" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-561.02" codified:citation="§ 4-561.02" codified:display="Amend">
-        <find>Not Funded</find>
-        <replace>[Not Applicable]</replace>
-      </codify:find-replace>
-      <codify:find-replace doc="D.C. Code" path="§4-561.09" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-561.09" codified:citation="§ 4-561.09" codified:display="Amend">
-        <find>Not Funded</find>
-        <replace>[Not Applicable]</replace>
-      </codify:find-replace>
-      <codify:find-replace doc="D.C. Code" path="§4-561.12" count="4" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-561.12" codified:citation="§ 4-561.12" codified:display="Amend">
-        <find>Not Funded</find>
-        <replace>[Not Applicable]</replace>
-      </codify:find-replace>
-      <codify:find-replace doc="D.C. Code" path="§4-561.13" count="3" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-561.13" codified:citation="§ 4-561.13" codified:display="Amend">
-        <find>Not Funded</find>
-        <replace>[Not Applicable]</replace>
-      </codify:find-replace>
-      <codify:annotation applicability="effective" doc="D.C. Act 23-174" path="§4" type="Applicability" display-template="" codified:doc="D.C. Code" codified:path="§7-2123|(3)" codified:citation="§ 7-2123" codified:display="Note"><cite doc="D.C. Act 23-174" path="§9|(a)">Section 9(a) of D.C. Act 23-174</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Act 23-174" path="§4" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2123|(3)" codified:citation="§ 7-2123" codified:display="Note"/>
-      <codify:find-replace doc="D.C. Code" path="§7-2123" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2123" codified:citation="§ 7-2123" codified:display="Amend">
-        <find>Not Funded</find>
-        <replace>[Not Applicable]</replace>
-      </codify:find-replace>
-      <codify:annotation applicability="effective" doc="D.C. Act 23-174" path="§5" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§14-312" codified:citation="§ 14-312" codified:display="Note"><cite doc="D.C. Act 23-174" path="§9|(a)">Section 9(a) of D.C. Act 23-174</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Act 23-174" path="§5" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§14-312" codified:citation="§ 14-312" codified:display="Note"/>
-      <codify:annotation applicability="effective" doc="D.C. Act 23-174" path="§6" type="Applicability" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-3020.52|(c)|(3)" codified:citation="§ 22-3020.52" codified:display="Note"><cite doc="D.C. Act 23-174" path="§9|(a)">Section 9(a) of D.C. Act 23-174</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Act 23-174" path="§6" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-3020.52|(c)|(3)" codified:citation="§ 22-3020.52" codified:display="Note"/>
-      <codify:find-replace doc="D.C. Code" path="§14-312" count="4" history="false" display-template="" codified:doc="D.C. Code" codified:path="§14-312" codified:citation="§ 14-312" codified:display="Amend">
-        <find>Not Funded</find>
-        <replace>[Not Applicable]</replace>
-      </codify:find-replace>
-      <codify:find-replace doc="D.C. Code" path="§22-3020.52" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§22-3020.52" codified:citation="§ 22-3020.52" codified:display="Amend">
-        <find>Not Funded</find>
-        <replace>[Not Applicable]</replace>
-      </codify:find-replace>
-      <codify:annotation applicability="effective" doc="D.C. Act 23-174" path="§8|(a)" type="Applicability" display-template=""><cite doc="D.C. Act 23-174" path="§9|(a)">Section 9(a) of D.C. Act 23-174</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Act 23-174" path="§8|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1907|(a)" codified:citation="§ 23-1907" codified:display="Note"/>
-      <codify:annotation applicability="effective" doc="D.C. Act 23-174" path="§8|(c)" type="Applicability" display-template="" codified:doc="D.C. Code" codified:path="§23-1908" codified:citation="§ 23-1908" codified:display="Note"><cite doc="D.C. Act 23-174" path="§9|(a)">Section 9(a) of D.C. Act 23-174</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Act 23-174" path="§8|(c)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1908" codified:citation="§ 23-1908" codified:display="Note"/>
-      <codify:annotation applicability="effective" doc="D.C. Act 23-174" path="§8|(e)" type="Applicability" display-template="" codified:doc="D.C. Code" codified:path="§23-1910" codified:citation="§ 23-1910" codified:display="Note"><cite doc="D.C. Act 23-174" path="§9|(a)">Section 9(a) of D.C. Act 23-174</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</codify:annotation>
-      <codify:applicability doc="D.C. Act 23-174" path="§8|(e)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-1910" codified:citation="§ 23-1910" codified:display="Note"/>
+      <codify:applicability doc="D.C. Act 23-174" path="§3" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§4-561.01" codified:citation="§ 4-561.01" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
