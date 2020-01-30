@@ -1,15 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>30-201.04</num>
   <heading>Short-term rental license endorsement issuance.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Department shall not issue a short-term rental license endorsement to any person or entity other than to a host.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The license endorsement shall be applicable to the property on which the short-term rental is located.  The presence of more than one short-term rental at the host's property shall not require separate license endorsements.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The Department shall not issue more than one short-term rental license endorsement to a host.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The Department shall not issue a short-term rental license endorsement to a host if prohibited by Title 11 of the District of Columbia Municipal Regulations.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>An inspection of the premises by the Department shall not be a prerequisite for issuance of a short-term rental license endorsement.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>A short-term rental license endorsement shall be valid for a period of 2 years from the date of issuance. Renewal license endorsements shall be issued in the same manner as initial license endorsements.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§30-201.04" codified:display="Note" codified:doc="D.C. Code" codified:path="§30-201.04">Applicability of <cite doc="D.C. Law 22-307" path="">D.C. Law 22-307</cite>: <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite> provided that the creation of this section by <cite doc="D.C. Law 22-307" path="§104">§ 104 of D.C. Law 22-307</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§104" type="History"/>
-    <annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 22-307" path="§104" codified:display="Note" app="2019-04-25" eff="2019-04-25">Applicability of <cite doc="D.C. Law 22-307" path="">D.C. Law 22-307</cite>: <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite> provided that the creation of this section by <cite doc="D.C. Law 22-307" path="§104">§ 104 of D.C. Law 22-307</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
+    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
     <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§104" type="History"/>
+    <annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 22-307" path="§104" codified:display="Note" app="2019-04-25" eff="2019-04-25">Applicability of <cite doc="D.C. Law 22-307" path="">D.C. Law 22-307</cite>: <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite> provided that the creation of this section by <cite doc="D.C. Law 22-307" path="§104">§ 104 of D.C. Law 22-307</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Act 23-165" path="§6|(b)" type="Applicability" history="false" app="2019-11-20" eff="2019-11-20" display="false">Applicability of <cite doc="D.C. Law 22-307">D.C. Law 22-307</cite>: <cite doc="D.C. Act 23-165" path="§6|(b)">Section 6(b) of D.C. Act 23-165</cite> repealed <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-200">D.C. Law 22-307</cite> has been implemented.</annotation>
+    <annotation app="2019-11-20" doc="D.C. Act 23-165" eff="2019-11-20" path="§6|(b)" type="History" display="false"/>
+    <annotation doc="D.C. Act 23-165" path="§6|(b)" type="Applicability" history="false" app="2019-11-20" eff="2019-11-20">Applicability of <cite doc="D.C. Law 22-307">D.C. Law 22-307</cite>: <cite doc="D.C. Act 23-165" path="§6|(b)">Section 6(b) of D.C. Act 23-165</cite> repealed <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-200">D.C. Law 22-307</cite> has been implemented.</annotation>
   </annotations>
 </section>

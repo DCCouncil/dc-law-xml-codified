@@ -1,15 +1,39 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <reason>Not Funded</reason>
   <num>30-201.02</num>
   <heading>Restrictions on short-term rentals.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>A short-term rental shall require a valid basic business license with a "Short-Term Rental" endorsement, in addition to any other license required by law.  A vacation rental shall require a valid basic business license with a "Short-Term Rental: Vacation Rental" endorsement, in addition to any other license required by law.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A host providing a short-term rental shall have current liability insurance of at least $500,000, which may be provided by the booking service.  The Mayor may adjust the minimum dollar amount of this insurance requirement by rulemaking.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A host shall provide each transient guest in a short-term rental a 24-hour accessible telephone number to the host, or to a person who has authority to act on behalf of the host, in the event of an emergency.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The property at which the short-term rental is located shall be the host's primary residence.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>A host may offer multiple short-term rentals at a single property, such as a bedroom and an in-law suite, subject to all applicable occupancy limits contained in Title 11, Title 12, and Title 14 of the District of Columbia Municipal Regulations.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>For the purposes of 18 DCMR § 2414.14, a transient guest of a vacation rental shall not be considered a guest of a resident in the Advisory Neighborhood Commission area designated on an annual visitor parking permit.</text>
+  </para>
+  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§30-201.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§30-201.02">Applicability of <cite doc="D.C. Law 22-307" path="">D.C. Law 22-307</cite>: <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite> provided that the creation of this section by <cite doc="D.C. Law 22-307" path="§102">§ 102 of D.C. Law 22-307</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§102" type="History"/>
-    <annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 22-307" path="§102" codified:display="Note" app="2019-04-25" eff="2019-04-25">Applicability of <cite doc="D.C. Law 22-307" path="">D.C. Law 22-307</cite>: <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite> provided that the creation of this section by <cite doc="D.C. Law 22-307" path="§102">§ 102 of D.C. Law 22-307</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
+    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
     <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§102" type="History"/>
+    <annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 22-307" path="§102" codified:display="Note" app="2019-04-25" eff="2019-04-25">Applicability of <cite doc="D.C. Law 22-307" path="">D.C. Law 22-307</cite>: <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite> provided that the creation of this section by <cite doc="D.C. Law 22-307" path="§102">§ 102 of D.C. Law 22-307</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Act 23-165" path="§6|(b)" type="Applicability" history="false" app="2019-11-20" eff="2019-11-20" display="false">Applicability of <cite doc="D.C. Law 22-307">D.C. Law 22-307</cite>: <cite doc="D.C. Act 23-165" path="§6|(b)">Section 6(b) of D.C. Act 23-165</cite> repealed <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-200">D.C. Law 22-307</cite> has been implemented.</annotation>
+    <annotation app="2019-11-20" doc="D.C. Act 23-165" eff="2019-11-20" path="§6|(b)" type="History" display="false"/>
+    <annotation doc="D.C. Act 23-165" path="§6|(b)" type="Applicability" history="false" app="2019-11-20" eff="2019-11-20">Applicability of <cite doc="D.C. Law 22-307">D.C. Law 22-307</cite>: <cite doc="D.C. Act 23-165" path="§6|(b)">Section 6(b) of D.C. Act 23-165</cite> repealed <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-200">D.C. Law 22-307</cite> has been implemented.</annotation>
   </annotations>
 </section>
