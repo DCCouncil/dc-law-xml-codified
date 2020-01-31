@@ -2,28 +2,29 @@
 <container xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <prefix>Title</prefix>
   <num>30</num>
-  <heading>Hotels, Lodging Houses, and Short-term Rentals.</heading>
+  <heading>Hotels and Lodging Houses.</heading>
   <container>
     <prefix>Chapter</prefix>
     <num>1</num>
-    <heading>Rights and Liabilities of Hotels and Lodging Houses.</heading>
+    <heading>Rights and Liabilities.</heading>
     <xi:include href="./sections/30-101.xml"/>
     <xi:include href="./sections/30-102.xml"/>
     <xi:include href="./sections/30-103.xml"/>
-    <annotation doc="D.C. Act 23-165" path="§6|(b)" type="Applicability" history="false" app="2019-11-20" eff="2019-11-20" display="false">Applicability of <cite doc="D.C. Law 22-307">D.C. Law 22-307</cite>: <cite doc="D.C. Act 23-165" path="§6|(b)">Section 6(b) of D.C. Act 23-165</cite> repealed <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-200">D.C. Law 22-307</cite> has been implemented.</annotation>
-    <annotation app="2019-11-20" doc="D.C. Act 23-165" eff="2019-11-20" path="§6|(b)" type="History" display="false"/>
-    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
     <num>2</num>
     <heading>Short-term Rental Regulation.</heading>
-    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>General.</heading>
-      <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§301|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
       <xi:include href="./sections/30-201.01.xml"/>
       <xi:include href="./sections/30-201.02.xml"/>
       <xi:include href="./sections/30-201.03.xml"/>
@@ -44,7 +45,6 @@
       <xi:include href="./sections/30-210.01.xml"/>
     </container>
   </container>
-  <annotation doc="D.C. Act 23-165" path="§6|(b)" type="Applicability" history="false" app="2019-11-20" eff="2019-11-20" display="false">Applicability of <cite doc="D.C. Law 22-307">D.C. Law 22-307</cite>: <cite doc="D.C. Act 23-165" path="§6|(b)">Section 6(b) of D.C. Act 23-165</cite> repealed <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-200">D.C. Law 22-307</cite> has been implemented.</annotation>
-  <annotation app="2019-11-20" doc="D.C. Act 23-165" eff="2019-11-20" path="§6|(b)" type="History" display="false"/>
-  <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
+  <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§301|(a)" type="History" display="false"/>
+  <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
 </container>

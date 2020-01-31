@@ -1,35 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <reason>Not Funded</reason>
   <num>30-201.03</num>
   <heading>Short-term rental license application.</heading>
-  <text>A host applying for a short-term rental license endorsement shall:</text>
-  <para>
-    <num undesignated="true">(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>Provide evidence that he or she complies with the requirements of <cite path="§30-201.02">§ 30-201.02</cite>;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>If the short-term rental is on property within a condominium, cooperative, or homeowner association, provide proof that the condominium, cooperative, or homeowner association permits the operation of a short-term rental;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>State the number of, and describe, the short-term rentals to be provided by the host on the property; and</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Pay the license fee, which shall be determined by the Mayor by rulemaking; provided, that the fee for a "Short-Term Rental" endorsement and "Short-Term Rental: Vacation Rental" endorsement shall be the same.</text>
-    </para>
-  </para>
-  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§30-201.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§30-201.03">Applicability of <cite doc="D.C. Law 22-307" path="">D.C. Law 22-307</cite>: <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite> provided that the creation of this section by <cite doc="D.C. Law 22-307" path="§103">§ 103 of D.C. Law 22-307</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
-    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
-    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
-    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§103" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§103" type="History"/>
     <annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 22-307" path="§103" codified:display="Note" app="2019-04-25" eff="2019-04-25">Applicability of <cite doc="D.C. Law 22-307" path="">D.C. Law 22-307</cite>: <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite> provided that the creation of this section by <cite doc="D.C. Law 22-307" path="§103">§ 103 of D.C. Law 22-307</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation doc="D.C. Act 23-165" path="§6|(b)" type="Applicability" history="false" app="2019-11-20" eff="2019-11-20" display="false">Applicability of <cite doc="D.C. Law 22-307">D.C. Law 22-307</cite>: <cite doc="D.C. Act 23-165" path="§6|(b)">Section 6(b) of D.C. Act 23-165</cite> repealed <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-200">D.C. Law 22-307</cite> has been implemented.</annotation>
-    <annotation app="2019-11-20" doc="D.C. Act 23-165" eff="2019-11-20" path="§6|(b)" type="History" display="false"/>
-    <annotation doc="D.C. Act 23-165" path="§6|(b)" type="Applicability" history="false" app="2019-11-20" eff="2019-11-20">Applicability of <cite doc="D.C. Law 22-307">D.C. Law 22-307</cite>: <cite doc="D.C. Act 23-165" path="§6|(b)">Section 6(b) of D.C. Act 23-165</cite> repealed <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-200">D.C. Law 22-307</cite> has been implemented.</annotation>
+    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§103" type="History"/>
   </annotations>
 </section>

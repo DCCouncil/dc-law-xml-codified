@@ -1,51 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <reason>Not Funded</reason>
   <num>30-201.01</num>
   <heading>Definitions.</heading>
-  <text>For the purposes of <cite path="30|2|I">this subchapter</cite>, the term:</text>
-  <para>
-    <num undesignated="true">(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>"Booking service" means any person or entity that facilitates short-term rental reservations and collects payment for lodging in a short-term rental.  A booking service shall be a room remarketer within the meaning of <cite path="§47-2001|(o-1)">§ 47-2001(o-1)</cite>.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>"Department" means the Department of Consumer and Regulatory Affairs or its successor agency.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>"Host" means a natural person who uses a booking service to provide a short-term rental to a transient guest.  A host shall be a vendor within the meaning of §§ <cite path="§47-2001|(w)">47-2001(w)</cite> and <cite path="§47-2201|(g)">47-2201(g)</cite>.</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>"Primary residence" means the property is eligible for the homestead deduction pursuant to <cite path="§47-850">§ 47-850</cite>.</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>"Short-term rental" means paid lodging for transient guests with the host present, unless it is a vacation rental.  A short-term rental is not a hotel, inn, motel, boarding house, rooming house, or bed and breakfast.  A short-term rental operates within a portion of the host's residential property, unless it is a vacation rental.</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>"Vacation rental" means a short-term rental that operates within a host's residential property wherein a transient guest has exclusive use of the host's property during the transient guest's stay and the host is not present on the premises.  A vacation rental is subject to additional restrictions, including <cite path="§30-201.06|(e)">§ 30-201.06(e)</cite>.</text>
-    </para>
-    <codify:find-replace doc="D.C. Code" path="30" count="1" history="false" codified:doc="D.C. Code" codified:path="§30-101">
-      <find>Hotels and Lodging Houses.</find>
-      <replace>Hotels, Lodging Houses, and Short-term Rentals.</replace>
-    </codify:find-replace>
-    <codify:find-replace doc="D.C. Code" path="30|1" count="1" history="false" codified:doc="D.C. Code" codified:path="§30-101">
-      <find>Rights and Liabilities.</find>
-      <replace>Rights and Liabilities of Hotels and Lodging Houses.</replace>
-    </codify:find-replace>
-  </para>
-  <codify:annotation codify:applicability="effective" type="Applicability" doc="D.C. Code" path="§30-201.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§30-201.01">Applicability of <cite doc="D.C. Law 22-307" path="">D.C. Law 22-307</cite>: <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite> provided that the creation of this section by <cite doc="D.C. Law 22-307" path="§101">§ 101 of D.C. Law 22-307</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
-    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
-    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
-    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History"/>
     <annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 22-307" path="§101" codified:display="Note" app="2019-04-25" eff="2019-04-25">Applicability of <cite doc="D.C. Law 22-307" path="">D.C. Law 22-307</cite>: <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite> provided that the creation of this section by <cite doc="D.C. Law 22-307" path="§101">§ 101 of D.C. Law 22-307</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation doc="D.C. Act 23-165" path="§6|(b)" type="Applicability" history="false" app="2019-11-20" eff="2019-11-20" display="false">Applicability of <cite doc="D.C. Law 22-307">D.C. Law 22-307</cite>: <cite doc="D.C. Act 23-165" path="§6|(b)">Section 6(b) of D.C. Act 23-165</cite> repealed <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-200">D.C. Law 22-307</cite> has been implemented.</annotation>
-    <annotation app="2019-11-20" doc="D.C. Act 23-165" eff="2019-11-20" path="§6|(b)" type="History" display="false"/>
-    <annotation doc="D.C. Act 23-165" path="§6|(b)" type="Applicability" history="false" app="2019-11-20" eff="2019-11-20">Applicability of <cite doc="D.C. Law 22-307">D.C. Law 22-307</cite>: <cite doc="D.C. Act 23-165" path="§6|(b)">Section 6(b) of D.C. Act 23-165</cite> repealed <cite doc="D.C. Law 22-307" path="§301">§ 301 of D.C. Law 22-307</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-200">D.C. Law 22-307</cite> has been implemented.</annotation>
+    <annotation app="2019-04-25" doc="D.C. Law 22-307" eff="2019-04-25" path="§101" type="History"/>
   </annotations>
 </section>

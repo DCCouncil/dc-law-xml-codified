@@ -74,15 +74,11 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <para codify:path="§25-102|(b)">
+      <para>
         <num>(2)</num>
         <text>Section 25-102(b) is amended by striking the phrase "No wholesaler or manufacturer" and inserting the phrase "Except as permitted by this title, no wholesaler or manufacturer" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-102|(b)" codified:citation="§ 25-102" codified:display="Amend">
-          <find>No wholesaler or manufacturer</find>
-          <replace>Except as permitted by <cite doc="D.C. Code" path="25">this title</cite>, no wholesaler or manufacturer</replace>
-        </codify:find-replace>
       </para>
-      <para codify:path="§25-111">
+      <para>
         <num>(3)</num>
         <text>Section 25-111 is amended as follows:</text>
         <para>
@@ -90,7 +86,6 @@
           <text>A new subsection (a-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§25-111|(a-1)" codified:citation="§ 25-111" codified:display="Amend"/>
               <num>(a-1)</num>
               <text>A holder of a wholesaler's license, class A or B, shall not ship or deliver alcoholic beverages in accordance with subsection (a) of this section unless the alcoholic beverages are:</text>
               <para>
@@ -112,49 +107,35 @@
         <para>
           <num>(B)</num>
           <text>Subsection (b) is repealed.</text>
-          <codify:repeal path="(b)" codified:doc="D.C. Code" codified:path="§25-111|(b)" codified:citation="§ 25-111" codified:display="Amend"/>
         </para>
       </para>
-      <para codify:path="§25-120">
+      <para>
         <num>(4)</num>
         <text>Section 25-120 is amended as follows:</text>
-        <para codify:path="(c)">
+        <para>
           <num>(A)</num>
           <text>Subsection (c) is amended by striking the phrase "valid for 2 years" and inserting the phrase "valid for 3 years" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-120|(c)" codified:citation="§ 25-120" codified:display="Amend">
-            <find>valid for 2 years</find>
-            <replace>valid for 3 years</replace>
-          </codify:find-replace>
         </para>
-        <para codify:path="(d)">
+        <para>
           <num>(B)</num>
           <text>Subsection (d) is amended by striking the phrase "shall be recertified every 2 years" and inserting the phrase "shall be recertified every 3 years" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-120|(d)" codified:citation="§ 25-120" codified:display="Amend">
-            <find>shall be recertified every 2 years</find>
-            <replace>shall be recertified every 3 years</replace>
-          </codify:find-replace>
         </para>
-        <para codify:path="(i)|(A)">
+        <para>
           <num>(C)</num>
           <text>Subsection (i)(A) is amended as follows:</text>
-          <para codify:path="text">
+          <para>
             <num>(i)</num>
             <text>The lead-in text is amended to read as follows:</text>
             <include>
               <text>The Board may fine, suspend, revoke, or not renew the manager's license of a manager who within the prior 3 years has:</text>
             </include>
             <aftertext>.</aftertext>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-120|(i)|(A)" codified:citation="§ 25-120" codified:display="Amend">
-              <find>The Board may suspend, revoke, or not renew the manager’s license of a manager who within the prior 2 years has:</find>
-              <replace>The Board may fine, suspend, revoke, or not renew the manager's license of a manager who within the prior 3 years has:</replace>
-            </codify:find-replace>
           </para>
-          <para codify:path="(v)">
+          <para>
             <num>(ii)</num>
             <text>Sub-subparagraph (v) to read as follows:</text>
             <include lvl="3">
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§25-120|(i)|(A)|(v)" codified:citation="§ 25-120" codified:display="Amend"/>
                 <num>(v)</num>
                 <text>Allowed the manager's license to be used by another person or borrowed another person's license.</text>
               </para>
@@ -171,20 +152,15 @@
         <num>(1)</num>
         <text>The table of contents for subchapter I is amended by striking the phrase "§ 25-702. Employees – notice of employee's criminal convictions" and inserting the phrase, "§ 25-702. Notice of criminal conviction" in its place.</text>
       </para>
-      <para codify:path="§25-701|(c)">
+      <para>
         <num>(2)</num>
         <text>Section 25-701(c) is amended by striking the phrase, "wholesaler's license" and inserting the phrase "wholesaler's license or off-premises retailer's license, class AI or BI," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-701|(c)" codified:citation="§ 25-701" codified:display="Amend">
-          <find>wholesaler's license</find>
-          <replace>wholesaler's license or off-premises retailer's license, class AI or BI,</replace>
-        </codify:find-replace>
       </para>
       <para>
         <num>(3)</num>
         <text>Section 25-702 is amended to read as follows:</text>
         <include>
           <section>
-            <codify:replace doc="D.C. Code" path="§25-702" codified:doc="D.C. Code" codified:path="§25-702" codified:citation="§ 25-702" codified:display="Amend"/>
             <prefix>§</prefix>
             <num>25-702</num>
             <heading>Notice of criminal conviction.</heading>
@@ -193,15 +169,14 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para codify:path="§25-711">
+      <para>
         <num>(4)</num>
         <text>Section 25-711 is amended as follows:</text>
-        <para codify:path="(a)">
+        <para>
           <num>(A)</num>
           <text>Subsection (a) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§25-711|(a)" codified:citation="§ 25-711" codified:display="Amend"/>
               <num>(a)</num>
               <para>
                 <num>(1)</num>
@@ -226,50 +201,35 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <para codify:path="(b)">
+        <para>
           <num>(B)</num>
-          <text>Subsection (b) is amended by striking the phrase "license or a club" and inserting the phrase "license, manufacturer's license, or a club" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-711|(b)" codified:citation="§ 25-711" codified:display="Amend">
-            <find>license or a club</find>
-            <replace>license, manufacturer's license, or a club</replace>
-          </codify:find-replace>
+          <text>Subsection (b) is amended by striking the phrase "license or a club"</text>
         </para>
+        <aftertext>and inserting the phrase "license, manufacturer's license, or a club" in its place.</aftertext>
       </para>
       <para>
         <num>(5)</num>
         <text>Section 25-741(b) is repealed.</text>
-        <codify:repeal doc="D.C. Code" path="§25-741|(b)" codified:doc="D.C. Code" codified:path="§25-741|(b)" codified:citation="§ 25-741" codified:display="Amend"/>
       </para>
       <para>
         <num>(6)</num>
-        <text>Section 25-784(b) is amended by striking the phrase "on the licensed premises".</text>
-        <codify:find-replace path="§25-784|(b)" count="1" codified:doc="D.C. Code" codified:path="§25-784|(b)" codified:citation="§ 25-784" codified:display="Amend">
-          <find>on the licensed premises</find>
-          <replace/>
-        </codify:find-replace>
+        <text>Section 25-784(b) is amended by striking the phrase "on the licensed</text>
       </para>
+      <aftertext>premises".</aftertext>
     </para>
     <para>
       <num>(c)</num>
       <text>Chapter 8 is amended as follows:</text>
-      <para codify:path="§25-804|(a)">
+      <para>
         <num>(1)</num>
         <text>Section 25-804(a) is amended as follows:</text>
         <para>
           <num>(A)</num>
           <text>Strike the phrase "the Department of Consumer and Regulatory Affairs and the Fire Department" and insert the phrase "the Department of Consumer and Regulatory Affairs, the Office of Tax and Revenue, and the Fire and Emergency Medical Services" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-804|(a)" codified:citation="§ 25-804" codified:display="Amend">
-            <find>the Department of Consumer and Regulatory Affairs and the Fire Department</find>
-            <replace>the Department of Consumer and Regulatory Affairs, the Office of Tax and Revenue, and the Fire and Emergency Medical Services</replace>
-          </codify:find-replace>
         </para>
         <para>
           <num>(B)</num>
           <text>Strike the phrase "subject of a citation or other enforcement action" and insert the phrase "subject of a citation, revocation, or other enforcement action" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-804|(a)" codified:citation="§ 25-804" codified:display="Amend">
-            <find>subject of a citation or other enforcement action</find>
-            <replace>subject of a citation, revocation, or other enforcement action</replace>
-          </codify:find-replace>
         </para>
       </para>
       <para>
@@ -284,31 +244,22 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para codify:path="§25-823|(a)">
+      <para>
         <num>(3)</num>
         <text>Section 25-823(a) is amended as follows:</text>
-        <para codify:path="(8)">
+        <para>
           <num>(A)</num>
           <text>Paragraph (8) is amended by striking the word "or".</text>
-          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§25-823|(a)|(8)" codified:citation="§ 25-823" codified:display="Amend">
-            <find>or</find>
-            <replace/>
-          </codify:find-replace>
         </para>
-        <para codify:path="(9)">
+        <para>
           <num>(B)</num>
           <text>Paragraph (9) is amended by striking the period and inserting the phrase, "; or" in its place.</text>
-          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§25-823|(a)|(9)" codified:citation="§ 25-823" codified:display="Amend">
-            <find>.</find>
-            <replace>; or</replace>
-          </codify:find-replace>
         </para>
         <para>
           <num>(C)</num>
           <text>A new paragraph (10) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§25-823|(a)|(10)" codified:citation="§ 25-823" codified:display="Amend"/>
               <num>(10)</num>
               <para>
                 <num>(A)</num>
@@ -328,7 +279,6 @@
         <text>A new section 25-825a is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="25|8|II" after="§25-825" num-value="[25-825.01]" codified:doc="D.C. Code" codified:path="§[25-825.01]" codified:citation="§ [25-825.01]" codified:display="New"/>
             <prefix>§</prefix>
             <num>25-825a</num>
             <heading>Cancellation when licensee has been evicted from the licensed premises.</heading>
@@ -344,24 +294,16 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para codify:path="§25-835">
+      <para>
         <num>(5)</num>
         <text>Section 25-835 is amended as follows:</text>
-        <para codify:path="(a)">
+        <para>
           <num>(A)</num>
           <text>Subsection (a) is amended by striking the phrase "being a genuine license" and inserting the phrase "being a genuine document or license" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-835|(a)" codified:citation="§ 25-835" codified:display="Amend">
-            <find>being a genuine license</find>
-            <replace>being a genuine document or license</replace>
-          </codify:find-replace>
         </para>
-        <para codify:path="(b)">
+        <para>
           <num>(B)</num>
           <text>Subsection (b) is amended by striking the phrase "being a genuine license" and inserting the phrase "being a genuine document or license" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-835|(b)" codified:citation="§ 25-835" codified:display="Amend">
-            <find>being a genuine license</find>
-            <replace>being a genuine document or license</replace>
-          </codify:find-replace>
         </para>
       </para>
     </para>
