@@ -461,7 +461,7 @@
     </para>
     <para>
       <num>[(68)]</num>
-      <text>[The]Commission on Fashion Arts and Events[] established by <cite path="§3-651">§ 3-651</cite>.</text>
+      <text>[The] Commission on Fashion Arts and Events[] established by <cite path="§3-651">§ 3-651</cite>.</text>
     </para>
   </para>
   <para>
@@ -706,6 +706,8 @@
     <annotation app="2019-04-11" doc="D.C. Law 22-303" eff="2019-04-11" path="§8|(a)|(1)" type="History"/>
     <annotation app="2019-04-11" doc="D.C. Law 22-303" eff="2019-04-11" path="§8|(a)|(2)" type="History"/>
     <annotation app="2019-04-11" doc="D.C. Law 22-303" eff="2019-04-11" path="§8|(a)|(3)" type="History"/>
+    <annotation codify:applicability="effective" type="Applicability" doc="D.C. Law 22-303" path="§8|(a)" codified:display="Note" app="2019-04-11" eff="2019-04-11">Applicability of <cite doc="D.C. Law 22-303" path="">D.C. Law 22-303</cite>: <cite doc="D.C. Law 22-303" path="§9">§ 9 of D.C. Law 22-303</cite> provided that the change made to this section by <cite doc="D.C. Law 22-303" path="§8|(a)">§ 8(a) of D.C. Law 22-303</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2019-04-11" doc="D.C. Law 22-303" eff="2019-04-11" path="§8|(a)" type="History"/>
     <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§3|(a)|(2)" type="History"/>
     <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§3|(a)|(3)" type="History"/>
     <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§3|(a)|(4)" type="History"/>
@@ -723,5 +725,9 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2063|(a)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2063|(b)|(3)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2063|(b)|(4)" type="History"/>
+    <annotation doc="D.C. Law 23-16" path="§7176" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11">
+          Applicability of <cite doc="D.C. Law 22-303">D.C. Law 22-303</cite>: <cite doc="D.C. Law 23-16" path="§7176">§ 7176 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-303" path="§9">§ 9 of D.C. Law 22-303</cite>. Therefore the amendment of this section by <cite doc="D.C. Law 22-303">D.C. Law 22-303</cite> has been implemented.
+        </annotation>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7176" type="History" display="false"/>
   </annotations>
 </section>

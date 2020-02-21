@@ -67,7 +67,7 @@
     <para codify:path="text">
       <num>(a)</num>
       <text>The lead-in language is amended by striking the number "14" and inserting the number "17" in its place.</text>
-      <codify:find-replace count="1">
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1661|(c)">
         <find>14</find>
         <replace>17</replace>
       </codify:find-replace>
@@ -78,7 +78,7 @@
       <para codify:path="text">
         <num>(1)</num>
         <text>The lead-in language is amended by striking the word "Three" and inserting the word "Six" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1661|(c)|(11)">
           <find>Three</find>
           <replace>Six</replace>
         </codify:find-replace>
@@ -86,7 +86,7 @@
       <para codify:path="(B)">
         <num>(2)</num>
         <text>Subparagraph (B) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1661|(c)|(11)|(B)">
           <find>; and</find>
           <replace>;</replace>
         </codify:find-replace>
@@ -94,7 +94,7 @@
       <para codify:path="(C)">
         <num>(3)</num>
         <text>Subparagraph (C) is amended by striking the phrase "provider." and inserting the phrase "provider; and" in its place.</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1661|(c)|(11)|(C)">
           <find>provider.</find>
           <replace>provider; and</replace>
         </codify:find-replace>
@@ -104,7 +104,7 @@
         <text>A new subparagraph (D) is added to read as follows:</text>
         <include lvl="2">
           <para>
-            <codify:insert after="(C)"/>
+            <codify:insert after="(C)" codified:doc="D.C. Code" codified:path="§32-1661|(c)|(11)|(D)"/>
             <num>(D)</num>
             <text>Three representatives of the District business community that the Workforce Investment Council determines are from in-demand industry sectors, as defined by section 3(23) of the Workforce Innovation and Opportunity Act, approved July 22, 2014 (128 Stat. 1433; 29 U.S.C. § 3102(23)).</text>
           </para>
