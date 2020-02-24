@@ -40,6 +40,7 @@
       <xi:include href="./sections/25-126.xml"/>
       <xi:include href="./sections/25-127.xml"/>
       <xi:include href="./sections/25-128.xml"/>
+      <xi:include href="./sections/25-129.xml"/>
     </container>
   </container>
   <container>
@@ -201,6 +202,7 @@
     <xi:include href="./sections/25-509.xml"/>
     <xi:include href="./sections/25-510.xml"/>
     <xi:include href="./sections/25-511.xml"/>
+    <xi:include href="./sections/25-512.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -354,6 +356,7 @@
       <xi:include href="./sections/25-823.xml"/>
       <xi:include href="./sections/25-824.xml"/>
       <xi:include href="./sections/25-825.xml"/>
+      <xi:include href="./sections/[25-825.01].xml"/>
       <xi:include href="./sections/25-826.xml"/>
       <xi:include href="./sections/25-827.xml"/>
       <xi:include href="./sections/25-828.xml"/>
