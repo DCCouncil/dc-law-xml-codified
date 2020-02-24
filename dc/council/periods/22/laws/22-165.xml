@@ -983,7 +983,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "the same class" and insert the phrase "any class" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-338|(a)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-338">
               <find>the same class</find>
               <replace>any class</replace>
             </codify:find-replace>
@@ -991,7 +991,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the phrase "for the same person or persons" and insert the phrase "for the same location and submitted by the same applicant" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-338|(a)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-338">
               <find>for the same person or persons</find>
               <replace>for the same location and submitted by the same applicant</replace>
             </codify:find-replace>
@@ -1003,7 +1003,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "the timely filing of a protest" and insert the phrase "the roll call hearing" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-338|(b)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-338">
               <find>the timely filing of a protest</find>
               <replace>the roll call hearing</replace>
             </codify:find-replace>
@@ -1011,7 +1011,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the phrase "premises may be made at any time." and insert the phrase "location, the restriction set forth in subsection (a) of this section shall not apply." in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-338|(b)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-338">
               <find>premises may be made at any time.</find>
               <replace>location, the restriction set forth in subsection (a) of this section shall not apply.</replace>
             </codify:find-replace>

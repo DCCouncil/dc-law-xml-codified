@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>25-338</num>
   <heading>Limitation on successive applications after denial.</heading>
   <para>
     <num>(a)</num>
-    <text>A second and each subsequent application for any class of license for the same location and submitted by the same applicant shall not be considered within 5 years of a denial.</text>
+    <text>The Board shall not consider an application for the same class of license, permit, endorsement, or substantial change by the same applicant if the Board has denied a previously filed application within 5 years.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>If an application is withdrawn for good cause, as determined by the Board, before the roll call hearing, or if the first application was denied for purely technical or procedural reasons, as determined by the Board, another application by the same applicant for a license of the same class at the same location, the restriction set forth in subsection (a) of this section shall not apply.</text>
+    <text>Notwithstanding subsection (a) of this section, if an application is withdrawn for good cause, as determined by the Board, and prior to the protest status hearing, or if a previously filed application for the same license class, permit, endorsement, or substantial change was denied by the Board on purely technical or procedural grounds, an application by such applicant may be considered.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 13-298" type="History">May 3, 2001, D.C. Law 13-298, § 101, 48 DCR 2959</annotation>
@@ -16,5 +17,6 @@
     <annotation app="2018-10-30" doc="D.C. Law 22-165" eff="2018-10-30" path="§2|(c)|(7)|(A)|(ii)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-165" eff="2018-10-30" path="§2|(c)|(7)|(B)|(i)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-165" eff="2018-10-30" path="§2|(c)|(7)|(B)|(ii)" type="History"/>
+    <annotation app="2020-02-21" doc="D.C. Law 23-52" eff="2020-02-21" path="§2|(b)|(1)" type="History"/>
   </annotations>
 </section>
