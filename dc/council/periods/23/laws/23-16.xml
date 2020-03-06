@@ -252,6 +252,10 @@
         <para codify:path="§1-1163.12a|(b)">
           <num>(d)</num>
           <text>Section 312a(b) (to be codified at D.C. Official Code § 1-1163.12a(b)) is amended by striking the phrase "Campaign Finance Board" and inserting the phrase "Director of Campaign Finance" in its place.</text>
+          <codify:find-replace doc="D.C. Code" path="§2-553" count="1" history="false" display-template="Not Funded" codified:doc="D.C. Code" codified:path="§2-553">
+            <find>Documents</find>
+            <replace>Documents</replace>
+          </codify:find-replace>
         </para>
         <para codify:path="§1-1163.13|(b)|(2)">
           <num>(e)</num>
