@@ -3,8 +3,8 @@
   <heading>Code of the District of Columbia</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2020-02-27">
-      <law doc="D.C. Law 23-56">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
+    <recency through="2020-03-10">
+      <law doc="D.C. Law 23-66">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
       <emergency doc="D.C. Act 23-234">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
       <federal doc="Pub. L. 116-6">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
     </recency>
