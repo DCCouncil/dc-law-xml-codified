@@ -37,18 +37,11 @@
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
-    <xi:include href="./acts/23-234.xml"/>
-    <xi:include href="./acts/23-231.xml"/>
-    <xi:include href="./acts/23-230.xml"/>
-    <xi:include href="./acts/23-229.xml"/>
-    <xi:include href="./acts/23-213.xml"/>
     <xi:include href="./acts/23-165.xml"/>
     <xi:include href="./acts/23-144.xml"/>
     <xi:include href="./acts/23-141.xml"/>
     <xi:include href="./acts/23-140.xml"/>
     <xi:include href="./acts/23-139.xml"/>
-    <xi:include href="./acts/23-108.xml"/>
-    <xi:include href="./acts/23-106.xml"/>
     <xi:include href="./acts/23-105.xml"/>
     <xi:include href="./acts/23-104.xml"/>
     <xi:include href="./acts/23-103.xml"/>
@@ -91,7 +84,6 @@
     <heading>Temporary Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
-      <xi:include href="./laws/23-56.xml"/>
       <xi:include href="./laws/23-55.xml"/>
       <xi:include href="./laws/23-49.xml"/>
       <xi:include href="./laws/23-48.xml"/>
@@ -130,6 +122,7 @@
       <xi:include href="./acts/23-204.xml"/>
       <xi:include href="./acts/23-190.xml"/>
       <xi:include href="./acts/23-176.xml"/>
+      <xi:include href="./acts/23-162.xml"/>
     </collection>
   </collection>
   <collection name="budget">
