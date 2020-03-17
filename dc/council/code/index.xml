@@ -5,8 +5,8 @@
     <effective>0001-01-01</effective>
     <recency through="2020-03-10">
       <law doc="D.C. Law 23-66">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
-      <emergency doc="D.C. Act 23-234">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
-      <federal doc="Pub. L. 116-6">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
+      <emergency doc="D.C. Act 23-242">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
+      <federal doc="Pub. L. 116-94">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
     </recency>
   </meta>
   <subheading>Division I. Government of District.</subheading>
