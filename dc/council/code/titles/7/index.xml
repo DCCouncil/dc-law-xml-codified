@@ -1629,6 +1629,13 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>23A-i</num>
+    <heading>Mayoral Authority Regarding Licenses and Registrations During Public Health Emergency.</heading>
+    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="III" type="History" display="false"/>
+    <xi:include href="./sections/7-2335.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>23B</num>
     <heading>Emergency Medical Services.</heading>
     <xi:include href="./sections/7-2341.01.xml"/>
