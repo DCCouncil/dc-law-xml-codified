@@ -20,27 +20,45 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Credit Union Act of 2020".</text>
-  <codify:insert doc="D.C. Code" path="26|5" history="false" codified:doc="D.C. Code" codified:path="26|5|I" codified:citation="subchapter I of Chapter 5 of Title 26" codified:display="New">
+  <codify:create-sub-container doc="D.C. Code" path="26|5" num-value="II" prefix-value="Subchapter" heading-value="General pre-2020." history="false" display-template="" codified:doc="D.C. Code" codified:path="§26-501.01" codified:citation="§ 26-501.01" codified:display="New"/>
+  <codify:insert doc="D.C. Code" path="26|5" before="II" history="false" codified:doc="D.C. Code" codified:path="26|5|I" codified:citation="subchapter I of Chapter 5 of Title 26" codified:display="New">
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
       <heading>Credit Union Act of 2020.</heading>
     </container>
   </codify:insert>
-  <codify:insert doc="D.C. Code" path="26|5" history="false" codified:doc="D.C. Code" codified:path="26|5|II" codified:citation="subchapter II of Chapter 5 of Title 26" codified:display="New">
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>II</num>
-      <heading>General pre-2020.</heading>
-    </container>
-  </codify:insert>
-  <codify:recodify-section doc="D.C. Code" path="§26-501" num-value="26-521" destination-path="26|5|II" history="false" codified:doc="D.C. Code" codified:path="§26-501" codified:citation="§ 26-501" codified:display="Note"/>
-  <codify:recodify-section doc="D.C. Code" path="§26-501" num-value="26-522" destination-path="26|5|II" history="false" codified:doc="D.C. Code" codified:path="§26-501" codified:citation="§ 26-501" codified:display="Note"/>
-  <codify:recodify-section doc="D.C. Code" path="§26-501" num-value="26-523" destination-path="26|5|II" history="false" codified:doc="D.C. Code" codified:path="§26-501" codified:citation="§ 26-501" codified:display="Note"/>
-  <codify:recodify-section doc="D.C. Code" path="§26-501" num-value="26-524" destination-path="26|5|II" history="false" codified:doc="D.C. Code" codified:path="§26-501" codified:citation="§ 26-501" codified:display="Note"/>
-  <codify:find-replace doc="D.C. Code" path="§26-710|(a)|(10)" count="1" history="false" codified:doc="D.C. Code" codified:path="§26-710|(a)|(10)" codified:citation="§ 26-710" codified:display="Amend">
-    <find>26-501 through 26-504</find>
-    <replace>26-521 through 26-524</replace>
+  <codify:replace doc="D.C. Code" path="§26-501|num" history="false" display-template="" codified:doc="D.C. Code" codified:path="§26-521" codified:citation="§ 26-521" codified:display="Amend">
+    <num>26-521</num>
+  </codify:replace>
+  <codify:annotation doc="D.C. Code" path="§26-521" type="Prior Codifications" history="false" display-template="" codified:doc="D.C. Code" codified:path="§26-521" codified:citation="§ 26-521" codified:display="Note">
+    2001 Ed., § 26-501
+  </codify:annotation>
+  <codify:replace doc="D.C. Code" path="§26-502|num" history="false" display-template="" codified:doc="D.C. Code" codified:path="§26-522" codified:citation="§ 26-522" codified:display="Amend">
+    <num>26-522</num>
+  </codify:replace>
+  <codify:annotation doc="D.C. Code" path="§26-522" type="Prior Codifications" history="false" display-template="" codified:doc="D.C. Code" codified:path="§26-522" codified:citation="§ 26-522" codified:display="Note">
+    2001 Ed., § 26-502
+  </codify:annotation>
+  <codify:replace doc="D.C. Code" path="§26-503|num" history="false" display-template="" codified:doc="D.C. Code" codified:path="§26-523" codified:citation="§ 26-523" codified:display="Amend">
+    <num>26-523</num>
+  </codify:replace>
+  <codify:annotation doc="D.C. Code" path="§26-523" type="Prior Codifications" history="false" display-template="" codified:doc="D.C. Code" codified:path="§26-523" codified:citation="§ 26-523" codified:display="Note">
+    2001 Ed., § 26-503
+  </codify:annotation>
+  <codify:replace doc="D.C. Code" path="§26-504|num" history="false" display-template="" codified:doc="D.C. Code" codified:path="§26-524" codified:citation="§ 26-524" codified:display="Amend">
+    <num>26-524</num>
+  </codify:replace>
+  <codify:annotation doc="D.C. Code" path="§26-524" type="Prior Codifications" history="false" display-template="" codified:doc="D.C. Code" codified:path="§26-524" codified:citation="§ 26-524" codified:display="Note">
+    2001 Ed., § 26-504
+  </codify:annotation>
+  <codify:find-replace doc="D.C. Code" path="§26-710|(a)|(10)" count="1" display="Update cite" codified:doc="D.C. Code" codified:path="§26-710|(a)|(10)" codified:citation="§ 26-710" codified:display="Update cite">
+    <find>Sections 26-501 through 26-504</find>
+    <replace>Sections 26-521 through 26-524</replace>
+  </codify:find-replace>
+  <codify:find-replace doc="D.C. Code" path="§28-4601|(2)|(D)|(iii)" count="1" display="Update cite" codified:doc="D.C. Code" codified:path="§28-4601|(2)|(D)|(iii)" codified:citation="§ 28-4601" codified:display="Update cite">
+    <find>26-501</find>
+    <replace>26-521</replace>
   </codify:find-replace>
   <codify:insert doc="D.C. Code" path="26|5|I" history="false" codified:doc="D.C. Code" codified:path="26|5|I|A" codified:citation="part A of subchapter I of Chapter 5 of Title 26" codified:display="New">
     <container>
@@ -59,7 +77,7 @@
       <heading>Definitions.</heading>
       <para>
         <num undesignated="true">(a)</num>
-        <text>For the purposes of this act, the term:</text>
+        <text>For the purposes of <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>, the term:</text>
         <para>
           <num>(1)</num>
           <text>"Board" means a board of directors unless the context indicates a different meaning.</text>
@@ -102,7 +120,7 @@
         </para>
         <para>
           <num>(11)</num>
-          <text>"District credit union" means a credit union organized under this act.</text>
+          <text>"District credit union" means a credit union organized under <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>.</text>
         </para>
         <para>
           <num>(12)</num>
@@ -254,11 +272,19 @@
       </para>
     </section>
   </container>
+  <codify:insert doc="D.C. Code" path="26|5|I" history="false" codified:doc="D.C. Code" codified:path="26|5|I|B" codified:citation="part B of subchapter I of Chapter 5 of Title 26" codified:display="New">
+    <container>
+      <prefix>Part</prefix>
+      <num>B</num>
+      <heading>Credit Union Organization.</heading>
+    </container>
+  </codify:insert>
   <container>
     <prefix>TITLE</prefix>
     <num>II</num>
     <heading>CREDIT UNION ORGANIZATION.</heading>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|B" num-value="26-502.01" codified:doc="D.C. Code" codified:path="§26-502.01" codified:citation="§ 26-502.01" codified:display="New"/>
       <num>201</num>
       <heading>District credit union charter application procedures.</heading>
       <para>
@@ -302,7 +328,7 @@
         </para>
         <para>
           <num>(9)</num>
-          <text>Bylaws prepared by the organizers of the District credit union, which shall be consistent with this act for the general governance of the District credit union and comply with the form the Commissioner prescribes by rule; and</text>
+          <text>Bylaws prepared by the organizers of the District credit union, which shall be consistent with <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> for the general governance of the District credit union and comply with the form the Commissioner prescribes by rule; and</text>
         </para>
         <para>
           <num>(10)</num>
@@ -338,6 +364,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|B" num-value="26-502.02" codified:doc="D.C. Code" codified:path="§26-502.02" codified:citation="§ 26-502.02" codified:display="New"/>
       <num>202</num>
       <heading>Certificate of charter.</heading>
       <para>
@@ -371,7 +398,7 @@
         <num>(b)</num>
         <para>
           <num>(1)</num>
-          <text>A charter application may be approved, and a certificate of charter may be issued, if the charter application, the charter statement, and bylaws conform to this act and the Commissioner determines that:</text>
+          <text>A charter application may be approved, and a certificate of charter may be issued, if the charter application, the charter statement, and bylaws conform to <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> and the Commissioner determines that:</text>
           <para>
             <num>(A)</num>
             <text>The characteristics of the field of membership set forth in the proposed bylaws are favorable to the economic viability of the proposed District credit union;</text>
@@ -424,6 +451,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|B" num-value="26-502.03" codified:doc="D.C. Code" codified:path="§26-502.03" codified:citation="§ 26-502.03" codified:display="New"/>
       <num>203</num>
       <heading>Form of charter statement and bylaws.</heading>
       <para>
@@ -492,10 +520,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The Commissioner may provide a model District credit union charter statement and model District credit union bylaws consistent with this act, which may be used by District credit union organizers in preparing a District credit union charter application.</text>
+        <text>The Commissioner may provide a model District credit union charter statement and model District credit union bylaws consistent with <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>, which may be used by District credit union organizers in preparing a District credit union charter application.</text>
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|B" num-value="26-502.04" codified:doc="D.C. Code" codified:path="§26-502.04" codified:citation="§ 26-502.04" codified:display="New"/>
       <num>204</num>
       <heading>Amendment of charter and bylaws.</heading>
       <para>
@@ -519,6 +548,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|B" num-value="26-502.05" codified:doc="D.C. Code" codified:path="§26-502.05" codified:citation="§ 26-502.05" codified:display="New"/>
       <num>205</num>
       <heading>Name of District credit union.</heading>
       <para>
@@ -543,6 +573,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|B" num-value="26-502.06" codified:doc="D.C. Code" codified:path="§26-502.06" codified:citation="§ 26-502.06" codified:display="New"/>
       <num>206</num>
       <heading>Service facilities.</heading>
       <para>
@@ -559,16 +590,18 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|B" num-value="26-502.07" codified:doc="D.C. Code" codified:path="§26-502.07" codified:citation="§ 26-502.07" codified:display="New"/>
       <num>207</num>
       <heading>Fiscal year.</heading>
-      <text>The fiscal year of each District credit union chartered under this act shall end on December 31.</text>
+      <text>The fiscal year of each District credit union chartered under <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> shall end on December 31.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|B" num-value="26-502.08" codified:doc="D.C. Code" codified:path="§26-502.08" codified:citation="§ 26-502.08" codified:display="New"/>
       <num>208</num>
       <heading>Application for share and deposit insurance.</heading>
       <para>
         <num>(a)</num>
-        <text>Each District credit union shall apply for insurance on its shares and deposits, as provided by NCUA or comparable insurance approved by the Commissioner. Any District credit union insured by NCUA shall comply with all federal requirements that apply to credit unions insured by NCUA, notwithstanding any contrary provisions of this act.</text>
+        <text>Each District credit union shall apply for insurance on its shares and deposits, as provided by NCUA or comparable insurance approved by the Commissioner. Any District credit union insured by NCUA shall comply with all federal requirements that apply to credit unions insured by NCUA, notwithstanding any contrary provisions of <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -595,6 +628,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|B" num-value="26-502.09" codified:doc="D.C. Code" codified:path="§26-502.09" codified:citation="§ 26-502.09" codified:display="New"/>
       <num>209</num>
       <heading>Conducting business outside the District of Columbia.</heading>
       <para>
@@ -613,7 +647,7 @@
         <num>(b)</num>
         <para>
           <num>(1)</num>
-          <text>If the laws or regulations governing credit unions in a non-District jurisdiction permit a District credit union operating in that jurisdiction to exercise additional powers not expressly permitted under this act, a District credit union conducting business in that non-District jurisdiction may request permission from the Commissioner to exercise those additional powers in the District. The Commissioner shall approve the exercise of additional power unless there are demonstrable safety and soundness implications.</text>
+          <text>If the laws or regulations governing credit unions in a non-District jurisdiction permit a District credit union operating in that jurisdiction to exercise additional powers not expressly permitted under <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>, a District credit union conducting business in that non-District jurisdiction may request permission from the Commissioner to exercise those additional powers in the District. The Commissioner shall approve the exercise of additional power unless there are demonstrable safety and soundness implications.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -626,6 +660,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|B" num-value="26-502.10" codified:doc="D.C. Code" codified:path="§26-502.10" codified:citation="§ 26-502.10" codified:display="New"/>
       <num>210</num>
       <heading>Foreign credit unions.</heading>
       <para>
@@ -653,7 +688,7 @@
         <text>The Commissioner may, at any time, revoke a foreign credit union's authority to do business in the District if the Commissioner determines that a foreign credit union:</text>
         <para>
           <num>(1)</num>
-          <text>Is not established under laws similar to this act;</text>
+          <text>Is not established under laws similar to <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -661,7 +696,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Does not insure its accounts to the same extent as District credit unions established under this act;</text>
+          <text>Does not insure its accounts to the same extent as District credit unions established under <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>;</text>
         </para>
         <para>
           <num>(4)</num>
@@ -677,7 +712,7 @@
         </para>
         <para>
           <num>(7)</num>
-          <text>Does not comply with the consumer protection laws, regulations, and rules applicable to District credit unions established pursuant to this act;</text>
+          <text>Does not comply with the consumer protection laws, regulations, and rules applicable to District credit unions established pursuant to <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>;</text>
         </para>
         <para>
           <num>(8)</num>
@@ -706,7 +741,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The Commissioner may cooperate with credit union regulators in other states or jurisdictions to implement this section and may share information received in administering this act with those regulators.</text>
+        <text>The Commissioner may cooperate with credit union regulators in other states or jurisdictions to implement this section and may share information received in administering <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> with those regulators.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -724,16 +759,24 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Upon approval by the Commissioner, District credit unions established under this act may exercise any additional powers approved for a foreign credit union to exercise pursuant to this section.</text>
+          <text>Upon approval by the Commissioner, District credit unions established under <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> may exercise any additional powers approved for a foreign credit union to exercise pursuant to this section.</text>
         </para>
       </para>
     </section>
   </container>
+  <codify:insert doc="D.C. Code" path="26|5|I" history="false" codified:doc="D.C. Code" codified:path="26|5|I|C" codified:citation="part C of subchapter I of Chapter 5 of Title 26" codified:display="New">
+    <container>
+      <prefix>Part</prefix>
+      <num>C</num>
+      <heading>Credit Union Powers.</heading>
+    </container>
+  </codify:insert>
   <container>
     <prefix>TITLE</prefix>
     <num>III</num>
     <heading>CREDIT UNION POWERS.</heading>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|C" num-value="26-503.01" codified:doc="D.C. Code" codified:path="§26-503.01" codified:citation="§ 26-503.01" codified:display="New"/>
       <num>301</num>
       <heading>General Powers.</heading>
       <para>
@@ -741,7 +784,7 @@
         <text>A District credit union may:</text>
         <para>
           <num>(1)</num>
-          <text>Enter into contracts or other agreements, as necessary, to provide the services authorized by this act;</text>
+          <text>Enter into contracts or other agreements, as necessary, to provide the services authorized by <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>;</text>
         </para>
         <para>
           <num>(2)</num>
@@ -797,7 +840,7 @@
         </para>
         <para>
           <num>(15)</num>
-          <text>Invest surplus funds as provided in this act;</text>
+          <text>Invest surplus funds as provided in <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>;</text>
         </para>
         <para>
           <num>(16)</num>
@@ -873,7 +916,7 @@
         </para>
         <para>
           <num>(30)</num>
-          <text>Exercise the powers granted to corporations and nonprofit corporations; except, that, in the event of a conflict between laws governing corporations and nonprofit corporations and this act, the provisions of this act shall govern;</text>
+          <text>Exercise the powers granted to corporations and nonprofit corporations; except, that, in the event of a conflict between laws governing corporations and nonprofit corporations and <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>, the provisions of <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> shall govern;</text>
         </para>
         <para>
           <num>(31)</num>
@@ -890,21 +933,31 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|C" num-value="26-503.02" codified:doc="D.C. Code" codified:path="§26-503.02" codified:citation="§ 26-503.02" codified:display="New"/>
       <num>302</num>
       <heading>Incidental powers.</heading>
-      <text>A District credit union may exercise all incidental powers as permitted by law and within the purposes stated in this act, which are convenient, suitable, or necessary to enable the District credit union to carry out the purposes of this act.</text>
+      <text>A District credit union may exercise all incidental powers as permitted by law and within the purposes stated in <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>, which are convenient, suitable, or necessary to enable the District credit union to carry out the purposes of <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|C" num-value="26-503.03" codified:doc="D.C. Code" codified:path="§26-503.03" codified:citation="§ 26-503.03" codified:display="New"/>
       <num>303</num>
       <heading>Parity.</heading>
       <text>The Commissioner may authorize District credit unions to exercise, and the Commissioner may establish conditions or limitations for the exercise of, any of the powers conferred upon federal credit unions and upon foreign credit unions operating in the District.</text>
     </section>
   </container>
+  <codify:insert doc="D.C. Code" path="26|5|I" history="false" codified:doc="D.C. Code" codified:path="26|5|I|D" codified:citation="part D of subchapter I of Chapter 5 of Title 26" codified:display="New">
+    <container>
+      <prefix>Part</prefix>
+      <num>D</num>
+      <heading>Credit Union Membership.</heading>
+    </container>
+  </codify:insert>
   <container>
     <prefix>TITLE</prefix>
     <num>IV</num>
     <heading>CREDIT UNION MEMBERSHIP.</heading>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|D" num-value="26-504.01" codified:doc="D.C. Code" codified:path="§26-504.01" codified:citation="§ 26-504.01" codified:display="New"/>
       <num>401</num>
       <heading>Membership.</heading>
       <para>
@@ -933,16 +986,18 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|D" num-value="26-504.02" codified:doc="D.C. Code" codified:path="§26-504.02" codified:citation="§ 26-504.02" codified:display="New"/>
       <num>402</num>
       <heading>Organizations that qualify for District credit union membership.</heading>
       <text>Any incorporated or unincorporated organization, and the organization's employees, may be admitted to membership in a District credit union in the same manner and under the same conditions as individuals.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|D" num-value="26-504.03" codified:doc="D.C. Code" codified:path="§26-504.03" codified:citation="§ 26-504.03" codified:display="New"/>
       <num>403</num>
       <heading>Service to low-income consumers.</heading>
       <para>
         <num>(a)</num>
-        <text>A District credit union, including a District credit union in the process of incorporating under this act, may submit an application to the Commissioner to be designated as a low-income credit union.</text>
+        <text>A District credit union, including a District credit union in the process of incorporating under <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>, may submit an application to the Commissioner to be designated as a low-income credit union.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1012,6 +1067,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|D" num-value="26-504.04" codified:doc="D.C. Code" codified:path="§26-504.04" codified:citation="§ 26-504.04" codified:display="New"/>
       <num>404</num>
       <heading>School service facilities.</heading>
       <para>
@@ -1036,16 +1092,19 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|D" num-value="26-504.05" codified:doc="D.C. Code" codified:path="§26-504.05" codified:citation="§ 26-504.05" codified:display="New"/>
       <num>405</num>
       <heading>Retention of membership.</heading>
-      <text>Unless the District credit union's bylaws state otherwise, a person who has become a member of a District credit union in accordance with this act may remain a member of that District credit union until that person chooses to withdraw from the membership of the District credit union, or is terminated under section 407.</text>
+      <text>Unless the District credit union's bylaws state otherwise, a person who has become a member of a District credit union in accordance with <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> may remain a member of that District credit union until that person chooses to withdraw from the membership of the District credit union, or is terminated under section 407.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|D" num-value="26-504.06" codified:doc="D.C. Code" codified:path="§26-504.06" codified:citation="§ 26-504.06" codified:display="New"/>
       <num>406</num>
       <heading>Liability of members.</heading>
       <text>The members of a District credit union shall not be personally or individually liable for the payment of the District credit union's debts solely by virtue of their membership in the District credit union.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|D" num-value="26-504.07" codified:doc="D.C. Code" codified:path="§26-504.07" codified:citation="§ 26-504.07" codified:display="New"/>
       <num>407</num>
       <heading>Termination of membership.</heading>
       <para>
@@ -1073,15 +1132,17 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>A person who has been expelled as provided by this act may not be readmitted to membership except upon approval by a majority vote of the board after application and proof that the expelled person remains within the District credit union's  field of membership, has adequately explained, addressed, or remedied the conditions leading to expulsion, and will abide by the terms and conditions of membership. Only one application for readmission may be submitted within a 12-month calendar period.</text>
+        <text>A person who has been expelled as provided by <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> may not be readmitted to membership except upon approval by a majority vote of the board after application and proof that the expelled person remains within the District credit union's  field of membership, has adequately explained, addressed, or remedied the conditions leading to expulsion, and will abide by the terms and conditions of membership. Only one application for readmission may be submitted within a 12-month calendar period.</text>
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|D" num-value="26-504.08" codified:doc="D.C. Code" codified:path="§26-504.08" codified:citation="§ 26-504.08" codified:display="New"/>
       <num>408</num>
       <heading>Suspension of services.</heading>
       <text>A District credit union may, for cause, as defined in section 407, suspend certain services to a District credit union member under a policy adopted by the District credit union's board of directors. Members whose service is suspended may maintain a share account and continue to vote at annual and special meetings.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|D" num-value="26-504.09" codified:doc="D.C. Code" codified:path="§26-504.09" codified:citation="§ 26-504.09" codified:display="New"/>
       <num>409</num>
       <heading>Meetings of members.</heading>
       <para>
@@ -1102,16 +1163,25 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|D" num-value="26-504.10" codified:doc="D.C. Code" codified:path="§26-504.10" codified:citation="§ 26-504.10" codified:display="New"/>
       <num>410</num>
       <heading>Special membership meetings.</heading>
       <text>A District credit union's bylaws may prescribe the manner in which a special meeting of the members may be called by the members or the board of directors, or both.</text>
     </section>
   </container>
+  <codify:insert doc="D.C. Code" path="26|5|I" history="false" codified:doc="D.C. Code" codified:path="26|5|I|E" codified:citation="part E of subchapter I of Chapter 5 of Title 26" codified:display="New">
+    <container>
+      <prefix>Part</prefix>
+      <num>E</num>
+      <heading>Credit Union Governance.</heading>
+    </container>
+  </codify:insert>
   <container>
     <prefix>TITLE</prefix>
     <num>V</num>
     <heading>CREDIT UNION GOVERNANCE.</heading>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|E" num-value="26-505.01" codified:doc="D.C. Code" codified:path="§26-505.01" codified:citation="§ 26-505.01" codified:display="New"/>
       <num>501</num>
       <heading>Authority and duty of a board of directors.</heading>
       <para>
@@ -1162,7 +1232,7 @@
           </para>
           <para>
             <num>(K)</num>
-            <text>Perform any other duties, or authorize any other actions, that are not inconsistent with this act or the District credit union's bylaws.</text>
+            <text>Perform any other duties, or authorize any other actions, that are not inconsistent with <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> or the District credit union's bylaws.</text>
           </para>
         </para>
         <para>
@@ -1200,6 +1270,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|E" num-value="26-505.02" codified:doc="D.C. Code" codified:path="§26-505.02" codified:citation="§ 26-505.02" codified:display="New"/>
       <num>502</num>
       <heading>Election of a board of directors.</heading>
       <para>
@@ -1235,6 +1306,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|E" num-value="26-505.03" codified:doc="D.C. Code" codified:path="§26-505.03" codified:citation="§ 26-505.03" codified:display="New"/>
       <num>503</num>
       <heading>Appointment of committees.</heading>
       <para>
@@ -1251,10 +1323,11 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Unless specifically prohibited by the bylaws, any action required by this act to be taken at a committee meeting, or any other action that may be taken at a committee meeting, may be taken without a meeting if all members of the committee sign a consent to the action in a writing that sets forth the action. Consent shall be evidenced by one or more written approvals, which describe the action taken and bear the signature of one or more committee members.</text>
+        <text>Unless specifically prohibited by the bylaws, any action required by <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> to be taken at a committee meeting, or any other action that may be taken at a committee meeting, may be taken without a meeting if all members of the committee sign a consent to the action in a writing that sets forth the action. Consent shall be evidenced by one or more written approvals, which describe the action taken and bear the signature of one or more committee members.</text>
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|E" num-value="26-505.04" codified:doc="D.C. Code" codified:path="§26-505.04" codified:citation="§ 26-505.04" codified:display="New"/>
       <num>504</num>
       <heading>Vacancies.</heading>
       <para>
@@ -1283,6 +1356,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|E" num-value="26-505.05" codified:doc="D.C. Code" codified:path="§26-505.05" codified:citation="§ 26-505.05" codified:display="New"/>
       <num>505</num>
       <heading>Compensation of officials.</heading>
       <para>
@@ -1302,6 +1376,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|E" num-value="26-505.06" codified:doc="D.C. Code" codified:path="§26-505.06" codified:citation="§ 26-505.06" codified:display="New"/>
       <num>506</num>
       <heading>Limited liability of directors and officers.</heading>
       <para>
@@ -1350,11 +1425,13 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|E" num-value="26-505.07" codified:doc="D.C. Code" codified:path="§26-505.07" codified:citation="§ 26-505.07" codified:display="New"/>
       <num>507</num>
       <heading>Conflicts of interest.</heading>
       <text>Directors, committee members, and officers shall disclose all existing and potential conflicts of interest to the board of directors. No director, committee member, officer, or employee of a District credit union shall, in any manner, directly or indirectly, participate in the deliberation upon, or the determination of, any question affecting his or her pecuniary interest or the pecuniary interest of any corporation, partnership, or association in which he or she is directly or indirectly interested.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|E" num-value="26-505.08" codified:doc="D.C. Code" codified:path="§26-505.08" codified:citation="§ 26-505.08" codified:display="New"/>
       <num>508</num>
       <heading>Officers.</heading>
       <para>
@@ -1371,10 +1448,11 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Notwithstanding any other provision of this act, a District credit union may use any title it chooses for officials holding the positions described in this section, provided that the titles are not misleading.</text>
+        <text>Notwithstanding any other provision of<code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>, a District credit union may use any title it chooses for officials holding the positions described in this section, provided that the titles are not misleading.</text>
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|E" num-value="26-505.09" codified:doc="D.C. Code" codified:path="§26-505.09" codified:citation="§ 26-505.09" codified:display="New"/>
       <num>509</num>
       <heading>Meetings of directors.</heading>
       <para>
@@ -1387,10 +1465,11 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Unless specifically prohibited by the bylaws, any action required by this act to be taken at a meeting of the board of directors, or any other action that may be taken at a meeting of the board of directors, may be taken without a meeting if a consent, in writing, setting forth the action is signed by all the directors entitled to vote with respect to the subject matter thereof. Consent shall be evidenced by one or more written approvals, which describe the action taken.</text>
+        <text>Unless specifically prohibited by the bylaws, any action required by<code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> to be taken at a meeting of the board of directors, or any other action that may be taken at a meeting of the board of directors, may be taken without a meeting if a consent, in writing, setting forth the action is signed by all the directors entitled to vote with respect to the subject matter thereof. Consent shall be evidenced by one or more written approvals, which describe the action taken.</text>
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|E" num-value="26-505.10" codified:doc="D.C. Code" codified:path="§26-505.10" codified:citation="§ 26-505.10" codified:display="New"/>
       <num>510</num>
       <heading>Audits.</heading>
       <para>
@@ -1403,6 +1482,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|E" num-value="26-505.11" codified:doc="D.C. Code" codified:path="§26-505.11" codified:citation="§ 26-505.11" codified:display="New"/>
       <num>511</num>
       <heading>Suspension and removal powers.</heading>
       <para>
@@ -1419,11 +1499,19 @@
       </para>
     </section>
   </container>
+  <codify:insert doc="D.C. Code" path="26|5|I" history="false" codified:doc="D.C. Code" codified:path="26|5|I|F" codified:citation="part F of subchapter I of Chapter 5 of Title 26" codified:display="New">
+    <container>
+      <prefix>Part</prefix>
+      <num>F</num>
+      <heading>Member Accounts.</heading>
+    </container>
+  </codify:insert>
   <container>
     <prefix>TITLE</prefix>
     <num>VI</num>
     <heading>MEMBER ACCOUNTS.</heading>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|F" num-value="26-506.01" codified:doc="D.C. Code" codified:path="§26-506.01" codified:citation="§ 26-506.01" codified:display="New"/>
       <num>601</num>
       <heading>Shares and membership shares.</heading>
       <para>
@@ -1456,6 +1544,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|F" num-value="26-506.02" codified:doc="D.C. Code" codified:path="§26-506.02" codified:citation="§ 26-506.02" codified:display="New"/>
       <num>602</num>
       <heading>Dividends.</heading>
       <para>
@@ -1476,6 +1565,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|F" num-value="26-506.03" codified:doc="D.C. Code" codified:path="§26-506.03" codified:citation="§ 26-506.03" codified:display="New"/>
       <num>603</num>
       <heading>Deposit Accounts.</heading>
       <para>
@@ -1496,6 +1586,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|F" num-value="26-506.04" codified:doc="D.C. Code" codified:path="§26-506.04" codified:citation="§ 26-506.04" codified:display="New"/>
       <num>604</num>
       <heading>Withdrawals.</heading>
       <para>
@@ -1512,11 +1603,13 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|F" num-value="26-506.05" codified:doc="D.C. Code" codified:path="§26-506.05" codified:citation="§ 26-506.05" codified:display="New"/>
       <num>605</num>
       <heading>Accounts for minors.</heading>
       <text>Payments on share and deposit accounts may be received from a minor with consent from the minor's parent or guardian. The minor may withdraw funds from these accounts, including the dividends and interest thereon. If shares are issued in the name of a minor, the redemption of any part or all of the shares, or a withdrawal of funds by payment to the minor of the shares or funds, and any declared dividends or interest, releases the District credit union from all obligations to the minor as to the shares redeemed or funds withdrawn.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|F" num-value="26-506.06" codified:doc="D.C. Code" codified:path="§26-506.06" codified:citation="§ 26-506.06" codified:display="New"/>
       <num>606</num>
       <heading>Joint accounts.</heading>
       <para>
@@ -1533,11 +1626,13 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|F" num-value="26-506.07" codified:doc="D.C. Code" codified:path="§26-506.07" codified:citation="§ 26-506.07" codified:display="New"/>
       <num>607</num>
       <heading>Payable on death accounts.</heading>
       <text>Notwithstanding any other provision of law, a District credit union may establish share and deposit accounts payable to one or more persons during their lifetimes, and upon the death of every included account holder to one or more payable on death payees. A transfer to a payable on death payee is effective by reason of the account contract and shall not be considered a testamentary transfer.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|F" num-value="26-506.08" codified:doc="D.C. Code" codified:path="§26-506.08" codified:citation="§ 26-506.08" codified:display="New"/>
       <num>608</num>
       <heading>Trust accounts.</heading>
       <para>
@@ -1550,11 +1645,13 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|F" num-value="26-506.09" codified:doc="D.C. Code" codified:path="§26-506.09" codified:citation="§ 26-506.09" codified:display="New"/>
       <num>609</num>
       <heading>Trust services.</heading>
       <text>A District credit union may accept and execute trusts pursuant to the laws of the District.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|F" num-value="26-506.10" codified:doc="D.C. Code" codified:path="§26-506.10" codified:citation="§ 26-506.10" codified:display="New"/>
       <num>610</num>
       <heading>Liens.</heading>
       <para>
@@ -1567,6 +1664,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|F" num-value="26-506.11" codified:doc="D.C. Code" codified:path="§26-506.11" codified:citation="§ 26-506.11" codified:display="New"/>
       <num>611</num>
       <heading>Reduction in membership shares.</heading>
       <para>
@@ -1583,6 +1681,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|F" num-value="26-506.12" codified:doc="D.C. Code" codified:path="§26-506.12" codified:citation="§ 26-506.12" codified:display="New"/>
       <num>612</num>
       <heading>Share and deposit insurance.</heading>
       <para>
@@ -1623,11 +1722,12 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|F" num-value="26-506.13" codified:doc="D.C. Code" codified:path="§26-506.13" codified:citation="§ 26-506.13" codified:display="New"/>
       <num>613</num>
       <heading>Authority to withhold payment.</heading>
       <para>
         <num>(a)</num>
-        <text>Nothing contained in this act shall be deemed to require a District credit union to make any payment from an account to a depositor, shareholder, trust, or payable-on-death account beneficiary, or any other person claiming an interest in any funds in an account, if the District credit union has actual knowledge of the existence of a dispute between the depositors, shareholders, beneficiaries, or other persons concerning their respective rights of ownership to the funds contained in, proposed to be withdrawn from, previously withdrawn from, the account, or if the District credit union is otherwise uncertain as to who is entitled to the funds pursuant to the account agreement.</text>
+        <text>Nothing contained in <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> shall be deemed to require a District credit union to make any payment from an account to a depositor, shareholder, trust, or payable-on-death account beneficiary, or any other person claiming an interest in any funds in an account, if the District credit union has actual knowledge of the existence of a dispute between the depositors, shareholders, beneficiaries, or other persons concerning their respective rights of ownership to the funds contained in, proposed to be withdrawn from, previously withdrawn from, the account, or if the District credit union is otherwise uncertain as to who is entitled to the funds pursuant to the account agreement.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1643,26 +1743,36 @@
       </para>
     </section>
   </container>
+  <codify:insert doc="D.C. Code" path="26|5|I" history="false" codified:doc="D.C. Code" codified:path="26|5|I|G" codified:citation="part G of subchapter I of Chapter 5 of Title 26" codified:display="New">
+    <container>
+      <prefix>Part</prefix>
+      <num>G</num>
+      <heading>Loans.</heading>
+    </container>
+  </codify:insert>
   <container>
     <prefix>TITLE</prefix>
     <num>VII</num>
     <heading>LOANS.</heading>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|G" num-value="26-507.01" codified:doc="D.C. Code" codified:path="§26-507.01" codified:citation="§ 26-507.01" codified:display="New"/>
       <num>701</num>
       <heading>Purpose and conditions of loans.</heading>
       <text>A District credit union may issue loans to members for the purposes and on the conditions prescribed by the board of directors. The board of directors shall establish written policies with respect to granting loans and extending lines of credit, including the terms, conditions, and acceptable forms of security.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|G" num-value="26-507.02" codified:doc="D.C. Code" codified:path="§26-507.02" codified:citation="§ 26-507.02" codified:display="New"/>
       <num>702</num>
       <heading>Interest rate.</heading>
-      <text>Notwithstanding the provisions of any other law in connection with extensions of credit, a District credit union may elect to contract for and receive interest for extensions of credit subject only to the provisions of this act and rules promulgated pursuant to this act.</text>
+      <text>Notwithstanding the provisions of any other law in connection with extensions of credit, a District credit union may elect to contract for and receive interest for extensions of credit subject only to the provisions of <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> and rules promulgated pursuant to <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|G" num-value="26-507.03" codified:doc="D.C. Code" codified:path="§26-507.03" codified:citation="§ 26-507.03" codified:display="New"/>
       <num>703</num>
       <heading>Other loan-related charges.</heading>
       <para>
         <num>(a)</num>
-        <text>Notwithstanding the provisions of any other law in connection with extensions of credit, a District credit union may elect to contract for and receive fees and other charges for extensions of credit in connection with making, closing, disbursing, extending, collecting, renewing, or enforcing a debt in the event of a member's delinquency or breach of any obligation under the District credit union's loan contract, subject only to the provisions of this act and rules promulgated pursuant to this act.</text>
+        <text>Notwithstanding the provisions of any other law in connection with extensions of credit, a District credit union may elect to contract for and receive fees and other charges for extensions of credit in connection with making, closing, disbursing, extending, collecting, renewing, or enforcing a debt in the event of a member's delinquency or breach of any obligation under the District credit union's loan contract, subject only to the provisions of <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> and rules promulgated pursuant to <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1670,11 +1780,13 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|G" num-value="26-507.04" codified:doc="D.C. Code" codified:path="§26-507.04" codified:citation="§ 26-507.04" codified:display="New"/>
       <num>704</num>
       <heading>Loan limit.</heading>
       <text>The board of directors may place a limit on the aggregate amount to be loaned to, or co-signed by, any one member. The aggregate of loans to any one member shall not exceed 5% of the District credit union's capital or 1% of shares and deposits, whichever is greater. This limit shall not apply to loans that are fully secured by shares or deposits in the District credit union.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|G" num-value="26-507.05" codified:doc="D.C. Code" codified:path="§26-507.05" codified:citation="§ 26-507.05" codified:display="New"/>
       <num>705</num>
       <heading>Lines of credit.</heading>
       <para>
@@ -1687,6 +1799,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|G" num-value="26-507.06" codified:doc="D.C. Code" codified:path="§26-507.06" codified:citation="§ 26-507.06" codified:display="New"/>
       <num>706</num>
       <heading>Participation loans.</heading>
       <para>
@@ -1703,6 +1816,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|G" num-value="26-507.07" codified:doc="D.C. Code" codified:path="§26-507.07" codified:citation="§ 26-507.07" codified:display="New"/>
       <num>707</num>
       <heading>Other loan programs.</heading>
       <para>
@@ -1723,11 +1837,12 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|G" num-value="26-507.08" codified:doc="D.C. Code" codified:path="§26-507.08" codified:citation="§ 26-507.08" codified:display="New"/>
       <num>708</num>
       <heading>Loans to officials.</heading>
       <para>
         <num>(a)</num>
-        <text>A District credit union may make loans to its officers, directors, and members of its committees, provided that the loan complies with all requirements of this act and is not on terms or conditions more favorable than those extended to other borrowers.</text>
+        <text>A District credit union may make loans to its officers, directors, and members of its committees, provided that the loan complies with all requirements of <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> and is not on terms or conditions more favorable than those extended to other borrowers.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1735,11 +1850,19 @@
       </para>
     </section>
   </container>
+  <codify:insert doc="D.C. Code" path="26|5|I" history="false" codified:doc="D.C. Code" codified:path="26|5|I|H" codified:citation="part H of subchapter I of Chapter 5 of Title 26" codified:display="New">
+    <container>
+      <prefix>Part</prefix>
+      <num>H</num>
+      <heading>Investments.</heading>
+    </container>
+  </codify:insert>
   <container>
     <prefix>TITLE</prefix>
     <num>VIII</num>
     <heading>INVESTMENTS.</heading>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|H" num-value="26-508.01" codified:doc="D.C. Code" codified:path="§26-508.01" codified:citation="§ 26-508.01" codified:display="New"/>
       <num>801</num>
       <heading>Authorized investments.</heading>
       <para>
@@ -1825,7 +1948,7 @@
           <text>In addition to the investments authorized in subsection (a) of this section, a District credit union may seek, by written application, the Commissioner's approval for:</text>
           <para>
             <num>(A)</num>
-            <text>An investment that is not authorized in subsection (a) of this section but is for purposes identified in this act; or</text>
+            <text>An investment that is not authorized in subsection (a) of this section but is for purposes identified in <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>; or</text>
           </para>
           <para>
             <num>(B)</num>
@@ -1855,11 +1978,19 @@
       </para>
     </section>
   </container>
+  <codify:insert doc="D.C. Code" path="26|5|I" history="false" codified:doc="D.C. Code" codified:path="26|5|I|I" codified:citation="part I of subchapter I of Chapter 5 of Title 26" codified:display="New">
+    <container>
+      <prefix>Part</prefix>
+      <num>I</num>
+      <heading>Change in Corporate Status.</heading>
+    </container>
+  </codify:insert>
   <container>
     <prefix>TITLE</prefix>
     <num>IX</num>
     <heading>CHANGE IN CORPORATE STATUS</heading>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|I" num-value="26-509.01" codified:doc="D.C. Code" codified:path="§26-509.01" codified:citation="§ 26-509.01" codified:display="New"/>
       <num>901</num>
       <heading>Voluntary Liquidation.</heading>
       <para>
@@ -1908,7 +2039,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>If liquidation is approved, the board of directors shall appoint a liquidating agent or committee for the purpose of conserving and collecting the assets, closing the affairs of the District credit union, and distributing the assets as required by this act.</text>
+        <text>If liquidation is approved, the board of directors shall appoint a liquidating agent or committee for the purpose of conserving and collecting the assets, closing the affairs of the District credit union, and distributing the assets as required by <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -1933,7 +2064,7 @@
         <num>(j)</num>
         <para>
           <num>(1)</num>
-          <text>The Commissioner may issue a cease and desist order against the liquidating agent or committee and appoint a new liquidating agent to complete the liquidation under the Commissioner's direction and control if the Commissioner determines that the liquidating agent or committee has failed to make reasonable progress toward liquidating the District credit union's affairs and distributing its assets, or has violated this act.</text>
+          <text>The Commissioner may issue a cease and desist order against the liquidating agent or committee and appoint a new liquidating agent to complete the liquidation under the Commissioner's direction and control if the Commissioner determines that the liquidating agent or committee has failed to make reasonable progress toward liquidating the District credit union's affairs and distributing its assets, or has violated <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1946,6 +2077,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|I" num-value="26-509.02" codified:doc="D.C. Code" codified:path="§26-509.02" codified:citation="§ 26-509.02" codified:display="New"/>
       <num>902</num>
       <heading>Voluntary merger of credit unions.</heading>
       <para>
@@ -1965,7 +2097,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>To merge, participating credit unions shall prepare a merger plan. The merger plan which has been approved by a majority of the directors of all of the participating credit unions shall be submitted to the appropriate regulatory authorities for preliminary approval by the regulatory authority. If the merger plan includes the creation of a new credit union, all documents required by this act for the chartering of a new District credit union shall be submitted as part of the merger plan. Each participating credit union, except the continuing credit union, shall also submit in writing to the Commissioner:</text>
+        <text>To merge, participating credit unions shall prepare a merger plan. The merger plan which has been approved by a majority of the directors of all of the participating credit unions shall be submitted to the appropriate regulatory authorities for preliminary approval by the regulatory authority. If the merger plan includes the creation of a new credit union, all documents required by <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> for the chartering of a new District credit union shall be submitted as part of the merger plan. Each participating credit union, except the continuing credit union, shall also submit in writing to the Commissioner:</text>
         <para>
           <num>(1)</num>
           <text>The time and place of the meeting of the board of directors at which the merger plan was agreed upon;</text>
@@ -1992,7 +2124,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The Commissioner shall approve a merger plan after determining that the requirements of subsection (d) of this section have been met. If the merger plan includes the creation of a new District credit union, the new District credit union shall be approved pursuant to Title II of this act. The Commissioner shall notify all participating credit unions of the Commissioner's action on the merger plan.</text>
+        <text>The Commissioner shall approve a merger plan after determining that the requirements of subsection (d) of this section have been met. If the merger plan includes the creation of a new District credit union, the new District credit union shall be approved pursuant to Title II of <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>. The Commissioner shall notify all participating credit unions of the Commissioner's action on the merger plan.</text>
       </para>
       <para>
         <num>(f)</num>
@@ -2004,6 +2136,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|I" num-value="26-509.03" codified:doc="D.C. Code" codified:path="§26-509.03" codified:citation="§ 26-509.03" codified:display="New"/>
       <num>903</num>
       <heading>Credit union conversion.</heading>
       <para>
@@ -2012,15 +2145,16 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>A federal credit union or a foreign credit union may convert to a District credit union incorporated under this act if the converting federal or foreign credit union complies with all requirements of its current chartering jurisdiction and the requirements of the Commissioner and files proof of such compliance with the Commissioner.</text>
+        <text>A federal credit union or a foreign credit union may convert to a District credit union incorporated under <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> if the converting federal or foreign credit union complies with all requirements of its current chartering jurisdiction and the requirements of the Commissioner and files proof of such compliance with the Commissioner.</text>
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|I" num-value="26-509.04" codified:doc="D.C. Code" codified:path="§26-509.04" codified:citation="§ 26-509.04" codified:display="New"/>
       <num>904</num>
       <heading>Bank to credit union conversion.</heading>
       <para>
         <num>(a)</num>
-        <text>A locally regulated or federally regulated bank may convert its charter to a District credit union charter under this act, subject to applicable local and federal laws and regulations governing the bank.</text>
+        <text>A locally regulated or federally regulated bank may convert its charter to a District credit union charter under <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>, subject to applicable local and federal laws and regulations governing the bank.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2030,7 +2164,7 @@
           <text>The converting bank shall prepare and submit to the Commissioner a conversion plan that provides how the converting bank will:</text>
           <para>
             <num>(A)</num>
-            <text>Comply with the membership requirements under this act, including the possible divestiture of customers who do not meet membership limitations;</text>
+            <text>Comply with the membership requirements under <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>, including the possible divestiture of customers who do not meet membership limitations;</text>
           </para>
           <para>
             <num>(B)</num>
@@ -2055,7 +2189,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>A converting bank shall perform a complete policy review to address appraisal restrictions, lending restrictions, investment restrictions, corporate structure restrictions, and power structure to ensure compliance with this act and the Commissioner's rules.</text>
+          <text>A converting bank shall perform a complete policy review to address appraisal restrictions, lending restrictions, investment restrictions, corporate structure restrictions, and power structure to ensure compliance with <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> and the Commissioner's rules.</text>
         </para>
       </para>
       <para>
@@ -2068,7 +2202,7 @@
       </para>
       <para>
         <num>(e)</num>
-        <text>The Commissioner may authorize a District credit union resulting from a charter conversion under this act to:</text>
+        <text>The Commissioner may authorize a District credit union resulting from a charter conversion under <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> to:</text>
         <para>
           <num>(1)</num>
           <text>Windup any activities that the converting bank legally engaged in at the effective time of the charter conversion but that otherwise are not permitted for District credit unions; or</text>
@@ -2084,16 +2218,25 @@
       </para>
     </section>
   </container>
+  <codify:insert doc="D.C. Code" path="26|5|I" history="false" codified:doc="D.C. Code" codified:path="26|5|I|J" codified:citation="part J of subchapter I of Chapter 5 of Title 26" codified:display="New">
+    <container>
+      <prefix>Part</prefix>
+      <num>J</num>
+      <heading>Supervision and Regulation.</heading>
+    </container>
+  </codify:insert>
   <container>
     <prefix>TITLE</prefix>
     <num>X</num>
     <heading>SUPERVISION AND REGULATION OF CREDIT UNIONS.</heading>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|J" num-value="26-510.01" codified:doc="D.C. Code" codified:path="§26-510.01" codified:citation="§ 26-510.01" codified:display="New"/>
       <num>1001</num>
       <heading>Supervision and regulation of credit unions.</heading>
       <text>The Commissioner shall be responsible for the supervision and regulation of District credit unions. The Commissioner is the District's credit union regulatory authority, whose purpose shall be to protect members' financial interests, the interests of the general public, and to ensure that District credit unions remain viable and competitive.</text>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|J" num-value="26-510.02" codified:doc="D.C. Code" codified:path="§26-510.02" codified:citation="§ 26-510.02" codified:display="New"/>
       <num>1002</num>
       <heading>Deposit of fees in the Securities and Banking Trust Fund.</heading>
       <para>
@@ -2102,7 +2245,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Money in the Fund shall be available for expenses incurred in the supervision, examination, and regulation of credit unions under this act.</text>
+        <text>Money in the Fund shall be available for expenses incurred in the supervision, examination, and regulation of credit unions under <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -2110,11 +2253,12 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|J" num-value="26-510.03" codified:doc="D.C. Code" codified:path="§26-510.03" codified:citation="§ 26-510.03" codified:display="New"/>
       <num>1003</num>
       <heading>Powers of Commissioner.</heading>
       <para>
         <num>(a)</num>
-        <text>The Commissioner may prescribe rules to implement any provision of this act, including defining any term not defined in the act.</text>
+        <text>The Commissioner may prescribe rules to implement any provision of <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>, including defining any term not defined in <code-cite doc="D.C. Code" path="26|5|I">the act</code-cite>.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2178,7 +2322,7 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>The Commissioner may suspend the operations of a District credit union or foreign credit union operating in the District, appoint a conservator to take possession or control of the business and assets of a District credit union, and may involuntarily merge or involuntarily liquidate a District credit union, in accordance with this act.</text>
+        <text>The Commissioner may suspend the operations of a District credit union or foreign credit union operating in the District, appoint a conservator to take possession or control of the business and assets of a District credit union, and may involuntarily merge or involuntarily liquidate a District credit union, in accordance with <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>.</text>
       </para>
       <para>
         <num>(h)</num>
@@ -2186,14 +2330,15 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>The Commissioner shall not hold liable under this act any District credit union, foreign credit union operating in the District, or other person for acts or omissions made in reliance on any rule, interpretation, or opinion issued by the Commissioner.</text>
+        <text>The Commissioner shall not hold liable under <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite> any District credit union, foreign credit union operating in the District, or other person for acts or omissions made in reliance on any rule, interpretation, or opinion issued by the Commissioner.</text>
       </para>
       <para>
         <num>(j)</num>
-        <text>The Commissioner may exercise all rights, authorities, and duties set forth in this act.</text>
+        <text>The Commissioner may exercise all rights, authorities, and duties set forth in <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>.</text>
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|J" num-value="26-510.04" codified:doc="D.C. Code" codified:path="§26-510.04" codified:citation="§ 26-510.04" codified:display="New"/>
       <num>1004</num>
       <heading>Involuntary merger of credit union.</heading>
       <para>
@@ -2226,6 +2371,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|J" num-value="26-510.05" codified:doc="D.C. Code" codified:path="§26-510.05" codified:citation="§ 26-510.05" codified:display="New"/>
       <num>1005</num>
       <heading>Involuntary liquidation.</heading>
       <para>
@@ -2281,6 +2427,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|J" num-value="26-510.06" codified:doc="D.C. Code" codified:path="§26-510.06" codified:citation="§ 26-510.06" codified:display="New"/>
       <num>1006</num>
       <heading>Conservatorship.</heading>
       <para>
@@ -2355,6 +2502,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|J" num-value="26-510.07" codified:doc="D.C. Code" codified:path="§26-510.07" codified:citation="§ 26-510.07" codified:display="New"/>
       <num>1007</num>
       <heading>Examinations.</heading>
       <para>
@@ -2387,11 +2535,12 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|J" num-value="26-510.08" codified:doc="D.C. Code" codified:path="§26-510.08" codified:citation="§ 26-510.08" codified:display="New"/>
       <num>1008</num>
       <heading>Records.</heading>
       <para>
         <num>(a)</num>
-        <text>A District credit union shall maintain all books, records, accounting systems, and procedures that accurately reflect its operations and which enable the Commissioner to readily ascertain the true financial condition of the District credit union and whether it is complying with this act. These books, records, accounting systems, and procedures shall be maintained at the District credit union's principal place of business in accordance with the District credit union's record retention policy.</text>
+        <text>A District credit union shall maintain all books, records, accounting systems, and procedures that accurately reflect its operations and which enable the Commissioner to readily ascertain the true financial condition of the District credit union and whether it is complying with <code-cite doc="D.C. Code" path="|26|5|I">this act</code-cite>. These books, records, accounting systems, and procedures shall be maintained at the District credit union's principal place of business in accordance with the District credit union's record retention policy.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -2399,6 +2548,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|J" num-value="26-510.09" codified:doc="D.C. Code" codified:path="§26-510.09" codified:citation="§ 26-510.09" codified:display="New"/>
       <num>1009</num>
       <heading>Records of the Department.</heading>
       <para>
@@ -2439,6 +2589,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|J" num-value="26-510.10" codified:doc="D.C. Code" codified:path="§26-510.10" codified:citation="§ 26-510.10" codified:display="New"/>
       <num>1010</num>
       <heading>Conflicts of interest.</heading>
       <para>
@@ -2451,11 +2602,19 @@
       </para>
     </section>
   </container>
+  <codify:insert doc="D.C. Code" path="26|5|I" history="false" codified:doc="D.C. Code" codified:path="26|5|I|K" codified:citation="part K of subchapter I of Chapter 5 of Title 26" codified:display="New">
+    <container>
+      <prefix>Part</prefix>
+      <num>K</num>
+      <heading>Tax Exemption; Compliance Review.</heading>
+    </container>
+  </codify:insert>
   <container>
     <prefix>TITLE</prefix>
     <num>XI</num>
     <heading>TAX EXEMPTION; COMPLIANCE REVIEW.</heading>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|K" num-value="26-511.01" codified:doc="D.C. Code" codified:path="§26-511.01" codified:citation="§ 26-511.01" codified:display="New"/>
       <num>1101</num>
       <heading>Tax exemption.</heading>
       <para>
@@ -2468,6 +2627,7 @@
       </para>
     </section>
     <section>
+      <codify:insert doc="D.C. Code" path="26|5|I|K" num-value="26-511.02" codified:doc="D.C. Code" codified:path="§26-511.02" codified:citation="§ 26-511.02" codified:display="New"/>
       <num>1102</num>
       <heading>Compliance review documents.</heading>
       <para>

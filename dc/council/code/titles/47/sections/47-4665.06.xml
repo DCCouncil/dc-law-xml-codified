@@ -56,7 +56,7 @@
     </para>
     <para>
       <num>(13)</num>
-      <text>"Property" means a building or a portion of a building that is subject to real property taxation under <cite path="47|8">Chapter 8 of this title</cite>.</text>
+      <text>"Property" means a portion of the real property located at 2445 M Street, N.W., known for tax and assessment purposes as Lot 871 in Square 0024, that is subject to real property taxation under <cite path="47|8">Chapter 8 of this title</cite>.</text>
     </para>
     <para>
       <num>(14)</num>
@@ -116,7 +116,11 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The lease execution shall occur on or before January 1, 2019.</text>
+      <text>The lease execution shall occur on or before August 1, 2019.</text>
+      <codify:find-replace doc="D.C. Code" path="§2-553" count="1" history="false" display-template="NA" codified:doc="D.C. Code" codified:path="§2-553">
+        <find>Documents</find>
+        <replace>Documents</replace>
+      </codify:find-replace>
     </para>
     <para>
       <num>(3)</num>
@@ -215,5 +219,10 @@
     <annotation app="2019-11-20" doc="D.C. Act 23-165" eff="2019-11-20" path="§4|(b)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-48" path="§5|(b)" codified:display="Note" app="2020-01-28" eff="2020-01-28">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-48" path="§5|(b)">§ 5(b) of Fiscal Year 2020 Budget Support Clarification Temporary Amendment Act of 2019 (D.C. Law 23-48, Jan. 28, 2020, 66 DCR 16179)</cite>.</annotation>
     <annotation app="2020-01-28" doc="D.C. Law 23-48" eff="2020-01-28" path="§5|(b)" type="History" display="false"/>
+    <annotation app="2020-03-19" doc="D.C. Law 23-68" eff="2020-03-19" path="§12|(c)|(1)" type="History"/>
+    <annotation app="2020-03-19" doc="D.C. Law 23-68" eff="2020-03-19" path="§12|(c)|(2)" type="History"/>
+    <annotation doc="D.C. Law 23-68" path="§12|(c)" type="Applicability" history="false" display-template="" app="2020-03-19" eff="2020-03-19"><cite doc="D.C. Law 23-68" path="§16">Section 16 of D.C. Law 23-68</cite> provided that the changes made to this section by D.C. Law 23-68 shall apply as of October 1, 2019.
+    </annotation>
+    <annotation app="2020-03-19" doc="D.C. Law 23-68" eff="2020-03-19" path="§12|(c)" type="History" display="false"/>
   </annotations>
 </section>
