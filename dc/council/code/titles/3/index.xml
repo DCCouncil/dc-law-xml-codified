@@ -411,6 +411,23 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>VI-E</num>
+      <heading>Maternity Centers' Certification; Operations Administration.</heading>
+      <annotation app="2020-03-31" doc="D.C. Act 23-267" eff="2020-03-31" path="" type="History" display="false"/>
+      <xi:include href="./sections/3-1206.61.xml"/>
+      <xi:include href="./sections/3-1206.62.xml"/>
+      <xi:include href="./sections/3-1206.63.xml"/>
+      <xi:include href="./sections/3-1206.64.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VI-F</num>
+      <heading>Medicaid Reimbursement.</heading>
+      <annotation app="2020-03-31" doc="D.C. Act 23-267" eff="2020-03-31" path="" type="History" display="false"/>
+      <xi:include href="./sections/3-1206.71.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>VII</num>
       <heading>Qualifications for Licensure to Practice Dietetics and Nutrition; Waiver of Examination.</heading>
       <xi:include href="./sections/3-1207.01.xml"/>
