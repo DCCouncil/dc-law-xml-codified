@@ -6,7 +6,7 @@
   <heading type="long">To provide, on an emergency basis, authority to the Executive and to address critical needs of District residents and businesses during the current public health emergency including wage replacement, business relief, and additional authorities and exemptions regarding health, public safety, and consumer protection.</heading>
   <meta>
     <introduced>2020-03-17</introduced>
-    <effective projected="true">2020-05-19</effective>
+    <effective>2020-04-17</effective>
     <citations>
       <citation type="act" url="http://lims.dccouncil.us/Download/44469/B23-0718-SignedAct.pdf">D.C. Act 23-247</citation>
       <citation type="register">67 DCR 3093</citation>
@@ -21,7 +21,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "COVID-19 Response Emergency Amendment Act of 2020".</text>
-  <codify:insert doc="D.C. Code" path="51|1" history="false" codified:doc="D.C. Code" codified:path="51|1|IV" codified:citation="subchapter IV of Chapter 1 of Title 51" codified:display="New">
+  <codify:insert doc="D.C. Code" path="51|1" history="false">
     <container>
       <prefix>Subchapter</prefix>
       <num>IV</num>
@@ -33,7 +33,7 @@
     <num>I</num>
     <heading>LABOR AND WORKFORCE PROTECTIONS</heading>
     <section>
-      <codify:insert doc="D.C. Code" path="51|1|IV" num-value="51-181" codified:doc="D.C. Code" codified:path="§51-181" codified:citation="§ 51-181" codified:display="New"/>
+      <codify:insert doc="D.C. Code" path="51|1|IV" num-value="51-181"/>
       <num>101</num>
       <heading>Wage replacement.</heading>
       <para>
@@ -99,7 +99,7 @@
       <para>
         <num>(a)</num>
         <text>Section 2(1) (D.C. Official Code § 32-501(1)) is amended by striking the phrase "medical leave" and inserting the phrase "medical leave, except that during a period of time for which a public health emergency has been declared by the Mayor pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 3-149; D.C. Official Code § 7-2304.01), the one-year employment requirement and 1,000-hour work requirement shall not apply to an employee who has been ordered or recommended to quarantine or isolate, by the Department of Health, any other District or federal agency, or a medical professional.</text>
-        <codify:find-replace path="§32-501|(1)" count="1" codified:doc="D.C. Code" codified:path="§32-501|(1)" codified:citation="§ 32-501" codified:display="Amend">
+        <codify:find-replace path="§32-501|(1)" count="1">
           <find>medical leave</find>
           <replace>medical leave, except that during a period of time for which a public health emergency has been declared by the Mayor pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 3-149; D.C. Official Code § 7-2304.01)</code-cite>, the one-year employment requirement and 1,000-hour work requirement shall not apply to an employee who has been ordered or recommended to quarantine or isolate, by the Department of Health, any other District or federal agency, or a medical professional</replace>
         </codify:find-replace>
@@ -109,7 +109,7 @@
         <text>A new section 3a (to be codified at D.C. Official Code §32-502.01) is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert doc="D.C. Code" path="32|5|I" after="§32-502" num-value="32-502.01" codified:doc="D.C. Code" codified:path="§32-502.01" codified:citation="§ 32-502.01" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="32|5|I" after="§32-502" num-value="32-502.01"/>
             <num>3a</num>
             <heading>Declaration-of-emergency leave.</heading>
             <para>
@@ -129,7 +129,7 @@
         <text>Section 17 (D.C. Official Code § 32-516) is amended by adding a new paragraph (3) to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§32-516|(3)" codified:citation="§ 32-516" codified:display="Amend"/>
+            <codify:insert/>
             <num>(3)</num>
             <text>For an employee who is on leave pursuant to <code-cite doc="D.C. Code" path="§32-502.01">section 3a</code-cite>, to any employer regardless of the number of persons in the District that the employer employs.</text>
           </para>
@@ -149,7 +149,7 @@
       <para>
         <num>(a)</num>
         <text>Section 811(b) (D.C. Official Code § 47-811(b)) is amended by striking the phrase "tax year beginning July 1, 1989, and ending June 30, 1990, the amount of the first and second installments shall reflect and be consistent with the tax rates applicable to that tax year, as provided in § 47-812(b) and (c)" and inserting the phrase "tax year 2020 first installment owing for a real property that is commercially improved and occupied and is a hotel or motel; provided, that the Chief Financial Officer, through the Office of Tax and Revenue, shall issue administrative guidance on the definition of a hotel or motel, the Chief Financial Officer may waive any penalties and abate interest if the owner pays such installment by June 30, 2020" in its place.</text>
-        <codify:find-replace path="§47-811" count="1" codified:doc="D.C. Code" codified:path="§47-811" codified:citation="§ 47-811" codified:display="Amend">
+        <codify:find-replace path="§47-811" count="1">
           <find>tax year beginning July 1, 1989, and ending June 30, 1990, the amount of the first and second installments shall reflect and be consistent with the tax rates applicable to that tax year, as provided in <cite path="§47-812|(b)">§ 47-812(b)</cite> and (c)</find>
           <replace>tax year 2020 first installment owing for a real property that is commercially improved and occupied and is a hotel or motel; provided, that the Chief Financial Officer, through the Office of Tax and Revenue, shall issue administrative guidance on the definition of a hotel or motel, the Chief Financial Officer may waive any penalties and abate interest if the owner pays such installment by June 30, 2020</replace>
         </codify:find-replace>
@@ -159,7 +159,7 @@
         <text>Section 4221 (D.C. Official Code § 47-4221) is amended by adding a new subsection (d) to read as follows:</text>
         <include>
           <para>
-            <codify:insert path="§47-4221" codified:doc="D.C. Code" codified:path="§47-4221|(d)" codified:citation="§ 47-4221" codified:display="Amend"/>
+            <codify:insert path="§47-4221"/>
             <num>(d)</num>
             <para>
               <num>(1)</num>
@@ -194,7 +194,7 @@
         <text>A new section 2316 is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="2|2|IX-A|B" num-value="2-218.16" codified:doc="D.C. Code" codified:path="§2-218.16" codified:citation="§ 2-218.16" codified:display="New"/>
+            <codify:insert path="2|2|IX-A|B" num-value="2-218.16"/>
             <num>2316</num>
             <heading>Public health emergency grant program.</heading>
             <para>
@@ -260,7 +260,7 @@
       <para>
         <num>(a)</num>
         <text>Subparagraph (A) is amended by striking the phrase "guests; and" and inserting the phrase "guests;" in its place.</text>
-        <codify:find-replace path="§25-113|(a)|(3)|(A)" count="1" codified:doc="D.C. Code" codified:path="§25-113|(a)|(3)|(A)" codified:citation="§ 25-113" codified:display="Amend">
+        <codify:find-replace path="§25-113|(a)|(3)|(A)" count="1">
           <find>guests; and</find>
           <replace>guests;</replace>
         </codify:find-replace>
@@ -268,7 +268,7 @@
       <para>
         <num>(b)</num>
         <text>Subparagraph (B) is amended by striking the phrase "guests." and inserting the phrase "guests; and" in its place.</text>
-        <codify:find-replace path="§25-113|(a)|(3)|(B)" count="1" codified:doc="D.C. Code" codified:path="§25-113|(a)|(3)|(B)" codified:citation="§ 25-113" codified:display="Amend">
+        <codify:find-replace path="§25-113|(a)|(3)|(B)" count="1">
           <find>guests.</find>
           <replace>guests; and</replace>
         </codify:find-replace>
@@ -278,7 +278,7 @@
         <text>A new subparagraph (C) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert path="§25-113|(a)|(3)" codified:doc="D.C. Code" codified:path="§25-113|(a)|(3)|(C)" codified:citation="§ 25-113" codified:display="Amend"/>
+            <codify:insert path="§25-113|(a)|(3)"/>
             <num>(C)</num>
             <text>A restaurant or tavern that registers with the Board may sell beer, wine, or spirts in closed containers to individuals for carry out to their home, or deliver beer, wine, or spirits in closed containers to the homes of District residents; provided, that each such carry out or delivery order be accompanied by one or more prepared food items. Board approval shall not be required for a registration under this subparagraph; however, a restaurant or tavern shall receive written authorization from ABRA prior to beginning take-out or delivery of beer, wine, or spirits pursuant to this subparagraph.</text>
           </para>
@@ -292,7 +292,7 @@
       <text>Section 29-102.12 of the District of Columbia Official Code is amended by adding a new subsection (e) to read as follows:</text>
       <include>
         <para>
-          <codify:insert path="§29-102.12" codified:doc="D.C. Code" codified:path="§29-102.12|(e)" codified:citation="§ 29-102.12" codified:display="Amend"/>
+          <codify:insert path="§29-102.12"/>
           <num>(e)</num>
           <text>There shall be no fee for delivering the first biennial report for 2020 required by <code-cite doc="D.C. Code" path="§29-102.11|(c)">Section 29-102.11(c)</code-cite>; provided, that the first biennial report for 2020 be delivered to the Mayor for filing by June 1, 2020.</text>
         </para>
@@ -313,7 +313,7 @@
         <para codify:path="(2)">
           <num>(1)</num>
           <text>Paragraph (2) is amended by striking the phrase "District of Columbia government;" and inserting the phrase "District of Columbia government; provided further, that a summary of each emergency procurement entered into during a period for which a public health emergency is declared shall be provided to the Council no later than 7 days after the contract is awarded. Such summary shall include a description of the goods or services procured; the source selection method; the award amount; and the name of the awardee.".</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2304|(b)|(2)" codified:citation="§ 7-2304" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>District of Columbia government;</find>
             <replace>District of Columbia government; provided further, that a summary of each emergency procurement entered into during a period for which a public health emergency is declared shall be provided to the Council no later than 7 days after the contract is awarded. Such summary shall include a description of the goods or services procured; the source selection method; the award amount; and the name of the awardee.</replace>
           </codify:find-replace>
@@ -321,7 +321,7 @@
         <para codify:path="(13)">
           <num>(2)</num>
           <text>Paragraph (13) is amended by striking the phrase "; or" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2304|(b)|(13)" codified:citation="§ 7-2304" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>; or</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -329,7 +329,7 @@
         <para codify:path="(14)">
           <num>(3)</num>
           <text>Paragraph (14) is amended by striking the period at the end and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2304|(b)|(14)" codified:citation="§ 7-2304" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>.</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -339,12 +339,12 @@
           <text>New paragraphs (15) and (16) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§7-2304|(b)|(15)" codified:citation="§ 7-2304" codified:display="Amend"/>
+              <codify:insert/>
               <num>(15)</num>
               <text>Waive application of any law administered by the Department of Insurance, Securities, and Banking if doing so is reasonably calculated to protect the health, safety, or welfare of District residents; and</text>
             </para>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§7-2304|(b)|(16)" codified:citation="§ 7-2304" codified:display="Amend"/>
+              <codify:insert/>
               <num>(16)</num>
               <text>Notwithstanding any provision of <code-cite doc="D.C. Code" path="1|6">the District of Columbia Government Comprehensive Merit Personnel Act of 1978 (D.C. Law 2-139, D.C. Official Code § 1-601.01 <em>et seq.</em>)</code-cite> ("CMPA") or the rules issued pursuant to the CMPA, <code-cite doc="D.C. Code" path="1|5|I-A">the Jobs for D.C. Residents Amendment Act of 2007, effective February 6, 2008 (D.C. Law 17-108, D.C. Official Code § 1-515.01 <em>et seq.</em>)</code-cite>, or any other personnel law or rules, the Mayor may take the following personnel actions regarding executive branch subordinate agencies that the Mayor determines necessary and appropriate to address the emergency:</text>
               <para>
@@ -402,7 +402,7 @@
         <para codify:path="(3)">
           <num>(1)</num>
           <text>Paragraph (3) is amended by striking the phrase "solely for the duration of the public health emergency; and" and inserting the phrase "solely for actions taken during the public health emergency;" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2304.01|(d)|(3)" codified:citation="§ 7-2304.01" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>solely for the duration of the public health emergency; and</find>
             <replace>solely for actions taken during the public health emergency;</replace>
           </codify:find-replace>
@@ -410,7 +410,7 @@
         <para codify:path="(4)">
           <num>(2)</num>
           <text>Paragraph (4) is amended by striking the period at the end and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2304.01|(d)|(4)" codified:citation="§ 7-2304.01" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>.</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -420,17 +420,17 @@
           <text>New paragraphs (5), (6), and (7) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§7-2304.01|(d)|(5)" codified:citation="§ 7-2304.01" codified:display="Amend"/>
+              <codify:insert/>
               <num>(5)</num>
               <text>Waive application in the District of any law administered by the Department of Insurance, Securities and Banking if doing so is reasonably calculated to protect the health, safety, and welfare of District residents;</text>
             </para>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§7-2304.01|(d)|(6)" codified:citation="§ 7-2304.01" codified:display="Amend"/>
+              <codify:insert/>
               <num>(6)</num>
               <text>Authorize the use of crisis standards of care or modified means of delivery of health care services in scarce-resource situations; and</text>
             </para>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§7-2304.01|(d)|(7)" codified:citation="§ 7-2304.01" codified:display="Amend"/>
+              <codify:insert/>
               <num>(7)</num>
               <text>Authorize the Department of Health to coordinate health-care delivery for first aid within the limits of individual licensure in shelters or facilities as provided in plans and protocols published by the Department of Health.</text>
             </para>
@@ -442,7 +442,7 @@
           <text>Section 7 (D.C. Official Code § 7-2306) is amended by adding a new subsection (c-1) to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§7-2306|(c-1)" codified:citation="§ 7-2306" codified:display="Amend"/>
+              <codify:insert after="(c)"/>
               <num>(c-1)</num>
               <text>Notwithstanding subsections (b) and (c) of this section, the Council authorizes the Mayor to extend the 15-day March 11, 2020, emergency executive order and public health emergency executive order ("emergency orders") issued in response to the coronavirus (COVID-19) for an additional 30-day period.  After the additional 30-day extension authorized by this subsection, the Mayor may extend the emergency orders for additional 15-day periods pursuant to subsection (b) or (c) of this subsection.</text>
             </para>
@@ -456,19 +456,19 @@
         <para>
           <num>(1)</num>
           <text>The existing text is designated as paragraph (1).</text>
-          <codify:redesignate-para num-value="(1)" codified:doc="D.C. Code" codified:path="§7-2307" codified:citation="§ 7-2307" codified:display="Amend"/>
+          <codify:redesignate-para num-value="(1)"/>
         </para>
         <para>
           <num>(2)</num>
           <text>New paragraphs (2) and (3) are added to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§7-2307|(2)" codified:citation="§ 7-2307" codified:display="Amend"/>
+              <codify:insert/>
               <num>(2)</num>
               <text>The Mayor may revoke, suspend, or limit the license, permit, or certificate of occupancy of a person or entity that violates an emergency executive order.</text>
             </para>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§7-2307|(3)" codified:citation="§ 7-2307" codified:display="Amend"/>
+              <codify:insert/>
               <num>(3)</num>
               <text>For the purposes of this section a violation of a rule, order, or other issuance issued under the authority of an emergency executive order shall constitute a violation of the emergency executive order.</text>
             </para>
@@ -482,7 +482,7 @@
       <text>The Department of Insurance and Securities Regulation Establishment Act of 1996, effective May 21, 1997 (D.C. Law 11-268; D.C. Official Code § 31-101 <em>et seq.),</em> is amended by adding a new section 5a to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="31|1|I" after="§31-104" num-value="31-104.01" codified:doc="D.C. Code" codified:path="§31-104.01" codified:citation="§ 31-104.01" codified:display="New"/>
+          <codify:insert path="31|1|I" after="§31-104" num-value="31-104.01"/>
           <num>5a</num>
           <heading>Emergency authority of the Commissioner during a declared public health emergency.</heading>
           <para>
@@ -596,7 +596,7 @@
       <num>303</num>
       <heading>Public benefits extension and continued access.</heading>
       <text>Notwithstanding any provision of District law, the Mayor may extend the eligibility period for individuals receiving benefits, extend the timeframe for determinations for new applicants, and take such other actions as the Mayor determines appropriate to support continuity of, and access to, any public benefit program, including the DC Healthcare Alliance and Immigrant Children's program, Temporary Assistance for Needy Families, and Supplemental Nutritional Assistance Program, until 60 days after the end of a public health emergency declared by the Mayor pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, as allowable under federal law.</text>
-      <codify:annotation doc="D.C. Code" path="§7-2304.01" type="Editor's Notes" history="false" codified:doc="D.C. Code" codified:path="§7-2304.01" codified:citation="§ 7-2304.01" codified:display="Note"><cite doc="D.C. Act 23-247" path="§303">Section 303 of D.C. Act 23-247</cite> provided that "Notwithstanding any provision of District law, the Mayor may extend the eligibility period for individuals receiving benefits, extend the timeframe for determinations for new applicants, and take such other actions as the Mayor determines appropriate to support continuity of, and access to, any public benefit program, including the DC Healthcare Alliance and Immigrant Children's program, Temporary Assistance for Needy Families, and Supplemental Nutritional Assistance Program, until 60 days after the end of a public health emergency declared by the Mayor pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, as allowable under federal law."
+      <codify:annotation doc="D.C. Code" path="§7-2304.01" type="Editor's Notes" history="false"><cite doc="D.C. Act 23-247" path="§303">Section 303 of D.C. Act 23-247</cite> provided that "Notwithstanding any provision of District law, the Mayor may extend the eligibility period for individuals receiving benefits, extend the timeframe for determinations for new applicants, and take such other actions as the Mayor determines appropriate to support continuity of, and access to, any public benefit program, including the DC Healthcare Alliance and Immigrant Children's program, Temporary Assistance for Needy Families, and Supplemental Nutritional Assistance Program, until 60 days after the end of a public health emergency declared by the Mayor pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, as allowable under federal law."
       </codify:annotation>
     </section>
     <section>
@@ -621,7 +621,7 @@
         <text>Section 28-4102(a)) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§28-4102|(a)" codified:citation="§ 28-4102" codified:display="Amend"/>
+            <codify:replace/>
             <num>(a)</num>
             <text>It shall be unlawful for any person to charge more than the normal average retail price for any merchandise or service sold during a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, or during an emergency resulting from a natural disaster declared pursuant to subsection (b) of this section.</text>
           </para>
@@ -633,7 +633,7 @@
         <text>A new section 28-4102.01 is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="28|41" after="§28-4102" codified:doc="D.C. Code" codified:path="§28-4102.01" codified:citation="§ 28-4102.01" codified:display="New"/>
+            <codify:insert path="28|41" after="§28-4102"/>
             <prefix>§</prefix>
             <num>28-4102.01</num>
             <heading>Stockpiling.</heading>
@@ -663,7 +663,7 @@
         <para>
           <num>(1)</num>
           <text>Strike the phrase "§ 28-4102(a)" each time it appears and insert the phrase "§ 28-4102(a) or § 28-4102.01" in its place.</text>
-          <codify:find-replace count="3" codified:doc="D.C. Code" codified:path="§28-4103" codified:citation="§ 28-4103" codified:display="Amend">
+          <codify:find-replace count="3">
             <find>
               <cite path="§28-4102|(a)">§ 28-4102(a)</cite>
             </find>
@@ -675,7 +675,7 @@
           <text>A new subsection (c) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§28-4103|(c)" codified:citation="§ 28-4103" codified:display="Amend"/>
+              <codify:insert/>
               <num>(c)</num>
               <text>When the Office of the Attorney General brings a civil action for any violation of <cite doc="D.C. Code" path="§28-4102|(a)">§​ 28-4102(a)</cite> or <cite doc="D.C. Code" path="§28-4102.01">§ 28-4102.01</cite> under the authority granted in <cite doc="D.C. Code" path="§28-3909">§ 28-3909</cite>, the maximum penalty authorized by <cite doc="D.C. Code" path="§28-3909">§ 28-3909</cite> shall be assessed for each such violation.</text>
             </para>
@@ -690,7 +690,7 @@
       <text>The Retail Electric Competition and Consumer Protection Act of 1999, effective May 9, 2000 (D.C. Law 13-107; D.C. Official Code § 34-1501 <em>et seq</em>.), is amended by adding a new section 106b to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="34|15" after="§34-1506.01" num-value="34-1506.02" codified:doc="D.C. Code" codified:path="§34-1506.02" codified:citation="§ 34-1506.02" codified:display="New"/>
+          <codify:insert path="34|15" after="§34-1506.01" num-value="34-1506.02"/>
           <num>106b</num>
           <heading>Disconnection of service during a public health emergency prohibited.</heading>
           <para>
@@ -711,7 +711,7 @@
       <text>The Retail Natural Gas Supplier Licensing and Consumer Protection Act of 2004, effective March 16, 2005 (D.C. Law 15-227; D.C. Official Code § 34-1671.01 <em>et seq</em>.), is amended by adding a new section 7b to read as follows:</text>
       <include>
         <section>
-          <codify:insert path="34|16C" after="§34-1671.06a" num-value="34-1671.06b" codified:doc="D.C. Code" codified:path="§34-1671.06b" codified:citation="§ 34-1671.06b" codified:display="New"/>
+          <codify:insert path="34|16C" after="§34-1671.06a" num-value="34-1671.06b"/>
           <num>7b</num>
           <heading>Disconnection of service during a public health emergency prohibited.</heading>
           <para>
@@ -732,7 +732,7 @@
       <text>Section 103 of the District of Columbia Public Works Act of 1954, approved May 18, 1954 (68 Stat. 102; D.C. Code § 34-2407.01), is amended by adding a new subsection (c) to read as follows:</text>
       <include>
         <para>
-          <codify:insert path="§34-2407.01" codified:doc="D.C. Code" codified:path="§34-2407.01|(c)" codified:citation="§ 34-2407.01" codified:display="Amend"/>
+          <codify:insert path="§34-2407.01"/>
           <num>(c)</num>
           <para>
             <num>(1)</num>
@@ -752,7 +752,7 @@
       <para>
         <num>(a)</num>
         <text>D.C. Official Code § 16-1502 is amended by striking the phrase "exclusive of Sundays and legal holidays" and inserting the phrase "exclusive of Sundays, legal holidays, and the period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>," in its place.</text>
-        <codify:find-replace path="§16-1502" count="1" codified:doc="D.C. Code" codified:path="§16-1502" codified:citation="§ 16-1502" codified:display="Amend">
+        <codify:find-replace path="§16-1502" count="1">
           <find>exclusive of Sundays and legal holidays</find>
           <replace>exclusive of Sundays, legal holidays, and the period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>,</replace>
         </codify:find-replace>
@@ -763,7 +763,7 @@
         <para codify:path="(1)">
           <num>(1)</num>
           <text>Paragraph (1) is amended by striking the phrase "; or" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3505.01|(k)|(1)" codified:citation="§ 42-3505.01" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>; or</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -771,7 +771,7 @@
         <para codify:path="(2)">
           <num>(2)</num>
           <text>Paragraph (2) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3505.01|(k)|(2)" codified:citation="§ 42-3505.01" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>.</find>
             <replace>; or</replace>
           </codify:find-replace>
@@ -781,7 +781,7 @@
           <text>A new paragraph (3) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§42-3505.01|(k)|(3)" codified:citation="§ 42-3505.01" codified:display="Amend"/>
+              <codify:insert/>
               <num>(3)</num>
               <text>During a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>.</text>
             </para>
@@ -796,14 +796,14 @@
       <text>Section 208 of the District of Columbia Health Occupations Revision Act of 1985, effective March 25, 1986 (D.C. Law 6-99; D.C. Official Code § 3-1202.08), is amended by adding a new subsection (g-2) to read as follows:</text>
       <include>
         <para>
-          <codify:insert path="§3-1202.08" after="(g-1)" codified:doc="D.C. Code" codified:path="§3-1202.08|(g-2)" codified:citation="§ 3-1202.08" codified:display="Amend"/>
+          <codify:insert path="§3-1202.08" after="(g-1)"/>
           <num>(g-2)</num>
           <text>An individual licensed to practice pharmacy pursuant to <code-cite doc="D.C. Code" path="3|12">this act</code-cite> may authorize and dispense a refill of patient prescription medications prior to the expiration of the waiting period between refills to allow District residents to maintain an adequate supply of necessary medication during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>. This subsection shall not apply to any patient prescription for which a refill otherwise would be prohibited under District law.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
     </section>
-    <codify:insert doc="D.C. Code" path="7" after="23A" history="false" codified:doc="D.C. Code" codified:path="7|23A-i" codified:citation="Chapter 23A-i of Title 7" codified:display="New">
+    <codify:insert doc="D.C. Code" path="7" after="23A" history="false">
       <container>
         <prefix>Chapter</prefix>
         <num>23A-i</num>
@@ -811,7 +811,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert path="7|23A-i" num-value="7-2335" codified:doc="D.C. Code" codified:path="§7-2335" codified:citation="§ 7-2335" codified:display="New"/>
+      <codify:insert path="7|23A-i" num-value="7-2335"/>
       <num>310</num>
       <heading>Extension of licenses and registrations; waiver of deadlines.</heading>
       <para>
@@ -841,7 +841,7 @@
         <para codify:path="(1)">
           <num>(1)</num>
           <text>Paragraph (1) is amended by striking the phrase "not to exceed 3 days" and inserting the phrase "not to exceed 3 days; except, that during a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the Mayor may place the family in an interim eligibility placement for a period not to exceed 60 days" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-753.02|(c-1)|(1)" codified:citation="§ 4-753.02" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>not to exceed 3 days</find>
             <replace>not to exceed 3 days; except, that during a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the Mayor may place the family in an interim eligibility placement for a period not to exceed 60 days</replace>
           </codify:find-replace>
@@ -849,7 +849,7 @@
         <para codify:path="(2)">
           <num>(2)</num>
           <text>Paragraph (2) is amended by striking the phrase "and section 9(a)(20)" and inserting the phrase "and section 9(a)(20); except, that the Mayor may extend an interim eligibility placement to coincide with the period of a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-753.02|(c-1)|(2)" codified:citation="§ 4-753.02" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>and <cite path="§4-754.11|(a)|(20)">§ 4-754.11(a)(20)</cite></find>
             <replace>and <code-cite doc="D.C. Code" path="§4-754.11|(a)|(20)">section 9(a)(20)</code-cite>; except, that the Mayor may extend an interim eligibility placement to coincide with the period of a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></replace>
           </codify:find-replace>
@@ -857,7 +857,7 @@
         <para codify:path="(3)">
           <num>(3)</num>
           <text>Paragraph (3) is amended by striking the phrase "within 12 days of the start of the interim eligibility placement" and inserting the phrase "within 12 days of the start of the interim eligibility placement; except, that during a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the Mayor shall have 10 business days following the end of the public health emergency to issue the eligibility determination required by this paragraph" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-753.02|(c-1)|(3)" codified:citation="§ 4-753.02" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>within 12 days of the start of the interim eligibility placement</find>
             <replace>within 12 days of the start of the interim eligibility placement; except, that during a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the Mayor shall have 10 business days following the end of the public health emergency to issue the eligibility determination required by this paragraph</replace>
           </codify:find-replace>
@@ -865,7 +865,7 @@
         <para codify:path="(4)">
           <num>(4)</num>
           <text>Paragraph (4) is amended by striking the phrase "start of an interim eligibility placement," and inserting the phrase "start of an interim eligibility placement, or as otherwise required by paragraph (3) of this subsection" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-753.02|(c-1)|(4)" codified:citation="§ 4-753.02" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>start of an interim eligibility placement,</find>
             <replace>start of an interim eligibility placement, or as otherwise required by paragraph (3) of this subsection</replace>
           </codify:find-replace>
@@ -874,7 +874,7 @@
       <para codify:path="§4-754.11|(a)|(14)">
         <num>(b)</num>
         <text>Section 9(a)(14) (D.C. Official Code § 4-754.11(a)(14)) is amended by striking the phrase "and other professionals" and inserting the phrase "and other professionals, except, that the Mayor may waive the requirements of this provision for in-person meetings and communications during a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-754.11|(a)|(14)" codified:citation="§ 4-754.11" codified:display="Amend">
+        <codify:find-replace count="1">
           <find>and other professionals</find>
           <replace>and other professionals, except, that the Mayor may waive the requirements of this provision for in-person meetings and communications during a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></replace>
         </codify:find-replace>
@@ -882,7 +882,7 @@
       <para codify:path="§4-754.12|(1)">
         <num>(c)</num>
         <text>Section 10(1) (D.C. Official Code § 4-754.12(1)) is amended by striking the phrase "established pursuant to section 18" and inserting the phrase "established pursuant to section 18; except, that the Mayor may waive this provision during a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-754.12|(1)" codified:citation="§ 4-754.12" codified:display="Amend">
+        <codify:find-replace count="1">
           <find>established pursuant to <cite path="§4-754.32">§ 4-754.32</cite></find>
           <replace>established pursuant to <code-cite doc="D.C. Code" path="§4-754.32">section 18</code-cite>; except, that the Mayor may waive this provision during a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite></replace>
         </codify:find-replace>
@@ -890,7 +890,7 @@
       <para codify:path="§4-754.33|(c-2)">
         <num>(d)</num>
         <text>Section 19(c-2) (D.C. Official Code § 4-754.33(c-2)) is amended by striking the phrase "served on the client." and inserting the phrase "served on the client; except, that during a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the Mayor may serve written notice via electronic transmission." in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-754.33|(c-2)" codified:citation="§ 4-754.33" codified:display="Amend">
+        <codify:find-replace count="1">
           <find>served on the client.</find>
           <replace>served on the client; except, that during a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the Mayor may serve written notice via electronic transmission.</replace>
         </codify:find-replace>
@@ -904,7 +904,7 @@
           <para codify:path="(A)">
             <num>(A)</num>
             <text>Subparagraph (A) is amended by striking the phrase "to the unit; or" and inserting the phrase "to the unit;" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-754.38|(f)|(1)|(A)" codified:citation="§ 4-754.38" codified:display="Amend">
+            <codify:find-replace count="1">
               <find>to the unit; or</find>
               <replace>to the unit;</replace>
             </codify:find-replace>
@@ -912,7 +912,7 @@
           <para codify:path="(B)">
             <num>(B)</num>
             <text>Subparagraph (B) is amended by striking the phrase "at the location" and inserting the phrase "at the location; or" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-754.38|(f)|(1)|(B)" codified:citation="§ 4-754.38" codified:display="Amend">
+            <codify:find-replace count="1">
               <find>at the location</find>
               <replace>at the location; or</replace>
             </codify:find-replace>
@@ -922,7 +922,7 @@
             <text>A new subparagraph (C) is added to read as follows:</text>
             <include lvl="2">
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§4-754.38|(f)|(1)|(C)" codified:citation="§ 4-754.38" codified:display="Amend"/>
+                <codify:insert/>
                 <num>(C)</num>
                 <text>During a period of time for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, to prevent or mitigate the spread of contagious disease, as determined by the Department or provider.</text>
               </para>
@@ -933,7 +933,7 @@
         <para codify:path="(2)">
           <num>(2)</num>
           <text>Paragraph (2) is amended by striking the phrase "to paragraph (1)(B)" and inserting the phrase "to paragraphs (1)(B) or (1)(C)" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§4-754.38|(f)|(2)" codified:citation="§ 4-754.38" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>to paragraph (1)(B)</find>
             <replace>to paragraphs (1)(B) or (1)(C)</replace>
           </codify:find-replace>
@@ -948,7 +948,7 @@
         <text>The Rental Housing Conversion and Sale Act of 1980, effective September 10, 1980 (D.C. Law 3-86, D.C. Official Code § 42-3401.01 <em>et seq.</em>), is amended by adding a new section 514 to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="42|34|V" num-value="42-3405.14" codified:doc="D.C. Code" codified:path="§42-3405.14" codified:citation="§ 42-3405.14" codified:display="New"/>
+            <codify:insert path="42|34|V" num-value="42-3405.14"/>
             <num>514</num>
             <text>All deadlines for tenants and tenant organizations to exercise rights under <code-cite doc="D.C. Code" path="42|34">this act</code-cite> that will occur during a period of time for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite> ("public health emergency"), are extended to a date 30 days following the end of the public health emergency.</text>
           </section>
@@ -964,7 +964,7 @@
           <para codify:path="(4)">
             <num>(A)</num>
             <text>Paragraph (4) is amended by striking the phrase "late fee;" and inserting the phrase "late fee; or" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3505.31|(c)|(4)" codified:citation="§ 42-3505.31" codified:display="Amend">
+            <codify:find-replace count="1">
               <find>late fee;</find>
               <replace>late fee; or</replace>
             </codify:find-replace>
@@ -972,7 +972,7 @@
           <para codify:path="(5)">
             <num>(B)</num>
             <text>Paragraph (5) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3505.31|(c)|(5)" codified:citation="§ 42-3505.31" codified:display="Amend">
+            <codify:find-replace count="1">
               <find>.</find>
               <replace>; or</replace>
             </codify:find-replace>
@@ -982,7 +982,7 @@
             <text>A new paragraph (6) is added to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§42-3505.31|(c)|(6)" codified:citation="§ 42-3505.31" codified:display="Amend"/>
+                <codify:insert/>
                 <num>(6)</num>
                 <text>Impose a late fee on a tenant during any month for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>.</text>
               </para>
@@ -994,7 +994,7 @@
           <text>A new section 910 is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="42|35|IX" num-value="42-3509.11" codified:doc="D.C. Code" codified:path="§42-3509.11" codified:citation="§ 42-3509.11" codified:display="New"/>
+              <codify:insert path="42|35|IX" num-value="42-3509.11"/>
               <num>910</num>
               <heading>Deadlines during a public health emergency.</heading>
               <text>All deadlines for tenants and tenant organizations to exercise rights under <code-cite doc="D.C. Code" path="42|35">this act</code-cite> that will occur during a period of time for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite> ("public health emergency"), are extended to a date 30 days following the end of the public health emergency.</text>
@@ -1008,7 +1008,7 @@
       <num>313</num>
       <heading>Good time credits.</heading>
       <text>Section 3c(c) of the District of Columbia Good Time Credits Act of 1986, effective May 17, 2011 (D.C. Law 18-732; D.C. Official Code § 24-221.01c(c)), is amended by striking the phrase "this section combined" and inserting the phrase "this section combined; except, that during a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the Department of Corrections shall have discretion to award additional credits beyond the limits described in this subsection to effectuate the immediate release of persons sentenced for misdemeanors, including pursuant to section 3 and this section, consistent with public safety.".</text>
-      <codify:find-replace path="§24-221.01c|(c)" count="1" codified:doc="D.C. Code" codified:path="§24-221.01c|(c)" codified:citation="§ 24-221.01c" codified:display="Amend">
+      <codify:find-replace path="§24-221.01c|(c)" count="1">
         <find>this section combined</find>
         <replace>this section combined; except, that during a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the Department of Corrections shall have discretion to award additional credits beyond the limits described in this subsection to effectuate the immediate release of persons sentenced for misdemeanors, including pursuant to <code-cite doc="D.C. Code" path="§24-221.01">section 3</code-cite> and this section, consistent with public safety.</replace>
       </codify:find-replace>
@@ -1019,7 +1019,7 @@
       <para codify:path="(1)">
         <num>(a)</num>
         <text>Paragraph (1) is amended by striking the phrase "Subsections (a), (b)," and inserting the phrase "Except as provided in paragraph (1A), subsections (a), (b)," in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-951.04|(l)|(1)" codified:citation="§ 44-951.04" codified:display="Amend">
+        <codify:find-replace count="1">
           <find>Subsections (a), (b),</find>
           <replace>Except as provided in paragraph (1A), subsections (a), (b),</replace>
         </codify:find-replace>
@@ -1029,7 +1029,7 @@
         <text>A new paragraph (1A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§44-951.04|(l)|(1A)" codified:citation="§ 44-951.04" codified:display="Amend"/>
+            <codify:insert after="(1)"/>
             <num>(1A)</num>
             <text>During the period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, subsections (a), (b), (c), (d), (e), and (f) of this section shall expire if:</text>
             <para>
@@ -1055,7 +1055,7 @@
       <text>Section 206 of the Student Promotion Act of 2013, effective February 22, 2014 (D.C. Law 20-84; D.C. Official Code § 38-781.05), is amended by adding a new subsection (c) to read as follows:</text>
       <include>
         <para>
-          <codify:insert doc="D.C. Code" path="§38-781.05" codified:doc="D.C. Code" codified:path="§38-781.05|(c)" codified:citation="§ 38-781.05" codified:display="Amend"/>
+          <codify:insert doc="D.C. Code" path="§38-781.05"/>
           <num>(c)</num>
           <text>The Chancellor shall have the authority to waive the requirements of subsection (a) of this section for any student who fails to meet the promotion criteria specified in the DCMR during a school year that includes a period of time for which the Mayor declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>.</text>
         </para>
@@ -1065,7 +1065,7 @@
     <section>
       <num>402</num>
       <text>Section 104(d)(2) of the District of Columbia Education Research Practice Partnership Establishment and Audit Act of 2018, effective March 28, 2019 (D.C. Law 22-268; D.C. Official Code § 38-785.03(d)(2)), is amended by striking the phrase "timely manner" and inserting the phrase "timely manner; except, that upon the declaration of a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the meeting of the review panel shall be postponed until 7 business days following the end of the period of time for which the public health emergency was declared" in its place.</text>
-      <codify:find-replace doc="D.C. Code" path="§38-785.03|(d)|(2)" count="1" codified:doc="D.C. Code" codified:path="§38-785.03|(d)|(2)" codified:citation="§ 38-785.03" codified:display="Amend">
+      <codify:find-replace doc="D.C. Code" path="§38-785.03|(d)|(2)" count="1">
         <find>timely manner</find>
         <replace>timely manner; except, that upon the declaration of a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the meeting of the review panel shall be postponed until 7 business days following the end of the period of time for which the public health emergency was declared</replace>
       </codify:find-replace>
@@ -1084,7 +1084,7 @@
         <para codify:path="(1)">
           <num>(1)</num>
           <text>Paragraph (1) is amended by striking the phrase "by the Commission." and inserting the phrase "by the Commission; provided, that no meetings shall be required to be held during a period for which a public health emergency has been declared by the Mayor pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, and the number of meetings required to be held in a given year shall be reduced by one for every 30 days that a public health emergency is in effect during the year.".</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-309.11|(b)|(1)" codified:citation="§ 1-309.11" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>by the Commission.</find>
             <replace>by the Commission; provided, that no meetings shall be required to be held during a period for which a public health emergency has been declared by the Mayor pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, and the number of meetings required to be held in a given year shall be reduced by one for every 30 days that a public health emergency is in effect during the year.</replace>
           </codify:find-replace>
@@ -1094,7 +1094,7 @@
           <text>A new paragraph (1B) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(1A)" codified:doc="D.C. Code" codified:path="§1-309.11|(b)|(1B)" codified:citation="§ 1-309.11" codified:display="Amend"/>
+              <codify:insert after="(1A)"/>
               <num>(1B)</num>
               <text>Notwithstanding any other provision of law, during a period for which a public health emergency has been declared by the Mayor pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, Advisory Neighborhood Commissioners may call a meeting and remotely participate in that meeting and vote on matters before the Commission without being physically present through a teleconference or through digital means identified by the Commission for this purpose.  Members physically or remotely present shall be counted for determination of a quorum.</text>
             </para>
@@ -1103,7 +1103,7 @@
         </para>
       </para>
     </section>
-    <codify:insert doc="D.C. Code" path="3" before="1" history="false" codified:doc="D.C. Code" codified:path="3|0" codified:citation="Chapter 0 of Title 3" codified:display="New">
+    <codify:insert doc="D.C. Code" path="3" before="1" history="false">
       <container>
         <prefix>Chapter</prefix>
         <num>0</num>
@@ -1111,7 +1111,7 @@
       </container>
     </codify:insert>
     <section>
-      <codify:insert doc="D.C. Code" path="3|0" num-value="3-001" codified:doc="D.C. Code" codified:path="§3-001" codified:citation="§ 3-001" codified:display="New"/>
+      <codify:insert doc="D.C. Code" path="3|0" num-value="3-001"/>
       <num>502</num>
       <heading>Other boards and commissions.</heading>
       <text>Notwithstanding any provision of law, during a period time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>:</text>
@@ -1141,7 +1141,7 @@
           <para codify:path="(1)">
             <num>(A)</num>
             <text>Paragraph (1) is amended by striking the phrase "Sundays, and" and inserting the phrase "Sundays, days of a COVID-19 closure, and" in its place</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-532|(c)|(1)" codified:citation="§ 2-532" codified:display="Amend">
+            <codify:find-replace count="1">
               <find>Sundays, and</find>
               <replace>Sundays, days of a COVID-19 closure, and</replace>
             </codify:find-replace>
@@ -1149,7 +1149,7 @@
           <para codify:path="(2)|(A)">
             <num>(B)</num>
             <text>Paragraph (2)(A) is amended by striking the phrase "Sundays, and" and inserting the phrase "Sundays, days of a COVID-19 closure, and" in its place</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-532|(c)|(2)|(A)" codified:citation="§ 2-532" codified:display="Amend">
+            <codify:find-replace count="1">
               <find>Sundays, and</find>
               <replace>Sundays, days of a COVID-19 closure, and</replace>
             </codify:find-replace>
@@ -1158,7 +1158,7 @@
         <para codify:path="(d)|(1)">
           <num>(2)</num>
           <text>Subsection (d)(1) is amended by striking the phrase "Sundays, and" both times it appears and inserting the phrase "Sundays, days of a COVID-19 closure, and" in its place.</text>
-          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§2-532|(d)|(1)" codified:citation="§ 2-532" codified:display="Amend">
+          <codify:find-replace count="2">
             <find>Sundays, and</find>
             <replace>Sundays, days of a COVID-19 closure, and</replace>
           </codify:find-replace>
@@ -1167,7 +1167,7 @@
       <para>
         <num>(b)</num>
         <text>Section 207(a) (D.C. Official Code § 2-537(a)) is amended by striking the phrase "Sundays, and" and inserting the phrase "Sundays, days of a COVID-19 closure, and" in its place.</text>
-        <codify:find-replace path="§2-537|(a)" count="1" codified:doc="D.C. Code" codified:path="§2-537|(a)" codified:citation="§ 2-537" codified:display="Amend">
+        <codify:find-replace path="§2-537|(a)" count="1">
           <find>Sundays, and</find>
           <replace>Sundays, days of a COVID-19 closure, and</replace>
         </codify:find-replace>
@@ -1177,7 +1177,7 @@
         <text>Section 209 (D.C. Official Code § 2-539) is amended by adding a new subsection (c) to read as follows:</text>
         <include>
           <para>
-            <codify:insert path="§2-539" codified:doc="D.C. Code" codified:path="§2-539|(c)" codified:citation="§ 2-539" codified:display="Amend"/>
+            <codify:insert path="§2-539"/>
             <num>(c)</num>
             <text>"COVID-19 closure" means:</text>
             <para>
@@ -1202,7 +1202,7 @@
         <para codify:path="(2)">
           <num>(1)</num>
           <text>Paragraph (2) is amended by striking the phrase "; or" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-575|(a)|(2)" codified:citation="§ 2-575" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>; or</find>
             <replace>;</replace>
           </codify:find-replace>
@@ -1210,7 +1210,7 @@
         <para codify:path="(3)">
           <num>(2)</num>
           <text>Paragraph (3) is amended by striking the period and inserting the phrase "; or" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-575|(a)|(3)" codified:citation="§ 2-575" codified:display="Amend">
+          <codify:find-replace count="1">
             <find>.</find>
             <replace>; or</replace>
           </codify:find-replace>
@@ -1220,7 +1220,7 @@
           <text>A new paragraph (4) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§2-575|(a)|(4)" codified:citation="§ 2-575" codified:display="Amend"/>
+              <codify:insert/>
               <num>(4)</num>
               <text>During a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the public body takes steps reasonably calculated to allow the public to view or hear the meeting while the meeting is taking place, or, if doing so is not technologically feasible, as soon as reasonably practicable thereafter.</text>
             </para>
@@ -1233,7 +1233,7 @@
         <text>Section 406 (D.C. Official Code § 2-576) is amended by adding a new paragraph (6) to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert path="§2-576" codified:doc="D.C. Code" codified:path="§2-576|(6)" codified:citation="§ 2-576" codified:display="Amend"/>
+            <codify:insert path="§2-576"/>
             <num>(6)</num>
             <text>The public posting requirements of paragraph (2)(A) of this section shall not apply during a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>.</text>
           </para>
@@ -1243,7 +1243,7 @@
       <para>
         <num>(c)</num>
         <text>Section 407(a)(1) (D.C. Official Code § 2-577(a)(1)) is amended by striking the phrase "attend the meeting;" and inserting the phrase "attend the meeting, or in the case of a meeting held during a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, steps are taken that are reasonably calculated to allow the public to view or hear the meeting while the meeting is taking place, or, if doing so is not technologically feasible, as soon as soon as reasonably practicable thereafter.".</text>
-        <codify:find-replace path="§2-577|(a)|(1)" count="1" codified:doc="D.C. Code" codified:path="§2-577|(a)|(1)" codified:citation="§ 2-577" codified:display="Amend">
+        <codify:find-replace path="§2-577|(a)|(1)" count="1">
           <find>attend the meeting;</find>
           <replace>attend the meeting, or in the case of a meeting held during a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, steps are taken that are reasonably calculated to allow the public to view or hear the meeting while the meeting is taking place, or, if doing so is not technologically feasible, as soon as soon as reasonably practicable thereafter.</replace>
         </codify:find-replace>
@@ -1253,7 +1253,7 @@
         <text>Section 408(b) (D.C. Official Code § 2-578(b)) is amended by adding a new paragraph (3) to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert path="§2-578|(b)" codified:doc="D.C. Code" codified:path="§2-578|(b)|(3)" codified:citation="§ 2-578" codified:display="Amend"/>
+            <codify:insert path="§2-578|(b)"/>
             <num>(3)</num>
             <text>The schedule provided in paragraphs (1) and (2) of this subsection shall be tolled during a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>.</text>
           </para>
@@ -1313,7 +1313,7 @@
       <num>701</num>
       <heading>Applicability.</heading>
       <text>This act shall apply as of March 11, 2020.</text>
-      <codify:annotation doc="D.C. Act 23-247" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§1-309.11|(b)|(1)" codified:citation="§ 1-309.11" codified:display="Note"><cite doc="D.C. Act 23-247" path="§701">Section 701 of D.C. Act 23-247</cite> provided that changes made to this section by D.C. Act 23-247 shall apply as of March 11, 2020.
+      <codify:annotation doc="D.C. Act 23-247" type="Applicability" history="false"><cite doc="D.C. Act 23-247" path="§701">Section 701 of D.C. Act 23-247</cite> provided that changes made to this section by D.C. Act 23-247 shall apply as of March 11, 2020.
       </codify:annotation>
     </section>
     <section>
