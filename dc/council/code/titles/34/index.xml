@@ -422,6 +422,13 @@
         <xi:include href="./sections/34-1264.06.xml"/>
       </container>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>Cable Service During a Public Health Emergency.</heading>
+      <annotation app="2020-03-26" doc="D.C. Act 23-280" eff="2020-03-26" path="II" type="History" display="false"/>
+      <xi:include href="./sections/34-1261.01.xml"/>
+    </container>
   </container>
   <subheading>Subtitle III. Electricity.</subheading>
   <container>
@@ -730,6 +737,7 @@
     <heading>Telecommunications Competition.</heading>
     <xi:include href="./sections/34-2001.xml"/>
     <xi:include href="./sections/34-2002.xml"/>
+    <xi:include href="./sections/34-2002.01.xml"/>
     <xi:include href="./sections/34-2003.xml"/>
     <xi:include href="./sections/34-2003.01.xml"/>
     <xi:include href="./sections/34-2004.xml"/>
