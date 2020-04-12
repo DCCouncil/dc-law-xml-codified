@@ -185,7 +185,7 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>8B<annotation app="2020-03-26" doc="D.C. Act 23-280" eff="2020-03-26" path="§202" type="History" display="false"/></num>
+    <num>8B<annotation app="2020-03-26" doc="D.C. Act 23-280" eff="2020-03-26" path="II" type="History" display="false"/></num>
     <heading>Mortgages, Deeds of Trust, and Foreclosure. [Repealed].</heading>
     <container>
       <prefix>Subchapter</prefix>
@@ -1530,11 +1530,7 @@
       <xi:include href="./sections/42-3509.08.xml"/>
       <xi:include href="./sections/42-3509.09.xml"/>
       <xi:include href="./sections/42-3509.11.xml"/>
-      <para>
-        <num>[42-3509.12]</num>
-        <text>Notwithstanding any other provision of law, a rent increase for a residential property not prohibited by the provisions of section 904(c) of the Rental Housing Act of 1985, effective July 17, 1985 (D.C. Law 6-10; D.C. Official Code § 42-3509.04(c)), shall be prohibited during a period for which a public health emergency has been declared pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), and for 30 days thereafter.</text>
-        <annotation app="2020-03-26" doc="D.C. Act 23-280" eff="2020-03-26" path="§203|(d)" type="History"/>
-      </para>
+      <xi:include href="./sections/[42-3509.12].xml"/>
     </container>
   </container>
   <container>

@@ -1457,6 +1457,13 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>III-A</num>
+      <heading>Review Period for any Matter Transmitted to the Council for Approval or Disapproval During a Public Health Emergency.</heading>
+      <annotation app="2020-03-26" doc="D.C. Act 23-280" eff="2020-03-26" path="V" type="History" display="false"/>
+      <xi:include href="./sections/1-523.11.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>IV</num>
       <heading>Modifications of Board of Education Reduction-In-Force Procedures.</heading>
       <xi:include href="./sections/1-525.01.xml"/>
