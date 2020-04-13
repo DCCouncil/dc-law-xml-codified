@@ -179,13 +179,6 @@
   <container>
     <prefix>Chapter</prefix>
     <num>8A</num>
-    <heading>Mortgage Relief During a Public Health Emergency.</heading>
-    <annotation app="2020-03-26" doc="D.C. Act 23-280" eff="2020-03-26" path="§202" type="History" display="false"/>
-    <xi:include href="./sections/42-825.01.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>8B<annotation app="2020-03-26" doc="D.C. Act 23-280" eff="2020-03-26" path="II" type="History" display="false"/></num>
     <heading>Mortgages, Deeds of Trust, and Foreclosure. [Repealed].</heading>
     <container>
       <prefix>Subchapter</prefix>
@@ -1374,7 +1367,6 @@
       <xi:include href="./sections/42-3405.09.xml"/>
       <xi:include href="./sections/42-3405.10.xml"/>
       <xi:include href="./sections/42-3405.10a.xml"/>
-      <xi:include href="./sections/42-3405.10b.xml"/>
       <xi:include href="./sections/42-3405.11.xml"/>
       <xi:include href="./sections/42-3405.12.xml"/>
       <xi:include href="./sections/42-3405.13.xml"/>
@@ -1530,7 +1522,6 @@
       <xi:include href="./sections/42-3509.08.xml"/>
       <xi:include href="./sections/42-3509.09.xml"/>
       <xi:include href="./sections/42-3509.11.xml"/>
-      <xi:include href="./sections/[42-3509.12].xml"/>
     </container>
   </container>
   <container>

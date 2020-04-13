@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3509.11</num>
-  <heading>Tolling of tenant deadlines during a public health emergency.</heading>
-  <text>The running of all time periods for tenants and tenant organizations to exercise rights under this act or under chapters 38 through 43 of Title 14 of the District of Columbia Municipal Regulations (14 DCMR §§ 3800 through 4399), shall be tolled during a period for which a public health emergency has been declared pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, and for 30 days thereafter.</text>
+  <heading>Deadlines during a public health emergency.</heading>
+  <text>All deadlines for tenants and tenant organizations to exercise rights under <cite path="42|35">this chapter</cite> that will occur during a period of time for which a public health emergency has been declared pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite> ("public health emergency"), are extended to a date 30 days following the end of the public health emergency.</text>
   <annotations>
     <annotation doc="D.C. Act 23-247" type="Applicability" history="false" app="2020-03-17" eff="2020-03-17" path="§701"><cite doc="D.C. Act 23-247" path="§701">Section 701 of D.C. Act 23-247</cite> provided that changes made to this section by D.C. Act 23-247 shall apply as of March 11, 2020.
       </annotation>
     <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§701" type="History" display="false"/>
     <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§312|(b)|(2)" type="History"/>
-    <annotation app="2020-03-26" doc="D.C. Act 23-280" eff="2020-03-26" path="§203|(c)|(5)" type="History"/>
   </annotations>
 </section>
