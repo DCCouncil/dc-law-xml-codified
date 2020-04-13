@@ -1,17 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <codify:insert doc="D.C. Code" path="42" after="8" history="false" codified:doc="D.C. Code" codified:path="42|8A">
-    <container>
-      <prefix>Chapter</prefix>
-      <num>8A</num>
-      <heading>Mortgage Relief During a Public Health Emergency.</heading>
-    </container>
-  </codify:insert>
   <num>42-825.01</num>
   <heading>Mortgage relief.</heading>
   <para>
     <num>(a)</num>
-    <text>In accordance with [<cite path="§7-2304|(b)|(15)">§ 7-2304(b)(15)</cite>], and notwithstanding the any provision of the Mortgage Lender and Broker Act of 1996, effective September 9, 1996 (D.C. Law 11-155; D.C. Official Code § 26-1101 <em>et seq.</em>) ("Mortgage Lender Act"), or any other provision of District law, during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, and for 60 days thereafter, a mortgage servicer that holds mortgage servicing rights to a residential mortgage loan or commercial mortgage loan under the jurisdiction of the Commissioner of the Department of Insurance, Securities, and Banking, shall develop a deferment program for borrowers that, at a minimum:</text>
+    <text>In accordance with [<cite path="§7-2304|(b)|(15)">§ 7-2304(b)(15)</cite>], and notwithstanding the any provision of <cite path="26|11">Chapter 11 of Title 26</cite>, or any other provision of District law, during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, and for 60 days thereafter, a mortgage servicer that holds mortgage servicing rights to a residential mortgage loan or commercial mortgage loan under the jurisdiction of the Commissioner of the Department of Insurance, Securities, and Banking, shall develop a deferment program for borrowers that, at a minimum:</text>
     <para>
       <num>(1)</num>
       <text>Grants at least a 90-day deferment period of mortgage payments for borrowers;</text>
@@ -117,7 +110,7 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2020-04-10" doc="D.C. Act 23-286" eff="2020-04-10" path="§202" type="History" display="false"/>
+    <annotation app="2020-04-10" doc="D.C. Act 23-286" eff="2020-04-10" path="II" type="History" display="false"/>
     <annotation app="2020-04-10" doc="D.C. Act 23-286" eff="2020-04-10" path="§202" type="History"/>
   </annotations>
 </section>
