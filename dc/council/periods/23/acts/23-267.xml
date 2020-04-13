@@ -596,6 +596,7 @@
     <text>The  Department of Health Functions Clarification Act of 2001, effective October 3, 2001 (D.C. Law 14-28; D.C. Official Code § 7-741.01 <em>et seq</em>.), is amended by adding a new section 4949 to read as follows:</text>
     <include>
       <section>
+        <codify:insert doc="D.C. Code" path="7|7A|IV" num-value="7-743.09" codified:doc="D.C. Code" codified:path="§7-743.09"/>
         <num>4949</num>
         <heading>Advisory Committee on Certified Professional Midwives.</heading>
         <para>
@@ -715,6 +716,10 @@
   <section>
     <num>4</num>
     <text>Section 2(6) of the District of Columbia Health Professional Recruitment Program Act of 2005, effective March 8, 2006 (D.C. Law 16-71; D.C. Official Code § 7-751.01(6)), is amended by striking the phrase "nurse midwives, certified registered nurse practitioners" and inserting the phrase "nurse midwives, certified professional midwives, certified registered nurse practitioners" in its place.</text>
+    <codify:find-replace doc="D.C. Code" path="§7-751.01|(6)" count="1" codified:doc="D.C. Code" codified:path="§7-751.01|(6)">
+      <find>nurse midwives, certified registered nurse practitioners</find>
+      <replace>nurse midwives, certified professional midwives, certified registered nurse practitioners</replace>
+    </codify:find-replace>
   </section>
   <section>
     <num>5</num>
