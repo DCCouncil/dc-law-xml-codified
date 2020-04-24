@@ -1220,6 +1220,19 @@
     <heading>Landlord and Tenant.</heading>
     <xi:include href="./sections/42-3201.xml"/>
     <xi:include href="./sections/42-3202.xml"/>
+    <xi:include href="./sections/[42-3202.01].xml"/>
+    <para>
+      <num>42-3202.01</num>
+      <text>Notwithstanding any other provision of law, a rent increase for a commercial property shall be prohibited during a period for which a public health emergency has been declared pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), and for 30 days thereafter.</text>
+      <codify:insert doc="D.C. Code" path="42|32" after="§42-3202" codified:doc="D.C. Code" codified:path="§[42-3202.01]">
+        <section>
+          <num>[42-3202.01]</num>
+          <heading>Prohibition on commercial property rent increases during a period of public health emergency.</heading>
+          <text>Notwithstanding any other provision of law, a rent increase for a commercial property shall be prohibited during a period for which a public health emergency has been declared pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, and for 30 days thereafter.</text>
+        </section>
+      </codify:insert>
+      <annotation app="2020-04-21" doc="D.C. Act 23-283" eff="2020-04-21" path="§2|(b)" type="History"/>
+    </para>
     <xi:include href="./sections/42-3203.xml"/>
     <xi:include href="./sections/42-3204.xml"/>
     <xi:include href="./sections/42-3205.xml"/>
