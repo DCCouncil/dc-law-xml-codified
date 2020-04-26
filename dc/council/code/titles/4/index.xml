@@ -1222,4 +1222,16 @@
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="III" type="History" display="false"/>
     <xi:include href="./sections/4-1901.xml"/>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>20</num>
+    <heading>Direct Services to Individuals with Intellectual and Developmental Disabilities.</heading>
+    <annotation app="2020-04-16" doc="D.C. Law 23-77" eff="2020-04-16" path="" type="History" display="false"/>
+    <xi:include href="./sections/4-2001.xml"/>
+    <xi:include href="./sections/4-2002.xml"/>
+    <xi:include href="./sections/4-2003.xml"/>
+    <xi:include href="./sections/4-2004.xml"/>
+    <xi:include href="./sections/4-2005.xml"/>
+    <xi:include href="./sections/4-2006.xml"/>
+  </container>
 </container>

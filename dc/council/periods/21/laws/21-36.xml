@@ -587,7 +587,7 @@
           <para>
             <num>(1)</num>
             <text>Subsection (a) is amended by striking the phrase "no food service business shall" and inserting the phrase "no food service entity shall" in its place.</text>
-            <codify:find-replace path="(a)" count="1" codified:doc="D.C. Code" codified:path="§8-1532|(a)">
+            <codify:find-replace path="(a)" count="1" codified:doc="D.C. Code" codified:path="§8-1532|(a)|(1)">
               <find>no food service business shall</find>
               <replace>no food service entity shall</replace>
             </codify:find-replace>

@@ -2,15 +2,6 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>38-651.02</num>
   <heading>Possession and self-administration of medication.</heading>
-  <text>A student may possess and self-administer medication at the school in which the student is currently enrolled, at school-sponsored activities, and while on school-sponsored transportation, in order to treat asthma, anaphylaxis, or other illness; provided, that:</text>
-  <para>
-    <num>(1)</num>
-    <text>The responsible person has submitted a valid medication action plan to the school; and</text>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>All other conditions set forth in this subchapter are met.</text>
-  </para>
   <annotations>
     <annotation doc="D.C. Law 17-107" type="History" path="§3">Feb. 2, 2008, D.C. Law 17-107, § 3, 54 DCR 12230</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 3 of Student Access to Treatment Congressional Review Emergency Act of 2007 (D.C. Act 17-140, October 17, 2007,  54 DCR 10736).</annotation>
@@ -23,5 +14,30 @@
     <annotation type="Temporary Legislation">Section 3 of Law 17-52 added a section to read as follows:</annotation>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-34" path="§2|(b)" codified:display="Note" app="2019-12-24" eff="2019-12-24">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-34" path="§2|(b)">§ 2(b) of School Sunscreen Safety Temporary Amendment Act of 2019 (D.C. Law 23-34, Dec. 24, 2019, 66 DCR 14300)</cite>.</annotation>
     <annotation app="2019-12-24" doc="D.C. Law 23-34" eff="2019-12-24" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2020-04-16" doc="D.C. Law 23-81" eff="2020-04-16" path="§3|(b)|(1)" type="History"/>
+    <annotation app="2020-04-16" doc="D.C. Law 23-81" eff="2020-04-16" path="§3|(b)|(2)" type="History"/>
   </annotations>
+  <para>
+    <num>(a)</num>
+    <text>A student may possess and self-administer medication at the school in which the student is currently enrolled, at school-sponsored activities, and while on school-sponsored transportation, in order to treat asthma, anaphylaxis, or other illness; provided, that:</text>
+    <para>
+      <num>(1)</num>
+      <text>The responsible person has submitted a valid medication action plan to the school; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>All other conditions set forth in this subchapter are met.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>A student may possess and self-administer sunscreen at the school in which the student is currently enrolled, at school-sponsored activities, and while on school-sponsored transportation to protect against ultraviolet radiation and sunburn without the submission of a medication action plan; provided, that the responsible person has not provided written notice to the school principal or school nurse that the student may not possess or self-administer sunscreen.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>School staff may administer sunscreen to a student at the school in which the student is currently enrolled, at school-sponsored activities, and while on school-sponsored transportation to protect against ultraviolet radiation and sunburn without the school possessing a medication action plan for that student; provided, that the student or responsible person has provided sunscreen for that purpose and the responsible person has not provided written notice to the school principal or school nurse that the student may not use sunscreen.</text>
+    </para>
+  </para>
 </section>
