@@ -74,7 +74,10 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:marginalia display="DCMR"/>
+    <codify:find-replace doc="D.C. Code" path="§2-553" count="1" history="false" display-template="DCMR" codified:doc="D.C. Code" codified:path="§2-553">
+      <find>Documents</find>
+      <replace>Documents</replace>
+    </codify:find-replace>
   </section>
   <section>
     <num>4</num>

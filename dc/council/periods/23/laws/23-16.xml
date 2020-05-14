@@ -7149,7 +7149,10 @@
           </subsection>
         </include>
         <aftertext>.</aftertext>
-        <codify:marginalia display="DCMR"/>
+        <codify:find-replace doc="D.C. Code" path="§2-553" count="1" history="false" display-template="DCMR" codified:doc="D.C. Code" codified:path="§2-553">
+          <find>Documents</find>
+          <replace>Documents</replace>
+        </codify:find-replace>
       </section>
     </container>
     <container>
@@ -7282,7 +7285,10 @@
       <section>
         <num>6102</num>
         <text>Section 2414.5 of Title 18 of the District of Columbia Municipal Regulations is amended by striking the phrase "Chief of Police" both times it appears and inserting the phrase "Director of the District Department of Transportation" in its place.</text>
-        <codify:marginalia display="DCMR"/>
+        <codify:find-replace doc="D.C. Code" path="§2-553" count="1" history="false" display-template="DCMR" codified:doc="D.C. Code" codified:path="§2-553">
+          <find>Documents</find>
+          <replace>Documents</replace>
+        </codify:find-replace>
       </section>
       <section>
         <num>6103</num>
@@ -8956,19 +8962,12 @@
       <section>
         <num>7146</num>
         <text>Section 6(a) of the Senior Dental Services Program Act of 2018, effective June 5, 2018 (D.C. Law 22-108; D.C. Official Code § 7-533.05(a)), is amended by striking the phrase "This act" and inserting the phrase "Starting in Fiscal Year 2021, this act" in its place.</text>
-        <codify:replace doc="D.C. Code" path="§7-533.05|(a)" count="1" codified:doc="D.C. Code" codified:path="§7-533.05|(a)">
-          <para>
-            <num>(a)</num>
-            <text>Starting in Fiscal Year 2021, <code-cite doc="D.C. Code" path="7|5|II-A">This act</code-cite> shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-          </para>
-        </codify:replace>
-        <codify:replace doc="D.C. Code" path="§7-533.05|(a)" count="1" applicability="2020-10-01" codified:doc="D.C. Code" codified:path="§7-533.05|(a)">
-          <para>
-            <num>(a)</num>
-            <text>Starting in Fiscal Year 2021, <code-cite doc="D.C. Code" path="7|5|II-A">This act</code-cite> shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-            <codify:applicability doc="D.C. Law 22-108" date="notfunded" history="false"/>
-          </para>
-        </codify:replace>
+        <codify:find-replace doc="D.C. Code" path="§7-533.05|(a)" count="1" codified:doc="D.C. Code" codified:path="§7-533.05|(a)">
+          <find>
+            <code-cite doc="D.C. Code" path="7|5|II-A">This act</code-cite>
+          </find>
+          <replace>Starting in Fiscal Year 2021, <code-cite doc="D.C. Code" path="7|5|II-A">this act</code-cite></replace>
+        </codify:find-replace>
         <codify:annotation doc="D.C. Code" path="§7-533.01" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§7-533.01">
         Applicability of <cite doc="D.C. Law 22-108">D.C. Law 22-108</cite>: <cite doc="D.C. Law 23-16" path="§7146">§ 7146 of D.C. Law 23-16</cite> provided that starting in Fiscal Year 2021 this section shall be subject to appropriations. Therefore the creation of this section by <cite doc="D.C. Law 22-108">D.C. Law 22-108</cite> has been implemented.
         </codify:annotation>

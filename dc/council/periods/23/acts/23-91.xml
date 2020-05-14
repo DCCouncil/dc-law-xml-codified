@@ -6125,7 +6125,10 @@
           </subsection>
         </include>
         <aftertext>.</aftertext>
-        <codify:marginalia display="DCMR"/>
+        <codify:find-replace doc="D.C. Code" path="§2-553" count="1" history="false" display-template="DCMR" codified:doc="D.C. Code" codified:path="§2-553">
+          <find>Documents</find>
+          <replace>Documents</replace>
+        </codify:find-replace>
       </section>
     </container>
     <container>
@@ -6247,7 +6250,10 @@
       <section>
         <num>6102</num>
         <text>Section 2414.5 of Title 18 of the District of Columbia Municipal Regulations is amended by striking the phrase "Chief of Police" both times it appears and inserting the phrase "Director of the District Department of Transportation" in its place.</text>
-        <codify:marginalia display="DCMR"/>
+        <codify:find-replace doc="D.C. Code" path="§2-553" count="1" history="false" display-template="DCMR" codified:doc="D.C. Code" codified:path="§2-553">
+          <find>Documents</find>
+          <replace>Documents</replace>
+        </codify:find-replace>
       </section>
       <section>
         <num>6103</num>
