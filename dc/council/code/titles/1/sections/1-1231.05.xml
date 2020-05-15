@@ -2,9 +2,58 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1231.05</num>
   <heading>Personal appearance required.</heading>
-  <text>If a notarial act relates to a statement made in or a signature executed on a record, the individual making the statement or executing the signature shall appear personally before the notarial officer.</text>
+  <para>
+    <num>(a)</num>
+    <text>If a notarial act relates to a statement made in or a signature executed on a record, the individual making the statement or executing the signature shall appear personally before the notarial officer.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Notwithstanding any provision of District law, during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), the Mayor may authorize, without the personal appearance of the individual making the statement or executing the signature, notarial acts required or permitted under District law if:</text>
+    <para>
+      <num>(1)</num>
+      <text>The notary public and the individual communicate with each other simultaneously by sight and sound using audio-video communication; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The notary public:</text>
+      <para>
+        <num>(A)</num>
+        <text>Has notified the Mayor of the intention to perform notarial acts using audio-video communication and the identity of the audio-video communication the notary public intends to use;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Has satisfactory evidence of the identity of the individual by personal knowledge or by the individual's presentation of a current government-issued identification that contains the signature and photograph of the individual to the notary public during the video conference;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Confirms that the individual made a statement or executed a signature on a document;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Receives by electronic means a legible copy of the signed document directly from the individual immediately after it was signed;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Upon receiving the signed document, immediately completes the notarization;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Upon completing the notarization, immediately transmits by electronic means the notarized document to the individual;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Creates, or directs another person to create, and retains an audio-visual recording of the performance of the notarial act for 3 years from the date of the notarial act; and</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Indicates on a certificate of the notarial act and in a journal that the individual was not in the physical presence of the notary public and that the notarial act was performed using audio-visual communication.</text>
+      </para>
+    </para>
+  </para>
   <annotations>
     <annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="" type="History" display="false"/>
     <annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="§6" type="History"/>
+    <annotation app="2020-05-13" doc="D.C. Act 23-317" eff="2020-05-13" path="§23|(b)|(1)" type="History"/>
+    <annotation app="2020-05-13" doc="D.C. Act 23-317" eff="2020-05-13" path="§23|(b)|(2)" type="History"/>
   </annotations>
 </section>
