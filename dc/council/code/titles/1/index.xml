@@ -676,6 +676,14 @@
         <heading>Office of the Deputy Mayor for Public Safety and Justice.</heading>
         <xi:include href="./sections/1-301.191.xml"/>
       </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>M</num>
+        <heading>Office of Resilience and Recovery.</heading>
+        <annotation app="2020-05-06" doc="D.C. Law 23-84" eff="2020-05-06" path="" type="History" display="false"/>
+        <xi:include href="./sections/1-301.201.xml"/>
+        <xi:include href="./sections/1-301.202.xml"/>
+      </container>
     </container>
     <container>
       <prefix>Subchapter</prefix>

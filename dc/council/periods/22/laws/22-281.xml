@@ -110,7 +110,7 @@
         <text>A new paragraph (27A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(27)" codified:doc="D.C. Code" codified:path="§2-1401.02|(27A)"/>
+            <codify:insert after="(27)" codified:doc="D.C. Code" codified:path="§2-1401.02|(27B)"/>
             <num>(27A)</num>
             <text>"Sexual offense" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§4-555.01|(15)">section 101(15) of the Address Confidentiality Act of 2018, effective July 3, 2018 (D.C. Law 22-118; D.C. Official Code § 4-555.01(15))</code-cite>.</text>
           </para>
@@ -148,7 +148,7 @@
         <para codify:path="(1)">
           <num>(B)</num>
           <text>Paragraph (1) is amended by striking the word "his" wherever it appears and inserting the phrase "his or her" in its place.</text>
-          <codify:find-replace count="3" codified:doc="D.C. Code" codified:path="§2-1402.11|(a)|(1)">
+          <codify:find-replace count="3" codified:doc="D.C. Code" codified:path="§2-1402.11|(a)|(1)|(A)">
             <find>his</find>
             <replace>his or hers</replace>
           </codify:find-replace>
