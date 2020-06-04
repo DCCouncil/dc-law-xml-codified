@@ -177,6 +177,13 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>3A</num>
+    <heading>Limitation of Healthcare Provider Liability Related to COVID-19 Treatment.</heading>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="VII" type="History" display="false"/>
+    <xi:include href="./sections/7-311.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>4</num>
     <heading>Limitation on Liability for Medical Care or Assistance in Emergency Situations.</heading>
     <xi:include href="./sections/7-401.xml"/>
@@ -416,6 +423,13 @@
           Applicability of <cite doc="D.C. Law 22-238">D.C. Law 22-238</cite>: <cite doc="D.C. Law 23-16" path="§7159">§ 7159 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-238" path="§4">§ 4 of D.C. Law 22-238</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-238">D.C. Law 22-238</cite> has been implemented.
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7159" type="History" display="false"/>
+    <xi:include href="./sections/7-691.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6E</num>
+    <heading>Long-Term Care Facility reporting during a public health emergency.</heading>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="V" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1635,10 +1649,7 @@
     <prefix>Chapter</prefix>
     <num>23A-i</num>
     <heading>Mayoral Authority Regarding Licenses and Registrations During Public Health Emergency.</heading>
-    <annotation doc="D.C. Act 23-247" type="Applicability" history="false" app="2020-03-17" eff="2020-03-17" path="§701" display="false"><cite doc="D.C. Act 23-247" path="§701">Section 701 of D.C. Act 23-247</cite> provided that changes made to this section by D.C. Act 23-247 shall apply as of March 11, 2020.
-      </annotation>
-    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§701" type="History" display="false"/>
-    <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="III" type="History" display="false"/>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="III" type="History" display="false"/>
     <xi:include href="./sections/7-2335.xml"/>
   </container>
   <container>

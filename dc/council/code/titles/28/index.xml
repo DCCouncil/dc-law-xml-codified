@@ -1161,12 +1161,18 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>III</num>
-      <heading>Consumer Security Freeze [and COVID-19 alert].<annotation app="2020-05-13" doc="D.C. Act 23-317" eff="2020-05-13" path="§7|38|(a)" type="History"/></heading>
+      <heading>Consumer Security Freeze.</heading>
       <xi:include href="./sections/28-3861.xml"/>
       <xi:include href="./sections/28-3862.xml"/>
-      <xi:include href="./sections/28-3862.01.xml"/>
       <xi:include href="./sections/28-3863.xml"/>
       <xi:include href="./sections/28-3864.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IV</num>
+      <heading>COVID-19 Emergency Credit Alert.</heading>
+      <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§304|(a)" type="History" display="false"/>
+      <xi:include href="./sections/28-3871.xml"/>
     </container>
   </container>
   <container>

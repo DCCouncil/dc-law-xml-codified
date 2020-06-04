@@ -168,6 +168,7 @@
     <xi:include href="./sections/42-815.02.xml"/>
     <xi:include href="./sections/42-815.03.xml"/>
     <xi:include href="./sections/42-815.04.xml"/>
+    <xi:include href="./sections/42-815.05.xml"/>
     <xi:include href="./sections/42-816.xml"/>
     <xi:include href="./sections/42-817.xml"/>
     <xi:include href="./sections/42-818.xml"/>
@@ -179,13 +180,6 @@
   <container>
     <prefix>Chapter</prefix>
     <num>8A</num>
-    <heading>Mortgage Relief During a Public Health Emergency.</heading>
-    <annotation app="2020-04-10" doc="D.C. Act 23-286" eff="2020-04-10" path="II" type="History" display="false"/>
-    <xi:include href="./sections/42-825.01.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>8B<annotation app="2020-04-10" doc="D.C. Act 23-286" eff="2020-04-10" path="II" type="History" display="false"/></num>
     <heading>Mortgages, Deeds of Trust, and Foreclosure. [Repealed].</heading>
     <container>
       <prefix>Subchapter</prefix>
@@ -1213,6 +1207,35 @@
       <xi:include href="./sections/42-3173.12.xml"/>
     </container>
   </container>
+  <subheading>Subtitle VI-A. Special Landlord and Tenant Responsibilities During a Public Health Emergency.<annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="IV" type="History" display="false"/></subheading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>31H</num>
+    <heading>Mortgage Relief During a Public Health Emergency.</heading>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="IV" type="History" display="false"/>
+    <xi:include href="./sections/42-3191.01.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>31I</num>
+    <heading>Tenant Rent-Payment_Plan Programs During a Public Health Emergency.</heading>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="IV" type="History" display="false"/>
+    <xi:include href="./sections/42-3192.01.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>31J</num>
+    <heading>Residential cleaning During a Public Health Emergency.</heading>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="IV" type="History" display="false"/>
+    <xi:include href="./sections/42-3193.01.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>31K</num>
+    <heading>Rent Increase Prohibition During a Public Health Emergency.</heading>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="IV" type="History" display="false"/>
+    <xi:include href="./sections/42-3194.01.xml"/>
+  </container>
   <subheading>Subtitle VII. Rental Housing.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -1220,7 +1243,6 @@
     <heading>Landlord and Tenant.</heading>
     <xi:include href="./sections/42-3201.xml"/>
     <xi:include href="./sections/42-3202.xml"/>
-    <xi:include href="./sections/[42-3202.01].xml"/>
     <xi:include href="./sections/42-3203.xml"/>
     <xi:include href="./sections/42-3204.xml"/>
     <xi:include href="./sections/42-3205.xml"/>
@@ -1269,20 +1291,6 @@
     <heading>Lead Plumbing Disclosure Requirements by Dwelling Unit Owners.</heading>
     <annotation app="2019-03-13" doc="D.C. Law 22-241" eff="2019-03-13" path="" type="History" display="false"/>
     <xi:include href="./sections/42-3271.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>32C</num>
-    <heading>Tenant Rent-Payment_Plan Programs During a Public Health Emergency.</heading>
-    <annotation app="2020-05-13" doc="D.C. Act 23-317" eff="2020-05-13" path="" type="History" display="false"/>
-    <xi:include href="./sections/42-3281.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>32D</num>
-    <heading>Residential accommodation cleaning requirements During a Public Health Emergency.</heading>
-    <annotation app="2020-05-13" doc="D.C. Act 23-317" eff="2020-05-13" path="" type="History" display="false"/>
-    <xi:include href="./sections/42-3291.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1393,7 +1401,6 @@
       <xi:include href="./sections/42-3405.11.xml"/>
       <xi:include href="./sections/42-3405.12.xml"/>
       <xi:include href="./sections/42-3405.13.xml"/>
-      <xi:include href="./sections/42-3405.14.xml"/>
     </container>
   </container>
   <container>
@@ -1546,7 +1553,6 @@
       <xi:include href="./sections/42-3509.09.xml"/>
       <xi:include href="./sections/42-3509.10.xml"/>
       <xi:include href="./sections/42-3509.11.xml"/>
-      <xi:include href="./sections/[42-3509.12].xml"/>
     </container>
   </container>
   <container>
