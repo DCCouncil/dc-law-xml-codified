@@ -60,8 +60,8 @@
         <text>A new paragraph (1B) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert before="(2)" codified:doc="D.C. Code" codified:path="§32-151|(1x)" codified:citation="§ 32-151" codified:display="Amend"/>
-            <num>(1x)</num>
+            <codify:insert before="(2)" codified:doc="D.C. Code" codified:path="§32-151|(1B)" codified:citation="§ 32-151" codified:display="Amend"/>
+            <num>(1B)</num>
             <text>"Department" means the District Department of Transportation.</text>
           </para>
         </include>
