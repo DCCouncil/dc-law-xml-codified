@@ -13,6 +13,18 @@
       <cite path="32|5|III">subchapter III of Chapter 5 of this title</cite>
     </replace>
   </codify:find-replace>
+  <codify:find-replace doc="D.C. Code" path="§32-531.05|(b)|(1)" count="1" history="false" codified:doc="D.C. Code" codified:path="§32-531.05|(b)|(1)">
+    <find>§ <cite path="§32-131.02" doc="D.C. Law 21-264">32-131.02</cite>(a)(1), (2), and (3)</find>
+    <replace>
+      <cite path="§32-531.02|(a)">§ 32-531.02(a)(1), (2), and (3)</cite>
+    </replace>
+  </codify:find-replace>
+  <codify:find-replace doc="D.C. Code" path="§32-531.05|(b)|(2)" count="1" history="false" codified:doc="D.C. Code" codified:path="§32-531.05|(b)|(2)">
+    <find>§ <cite path="§32-131.02" doc="D.C. Law 21-264">32-131.02</cite>(b)</find>
+    <replace>
+      <cite path="§32-531.02|(b)">§ 32-531.02(b)</cite>
+    </replace>
+  </codify:find-replace>
   <annotations>
     <annotation doc="D.C. Law 17-152" type="History" path="§18">May 13, 2008, D.C. Law 17-152, § 18, 55 DCR 3452</annotation>
     <annotation doc="D.C. Law 17-219" type="History">Aug. 16, 2008, D.C. Law 17-219, § 7095, 55 DCR 7598</annotation>
