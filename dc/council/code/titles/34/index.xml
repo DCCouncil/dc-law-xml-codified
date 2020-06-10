@@ -216,11 +216,11 @@
     <xi:include href="./sections/34-1130.xml"/>
     <xi:include href="./sections/34-1131.xml"/>
   </container>
-  <subheading>Subtitle IA. Utility Payment Plans.<annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="III" type="History" display="false"/></subheading>
+  <subheading>Subtitle IA. Utility Payment Plans During a Public Health Emergency.<annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="III" type="History" display="false"/></subheading>
   <container>
     <prefix>Chapter</prefix>
     <num>11A</num>
-    <heading>Utility Payment Plans.</heading>
+    <heading>Utility Payment Plans During a Public Health Emergency.</heading>
     <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="III" type="History" display="false"/>
     <xi:include href="./sections/34-1151.xml"/>
   </container>
@@ -434,19 +434,8 @@
       <prefix>Subchapter</prefix>
       <num>III</num>
       <heading>Cable Service During a Public Health Emergency.</heading>
-      <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="III" type="History" display="false"/>
-      <para>
-        <num>(1)</num>
-        <text>A cable operator, as that term is defined by section 103(6) of the Cable Television Communications Act of 1981, effective October 9, 2002 (D.C. Law 14-193; D.C. Official Code § 34-1251.03(6)), shall not disconnect, suspend, or degrade basic cable service or other basic cable operator services for non-payment of a bill, any fees for service or equipment, or any other charges, or for noncompliance with a deferred payment agreement during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), or for 15 calendar days thereafter.</text>
-        <include lvl="1">
-          <para>
-            <num>(2)</num>
-            <text>For purposes of this subsection, the term "other basic cable operator services" includes only basic broadband internet service and Voice over Internet Protocol service (known as VOIP service) .</text>
-          </para>
-        </include>
-        <aftertext>.</aftertext>
-        <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§307|(b)" type="History"/>
-      </para>
+      <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§307|(b)" type="History" display="false"/>
+      <xi:include href="./sections/34-1271.01.xml"/>
     </container>
   </container>
   <subheading>Subtitle III. Electricity.</subheading>
