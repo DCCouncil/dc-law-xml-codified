@@ -1,31 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-815.05</num>
-  <heading>Foreclosure moratorium during a public emergency.</heading>
+  <heading>Foreclosure moratorium during a public health emergency.</heading>
   <para>
     <num>(a)</num>
+    <text>Notwithstanding any provision of District law, during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, and for 60 days thereafter, no residential foreclosure:</text>
     <para>
       <num>(1)</num>
-      <text>Notwithstanding any provision of District law, during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, and for 60 days thereafter, no residential foreclosure:</text>
-      <para>
-        <num>(A)</num>
-        <text>May be initiated or conducted under <cite path="§42-815">§ 42-815</cite> or <cite path="§42-816">§ 42-816</cite>; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Sale may be conducted under <cite path="§42-1903.13|(c)">§ 42-1903.13(c)</cite>.</text>
-      </para>
+      <text>May be initiated or conducted under <cite path="§42-815">§ 42-815</cite> or <cite path="§42-816">§ 42-816</cite>; or</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>This subsection shall not apply to a residential property at which neither a record owner nor a person with an interest in the property as heir or beneficiary of a record owner, if deceased, has resided for at least 275 total days during the previous 12 months, as of the first day of the public health emergency.</text>
+      <text>Sale may be conducted under <cite path="§42-1903.13|(c)">§ 42-1903.13(c)</cite>.</text>
     </para>
   </para>
-  <codify:find-replace doc="D.C. Code" path="§42-815.05" count="1" codified:doc="D.C. Code" codified:path="§42-815.05">
-    <find>Foreclosure moratorium</find>
-    <replace>Foreclosure moratorium during a public emergency</replace>
-  </codify:find-replace>
+  <para>
+    <num>(b)</num>
+    <text>This subsection shall not apply to a residential property at which neither a record owner nor a person with an interest in the property as heir or beneficiary of a record owner, if deceased, has resided for at least 275 total days during the previous 12 months, as of the first day of the public health emergency.</text>
+  </para>
   <annotations>
-    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§408" type="History"/>
+    <annotation app="2020-05-27" doc="D.C. Act 23-326" eff="2020-05-27" path="§408|(a)" type="History"/>
   </annotations>
 </section>
