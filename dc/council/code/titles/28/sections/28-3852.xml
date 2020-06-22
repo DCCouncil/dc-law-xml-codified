@@ -7,8 +7,92 @@
     <text>Any person or entity who conducts business in the District of Columbia, and who, in the course of such business, owns or licenses computerized or other electronic data that includes personal information, and who discovers a breach of the security of the system, shall promptly notify any District of Columbia resident whose personal information was included in the breach. The notification shall be made in the most expedient time possible and without unreasonable delay, consistent with the legitimate needs of law enforcement, as provided in subsection (d) of this section, and with any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</text>
   </para>
   <para>
+    <num>(a-1)</num>
+    <text>The notification required under subsection (a) of this section shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>To the extent possible, a description of the categories of information that were, or are reasonably believed to have been, acquired by an unauthorized person, including the elements of personal information that were, or are reasonably believed to have been, acquired;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Contact information for the person or entity making the notification, including the business address, telephone number, and toll-free telephone number if one is maintained;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The toll-free telephone numbers and addresses for the major consumer reporting agencies, including a statement notifying the resident of the right to obtain a security freeze free of charge pursuant to 15 U.S.C. § 1681c-1 and information how a resident may request a security freeze; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The toll-free telephone numbers, addresses, and website addresses for the following entities, including a statement that an individual can obtain information from these sources about steps to take to avoid identity theft:</text>
+      <para>
+        <num>(A)</num>
+        <text>The Federal Trade Commission; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Office of the Attorney General for the District of Columbia.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(a-2)</num>
+    <text>Notwithstanding subsection (a-1) of this section, in the case of a breach of the security of the system that only involves personal information as defined in <cite path="§28-3851|(3)|(A)|(ii)">§ 28-3851(3)(A)(ii)</cite>, the person or entity may comply with this section by providing the notification in electronic format or other form that directs the person to change the person's password and security question or answer, as applicable, or to take other steps appropriate to protect the e-mail account with the person or entity and all other online accounts for which the person whose personal information has been breached uses the same username or email address and password or security question or answer.</text>
+  </para>
+  <para>
     <num>(b)</num>
     <text>Any person or entity who maintains, handles, or otherwise possesses computerized or other electronic data that includes personal information that the person or entity does not own shall notify the owner or licensee of the information of any breach of the security of the system in the most expedient time possible following discovery.</text>
+  </para>
+  <para>
+    <num>(b-1)</num>
+    <text>In addition to giving the notification required under subsection (a) of this section, and subject to subsection (d) of this section, the person or entity required to give notice shall promptly provide written notice of the breach of the security of the system to the Office of the Attorney General for the District of Columbia if the breach affects 50 or more District residents.  This notice shall be made in the most expedient manner possible, without unreasonable delay, and in no event later than when notice is provided under subsection (a) of this section.  The written notice shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>The name and contact information of the person or entity reporting the breach;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The name and contact information of the person or entity that experienced the breach;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The nature of the breach of the security of the system, including the name of the person or entity that experienced the breach;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The types of personal information compromised by the breach;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The number of District residents affected by the breach;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The cause of the breach, including the relationship between the person or entity that experienced the breach and the person responsible for the breach, if known;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>The remedial action taken by the person or entity to include steps taken to assist District residents affected by the breach;</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>The date and time frame of the breach, if known;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>The address and location of corporate headquarters, if outside of the District;</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>Any knowledge of foreign country involvement; and</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>A sample of the notice to be provided to District residents.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b-2)</num>
+    <text>The notice required under subsection (b-1) of this section shall not be delayed on the grounds that the total number of District residents affected by the breach has not yet been ascertained.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -20,7 +104,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>Notwithstanding subsection (a) of this section, a person or business that maintains its own notification procedures as part of an information security policy for the treatment of personal information and is otherwise consistent with the timing requirements of this subchapter shall be deemed to be in compliance with the notification requirements of this section if the person or business provides notice, in accordance with its policies, reasonably calculated to give actual notice to persons to whom notice is otherwise required to be given under this subchapter. Notice under this section may be given by electronic mail if the person or entity’s primary method of communication with the resident is by electronic means.</text>
+    <text>[Repealed].</text>
   </para>
   <para>
     <num>(f)</num>
@@ -28,9 +112,13 @@
   </para>
   <para>
     <num>(g)</num>
-    <text>A person or entity who maintains procedures for a breach notification system under Title V of the Gramm-Leach-Bliley Act, approved November 12, 1999 (113 Stat. 1436; 15 U.S.C. § 6801 et seq.) (“Act”), and provides notice in accordance with the Act, and any rules, regulations, guidance and guidelines thereto, to each affected resident in the event of a breach, shall be deemed to be in compliance with this section.</text>
+    <text>A person or entity that maintains procedures for a breach notification system under Title V of the Gramm-Leach-Bliley Act, approved November 12, 1999 (113 Stat. 1436; 15 U.S.C. § 6801 <em>et seq.</em>), or the breach notification rules issued by the United States Department of Health and Human Services, Parts 160 and 164 of Title 45 of the Code of Federal Regulations, established pursuant to the Health Insurance Portability Accountability Act of 1996, approved August 21, 1996 (Pub. L. No. 104-191; 110 Stat. 1936), or the Health Information Technology for Economic and Clinical Health Act, approved February 17, 2009 (Pub. L. No. 111-5; 123 Stat. 226), and provides notice in accordance with such Acts, and any rules, regulations, guidance and guidelines thereto, to each affected resident in the event of a breach, shall be deemed to be in compliance with this section with respect to the notification of residents whose personal information is included in the breach.  The person or entity shall, in all cases, provide written notice of the breach of the security of the system to the Office of the Attorney General for the District of Columbia as required under subsection (b-1) of this section.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 16-237" type="History">Mar. 8, 2007, D.C. Law 16-237, § 2(c), 54 DCR 393</annotation>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(4)|(A)" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(4)|(B)" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(4)|(C)" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(4)|(D)" type="History"/>
   </annotations>
 </section>

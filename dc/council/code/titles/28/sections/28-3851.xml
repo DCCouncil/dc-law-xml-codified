@@ -7,7 +7,34 @@
     <text>For purposes of this subchapter, the term:</text>
     <para>
       <num>(1)</num>
-      <text>“Breach of the security of the system” means unauthorized acquisition of computerized or other electronic data, or any equipment or device storing such data, that compromises the security, confidentiality, or integrity of personal information maintained by the person or business. The term “breach of the security system” shall not include a good faith acquisition of personal information by an employee or agent of the person or business for the purposes of the person or business if the personal information is not used improperly or subject to further unauthorized disclosure. Acquisition of data that has been rendered secure, so as to be unusable by an unauthorized third party, shall not be deemed to be a breach of the security of the system.</text>
+      <para>
+        <num>(A)</num>
+        <text>"Breach of the security of the system" means unauthorized acquisition of computerized or other electronic data or any equipment or device storing such data that compromises the security, confidentiality, or integrity of personal information maintained by the person or entity who conducts business in the District of Columbia.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The term "breach of the security of the system" does not include:</text>
+        <para>
+          <num>(i)</num>
+          <text>A good-faith acquisition of personal information by an employee or agency of the person or entity for the purposes of the person or entity if the personal information is not used improperly or subject to further unauthorized disclosure;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Acquisition of data that has been rendered secure, including through encryption or redaction of such data, so as to be unusable by an unauthorized third party unless any information obtained has the potential to compromise the effectiveness of the security protection preventing unauthorized access; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Acquisition of personal information of an individual that the person or entity reasonably determines, after a reasonable investigation and consultation with the Office of the Attorney General for the District of Columbia and federal law enforcement agencies, will likely not result in harm to the individual.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>"Genetic information" has the meaning ascribed to it under the federal Health Insurance Portability and Accountability Act of 1996 ("HIPAA"), approved August 21, 1996 (Pub. Law 104-191; 110 Stat. 1936), as specified in 45 C.F.R. § 106.103.</text>
+    </para>
+    <para>
+      <num>(1B)</num>
+      <text>"Medical Information" means any information about a consumer's dental, medical, or mental health treatment or diagnosis by a health-care professional.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -24,18 +51,18 @@
         <num>(C)</num>
         <para>
           <num>(i)</num>
-          <text>Substitute notice, if the person or business demonstrates that the cost of providing notice to persons subject to this subchapter would exceed $50,000, that the number of persons to receive notice under this subchapter exceeds 100,000, or that the person or business does not have sufficient contact information.</text>
+          <text>Substitute notice, if the person or entity demonstrates that the cost of providing notice to persons subject to this subchapter would exceed $50,000, that the number of persons to receive notice under this subchapter exceeds 100,000, or that the person or entity does not have sufficient contact information.</text>
         </para>
         <para>
           <num>(ii)</num>
           <text>Substitute notice shall consist of all of the following:</text>
           <para>
             <num>(I)</num>
-            <text>E-mail notice when the person or business has an e-mail address for the subject persons;</text>
+            <text>E-mail notice when the person or entity has an e-mail address for the subject persons;</text>
           </para>
           <para>
             <num>(II)</num>
-            <text>Conspicuous posting of the notice on the website page of the person or business if the person or business maintains one; and</text>
+            <text>Conspicuous posting of the notice on the website page of the person or entity if the person or entity maintains one; and</text>
           </para>
           <para>
             <num>(III)</num>
@@ -45,39 +72,60 @@
       </para>
     </para>
     <para>
+      <num>(2A)</num>
+      <text>"Person or entity" means an individual, firm, corporation, partnership, company, cooperative, association, trust, or any other organization, legal entity, or group of individuals.  The term "person or entity" shall not include the District of Columbia government or any of its agencies or instrumentalities.</text>
+    </para>
+    <para>
       <num>(3)</num>
       <para>
         <num>(A)</num>
-        <text>“Personal information” means:</text>
+        <text>"Personal information" means:</text>
         <para>
           <num>(i)</num>
-          <text>An individual’s first name or first initial and last name, or phone number, or address, and any one or more of the following data elements:</text>
+          <text>An individual's first name, first initial and last name, or any other personal identifier, which, in combination with any of the following data elements, can be used to identify a person or the person's information:</text>
           <para>
             <num>(I)</num>
-            <text>Social security number;</text>
+            <text>Social security number, Individual Taxpayer Identification Number, passport number, driver's license number, District of Columbia identification card number, military identification number, or other unique identification number issued on a government document commonly used to verify the identity of a specific individual;</text>
           </para>
           <para>
             <num>(II)</num>
-            <text>Driver’s license number or District of Columbia Identification Card number; or</text>
+            <text>Account number, credit card number or debit card number, or any other number or code or combination of numbers or codes, such as an identification number, security code, access code, or password, that allows access to or use of an individual's financial or credit account;</text>
           </para>
           <para>
             <num>(III)</num>
-            <text>Credit card number or debit card number; or</text>
+            <text>Medical information;</text>
+          </para>
+          <para>
+            <num>(IV)</num>
+            <text>Genetic information and deoxyribonucleic acid profile;</text>
+          </para>
+          <para>
+            <num>(V)</num>
+            <text>Health insurance information, including a policy number, subscriber information number, or any unique identifier used by a health insurer to identify the person that permits access to an individual's health and billing information;</text>
+          </para>
+          <para>
+            <num>(VI)</num>
+            <text>Biometric data of an individual generated by automatic measurements of an individual's biological characteristics, such as a fingerprint, voice print, genetic print, retina or iris image, or other unique biological characteristic, that is used to uniquely authenticate the individual's identity when the individual accesses a system or account; or</text>
+          </para>
+          <para>
+            <num>(VII)</num>
+            <text>Any combination of data elements included in sub-sub-subparagraphs (I) through (VI) of this sub-subparagraph that would enable a person to commit identity theft without reference to a person's first name or first initial and last name or other independent personal identifier.</text>
           </para>
         </para>
         <para>
           <num>(ii)</num>
-          <text>Any other number or code or combination of numbers or codes, such as account number, security code, access code, or password, that allows access to or use of an individual’s financial or credit account.</text>
+          <text>A user name or e-mail address in combination with a password, security question and answer, or other means of authentication, or any combination of data elements included in sub-sub-subparagraphs (I) through (VI) of sub-subparagraph (i) that permits access to an individual's e-mail account.</text>
         </para>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>For purposes of this paragraph, the term “personal information” shall not include publicly available information that is lawfully made available to the general public from federal, state, or local government records.</text>
       </para>
     </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 16-237" type="History">Mar. 8, 2007, D.C. Law 16-237, § 2(c), 54 DCR 393</annotation>
     <annotation type="Editor's Notes">Section 3 of <cite doc="D.C. Law 16-237">D.C. Law 16-237</cite> provided: “This act shall apply as of July 1, 2007.”</annotation>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(A)" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(B)" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(C)" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(D)" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(a)|(3)|(E)" type="History"/>
   </annotations>
 </section>
