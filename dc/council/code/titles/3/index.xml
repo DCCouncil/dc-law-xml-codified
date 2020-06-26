@@ -550,6 +550,15 @@
     </container>
     <container>
       <prefix>Subchapter</prefix>
+      <num>VIII-E</num>
+      <heading>Qualifications for Licensure to Practice as a Professional Art Therapist.</heading>
+      <annotation app="notfunded" doc="D.C. Law 23-115" eff="2020-06-24" path="§3|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 23-115" eff="2020-06-24" path="§2|(f)" type="History" display="false"/>
+      <xi:include href="./sections/3-1208.71.xml"/>
+      <xi:include href="./sections/3-1208.72.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
       <num>IX</num>
       <heading>Related Occupations; Registration Requirements; Prohibited Actions.</heading>
       <xi:include href="./sections/3-1209.01.xml"/>
@@ -672,7 +681,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>13</num>
-    <heading>Lottery and Charitable Games Control Board. [Recodified]<annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-91" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation><annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7177" type="History" display="false"/><annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History" display="false"/></heading>
+    <heading>Lottery and Charitable Games Control Board. [Recodified]<annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-91" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation><annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7177" type="History" display="false"/><annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-112" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation><annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7177" type="History" display="false"/><annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(b)" type="History" display="false"/></heading>
     <xi:include href="./sections/3-1301.xml"/>
     <xi:include href="./sections/3-1302.xml"/>
     <xi:include href="./sections/3-1303.xml"/>
