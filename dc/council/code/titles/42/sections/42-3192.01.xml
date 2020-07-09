@@ -7,7 +7,7 @@
     <text>During a period of time for which the Mayor has declared a public health emergency pursuant <cite path="§7-2304.01">§ 7-2304.01</cite>, and for one year thereafter ("program period"), a provider shall offer a rent-payment-plan program ("program") for eligible tenants.  Under its program, a provider shall:</text>
     <para>
       <num>(1)</num>
-      <text>Make a payment plan available to an eligible tenant for the payment of gross rent that comes due during the program period and prior to the cessation of tenancy ("covered time period"), with a minimum term length of one year unless a shorter payment plan term length is requested by the eligible tenant.</text>
+      <text>Make a payment plan available to an eligible tenant for the payment of gross rent and any other amounts that come due under the lease during the program period and prior to the cessation of tenancy ("covered time period"), with a minimum term length of one year unless a shorter payment plan term length is requested by the eligible tenant.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -19,7 +19,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>Provide that an eligible tenant does not lose any rights under the lease due to a default on the monetary amounts due during the lease period; provided, that the tenant does not default on the terms of the payment plan; and</text>
+      <text>Provide that an eligible tenant does not lose any rights under the lease by entering into the payment plan; and</text>
     </para>
     <para>
       <num>(5)</num>
@@ -54,15 +54,7 @@
     <text>A provider shall approve each application for a payment plan submitted during a covered time period in which an eligible tenant:</text>
     <para>
       <num>(1)</num>
-      <text>Demonstrates to the provider evidence of a financial hardship resulting directly or indirectly from the public health emergency:</text>
-      <para>
-        <num>(A)</num>
-        <text>That is in addition to any delinquency or future inability to make rental payments in existence prior to the start of the public health emergency; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>That would cause the tenant to be unable to qualify to rent the unit or space based on utilization of the same qualification criteria that were applied to the tenant at the time he or she was approved to rent the unit or space; and</text>
-      </para>
+      <text>Demonstrates to the provider evidence of a financial hardship resulting directly or indirectly from the public health emergency, regardless of an existing delinquency or a future inability to make rental payments established prior to the start of the public health emergency; and</text>
     </para>
     <para>
       <num>(2)</num>
@@ -108,14 +100,30 @@
     <text>For the purposes of this section, the term:</text>
     <para>
       <num>(1)</num>
-      <text>"Eligible tenant" means a tenant of a residential or commercial retail property rented from a provider that:</text>
+      <text>"Eligible tenant" means a tenant that:</text>
       <para>
         <num>(A)</num>
-        <text>Has notified a provider of an inability to pay all or a portion of the rent due as a result of the public health emergency; and</text>
+        <text>Has notified a provider of an inability to pay all or a portion of the rent due as a result of the public health emergency;</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Is not a franchisee unless the franchise is owned by a District resident.</text>
+        <text>Is not a franchisee unless the franchise is owned by a District resident; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Has leased from a provider:</text>
+        <para>
+          <num>(i)</num>
+          <text>A residential property;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Commercial retail space; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Commercial space that is less than 6,500 square feet in size and that comprises all or part of a commercial building.</text>
+        </para>
       </para>
     </para>
     <para>
@@ -134,5 +142,9 @@
   <annotations>
     <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="IV" type="History" display="false"/>
     <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§402" type="History"/>
+    <annotation app="2020-07-07" doc="D.C. Act 23-332" eff="2020-07-07" path="§2|(b)|(1)|(A)" type="History"/>
+    <annotation app="2020-07-07" doc="D.C. Act 23-332" eff="2020-07-07" path="§2|(b)|(1)|(B)" type="History"/>
+    <annotation app="2020-07-07" doc="D.C. Act 23-332" eff="2020-07-07" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2020-07-07" doc="D.C. Act 23-332" eff="2020-07-07" path="§2|(b)|(3)" type="History"/>
   </annotations>
 </section>
