@@ -2,7 +2,7 @@
 <document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 23-334">
   <num type="bill">23-758</num>
   <num type="act">23-334</num>
-  <heading type="short">Coronavirus Support Temporary Amendment Act of 2020 [projected to become law October 1, 2020]</heading>
+  <heading type="short">Coronavirus Support Temporary Amendment Act of 2020 [Projected to become law October 1, 2020]</heading>
   <heading type="long">To provide, on a temporary basis, for the health, safety, and welfare of District residents and support to businesses during the current public health emergency; and for other purposes.</heading>
   <meta>
     <introduced>2020-05-18</introduced>
@@ -4044,6 +4044,7 @@
         </section>
       </include>
       <aftertext>.</aftertext>
+      <codify:temporary doc="D.C. Code" path="§48-314.01" action="creation of this section" codified:doc="D.C. Code" codified:path="§48-314.01" codified:citation="§ 48-314.01" codified:display="Note"/>
     </section>
     <section>
       <num>514</num>
@@ -4108,6 +4109,7 @@
           <text>"Eligible hospital" means a non-profit or for-profit hospital located in the District.</text>
         </para>
       </para>
+      <codify:temporary doc="D.C. Code" path="§44-791.01" action="creation of this section" codified:doc="D.C. Code" codified:path="§44-791.01" codified:citation="§ 44-791.01" codified:display="Note"/>
     </section>
     <section>
       <num>515</num>
@@ -4200,6 +4202,7 @@
         <num>(f)</num>
         <text>This section shall apply to all District government contracts and subcontracts that were in effect on, or awarded after March 11, 2020, and shall remain in effect during the period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7- 2304.01)</code-cite>, and for 30 days thereafter.</text>
       </para>
+      <codify:temporary doc="D.C. Code" path="§2-391" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-391" codified:citation="§ 2-391" codified:display="Note"/>
     </section>
   </container>
   <container codify:doc="D.C. Code">
@@ -4230,6 +4233,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
+      <codify:temporary doc="D.C. Code" path="§2-1555.07" codified:doc="D.C. Code" codified:path="§2-1555.07" codified:citation="§ 2-1555.07" codified:display="Note"/>
     </section>
     <section>
       <num>603</num>
@@ -4242,11 +4246,13 @@
         </para>
       </include>
       <aftertext>.</aftertext>
+      <codify:temporary doc="D.C. Code" path="§38-781.05" codified:doc="D.C. Code" codified:path="§38-781.05" codified:citation="§ 38-781.05" codified:display="Note"/>
     </section>
     <section>
       <num>604</num>
       <heading>Education research practice partnership review panel.</heading>
       <text>Section 104(d)(2) of the District of Columbia Education Research Practice Partnership Establishment and Audit Act of 2018, effective March 28, 2019 (D.C. Law 22-268; D.C. Official Code § 38-785.03(d)(2)), is amended by striking the phrase "timely manner" and inserting the phrase "timely manner; except, that upon the declaration of a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), the meeting of the review panel shall be postponed until 7 business days following the end of the period of time for which the public health emergency was declared" in its place.</text>
+      <codify:temporary doc="D.C. Code" path="§38-785.03" codified:doc="D.C. Code" codified:path="§38-785.03" codified:citation="§ 38-785.03" codified:display="Note"/>
     </section>
     <section codify:path="§38-1202.01">
       <num>605</num>
@@ -4271,11 +4277,13 @@
         </include>
         <aftertext>.</aftertext>
       </para>
+      <codify:temporary doc="D.C. Code" path="§38-1202.01" codified:doc="D.C. Code" codified:path="§38-1202.01" codified:citation="§ 38-1202.01" codified:display="Note"/>
     </section>
     <section>
       <num>606</num>
       <heading>UDC fundraising match.</heading>
       <text>Section 4082(a) of the University of the District of Columbia Fundraising Match Act of 2019, effective September 11, 2019 (D.C. Law 23-16; 66 DCR 8621), is amended by striking the phrase "for every $2 that UDC raises from private donations by April 1" and inserting the phrase "to match dollar-for-dollar the amount UDC raises from private donations by May 1" in its place.</text>
+      <codify:temporary doc="D.C. Code" path="§38-1202.01" action="for temporary requirement that certain funds allocated to the Non-Departmental Account be transferred to the University of the District of Columbia" codified:doc="D.C. Code" codified:path="§38-1202.01" codified:citation="§ 38-1202.01" codified:display="Note"/>
     </section>
   </container>
   <container codify:doc="D.C. Code">
@@ -4325,6 +4333,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
+      <codify:temporary doc="D.C. Code" path="§1-301.191" codified:doc="D.C. Code" codified:path="§1-301.191" codified:citation="§ 1-301.191" codified:display="Note"/>
     </section>
     <section>
       <num>702</num>
@@ -4359,6 +4368,7 @@
             </para>
           </para>
           <annotation doc="D.C. Law 2-38" type="History" path="§316a">Dec. 13, 1977, D.C. Law 2-38, title III, § 316a</annotation>
+          <codify:temporary doc="D.C. Code" path="§2-1403.16a" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-1403.16a" codified:citation="§ 2-1403.16a" codified:display="Note"/>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -4374,6 +4384,7 @@
         </para>
       </include>
       <aftertext>.</aftertext>
+      <codify:temporary doc="D.C. Code" path="§2-1402.12" codified:doc="D.C. Code" codified:path="§2-1402.12" codified:citation="§ 2-1402.12" codified:display="Note"/>
     </section>
     <section codify:path="§5-1104|(d-3)">
       <num>704</num>
@@ -4388,11 +4399,13 @@
         <num>(b)</num>
         <text>Paragraph (2) is amended by striking the date "April 30, 2021" and inserting the date "September 30, 2021" in its place.</text>
       </para>
+      <codify:temporary doc="D.C. Code" path="§5-1104" codified:doc="D.C. Code" codified:path="§5-1104" codified:citation="§ 5-1104" codified:display="Note"/>
     </section>
     <section>
       <num>705</num>
       <heading>Extension of time for non-custodial arrestees to report.</heading>
       <text>Section 23-501(4) of the District of Columbia Official Code is amended by striking the period and inserting the phrase ", or within 90 days, if the non-custodial arrest was conducted during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01." in its place.</text>
+      <codify:temporary doc="D.C. Code" path="§23-501" codified:doc="D.C. Code" codified:path="§23-501" codified:citation="§ 23-501" codified:display="Note"/>
     </section>
     <section>
       <num>706</num>
@@ -4400,6 +4413,7 @@
       <para>
         <num>(a)</num>
         <text>Section 3c(c) of the District of Columbia Good Time Credits Act of 1986, effective May 17, 2011 (D.C. Law 18-732; D.C. Official Code § 24-221.01c(c)), is amended by striking the phrase "this section combined" and inserting the phrase "this section combined; except, that during a period for which a public health emergency has been declared pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), the Department of Corrections shall have discretion to award additional credits beyond the limits described in this subsection to effectuate the immediate release of persons sentenced for misdemeanors, including pursuant to section 3 and this section, consistent with public safety.".</text>
+        <codify:temporary doc="D.C. Code" path="§24-221.01c" codified:doc="D.C. Code" codified:path="§24-221.01c" codified:citation="§ 24-221.01c" codified:display="Note"/>
       </para>
       <para>
         <num>(b)</num>
@@ -4444,6 +4458,7 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:temporary doc="D.C. Code" path="§24-403.01a" action="creation of this section" codified:doc="D.C. Code" codified:path="§24-403.01a" codified:citation="§ 24-403.01a" codified:display="Note"/>
         </para>
         <para>
           <num>(2)</num>
@@ -4511,6 +4526,7 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:temporary doc="D.C. Code" path="§24-403.04" action="creation of this section" codified:doc="D.C. Code" codified:path="§24-403.04" codified:citation="§ 24-403.04" codified:display="Note"/>
         </para>
       </para>
     </section>
@@ -4577,6 +4593,7 @@
         <num>(g)</num>
         <text>For the purposes of this section, the term "COVID-19" means the disease caused by the novel 2019 coronavirus SARS-CoV-2.</text>
       </para>
+      <codify:temporary doc="D.C. Code" path="§7-311" action="creation of this section" codified:doc="D.C. Code" codified:path="§7-311" codified:citation="§ 7-311" codified:display="Note"/>
     </section>
   </container>
   <container codify:doc="D.C. Code">
@@ -4587,11 +4604,13 @@
       <num>801</num>
       <heading>Board of Elections stipends.</heading>
       <text>Section 1108(c-1)(10) of the District of Columbia Government Comprehensive Merit Personnel Act of 1978, effective March 3, 1979 (D.C. Law 2-139; D.C. Official Code § 1-611.08(c-1)(10)), is amended by striking the phrase "Chairperson per year" and inserting the phrase "Chairperson per year; except, that for the remainder of 2020 following April 10, 2020, District of Columbia Board of Elections members shall be entitled to compensation at the hourly rate of $40 while actually in the service of the board, not to exceed $25,000 for each member per year and $53,000 for the Chairperson per year" in its place.</text>
+      <codify:temporary doc="D.C. Code" path="§1-611.08" codified:doc="D.C. Code" codified:path="§1-611.08" codified:citation="§ 1-611.08" codified:display="Note"/>
     </section>
     <section>
       <num>802</num>
       <heading>Retirement Board Financial disclosure extension of time.</heading>
       <text>Section 161(a)(1) of the District of Columbia Retirement Reform Act, approved November 17, 1979 (93 Stat. 884; D.C. Official Code § 1-731(a)(1)), is amended by striking the phrase "April 30th" and inserting the phrase "July 30th" in its place.</text>
+      <codify:temporary doc="D.C. Code" path="§1-731" codified:doc="D.C. Code" codified:path="§1-731" codified:citation="§ 1-731" codified:display="Note"/>
     </section>
     <section>
       <num>803</num>
@@ -4617,6 +4636,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:temporary doc="D.C. Code" path="§1-1162.24" codified:doc="D.C. Code" codified:path="§1-1162.24" codified:citation="§ 1-1162.24" codified:display="Note"/>
         </para>
         <para>
           <num>(2)</num>
@@ -4636,6 +4656,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:temporary doc="D.C. Code" path="§1-1162.25" codified:doc="D.C. Code" codified:path="§1-1162.25" codified:citation="§ 1-1162.25" codified:display="Note"/>
         </para>
         <para>
           <num>(3)</num>
@@ -4647,6 +4668,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:temporary doc="D.C. Code" path="§1-1162.30" codified:doc="D.C. Code" codified:path="§1-1162.30" codified:citation="§ 1-1162.30" codified:display="Note"/>
         </para>
       </para>
       <para>
@@ -4655,14 +4677,17 @@
         <para>
           <num>(1)</num>
           <text>Section 304(7A)(A) (D.C. Official Code § 1-1163.04(7A)(A)) is amended by striking the phrase "in person, although online materials may be used to supplement the training" and inserting the phrase "in person or online" in its place.</text>
+          <codify:temporary doc="D.C. Code" path="§1-1163.04" codified:doc="D.C. Code" codified:path="§1-1163.04" codified:citation="§ 1-1163.04" codified:display="Note"/>
         </para>
         <para>
           <num>(2)</num>
           <text>Section 332d (D.C. Official Code § 1-1163.32d) is amended by striking the phrase "5 days after" wherever it appears and inserting the phrase "5 business days after" in its place.</text>
+          <codify:temporary doc="D.C. Code" path="§1-1163.32d" codified:doc="D.C. Code" codified:path="§1-1163.32d" codified:citation="§ 1-1163.32d" codified:display="Note"/>
         </para>
         <para>
           <num>(3)</num>
           <text>Section 332e(e) (D.C. Official Code § 1-1163.32e(e)) is amended by striking the phrase "Within 5 days after" and inserting the phrase "Within 5 business days after" in its place.</text>
+          <codify:temporary doc="D.C. Code" path="§1-1163.32e" codified:doc="D.C. Code" codified:path="§1-1163.32e" codified:citation="§ 1-1163.32e" codified:display="Note"/>
         </para>
       </para>
     </section>
@@ -4680,6 +4705,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§1-1001.02" codified:doc="D.C. Code" codified:path="§1-1001.02" codified:citation="§ 1-1001.02" codified:display="Note"/>
       </para>
       <para>
         <num>(b)</num>
@@ -4698,6 +4724,7 @@
         <para codify:path="§1-1001.05|(a)|(10A)">
           <num>(2)</num>
           <text>Paragraph (10A) is amended by striking the phrase "7th day after the election" and inserting the phrase "7th day after the election; provided, that for elections held in calendar year 2020, the Board shall accept absentee ballots postmarked or otherwise proven to have been sent on or before the day of the election, and received by the Board no later than the 10th day after the election" in its place.</text>
+          <codify:temporary doc="D.C. Code" path="§1-1001.05" codified:doc="D.C. Code" codified:path="§1-1001.05" codified:citation="§ 1-1001.05" codified:display="Note"/>
         </para>
       </para>
       <para codify:path="§1-1001.07">
@@ -4737,6 +4764,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-1001.07" codified:doc="D.C. Code" codified:path="§1-1001.07" codified:citation="§ 1-1001.07" codified:display="Note"/>
       </para>
       <para codify:path="§1-1001.08">
         <num>(d)</num>
@@ -4826,6 +4854,7 @@
             <aftertext>.</aftertext>
           </para>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-1001.08" codified:doc="D.C. Code" codified:path="§1-1001.08" codified:citation="§ 1-1001.08" codified:display="Note"/>
       </para>
       <para codify:path="§1-1001.16">
         <num>(e)</num>
@@ -4861,6 +4890,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-1001.16" codified:doc="D.C. Code" codified:path="§1-1001.16" codified:citation="§ 1-1001.16" codified:display="Note"/>
       </para>
     </section>
     <section>
@@ -4872,6 +4902,7 @@
       <num>806</num>
       <heading>Overseas ballot extension.</heading>
       <text>Section 110 of the Uniform Military and Overseas Voters Act of 2012, effective June 5, 2012 (D.C. Law 19-137; D.C. Official Code § 1-1061.10), is amended by striking the phrase "after the election;" and inserting the phrase "after the election; provided, that for elections held in calendar year 2020, the Board shall accept a military-overseas ballot postmarked or otherwise proven to have been sent on or before the day of the election, and received by the Board no later than the 10th day after the election;" in its place.</text>
+      <codify:temporary doc="D.C. Code" path="§1-1061.10" codified:doc="D.C. Code" codified:path="§1-1061.10" codified:citation="§ 1-1061.10" codified:display="Note"/>
     </section>
     <section>
       <num>807</num>
@@ -4895,6 +4926,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§1-1231.01" codified:doc="D.C. Code" codified:path="§1-1231.01" codified:citation="§ 1-1231.01" codified:display="Note"/>
       </para>
       <para codify:path="§1-1231.05">
         <num>(b)</num>
@@ -4962,6 +4994,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-1231.05" codified:doc="D.C. Code" codified:path="§1-1231.05" codified:citation="§ 1-1231.05" codified:display="Note"/>
       </para>
       <para>
         <num>(c)</num>
@@ -4973,6 +5006,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§1-1231.09" codified:doc="D.C. Code" codified:path="§1-1231.09" codified:citation="§ 1-1231.09" codified:display="Note"/>
       </para>
     </section>
     <section>
@@ -4998,10 +5032,12 @@
           <num>(2)</num>
           <text>Subsection (d)(1) is amended by striking the phrase "Sundays, and" both times it appears and inserting the phrase "Sundays, days of a COVID-19 closure, and" in its place.</text>
         </para>
+        <codify:temporary doc="D.C. Code" path="§2-532" codified:doc="D.C. Code" codified:path="§2-532" codified:citation="§ 2-532" codified:display="Note"/>
       </para>
       <para codify:path="§2-537|(a)">
         <num>(b)</num>
         <text>Section 207(a) (D.C. Official Code § 2-537(a)) is amended by striking the phrase "Sundays, and" and inserting the phrase "Sundays, days of a COVID-19 closure, and" in its place.</text>
+        <codify:temporary doc="D.C. Code" path="§2-537" codified:doc="D.C. Code" codified:path="§2-537" codified:citation="§ 2-537" codified:display="Note"/>
       </para>
       <para>
         <num>(c)</num>
@@ -5021,6 +5057,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§2-539" codified:doc="D.C. Code" codified:path="§2-539" codified:citation="§ 2-539" codified:display="Note"/>
       </para>
     </section>
     <section>
@@ -5049,6 +5086,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§2-575" codified:doc="D.C. Code" codified:path="§2-575" codified:citation="§ 2-575" codified:display="Note"/>
       </para>
       <para codify:path="§2-576">
         <num>(b)</num>
@@ -5060,10 +5098,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§2-576" codified:doc="D.C. Code" codified:path="§2-576" codified:citation="§ 2-576" codified:display="Note"/>
       </para>
       <para>
         <num>(c)</num>
         <text>Section 407(a)(1) (D.C. Official Code § 2-577(a)(1)) is amended by striking the phrase "attend the meeting;" and inserting the phrase "attend the meeting, or in the case of a meeting held during a period for which a public health emergency has been declared pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), steps are taken that are reasonably calculated to allow the public to view or hear the meeting while the meeting is taking place, or, if doing so is not technologically feasible, as soon thereafter as reasonably practicable.".</text>
+        <codify:temporary doc="D.C. Code" path="§2-577" codified:doc="D.C. Code" codified:path="§2-577" codified:citation="§ 2-577" codified:display="Note"/>
       </para>
       <para>
         <num>(d)</num>
@@ -5075,6 +5115,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§2-578" codified:doc="D.C. Code" codified:path="§2-578" codified:citation="§ 2-578" codified:display="Note"/>
       </para>
     </section>
     <section>
@@ -5124,6 +5165,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:temporary doc="D.C. Code" path="§16-4802" codified:doc="D.C. Code" codified:path="§16-4802" codified:citation="§ 16-4802" codified:display="Note"/>
         </para>
         <para codify:path="§16-4803">
           <num>(2)</num>
@@ -5136,6 +5178,7 @@
             <num>(B)</num>
             <text>Subsection (d) is amended by striking the phrase "in the presence of 2 witnesses" and inserting the phrase "in the presence or, during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01, the electronic presence of 2 witnesses" in its place.</text>
           </para>
+          <codify:temporary doc="D.C. Code" path="§16-4803" codified:doc="D.C. Code" codified:path="§16-4803" codified:citation="§ 16-4803" codified:display="Note"/>
         </para>
       </para>
       <para>
@@ -5182,6 +5225,7 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:temporary doc="D.C. Code" path="§21-2011" codified:doc="D.C. Code" codified:path="§21-2011" codified:citation="§ 21-2011" codified:display="Note"/>
         </para>
         <para codify:path="§21-2043">
           <num>(2)</num>
@@ -5193,6 +5237,7 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:temporary doc="D.C. Code" path="§21-2043" codified:doc="D.C. Code" codified:path="§21-2043" codified:citation="§ 21-2043" codified:display="Note"/>
         </para>
         <para codify:path="§21-2202">
           <num>(3)</num>
@@ -5242,14 +5287,17 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:temporary doc="D.C. Code" path="§21-2202" codified:doc="D.C. Code" codified:path="§21-2202" codified:citation="§ 21-2202" codified:display="Note"/>
         </para>
         <para>
           <num>(4)</num>
           <text>Section 21-2205(c) is amended by striking the phrase "2 adult witnesses who affirm that the principal was of sound mind" and inserting the phrase "2 adult witnesses who, in the presence or, during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01, the electronic presence of the principal, affirm that the principal was of sound mind" in its place.</text>
+          <codify:temporary doc="D.C. Code" path="§21-2205" codified:doc="D.C. Code" codified:path="§21-2205" codified:citation="§ 21-2205" codified:display="Note"/>
         </para>
         <para>
           <num>(5)</num>
           <text>Section 21-2210(c)) is amended is amended by striking the phrase "There shall be at least 1 witness present" and inserting the phrase "There shall be at least one witness present or, during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01, electronically present" in its place.</text>
+          <codify:temporary doc="D.C. Code" path="§21-2210" codified:doc="D.C. Code" codified:path="§21-2210" codified:citation="§ 21-2210" codified:display="Note"/>
         </para>
       </para>
       <para>
@@ -5309,6 +5357,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§7-2132" codified:doc="D.C. Code" codified:path="§7-2132" codified:citation="§ 7-2132" codified:display="Note"/>
       </para>
     </section>
     <section>
@@ -5331,6 +5380,7 @@
       <para>
         <num>(b)</num>
         <text>Section 18-103(2) is amended by striking the phrase "in the presence of the testator" and inserting the phrase "in the presence or, during a period of time for which the Mayor has declared a public health emergency pursuant to § 7-2304.01, the electronic presence, as defined in § 18-813(a)(2), of the testator" in its place.</text>
+        <codify:temporary doc="D.C. Code" path="§18-103" codified:doc="D.C. Code" codified:path="§18-103" codified:citation="§ 18-103" codified:display="Note"/>
       </para>
       <para>
         <num>(c)</num>
@@ -5465,6 +5515,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§[18-113]" action="creation of this section" codified:doc="D.C. Code" codified:path="§[18-113]" codified:citation="§ [18-113]" codified:display="Note"/>
       </para>
     </section>
     <section>
@@ -5482,6 +5533,7 @@
           <text>To appeal an adverse decision listed in <code-cite doc="D.C. Code" path="§4-754.41|(b)">section 26(b) of the Homeless Services Reform Act of 2005, effective October 22, 2005 (D.C. Law 16-35; D.C. Official Code § 4-754.41(b))</code-cite>.</text>
         </para>
       </para>
+      <codify:temporary doc="D.C. Code" path="§2-1851.01" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-1851.01" codified:citation="§ 2-1851.01" codified:display="Note"/>
     </section>
     <section>
       <num>813</num>
@@ -5502,6 +5554,7 @@
           <text>The review period for nominations transmitted to the Council for approval or disapproval in accordance with <code-cite doc="D.C. Code" path="§1-523.01|(a)">section 2(a) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(a))</code-cite>, shall be tolled.</text>
         </para>
       </para>
+      <codify:temporary doc="D.C. Code" path="§3-001" action="creation of this section" codified:doc="D.C. Code" codified:path="§3-001" codified:citation="§ 3-001" codified:display="Note"/>
     </section>
     <section>
       <num>814</num>
@@ -5540,6 +5593,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§7-621" codified:doc="D.C. Code" codified:path="§7-621" codified:citation="§ 7-621" codified:display="Note"/>
       </para>
       <para>
         <num>(b)</num>
@@ -5559,10 +5613,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§7-622" codified:doc="D.C. Code" codified:path="§7-622" codified:citation="§ 7-622" codified:display="Note"/>
       </para>
       <para>
         <num>(c)</num>
         <text>Section 5(a)(3) (D.C. Official Code § 7-624(a)(3)) is amended by striking the phrase "in the presence of a witness" and inserting the phrase "in the presence or, during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), electronic presence of a witness" in its place.</text>
+        <codify:temporary doc="D.C. Code" path="§7-624" codified:doc="D.C. Code" codified:path="§7-624" codified:citation="§ 7-624" codified:display="Note"/>
       </para>
     </section>
   </container>
@@ -5657,10 +5713,12 @@
           <num>(3)</num>
           <text>Subsection (f) is amended by striking the phrase "Council shall have an additional 45 days, excluding days of Council recess," and inserting the phrase "Council shall have an additional 45 days, excluding days of Council recess and days occurring during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)," in its place.</text>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-523.01" codified:doc="D.C. Code" codified:path="§1-523.01" codified:citation="§ 1-523.01" codified:display="Note"/>
       </para>
       <para>
         <num>(b)</num>
         <text>Notwithstanding any provision of law, during a period time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), the review period for any matter transmitted to the Council for approval or disapproval, other than nominations transmitted in accordance with section 2 of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01), contract approvals, or reprogrammings transmitted in accordance with section 4 of the Reprogramming Policy Act of 1980, effective September 16, 1980 (D.C. Law 3-100; D.C. Official Code § 47-363), shall be tolled if not inconsistent with the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 774; D.C. Official Code § 1-201.01 <em>et seq.</em>).</text>
+        <codify:temporary doc="D.C. Code" path="§1-523.11" codified:doc="D.C. Code" codified:path="§1-523.11" codified:citation="§ 1-523.11" codified:display="Note"/>
       </para>
     </section>
     <section>
@@ -5705,6 +5763,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-309.05" codified:doc="D.C. Code" codified:path="§1-309.05" codified:citation="§ 1-309.05" codified:display="Note"/>
       </para>
       <para codify:path="§1-309.06|(d)">
         <num>(b)</num>
@@ -5729,6 +5788,7 @@
             <text>Subparagraph (E) is amended by striking the phrase "or special meeting" and inserting the phrase "or special meeting, not to include a remote meeting held during a period of time for which a public health emergency has been declared by the Mayor pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)," in its place.</text>
           </para>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-309.06" codified:doc="D.C. Code" codified:path="§1-309.06" codified:citation="§ 1-309.06" codified:display="Note"/>
       </para>
       <para codify:path="§1-309.10">
         <num>(c)</num>
@@ -5748,6 +5808,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§1-309.10" codified:doc="D.C. Code" codified:path="§1-309.10" codified:citation="§ 1-309.10" codified:display="Note"/>
       </para>
       <para codify:path="§1-309.11|(b)">
         <num>(d)</num>
@@ -5767,6 +5828,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-309.11" codified:doc="D.C. Code" codified:path="§1-309.11" codified:citation="§ 1-309.11" codified:display="Note"/>
       </para>
       <para codify:path="§1-309.13">
         <num>(e)</num>
@@ -5786,6 +5848,7 @@
           <num>(2)</num>
           <text>Subsection (m)(1) is amended by striking the phrase "District government" and inserting the phrase "District government; except, that notwithstanding any provision of District law, during a period for which a public health emergency has been declared by the Mayor pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), a Commission may approve grants to organizations for the purpose of providing humanitarian relief, including food or supplies, during the public health emergency, or otherwise assisting in the response to the public health emergency anywhere in the District, even if those services are duplicative of services also performed by the District government" in its place.</text>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-309.13" codified:doc="D.C. Code" codified:path="§1-309.13" codified:citation="§ 1-309.13" codified:display="Note"/>
       </para>
     </section>
   </container>
