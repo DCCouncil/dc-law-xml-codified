@@ -336,6 +336,17 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>18B</num>
+    <heading>Ivory and Horn Trafficking.</heading>
+    <annotation app="2020-08-06" doc="D.C. Law 23-126" eff="2020-08-06" path="" type="History" display="false"/>
+    <xi:include href="./sections/22-1861.xml"/>
+    <xi:include href="./sections/22-1862.xml"/>
+    <xi:include href="./sections/22-1863.xml"/>
+    <xi:include href="./sections/22-1864.xml"/>
+    <xi:include href="./sections/22-1865.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>19</num>
     <heading>Incest.</heading>
     <xi:include href="./sections/22-1901.xml"/>

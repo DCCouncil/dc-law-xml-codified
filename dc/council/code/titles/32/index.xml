@@ -38,6 +38,18 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>1A-i</num>
+    <heading>Workplace Safety Protections During a Public Health Emergency.</heading>
+    <annotation app="2020-08-13" doc="D.C. Act 23-384" eff="2020-08-13" path="" type="History" display="false"/>
+    <xi:include href="./sections/32-141.01.xml"/>
+    <xi:include href="./sections/32-141.02.xml"/>
+    <xi:include href="./sections/32-141.03.xml"/>
+    <xi:include href="./sections/32-141.04.xml"/>
+    <xi:include href="./sections/32-141.05.xml"/>
+    <xi:include href="./sections/32-141.06.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>1B</num>
     <heading>Reducing Single Occupancy Vehicle Use by Encouraging Transit Benefits.</heading>
     <annotation app="2014-12-17" doc="D.C. Law 20-142" eff="2014-12-17" path="" type="History" display="false"/>
