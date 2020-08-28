@@ -3,8 +3,14 @@
   <num>3-403.01</num>
   <heading>Funeral Bill of Rights during a public health emergency.</heading>
   <text>For a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, there shall be established a Funeral Bill of Rights designed to inform consumers of required pricing disclosures and other available consumer rights.  The Department of Consumer and Regulatory Affairs, in consultation with the Board of Funeral Directors and the Attorney General for the District of Columbia ("Attorney General"), shall write the Funeral Bill of Rights, which shall be published in the District of Columbia Register no later than May 8, 2020.  If the foregoing does not occur on or before May 1, 2020, the Attorney General may write the Funeral Bill of Rights and shall have it published in the District of Columbia Register no later than May 15, 2020.</text>
+  <codify:find-replace doc="D.C. Code" path="§3-403.01|heading" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§3-403.01">
+    <find>Funeral Bill of Rights</find>
+    <replace>Funeral Bill of Rights during a public health emergency</replace>
+  </codify:find-replace>
   <annotations>
+    <annotation doc="D.C. Law 5-84" type="History" path="§4a" display="false">May 22, 1984, D.C. Law 5-84, § 4a</annotation>
     <annotation doc="D.C. Law 5-84" type="History" path="§4a">May 22, 1984, D.C. Law 5-84, § 4a</annotation>
-    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§302|(a)" prefix="as added" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§302|(a)" type="History" display="false"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§302|(a)" prefix="as added" type="History"/>
   </annotations>
 </section>

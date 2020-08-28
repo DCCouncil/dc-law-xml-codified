@@ -418,10 +418,6 @@
             <find>.</find>
             <replace>;</replace>
           </codify:find-replace>
-          <codify:find-replace doc="D.C. Code" path="§28-3904|(ll)" count="1" codified:doc="D.C. Code" codified:path="§28-3904|(ll)">
-            <find>; or</find>
-            <replace>;</replace>
-          </codify:find-replace>
         </para>
         <para>
           <num>(C)</num>
