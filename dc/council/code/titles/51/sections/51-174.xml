@@ -1,68 +1,89 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>51-174</num>
-  <heading>Approval of shared work plan.</heading>
+  <heading>Approval and disapproval of a shared work plan.</heading>
   <para>
     <num>(a)</num>
-    <text>The Director may approve a shared work plan if:</text>
     <para>
       <num>(1)</num>
-      <text>The shared work plan applies to and identifies a specific affected unit;</text>
+      <text>The Director shall approve or disapprove an application for a shared work plan in writing within 15 calendar days of its receipt and promptly issue a notice of approval or disapproval to the employer.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The employer has at least 2 employees;</text>
+      <text>A decision disapproving the shared work plan shall clearly identify the reasons for the disapproval.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>The employees in the affected unit are identified by name and social security number;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>The shared work plan reduces the normal weekly hours of work for an employee in the affected unit by not less than 20% and not more than 40%;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>The shared work plan applies to at least 10% of the employees in the affected unit;</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>The shared work plan describes the manner in which the participating employer treats the fringe benefits of each employee in the affected unit;</text>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>The employer certifies that the shared work plan will not be used to reduce the fringe benefits offered to employees;</text>
-    </para>
-    <para>
-      <num>(8)</num>
-      <text>The employer certifies that the implementation of a shared work plan and the resulting reduction in work hours is in lieu of temporary layoffs that would affect at least 10% of the employees in the affected unit and that would result in an equivalent reduction in work hours; and</text>
-    </para>
-    <para>
-      <num>(9)</num>
-      <text>The employer has filed all reports required to be filed under the employment security law for all past and current periods and has paid all contributions, benefit cost payments, or, if the employer is a reimbursing employer, the employer has made all payments in lieu of contributions due for all past and current periods.</text>
+      <text>A decision to disapprove a shared work plan shall be final, but the employer may submit another application for a shared work plan not earlier than 10 calendar days from the date of the disapproval.</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
+    <text>Except as provided in subsections (c) and (d) of this section, the Director shall approve a shared work plan if the employer:</text>
     <para>
       <num>(1)</num>
-      <text>If any of the employees who participate in a shared work plan under this subchapter are covered by a collective bargaining agreement, the shared work plan shall be approved in writing by the collective bargaining agent.</text>
+      <text>Complies with the requirements of <cite path="§51-173">§ 51-173</cite>; and</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>An employee who is not subject to a collective bargaining agreement shall be given the option to participate in the shared work plan. If the employee chooses not to participate in the shared work plan, and if the employee is terminated, the employee shall be terminated without loss of benefits.</text>
+      <text>Has filed all reports required to be filed under the employment security law for all past and current periods and:</text>
+      <para>
+        <num>(A)</num>
+        <text>Has paid all contributions and benefit cost payments; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>If the employer is a reimbursing employer, has made all payments in lieu of contributions due for all past and current periods.</text>
+      </para>
     </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>A shared work plan shall not be implemented to subsidize seasonal employers during the off-season or to subsidize employers who have traditionally used part-time employees.</text>
+    <text>Except as provided in subsection (d) of this section, the Director may not approve a shared work plan:</text>
+    <para>
+      <num>(1)</num>
+      <text>To provide payments to an employee if the employee is employed by the participating employer on a seasonal, temporary, or intermittent basis;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If the employer's unemployment insurance account has a negative unemployment experience rating;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>If the employer's unemployment insurance account is taxed at the maximum tax rate in effect for the calendar year;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>For employers who have not qualified to have a tax rate assigned based on actual experience; or</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>For employees who are receiving or who will receive supplemental unemployment benefits, as that term is defined in section 501(c)(17)(D) of the Internal Revenue Code of 1986, approved August 16, 2954 (68A Stat. 163; 26 U.S.C. § 501(c)(17)(D)), during any period a shared work plan is in effect.</text>
+    </para>
   </para>
   <para>
     <num>(d)</num>
-    <text>The Director shall approve or deny a shared work plan, in writing, no later than the 30th day after the day the shared work plan is received by the Director. If the Director denies a shared work plan, the Director shall notify the employer of the reasons for the denial.</text>
+    <text>During the effective period of a shared work plan entered into during a public health emergency, subsection (c) of this section shall not apply. During a public health emergency, the Director may not approve a shared work plan:</text>
+    <para>
+      <num>(1)</num>
+      <text>To provide payments to an employee if the employee is employed by the participating employer on a seasonal, temporary, or intermittent basis;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For employees who are receiving or who will receive supplemental unemployment benefits, as that term is defined in section 501(c)(17)(D) of the Internal Revenue Code of 1986, approved August 16, 1954 (68A Stat. 163; 26 U.S.C. § 501(c)(17)(D)), during any period a shared work plan is in effect; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>For employers that have reported quarterly earnings to the Director for fewer than 3 quarters at the time of the application for the shared work unemployment compensation program.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>For the purposes of this section, the term "public health emergency" means the public health emergency declared in the Mayor's order dated March 11, 2020, and any extensions thereof.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-238" type="History" path="§5">Oct. 15, 2010, D.C. Law 18-238, § 5, 57 DCR 7181</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§51-176">§ 51-176</cite>.</annotation>
+    <annotation app="2020-06-08" doc="D.C. Act 23-328" eff="2020-06-08" path="§103|(c)" type="History"/>
   </annotations>
 </section>
