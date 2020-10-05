@@ -26,14 +26,16 @@
       <text>Agree to undergo an annual audit by DOH on its financial health and use of the award.</text>
     </para>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(b)</num>
     <text>Not Funded.</text>
   </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-651.07" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-651.07">Applicability of <cite doc="D.C. Law 22-179" path="">D.C. Law 22-179</cite>: <cite doc="D.C. Law 22-179" path="§301">§ 301 of D.C. Law 22-179</cite> provided that the creation of this section by <cite doc="D.C. Law 22-179" path="§107">§ 107 of D.C. Law 22-179</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2018-10-30" doc="D.C. Law 22-179" eff="2018-10-30" path="" type="History" display="false"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-179" eff="2018-10-30" path="§301|(a)" type="History" display="false"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-179" eff="2018-10-30" path="§107" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 22-179" path="§107" codified:display="Note" app="2018-10-30" eff="2018-10-30">Applicability of <cite doc="D.C. Law 22-179" path="">D.C. Law 22-179</cite>: <cite doc="D.C. Law 22-179" path="§301">§ 301 of D.C. Law 22-179</cite> provided that the creation of this section by <cite doc="D.C. Law 22-179" path="§107">§ 107 of D.C. Law 22-179</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§5142|(a)" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-91" path="§5142|(a)">§ 5142(a) of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
     <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§5142|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§5142|(a)" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§5142|(a)">§ 5142(a) of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
@@ -41,5 +43,7 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5142|(a)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5142|(c)" type="History" display="false"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5141" type="History" display="false"/>
+    <annotation doc="D.C. Law 23-16" path="§5142|(c)" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11"><cite doc="D.C. Law 23-16" path="§5142|(c)">Section 5142(c) of D.C. Law 23-16</cite> amended <cite doc="D.C. Law 22-179" path="§301|(a)">section 301(a) of D.C. Law 23-16</cite> removing the applicability provision impacting subsection (a) of this section.  Therefore, the addition of subsction (a) of this section by section 107 of Law 22-179 has been implemented.
+              </annotation>
   </annotations>
 </section>

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
   <reason>Not Funded</reason>
   <num>32-161</num>
   <heading>District of Columbia labor law universal notice requirements.</heading>
@@ -14,7 +14,13 @@
     <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§2102|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§2102|(a)" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§2102|(a)">§ 2102(a) of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§2102|(a)" type="History" display="false"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(1)|(A)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(1)|(B)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(A)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(B)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(C)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(D)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)|(2)|(E)" type="History"/>
     <annotation doc="D.C. Law 23-16" path="§2102|(a)" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11"><cite doc="D.C. Law 23-16" path="§2102|(a)">D.C. Law 23-16, § 2102(a),</cite> amended this section which is subject to appropriations pursuant to <cite doc="D.C. Law 22-196" path="§8">§ 8 of D.C. Law 22-196</cite>. Therefore the amendment made by D.C. Law 23-16 has not been implemented.
           </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2102|(a)" type="History" display="false"/>
