@@ -1,12 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-561.10</num>
   <heading>DFS reporting requirement.</heading>
-  <text>In the annual report filed pursuant to <cite path="§5-1501.04|(a)|(5)">§ 5-1501.04(a)(5)</cite>, the Director of the DFS shall include the number of sexual assault forensic examination kits received from the MPD and the number of sexual assault forensic examination kits processed by the DFS, including the time it took for each kit to be processed.</text>
+  <text>In the annual report filed pursuant to <cite path="§5-1501.04|(a)|(5)">§ 5-1501.04(a)(5)</cite>, the Director of the DFS shall provide, for the prior calendar year:</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>The number of PERKs received from the MPD;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The number of PERKs processed by the DFS or an accredited laboratory to which the DFS delegated the processing;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The average time it took for PERKs to be processed by the DFS or an accredited laboratory to which the DFS delegated the processing;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The longest period of time it took for PERKs to be processed by the DFS or an accredited laboratory to which the DFS delegated the processing;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The number of PERKS involved in consumption litigation;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The number of times in which an accredited laboratory to which the DFS delegated the processing failed to comply with the time periods described in <cite path="§4-561.02|(b)">§ 4-561.02(b)</cite>;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>If permission to consume was requested, the number of cases in which processing was completed 90 days after the PERK was received by the DFS due to consumption litigation; and</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>The number of days in which each PERK was delayed awaiting a consumption litigation determination.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 20-139" type="History" path="§210">Nov. 20, 2014, D.C. Law 20-139, § 210, 61 DCR 5913</annotation>
     <annotation doc="D.C. Law 23-57" path="§9|(a)" type="Applicability" history="false" display-template="" app="2020-03-03" eff="2020-03-03"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</annotation>
     <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(i)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(i)" type="History"/>
   </annotations>
 </section>

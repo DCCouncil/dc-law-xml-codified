@@ -2,44 +2,91 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-561.13</num>
   <heading>Duties and responsibilities of the SART.</heading>
-  <para>
-    <num undesignated="true">(a)</num>
-    <text>The SART shall:</text>
-    <para>
-      <num>(1)</num>
-      <text>Improve the coordination and functioning of victim services, medical forensic care, investigations, and prosecutions available to victims of sexual assault;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Conduct regular case reviews, through the Case Review Subcommittee established by <cite path="§4-561.14">§ 4-561.14</cite>, of all parties involved in sexual assault responses, including a review of sexual assault reports and investigations by the MPD and cases reported to any member of the SART; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Develop a protocol to ensure that feedback and recommendations from the Case Review Subcommittee, established by <cite path="§4-561.14">§ 4-561.14</cite>, are incorporated into SART member agencies’ policies, procedures, practices, training, and decisions to re-examine investigations, when applicable.</text>
-    </para>
-    <para placeholder="Not Funded">
-      <num>(4)</num>
-      <text>[Not Applicable].</text>
-    </para>
-    <para placeholder="Not Funded">
-      <num>(5)</num>
-      <text>[Not Applicable].</text>
-    </para>
-  </para>
   <annotations>
     <annotation doc="D.C. Law 20-139" type="History" path="§213">Nov. 20, 2014, D.C. Law 20-139, § 213, 61 DCR 5913</annotation>
     <annotation doc="D.C. Law 23-57" path="§9|(a)" type="Applicability" history="false" display-template="" app="2020-03-03" eff="2020-03-03"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</annotation>
     <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(2)|(A)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(2)|(B)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(2)|(C)|(i)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(2)|(C)|(ii)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(2)|(D)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(3)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(1)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(2)|(A)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(2)|(B)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(2)|(C)|(i)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(2)|(C)|(ii)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(2)|(D)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(1)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(k)|(3)" type="History"/>
   </annotations>
-  <para placeholder="Not Funded">
+  <para>
+    <num>(a)</num>
+    <para>
+      <num undesignated="true">(a)</num>
+      <text>The SART shall:</text>
+      <para>
+        <num>(1)</num>
+        <text>Improve the coordination and functioning of victim services, medical forensic care, investigations, and prosecutions available to sexual assault victims;</text>
+      </para>
+      <para>
+        <num>(2)</num>
+        <text>Conduct regular case reviews, through the Case Review Subcommittee, of all parties involved in sexual assault responses involving sexual assault victims 18 years of age or older, including a review of sexual assault reports and investigations by the MPD and cases reported to any member of the SART;</text>
+      </para>
+      <para>
+        <num>(3)</num>
+        <text>Develop a protocol to ensure that feedback and recommendations from the Case Review Subcommitteeare incorporated into SART member agencies’ policies, procedures, practices, training, and decisions to re-examine investigations, when applicable;</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Establish a Feedback Review Committee for the purpose of receiving and investigating all complaints and comments from sexual assault victims, including complaints and comments regarding the United States Attorney's Office for the District of Columbia; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>By January 1, 2022, submit a report to the Mayor and the Council that includes the following:</text>
+      <para>
+        <num>(A)</num>
+        <text>A summary of the case review activities conducted pursuant to paragraph (2) of this subsection;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A summary of all feedback received and the findings of all investigations conducted pursuant to paragraph (4) of this subsection;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The number of sexual assault victims who were informed by the MPD of the results of their PERK;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>A discussion of any trends related to victimization and reporting;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>A description of the activities conducted by the SART during the preceding fiscal year; and</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Activities planned by the SART for the following fiscal year.</text>
+      </para>
+    </para>
+  </para>
+  <para>
     <num>(b)</num>
-    <text>[Not Applicable].</text>
+    <text>Each SART member shall provide the following data to other members of the SART:</text>
+    <para>
+      <num>(1)</num>
+      <text>The numbers of sexual assault victims served by each SART member;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The demographics of sexual assault victims and offenders, if known, served by each SART member;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The type and extent of service provided to each sexual assault victim by each SART member;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The disposition of each case closed by the SART member; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Any other information requested by the Director of the OVSJG or the chairperson of the SART that is directly related to sexual assault cases; provided, that the information is not otherwise confidential or privileged under District or federal law.</text>
+    </para>
   </para>
 </section>

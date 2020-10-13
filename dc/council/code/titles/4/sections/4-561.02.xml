@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-561.02</num>
-  <heading>Processing of sexual assault forensic examination kits and specimens.</heading>
+  <heading>Processing of PERKs and specimens.</heading>
   <para>
     <num>(a)</num>
-    <text>Within 7 days after a sexual assault victim makes a report to the MPD, the MPD shall retrieve the kits and specimens and deliver:</text>
+    <text>Within 7 days after a sexual assault victim makes a report to the MPD, the MPD shall retrieve any PERK and specimens and deliver:</text>
     <para>
       <num>(1)</num>
-      <text>The sexual assault forensic examination kit to the DFDFS; and</text>
+      <text>The PERK to the DFS; and</text>
     </para>
     <para>
       <num>(2)</num>
@@ -16,25 +16,55 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>The DFS shall process all sexual assault forensic examination kits within 90 days from the date of receipt.</text>
+    <para>
+      <num>(1)</num>
+      <text>If a PERK is not involved in consumption litigation, the DFS shall process the PERK within 90 days after DFS receives the PERK.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If a PERK is involved in consumption litigation, the DFS shall process the PERK within 90 days after the DFS receives a consumption determination from the prosecution.</text>
+    </para>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(b-1)</num>
-    <text>[Not Applicable].</text>
+    <para>
+      <num>(1)</num>
+      <text>Notwithstanding subsection (b) of this section, the DFS may delegate the processing of a PERK to an accredited laboratory pursuant to a statement of work, which shall establish protocols for:</text>
+      <para>
+        <num>(A)</num>
+        <text>DFS to notify the accredited laboratory that a PERK is available for processing;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Delivery of the PERK to the accredited laboratory;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Processing the PERK; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Delivery of the PERK and any results to the DFS.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Even if DFS delegates the processing of a PERK to an accredited laboratory, DFS shall comply with the time periods described in subsection (b) of this section.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>The OCME shall process all biological specimens within 90 days from the date of receipt.</text>
+    <text>The OCME shall process all biological specimens within 90 days after the date of receipt.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 20-139" type="History" path="§202">Nov. 20, 2014, D.C. Law 20-139, § 202, 61 DCR 5913</annotation>
     <annotation doc="D.C. Law 23-57" path="§9|(a)" type="Applicability" history="false" display-template="" app="2020-03-03" eff="2020-03-03"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</annotation>
     <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(b)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(b)|(2)|(A)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(b)|(2)|(B)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(b)|(3)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(b)|(4)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(b)|(5)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(b)|(1)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(b)|(2)|(A)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(b)|(2)|(B)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(b)|(3)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(b)|(4)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§3|(b)|(5)" type="History"/>
   </annotations>
 </section>

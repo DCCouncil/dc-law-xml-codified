@@ -1,21 +1,66 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>23-1910</num>
   <heading>Access to information.</heading>
-  <text>In addition to the notice requirements set forth in <cite path="23|19|I">subchapter I of this chapter</cite>, upon request by the sexual assault victim, the MPD shall:</text>
   <para>
-    <num>(1)</num>
-    <text>Inform the sexual assault victim of the toxicology results and findings of his or her sexual assault forensic kit examination; provided, that the MPD is not required to disclose to the sexual assault victim the identity of any suspect implicated by DNA or similar testing for cases with an open investigation or active prosecution; and</text>
+    <num>(a)</num>
+    <text>Except as provided in subsection (b) of this section, in addition to the notice requirements set forth in <cite path="23|19|I">subchapter I of this chapter</cite>, for a sexual assault victim 13 years of age or older, MPD shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Inform the sexual assault victim of:</text>
+      <para>
+        <num>(A)</num>
+        <text>The status of any medical forensic examination, PERK, or toxicology test related to the sexual assault, including the reasons for any delay in processing and the eventual completion of the testing and analysis of specimens related to the case, within 15 business days after any material change in the status of the medical forensic examination, PERK, or toxicology test; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Any PERK test results, DNA testing results, toxicology report, or other information collected as part of a medical forensic examination within 15 business days after the results become available; provided, that the MPD is not required to disclose to the sexual assault victim the identity of any suspect implicated by DNA or similar testing for cases with an open investigation or active prosecution;</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Provide the sexual assault victim, upon request, with a written copy of all policies governing the administration and preservation of a PERK;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Have the PERK and its probative contents preserved for 65 years from the date the crime is first reported to the law enforcement agency, as that term is defined in <cite path="§5-113.31|(9)">§ 5-113.31(9)</cite>;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Provide the sexual assault victim with written notification at least 60 days before the date of the intended destruction or disposal of the PERK; and</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Make reasonable attempts to notify a sexual assault victim 13 years of age or older of the MPD's intent to communicate with a suspect before communicating with the suspect and alerting the suspect of the sexual assault allegation made against the suspect; provided, that if prior notification is not possible, notification shall be made as soon as is reasonably possible after the communication with the suspect has occurred.</text>
+    </para>
   </para>
   <para>
-    <num>(2)</num>
-    <text>Make reasonable attempts to notify a sexual assault victim of the MPD’s intent to communicate with the suspect before communicating with the suspect and alerting the suspect of the sexual assault allegation made against the suspect; provided, that if prior notification is not possible, notification shall be made as soon as is reasonably possible after the communication with the suspect has occurred.</text>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>A sexual assault victim 13 years of age or older may request, in writing, that the MPD not perform any of its duties described in subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If a sexual assault victim 13 years of age or older requests that the MPD not perform any of its duties described in subsection (a) of this section, the MPD shall not perform those duties, unless the sexual assault victim later requests that the MPD perform those duties; provided, that if a sexual assault victim requests that the MPD not preserve his or her PERK and its probative contents pursuant to subsection (a)(3) of this section, a sexual assault victim may not subsequently request that the MPD preserve his or her PERK and its probative contents pursuant to subsection (a)(3) of this section.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <para>
+        <num>(A)</num>
+        <text>The DFS shall notify the MPD of any material change in the status of any medical forensic examination, PERK, or toxicology test within 7 days after the material change.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The DFS shall notify the MPD of any PERK test results, DNA testing results, toxicology report, or other information collected as part of a medical forensic examination within 7 business days after the results become available.</text>
+      </para>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 20-139" type="History">Nov. 20, 2014, D.C. Law 20-139, § 101(c), 61 DCR 5913</annotation>
     <annotation doc="D.C. Law 23-57" path="§9|(a)" type="Applicability" history="false" display-template="" app="2020-03-03" eff="2020-03-03"><cite doc="D.C. Law 23-57" path="§9|(a)">Section 9(a) of D.C. Law 23-57</cite> provided that the amendments made to this section shall apply as of October 1, 2020.  Therefore those amendments shall be implemented for this section on October 1, 2020.</annotation>
     <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(a)" type="History" display="false"/>
-    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§9|(b)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-57" eff="2020-03-03" path="§8|(e)" type="History"/>
+    <annotation app="2020-03-03" doc="D.C. Law 23-57" eff="2020-03-03" path="§8|(e)" type="History"/>
   </annotations>
 </section>
