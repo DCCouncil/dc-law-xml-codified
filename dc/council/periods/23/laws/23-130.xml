@@ -3,7 +3,7 @@
   <num type="law">23-130</num>
   <num type="bill">23-758</num>
   <num type="act">23-334</num>
-  <heading type="short">Coronavirus Support Temporary Emergency Amendment Act of 2020 [Effective from October 9, 2020]</heading>
+  <heading type="short">Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020]</heading>
   <heading type="long">To provide, on a temporary basis, due to congressional review, for the health, safety, and welfare of District residents and support to businesses during the current public health emergency; and for other purposes</heading>
   <meta>
     <introduced>2020-05-18</introduced>
@@ -1225,6 +1225,7 @@
                 </para>
               </para>
               <para>
+                <codify:insert path="§25-113|(a)|(3)" codified:doc="D.C. Code" codified:path="§25-113|(a)|(3)|(D)"/>
                 <num>(D)</num>
                 <para>
                   <num>(i)</num>
@@ -4692,6 +4693,7 @@
     <num>VI</num>
     <heading>EDUCATION</heading>
     <section>
+      <codify:marginalia display="DCMR"/>
       <num>601</num>
       <heading>Graduation requirements.</heading>
       <text>Chapter 22 of Title 5-A of the District of Columbia Municipal Regulations (5-A DCMR § 2201 et seq.) is amended as follows:</text>
@@ -5455,6 +5457,7 @@
       </para>
     </section>
     <section>
+      <codify:marginalia display="DCMR"/>
       <num>805</num>
       <heading>Absentee ballot request signature waiver.</heading>
       <text>Section 720.7(h) of Title 3 of the District of Columbia Municipal Regulations (3 DCMR § 720.7(h)) is amended by striking the phrase "Voter's signature" and inserting the phrase "Except for a request for an absentee ballot for the June 2, 2020, Primary Election or the June 16, 2020, Ward 2 Special Election, voter's signature" in its place.</text>
