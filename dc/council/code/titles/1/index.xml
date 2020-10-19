@@ -890,6 +890,7 @@
         <xi:include href="./sections/1-309.11.xml"/>
         <xi:include href="./sections/1-309.12.xml"/>
         <xi:include href="./sections/1-309.13.xml"/>
+        <xi:include href="./sections/1-309.13a.xml"/>
         <xi:include href="./sections/1-309.14.xml"/>
         <xi:include href="./sections/1-309.15.xml"/>
       </container>
@@ -1239,6 +1240,13 @@
         <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="VI|A" type="History" display="false"/>
         <xi:include href="./sections/1-325.401.xml"/>
       </container>
+      <container>
+        <prefix>Part</prefix>
+        <num>PP</num>
+        <heading>Audit Engagement Fund.</heading>
+        <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="I" type="History" display="false"/>
+        <xi:include href="./sections/1-325.411.xml"/>
+      </container>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1405,11 +1413,12 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>XVIII</num>
-      <heading>Expenditure Commission.</heading>
+      <heading>Expenditure Commission. [Repealed]<annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7106" type="History"/></heading>
       <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="VII" type="History" display="false"/>
       <xi:include href="./sections/1-361.01.xml"/>
       <xi:include href="./sections/1-361.02.xml"/>
       <xi:include href="./sections/1-361.03.xml"/>
+      <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7106" type="History"/>
     </container>
   </container>
   <container>
@@ -1533,6 +1542,17 @@
       <xi:include href="./sections/1-551.05.xml"/>
       <xi:include href="./sections/1-551.06.xml"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>X</num>
+      <heading>Freeze on Pay Increases and Benefits fromOctober 1, 2020 through September 30, 2021.</heading>
+      <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="I" type="History" display="false"/>
+      <xi:include href="./sections/1-555.01.xml"/>
+      <xi:include href="./sections/1-555.02.xml"/>
+      <xi:include href="./sections/1-555.03.xml"/>
+      <xi:include href="./sections/1-555.04.xml"/>
+      <xi:include href="./sections/1-555.05.xml"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1619,6 +1639,14 @@
       <num>VII-A</num>
       <heading>Residency Requirement. [Repealed].</heading>
       <xi:include href="./sections/1-607.51.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VII-B</num>
+      <heading>Transgender and Non-Binary Employment Study.</heading>
+      <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="II" type="History" display="false"/>
+      <xi:include href="./sections/1-607.61.xml"/>
+      <xi:include href="./sections/1-607.62.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

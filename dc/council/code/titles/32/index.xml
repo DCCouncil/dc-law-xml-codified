@@ -76,6 +76,14 @@
     <xi:include href="./sections/32-171.03.xml"/>
     <xi:include href="./sections/32-171.04.xml"/>
     <xi:include href="./sections/32-171.05.xml"/>
+    <xi:include href="./sections/32-181.01.xml"/>
+    <xi:include href="./sections/32-181.02.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1E</num>
+    <heading>Unemployment Insurance Information Technology Benefits and Tax System; Certain Information to be Available When American Job Centers are Closed.</heading>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="II" type="History" display="false"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -119,6 +127,8 @@
       <xi:include href="./sections/32-243.xml"/>
       <xi:include href="./sections/32-244.xml"/>
       <xi:include href="./sections/32-245.xml"/>
+      <xi:include href="./sections/32-246.xml"/>
+      <xi:include href="./sections/32-247.xml"/>
     </container>
   </container>
   <container>
@@ -259,6 +269,16 @@
       <heading>Universal Paid Leave Implementation Fund.</heading>
       <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="I|P" type="History" display="false"/>
       <xi:include href="./sections/32-551.01.xml"/>
+      <xi:include href="./sections/32-551.02.xml"/>
+      <xi:include href="./sections/32-551.03.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VI</num>
+      <heading>Workplace Leave Navigators.</heading>
+      <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="II" type="History" display="false"/>
+      <xi:include href="./sections/32-561.01.xml"/>
+      <xi:include href="./sections/32-561.02.xml"/>
     </container>
   </container>
   <container>
@@ -326,6 +346,7 @@
     <num>7C</num>
     <heading>Job Training and Adult Education Programs Quarterly Reports.</heading>
     <xi:include href="./sections/32-771.xml"/>
+    <xi:include href="./sections/32-772.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -792,6 +813,18 @@
       <num>IV</num>
       <heading>Adult Training Funding. [Repealed]</heading>
       <xi:include href="./sections/32-1671.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>V</num>
+      <heading>Healthcare Workforce Partnership.</heading>
+      <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="II" type="History" display="false"/>
+      <xi:include href="./sections/32-1681.xml"/>
+      <xi:include href="./sections/32-1682.xml"/>
+      <xi:include href="./sections/32-1683.xml"/>
+      <xi:include href="./sections/32-1684.xml"/>
+      <xi:include href="./sections/32-1685.xml"/>
+      <xi:include href="./sections/32-1686.xml"/>
     </container>
   </container>
 </container>

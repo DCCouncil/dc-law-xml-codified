@@ -1,15 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1001.18</num>
   <heading>Enforcement of act; penalties.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Recommendations of criminal or civil, or both, violations of <cite path="1|10|I">this subchapter</cite> shall be presented by the General Counsel to the Board in accordance with the rules and regulations adopted by the Board in accordance with the provisions of <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Any person who violates any provision of <cite path="1|10|I">this subchapter</cite> may be assessed a civil penalty for each violation of not more than $2,000 by the Board pursuant to subsection (d) of this section. For the purposes of this section, each day of noncompliance with an order of the Board shall constitute a separate offense.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>A person who aids, abets, or participates in the violation of any provision of <cite path="1|10|I">this subchapter</cite> shall be subject to a civil penalty not to exceed $1,000.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>A civil penalty shall be assessed by the Board by order. An order assessing a civil penalty may be issued only after the person charged with a violation has been given an opportunity for a hearing and the Board has determined, by a decision incorporating its findings of facts, that a violation did occur, and the amount of the penalty. Any hearing under this section shall be on the record and shall be held in accordance with <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If a person against whom a civil penalty is assessed fails to pay the penalty, the Board shall file a petition for enforcement of its order assessing the penalty in the Superior Court of the District of Columbia. The petition shall designate the person against whom the order is sought to be enforced as the respondent. A copy of the petition shall be sent by registered or certified mail to the respondent and the respondent's attorney of record, and the Board shall certify and file in court the record upon which the order sought to be enforced was issued. The court shall have jurisdiction to enter a judgment enforcing, modifying and enforcing as so modified, or setting aside, in whole or in part, the order and the decision of the Board, or it may remand the proceedings to the Board for further action as it may direct. The court may determine de novo all issues of law, but the Board's findings of fact, if supported by substantial evidence, shall be conclusive.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>For the purposes of <cite path="1|10|I">this subchapter</cite>, actions of an agent acting for a candidate shall be imputed to the candidate; provided, that the actions of the agent may not be imputed to the candidate in the presence of a provision of law requiring a willful and knowing violation of <cite path="1|10|I">this subchapter</cite>, unless the agency relationship to engage in the act is shown by clear and convincing evidence.</text>
+  </para>
   <annotations>
     <annotation type="History" doc="Stat. 84-1-ch862" path="§18">Aug. 12, 1955, 69 Stat. 700, ch. 862, § 18</annotation>
-    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§10|(a)|(1)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-250" eff="2019-03-13" path="§5|(e)" prefix="as added" type="History"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§5|(e)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-250" path="§5|(e)" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-250" path="">D.C. Law 22-250</cite>: <cite doc="D.C. Law 22-250" path="§10">§ 10 of D.C. Law 22-250</cite> provided that the creation of this section by <cite doc="D.C. Law 22-250" path="§5|(e)">§ 5(e) of D.C. Law 22-250</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§5|(e)" type="History"/>
+    <annotation doc="D.C. Law 22-250" path="§10|(a)" type="Applicability" history="false" display-template="" app="2019-03-13" eff="2019-03-13">
+                Applicability of <cite doc="D.C. Law 22-250" path="§10">D.C. Law 22-250: § 10 of D.C. Law 22-250</cite>, as amended by <cite doc="D.C. Act 23-404" path="§1104">§ 1104 of D.C. Act 23-404</cite>, repealed the requirement that <cite doc="D.C. Law 22-250" path="§5|(e)">§ 5(e) of D.C. Law 22-250</cite> would be subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the creation of this section by <cite doc="D.C. Law 22-250" path="§5|(e)">§ 5(e) of D.C. Law 22-250</cite> has been implemented.
+              </annotation>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§10|(a)" type="History" display="false"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§1043|(a)" type="History" display="false"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§1104" type="History" display="false"/>
   </annotations>
 </section>

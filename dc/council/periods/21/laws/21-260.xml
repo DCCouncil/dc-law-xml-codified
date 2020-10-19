@@ -291,7 +291,7 @@
         <para codify:path="(b)">
           <num>(1)</num>
           <text>Subsection (b) is amended by striking the phrase "class A or B" both times it appears and inserting the phrase "class A, B, or C" in its place.</text>
-          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§[25-113.01]|(b)">
+          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§25-113.01|(b)">
             <find>class A or B</find>
             <replace>class A, B, or C</replace>
           </codify:find-replace>
@@ -299,7 +299,7 @@
         <para codify:path="(c)">
           <num>(2)</num>
           <text>Subsection (c) is amended by striking the phrase "class A or B" both times it appears and inserting the phrase "class A, B, or C" in its place.</text>
-          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§[25-113.01]|(c)">
+          <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§25-113.01|(c)">
             <find>class A or B</find>
             <replace>class A, B, or C</replace>
           </codify:find-replace>

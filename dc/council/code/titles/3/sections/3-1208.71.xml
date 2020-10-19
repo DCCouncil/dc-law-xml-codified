@@ -1,15 +1,60 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>3-1208.71</num>
   <heading>Qualifications for licensure.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Board of Professional Counseling shall license as a professional art therapist a person who, in addition to meeting the requirements of <cite path="3|12|V">subchapter V of this chapter</cite>, has:</text>
+    <para>
+      <num>(1)</num>
+      <text>Satisfactorily completed:</text>
+      <para>
+        <num>(A)</num>
+        <text>A Master's degree from an accredited college or university in a program in art therapy that was either approved by the American Art Therapy Association or accredited by the Commission on Accreditation of Allied Health Education Programs at the time the degree was conferred or a substantially equivalent program, as determined by the Board; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A Doctoral degree in art therapy or a related subject, including psychology, professional counseling, or marriage and family therapy, from an accredited college or university, as approved by the Board;</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Successfully completed a minimum of 2 years of work experience in art therapy following completion of the graduate degree consisting of at least 3,000 hours, of which at least 1,000 hours involve practice in direct contact with clients and at least 200 hours were under the immediate supervision of an art therapy certified supervisor, licensed professional art therapist, board certified art therapist, or other licensed mental health professional approved by the Board, with at least one hour of direct supervision provided per 15 hours of practice in direct contact with clients; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Achieved a passing score on the Art Therapy Credentials Board Examination or its successor exam.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Board of Professional Counseling shall license as a graduate professional art therapist a person who, in addition to meeting the requirements of <cite path="3|12|V">subchapter V of this chapter</cite>:</text>
+    <para>
+      <num>(1)</num>
+      <text>Has satisfactorily completed a:</text>
+      <para>
+        <num>(A)</num>
+        <text>Master's degree from an accredited college or university in a program in art therapy that was either approved by the American Art Therapy Association or accredited by the Commission on Accreditation of Allied Health Education Programs at the time the degree was conferred or a substantially equivalent program, as determined by the Board; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Doctoral degree in art therapy or a related subject, including psychology, professional counseling, or marriage and family therapy, from an accredited college or university, as approved by the Board.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The Board of Professional Counseling shall license as a professional art therapist by endorsement a person who, in addition to meeting the requirements of<cite path="3|12|V">subchapter V of this chapter</cite>, is currently licensed in good standing in another state that has licensing requirements that are equivalent to or exceed the requirements of subsection (a) of this section.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§3-1208.71" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-1208.71">Applicability of <cite doc="D.C. Law 23-115" path="">D.C. Law 23-115</cite>: <cite doc="D.C. Law 23-115" path="§3">§ 3 of D.C. Law 23-115</cite> provided that the creation of this section by <cite doc="D.C. Law 23-115" path="§2|(f)">§ 2(f) of D.C. Law 23-115</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 6-99" type="History" path="§871">Mar. 25, 1986, D.C. Law 6-99, § 871</annotation>
-    <annotation app="notfunded" doc="D.C. Law 23-115" eff="2020-06-24" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-115" eff="2020-06-24" path="§2|(f)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-115" eff="2020-06-24" path="§2|(f)" prefix="as added" type="History"/>
+    <annotation app="2020-06-24" doc="D.C. Law 23-115" eff="2020-06-24" path="§2|(f)" type="History" display="false"/>
+    <annotation app="2020-06-24" doc="D.C. Law 23-115" eff="2020-06-24" path="§2|(f)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-115" path="§2|(f)" codified:display="Note" app="2020-06-24" eff="2020-06-24">Applicability of <cite doc="D.C. Law 23-115" path="">D.C. Law 23-115</cite>: <cite doc="D.C. Law 23-115" path="§3">§ 3 of D.C. Law 23-115</cite> provided that the creation of this section by <cite doc="D.C. Law 23-115" path="§2|(f)">§ 2(f) of D.C. Law 23-115</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-06-24" doc="D.C. Law 23-115" eff="2020-06-24" path="§2|(f)" type="History"/>
+    <annotation doc="D.C. Act 23-404" path="§7081" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7081">Section 7081 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-115" path="§3">section 3 of D.C. Law 23-115</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-115 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7081" type="History" display="false"/>
   </annotations>
 </section>

@@ -1,15 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1402.92</num>
   <heading>Prohibited discrimination.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>[(a)]</num>
+    <text>It shall be an unlawful discriminatory practice for a health care provider to do any of the following against a health care professional based on the health care professional's participation in an abortion or sterilization procedure, participation in abortion or sterilization training outside the course and scope of the health care professional's employment with that health care provider, or willingness to participate in an abortion or sterilization procedure:</text>
+    <para>
+      <num>(1)</num>
+      <text>Fail or refuse to hire the health care professional;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Discharge the health care professional from employment or a medical training program;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Transfer the health care professional;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Discriminate against the health care professional with respect to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Compensation or promotion;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Residency or other medical training opportunity;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Staff privileges, admitting privileges, or staff appointments; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Licensure or board certification;</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Take adverse administrative action against the health care professional;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Harass the health care professional; or</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Otherwise penalize, discipline, or take adverse or retaliatory action against the health care professional.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 2-38" type="History" path="§292">Dec. 13, 1977, D.C. Law 2-38, title II, § 292</annotation>
-    <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(b)|(2)" type="History" display="false"/>
+    <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(b)|(2)" type="History" display="false"/>
     <annotation type="Applicability" doc="D.C. Law 23-90" path="§2|(b)|(2)" codified:display="Note" app="2020-05-06" eff="2020-05-06">Applicability of <cite doc="D.C. Law 23-90" path="">D.C. Law 23-90</cite>: <cite doc="D.C. Law 23-90" path="§3">§ 3 of D.C. Law 23-90</cite> provided that the creation of this section by <cite doc="D.C. Law 23-90" path="§2|(b)|(2)">§ 2(b)(2) of D.C. Law 23-90</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(b)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(b)|(2)" type="History"/>
+    <annotation doc="D.C. Act 23-404" path="§7077" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7077">Section 7077 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-90" path="§3">section 3 of D.C. Law 23-90</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-90 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7077" type="History" display="false"/>
   </annotations>
 </section>

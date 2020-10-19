@@ -1,55 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>44-664.05</num>
-  <heading>Medicaid outpatient hospital access payments.</heading>
+  <heading>Medicaid outpatient hospital access payments; payments to MCOs.</heading>
   <para>
     <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>For visits and services beginning October 1, 2019, quarterly Medicaid outpatient hospital access payments shall be made to each private hospital.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Each payment will be equal to the hospital's District Fiscal Year outpatient Medicaid payments divided by the total in District private hospital [outpatient Medicaid payments] for the District Fiscal Year 3 years prior to the current fiscal year  multiplied by 1/4 of the total outpatient private hospital access payment pool.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The total outpatient private hospital access payment pool is equal to the total available spending room under the private hospital outpatient Medicaid upper payment limit for each District Fiscal Year.</text>
-    </para>
+    <text>For visits and services beginning October 1, 2020, the District shall pay managed care organizations ("MCOs") at a rate sufficient to support payments to hospitals located in the District for outpatient services at a rate that is not less than 130% of the District Fiscal Year 2020 fee-for-service base rate and shall direct MCOs to pay such rate to their participating hospitals located in the District for such services.</text>
   </para>
   <para>
     <num>(b)</num>
-    <para>
-      <num>(1)</num>
-      <text>For visits and services beginning October 1, 2019, outpatient hospital access payments shall be made to the United Medical Center.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Each payment shall be equal to 1/4 of the total outpatient public hospital access payment pool.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The total outpatient public hospital access payment pool is equal to the total available spending room under the District-operated hospital outpatient Medicaid upper payment limit for each District Fiscal Year.</text>
-    </para>
+    <text>No payment shall be made under this section until such time that the Centers for Medicare and Medicaid Services approves the Medicaid State Plan amendment, associated template, and other authorities authorizing the Medicaid payments described in this section.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>The quarterly Medicaid outpatient hospital access payments shall be made within 15 business days after the end of each DFY quarter for the Medicaid visits and services rendered during that quarter.</text>
+    <text>The Medicaid payment methodologies authorized under this section shall not be altered unless such alteration is necessary to gain approval from the Centers for Medicare and Medicaid Services.</text>
   </para>
-  <para>
-    <num>(d)</num>
-    <text>No payments shall be made under this section until such time that the Centers for Medicare and Medicaid Services approves the Medicaid State Plan amendment authorizing the Medicaid payments described in <cite path="44|6A|VII">this subchapter</cite>.</text>
-  </para>
-  <para>
-    <num>(e)</num>
-    <text>The Medicaid payment methodologies authorized under <cite path="44|6A|VII">this subchapter</cite> shall not be altered in any way unless such alteration is necessary to gain federal approval from the Centers for Medicare and Medicaid Services.</text>
-  </para>
-  <codify:annotation doc="D.C. Code" path="§44-664.05" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§44-664.05">
-          For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-104" path="§5066">§ 5066 of the Fiscal Year 2018 Budget Support Emergency Act of 2017, effective July 20, 2017 (D.C. Act 22-104; 64 DCR 7032)</cite>.
-        </codify:annotation>
-  <codify:annotation doc="D.C. Code" path="§44-664.05" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§44-664.05">
-          For temporary (90-day) creation of this section, see <cite doc="D.C. Act 22-167" path="§5066">§ 5066 of the Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017, effective October 24, 2017 (D.C. Act 22-167; 64 DCR 10802)</cite>.
-        </codify:annotation>
   <annotations>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="V" type="History" display="false"/>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§5066" type="History"/>
@@ -79,5 +43,6 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5082|(d)|(1)|(C)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5082|(d)|(2)|(A)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5082|(d)|(2)|(B)" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§5002|(e)" type="History"/>
   </annotations>
 </section>

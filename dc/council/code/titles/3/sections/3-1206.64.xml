@@ -1,20 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>3-1206.64</num>
   <heading>Administration of medications.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The practice guidelines governing drugs and medications shall provide for legal authorization, storage, administration, and record keeping, including requiring that:</text>
+    <para>
+      <num>(1)</num>
+      <text>Medications be ordered by a certified-nurse midwife, CPM, physician, or other member of the staff who is licensed to write such orders;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Medication orders be recorded in the patient-client's chart and signed by the ordering person with his or her full signature; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Medications be administered by a physician, nurse midwife, CPM, registered nurse or licensed practical nurse and in accordance with the approved practice guidelines by the Board of Medicine.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§3-1206.64" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-1206.64">Applicability of <cite doc="D.C. Law 23-97" path="">D.C. Law 23-97</cite>: <cite doc="D.C. Law 23-97" path="§6">§ 6 of D.C. Law 23-97</cite> provided that the creation of this section by <cite doc="D.C. Law 23-97" path="§2|(e)">§ 2(e) of D.C. Law 23-97</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 6-99" type="History" path="§664">Mar. 25, 1986, D.C. Law 6-99, § 664</annotation>
     <annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" app="2020-06-17" eff="2020-06-17" path="§5" display="false"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <cite path="2|5">Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
     </annotation>
     <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§5" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
     <annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" app="2020-06-17" eff="2020-06-17" path="§5"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <cite path="2|5">Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
     </annotation>
-    <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="§2|(e)" prefix="as added" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§2|(e)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-97" path="§2|(e)" codified:display="Note" app="2020-06-17" eff="2020-06-17">Applicability of <cite doc="D.C. Law 23-97" path="">D.C. Law 23-97</cite>: <cite doc="D.C. Law 23-97" path="§6">§ 6 of D.C. Law 23-97</cite> provided that the creation of this section by <cite doc="D.C. Law 23-97" path="§2|(e)">§ 2(e) of D.C. Law 23-97</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§2|(e)" type="History"/>
+    <annotation doc="D.C. Act 23-404" path="§7078" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7078">Section 7078 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-97" path="§6">section 6 of D.C. Law 23-97</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-97 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7078" type="History" display="false"/>
   </annotations>
 </section>

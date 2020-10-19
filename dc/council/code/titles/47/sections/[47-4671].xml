@@ -1,21 +1,53 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>[47-4671]</num>
   <heading>Mypheduh Films DBA Sankofa Video and Books, Lot 884, Square 2885.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The real property designated for tax purposes as Lot 884, Square 2885, located at 2714 Georgia Avenue, N.W., ("Property"), which is owned by Mypheduh Films, Inc., (dba) Sankofa Video and Books, shall be exempt from the tax imposed by <cite path="47|8">Chapter 8 of this title</cite> for the period beginning October 1, 2019, and ending September 30, 2029; provided, that:</text>
+    <para>
+      <num>(1)</num>
+      <text>The Property is owned and maintained by Mypheduh Films, Inc., (dba) Sankofa Video and Books, or by an entity controlled, directly or indirectly, by Mypheduh Films, Inc., (dba) Sankofa Video and Books;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Property is operated as a cafe, video store, or bookstore;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>At least 51% of permanent jobs in the Sankofa Video and Books are filled by District residents, with a minimum of 30% of the District-resident jobs reserved for Ward One residents; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>All apprenticeships are reserved for District residents, with preference given to Ward One residents.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>In each year of the exemption period, the Mayor shall certify to the Office of Tax and Revenue the Property's eligibility for the exemption provided pursuant to subsection (a) of this section.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>If at any time the Mayor determines that the Property has become ineligible for the exemption provided pursuant to subsection (a) this section, the Mayor shall notify the Office of Tax and Revenue and shall specify the date that the Property became ineligible.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Act 23-105" path="§2" type="Applicability" history="false" app="2019-09-11" eff="2019-07-24">
      For temporary (90 days) creation of this section, see section 2 of the MLK Gateway Real Property Tax Abatement Emergency Amendment Act of 2019 (D.C. Act 23-105, July 24, 2019, 66 DCR 9750).
    </annotation>
     <annotation app="2019-09-11" doc="D.C. Act 23-105" eff="2019-07-24" path="§2" type="History" display="false"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-24" eff="2019-09-11" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-24" eff="2019-09-11" path="§2|(b)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-24" eff="2019-09-11" path="§2|(b)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-24" path="§2" codified:display="Note" app="2019-09-11" eff="2019-09-11">Applicability of <cite doc="D.C. Law 23-24" path="">D.C. Law 23-24</cite>: <cite doc="D.C. Law 23-24" path="§4">§ 4 of D.C. Law 23-24</cite> provided that the creation of this section by <cite doc="D.C. Law 23-24" path="§2">§ 2 of D.C. Law 23-24</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-24" eff="2019-09-11" path="§2" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-139" path="§2" codified:display="Note" app="2019-10-23" eff="2019-10-23">For temporary (90 days) creation of § 47-4672, see <cite doc="D.C. Act 23-139" path="§2">§ 2 of MLK Gateway Real Property Tax Abatement Congressional Review Emergency Amendment Act of 2019 (D.C. Act 23-139, Oct. 23, 2019, 66 DCR 14318)</cite>.</annotation>
     <annotation app="2019-10-23" doc="D.C. Act 23-139" eff="2019-10-23" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-28" path="§2|(b)" codified:display="Note" app="2019-11-26" eff="2019-11-26">For temporary (225 days) creation of § 47-4672, see <cite doc="D.C. Law 23-28" path="§2|(b)">§ 2(b) of MLK Gateway Real Property Tax Abatement Temporary Amendment Act of 2019 (D.C. Law 23-28, Nov. 26, 2019, 66 DCR 13120)</cite>.</annotation>
     <annotation app="2019-11-26" doc="D.C. Law 23-28" eff="2019-11-26" path="§2|(b)" type="History" display="false"/>
+    <annotation doc="D.C. Act 23-404" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19" path="§7071"><cite doc="D.C. Act 23-404" path="§7071">Section 7071 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-24" path="§4">section 4 of D.C. Law 23-24</cite> that provided that the creation of this section by D.C. Law 23-24 is subject to the includsion of the law' fiscal effect in an approved budget and financial plan.  Therefore that amendment has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7071" type="History" display="false"/>
   </annotations>
 </section>

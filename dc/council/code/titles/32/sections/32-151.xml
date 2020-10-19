@@ -3,17 +3,29 @@
   <num>32-151</num>
   <heading>Definitions.</heading>
   <text>For the purposes of <cite path="32|1B">this chapter</cite>, the term:</text>
-  <para placeholder="Not Funded">
-    <num>(1X)</num>
-    <text>Not Funded.</text>
-  </para>
   <para>
     <num>(1)</num>
+    <text>"Clean-air Transportation Fringe Benefit" means the following benefits that are provided in addition to compensation:</text>
+    <para>
+      <num>(A)</num>
+      <text>Transportation in a commuter highway vehicle, as that term is defined in Section 132(f)(5)(B), if such transportation is in connection with travel between the employee's residence and place of employment;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>Any transit pass, as that term is defined in Section 132(f)(5)(A); and</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Any qualified bicycle commuting reimbursement, as that term is defined in Section 132(f)(5)(F)(i).</text>
+    </para>
+  </para>
+  <para>
+    <num>(1A)</num>
     <text>"Covered employer" means an employer with 20 or more employees; provided, that the Mayor may issue rules pursuant to <cite path="§32-153">§ 32-153</cite> to expand the definition to include employers with fewer than 20 employees.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(1B)</num>
-    <text>Not Funded.</text>
+    <text>"Department" means the District Department of Transportation.</text>
   </para>
   <para>
     <num>(2)</num>
@@ -23,21 +35,21 @@
     <num>(3)</num>
     <text>"Employer" shall have the same meaning as provided in <cite path="§32-1002|(3)">§ 32-1002(3)</cite>.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(3A)</num>
-    <text>Not Funded.</text>
+    <text>"Parking benefit" means personal motor vehicle parking, on or within 0.5 miles of the business premises and located in the District, offered to an employee, in addition to compensation, either directly by the employer or through an employer subsidy, for which the employee pays nothing or less than market value. The term "parking benefit" does not include parking that is offered to an employee who is required to use a personal motor vehicle in the regular performance of their work.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(3B)</num>
-    <text>Not Funded.</text>
+    <text>"Section 132" means section 132 of the Internal Revenue Code, approved July 18, 1984 (98 Stat. 877; 26 U.S.C. § 132).</text>
   </para>
   <para>
     <num>(4)</num>
-    <text>"Transit pass" shall have the same meaning as provided in section 132(f)(5)(A) of the Internal Revenue Code,  approved July 18, 1984 (98 Stat. 877; 26 U.S.C. § 132(f)(5)(A)) ("Internal Revenue Code"), and shall include transit passes for travel by bus, streetcar, or train by the Washington Metropolitan Area Transit Authority, Maryland Area Regional Commuter, Virginia Railway Express, or the National Railroad Passenger Corporation (Amtrak).</text>
+    <text>"Transit pass" shall have the same meaning as provided in Section 132(f)(5)(A) and shall include transit passes for travel by bus, streetcar, or train by the Washington Metropolitan Area Transit Authority, Maryland Area Regional Commuter, Virginia Railway Express, or the National Railroad Passenger Corporation (Amtrak).</text>
   </para>
   <para>
     <num>(5)</num>
-    <text>"Vanpool" means a "commuter highway vehicle" within the meaning of section 132(f)(5)(B) of the Internal Revenue Code.</text>
+    <text>"Vanpool" means a "commuter highway vehicle" within the meaning of section 132(f)(5)(B) of the Internal Revenue Code [Section 132(f)(5)(B)].</text>
   </para>
   <annotations>
     <annotation type="Editor's Notes" history="false">Applicability of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite>: Section 502(c) of <cite doc="D.C. Law 20-142">D.C. Law 20-142</cite> provided that § 301 of the act shall apply as of December 17, 2014.</annotation>
@@ -45,11 +57,12 @@
     <annotation app="2014-12-17" doc="D.C. Law 20-142" eff="2014-12-17" path="§301" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-113" path="§2|(a)" codified:display="Note" app="2020-06-24" eff="2020-06-24">Applicability of <cite doc="D.C. Law 23-113" path="">D.C. Law 23-113</cite>: <cite doc="D.C. Law 23-113" path="§3">§ 3 of D.C. Law 23-113</cite> provided that the change made to this section by <cite doc="D.C. Law 23-113" path="§2|(a)">§ 2(a) of D.C. Law 23-113</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-06-24" doc="D.C. Law 23-113" eff="2020-06-24" path="§2|(a)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-113" eff="2020-06-24" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-113" eff="2020-06-24" path="§2|(a)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-113" eff="2020-06-24" path="§2|(a)|(3)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-113" eff="2020-06-24" path="§2|(a)|(4)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-113" eff="2020-06-24" path="§2|(a)|(5)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-113" eff="2020-06-24" path="§2|(a)" type="History"/>
+    <annotation app="2020-06-24" doc="D.C. Law 23-113" eff="2020-06-24" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2020-06-24" doc="D.C. Law 23-113" eff="2020-06-24" path="§2|(a)|(3)" type="History"/>
+    <annotation app="2020-06-24" doc="D.C. Law 23-113" eff="2020-06-24" path="§2|(a)|(4)" type="History"/>
+    <annotation app="2020-06-24" doc="D.C. Law 23-113" eff="2020-06-24" path="§2|(a)|(5)" type="History"/>
+    <annotation doc="D.C. Act 23-404" path="§7080" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7080">Section 7080 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-113" path="§3">section 3 of D.C. Law 23-113</cite> removing the applicability provision impacting this section.  Therefore, the amendment of this section by Law 23-113 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7080" type="History" display="false"/>
   </annotations>
 </section>

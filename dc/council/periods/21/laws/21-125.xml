@@ -850,7 +850,7 @@
         <para>
           <num>(b)</num>
           <text>Paragraph (5)(B) is amending by striking the period  and inserting the phrase "; and" in its place.</text>
-          <codify:find-replace path="(5)|(B)" find="." replace="; and" count="1" position="last" codified:doc="D.C. Code" codified:path="§1-301.191|(c)|(5)|(B)"/>
+          <codify:find-replace path="(5)|(B)" find="." replace="; and" count="1" position="last" codified:doc="D.C. Code" codified:path="§1-301.191|(c)|(5)"/>
         </para>
         <para>
           <num>(c)</num>

@@ -1,20 +1,36 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>3-1206.63</num>
   <heading>Maternity center operating procedures.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>Each maternity center, regardless of size, shall have written practice guidelines establishing procedures for both normal and emergency care. The practice guidelines shall be consistent with the Practice Guidelines of the American College of Nurse-Midwives, Standards of Practice of the National Association of Certified Professional Midwives, and District of Columbia laws and regulations relating to midwifery practices. The practice guidelines shall indicate the areas of responsibility of medical, certified nurse-midwife and certified professional midwifery, and nursing personnel and the extent to which the responsibility of physicians can be delegated. The practice guidelines shall be available to all members of the center and shall be reviewed annually. The practice guidelines shall not be interpreted to set, establish, define, enumerate, or otherwise lower the applicable standard of care for a certified professional midwife or a certified nurse midwife.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Delivery practice guidelines shall be consistent with the current professional standards of the National Association of Childbearing Centers, the Commission for the Accreditation of Birth Centers, the National Association of Certified Professional Midwives, and the American College of Nurse Midwives.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A certified nurse-midwife, certified professional midwife, or physician with special training in obstetrics shall attend each patient-client in labor from the time of admission, during labor, during birth and through the immediate postpartum period; except, that attendance may be delegated to another certified nurse-midwife, a CPM, or physician. At least 2 attendants shall be present at every birth, one of whom is a certified nurse-midwife, CPM, or physician with special training in obstetrics. Both attendants shall be certified in adult cardiopulmonary resuscitation ("CPR"), equivalent to the American Heart Association Class C basic life support, and neonatal CPR, equivalent to the American Academy of Pediatrics or American Heart Association standards. Qualified personnel, including a certified nurse-midwife, CPM, or a Board-certified physician shall always be on duty when patient-clients are admitted, whether on the premises or on call.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§3-1206.63" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-1206.63">Applicability of <cite doc="D.C. Law 23-97" path="">D.C. Law 23-97</cite>: <cite doc="D.C. Law 23-97" path="§6">§ 6 of D.C. Law 23-97</cite> provided that the creation of this section by <cite doc="D.C. Law 23-97" path="§2|(e)">§ 2(e) of D.C. Law 23-97</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 6-99" type="History" path="§663">Mar. 25, 1986, D.C. Law 6-99, § 663</annotation>
     <annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" app="2020-06-17" eff="2020-06-17" path="§5" display="false"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <cite path="2|5">Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
     </annotation>
     <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§5" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
     <annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" app="2020-06-17" eff="2020-06-17" path="§5"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <cite path="2|5">Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
     </annotation>
-    <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="§2|(e)" prefix="as added" type="History"/>
+    <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§2|(e)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-97" path="§2|(e)" codified:display="Note" app="2020-06-17" eff="2020-06-17">Applicability of <cite doc="D.C. Law 23-97" path="">D.C. Law 23-97</cite>: <cite doc="D.C. Law 23-97" path="§6">§ 6 of D.C. Law 23-97</cite> provided that the creation of this section by <cite doc="D.C. Law 23-97" path="§2|(e)">§ 2(e) of D.C. Law 23-97</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§2|(e)" type="History"/>
+    <annotation doc="D.C. Act 23-404" path="§7078" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7078">Section 7078 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-97" path="§6">section 6 of D.C. Law 23-97</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-97 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7078" type="History" display="false"/>
   </annotations>
 </section>

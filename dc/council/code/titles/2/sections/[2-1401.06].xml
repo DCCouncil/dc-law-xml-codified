@@ -1,14 +1,58 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>[2-1401.06]</num>
   <heading>Government noninterference in reproductive health decisions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The District shall recognize the right of every individual to choose or refuse contraception or sterilization.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The District shall recognize the right of every individual who becomes pregnant to decide whether to carry a pregnancy to term, to give birth, or to have an abortion.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The District shall not:</text>
+    <para>
+      <num>(1)</num>
+      <text>Deny, interfere with, or restrict, in the regulation or provision of benefits, facilities, services, or information, the right of an individual, including an individual under District control or supervision, to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Choose or refuse contraception or sterilization; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Choose or refuse to carry a pregnancy to term, to give birth, or to have an abortion;</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Interfere with or restrict in the regulation or provision of benefits, facilities, services, or information, the decision of a health care practitioner acting within the scope of the health care practitioner's license to participate in a consenting individual's prenatal care, labor, delivery, or abortion; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Penalize an individual for:</text>
+      <para>
+        <num>(A)</num>
+        <text>Seeking, inducing, or attempting to induce, the individual's own abortion; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Any act or omission during the individual's pregnancy based on the potential or actual impact on the individual's health or pregnancy.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>For the purposes of this section, the term "health care practitioner" means an individual, groups of individuals, partnership, or corporation, including a health care facility, that is licensed, certified, or otherwise authorized by law to provide professional health care services in the District to an individual.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 2-38" type="History" path="§105">Dec. 13, 1977, D.C. Law 2-38, title I, § 105a [106]</annotation>
-    <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(a)|(3)" prefix="as added" type="History"/>
+    <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(a)|(3)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-90" path="§2|(a)|(3)" codified:display="Note" app="2020-05-06" eff="2020-05-06">Applicability of <cite doc="D.C. Law 23-90" path="">D.C. Law 23-90</cite>: <cite doc="D.C. Law 23-90" path="§3">§ 3 of D.C. Law 23-90</cite> provided that the creation of this section by <cite doc="D.C. Law 23-90" path="§2|(a)|(3)">§ 2(a)(3) of D.C. Law 23-90</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(a)|(3)" type="History"/>
+    <annotation doc="D.C. Act 23-404" path="§7077" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7077">Section 7077 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-90" path="§3">section 3 of D.C. Law 23-90</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-90 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7077" type="History" display="false"/>
   </annotations>
 </section>

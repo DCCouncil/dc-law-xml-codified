@@ -42,15 +42,15 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>For employees of the Board of Elections, the personnel authority is the Board of Elections; provided, however, that this authority shall not apply to the Director of Campaign Finance (<cite path="§1-1163.02">§ 1-1163.02</cite>). For employees in the Office of Director of Campaign Finance, the personnel authority is the Director of Campaign Finance;</text>
+      <text>For employees of the Board of Elections, the personnel authority is the Board of Elections;</text>
     </para>
     <para>
       <num>(4A)</num>
-      <text>For employees of the Board of Ethics and Government Accountability, the personnel authority is the Board of Ethics and Government Accountability.</text>
+      <text>For employees of the Board of Ethics and Government Accountability, the personnel authority is the Board of Ethics and Government Accountability; and</text>
     </para>
-    <para placeholder="Not Funded">
+    <para>
       <num>(4B)</num>
-      <text>Not Funded.</text>
+      <text>For employees of the Campaign Finance Board, the personnel authority is the Campaign Finance Board;</text>
     </para>
     <para>
       <num>(5)</num>
@@ -281,19 +281,23 @@
     <annotation app="2019-02-22" doc="D.C. Law 22-200" eff="2019-02-22" path="§3|(b)|(4)|(B)" type="History"/>
     <annotation app="2019-02-22" doc="D.C. Law 22-200" eff="2019-02-22" path="§3|(b)|(4)|(A)" type="History"/>
     <annotation app="2019-02-22" doc="D.C. Law 22-200" eff="2019-02-22" path="§3|(b)|(5)" type="History"/>
-    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§10|(a)|(1)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-250" eff="2019-03-13" path="§4|(b)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 22-250" eff="2019-03-13" path="§4|(b)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 22-250" eff="2019-03-13" path="§4|(b)|(3)" type="History"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§4|(b)|(1)" type="History"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§4|(b)|(2)" type="History"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§4|(b)|(3)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-250" path="§4|(b)" codified:display="Note" app="2019-03-13" eff="2019-03-13">Applicability of <cite doc="D.C. Law 22-250" path="">D.C. Law 22-250</cite>: <cite doc="D.C. Law 22-250" path="§10">§ 10 of D.C. Law 22-250</cite> provided that the change made to this section by <cite doc="D.C. Law 22-250" path="§4|(b)">§ 4(b) of D.C. Law 22-250</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§4|(b)" type="History"/>
+    <annotation doc="D.C. Law 22-250" path="§10|(a)" type="Applicability" history="false" display-template="" app="2019-03-13" eff="2019-03-13">
+                Applicability of <cite doc="D.C. Law 22-250" path="§10">D.C. Law 22-250: § 10 of D.C. Law 22-250</cite>, as amended by <cite doc="D.C. Act 23-404" path="§1104">§ 1104 of D.C. Act 23-404</cite>, repealed the requirement that <cite doc="D.C. Law 22-250" path="§4|(b)">§ 4(b) of D.C. Law 22-250</cite> would be subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore the amendment made by <cite doc="D.C. Law 22-250" path="§4|(b)">§ 4(b) of D.C. Law 22-250</cite> has been implemented.
+              </annotation>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§10|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§2203|(c)|(2)" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-91" path="§2203|(c)|(2)">§ 2203(c)(2) of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
     <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§2203|(c)|(2)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§2203|(c)|(2)" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§2203|(c)|(2)">§ 2203(c)(2) of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§2203|(c)|(2)" type="History" display="false"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§1043|(a)" type="History" display="false"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2203|(c)|(2)|(A)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2203|(c)|(2)|(B)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2203|(c)|(2)|(C)" type="History"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§1043|(a)" type="History" display="false"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§1104" type="History" display="false"/>
   </annotations>
 </section>

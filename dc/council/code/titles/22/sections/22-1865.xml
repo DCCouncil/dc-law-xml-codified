@@ -1,32 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>22-1865</num>
   <heading>Applicability.</heading>
-  <para>
-    <num>(a)</num>
-    <text><cite path="22|18B">This chapter</cite> shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-    <codify:applicability doc="D.C. Law 23-126" path="§2" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§22-1861"/>
-    <codify:applicability doc="D.C. Law 23-126" path="§3" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§22-1862"/>
-    <codify:applicability doc="D.C. Law 23-126" path="§4" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§22-1863"/>
-    <codify:applicability doc="D.C. Law 23-126" path="§5" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§22-1864"/>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>The Chief Financial Officer shall certify the date of the inclusion of the fiscal effect in an approved budget and financial plan, and provide notice to the Budget Director of the Council of the certification.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Budget Director shall cause the notice of the certification to be published in the District of Columbia Register.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The date of publication of the notice of the certification shall not affect the applicability of <cite path="22|18B">this chapter</cite></text>
-    </para>
-  </para>
+  <text>Repealed.</text>
   <annotations>
     <annotation app="2020-08-06" doc="D.C. Law 23-126" eff="2020-08-06" path="" type="History" display="false"/>
     <annotation app="2020-08-06" doc="D.C. Law 23-126" eff="2020-08-06" path="§6" type="History"/>
+    <annotation doc="D.C. Act 23-404" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19" path="§7082" display="false"><cite doc="D.C. Act 23-404" path="§7082">Section 7082 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-126" path="§6">section 6 of D.C. Law 23-126</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-126 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7082" type="History" display="false"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7082" type="History"/>
+    <annotation doc="D.C. Act 23-404" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19" path="§7082"><cite doc="D.C. Act 23-404" path="§7082">Section 7082 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-126" path="§6">section 6 of D.C. Law 23-126</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-126 has been implemented.
+        </annotation>
   </annotations>
 </section>

@@ -276,19 +276,19 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal doc="D.C. Code" path="§2-1401.02|(27A)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1401.02|(27A)"/>
-      <codify:find-replace doc="D.C. Code" path="§2-1401.02|(27A)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1401.02|(27A)">
+      <codify:repeal doc="D.C. Code" path="§2-1401.02|(27A)" history="false" display-template=""/>
+      <codify:find-replace doc="D.C. Code" path="§2-1401.02|(27A)" count="1" history="false" display-template="">
         <find>Repealed</find>
         <replace>Not Funded</replace>
       </codify:find-replace>
-      <codify:applicability doc="D.C. Law 23-90" path="§2|(a)|(2)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1401.05|(a)"/>
-      <codify:applicability doc="D.C. Law 23-90" path="§2|(a)|(3)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§[2-1401.06]"/>
-      <codify:repeal doc="D.C. Code" path="§2-1402.11|(a)|(1)|(B)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1402.11|(a)|(1)|(B)"/>
-      <codify:find-replace doc="D.C. Code" path="§2-1402.11|(a)|(1)|(B)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1402.11|(a)|(1)|(B)">
+      <codify:applicability doc="D.C. Law 23-90" path="§2|(a)|(2)" date="notfunded" history="false" display-template=""/>
+      <codify:applicability doc="D.C. Law 23-90" path="§2|(a)|(3)" date="notfunded" history="false" display-template=""/>
+      <codify:repeal doc="D.C. Code" path="§2-1402.11|(a)|(1)|(B)" history="false" display-template=""/>
+      <codify:find-replace doc="D.C. Code" path="§2-1402.11|(a)|(1)|(B)" count="1" history="false" display-template="">
         <find>Repealed</find>
         <replace>Not Funded</replace>
       </codify:find-replace>
-      <codify:applicability doc="D.C. Law 23-90" path="§2|(b)|(2)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="2|14|A|II|J"/>
+      <codify:applicability doc="D.C. Law 23-90" path="§2|(b)|(2)" date="notfunded" history="false" display-template=""/>
     </para>
     <para>
       <num>(b)</num>

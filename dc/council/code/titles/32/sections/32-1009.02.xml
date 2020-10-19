@@ -1,14 +1,113 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-1009.02</num>
   <heading>Tipped Workers Coordinating Council.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>There is established the Tipped Workers Coordinating Council ("Coordinating Council").</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Coordinating Council shall be a partnership of tipped workers, employers, and public agencies that promotes a high-quality response to tipped-worker cases of wage theft and unfair labor practices.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Members of the Coordinating Council shall consist of the following persons:</text>
+    <para>
+      <num>(1)</num>
+      <text>The Director of the Department of Employment Services, or his or her designee;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Director of the Office of Nightlife and Culture, or his or her designee;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Director of the Department of Consumer and Regulatory Affairs, or his or her designee;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The Director of the Office of Human Rights, or his or her designee;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A representative from the Restaurant Association of Metropolitan Washington;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>A representative from the Hotel Association of Washington, D.C.;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Two representatives, appointed by the Mayor, from District-based organizations that engage in policy or advocacy for tipped workers; and</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Three representatives, appointed by the Chairman of the Council as follows:</text>
+      <para>
+        <num>(A)</num>
+        <text>Two representatives from District-based organizations that engage in policy or advocacy for tipped workers; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>One representative shall be an employer that employs an employee who is paid in accordance with <cite path="§32-1003|(f)">§ 32-1003(f)</cite>, but is not part of the restaurant or hotel industry.</text>
+      </para>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The term of office for each representative provided for in subsection (c)(5), (6), (7), and (8) of this section shall be for 3 years; provided, that the initial term of:</text>
+    <para>
+      <num>(1)</num>
+      <text>One of the representatives appointed by the Mayor from a District-based organization that engages in policy or advocacy for tipped workers and one of the representatives appointed by the Chairman of the Council from a District-based organization that engages in policy or advocacy for tipped workers shall be for 2 years; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>One of the representatives appointed by the Mayor from a District-based organization that engages in policy or advocacy for tipped workers and one of the representatives appointed by the Chairman of the Council from a District-based organization that engages in policy or advocacy for tipped workers shall be for one year.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>A representative who is appointed to fill a vacancy that occurs before the expiration of a representative's full term shall serve only the unexpired portion of the term.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <para>
+      <num>(1)</num>
+      <text>The Coordinating Council shall hold its initial meeting no later than 90 days after the date this section becomes applicable.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>At the initial meeting, one non-governmental member of the Coordinating Council shall be elected as chairperson by a majority of the Coordinating Council members.</text>
+    </para>
+  </para>
+  <para>
+    <num>(g)</num>
+    <text>The Coordinating Council shall establish its own procedures and requirements with respect to the place at which and the manner in which it will conduct its meetings.</text>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>The Coordinating Council shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Improve coordination and functioning of the wage policies for tipped workers, investigations into wage theft involving tipped workers, and reporting mechanisms for tipped workers;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Conduct regular and anonymous case reviews of all parties involved in claims of wage violations for tipped workers; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Develop a protocol to ensure that feedback and recommendations from case reviews are incorporated into the Department of Employment Services's policies, procedures, practices, training, and decisions to re-examine investigations, when applicable.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 9-248" type="History" path="§10b">Mar. 25, 1993, D.C. Law 9-248, § 10b</annotation>
-    <annotation app="2018-12-13" doc="D.C. Law 22-196" eff="2018-12-13" path="§8|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-196" eff="2018-12-13" path="§6|(e)" prefix="as added" type="History"/>
+    <annotation app="2018-12-13" doc="D.C. Law 22-196" eff="2018-12-13" path="§6|(e)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-196" path="§6|(e)" codified:display="Note" app="2018-12-13" eff="2018-12-13">Applicability of <cite doc="D.C. Law 22-196" path="">D.C. Law 22-196</cite>: <cite doc="D.C. Law 22-196" path="§8">§ 8 of D.C. Law 22-196</cite> provided that the creation of this section by <cite doc="D.C. Law 22-196" path="§6|(e)">§ 6(e) of D.C. Law 22-196</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2018-12-13" doc="D.C. Law 22-196" eff="2018-12-13" path="§6|(e)" type="History"/>
+    <annotation doc="D.C. Act 23-404" path="§7065" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7065">Section 7065 of D.C. Act 23-404</cite> amended <cite doc="D.C. Law 22-196" path="§8">section 8 of D.C. Law 22-196</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by section 6(e) of Law 22-196 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7065" type="History" display="false"/>
   </annotations>
 </section>

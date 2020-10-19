@@ -95,7 +95,7 @@
     </para>
     <para>
       <num>(E)</num>
-      <text>For a decedent dying after December 31, 2017:</text>
+      <text>For a decedent whose death occurs after December 31, 2017, but before January 1, 2021:</text>
       <para>
         <num>(i)</num>
         <text>The maximum amount of credit for state death taxes allowed by section 2011 of the Internal Revenue Code;</text>
@@ -103,6 +103,22 @@
       <para>
         <num>(ii)</num>
         <text>The amount of the unified credit shall be $2,185,800, increased annually, beginning with the year commencing on January 1, 2019, by the cost-of-living adjustment; and</text>
+      </para>
+      <para>
+        <num>(iii)</num>
+        <text>An estate tax return shall not be required to be filed if the decedent's gross estate does not exceed the applicable zero bracket amount.</text>
+      </para>
+    </para>
+    <para>
+      <num>(F)</num>
+      <text>For a decedent whose death occurs after December 31, 2020:</text>
+      <para>
+        <num>(i)</num>
+        <text>The maximum amount of credit for state death taxes allowed by section 2011 of the Internal Revenue Code;</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>The amount of the unified credit shall be $1,545,800, increased annually, beginning with the year commencing on January 1, 2022, by the cost-of-living adjustment; and</text>
       </para>
       <para>
         <num>(iii)</num>
@@ -191,11 +207,15 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>For a decedent whose death occurs after December 31, 2016, but before January 1, 2018, $2 million; or</text>
+      <text>For a decedent whose death occurs after December 31, 2016, but before January 1, 2018, $2 million;</text>
     </para>
     <para>
       <num>(C)</num>
-      <text>For a decedent whose death occurs after December 31, 2017, $5.6 million, increased annually, beginning with the year commencing on January 1, 2019, by the cost-of-living adjustment.</text>
+      <text>For a decedent whose death occurs after December 31, 2017, but before January 1, 2021, $5.6 million, increased annually, beginning with the year commencing on January 1, 2019, by the cost-of-living adjustment; or</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>For a decedent whose death occurs after December 31, 2020, $4 million, increased annually, beginning with the year commencing on January 1, 2022, by the cost-of-living adjustment.</text>
     </para>
   </para>
   <annotations>
@@ -285,5 +305,11 @@
     <annotation doc="D.C. Law 22-168" path="§7233" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§7233">Section 7233 of D.C. Law 22-168</cite> provided that the amendment made to this section by <cite doc="D.C. Law 22-168" path="§7232|(b)">section 7232(b) of D.C. Law 22-168</cite> shall apply as of January 1, 2018.
         </annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7233" type="History" display="false"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7192|(a)|(1)" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7192|(a)|(2)" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7192|(b)|(1)" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7192|(b)|(2)|(A)" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7192|(b)|(2)|(B)" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7192|(b)|(3)" type="History"/>
   </annotations>
 </section>

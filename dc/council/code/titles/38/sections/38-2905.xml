@@ -33,167 +33,180 @@
   <para>
     <num>(c)</num>
     <text>The supplemental allocations shall be calculated by applying weightings to the foundation level as follows:</text>
+    <text>Special Education Add-ons:</text>
     <text>
       <table>
-        <heading>Special Education Add-ons:</heading>
-        <tr proof="true">
-          <th>Level/ Program</th>
-          <th>Definition</th>
-          <th>Weighting</th>
-          <th>Per Pupil Supplemental Allocation FY 2020</th>
-        </tr>
-        <tr>
-          <td>Level 1: Special Education</td>
-          <td>Eight hours or less per school week of specialized services</td>
-          <td>0.97</td>
-          <td>$10,650</td>
-        </tr>
-        <tr>
-          <td>Level 2: Special Education</td>
-          <td>More than 8 hours and less than or equal to 16 hours per school week of specialized services</td>
-          <td>1.20</td>
-          <td>$13,175</td>
-        </tr>
-        <tr>
-          <td>Level 3: Special Education</td>
-          <td>More than 16 hours and less than or equal to 24 hours per school week of specialized services</td>
-          <td>1.97</td>
-          <td>$21,630</td>
-        </tr>
-        <tr>
-          <td>Level 4: Special Education</td>
-          <td>More than 24 hours per school week of specialized services which may include instruction in a self-contained (dedicated) special education school other than residential placement</td>
-          <td>3.49</td>
-          <td>$38,318</td>
-        </tr>
-        <tr>
-          <td>Special Education Compliance Funding</td>
-          <td>Weighting provided in addition to special education level add-on weightings on a per-student basis for special education compliance</td>
-          <td>0.099</td>
-          <td>$1,087</td>
-        </tr>
-        <tr>
-          <td>Attorney's Fees Supplement</td>
-          <td>Weighting provided in addition to special education level add-on weightings on a per-student basis for attorney's fees</td>
-          <td>0.089</td>
-          <td>$977</td>
-        </tr>
-        <tr>
-          <td>Residential</td>
-          <td>D.C. Public School or public charter school that provides students with room and board in a residential setting, in addition to their instructional program</td>
-          <td>1.67</td>
-          <td>$18,336</td>
-        </tr>
+        <tbody>
+          <tr>
+            <td>Level/ Program</td>
+            <td>Definition</td>
+            <td>Weighting</td>
+            <td>Per Pupil Supplemental Allocation FY 2021</td>
+          </tr>
+          <tr>
+            <td>Level 1: Special Education</td>
+            <td>Eight hours or less per school week of specialized services</td>
+            <td>0.97</td>
+            <td>$10,971</td>
+          </tr>
+          <tr>
+            <td>Level 2: Special Education</td>
+            <td>More than 8 hours and less than or equal to 16 hours per school week of specialized services</td>
+            <td>1.20</td>
+            <td>$13,572</td>
+          </tr>
+          <tr>
+            <td>Level 3: Special Education</td>
+            <td>More than 16 hours and less than or equal to 24 hours per school week of specialized services</td>
+            <td>1.97</td>
+            <td>$22,281</td>
+          </tr>
+          <tr>
+            <td>Level 4: Special Education</td>
+            <td>More than 24 hours per school week of specialized services, which may include instruction in a self-contained (dedicated) special education school other than residential placement</td>
+            <td>3.49</td>
+            <td>$39,472</td>
+          </tr>
+          <tr>
+            <td>
+              <p>Special Education Compliance</p>
+              <p>Funding</p>
+            </td>
+            <td>Weighting provided in addition to special education level add-on weightings on a per-student basis for special education compliance.</td>
+            <td>0.099</td>
+            <td>$1,120</td>
+          </tr>
+          <tr>
+            <td>Attorney's Fees Supplement</td>
+            <td>Weighting provided in addition to special education level add-on weightings on a per-student basis for attorney's fees.</td>
+            <td>0.089</td>
+            <td>$1,007</td>
+          </tr>
+          <tr>
+            <td>Residential</td>
+            <td>D.C. Public School or public charter school that provides students with room and board in a residential setting, in addition to their instructional program</td>
+            <td>1.67</td>
+            <td>$18,888</td>
+          </tr>
+        </tbody>
       </table>
     </text>
+    <text>General Education Add-ons:</text>
     <text>
       <table>
-        <heading>General Education Add-ons:</heading>
-        <tr proof="true">
-          <th>Level/ Program</th>
-          <th>Definition</th>
-          <th>Weighting</th>
-          <th>Per Pupil Supplemental Allocation FY 2020</th>
-        </tr>
-        <tr>
-          <td>ELL</td>
-          <td>Additional funding for English Language Learners.</td>
-          <td>0.49</td>
-          <td>$5,380</td>
-        </tr>
-        <tr>
-          <td>At-risk</td>
-          <td>Additional funding for students in foster care, who are homeless, on TANF or SNAP, or behind grade level</td>
-          <td>0.225</td>
-          <td>$2,470</td>
-        </tr>
+        <tbody>
+          <tr>
+            <td>Level/ Program</td>
+            <td>Definition</td>
+            <td>Weighting</td>
+            <td proof="needed">
+              <p>Per Pupil Supplemental Allocation</p>
+              <p>FY 2021</p>
+            </td>
+          </tr>
+          <tr>
+            <td>ELL</td>
+            <td>Additional funding for English Language Learners</td>
+            <td>0.49</td>
+            <td>$5,542</td>
+          </tr>
+          <tr>
+            <td>At-risk</td>
+            <td>Additional funding for students in foster care, who are homeless, on TANF or SNAP, or behind grade level</td>
+            <td>0.2256</td>
+            <td>$2,552</td>
+          </tr>
+        </tbody>
       </table>
     </text>
+    <text>Residential Add-ons:</text>
     <text>
       <table>
-        <heading>Residential Add-ons:</heading>
-        <tr proof="true">
-          <th>Level/ Program</th>
-          <th>Definition</th>
-          <th>Weighting</th>
-          <th>Per Pupil Supplemental Allocation FY 2020</th>
-        </tr>
-        <tr>
-          <td>Level 1: Special Education - Residential</td>
-          <td>Additional funding to support the after-hours level 1 special education needs of students living in a D.C. Public School or public charter school that provides students with room and board in a residential setting</td>
-          <td>0.37</td>
-          <td>$4,062</td>
-        </tr>
-        <tr>
-          <td>Level 2: Special Education - Residential</td>
-          <td>Additional funding to support the after-hours level 2 special education needs of students living in a D.C. Public School or public charter school that provides students with room and board in a residential setting</td>
-          <td>1.34</td>
-          <td>$14,713</td>
-        </tr>
-        <tr>
-          <td>Level 3: Special Education - Residential</td>
-          <td>Additional funding to support the after-hours level 3 special education needs of students living in a D.C. Public School or public charter school that provides students with room and board in a residential setting</td>
-          <td>2.89</td>
-          <td>$31,731</td>
-        </tr>
-        <tr>
-          <td>Level 4: Special Education - Residential</td>
-          <td>Additional funding to support the after-hours level 4 special education needs of limited- and non-English-proficient students living in a D.C. Public School or public charter school that provides students with room and board in a residential setting</td>
-          <td>2.89</td>
-          <td>$31,731</td>
-        </tr>
-        <tr>
-          <td proof="true">
-            <p>LEP/NEP -</p>
-            <p>Residential</p>
-          </td>
-          <td>Additional funding to support the after-hours limited- and non-English-proficiency needs of students living in a D.C. Public School or public charter school that provides students with room and board in a residential setting</td>
-          <td>0.668</td>
-          <td>$7,334</td>
-        </tr>
+        <tbody>
+          <tr>
+            <td>Level/ Program</td>
+            <td>Definition</td>
+            <td>Weighting</td>
+            <td>Per Pupil Supplemental Allocation FY 2021</td>
+          </tr>
+          <tr>
+            <td>Level 1: Special Education - Residential</td>
+            <td>Additional funding to support the after-hours level 1 special education needs of students living in a D.C. Public School or public charter school that provides students with room and board in a residential setting</td>
+            <td>0.37</td>
+            <td>$4,185</td>
+          </tr>
+          <tr>
+            <td>Level 2: Special Education - Residential</td>
+            <td>Additional funding to support the after-hours level 2 special education needs of students living in a D.C. Public School or public charter school that provides students with room and board in a residential setting</td>
+            <td>1.34</td>
+            <td>$15,155</td>
+          </tr>
+          <tr>
+            <td>Level 3: Special Education - Residential</td>
+            <td>Additional funding to support the after-hours level 3 special education needs of students living in a D.C. Public School or public charter school that provides students with room and board in a residential setting</td>
+            <td>2.89</td>
+            <td>$32,686</td>
+          </tr>
+          <tr>
+            <td>Level 4: Special Education - Residential</td>
+            <td>Additional funding to support the after-hours level 4 special education needs of limited- and non-English-proficient students living in a D.C. Public School or public charter school that provides students with room and board in a residential setting</td>
+            <td>2.89</td>
+            <td>$32,686</td>
+          </tr>
+          <tr>
+            <td proof="needed">
+              <p>LEP/NEP -</p>
+              <p>Residential</p>
+            </td>
+            <td>Additional funding to support the after-hours limited- and non-English-proficiency needs of students living in a D.C. Public School or public charter school that provides students with room and board in a residential setting</td>
+            <td>0.668</td>
+            <td>$7,555</td>
+          </tr>
+        </tbody>
       </table>
     </text>
+    <text>Special Education Add-ons for Students with Extended School Year ("ESY") Indicated in Their Individualized Education Programs ("IEPs"):</text>
     <text>
       <table>
-        <heading>Special Education Add-ons for Students with Extended School Year ("ESY") Indicated in Their Individualized Education Programs ("IEPs"):</heading>
-        <tr proof="true">
-          <th>Level/ Program</th>
-          <th>Definition</th>
-          <th>Weighting</th>
-          <th>Per Pupil Supplemental Allocation FY 2020</th>
-          <td/>
-        </tr>
-        <tr>
-          <td>Special Education Level 1 ESY</td>
-          <td>Additional funding to support the summer school or program need for students who require ESY services in their IEPs</td>
-          <td>0.063</td>
-          <td>$692</td>
-          <td proof="true"/>
-        </tr>
-        <tr>
-          <td>Special Education Level 2 ESY</td>
-          <td>Additional funding to support the summer school or program need for students who require ESY services in their IEPs</td>
-          <td>0.227</td>
-          <td>$2,492</td>
-          <td proof="true"/>
-        </tr>
-        <tr>
-          <td>Special Education Level 3 ESY</td>
-          <td>Additional funding to support the summer school or program need for students who require ESY services in their IEPs</td>
-          <td>0.491</td>
-          <td>$5,391</td>
-          <td proof="true"/>
-        </tr>
-        <tr>
-          <td>Special Education Level 4 ESY</td>
-          <td>Additional funding to support the summer school or program need for students who require ESY services in their IEPs</td>
-          <td>0.491</td>
-          <td>$5,391</td>
-          <td proof="true"/>
-        </tr>
+        <tbody>
+          <tr>
+            <td>Level/ Program</td>
+            <td>Definition</td>
+            <td>Weighting</td>
+            <td>Per Pupil Supplemental Allocation FY 2021</td>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Special Education Level 1 ESY</td>
+            <td>Additional funding to support the summer school or program need for students who require ESY services in their IEPs.</td>
+            <td>0.063</td>
+            <td>$713</td>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Special Education Level 2 ESY</td>
+            <td>Additional funding to support the summer school or program need for students who require ESY services in their IEPs</td>
+            <td>0.227</td>
+            <td>$2,567</td>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Special Education Level 3 ESY</td>
+            <td>Additional funding to support the summer school or program need for students who require ESY services in their IEPs</td>
+            <td>0.491</td>
+            <td>$5,553</td>
+            <td proof="needed"/>
+          </tr>
+          <tr>
+            <td>Special Education Level 4 ESY</td>
+            <td>Additional funding to support the summer school or program need for students who require ESY services in their IEPs</td>
+            <td>0.491</td>
+            <td>$5,553</td>
+            <td>.</td>
+          </tr>
+        </tbody>
       </table>
     </text>
-    <text></text>
   </para>
   <para>
     <num>(d)</num>
@@ -360,5 +373,6 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§4003|(d)" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§4003|(d)">§ 4003(d) of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§4003|(d)" type="History" display="false"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§4003|(d)" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§4002|(c)" type="History"/>
   </annotations>
 </section>

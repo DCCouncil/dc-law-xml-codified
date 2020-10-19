@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>47-5005</num>
   <heading>Rules.</heading>
-  <text>Not Funded.</text>
+  <text>[Repealed].</text>
   <annotations>
     <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="§301|(a)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="§101|(b)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-85" path="§101|(b)" codified:display="Note" app="2018-04-25" eff="2018-04-25">Applicability of <cite doc="D.C. Law 22-85" path="">D.C. Law 22-85</cite>: <cite doc="D.C. Law 22-85" path="§301">§ 301 of D.C. Law 22-85</cite> provided that the creation of this section by <cite doc="D.C. Law 22-85" path="§101|(b)">§ 101(b) of D.C. Law 22-85</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2018-04-25" doc="D.C. Law 22-85" eff="2018-04-25" path="§101|(b)" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7104" type="History"/>
   </annotations>
 </section>

@@ -1,33 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>38-433</num>
   <heading>Waiver or reduction of fees for the use of school facilities.</heading>
-  <para>
-    <num>(a)</num>
-    <text>When applying for a permit under <cite path="§38-432">§ 38-432</cite>, an entity may apply to the Mayor for a waiver or reduction of any permit, custodial, or security fee associated with the use of the school facility, if the entity:</text>
-    <para>
-      <num>(1)</num>
-      <text>Is a nonprofit organization that is exempt from taxation under section 501(c)(3) or (4) of the Internal Revenue Code of 1986, approved August 16, 1954 (68A Stat. 163; 26 U.S.C. § 501(c)(3) or (4));</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Certifies that the entity has Clean Hands pursuant to  §§ <cite path="§47-2862">47-2862</cite> and <cite path="§47-2863">47-2863</cite>;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Certifies that at least 75% of the people who will benefit from the issuance of the permit are District residents; and</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Demonstrates financial hardship.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Within 180 days after February 22, 2019, the Mayor shall make publicly available on the DCPS website an application for the fee waiver described in subsection (a) of this section.</text>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
     <annotation app="2019-02-22" doc="D.C. Law 22-210" eff="2019-02-22" path="" type="History" display="false"/>
-    <annotation app="2019-02-22" doc="D.C. Law 22-210" eff="2019-02-22" path="§4" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 22-210" eff="2019-02-22" path="§4" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7066|(b)" type="History" display="false"/>
+    <annotation doc="D.C. Act 23-404" path="§7066|(b)" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7066|(b)">Section 7066(b) of D.C. Act 23-404</cite> amended <cite doc="D.C. Law 22-210" path="§4">section 4 of D.C. Law 22-196</cite> and provided that the creation of this section by § 4 of D.C. Law 22-210 is subject to the includsion of the law' fiscal effect in an approved budget and financial plan.  Therefore, the creation of this section by section 2 of Law 22-210 has not been implemented.
+                </annotation>
   </annotations>
 </section>

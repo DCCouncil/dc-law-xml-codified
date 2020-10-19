@@ -1,8 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-132.05</num>
-  <heading>Authority to issue RFP’s for school security related contracts.</heading>
-  <text>Responsibility for the issuance of a Request for Proposals for any security guard or security related contract for DCPS for a contract term to begin June 30, 2005, or later shall transfer to the MPD as of August 2, 2004. The responsibility for awarding, executing, and funding a contract resulting from an RFP issued under this section shall be the subject of a Memorandum of Agreement between DCPS and MPD.</text>
+  <heading>Authority to issue RFPs for school security-related contracts.</heading>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>By October 1, 2020, DCPS shall be responsible for administering and funding any security-related contract effective during the 2020-2021 school year.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>MPD shall transfer to DCPS all personnel, property, funds, or records necessary for DCPS to administer and fund any security-related contract effective during the 2020-2021 school year.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Responsibility for the issuance of a Request for Proposals ("RFP") for any security-related contract for DCPS for a contract term to begin June 30, 2021, or later shall transfer from the MPD to DCPS as of the effective date of the Fiscal Year 2020 Revised Local Budget Emergency Act of 2020, passed on emergency basis on July 23, 2020 (Enrolled version of Bill 23-763). DCPS shall be responsible for awarding, executing, administering, and funding a contract resulting from an RFP issued under this subsection.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 15-350" type="History" path="§105">Apr. 13, 2005, D.C. Law 15-350, § 105, 52 DCR 2005</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 6 of School Safety and Security Contracting Procedures Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-3, January 19, 2005,  52 DCR 2675).</annotation>
@@ -10,5 +24,6 @@
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 6 of School Safety and Security Contracting Procedures Emergency Act of 2004 (D.C. Act 15-596, November 30, 2004,  51 DCR 11219).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 6 of Metropolitan Police Department School Safety and Security Emergency Act of 2004 (D.C. Act 15-496, August 2, 2004,  51 DCR 8797).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) addition, see § 6 of School Safety and Security Contracting Procedures Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-318">D.C. Law 15-318</cite>, April 8, 2005, law notification  52 DCR 4707).</annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§4102|(f)" type="History"/>
   </annotations>
 </section>

@@ -1,19 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>10-1602.02</num>
   <heading>Creation of Community Benefit Fund.</heading>
-  <para>
-    <num>(a)</num>
-    <text>Not Funded.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Not Funded.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>This section shall apply upon the inclusion of its fiscal effect in an approved budget and financial plan.</text>
-  </para>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 15-320" type="History" path="§202">Apr. 8, 2005, D.C. Law 15-320, § 202, 52 DCR 1757</annotation>
     <annotation doc="D.C. Law 18-111" type="History">Mar. 3, 2010, D.C. Law 18-111, § 2082(m)(2), 57 DCR 181</annotation>
@@ -25,5 +15,6 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite> added subsec. (c).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-111">D.C. Law 18-111</cite>, in subsec. (b)(2), substituted “Washington Convention and Sports Authority” for “Sports and Entertainment Commission”.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§2-1217.12">§ 2-1217.12</cite>, <cite path="§10-1601.34">§ 10-1601.34</cite>, and <cite path="§10-1602.03">§ 10-1602.03</cite>.</annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7094" type="History"/>
   </annotations>
 </section>

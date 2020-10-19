@@ -1,17 +1,41 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <prefix>§</prefix>
   <num>21-2221.14a</num>
   <heading>Establishment of an electronic medical orders for scope of treatment registry.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>To facilitate the use of cloud-based technology for electronic Medical Orders for Scope of Treatment ("MOST") Forms, the DOH shall issue a request for proposals from and contract with an electronic MOST service or multiple electronic MOST services to connect with health care providers at the point of care through the State-designated health information exchange.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A MOST registry shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Be approved by the MOST Advisory Committee established pursuant to <cite path="§21-2221.03">[§ 21-2221.03]</cite>;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Meet the technology, security, and privacy standards set by the MOST Advisory Committee; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Allow for the authentication of a declarant's identify for a MOST form that is not witnessed.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>DOH shall carry out appropriate education and outreach efforts to increase public awareness of an electronic MOST service.</text>
+  </para>
   <annotations>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-104" path="§7011" codified:display="Note" app="2017-07-20" eff="2017-07-20">For temporary (90 days) repeal of § 4 of D.C. Law 21-72, see <cite doc="D.C. Act 22-104" path="§7011">§ 7011 of Fiscal Year 2018 Budget Support Emergency Act of 2017 (D.C. Act 22-104, July 20, 2017, 64 DCR 7032)</cite>.</annotation>
     <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7011" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7011" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of § 4 of D.C. Law 21-72, see <cite doc="D.C. Act 22-167" path="§7011">§ 7011 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7011" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-62" eff="2020-03-10" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-62" eff="2020-03-10" path="§2|(c)" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-62" path="§2|(c)" codified:display="Note" app="2020-03-10" eff="2020-03-10">Applicability of <cite doc="D.C. Law 23-62" path="">D.C. Law 23-62</cite>: <cite doc="D.C. Law 23-62" path="§3">§ 3 of D.C. Law 23-62</cite> provided that the creation of this section by <cite doc="D.C. Law 23-62" path="§2|(c)">§ 2(c) of D.C. Law 23-62</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-03-10" doc="D.C. Law 23-62" eff="2020-03-10" path="§2|(c)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-62" path="§2|(c)" codified:display="Note" app="2020-03-10" eff="2020-03-10">Applicability of <cite doc="D.C. Law 23-62" path="">D.C. Law 23-62</cite>: <cite doc="D.C. Law 23-62" path="§3">§ 3 of D.C. Law 23-62</cite> provided that the creation of this section by <cite doc="D.C. Law 23-62" path="§2|(c)">§ 2(c) of D.C. Law 23-62</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Act 23-404" path="§7073" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7073">Section 7073 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-62" path="§3">section 3 of D.C. Law 23-62</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-62 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7073" type="History" display="false"/>
   </annotations>
 </section>

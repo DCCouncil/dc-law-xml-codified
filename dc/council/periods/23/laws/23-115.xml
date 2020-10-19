@@ -51,17 +51,17 @@
       <para>
         <num>(1)</num>
         <text>Paragraph (15A) is designated as paragraph (15B).</text>
-        <codify:replace path="(15A)|num" codified:doc="D.C. Code" codified:path="§3-1201.02|(15A)">
+        <codify:replace path="(15A)|num" codified:doc="D.C. Code" codified:path="§3-1201.02|(15B)">
           <num>(15B)</num>
         </codify:replace>
-        <codify:placeholder after="(15A)" tag-value="para" num-value="(15B)" codified:doc="D.C. Code" codified:path="§3-1201.02|(15B)"/>
+        <codify:placeholder after="(15A)" tag-value="para" num-value="(15B)"/>
       </para>
       <para>
         <num>(2)</num>
         <text>A new paragraph (15A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(15)" placeholder-value=""/>
+            <codify:insert after="(15)" placeholder-value="" codified:doc="D.C. Code" codified:path="§3-1201.02|(15A)"/>
             <num>(15A)</num>
             <text>"Practice of professional art therapy" means the integrative application of psychotherapeutic principles and methods with specialized training in art media, the neurobiological implications of art-making, and art-based assessment models to assist an individual or group to improve cognitive and sensory-motor functions, increase self-awareness and self-esteem, cope with grief and traumatic experience, resolve conflicts and distress, and enhance social functioning. The practice of professional art therapy includes:</text>
             <para>
@@ -230,7 +230,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 23-115" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§3-1201.02|(15A)"/>
+      <codify:applicability doc="D.C. Law 23-115" date="notfunded" history="false"/>
     </para>
     <para>
       <num>(b)</num>

@@ -7343,7 +7343,7 @@
             <para codify:path="(1)">
               <num>(A)</num>
               <text>Paragraph (1) is amended by striking the date "October 1, 2017" and inserting the date "October 1, 2018" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-664.05|(a)|(1)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-664.05">
                 <find>October 1, 2017</find>
                 <replace>October 1, 2018</replace>
               </codify:find-replace>
@@ -7351,7 +7351,7 @@
             <para codify:path="(2)">
               <num>(B)</num>
               <text>Paragraph (2) is amended by striking the year "2015" both times it appears and inserting the year "2016" in its place.</text>
-              <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§44-664.05|(a)|(2)">
+              <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§44-664.05">
                 <find>2015</find>
                 <replace>2016</replace>
               </codify:find-replace>
@@ -7359,7 +7359,7 @@
             <para codify:path="(3)">
               <num>(C)</num>
               <text>Paragraph (3) is amended by striking the year "2018" and inserting the year "2019" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-664.05|(a)|(3)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-664.05">
                 <find>2018</find>
                 <replace>2019</replace>
               </codify:find-replace>
@@ -7371,7 +7371,7 @@
             <para codify:path="(1)">
               <num>(A)</num>
               <text>Paragraph (1) is amended by striking the date "October 1, 2017" and inserting the date "October 1, 2018" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-664.05|(b)|(1)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-664.05">
                 <find>October 1, 2017</find>
                 <replace>October 1, 2018</replace>
               </codify:find-replace>
@@ -7379,7 +7379,7 @@
             <para codify:path="(3)">
               <num>(B)</num>
               <text>Paragraph (3) is amended by striking the year "2018" and inserting the year "2019" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-664.05|(b)|(3)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-664.05">
                 <find>2018</find>
                 <replace>2019</replace>
               </codify:find-replace>
@@ -7441,7 +7441,7 @@
             <para codify:path="(1)">
               <num>(A)</num>
               <text>Paragraph (1) is amended by striking the date "October 1, 2017" and inserting the date "October 1, 2018" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-664.13|(a)|(1)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-664.13|(a)">
                 <find>October 1, 2017</find>
                 <replace>October 1, 2018</replace>
               </codify:find-replace>
@@ -7449,7 +7449,7 @@
             <para codify:path="(2)">
               <num>(B)</num>
               <text>Paragraph (2) is amended by striking the figure "$8.8 million" and inserting the figure "$8.6 million" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-664.13|(a)|(2)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§44-664.13|(a)">
                 <find>$8.8 million</find>
                 <replace>$8.6 million</replace>
               </codify:find-replace>

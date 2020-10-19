@@ -11454,7 +11454,7 @@
       <section>
         <num>7132</num>
         <text>Section 47-4802(a)(2) of the District of Columbia Official Code is amended by striking the phrase "tax year 2016" and inserting the phrase "tax year 2017" in its place.</text>
-        <codify:find-replace doc="D.C. Code" path="§47-4802|(a)|(2)" count="1" codified:doc="D.C. Code" codified:path="§47-4802|(a)|(2)">
+        <codify:find-replace doc="D.C. Code" path="§47-4802|(a)|(2)" count="1" codified:doc="D.C. Code" codified:path="§47-4802|(a)">
           <find>tax year 2016</find>
           <replace>tax year 2017</replace>
         </codify:find-replace>

@@ -1,14 +1,44 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>22-1863</num>
   <heading>Penalties.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Except as provided in subsections (b) and (c) of this section, a person convicted of unlawful distribution of a prohibited animal product shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>For a first offense, be fined no more than $1,000 or twice the value of the prohibited animal product, whichever is greater, incarcerated for no more than 30 days, or both;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For a second offense, be fined no more than $5,000 or twice the value of the prohibited animal product, whichever is greater, incarcerated for no more than one year, or both; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>For a third or subsequent offense, be fined no more than $25,000 or thrice the value of the prohibited animal product, whichever is greater, incarcerated for no more than 3 years, or both.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>For any offense where the total value of the prohibited animal product is greater than $25,000, a person convicted of unlawful distribution of a prohibited animal product shall be fined thrice the value of the prohibited animal product, incarcerated for no more than 3 years, or both.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>If the person convicted of unlawful distribution of a prohibited animal product is not an individual, the court may double the applicable fine specified in subsection (a) or subsection (b) of this section.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The fines set forth in this section shall not be limited by <cite path="§22-3571.01">§ 22-3571.01</cite>.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§22-1863" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-1863">Applicability of <cite doc="D.C. Law 23-126" path="">D.C. Law 23-126</cite>: <cite doc="D.C. Law 23-126" path="§6">§ 6 of D.C. Law 23-126</cite> provided that the creation of this section by <cite doc="D.C. Law 23-126" path="§4">§ 4 of D.C. Law 23-126</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2020-08-06" doc="D.C. Law 23-126" eff="2020-08-06" path="" type="History" display="false"/>
-    <annotation app="2020-08-06" doc="D.C. Law 23-126" eff="2020-08-06" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-126" eff="2020-08-06" path="§4" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-126" path="§4" codified:display="Note" app="2020-08-06" eff="2020-08-06">Applicability of <cite doc="D.C. Law 23-126" path="">D.C. Law 23-126</cite>: <cite doc="D.C. Law 23-126" path="§6">§ 6 of D.C. Law 23-126</cite> provided that the creation of this section by <cite doc="D.C. Law 23-126" path="§4">§ 4 of D.C. Law 23-126</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-08-06" doc="D.C. Law 23-126" eff="2020-08-06" path="§4" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-126" path="§4" codified:display="Note" app="2020-08-06" eff="2020-08-06">Applicability of <cite doc="D.C. Law 23-126" path="">D.C. Law 23-126</cite>: <cite doc="D.C. Law 23-126" path="§6">§ 6 of D.C. Law 23-126</cite> provided that the creation of this section by <cite doc="D.C. Law 23-126" path="§4">§ 4 of D.C. Law 23-126</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Act 23-404" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19" path="§7082" display="false"><cite doc="D.C. Act 23-404" path="§7082">Section 7082 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-126" path="§6">section 6 of D.C. Law 23-126</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-126 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7082" type="History" display="false"/>
+    <annotation doc="D.C. Act 23-404" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19" path="§7082"><cite doc="D.C. Act 23-404" path="§7082">Section 7082 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-126" path="§6">section 6 of D.C. Law 23-126</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-126 has been implemented.
+        </annotation>
   </annotations>
 </section>

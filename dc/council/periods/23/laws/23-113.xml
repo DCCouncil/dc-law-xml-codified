@@ -38,7 +38,7 @@
         <text>A new paragraph (1) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert before="(1)" num-value="(1X)" codified:doc="D.C. Code" codified:path="§32-151|(1X)"/>
+            <codify:insert before="(1)" num-value="(1X)" codified:doc="D.C. Code" codified:path="§32-151|(1)"/>
             <num>(1)</num>
             <text>"Clean-air Transportation Fringe Benefit" means the following benefits that are provided in addition to compensation:</text>
             <para>
@@ -106,7 +106,7 @@
         <find>section 132(f)(5)(B) of the Internal Revenue Code</find>
         <replace>section 132(f)(5)(B) of the Internal Revenue Code [Section 132(f)(5)(B)]</replace>
       </codify:find-replace>
-      <codify:not-funded-anno doc="D.C. Law 23-113" path="§2|(a)" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§32-151|(1X)" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Law 23-113" path="§2|(a)" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§32-151|(1)" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -346,7 +346,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno doc="D.C. Law 23-113" path="§2|(c)" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§32-153|(b)" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Law 23-113" path="§2|(c)" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§32-153" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -355,15 +355,15 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion if its fiscal effect in an approved budget and financial plan.</text>
-      <codify:find-replace doc="D.C. Code" path="§32-152" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-152">
+      <codify:find-replace doc="D.C. Code" path="§32-152" count="1" history="false" display-template="">
         <find> section 132(f)(1)(A),(B), and (D) of the Internal Revenue Code</find>
         <replace> section 132(f)(1)(A),(B), and (D) of the Internal Revenue Code [Section 123(f)(1)(A), (B), and (D)]</replace>
       </codify:find-replace>
-      <codify:find-replace doc="D.C. Code" path="§32-152" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-152">
+      <codify:find-replace doc="D.C. Code" path="§32-152" count="1" history="false" display-template="">
         <find> section 132(f)(2) of the Internal Revenue Code</find>
         <replace> section 132(f)(2) of the Internal Revenue Code [Section 132(f)(2)]</replace>
       </codify:find-replace>
-      <codify:applicability doc="D.C. Law 23-113" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-151|(1X)"/>
+      <codify:applicability doc="D.C. Law 23-113" date="notfunded" history="false" display-template=""/>
     </para>
     <para>
       <num>(b)</num>

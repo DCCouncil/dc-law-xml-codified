@@ -1,14 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>4-756.07</num>
   <heading>Voluntary program for former Rapid Re-Housing participants.</heading>
-  <text>Not Funded.</text>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 16-35" type="History" path="§31e">Oct. 22, 2005, D.C. Law 16-35, §  31e</annotation>
     <annotation type="Applicability" doc="D.C. Law 22-65" path="§2|(oo)" codified:display="Note" app="2018-02-28" eff="2018-02-28">Applicability of <cite doc="D.C. Law 22-65" path="">D.C. Law 22-65</cite>: <cite doc="D.C. Law 22-65" path="§5">§ 5 of D.C. Law 22-65</cite> provided that the creation of this section by <cite doc="D.C. Law 22-65" path="§2|(oo)">§ 2(oo) of D.C. Law 22-65</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§2|(oo)" type="History"/>
     <annotation app="2018-02-28" doc="D.C. Law 22-65" eff="2018-02-28" path="§5|(a)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 22-65" eff="2018-02-28" path="§2|(oo)" prefix="as added" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7102" type="History"/>
   </annotations>
 </section>

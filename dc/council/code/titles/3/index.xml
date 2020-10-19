@@ -424,8 +424,7 @@
       <annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" app="2020-06-17" eff="2020-06-17" path="§5" display="false"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <cite path="2|5">Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
     </annotation>
       <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§5" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="§6|(a)" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
+      <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
       <xi:include href="./sections/3-1206.61.xml"/>
       <xi:include href="./sections/3-1206.62.xml"/>
       <xi:include href="./sections/3-1206.63.xml"/>
@@ -438,8 +437,7 @@
       <annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" app="2020-06-17" eff="2020-06-17" path="§5" display="false"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <cite path="2|5">Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
     </annotation>
       <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§5" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="§6|(a)" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
+      <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
       <xi:include href="./sections/3-1206.71.xml"/>
     </container>
     <container>
@@ -552,10 +550,12 @@
       <prefix>Subchapter</prefix>
       <num>VIII-E</num>
       <heading>Qualifications for Licensure to Practice as a Professional Art Therapist.</heading>
-      <annotation app="notfunded" doc="D.C. Law 23-115" eff="2020-06-24" path="§3|(a)" type="History" display="false"/>
-      <annotation app="notfunded" doc="D.C. Law 23-115" eff="2020-06-24" path="§2|(f)" type="History" display="false"/>
+      <annotation app="2020-06-24" doc="D.C. Law 23-115" eff="2020-06-24" path="§2|(f)" type="History" display="false"/>
       <xi:include href="./sections/3-1208.71.xml"/>
       <xi:include href="./sections/3-1208.72.xml"/>
+      <annotation doc="D.C. Act 23-404" path="§7081" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7081">Section 7081 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-115" path="§3">section 3 of D.C. Law 23-115</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-115 has been implemented.
+        </annotation>
+      <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7081" type="History" display="false"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -778,8 +778,7 @@
     <prefix>Chapter</prefix>
     <num>14C</num>
     <heading>Office on Caribbean Affairs.</heading>
-    <annotation app="notfunded" doc="D.C. Law 23-87" eff="2020-05-06" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-87" eff="2020-05-06" path="" type="History" display="false"/>
+    <annotation app="2020-05-06" doc="D.C. Law 23-87" eff="2020-05-06" path="" type="History" display="false"/>
     <xi:include href="./sections/3-1451.xml"/>
     <xi:include href="./sections/3-1452.xml"/>
   </container>

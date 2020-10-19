@@ -24,7 +24,7 @@
       <xi:include href="./sections/25-111.xml"/>
       <xi:include href="./sections/25-112.xml"/>
       <xi:include href="./sections/25-113.xml"/>
-      <xi:include href="./sections/[25-113.01].xml"/>
+      <xi:include href="./sections/25-113.01.xml"/>
       <xi:include href="./sections/25-114.xml"/>
       <xi:include href="./sections/25-115.xml"/>
       <xi:include href="./sections/25-116.xml"/>
@@ -53,6 +53,7 @@
     <xi:include href="./sections/25-203.xml"/>
     <xi:include href="./sections/25-204.xml"/>
     <xi:include href="./sections/25-204.01.xml"/>
+    <xi:include href="./sections/25-204.02.xml"/>
     <xi:include href="./sections/25-205.xml"/>
     <xi:include href="./sections/25-206.xml"/>
     <xi:include href="./sections/25-207.xml"/>
@@ -308,6 +309,7 @@
       <xi:include href="./sections/25-783.xml"/>
       <xi:include href="./sections/25-784.xml"/>
       <xi:include href="./sections/25-785.xml"/>
+      <xi:include href="./sections/25-786.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

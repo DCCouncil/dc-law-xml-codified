@@ -1,15 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Applicable">
-  <reason>Not Applicable</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>1-1163.34a</num>
   <heading>Covered contractor contributions.</heading>
-  <text>Applicable as of Nov. 4, 2020.</text>
+  <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 19-124" type="History" path="§334a">Apr. 27, 2012, D.C. Law 19-124, § 334a</annotation>
-    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§10|(b)|(1)" type="History" display="false"/>
-    <annotation app="2020-11-04" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(pp)" prefix="as added" type="History"/>
-    <annotation doc="D.C. Law 22-250" path="§10|(b)" type="Applicability" history="false" app="2019-03-13" eff="2019-03-13"><cite doc="D.C. Law 22-250" path="§10|(b)">Section 10(b) of D.C. Law 22-250</cite> required that this section, created by D.C. Law 22-250, (1) Apply as of November 4, 2020; and (2) Not apply to contracts, as defined in D.C. Official Code § 1-1161.01(10C)(A)(ii)), including those contracts' option periods or similar contract extensions or modifications, sought, entered into, or executed before November 4, 2020.
-      </annotation>
-    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§10|(b)" type="History" display="false"/>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§10|(a)|(1)|(A)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-250" eff="2019-03-13" path="§6|(pp)" prefix="as added" type="History"/>
+    <annotation doc="D.C. Law 22-250" path="§10" type="Applicability" history="false" app="2019-03-13" eff="2019-03-13"><cite doc="D.C. Law 22-250" path="§10|(b)">Section 10(b) of D.C. Law 22-250</cite> required that this section, created by D.C. Law 22-250, (1) Apply as of November 4, 2020; and (2) Not apply to contracts, as defined in D.C. Official Code § 1-1161.01(10C)(A)(ii)), including those contracts' option periods or similar contract extensions or modifications, sought, entered into, or executed before November 4, 2020.
+            </annotation>
+    <annotation app="2019-03-13" doc="D.C. Law 22-250" eff="2019-03-13" path="§10" type="History" display="false"/>
+    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§1043|(a)" type="History" display="false"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§1104" type="History" display="false"/>
   </annotations>
 </section>

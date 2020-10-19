@@ -1,14 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>3-1452</num>
   <heading>Duties of the Executive Director.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Executive Director shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Serve as an advocate for the needs of the District's Caribbean community, as those needs relate to housing, health, education, employment, social services, public safety, and expanding business opportunities;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Assist community organizations in developing and submitting grant applications;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Provide information and technical assistance on programs and services for the Caribbean community to the Mayor, the Council, Advisory Neighborhood Commissions, other District government agencies, and the community;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Respond to recommendations and policy statements from the Mayor's Advisory Commission on Caribbean Community Affairs ("MACCCA"), established by Mayor's Order 2012-127;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>File with the Mayor and Council, no later than December 31 annually, an annual report on the operations of the Office of Caribbean Affairs ("OCA") based on the previous fiscal year;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Identify areas for service improvement and make recommendations to the Mayor and MACCCA for improving services; and</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Ensure the necessary control, evaluation, audit, and reporting on programs funded through OCA.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Executive Director may:</text>
+    <para>
+      <num>(1)</num>
+      <text>Accept volunteer services and funds from the public and private sectors to supplement the budget of OCA in carrying out its duties and responsibilities;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Apply for, receive, and expend gifts or grants of money to carry out the duties and responsibilities of OCA; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Issue grants, in accordance with the requirements set forth in <cite path="1|3|XII-A|B">part B of subchapter XII-A of Chapter 3 of Title 1</cite>, to organizations that provide housing, education, health, workforce development, employment, criminal justice reform, and economic opportunity-related services to the District's Caribbean community.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§3-1452" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-1452">Applicability of <cite doc="D.C. Law 23-87" path="">D.C. Law 23-87</cite>: <cite doc="D.C. Law 23-87" path="§4">§ 4 of D.C. Law 23-87</cite> provided that the creation of this section by <cite doc="D.C. Law 23-87" path="§3">§ 3 of D.C. Law 23-87</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-87" eff="2020-05-06" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-87" eff="2020-05-06" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-87" eff="2020-05-06" path="§3" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-87" path="§3" codified:display="Note" app="2020-05-06" eff="2020-05-06">Applicability of <cite doc="D.C. Law 23-87" path="">D.C. Law 23-87</cite>: <cite doc="D.C. Law 23-87" path="§4">§ 4 of D.C. Law 23-87</cite> provided that the creation of this section by <cite doc="D.C. Law 23-87" path="§3">§ 3 of D.C. Law 23-87</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2020-05-06" doc="D.C. Law 23-87" eff="2020-05-06" path="" type="History" display="false"/>
     <annotation app="2020-05-06" doc="D.C. Law 23-87" eff="2020-05-06" path="§3" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-87" path="§3" codified:display="Note" app="2020-05-06" eff="2020-05-06">Applicability of <cite doc="D.C. Law 23-87" path="">D.C. Law 23-87</cite>: <cite doc="D.C. Law 23-87" path="§4">§ 4 of D.C. Law 23-87</cite> provided that the creation of this section by <cite doc="D.C. Law 23-87" path="§3">§ 3 of D.C. Law 23-87</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Act 23-404" path="§7076" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7076">Section 7076 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-87" path="§5">section 5 of D.C. Law 23-87</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by D.C. Law 23-87 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7076" type="History" display="false"/>
   </annotations>
 </section>

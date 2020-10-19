@@ -1,131 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>7-503.07</num>
   <heading>Senior Strategic Plan.</heading>
-  <para>
-    <num>(a)</num>
-    <text>The Department on Aging ("Department") shall develop and publish a 10-year Senior Strategic Plan ("Plan") that shall serve as a long-term blueprint for District services for the aged.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>The Plan shall include an assessment of:</text>
-    <para>
-      <num>(1)</num>
-      <text>The data currently available with respect to the District's aged population, including:</text>
-      <para>
-        <num>(A)</num>
-        <text>Identification of Census tracts with large aged populations;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The particular needs of those populations, especially those with cognitive and other disabilities who cannot care for themselves without assistance;</text>
-      </para>
-      <para>
-        <num>(B-i)</num>
-        <text>The number of aged residents, listed by Ward, who spend down assets in order to qualify for Medicaid, who forgo needed care because they cannot afford the care, and who spend a significant percentage of their income or assets on health care; and</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Demographic changes within the aged population, including an analysis of any significant changes in the proportion of aged residents who:</text>
-        <para>
-          <num>(i)</num>
-          <text>Have low-incomes;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Are minorities;</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>Speak English as a second language or are non-English speakers; and</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>Are disabled;</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Current services provided by the Department, and the data about the aged residents who use the services;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Current housing options and housing issues facing the District's aged population, including an assessment of the homeless aged population and their particular needs, in coordination with the Department of Housing and Community Development and the Office of the Tenant Advocate;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Current transportation methods used by aged residents, including an analysis of quality and efficiency of service;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Current employment opportunities for aged residents who are interested in participating in the workforce, and how to expand those opportunities, in coordination with the Department of Employment Services;</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>Fraud and elder abuse in the District of Columbia and a recommendation of affirmative steps the District may take to ensure resident safety, in coordination with the Office of the Attorney General;</text>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>The Department's strategy for communicating with the aged and with the general public;</text>
-    </para>
-    <para>
-      <num>(8)</num>
-      <text>The decentralized contractual services provided by the Department and the resources required to continue those services and to extend the reach of those services to all aged residents; and</text>
-    </para>
-    <para>
-      <num>(9)</num>
-      <text>Current licensing and training programs, administered by the Department of Health or the Department of Employment Services, for in-home healthcare workers and recommendations for improvements to licensing or training programs that would increase the number of in-home healthcare workers in the District.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>The Plan shall include a review of national best practices and analysis with respect to the items listed in subsection (b) of this section and provide recommendations for implementing such practices.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>The Office shall consult with local private and nonprofit service agencies, businesses, advocacy organizations, institutions of higher education, providers, and stakeholders in order to gather data, information, and analyses to inform the Plan.</text>
-  </para>
-  <para>
-    <num>(e)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Plan shall be published on the Department's web page and transmitted to the Mayor and Council no later than December 31, 2019.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <para>
-        <num>(A)</num>
-        <text>On a biennial basis, except in years when a new Plan is due pursuant to paragraph (3) of this subsection, the Department may amend the Plan with any updates it deems necessary.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Any changes made to the Plan on a biennial basis shall be published on the Department's web page and transmitted to the Mayor and Council, accompanied by an explanation for the change.</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Biennial updates shall be due by December 31 of each odd-numbered year, except in years when a new Plan is due.</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>A new Plan shall be transmitted to the Mayor and Council by December 31 every 10 years after December 31, 2019.</text>
-    </para>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 1-24" type="History" path="§307">Oct. 29, 1975, D.C. Law 1-24, title III, § 307</annotation>
-    <annotation app="2019-03-28" doc="D.C. Law 22-267" eff="2019-03-28" path="§2" prefix="as added" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 22-267" eff="2019-03-28" path="§3a|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 22-267" eff="2019-03-28" path="§2" prefix="as added" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§5132" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-91" path="§5132">§ 5132 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
     <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§5132" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§5132" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§5132">§ 5132 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§5132" type="History" display="false"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5132|(a)|(2)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5132|(a)|(3)|(A)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5132|(a)|(3)|(B)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5132|(a)|(3)|(C)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5132|(a)|(1)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5132|(b)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5132|(c)" type="History"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5132|(d)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-16" eff="2019-09-11" path="§5132|(a)|(1)" type="History" estimate="true"/>
+    <annotation app="notfunded" doc="D.C. Law 23-16" eff="2019-09-11" path="§5132|(a)|(3)|(A)" type="History" estimate="true"/>
+    <annotation app="notfunded" doc="D.C. Law 23-16" eff="2019-09-11" path="§5132|(a)|(3)|(B)" type="History" estimate="true"/>
+    <annotation app="notfunded" doc="D.C. Law 23-16" eff="2019-09-11" path="§5132|(b)" type="History" estimate="true"/>
+    <annotation app="notfunded" doc="D.C. Law 23-16" eff="2019-09-11" path="§5132|(c)" type="History" estimate="true"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7068" type="History" display="false"/>
   </annotations>
 </section>

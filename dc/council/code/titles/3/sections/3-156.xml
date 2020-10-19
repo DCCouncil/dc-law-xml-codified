@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>3-156</num>
   <heading>Sunset.</heading>
-  <text><cite path="3|1A">This chapter</cite> shall expire on October 1, 2020.</text>
+  <text>Repealed.</text>
   <annotations>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="III" type="History" display="false"/>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§3127" type="History"/>
@@ -16,5 +17,6 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§3003|(b)" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§3003|(b)">§ 3003(b) of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§3003|(b)" type="History" display="false"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3003|(b)" type="History"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§3002|(e)" type="History"/>
   </annotations>
 </section>

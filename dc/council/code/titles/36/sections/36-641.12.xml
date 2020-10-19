@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>36-641.12</num>
+  <heading>Cash award.</heading>
+  <para>
+    <num>(a)</num>
+    <text>A game of skill machine shall not directly dispense cash awards to a player. If, at the conclusion of the game, a player is entitled to a cash award, the game of skill machine shall dispense a ticket or voucher to the player. The ticket or voucher shall indicate:</text>
+    <para>
+      <num>(1)</num>
+      <text>The total amount of the cash award;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The time of day that the cash award was issued in a 24-hour format showing hours and minutes, the date, the terminal serial number, and the sequential number of the ticket or voucher; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>An encrypted validation number from which the validity of the cash award may be determined.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A retailer shall allow a player to take the ticket or voucher to the owner of the licensed establishment or the owner's designee, who shall be located at the licensed establishment, for payment of the cash award.</text>
+  </para>
+  <annotations>
+    <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-91" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
+    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7177" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-112" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
+    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7177" type="History" display="false"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§6022|(e)" type="History" display="false"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§6022|(e)" type="History"/>
+  </annotations>
+</section>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
-  <reason>Not funded</reason>
+  <reason>Repealed</reason>
   <num>7-1407</num>
   <heading>DC HealthCare Alliance recertification.</heading>
-  <text>Not funded.</text>
+  <text>Repealed.</text>
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§7-1407" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1407">Applicability of <cite doc="D.C. Law 22-35" path="">D.C. Law 22-35</cite>: <cite doc="D.C. Law 22-35" path="§3">§ 3 of D.C. Law 22-35</cite> provided that the creation of this section by <cite doc="D.C. Law 22-35" path="§2">§ 2 of D.C. Law 22-35</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 14-18" type="History" path="§6">July 12, 2001, D.C. Law 14-18, § 7b</annotation>
@@ -15,8 +15,6 @@
     <annotation app="2018-02-17" doc="D.C. Law 22-62" eff="2018-02-17" path="§3" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 22-62" eff="2018-02-17" path="§3" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§5023" type="History" display="false"/>
-    <annotation doc="D.C. Law 22-168" path="§5023" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§5023">Section 5023 of D.C. Law 22-168</cite> amended <cite doc="D.C. Law 22-35" path="§3|(a)">section 3(a) of D.C. Law 22-35</cite> keeping in place the applicability provision.  Therefore, the creation of this section by section 2 of Law 22-35 has not been implemented.
-        </annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§5102" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-91" path="§5102">§ 5102 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
     <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§5102" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§5102" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§5102">§ 5102 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
@@ -24,5 +22,11 @@
     <annotation doc="D.C. Law 23-16" path="§5102" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11"><cite doc="D.C. Law 23-16" path="§5102">Section 5102 of D.C. Law 23-16</cite> amended this section as added by <cite doc="D.C. Law 22-35" path="§2">section 2  of D.C. Law 22-35</cite> keeping in place the applicability provision. Therefore, the creation of this section by section 2 of Law 22-35 has not been implemented.
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5102" type="History" display="false"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7062" type="History" display="false"/>
+    <annotation doc="D.C. Act 23-404" path="§7062" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Law 22-168" path="§5023">Section 5023 of D.C. Law 22-168</cite> amended <cite doc="D.C. Law 22-35" path="§3|(a)">section 3(a) of D.C. Law 22-35</cite> keeping in place the applicability provision.  Therefore, the creation of this section by section 2 of Law 22-35 has not been implemented.
+        </annotation>
+    <annotation doc="D.C. Act 23-404" path="§7062" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7062">Section 7062 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 22-35" path="§3">section 3 of D.C. Law 22-35</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by section 2 of Law 22-35 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7100" type="History"/>
   </annotations>
 </section>

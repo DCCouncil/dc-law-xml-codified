@@ -1,14 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>3-1451</num>
   <heading>Establishment of the Office on Caribbean Affairs.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>There is established an Office on Caribbean Affairs ("OCA"), which shall monitor the delivery of District services and make policy recommendations to the Mayor and Council regarding housing, health, education, employment, social services, public safety, and business opportunities for the District's Caribbean community.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>OCA shall be headed by an Executive Director, who shall be appointed by the Mayor with the advice and consent of the Council pursuant to <cite path="§1-523.01|(a)">§ 1-523.01(a)</cite>. The Executive Director shall be a full-time position, for which annual compensation shall be fixed in accordance with <cite path="1|6|X-A">subchapter X-A of Chapter 6 of Title 1</cite>. The Executive Director shall have such staff as is appropriated in an approved budget and financial plan or provided through federal or private grants.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§3-1451" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-1451">Applicability of <cite doc="D.C. Law 23-87" path="">D.C. Law 23-87</cite>: <cite doc="D.C. Law 23-87" path="§4">§ 4 of D.C. Law 23-87</cite> provided that the creation of this section by <cite doc="D.C. Law 23-87" path="§2">§ 2 of D.C. Law 23-87</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-87" eff="2020-05-06" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-87" eff="2020-05-06" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-87" eff="2020-05-06" path="§2" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-87" path="§2" codified:display="Note" app="2020-05-06" eff="2020-05-06">Applicability of <cite doc="D.C. Law 23-87" path="">D.C. Law 23-87</cite>: <cite doc="D.C. Law 23-87" path="§4">§ 4 of D.C. Law 23-87</cite> provided that the creation of this section by <cite doc="D.C. Law 23-87" path="§2">§ 2 of D.C. Law 23-87</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2020-05-06" doc="D.C. Law 23-87" eff="2020-05-06" path="" type="History" display="false"/>
     <annotation app="2020-05-06" doc="D.C. Law 23-87" eff="2020-05-06" path="§2" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-87" path="§2" codified:display="Note" app="2020-05-06" eff="2020-05-06">Applicability of <cite doc="D.C. Law 23-87" path="">D.C. Law 23-87</cite>: <cite doc="D.C. Law 23-87" path="§4">§ 4 of D.C. Law 23-87</cite> provided that the creation of this section by <cite doc="D.C. Law 23-87" path="§2">§ 2 of D.C. Law 23-87</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Act 23-404" path="§7076" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19"><cite doc="D.C. Act 23-404" path="§7076">Section 7076 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-87" path="§5">section 5 of D.C. Law 23-87</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by D.C. Law 23-87 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7076" type="History" display="false"/>
   </annotations>
 </section>

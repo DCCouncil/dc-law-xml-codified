@@ -36,7 +36,7 @@
       <para>
         <num>(1)</num>
         <text>Paragraph (1) is redesignated as paragraph (1A).</text>
-        <codify:replace path="(1)|num" codified:doc="D.C. Code" codified:path="§7-1671.01|(1A)">
+        <codify:replace path="(1)|num" codified:doc="D.C. Code" codified:path="§7-1671.01|(1C)">
           <num>(1A)</num>
         </codify:replace>
       </para>
@@ -45,7 +45,7 @@
         <text>A new paragraph (1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert before="(1A)" codified:doc="D.C. Code" codified:path="§7-1671.01|(1)"/>
+            <codify:insert before="(1A)" codified:doc="D.C. Code" codified:path="§7-1671.01|(1B)"/>
             <num>(1)</num>
             <text>"Adjacent" means located within the same physical structure as, and is abutting, adjoining, bordering, touching, contiguous to, or otherwise physically meeting.</text>
           </para>
@@ -57,12 +57,12 @@
         <text>New paragraphs (1B) and (1C) are added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(1A)" codified:doc="D.C. Code" codified:path="§7-1671.01|(1B)"/>
+            <codify:insert after="(1A)" codified:doc="D.C. Code" codified:path="§7-1671.01|(1D)"/>
             <num>(1B)</num>
             <text>"Advanced practice registered nurse" means an individual licensed and in good standing to practice advanced practice registered nursing under District law.</text>
           </para>
           <para>
-            <codify:insert after="(1B)" codified:doc="D.C. Code" codified:path="§7-1671.01|(1C)"/>
+            <codify:insert after="(1B)" codified:doc="D.C. Code" codified:path="§7-1671.01|(1E)"/>
             <num>(1C)</num>
             <text>"Authorized practitioner" means a physician, advanced practice registered nurse, physician assistant, dentist, or naturopathic physician who is licensed and in good standing to practice under District law.</text>
           </para>

@@ -1,14 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>3-607.01</num>
   <heading>District of Columbia Combat Sports Commission Fund.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>There is established as a special fund the District of Columbia Combat Sports Commission Fund ("Fund"), to be administered by the Commission in accordance with subsection (c) of this section.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>There shall be deposited into the Fund:</text>
+    <para>
+      <num>(1)</num>
+      <text>All receipts collected by the Commission pursuant to <cite path="§3-607|(b)">§ 3-607(b)</cite>, <cite path="§3-607|(c)">(c)</cite>, and <cite path="§3-607|(d)">(d)</cite>; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Any fines collected pursuant to <cite path="§3-608|(c)">§ 3-608(c)</cite> or <cite path="§3-608|(d)">(d)</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Money in the Fund shall be used to carry out the powers of the Commission set forth in <cite path="§3-606">§ 3-606</cite>.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <para>
+      <num>(1)</num>
+      <text>The money deposited into the Fund shall not revert to the unrestricted fund balance of the General Fund of the District of Columbia at the end of a fiscal year, or at any other time.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 1-20" type="History" path="§8a">Oct. 8, 1975, D.C. Law 1-20, § 8a</annotation>
     <annotation type="Applicability" doc="D.C. Law 22-228" path="§2|(h)" codified:display="Note" app="2019-02-22" eff="2019-02-22">Applicability of <cite doc="D.C. Law 22-228" path="">D.C. Law 22-228</cite>: <cite doc="D.C. Law 22-228" path="§3">§ 3 of D.C. Law 22-228</cite> provided that the creation of this section by <cite doc="D.C. Law 22-228" path="§2|(h)">§ 2(h) of D.C. Law 22-228</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(h)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 22-228" eff="2019-02-22" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(h)" prefix="as added" type="History"/>
+    <annotation app="2019-02-22" doc="D.C. Law 22-228" eff="2019-02-22" path="§2|(h)" prefix="as added" type="History"/>
+    <annotation doc="D.C. Act 23-404" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19" path="§7067"><cite doc="D.C. Act 23-404" path="§7067">Section 7067 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 22-228" path="§3">section 3 of D.C. Law 22-228</cite> that provided that the amendment of this section by D.C. Law 22-210 is subject to the includsion of the law' fiscal effect in an approved budget and financial plan.  Therefore that amendment has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7067" type="History" display="false"/>
   </annotations>
 </section>

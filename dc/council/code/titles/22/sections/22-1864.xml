@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>22-1864</num>
   <heading>Rules.</heading>
-  <text>Not Funded.</text>
+  <text>The Mayor, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of <cite path="22|18B">this chapter</cite>.</text>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§22-1864" codified:display="Note" codified:doc="D.C. Code" codified:path="§22-1864">Applicability of <cite doc="D.C. Law 23-126" path="">D.C. Law 23-126</cite>: <cite doc="D.C. Law 23-126" path="§6">§ 6 of D.C. Law 23-126</cite> provided that the creation of this section by <cite doc="D.C. Law 23-126" path="§5">§ 5 of D.C. Law 23-126</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2020-08-06" doc="D.C. Law 23-126" eff="2020-08-06" path="" type="History" display="false"/>
-    <annotation app="2020-08-06" doc="D.C. Law 23-126" eff="2020-08-06" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-126" eff="2020-08-06" path="§5" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-126" path="§5" codified:display="Note" app="2020-08-06" eff="2020-08-06">Applicability of <cite doc="D.C. Law 23-126" path="">D.C. Law 23-126</cite>: <cite doc="D.C. Law 23-126" path="§6">§ 6 of D.C. Law 23-126</cite> provided that the creation of this section by <cite doc="D.C. Law 23-126" path="§5">§ 5 of D.C. Law 23-126</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-08-06" doc="D.C. Law 23-126" eff="2020-08-06" path="§5" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-126" path="§5" codified:display="Note" app="2020-08-06" eff="2020-08-06">Applicability of <cite doc="D.C. Law 23-126" path="">D.C. Law 23-126</cite>: <cite doc="D.C. Law 23-126" path="§6">§ 6 of D.C. Law 23-126</cite> provided that the creation of this section by <cite doc="D.C. Law 23-126" path="§5">§ 5 of D.C. Law 23-126</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation doc="D.C. Act 23-404" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19" path="§7082" display="false"><cite doc="D.C. Act 23-404" path="§7082">Section 7082 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-126" path="§6">section 6 of D.C. Law 23-126</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-126 has been implemented.
+        </annotation>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7082" type="History" display="false"/>
+    <annotation doc="D.C. Act 23-404" type="Applicability" history="false" app="2020-08-19" eff="2020-08-19" path="§7082"><cite doc="D.C. Act 23-404" path="§7082">Section 7082 of D.C. Act 23-404</cite> repealed <cite doc="D.C. Law 23-126" path="§6">section 6 of D.C. Law 23-126</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by Law 23-126 has been implemented.
+        </annotation>
   </annotations>
 </section>

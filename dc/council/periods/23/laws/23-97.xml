@@ -87,7 +87,7 @@
         <para>
           <num>(A)</num>
           <text>Existing paragraph (1C) is redesignated as paragraph (1).</text>
-          <codify:find-replace path="(1C)|num" count="1" codified:doc="D.C. Code" codified:path="§3-1201.01|(1C)">
+          <codify:find-replace path="(1C)|num" count="1" codified:doc="D.C. Code" codified:path="§3-1201.01|[(1E)]">
             <find>(1C)</find>
             <replace>[(1E)]</replace>
           </codify:find-replace>
@@ -749,7 +749,7 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 23-97" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§3-1201.01|[(1C)]"/>
+      <codify:applicability doc="D.C. Law 23-97" date="notfunded" history="false" display-template=""/>
     </para>
     <para>
       <num>(b)</num>

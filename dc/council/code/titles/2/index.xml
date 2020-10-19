@@ -49,7 +49,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>2</num>
-    <heading>Contracts.</heading>
+    <heading>Government Contracts and Business Development.<annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="II|Q" type="History" display="false"/></heading>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
@@ -260,11 +260,18 @@
       </container>
       <container>
         <prefix>Part</prefix>
+        <num>D-i</num>
+        <heading>Programs for equity impact enterprises.</heading>
+        <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="II" type="History" display="false"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
         <num>E</num>
         <heading>Repealers.</heading>
         <xi:include href="./sections/2-218.81.xml"/>
         <xi:include href="./sections/2-218.82.xml"/>
       </container>
+      <xi:include href="./sections/2-218.77.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -433,6 +440,18 @@
       <heading>Applicability; Construction.</heading>
       <xi:include href="./sections/2-275.01.xml"/>
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>2B</num>
+    <heading>Equitable Impact Assistance for Local Businesses.</heading>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="II" type="History" display="false"/>
+    <xi:include href="./sections/2-281.01.xml"/>
+    <xi:include href="./sections/2-281.02.xml"/>
+    <xi:include href="./sections/2-281.03.xml"/>
+    <xi:include href="./sections/2-281.04.xml"/>
+    <xi:include href="./sections/2-281.05.xml"/>
+    <xi:include href="./sections/2-281.06.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -875,6 +894,17 @@
     <heading>District Government Contractor Reporting of SARS-CoV-2.</heading>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="V" type="History" display="false"/>
     <xi:include href="./sections/2-391.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3D</num>
+    <heading>Business Recovery Task Force.</heading>
+    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="" type="History" display="false"/>
+    <xi:include href="./sections/2-393.01.xml"/>
+    <xi:include href="./sections/2-393.02.xml"/>
+    <xi:include href="./sections/2-393.03.xml"/>
+    <xi:include href="./sections/2-393.04.xml"/>
+    <xi:include href="./sections/2-393.05.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1612,10 +1642,11 @@
         <container>
           <prefix>Subpart</prefix>
           <num>8</num>
-          <heading>High unemployment areas. [Not Funded]</heading>
+          <heading>High unemployment areas. [Repealed]<annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7104" type="History"/></heading>
           <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="§301|(a)" type="History" display="false"/>
           <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="" type="History" display="false"/>
           <xi:include href="./sections/2-1217.38.xml"/>
+          <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7104" type="History"/>
         </container>
         <container>
           <prefix>Subpart</prefix>
@@ -2174,8 +2205,7 @@
           <prefix>Part</prefix>
           <num>J</num>
           <heading>Health Care Professionals.</heading>
-          <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§3|(a)" type="History" display="false"/>
-          <annotation app="notfunded" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(b)|(2)" type="History" display="false"/>
+          <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(b)|(2)" type="History" display="false"/>
           <xi:include href="./sections/2-1402.91.xml"/>
           <xi:include href="./sections/2-1402.92.xml"/>
           <annotation type="Applicability" doc="D.C. Law 23-90" path="§2|(b)|(2)" codified:display="Note" app="2020-05-06" eff="2020-05-06">Applicability of <cite doc="D.C. Law 23-90" path="">D.C. Law 23-90</cite>: <cite doc="D.C. Law 23-90" path="§3">§ 3 of D.C. Law 23-90</cite> provided that the creation of this section by <cite doc="D.C. Law 23-90" path="§2|(b)|(2)">§ 2(b)(2) of D.C. Law 23-90</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
