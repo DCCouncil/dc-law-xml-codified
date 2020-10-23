@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>42-3505.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire within 90 days. For reference, click D.C. Act 23-415 link below.*
+      </text>
   <heading>Evictions.</heading>
   <para>
     <num>(a)</num>
@@ -515,5 +518,26 @@
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§404|(b)|(1)" type="History"/>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§404|(b)|(2)" type="History"/>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§404|(b)|(3)" type="History"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-415" eff="2020-10-14" path="§4" type="History" display="false"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-415" eff="2020-10-14" path="§2" type="History"/>
   </annotations>
+  <para>
+    <num>(q)</num>
+    <para>
+      <num>(1)</num>
+      <text>Beginning on October 14, 2020, for the period of time during which there exists a public health emergency declared pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, and for 60 days thereafter no housing provider may:</text>
+      <para>
+        <num>(A)</num>
+        <text>Issue to a tenant a notice to vacate pursuant to this section; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Engage in any action that is intended to force tenants to leave their housing or otherwise give up their rights under the law, including the actions described under <cite path="§42-3505.02|(a)">§ 42-3505.02(a)</cite>.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Any person who violates paragraph (1) of this subsection shall be subject to penalties under <cite path="§42-3509.01">§ 42-3509.01</cite>.</text>
+    </para>
+  </para>
 </section>

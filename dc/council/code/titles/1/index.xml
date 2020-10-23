@@ -654,6 +654,13 @@
       </container>
       <container>
         <prefix>Part</prefix>
+        <num>I-i</num>
+        <heading>Chief Financial Officer collection of fees and processing costs.</heading>
+        <annotation app="2020-10-14" doc="D.C. Act 23-416" eff="2020-10-14" path="" type="History" display="false"/>
+        <xi:include href="./sections/1-301.161.xml"/>
+      </container>
+      <container>
+        <prefix>Part</prefix>
         <num>J</num>
         <heading>District of Columbia Auditor Subpoena and Oath Authority.</heading>
         <xi:include href="./sections/1-301.171.xml"/>

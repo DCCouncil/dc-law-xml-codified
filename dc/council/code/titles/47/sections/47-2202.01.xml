@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-2202.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire within 90 days. For reference, click D.C. Act 23-416 link below.*
+      </text>
   <heading>Tax on gross receipts for transient lodgings or accommodations; food or drink for immediate consumption; spirits sold for consumption on premises; rental vehicles.</heading>
   <text>A tax, separate from, and in addition to, the taxes imposed pursuant to <cite path="§47-2202">§ 47-2202</cite> is imposed on the use, storage, or consumption of certain tangible personal property and services sold or purchased at retail sale in the District. Vendors engaging in the business activities listed in paragraphs (1) and (2) of this section and purchasers of the vendors’ tangible personal property and services shall pay the tax at the following rate:</text>
   <para>
@@ -23,11 +26,15 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Spirituous or malt liquors, beers, and wine sold for consumption on the premises where sold; or</text>
+      <text>Spirituous or malt liquors, beers, and wine sold for consumption on the premises where sold;</text>
     </para>
     <para>
       <num>(C)</num>
-      <text>Rental or leasing of rental vehicles and utility trailers as defined in <cite path="§50-1505.01|(8)">§ 50-1505.01(8)</cite> and (9).</text>
+      <text>Rental or leasing of rental vehicles and utility trailers as defined in <cite path="§50-1505.01|(8)">§ 50-1505.01(8)</cite> and (9); or</text>
+    </para>
+    <para>
+      <num>(D)</num>
+      <text>Spirituous or malt liquors, beers, and wine sold by an alcoholic beverage licensee acting under authority of §§ <cite path="§25-112|(h)|(1)">25-112(h)(1)</cite>,<cite path="§25-113|(a)|(3)|(C)"> 25-113(a)(3)(C)</cite>, or <cite path="§25-113.01|(f)">25-113.01(f)</cite> or <cite path="§25-113.01|(g)">(g)</cite>.</text>
     </para>
   </para>
   <annotations>
@@ -58,5 +65,9 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§7062|(e)" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§7062|(e)">§ 7062(e) of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7062|(e)" type="History" display="false"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7062|(e)" type="History"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-416" eff="2020-10-14" path="§10" type="History" display="false"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-416" eff="2020-10-14" path="§5|(b)|(1)" type="History"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-416" eff="2020-10-14" path="§5|(b)|(2)" type="History"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-416" eff="2020-10-14" path="§5|(b)|(3)" type="History"/>
   </annotations>
 </section>

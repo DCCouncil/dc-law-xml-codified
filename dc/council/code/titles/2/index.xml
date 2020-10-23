@@ -170,8 +170,8 @@
         <xi:include href="./sections/2-218.13.xml"/>
         <xi:include href="./sections/2-218.14.xml"/>
         <xi:include href="./sections/2-218.15.xml"/>
-        <xi:include href="./sections/2-218.17.xml"/>
         <xi:include href="./sections/2-218.16.xml"/>
+        <xi:include href="./sections/2-218.17.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -263,6 +263,7 @@
         <num>D-i</num>
         <heading>Programs for equity impact enterprises.</heading>
         <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="II" type="History" display="false"/>
+        <xi:include href="./sections/2-218.77.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -271,7 +272,6 @@
         <xi:include href="./sections/2-218.81.xml"/>
         <xi:include href="./sections/2-218.82.xml"/>
       </container>
-      <xi:include href="./sections/2-218.77.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

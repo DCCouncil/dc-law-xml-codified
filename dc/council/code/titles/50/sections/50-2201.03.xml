@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>50-2201.03</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire within 90 days. For reference, click D.C. Act 23-416 link below.*
+      </text>
   <heading>Mayor to make rules; Department of Transportation; Director; Congressional and Council parking; title fees; common carriers; penalties; prosecutions; publication of regulations; excise tax; impoundment for outstanding violations.</heading>
   <para>
     <num>(a)</num>
@@ -177,7 +180,7 @@
       </para>
       <para>
         <num>(F)</num>
-        <text>Rental or leased motor vehicles or trailers; provided, that the rental or leasing of such vehicles is subject to the gross receipts tax described in <cite path="§47-2002|(3)|(C)" proof="true">§ 47-2002(3)(C)</cite>.</text>
+        <text>Rental or leased motor vehicles or trailers; provided, that the rental or leasing of such vehicles is subject to the gross receipts tax described in §§ <cite path="§47-2002|(a)|(4B)">47-2002(a)(4B)</cite> and <cite path="§47-2002.02|(2)|(C)">47-2002.02(2)(C)</cite>.</text>
       </para>
       <para>
         <num>(G)</num>
@@ -403,5 +406,7 @@
     <annotation app="2020-02-27" doc="D.C. Act 23-230" eff="2020-02-27" path="§3" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-94" path="§3" codified:display="Note" app="2020-05-06" eff="2020-05-06">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-94" path="§3">§ 3 of CleanEnergy DC Omnibus Temporary Amendment Act of 2020 (D.C. Law 23-94, May 6, 2020, 67 DCR 3527)</cite>.</annotation>
     <annotation app="2020-05-06" doc="D.C. Law 23-94" eff="2020-05-06" path="§3" type="History" display="false"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-416" eff="2020-10-14" path="§10" type="History" display="false"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-416" eff="2020-10-14" path="§6" type="History"/>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>39-205</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire within 90 days. For reference, click D.C. Act 23-417 link below.*
+      </text>
   <heading>Administration.</heading>
   <para>
     <num>(a)</num>
@@ -64,7 +67,15 @@
       <text>Not less than 77% of the annual budget shall be allocated for the following purposes:</text>
       <para>
         <num>(A)</num>
-        <text>17% for grants to fund capital projects in support of either the Arts and Humanities Cohort or the National Capital Arts Cohort;</text>
+        <text>17% for grants to fund capital projects in support of either the Arts and Humanities Cohort or the National Capital Arts Cohort; provided, that during Fiscal Year 2021 these grant funds may be used, if approved by the Commission, to pay:</text>
+        <para>
+          <num>(i)</num>
+          <text>Rent or mortgage expenses for the operation of a grant recipient's arts-or-humanities-related home-based office in the District; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Rent or mortgage expenses for the operation of a grant recipient's space in the District used to produce or publicly present arts-or-humanities-related work.</text>
+        </para>
       </para>
       <para>
         <num>(B)</num>
@@ -113,6 +124,8 @@
     <annotation app="2020-03-26" doc="D.C. Act 23-282" eff="2020-03-26" path="§3" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-105" path="§3" codified:display="Note" app="2020-06-17" eff="2020-06-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-105" path="§3">§ 3 of Substantive Technical Temporary Amendment Act of 2020 (D.C. Law 23-105, June 17, 2020, 67 DCR 3943)</cite>.</annotation>
     <annotation app="2020-06-17" doc="D.C. Law 23-105" eff="2020-06-17" path="§3" type="History" display="false"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-417" eff="2020-10-14" path="§4" type="History" display="false"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-417" eff="2020-10-14" path="§2" type="History"/>
   </annotations>
   <para>
     <num>(e)</num>
