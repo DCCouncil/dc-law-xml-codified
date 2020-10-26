@@ -645,6 +645,25 @@
     <xi:include href="./sections/31-2351.12.xml"/>
     <xi:include href="./sections/31-2351.13.xml"/>
   </container>
+  <subheading>Subtitle II-B. Appraisal Management Companies.<annotation app="2020-10-20" doc="D.C. Law 23-140" eff="2020-10-20" path="" type="History"/></subheading>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>23R</num>
+    <heading>Appraisal Management Company Regulations.</heading>
+    <annotation app="2020-10-20" doc="D.C. Law 23-140" eff="2020-10-20" path="" type="History" display="false"/>
+    <xi:include href="./sections/31-2361.01.xml"/>
+    <xi:include href="./sections/31-2361.02.xml"/>
+    <xi:include href="./sections/31-2361.03.xml"/>
+    <xi:include href="./sections/31-2361.04.xml"/>
+    <xi:include href="./sections/31-2361.05.xml"/>
+    <xi:include href="./sections/31-2361.06.xml"/>
+    <xi:include href="./sections/31-2361.07.xml"/>
+    <xi:include href="./sections/31-2361.08.xml"/>
+    <xi:include href="./sections/31-2361.09.xml"/>
+    <xi:include href="./sections/31-2361.10.xml"/>
+    <xi:include href="./sections/31-2361.11.xml"/>
+    <xi:include href="./sections/31-2361.12.xml"/>
+  </container>
   <subheading>Subtitle III. Fire, Casualty, Marine, Motor Vehicle and Related Insurance.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -1268,9 +1287,18 @@
   <container>
     <prefix>Chapter</prefix>
     <num>38C</num>
+    <heading>Health Insurer Requirement to Provide a Special Enrollment Period for a Pregnant Individual.</heading>
+    <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
+    <xi:include href="./sections/31-3841.01.xml"/>
+    <xi:include href="./sections/31-3841.02.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>38D</num>
     <heading>Telehealth Reimbursement.</heading>
     <xi:include href="./sections/31-3861.xml"/>
     <xi:include href="./sections/31-3862.xml"/>
+    <xi:include href="./sections/31-3862.01.xml"/>
     <xi:include href="./sections/31-3863.xml"/>
   </container>
   <subheading>Subtitle V. Liability and Related Insurance.</subheading>
@@ -1977,4 +2005,5 @@
     <xi:include href="./sections/31-6208.xml"/>
     <xi:include href="./sections/31-6209.xml"/>
   </container>
+  <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
 </container>

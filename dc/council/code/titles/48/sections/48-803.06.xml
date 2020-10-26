@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>48-803.06</num>
+  <heading>Pharmacist notification to prescriber of substitution of interchangeable biological product.</heading>
+  <para>
+    <num>(a)</num>
+    <text>Within 5 business days after dispensing a biological product to a patient, the dispensing pharmacist or the pharmacist's designee shall communicate to the prescriber the specific biological product dispensed, including the name and manufacturer of the biological product; except, that this communication shall not be required if the FDA has not approved an interchangeable biological product for the biological product prescribed to the patient or a refill prescription is not changed from the biological product dispensed on the most recent filling of the prescription.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <para>
+      <num>(1)</num>
+      <text>Except as provided under subsection (c) of this section, the communication required under subsection (a) of this section shall be provided by making an entry that is electronically accessible to the health care provider through:</text>
+      <para>
+        <num>(A)</num>
+        <text>An interoperable electronic medical records system;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>An electronic prescribing technology; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>A pharmacy benefits management system.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Making an entry through a mechanism listed in paragraph (1) of this subsection shall be presumed to provide the communication to the prescriber required under subsection (a) of this section.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>If the mechanisms listed in subsection (b)(1) of this section are unavailable, the communication required under subsection (a) of this section may be provided by facsimile, telephone, electronic transmission, or other means.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The requirements under subsections (a) through (c) of this section shall not apply to dispensing pharmacists or their designees at a health maintenance organization that operates as a group model for services furnished through internal pharmacy operations for members and patients of the health maintenance organization.</text>
+  </para>
+  <annotations>
+    <annotation doc="D.C. Law 1-81" type="History" path="§101">Sept. 10, 1976, D.C. Law 1-81, title III, § 306</annotation>
+    <annotation app="2020-10-20" doc="D.C. Law 23-133" eff="2020-10-20" path="§2|(h)" prefix="as added" type="History"/>
+  </annotations>
+</section>
