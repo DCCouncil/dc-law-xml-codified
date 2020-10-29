@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>2-1217.40n</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on June 2, 2021. For reference, click link to D.C. Law 23-146 below.*
+      </text>
+  <heading>Expiration of issuance authority.</heading>
+  <para>
+    <num>(a)</num>
+    <text>The authority to issue the Class A Bonds shall expire on September 30, 2025, if no Bonds have been issued; provided, however, that the expiration of the authority shall have no effect on any Bonds issued prior to the expiration date or on the District's ability to issue Refunding Bonds on a future date.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The authority to issue the Class B Bonds shall expire on September 30, 2030; provided, however, that the expiration of the authority shall have no effect on any Class B Bonds issued prior to the expiration date.</text>
+  </para>
+  <codify:temporary doc="D.C. Code" path="§2-1217.40n" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-1217.40n" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§2-1217.40n" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1217.40n">
+    <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on June 2, 2021. For reference, click link to D.C. Law 23-146 below.*
+      </text>
+  </codify:insert>
+  <annotations>
+    <annotation app="2020-10-20" doc="D.C. Law 23-146" eff="2020-10-20" path="§2" type="History" display="false"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-146" eff="2020-10-20" path="§15" type="History" display="false"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-146" eff="2020-10-20" path="§15" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-146" path="§15" codified:display="Note" app="2020-10-20" eff="2020-10-20">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-146" path="§15">§ 15 of Reunion Square Tax Increment Financing Temporary Amendment Act of 2020 (D.C. Law 23-146, Oct. 20, 2020, 67 DCR 9941)</cite>.</annotation>
+  </annotations>
+</section>
