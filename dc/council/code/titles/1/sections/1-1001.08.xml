@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-1001.08</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation (emphasized text) that will expire on January 24, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§1-1001.08_Perm">Permanent Version</cite>.*
-      </text>
   <heading>Qualifications of candidates and electors; nomination and election of Delegate, Chairman of the Council, members of Council, Mayor, Attorney General, and members of State Board of Education; petition requirements; arrangement of ballot.</heading>
   <para>
     <num>(a)</num>
@@ -111,14 +108,13 @@
   </para>
   <para>
     <num>(f)</num>
-    <text>A political party which does not qualify under subsection (d) of this section may have the names of its candidates for President and Vice President of the United States printed on the general election ballot provided a petition nominating the appropriate number of candidates for presidential electors signed by at least 1 per centum of registered qualified electors of the District of Columbia, as shown by the records of the Board as of the 144th day before the date of the presidential election, is presented to the Board on or before the 90th day before the date of the presidential election.</text>
+    <para>
+      <num>(1)</num>
+      <text>Except as provided in paragraph (2) of this subsection, a political party which does not qualify under subsection (d) of this section may have the names of its candidates for President and Vice President of the United States printed on the general election ballot provided a petition nominating the appropriate number of candidates for presidential electors signed by at least 1 per centum of registered qualified electors of the District of Columbia, as shown by the records of the Board as of the 144th day before the date of the presidential election, is presented to the Board on or before the 90th day before the date of the presidential election.</text>
+    </para>
     <para>
       <num>(2)</num>
-      <text>
-        <em>
-          <u>For the November 3, 2020, General Election, a political party which does not qualify under subsection (d) of this section may have the names of its candidates for President and Vice President of the United States printed on the general election ballot provided a petition nominating the appropriate number of candidates for presidential electors signed by at least 250 registered qualified electors of the District of Columbia, as shown by the records of the Board as of the 144th day before the date of the presidential election, is presented to the Board on or before the 90th day before the date of the presidential election.</u>
-        </em>
-      </text>
+      <text>For the November 3, 2020, General Election, a political party that does not qualify under subsection (d) of this section may have the names of its candidates for President and Vice President of the United States printed on the general election ballot provided that a petition nominating the appropriate number of candidates for presidential electors signed by at least 250 registered qualified electors of the District of Columbia, as shown by the records of the Board as of the 144th day before the date of the presidential election, is presented to the Board on or before the 90th day before the date of the presidential election.</text>
     </para>
   </para>
   <para>
@@ -495,8 +491,9 @@
     <annotation doc="D.C. Law 21-160" path="§7018" type="Editor's Notes" history="false" app="2016-10-08" eff="2016-10-08"><cite doc="D.C. Law 21-160" path="§7018">Section 7018 of D.C. Law 21-160</cite> repealed <cite doc="D.C. Law 20-273" path="§5">§ 5 of D.C. Law 20-273</cite>. Therefore the changes made to this section by D.C. Law 20-273 have been given effect.
         </annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§7018" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-382" path="§2|(d)" codified:display="Note" app="2020-08-13" eff="2020-08-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-382" path="§2|(d)">§ 2(d) of General Election Preparations Emergency Amendment Act of 2020 (D.C. Act 23-382, Aug. 13, 2020, 0 DCR 0)</cite>.</annotation>
-    <annotation app="2020-08-13" doc="D.C. Act 23-382" eff="2020-08-13" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2020-08-13" doc="D.C. Act 23-382" eff="2020-08-13" path="§2|(d)|(2)" type="History"/>
+    <annotation app="2020-08-13" doc="D.C. Act 23-382" eff="2020-08-13" path="§2|(d)|(1)" type="History"/>
+    <annotation app="2020-08-13" doc="D.C. Act 23-382" eff="2020-08-13" path="§2|(d)|(3)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§804|(d)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§804|(d)">§ 804(d) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 [Effective August 19, 2020 through October 8, 2020] (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§804|(d)" type="History" display="false"/>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(d)|(1)" type="History"/>
@@ -505,7 +502,5 @@
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(d)|(3)|(B)" type="History"/>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(d)|(3)|(A)" type="History"/>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(d)|(3)|(C)" type="History"/>
-    <annotation app="2020-10-26" doc="D.C. Act 23-422" eff="2020-10-26" path="§4" type="History" display="false"/>
-    <annotation app="2020-10-26" doc="D.C. Act 23-422" eff="2020-10-26" path="§2|(c)|(3)" type="History"/>
   </annotations>
 </section>
