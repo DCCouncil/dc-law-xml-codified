@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>31-2321</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on June 2, 2021. For reference, click link to D.C. Law 23-143 below.*
+      *NOTE: This section was created by temporary legislation that will expire on June 2, 2021.*
       </text>
   <heading>Tolling of deadlines under commercial insurance policies.</heading>
   <para>
@@ -16,17 +16,18 @@
   <codify:temporary doc="D.C. Code" path="§31-2321" action="creation of this section" codified:doc="D.C. Code" codified:path="§31-2321" codified:display="Note"/>
   <codify:insert doc="D.C. Code" path="§31-2321" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§31-2321">
     <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on June 2, 2021. For reference, click link to D.C. Law 23-143 below.*
+      *NOTE: This section was created by temporary legislation that will expire on June 2, 2021.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation app="2020-07-27" doc="D.C. Act 23-343" eff="2020-07-27" path="" type="History" display="false"/>
-    <annotation app="2020-07-27" doc="D.C. Act 23-343" eff="2020-07-27" path="§2" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-343" path="§2" codified:display="Note" app="2020-07-27" eff="2020-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-343" path="§2">§ 2 of Commercial Insurance Claim Tolling Emergency Act of 2020 (D.C. Act 23-343, July 27, 2020, 67 DCR 9379)</cite>.</annotation>
-    <annotation app="2020-07-27" doc="D.C. Act 23-343" eff="2020-07-27" path="§2" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-343" path="§2" codified:display="Note" app="2020-10-21" eff="2020-07-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-343" path="§2">§ 2 of Commercial Insurance Claim Tolling Emergency Act of 2020 (D.C. Act 23-343, July 27, 2020, 67 DCR 9379)</cite>.</annotation>
+    <annotation app="2020-10-21" doc="D.C. Act 23-343" eff="2020-07-27" path="§2" type="History" display="false"/>
     <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-143" eff="2020-10-20" path="" type="History" display="false"/>
     <annotation app="2020-10-20" doc="D.C. Law 23-143" eff="2020-10-20" path="§2" type="History" display="false"/>
     <annotation app="2020-10-20" doc="D.C. Law 23-143" eff="2020-10-20" path="§2" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-143" path="§2" codified:display="Note" app="2020-10-20" eff="2020-10-20">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-143" path="§2">§ 2 of Commercial Insurance Claim Tolling Temporary Act of 2020 [Effective from October 20, 2020] (D.C. Law 23-143, Oct. 20, 2020, 67 DCR 9912)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-427" path="§2" codified:display="Note" app="2020-10-21" eff="2020-10-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-427" path="§2">§ 2 of Commercial Insurance Claim Tolling Congressional Review Emergency Act of 2020 (D.C. Act 23-427, Oct. 24, 2020, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2020-10-21" doc="D.C. Act 23-427" eff="2020-10-24" path="§2" type="History" display="false"/>
   </annotations>
 </section>
