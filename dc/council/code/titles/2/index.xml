@@ -49,7 +49,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>2</num>
-    <heading>Government Contracts and Business Development.<annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="II|Q" type="History" display="false"/></heading>
+    <heading>Government Contracts and Business Development.<annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9001" type="History" display="false"/><annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="II|Q" type="History" display="false"/></heading>
     <container>
       <prefix>Subchapter</prefix>
       <num>I</num>
@@ -262,7 +262,8 @@
         <prefix>Part</prefix>
         <num>D-i</num>
         <heading>Programs for equity impact enterprises.</heading>
-        <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="II" type="History" display="false"/>
+        <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9001" type="History" display="false"/>
+        <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="II" type="History" display="false"/>
         <xi:include href="./sections/2-218.77.xml"/>
       </container>
       <container>
@@ -445,7 +446,8 @@
     <prefix>Chapter</prefix>
     <num>2B</num>
     <heading>Equitable Impact Assistance for Local Businesses.</heading>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="II" type="History" display="false"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9001" type="History" display="false"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="II" type="History" display="false"/>
     <xi:include href="./sections/2-281.01.xml"/>
     <xi:include href="./sections/2-281.02.xml"/>
     <xi:include href="./sections/2-281.03.xml"/>
@@ -899,7 +901,8 @@
     <prefix>Chapter</prefix>
     <num>3D</num>
     <heading>Business Recovery Task Force.</heading>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="" type="History" display="false"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9001" type="History" display="false"/>
+    <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="" type="History" display="false"/>
     <xi:include href="./sections/2-393.01.xml"/>
     <xi:include href="./sections/2-393.02.xml"/>
     <xi:include href="./sections/2-393.03.xml"/>
@@ -1642,11 +1645,12 @@
         <container>
           <prefix>Subpart</prefix>
           <num>8</num>
-          <heading>High unemployment areas. [Repealed]<annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7104" type="History"/></heading>
+          <heading>High unemployment areas. [Repealed]<annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9001" type="History" display="false"/><annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§7104" type="History"/></heading>
           <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="§301|(a)" type="History" display="false"/>
           <annotation app="notfunded" doc="D.C. Law 22-85" eff="2018-04-25" path="" type="History" display="false"/>
           <xi:include href="./sections/2-1217.38.xml"/>
-          <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§7104" type="History"/>
+          <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9001" type="History" display="false"/>
+          <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§7104" type="History"/>
         </container>
         <container>
           <prefix>Subpart</prefix>
