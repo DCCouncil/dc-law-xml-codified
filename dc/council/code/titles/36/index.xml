@@ -233,5 +233,33 @@
       <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7177">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-112" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
       <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(e)" type="History"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>Game of Skills Machines.</heading>
+      <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§6022|(e)" type="History" display="false"/>
+      <xi:include href="./sections/36-641.01.xml"/>
+      <xi:include href="./sections/36-641.02.xml"/>
+      <xi:include href="./sections/36-641.03.xml"/>
+      <xi:include href="./sections/36-641.04.xml"/>
+      <xi:include href="./sections/36-641.05.xml"/>
+      <xi:include href="./sections/36-641.06.xml"/>
+      <xi:include href="./sections/36-641.07.xml"/>
+      <xi:include href="./sections/36-641.08.xml"/>
+      <xi:include href="./sections/36-641.09.xml"/>
+      <xi:include href="./sections/36-641.10.xml"/>
+      <xi:include href="./sections/36-641.11.xml"/>
+      <xi:include href="./sections/36-641.12.xml"/>
+      <xi:include href="./sections/36-641.13.xml"/>
+      <xi:include href="./sections/36-641.14.xml"/>
+      <xi:include href="./sections/36-641.15.xml"/>
+      <xi:include href="./sections/36-641.16.xml"/>
+      <xi:include href="./sections/36-641.17.xml"/>
+      <xi:include href="./sections/36-641.18.xml"/>
+      <xi:include href="./sections/36-641.19.xml"/>
+      <xi:include href="./sections/36-641.20.xml"/>
+      <xi:include href="./sections/36-641.21.xml"/>
+      <xi:include href="./sections/36-641.22.xml"/>
+    </container>
   </container>
 </container>

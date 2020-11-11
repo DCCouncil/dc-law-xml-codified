@@ -335,7 +335,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "consumption permit or a" and insert the phrase "consumption permit or a retailer's" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§[25-113.01]|(b)|(1)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-113.01|(b)|(1)">
               <find>consumption permit or a</find>
               <replace>consumption permit or a retailer's</replace>
             </codify:find-replace>
@@ -343,7 +343,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the phrase "C/T, and D/T" and insert the phrase "C/T, D/T, C/B, and D/B" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§[25-113.01]|(b)|(1)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-113.01|(b)|(1)">
               <find>C/T, and D/T</find>
               <replace>C/T, D/T, C/B, and D/B</replace>
             </codify:find-replace>
@@ -352,7 +352,7 @@
         <para codify:path="(c)">
           <num>(B)</num>
           <text>Subsection (c) is amended by striking the phrase "C/X, and D/X" and inserting the phrase "C/X, D/X, C/B, and D/B" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§[25-113.01]|(c)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§25-113.01|(c)">
             <find>C/X, and D/X</find>
             <replace>C/X, D/X, C/B, and D/B</replace>
           </codify:find-replace>
