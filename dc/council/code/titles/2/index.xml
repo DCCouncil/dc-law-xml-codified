@@ -192,7 +192,6 @@
           <num>1</num>
           <heading>Certified business enterprises.</heading>
           <xi:include href="./sections/2-218.31.xml"/>
-          <xi:include href="./sections/2-218.31a.xml"/>
           <xi:include href="./sections/2-218.32.xml"/>
           <xi:include href="./sections/2-218.33.xml"/>
           <xi:include href="./sections/2-218.34.xml"/>
@@ -1500,13 +1499,6 @@
         <num>C</num>
         <heading>Application of Law.</heading>
         <xi:include href="./sections/2-1215.71.xml"/>
-      </container>
-      <container>
-        <prefix>Part</prefix>
-        <num>D</num>
-        <heading>BID Public Space Maintenance Agreements During a Public Health Emergency.</heading>
-        <annotation app="2020-11-02" doc="D.C. Act 23-475" eff="2020-11-02" path="" type="History" display="false"/>
-        <xi:include href="./sections/2-1215.81.xml"/>
       </container>
     </container>
     <container>

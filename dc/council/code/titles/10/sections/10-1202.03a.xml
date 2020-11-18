@@ -2,15 +2,12 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1202.03a</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on January 18, 2021.*
-      </text>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on January 31, 2021.*
+      *NOTE: This section includes amendments by emergency legislation that will expire within 90 days. For reference, click on D.C. Act 23-416 link below.*
       </text>
   <heading>Assistance for excluded workers.</heading>
   <para>
     <num>(a)</num>
-    <text>During the public health emergency declared in the Mayor's order dated March 11, 2020 and any extensions thereof, the Washington Convention and Sports Authority ("Events DC") shall issue, subject to the availability of funds, grants or contracts to nonprofit entities to use to provide cash assistance to District residents who are otherwise excluded from District and federal aid related to COVID-19. To qualify for cash assistance from grants or contracts awarded pursuant to this section, a District resident shall, at the time of application for assistance under this section:</text>
+    <text>During the public health emergency declared in the Mayor's order dated March 11, 2020 and any extensions thereof, the Washington Convention and Sports Authority ("Events DC") shall issue, subject to the availability of funds, grants or contracts to nonprofit entities to use to provide cash assistance to District residents who are otherwise excluded from District and federal aid related to COVID-19. To qualify for cash assistance from grants or contracts awarded pursuant to this section, a District resident shall, at the time of application for assistance under this section, at the time of application for assistance under this section:</text>
     <para>
       <num>(1)</num>
       <text>Demonstrate loss of income due to the public health emergency;</text>
@@ -65,21 +62,19 @@
     <para>
       <num>(2)</num>
       <text>) COVID-19 relief” means federal monetary unemployment assistance provided under the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 281; 15 U.S.C. § 9001 <em>et seq</em>.), which shall include tax credits but shall not include federal Economic Impact Payments or other stimulus relief for which eligibility is not contingent on the recipient’s employment status.</text>
-      <para placeholder="Not Applicable">
+      <para>
         <num>(2)</num>
-        <text>Applicable as of Dec. 8, 2020.</text>
+        <text>COVID-19 relief" means federal monetary unemployment assistance provided under the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 281; 15 U.S.C. § 9001 <em>et seq.</em>), which shall include tax credits but shall not include federal Economic Impact Payments or other stimulus relief for which eligibility is not contingent on the recipient's employment status.</text>
       </para>
     </para>
   </para>
   <annotations>
-    <annotation app="2020-12-08" doc="D.C. Act 23-416" eff="2020-10-14" path="§4" type="History" display="false"/>
-    <annotation app="2020-12-08" doc="D.C. Act 23-416" eff="2020-10-14" path="§4|(a)|(1)|(B)" type="History"/>
-    <annotation app="2020-12-08" doc="D.C. Act 23-416" eff="2020-10-14" path="§4|(a)|(2)" type="History"/>
-    <annotation app="2020-12-08" doc="D.C. Act 23-416" eff="2020-10-14" path="§4|(a)|(3)" type="History"/>
-    <annotation app="2020-12-08" doc="D.C. Act 23-416" eff="2020-10-14" path="§4|(b)" type="History"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-416" eff="2020-10-14" path="§10" type="History" display="false"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-416" eff="2020-10-14" path="§4|(a)|(1)|(B)" type="History"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-416" eff="2020-10-14" path="§4|(a)|(2)" type="History"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-416" eff="2020-10-14" path="§4|(a)|(3)" type="History"/>
+    <annotation app="2020-10-14" doc="D.C. Act 23-416" eff="2020-10-14" path="§4|(b)" type="History"/>
     <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9001" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9003" type="History" display="false"/>
     <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§7212" type="History"/>
-    <annotation app="2020-11-04" doc="D.C. Act 23-454" eff="2020-11-04" path="§4" type="History" display="false"/>
   </annotations>
 </section>
