@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1671.06</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 1, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§7-1671.06(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 18, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§7-1671.06(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Dispensaries and cultivation centers.</heading>
   <para>
     <num>(a)</num>
@@ -139,9 +145,9 @@
       <num>(1)</num>
       <text>A dispensary may not dispense more than 2 ounces of medical marijuana in a 30-day period to a qualifying patient, either directly or through the qualifying patient’s caregiver; provided, that the Mayor, through rulemaking, may increase the quantity of medical marijuana that may be dispensed to up to 4 ounces.</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(2)</num>
-      <text>A cultivation center shall not possess more than 1,000 living marijuana plants at any time.</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -296,5 +302,7 @@
     <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§5012|(e)|(3)" type="History"/>
     <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§5012|(e)|(4)" type="History"/>
     <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§5012|(e)|(5)" type="History"/>
+    <annotation app="2020-11-02" doc="D.C. Act 23-477" eff="2020-11-02" path="§5" type="History" display="false"/>
+    <annotation app="2020-11-02" doc="D.C. Act 23-477" eff="2020-11-02" path="§2" type="History"/>
   </annotations>
 </section>

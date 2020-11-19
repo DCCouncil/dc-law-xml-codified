@@ -1,38 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>36-641.16</num>
-  <heading>Penalties.</heading>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on December 30, 2020.*
+      </text>
+  <heading>Authority of the Office.</heading>
   <para>
     <num>(a)</num>
-    <text>In the event of a violation of this title or a rule issued pursuant to this title, the Office may:</text>
-    <para>
-      <num>(1)</num>
-      <text>Impose a fine of not more than $50,000;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Revoke a licensee's license; or</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Suspend the licensee's license for up to one year.</text>
-    </para>
+    <text>The Office may enforce the provisions of <cite path="36|6|III">this subchapter</cite> with respect to licensees and with respect to any individual or entity not holding a license and offering a game of skill machine in violation of the provisions of <cite path="36|6|III">this subchapter</cite> or rules issued pursuant to <cite path="36|6|III">this subchapter</cite>.</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>A person that has been fined or whose application has been denied, revoked, or suspended pursuant to this section shall have a right to a hearing before the Office and, in the event of the Office's affirmation of the fine, denial, revocation, or suspension, the right to appeal the decision of the Office to the Superior Court of the District of Columbia.</text>
+    <text>Subject to subsection (c) of this section, the Office and the Metropolitan Police Department may issue citations for civil violations of <cite path="36|6|III">this subchapter</cite> as set forth in rules issued pursuant to <cite path="36|6|III">this subchapter</cite>.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>The Office shall notify ABRA within 48 hours after the Office suspends or revokes a retailer's license.</text>
+    <text>A citation for a violation for which the penalty includes the suspension or revocation of a license shall be issued by the Office as a result of an investigation carried out by the Office.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The Office, ABRA, or Metropolitan Police Department may request and check the identification of a person who has played, is playing, or is attempting to play a game of skill machine. The Office or Metropolitan Police Department may seize evidence that substantiates a violation under <cite path="36|6|III">this subchapter</cite>, which may include seizing the tickets, vouchers, or cash awards issued to a person under the age of 18 and fake identification documents used by a person under the age of 18.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The Office may seize a game of skill machine license from an establishment if:</text>
+    <para>
+      <num>(1)</num>
+      <text>The game of skill machine license has been suspended, revoked, or cancelled by the Office;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The business is no longer in existence; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The business has been closed by another District government agency.</text>
+    </para>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 3-172" type="History" path="§416">Mar. 10, 1981, D.C. Law 3-172, § 416</annotation>
     <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-91" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
     <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7177" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-112" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7177" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§6022|(e)" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§6022|(e)" type="History"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§2|(a)|(3)" type="History" display="false"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§8" type="History" display="false"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§2|(b)" prefix="as added" type="History"/>
   </annotations>
 </section>

@@ -1,30 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>36-641.18</num>
-  <heading>Investigations and inspections.</heading>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on December 30, 2020.*
+      </text>
+  <heading>Unlawful acts; action by the Attorney General.</heading>
   <para>
     <num>(a)</num>
-    <text>The Office may conduct investigations, searches, seizures, and perform other duties authorized by this title and rules issued pursuant to this title.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>An applicant for a license and each licensee shall allow an authorized member of the Office, an ABRA investigator, or any member of the Metropolitan Police Department full opportunity to examine at any time during business hours:</text>
     <para>
       <num>(1)</num>
-      <text>The location on the premises where game of skill machines are available to play; and</text>
+      <text>No manufacturer, distributor, licensed establishment, or employee or agent of a manufacturer, distributor, or licensed establishment shall intentionally make a false or misleading representation concerning an individual's chances, likelihood, or probability of winning at playing a game of skill machine.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>The books and records of the licensee or applicant.</text>
+      <text>An individual or entity claiming to be aggrieved by a fraudulent act or a false or misleading statement by a licensee shall have a cause of action in a court of competent jurisdiction for damages and any legal or equitable relief as may be appropriate.</text>
     </para>
   </para>
+  <para>
+    <num>(b)</num>
+    <text>The Attorney General for the District of Columbia, in the name of the District of Columbia, may bring an action in the Superior Court of the District of Columbia to enjoin an individual or entity or to seek a civil penalty of up to $50,000 for a violation of <cite path="36|6|III">this subchapter</cite> or rule issued pursuant to <cite path="36|6|III">this subchapter</cite>.</text>
+  </para>
   <annotations>
+    <annotation doc="D.C. Law 3-172" type="History" path="§418">Mar. 10, 1981, D.C. Law 3-172, § 418</annotation>
     <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-91" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
     <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7177" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-112" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7177" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§6022|(e)" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§6022|(e)" type="History"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§2|(a)|(3)" type="History" display="false"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§8" type="History" display="false"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§2|(b)" prefix="as added" type="History"/>
   </annotations>
 </section>

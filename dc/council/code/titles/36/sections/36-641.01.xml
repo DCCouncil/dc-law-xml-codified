@@ -1,17 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>36-641.01</num>
-  <heading>Definitions</heading>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on December 30, 2020.*
+      </text>
+  <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
-    <text>For purposes of this title, the term:</text>
+    <text>For purposes of <cite path="36|6|III">this subchapter</cite>, the term:</text>
     <para>
       <num>(1)</num>
-      <text>"ABC Board" means the Alcoholic Beverage Control Board.</text>
+      <text>"ABC Board" means the Alcoholic Beverage Control Board, established by <cite path="§25-201">§ 25-201</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>"ABRA" means the Alcoholic Beverage Regulation Administration.</text>
+      <text>"ABRA" means the Alcoholic Beverage Regulation Administration, established by <cite path="§25-202">§ 25-202</cite>.</text>
     </para>
     <para>
       <num>(3)</num>
@@ -19,15 +22,23 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>"Centralized accounting system" and "CAS" mean the accounting system linked by a communications network as described in sections 410 and 414.</text>
+      <text>"Centralized accounting system" means the accounting system linked by a communications network as described in §§ <cite path="§36-641.09">36-641.09</cite> through <cite path="§36-641.13">36-641.13</cite>.</text>
     </para>
     <para>
       <num>(5)</num>
-      <text>"Distributor" means a person licensed under this title to buy, sell, lease, maintain, or service game of skill machines, or any major components or parts of a game of skill machine, for distribution to retailers.</text>
+      <text>"Distributor" means a person licensed under <cite path="36|6|III">this subchapter</cite> to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Buy or lease game of skill machines, or any major components or parts of a game of skill machine, from manufacturers for sale or lease and distribution to retailers; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>To maintain or service a retailer's game of skill machine, or any major component or part of a game of skill machine.</text>
+      </para>
     </para>
     <para>
       <num>(6)</num>
-      <text>"Game of skill machine" means a mechanical or electronic gaming device that rewards the winning player or players with cash, a gift card, or a voucher that can be redeemed for cash. The term "game of skill machine" does not include a mechanical or electronic gaming device if:</text>
+      <text>"Game of skill machine" means a mechanical or electronic gaming device that rewards the winning player or players with cash, a gift card, or a voucher that can be redeemed for cash. A mechanical or electronic gaming device shall not be considered a game of skill machine if:</text>
       <para>
         <num>(A)</num>
         <text>The ability of a player to succeed at the game is impacted by the number or ratio of prior wins to prior losses of players playing the game;</text>
@@ -51,7 +62,7 @@
     </para>
     <para>
       <num>(7)</num>
-      <text>"Gross game of skill machine revenue" means the total of cash or cash equivalents received from a game of skill machine minus the total of:</text>
+      <text>"Game of skill machine gross revenue" means the total of cash or cash equivalents received from a game of skill machine minus the total of:</text>
       <para>
         <num>(A)</num>
         <text>Cash or cash equivalents paid to players as a result of a game of skill machine;</text>
@@ -75,11 +86,11 @@
     </para>
     <para>
       <num>(10)</num>
-      <text>"Licensee" means a person who possesses a game of skill manufacturer, distributor, supplier, or retailer license issued by the Office.</text>
+      <text>"Licensee" means a person who possesses a game of skill manufacturer, distributor, or retailer license issued by the Office.</text>
     </para>
     <para>
       <num>(11)</num>
-      <text>"Manufacturer" means a person that is licensed under this title and that manufactures or assembles game of skill machines for sale or lease to distributors.</text>
+      <text>"Manufacturer" means a person that is licensed under <cite path="36|6|III">this subchapter</cite> that manufactures or assembles game of skill machines for sale or lease to distributors or provides to distributors major components or parts of game of skill machines for the repair or maintenance of game of skill machines.</text>
     </para>
     <para>
       <num>(12)</num>
@@ -87,20 +98,18 @@
     </para>
     <para>
       <num>(13)</num>
-      <text>"Retailer" means a person that is licensed under this title to offer game of skill machines on its licensed premises.</text>
-    </para>
-    <para>
-      <num>(14)</num>
-      <text>"Supplier" means a person that is licensed under this title to supply major components or parts of game of skill machines to licensed manufacturers or distributors.</text>
+      <text>"Retailer" means a person that is licensed under <cite path="36|6|III">this subchapter</cite> to offer game of skill machines on its licensed premises.</text>
     </para>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 3-172" type="History" path="§401">Mar. 10, 1981, D.C. Law 3-172, § 401</annotation>
     <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-91" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
     <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7177" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-112" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7177" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§6022|(e)" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§6022|(e)" type="History"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§2|(a)|(3)" type="History" display="false"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§8" type="History" display="false"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§2|(b)" prefix="as added" type="History"/>
   </annotations>
 </section>

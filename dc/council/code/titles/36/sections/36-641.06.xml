@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>36-641.06</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on December 30, 2020.*
+      </text>
   <heading>Manufacturer licensure.</heading>
   <para>
     <num>(a)</num>
-    <text>A person may not manufacture a game of skill machine in the District unless the person has a valid manufacturer's license issued under this title. A manufacturer may only sell game of skill machines for use in the District to persons having a valid distributor's license.</text>
+    <para>
+      <num>(1)</num>
+      <text>A person may not, after March 31, 2021, manufacture a game of skill machine in the District or manufacture and cause to be delivered into the District a game of skill machine, unless the person has a valid manufacturer's license issued under <cite path="36|6|III">this subchapter</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A manufacturer may, after March 31, 2021, only sell or lease game of skill machines for use in the District to persons having a valid distributor's license.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -23,12 +33,12 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>Any other information the Office considers necessary.</text>
+      <text>Such other information as the Office may require by rule.</text>
     </para>
   </para>
   <para>
     <num>(c)</num>
-    <text>In considering whether to approve an application for a distributor's license, the Office may consider evidence the distributor submitted to the Office of an existing license as a distributor from another jurisdiction that the Office has determined has licensing requirements similar to those required by the District.</text>
+    <text>In considering whether to approve an application for a manufacturer's license, the Office may consider, among such other evidence as may come before the Office, evidence of the applicant's licensure, conduct, and activities in another jurisdiction.</text>
   </para>
   <para>
     <num>(d)</num>
@@ -39,12 +49,14 @@
     <text>A manufacturer's license shall be renewed annually; provided, that the licensee has continued to comply with all statutory and regulatory requirements and pays upon submission of its renewal application a $5,000 renewal fee.</text>
   </para>
   <annotations>
+    <annotation doc="D.C. Law 3-172" type="History" path="§406">Mar. 10, 1981, D.C. Law 3-172, § 406</annotation>
     <annotation app="2019-05-03" doc="D.C. Law 22-312" eff="2019-05-03" path="§2|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" codified:display="Note" app="2019-07-22" eff="2019-07-22" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-91" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
     <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7177" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7177" display="false">For temporary (90 days) amendment of applicability provision of D.C. Law 22-312, see <cite doc="D.C. Act 23-112" path="§7177">§ 7177 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7177" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§6022|(e)" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-404" eff="2020-08-19" path="§6022|(e)" type="History"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§2|(a)|(3)" type="History" display="false"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§8" type="History" display="false"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§2|(b)" prefix="as added" type="History"/>
   </annotations>
 </section>

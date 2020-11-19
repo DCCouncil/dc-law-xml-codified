@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3502.21a</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on January 31, 2021.*
+      </text>
   <heading>Certificate of assurance moratorium.</heading>
   <text>Notwithstanding the requirements of <cite path="§42-3502.21">§ 42-3502.21</cite>, no owner of a housing accommodation shall request a certificate of assurance for one year beginning on November 4, 2020, and the Mayor shall not issue a certificate of assurance for any request received for one year beginning on November 4, 2020.</text>
   <annotations>
-    <annotation app="2020-11-04" doc="D.C. Act 23-454" eff="2020-11-04" path="§2" type="History"/>
+    <annotation doc="D.C. Law 6-10" type="History" path="§221a">July 17, 1985, D.C. Law 6-10, § 221a</annotation>
+    <annotation app="2020-11-04" doc="D.C. Act 23-454" eff="2020-11-04" path="§4" type="History" display="false"/>
+    <annotation app="2020-11-04" doc="D.C. Act 23-454" eff="2020-11-04" path="§2" prefix="as added" type="History"/>
   </annotations>
 </section>
