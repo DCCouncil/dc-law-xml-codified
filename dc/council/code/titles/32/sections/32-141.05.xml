@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-141.05</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on February 8, 2021.*
+      </text>
   <heading>Authority of Chief Procurement Officer.</heading>
   <para>
     <num>(a)</num>
@@ -27,10 +30,11 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>The CPO, or the CPOs designee, shall monitor and review, and may establish standards, procedures, or rules for, IDIQ contracts entered into pursuant to subsection (a) of this section.</text>
+    <text>The CPO, or the CPO's designee, shall monitor and review, and may establish standards, procedures, or rules for IDIQ contracts entered into pursuant to subsection (a) of this section.</text>
   </para>
   <annotations>
-    <annotation app="2020-08-13" doc="D.C. Act 23-384" eff="2020-08-13" path="" type="History" display="false"/>
-    <annotation app="2020-08-13" doc="D.C. Act 23-384" eff="2020-08-13" path="§105" type="History"/>
+    <annotation app="2020-11-16" doc="D.C. Act 23-483" eff="2020-11-16" path="" type="History" display="false"/>
+    <annotation app="2020-11-16" doc="D.C. Act 23-483" eff="2020-11-16" path="§403" type="History" display="false"/>
+    <annotation app="2020-11-16" doc="D.C. Act 23-483" eff="2020-11-16" path="§105" type="History"/>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-141.04</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on February 8, 2021.*
+      </text>
   <heading>Enforcement.</heading>
   <para>
     <num>(a)</num>
@@ -13,7 +16,7 @@
       <text>The Mayor may assess administrative penalties in the following amounts:</text>
       <para>
         <num>(A)</num>
-        <text>For violations of <cite path="§32-141.02">§ 32-141.02</cite>, up to $50 per violation per employee per day for a repeated or willful violation.</text>
+        <text>For violations of <cite path="§32-141.02">§ 32-141.02</cite> up to $50 per violation per employee per day for a repeated or willful violation.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -40,7 +43,7 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>Statutory penalties in amount not greater than the maximum administrative penalties provided under subsection (b) of this section;</text>
+        <text>Statutory penalties in an amount not greater than the maximum administrative penalties provided under subsection (a) of this section;</text>
       </para>
       <para>
         <num>(C)</num>
@@ -53,7 +56,8 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2020-08-13" doc="D.C. Act 23-384" eff="2020-08-13" path="" type="History" display="false"/>
-    <annotation app="2020-08-13" doc="D.C. Act 23-384" eff="2020-08-13" path="§104" type="History"/>
+    <annotation app="2020-11-16" doc="D.C. Act 23-483" eff="2020-11-16" path="" type="History" display="false"/>
+    <annotation app="2020-11-16" doc="D.C. Act 23-483" eff="2020-11-16" path="§403" type="History" display="false"/>
+    <annotation app="2020-11-16" doc="D.C. Act 23-483" eff="2020-11-16" path="§104" type="History"/>
   </annotations>
 </section>

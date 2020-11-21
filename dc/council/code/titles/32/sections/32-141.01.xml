@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-141.01</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on February 8, 2021.*
+      </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -27,23 +30,32 @@
     </para>
     <para>
       <num>(6)</num>
-      <text>"Personal protective equipment" includes face coverings, disposable gloves, eye protection, face shields, disposable gowns or aprons, and plexiglass barriers.</text>
+      <text>"Face covering" means a cloth face covering, face mask, or similar textile barrier that covers an individual's nose and mouth and works to reduce the spray of respiratory droplets.</text>
     </para>
     <para>
       <num>(7)</num>
-      <text>"PPE" means personal protective equipment.</text>
+      <text>"Face shield" means a form of personal protective equipment made of transparent, impermeable materials intended to protect the entire face or portions of it from droplets or splashes.</text>
     </para>
     <para>
       <num>(8)</num>
-      <text>"Public health emergency" means the Coronavirus (COVID-19) public health emergency declared pursuant to Mayor's Order 2020-045, on March 11, 2020, and all subsequent extensions.</text>
+      <text>"Personal protective equipment" includes face coverings, disposable gloves, eye protection, face shields, disposable gowns or aprons, and plexiglass barriers.</text>
     </para>
     <para>
       <num>(9)</num>
-      <text>"Workplace" means any physical structure or space over which an employer maintains control wherein an employee performs work for an employer; workplace does not include the home of an employee who teleworks.</text>
+      <text>"PPE" means personal protective equipment.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>"Public health emergency" means the Coronavirus (COVID-19) public health emergency declared pursuant to Mayor's Order 2020-045, on March 11, 2020, and all subsequent extensions.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>"Workplace" means any physical structure or space, over which an employer maintains control, wherein an employee performs work for an employer; workplace does not include the home of an employee who teleworks.</text>
     </para>
   </para>
   <annotations>
-    <annotation app="2020-08-13" doc="D.C. Act 23-384" eff="2020-08-13" path="" type="History" display="false"/>
-    <annotation app="2020-08-13" doc="D.C. Act 23-384" eff="2020-08-13" path="§101" type="History"/>
+    <annotation app="2020-11-16" doc="D.C. Act 23-483" eff="2020-11-16" path="" type="History" display="false"/>
+    <annotation app="2020-11-16" doc="D.C. Act 23-483" eff="2020-11-16" path="§403" type="History" display="false"/>
+    <annotation app="2020-11-16" doc="D.C. Act 23-483" eff="2020-11-16" path="§101" type="History"/>
   </annotations>
 </section>

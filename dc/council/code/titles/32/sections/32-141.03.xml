@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-141.03</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on February 8, 2021.*
+      </text>
   <heading>Retaliation prohibited.</heading>
   <para>
     <num>(a)</num>
@@ -30,7 +33,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Nothing in <cite path="32|1A-i">this chapter</cite> prohibits an employer from requiring an employee who has tested positive for COVID-19 to refrain from entering the workplace until a medical professional has cleared the employee to return to the workplace or until a period of quarantine recommended by the Department of Health or U.S. Centers for Disease Control has elapsed.</text>
+      <text>Nothing in <cite path="32|1A-i">this chapter</cite> prohibits an employer from requiring an employee who has tested positive for COVID-19 to refrain from entering the workplace until a medical professional has cleared the employee to return to the workplace or until a period of quarantine recommended by the Department of Health or the U.S. Centers for Disease Control has elapsed.</text>
     </para>
   </para>
   <para>
@@ -38,7 +41,8 @@
     <text>No employer or agent thereof may take an adverse employment action against an employee because of actions the employee takes to secure any right or protection contained in <cite path="32|1A-i">this chapter</cite> or to prevent or stop a violation of <cite path="32|1A-i">this chapter</cite>.</text>
   </para>
   <annotations>
-    <annotation app="2020-08-13" doc="D.C. Act 23-384" eff="2020-08-13" path="" type="History" display="false"/>
-    <annotation app="2020-08-13" doc="D.C. Act 23-384" eff="2020-08-13" path="§103" type="History"/>
+    <annotation app="2020-11-16" doc="D.C. Act 23-483" eff="2020-11-16" path="" type="History" display="false"/>
+    <annotation app="2020-11-16" doc="D.C. Act 23-483" eff="2020-11-16" path="§403" type="History" display="false"/>
+    <annotation app="2020-11-16" doc="D.C. Act 23-483" eff="2020-11-16" path="§103" type="History"/>
   </annotations>
 </section>
