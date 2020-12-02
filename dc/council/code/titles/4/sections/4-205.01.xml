@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>4-205.01</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§4-205.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Eligibility for public assistance.</heading>
   <para>
     <num>(a)</num>
@@ -28,5 +31,7 @@
     <annotation type="Temporary Legislation">For temporary (225 day) amendment of section, see § 2(d) of Public Assistance Temporary Amendment Act of 1997 (<cite doc="D.C. Law 12-7">D.C. Law 12-7</cite>, August 1, 1997, law notification  44 DCR 4639).</annotation>
     <annotation type="Effect of Amendments">The 2014 amendment by <cite doc="D.C. Law 20-126">D.C. Law 20-126</cite> added (b).</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 3-205.1.</annotation>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§508|(a)|(1)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§508|(a)|(1)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§508|(a)|(1)">§ 508(a)(1) of Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020] (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
   </annotations>
 </section>
