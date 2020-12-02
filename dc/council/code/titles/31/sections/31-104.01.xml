@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>31-104.01</num>
+  <text>
+      *NOTE: This section was created by temporary legislation that will expire on May 22, 2021.*
+      </text>
   <heading>Emergency authority of the Commissioner during a declared public health emergency.</heading>
   <para>
     <num>(a)</num>
@@ -105,7 +108,9 @@
     <annotation doc="D.C. Law 11-268" type="History" path="§5a">May 21, 1997, D.C. Law 11-268, § 5a</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§310" codified:display="Note" app="2020-10-11" eff="2020-08-19">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-405" path="§310">§ 310 of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 [Effective August 19, 2020 through October 8, 2020] (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-10-11" doc="D.C. Act 23-405" eff="2020-08-19" path="§310" type="History" display="false"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§310" type="History" display="false"/>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§310" prefix="as added" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§310" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-130" path="§310">§ 310 of Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020] (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
   </annotations>
 </section>
