@@ -5560,6 +5560,12 @@
         </section>
       </include>
       <aftertext>.</aftertext>
+      <codify:temporary doc="D.C. Code" path="§2-1403.16a" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-1403.16a" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§2-1403.16a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1403.16a">
+        <text>
+      *NOTE: This section was created by temporary legislation that will expire on May 22, 2021.*
+      </text>
+      </codify:insert>
     </section>
     <section>
       <num>703</num>
@@ -5573,6 +5579,12 @@
         </para>
       </include>
       <aftertext>.</aftertext>
+      <codify:temporary doc="D.C. Code" path="§2-1402.12" codified:doc="D.C. Code" codified:path="§2-1402.12" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§2-1402.12" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1402.12">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§2-1402.12(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
     </section>
     <section codify:path="§5-1104|(d-3)">
       <num>704</num>
@@ -5595,6 +5607,12 @@
           <replace>September 30, 2021</replace>
         </codify:find-replace>
       </para>
+      <codify:temporary doc="D.C. Code" path="§5-1104" codified:doc="D.C. Code" codified:path="§5-1104" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§5-1104" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1104">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§5-1104(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
     </section>
     <section>
       <num>705</num>
@@ -5604,6 +5622,12 @@
         <find>.</find>
         <replace>, or within 90 days, if the non-custodial arrest was conducted during a period of time for which the Mayor has declared a public health emergency pursuant to <cite doc="D.C. Code" path="§7-2304.01">§ 7-2304.01</cite>.</replace>
       </codify:find-replace>
+      <codify:temporary doc="D.C. Code" path="§23-501" codified:doc="D.C. Code" codified:path="§23-501" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§23-501" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§23-501">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§23-501(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
     </section>
     <section>
       <num>706</num>
@@ -5615,6 +5639,12 @@
           <find>this section combined.</find>
           <replace>this section combined; except, that during a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the Department of Corrections shall have discretion to award additional credits beyond the limits described in this subsection to effectuate the immediate release of persons sentenced for misdemeanors, including pursuant to <code-cite doc="D.C. Code" path="§24-221.01">section 3</code-cite> and this section, consistent with public safety.</replace>
         </codify:find-replace>
+        <codify:temporary doc="D.C. Code" path="§24-221.01c" codified:doc="D.C. Code" codified:path="§24-221.01c" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§24-221.01c" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§24-221.01c">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§24-221.01c(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para>
         <num>(b)</num>
@@ -5624,7 +5654,7 @@
           <text>A new section 3a-1 is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="24|4|I" after="§24-403.01" num-value="24-403.01a" codified:doc="D.C. Code" codified:path="§24-403.01a"/>
+              <codify:insert path="24|4|I" after="§24-403.01" num-value="24-403.01a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§24-403.01a"/>
               <num>3a-1</num>
               <heading>Good time credit for felony offenses committed before August 5, 2000.</heading>
               <para>
@@ -5661,13 +5691,19 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:temporary doc="D.C. Code" path="§24-403.01a" action="creation of this section" codified:doc="D.C. Code" codified:path="§24-403.01a" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§24-403.01a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§24-403.01a">
+            <text>
+      *NOTE: This section was created by temporary legislation that will expire on May 22, 2021.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(2)</num>
           <text>A new section 3d is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="24|4|I" after="§24-403.03" num-value="24-403.04" codified:doc="D.C. Code" codified:path="§24-403.04"/>
+              <codify:insert path="24|4|I" after="§24-403.03" num-value="24-403.04" history-prefix="as added" codified:doc="D.C. Code" codified:path="§24-403.04"/>
               <num>3d</num>
               <heading>Motions for compassionate release for individuals convicted of felony offenses.</heading>
               <para>
@@ -5731,6 +5767,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§24-403.04" action="creation of this section" codified:doc="D.C. Code" codified:path="§24-403.04" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§24-403.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§24-403.04">
+          <text>
+      *NOTE: This section was created by temporary legislation that will expire on May 22, 2021.*
+      </text>
+        </codify:insert>
       </para>
     </section>
     <codify:insert doc="D.C. Code" path="7" after="3" history="false" codified:doc="D.C. Code" codified:path="7|3A">
@@ -5804,6 +5846,12 @@
         <num>(g)</num>
         <text>For the purposes of this section, the term "COVID-19" means the disease caused by the novel 2019 coronavirus SARS-CoV-2.</text>
       </para>
+      <codify:temporary doc="D.C. Code" path="§7-311" action="creation of this section" codified:doc="D.C. Code" codified:path="§7-311" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§7-311" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-311">
+        <text>
+      *NOTE: This section was created by temporary legislation that will expire on May 22, 2021.*
+      </text>
+      </codify:insert>
     </section>
   </container>
   <container codify:doc="D.C. Code">
@@ -5818,6 +5866,12 @@
         <find>Chairperson per year</find>
         <replace>Chairperson per year; except, that for the remainder of 2020 following April 10, 2020, District of Columbia Board of Elections members shall be entitled to compensation at the hourly rate of $40 while actually in the service of the board, not to exceed $25,000 for each member per year and $53,000 for the Chairperson per year</replace>
       </codify:find-replace>
+      <codify:temporary doc="D.C. Code" path="§1-611.08" codified:doc="D.C. Code" codified:path="§1-611.08" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§1-611.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-611.08">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-611.08(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
     </section>
     <section>
       <num>802</num>
@@ -5827,6 +5881,12 @@
         <find>April 30th</find>
         <replace>July 30th</replace>
       </codify:find-replace>
+      <codify:temporary doc="D.C. Code" path="§1-731" codified:doc="D.C. Code" codified:path="§1-731" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§1-731" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-731">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-731(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
     </section>
     <section>
       <num>803</num>
@@ -5853,6 +5913,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:temporary doc="D.C. Code" path="§1-1162.24" codified:doc="D.C. Code" codified:path="§1-1162.24" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§1-1162.24" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1162.24">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1162.24(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(2)</num>
@@ -5873,6 +5939,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:temporary doc="D.C. Code" path="§1-1162.25" codified:doc="D.C. Code" codified:path="§1-1162.25" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§1-1162.25" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1162.25">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1162.25(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(3)</num>
@@ -5885,6 +5957,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:temporary doc="D.C. Code" path="§1-1162.30" codified:doc="D.C. Code" codified:path="§1-1162.30" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§1-1162.30" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1162.30">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1162.30(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
       </para>
       <para>
@@ -5897,6 +5975,12 @@
             <find>in person, although online materials may be used to supplement the training</find>
             <replace>in person or online</replace>
           </codify:find-replace>
+          <codify:temporary doc="D.C. Code" path="§1-1163.04" codified:doc="D.C. Code" codified:path="§1-1163.04" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§1-1163.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1163.04">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1163.04(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(2)</num>
@@ -5905,6 +5989,12 @@
             <find>5 days after</find>
             <replace>5 business days after</replace>
           </codify:find-replace>
+          <codify:temporary doc="D.C. Code" path="§1-1163.32d" codified:doc="D.C. Code" codified:path="§1-1163.32d" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§1-1163.32d" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1163.32d">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1163.32d(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(3)</num>
@@ -5913,6 +6003,12 @@
             <find>5 days after</find>
             <replace>5 business days after</replace>
           </codify:find-replace>
+          <codify:temporary doc="D.C. Code" path="§1-1163.32e" codified:doc="D.C. Code" codified:path="§1-1163.32e" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§1-1163.32e" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1163.32e">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1163.32e(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
       </para>
     </section>

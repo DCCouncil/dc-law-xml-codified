@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1163.32d</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-1163.32d(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Base amount payments.</heading>
   <para>
     <num>(a)</num>
@@ -84,9 +87,7 @@
   </para>
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§1-1163.32d" codified:display="Note" codified:doc="D.C. Code" codified:path="§1-1163.32d">Applicability of <cite doc="D.C. Law 22-94" path="">D.C. Law 22-94</cite>: <cite doc="D.C. Law 22-94" path="§3">§ 3 of D.C. Law 22-94</cite> provided that the creation of this section by <cite doc="D.C. Law 22-94" path="§2|(b)|(5)">§ 2(b)(5) of D.C. Law 22-94</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation doc="D.C. Law 19-124" type="History" path="§332l" display="false">Apr. 27, 2012, D.C. Law 19-124, § 332l</annotation>
     <annotation doc="D.C. Law 19-124" type="History" path="§332d">Apr. 27, 2012, D.C. Law 19-124, § 332d</annotation>
-    <annotation doc="D.C. Law 19-124" type="History" path="§332l">Apr. 27, 2012, D.C. Law 19-124, § 332l</annotation>
     <annotation app="2018-05-05" doc="D.C. Law 22-94" eff="2018-05-05" path="§2|(b)|(5)" type="History" display="false"/>
     <annotation app="2018-05-05" doc="D.C. Law 22-94" eff="2018-05-05" path="§2|(b)|(5)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 22-94" path="§2|(b)|(5)" codified:display="Note" app="2018-05-05" eff="2018-05-05">Applicability of <cite doc="D.C. Law 22-94" path="">D.C. Law 22-94</cite>: <cite doc="D.C. Law 22-94" path="§3">§ 3 of D.C. Law 22-94</cite> provided that the creation of this section by <cite doc="D.C. Law 22-94" path="§2|(b)|(5)">§ 2(b)(5) of D.C. Law 22-94</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
@@ -105,6 +106,8 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§1042|(k)|(2)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§803|(b)|(2)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§803|(b)|(2)">§ 803(b)(2) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 [Effective August 19, 2020 through October 8, 2020] (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§803|(b)|(2)" type="History" display="false"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§803|(b)|(2)" type="History" display="false"/>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§803|(b)|(2)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§803|(b)|(2)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§803|(b)|(2)">§ 803(b)(2) of Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020] (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
   </annotations>
 </section>
