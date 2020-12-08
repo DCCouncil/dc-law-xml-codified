@@ -6027,6 +6027,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§1-1001.02" codified:doc="D.C. Code" codified:path="§1-1001.02" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-1001.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1001.02">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1001.02(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para>
         <num>(b)</num>
@@ -6051,6 +6057,12 @@
             <replace>7th day after the election; provided, that for elections held in calendar year 2020, the Board shall accept absentee ballots postmarked or otherwise proven to have been sent on or before the day of the election, and received by the Board no later than the 10th day after the election</replace>
           </codify:find-replace>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-1001.05" codified:doc="D.C. Code" codified:path="§1-1001.05" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-1001.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1001.05">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1001.05(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para codify:path="§1-1001.07">
         <num>(c)</num>
@@ -6099,6 +6111,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-1001.07" codified:doc="D.C. Code" codified:path="§1-1001.07" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-1001.07" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1001.07">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1001.07(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para codify:path="§1-1001.08">
         <num>(d)</num>
@@ -6200,6 +6218,12 @@
             <aftertext>.</aftertext>
           </para>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-1001.08" codified:doc="D.C. Code" codified:path="§1-1001.08" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-1001.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1001.08">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1001.08(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para codify:path="§1-1001.16">
         <num>(e)</num>
@@ -6241,6 +6265,12 @@
           <aftertext>.</aftertext>
         </para>
       </para>
+      <codify:temporary doc="D.C. Code" path="§1-1001.16" codified:doc="D.C. Code" codified:path="§1-1001.16" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§1-1001.16" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1001.16">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1001.16(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
     </section>
     <section>
       <codify:marginalia display="DCMR"/>
@@ -6254,8 +6284,14 @@
       <text>Section 110 of the Uniform Military and Overseas Voters Act of 2012, effective June 5, 2012 (D.C. Law 19-137; D.C. Official Code § 1-1061.10), is amended by striking the phrase "after the election;" and inserting the phrase "after the election; provided, that for elections held in calendar year 2020, the Board shall accept a military-overseas ballot postmarked or otherwise proven to have been sent on or before the day of the election, and received by the Board no later than the 10th day after the election;" in its place.</text>
       <codify:find-replace path="§1-1061.10" count="1" codified:doc="D.C. Code" codified:path="§1-1061.10">
         <find>after the election.</find>
-        <replace>after the election; provided, that for elections held in calendar year 2020, the Board shall accept a military-overseas ballot postmarked or otherwise proven to have been sent on or before the day of the election, and received by the Board no later than the 10th day after the election;</replace>
+        <replace>after the election; provided, that for elections held in calendar year 2020, the Board shall accept a military-overseas ballot postmarked or otherwise proven to have been sent on or before the day of the election, and received by the Board no later than the 10th day after the election[.]</replace>
       </codify:find-replace>
+      <codify:temporary doc="D.C. Code" path="§1-1061.10" codified:doc="D.C. Code" codified:path="§1-1061.10" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§1-1061.10" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1061.10">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1061.10(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
     </section>
     <section>
       <num>807</num>
@@ -6280,6 +6316,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§1-1231.01" codified:doc="D.C. Code" codified:path="§1-1231.01" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-1231.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1231.01">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§1-1231.01(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para codify:path="§1-1231.05">
         <num>(b)</num>
@@ -6349,6 +6391,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-1231.05" codified:doc="D.C. Code" codified:path="§1-1231.05" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-1231.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1231.05">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§1-1231.05(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para>
         <num>(c)</num>
@@ -6361,6 +6409,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§1-1231.09" codified:doc="D.C. Code" codified:path="§1-1231.09" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-1231.09" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1231.09">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§1-1231.09(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
     </section>
     <section>
@@ -6398,6 +6452,12 @@
             <replace>Sundays, days of a COVID-19 closure, and</replace>
           </codify:find-replace>
         </para>
+        <codify:temporary doc="D.C. Code" path="§2-532" codified:doc="D.C. Code" codified:path="§2-532" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§2-532" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-532">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§2-532(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para codify:path="§2-537|(a)">
         <num>(b)</num>
@@ -6406,6 +6466,12 @@
           <find>Sundays, and</find>
           <replace>Sundays, days of a COVID-19 closure, and</replace>
         </codify:find-replace>
+        <codify:temporary doc="D.C. Code" path="§2-537" codified:doc="D.C. Code" codified:path="§2-537" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§2-537" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-537">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§2-537(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para>
         <num>(c)</num>
@@ -6426,6 +6492,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§2-539" codified:doc="D.C. Code" codified:path="§2-539" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§2-539" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-539">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§2-539(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
     </section>
     <section>
@@ -6463,6 +6535,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§2-575" codified:doc="D.C. Code" codified:path="§2-575" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§2-575" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-575">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§2-575(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para codify:path="§2-576">
         <num>(b)</num>
@@ -6475,6 +6553,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§2-576" codified:doc="D.C. Code" codified:path="§2-576" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§2-576" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-576">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§2-576(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para>
         <num>(c)</num>
@@ -6483,6 +6567,12 @@
           <find>attend the meeting;</find>
           <replace>attend the meeting, or in the case of a meeting held during a period for which a public health emergency has been declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, steps are taken that are reasonably calculated to allow the public to view or hear the meeting while the meeting is taking place, or, if doing so is not technologically feasible, as soon thereafter as reasonably practicable.</replace>
         </codify:find-replace>
+        <codify:temporary doc="D.C. Code" path="§2-577" codified:doc="D.C. Code" codified:path="§2-577" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§2-577" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-577">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§2-577(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para>
         <num>(d)</num>
@@ -6495,6 +6585,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§2-578" codified:doc="D.C. Code" codified:path="§2-578" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§2-578" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-578">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§2-578(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
     </section>
     <section>
@@ -6568,6 +6664,12 @@
               <replace>in the presence or, during a period of time for which the Mayor has declared a public health emergency pursuant to <cite doc="D.C. Code" path="§7-2304.01">§ 7-2304.01</cite>, the electronic presence of 2 witnesses</replace>
             </codify:find-replace>
           </para>
+          <codify:temporary doc="D.C. Code" path="§16-4803" codified:doc="D.C. Code" codified:path="§16-4803" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§16-4803" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-4803">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§16-4803(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
       </para>
       <para>
@@ -6618,6 +6720,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:temporary doc="D.C. Code" path="§21-2011" codified:doc="D.C. Code" codified:path="§21-2011" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§21-2011" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§21-2011">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§21-2011(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§21-2043">
           <num>(2)</num>
@@ -6630,6 +6738,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:temporary doc="D.C. Code" path="§21-2043" codified:doc="D.C. Code" codified:path="§21-2043" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§21-2043" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§21-2043">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§21-2043(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§21-2202">
           <num>(3)</num>
@@ -6683,6 +6797,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:temporary doc="D.C. Code" path="§21-2202" codified:doc="D.C. Code" codified:path="§21-2202" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§21-2202" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§21-2202">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§21-2202(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(4)</num>
@@ -6691,6 +6811,12 @@
             <find>2 adult witnesses who affirm that the principal was of sound mind</find>
             <replace>2 adult witnesses who, in the presence or, during a period of time for which the Mayor has declared a public health emergency pursuant to <cite doc="D.C. Code" path="§7-2304.01">§ 7-2304.01</cite>, the electronic presence of the principal, affirm that the principal was of sound mind</replace>
           </codify:find-replace>
+          <codify:temporary doc="D.C. Code" path="§21-2205" codified:doc="D.C. Code" codified:path="§21-2205" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§21-2205" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§21-2205">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§21-2205(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(5)</num>
@@ -6699,6 +6825,12 @@
             <find>There shall be at least 1 witness present</find>
             <replace>There shall be at least one witness present or, during a period of time for which the Mayor has declared a public health emergency pursuant to <cite doc="D.C. Code" path="§7-2304.01">§ 7-2304.01</cite>, electronically present</replace>
           </codify:find-replace>
+          <codify:temporary doc="D.C. Code" path="§21-2210" codified:doc="D.C. Code" codified:path="§21-2210" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§21-2210" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§21-2210">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§21-2210(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
       </para>
       <para>
@@ -6749,6 +6881,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:temporary doc="D.C. Code" path="§7-2131" codified:doc="D.C. Code" codified:path="§7-2131" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§7-2131" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2131">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§7-2131(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(2)</num>
@@ -6762,6 +6900,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:temporary doc="D.C. Code" path="§7-2132" codified:doc="D.C. Code" codified:path="§7-2132" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§7-2132" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2132">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§7-2132(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
         </para>
       </para>
     </section>
@@ -6789,6 +6933,12 @@
           <find>in the presence of the testator</find>
           <replace>in the presence or, during a period of time for which the Mayor has declared a public health emergency pursuant to <cite doc="D.C. Code" path="§7-2304.01">§ 7-2304.01</cite>, the electronic presence, as defined in <cite doc="D.C. Code" path="§[18-113]|(a)|(2)">§ 18-813(a)(2)</cite> <span codify:value=" [§18-113(a)(2)]"/>, of the testator</replace>
         </codify:find-replace>
+        <codify:temporary doc="D.C. Code" path="§18-103" codified:doc="D.C. Code" codified:path="§18-103" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§18-103" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§18-103">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§18-103(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para>
         <num>(c)</num>
@@ -6924,6 +7074,12 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§[18-113]" action="creation of this section" codified:doc="D.C. Code" codified:path="§[18-113]" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§[18-113]" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§[18-113]">
+          <text>
+      *NOTE: This section was created by temporary legislation that will expire on May 22, 2021.*
+      </text>
+        </codify:insert>
       </para>
     </section>
     <codify:insert doc="D.C. Code" path="2" after="18A" history="false" codified:doc="D.C. Code" codified:path="2|18B">
@@ -6949,6 +7105,12 @@
           <text>To appeal an adverse decision listed in <code-cite doc="D.C. Code" path="§4-754.41|(b)">section 26(b) of the Homeless Services Reform Act of 2005, effective October 22, 2005 (D.C. Law 16-35; D.C. Official Code § 4-754.41(b))</code-cite>.</text>
         </para>
       </para>
+      <codify:temporary doc="D.C. Code" path="§2-1851.01" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-1851.01" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§2-1851.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1851.01">
+        <text>
+      *NOTE: This section was created by temporary legislation that will expire on May 22, 2021.*
+      </text>
+      </codify:insert>
     </section>
     <codify:insert doc="D.C. Code" path="3" before="1" history="false" codified:doc="D.C. Code" codified:path="3|0">
       <container>
@@ -6977,6 +7139,12 @@
           <text>The review period for nominations transmitted to the Council for approval or disapproval in accordance with <code-cite doc="D.C. Code" path="§1-523.01|(a)">section 2(a) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(a))</code-cite>, shall be tolled.</text>
         </para>
       </para>
+      <codify:temporary doc="D.C. Code" path="§3-001" action="creation of this section" codified:doc="D.C. Code" codified:path="§3-001" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§3-001" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§3-001">
+        <text>
+      *NOTE: This section was created by temporary legislation that will expire on May 22, 2021.*
+      </text>
+      </codify:insert>
     </section>
     <section>
       <num>814</num>
@@ -7017,6 +7185,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§7-621" codified:doc="D.C. Code" codified:path="§7-621" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§7-621" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-621">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§7-621(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para codify:path="§7-622">
         <num>(b)</num>
@@ -7040,6 +7214,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§7-622" codified:doc="D.C. Code" codified:path="§7-622" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§7-622" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-622">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§7-622(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para codify:path="§7-624|(a)|(3)">
         <num>(c)</num>
@@ -7048,6 +7228,12 @@
           <find>in the presence of a witness</find>
           <replace>in the presence or, during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, electronic presence of a witness</replace>
         </codify:find-replace>
+        <codify:temporary doc="D.C. Code" path="§7-624" codified:doc="D.C. Code" codified:path="§7-624" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§7-624" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-624">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§7-624(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
     </section>
   </container>
@@ -7143,7 +7329,7 @@
           <text>Subsection (e) is amended by striking the phrase "excluding days of Council recess" and inserting the phrase "excluding days of Council recess and days occurring during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)," in its place.</text>
           <codify:find-replace path="(e)" count="1" codified:doc="D.C. Code" codified:path="§1-523.01|(e)">
             <find>excluding days of Council recess</find>
-            <replace>excluding days of Council recess and days occurring during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>,</replace>
+            <replace>excluding days of Council recess and days occurring during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>[]</replace>
           </codify:find-replace>
         </para>
         <para>
@@ -7154,6 +7340,12 @@
           <find>Council shall have an additional 45 days, excluding days of Council recess,</find>
           <replace>Council shall have an additional 45 days, excluding days of Council recess and days occurring during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>,</replace>
         </codify:find-replace>
+        <codify:temporary doc="D.C. Code" path="§1-523.01" codified:doc="D.C. Code" codified:path="§1-523.01" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-523.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-523.01">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§1-523.01(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para>
         <num>(b)</num>
@@ -7171,6 +7363,12 @@
             <heading>Matters Trasmitted to the Council for Approval or Disapproval During a Public Health Emergency.</heading>
             <text>Notwithstanding any provision of law, during a period time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, the review period for any matter transmitted to the Council for approval or disapproval, other than nominations transmitted in accordance with <code-cite doc="D.C. Code" path="§1-523.01">section 2 of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01)</code-cite>, contract approvals, or reprogrammings transmitted in accordance with <code-cite doc="D.C. Code" path="§47-363">section 4 of the Reprogramming Policy Act of 1980, effective September 16, 1980 (D.C. Law 3-100; D.C. Official Code § 47-363)</code-cite>, shall be tolled if not inconsistent with <code-cite doc="D.C. Code" path="1|2">the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 774; D.C. Official Code § 1-201.01 <em>et seq.</em>)</code-cite>.</text>
           </section>
+        </codify:insert>
+        <codify:temporary doc="D.C. Code" path="§1-523.11" action="creation of this section" codified:doc="D.C. Code" codified:path="§1-523.11" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-523.11" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-523.11">
+          <text>
+      *NOTE: This section was created by temporary legislation that will expire on May 22, 2021.*
+      </text>
         </codify:insert>
       </para>
     </section>
@@ -7221,6 +7419,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-309.05" codified:doc="D.C. Code" codified:path="§1-309.05" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-309.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-309.05">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§1-309.05(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para codify:path="§1-309.06|(d)">
         <num>(b)</num>
@@ -7261,6 +7465,12 @@
             </codify:find-replace>
           </para>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-309.06" codified:doc="D.C. Code" codified:path="§1-309.06" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-309.06" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-309.06">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§1-309.06(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para codify:path="§1-309.10">
         <num>(c)</num>
@@ -7281,6 +7491,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:temporary doc="D.C. Code" path="§1-309.10" codified:doc="D.C. Code" codified:path="§1-309.10" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-309.10" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-309.10">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§1-309.10(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para codify:path="§1-309.11|(b)">
         <num>(d)</num>
@@ -7305,6 +7521,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-309.11" codified:doc="D.C. Code" codified:path="§1-309.11" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-309.11" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-309.11">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§1-309.11(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
       <para codify:path="§1-309.13">
         <num>(e)</num>
@@ -7329,6 +7551,12 @@
             <replace>District government; except, that notwithstanding any provision of District law, during a period for which a public health emergency has been declared by the Mayor pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, a Commission may approve grants to organizations for the purpose of providing humanitarian relief, including food or supplies, during the public health emergency, or otherwise assisting in the response to the public health emergency anywhere in the District, even if those services are duplicative of services also performed by the District government</replace>
           </codify:find-replace>
         </para>
+        <codify:temporary doc="D.C. Code" path="§1-309.13" codified:doc="D.C. Code" codified:path="§1-309.13" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-309.13" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-309.13">
+          <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite doc="D.C. Code" path="§1-309.13(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
     </section>
   </container>
