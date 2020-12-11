@@ -59,8 +59,7 @@
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§204|(a)|(3)" type="History" display="false"/>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§204|(a)|(3)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§204|(a)|(3)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§204|(a)|(3)">§ 204(a)(3) of Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020] (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
-    <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9001" type="History" display="false"/>
-    <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§6052|(a)|(3)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§6052|(a)|(3)" type="History"/>
   </annotations>
   <para>
     <num>(d)</num>
@@ -69,6 +68,36 @@
       <find>25-113a</find>
       <replace>[25-113.01]</replace>
     </codify:find-replace>
+  </para>
+  <para>
+    <num>(e)</num>
+    <para>
+      <num>(1)</num>
+      <text>A licensee under a manufacturer's license class A or B holding an on-site sales and consumption permit, or an on-premises retailer's license, class C/R, D/R, C/H, D/H, C/T, D/T, C/N, D/N, C/X, or DX, shall obtain a game of skill machine endorsement from the Board in order to offer a game of skill machine on the licensed premises.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <para>
+        <num>(A)</num>
+        <text>A game of skill machine shall not be placed on outdoor public or private space; except, that the Board, in its discretion, may allow for the placement of a game of skill machine on outdoor public or private space if, in the Board's determination, activity associated with the game of skill machine is:</text>
+        <para>
+          <num>(i)</num>
+          <text>Not visible from a public street or sidewalk;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Adequately secured against unauthorized entrance; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Accessible only by patrons from within the establishment.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Subparagraph (A) of this paragraph shall not apply to a licensee operating a passenger-carrying marine vessel in accordance with <cite path="§25-113|(h)">§ 25-113(h)</cite>.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(f)</num>
@@ -118,36 +147,6 @@
     <para>
       <num>(6)</num>
       <text>Beginning June 30, 2022, and each year thereafter, ABRA shall submit an annual report to the Council on the outcomes of this section, including the number of on-premise licensees participating in the carry-out and delivery option, and the number of on- and off-premise retailer licensees that may have closed after the carry-out and delivery option was implemented</text>
-    </para>
-  </para>
-  <para>
-    <num>(e)</num>
-    <para>
-      <num>(1)</num>
-      <text>A licensee under a manufacturer's license class A or B holding an on-site sales and consumption permit, or an on-premises retailer's license, class C/R, D/R, C/H, D/H, C/T, D/T, C/N, D/N, C/X, or DX, shall obtain a game of skill machine endorsement from the Board in order to offer a game of skill machine on the licensed premises.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <para>
-        <num>(A)</num>
-        <text>A game of skill machine shall not be placed on outdoor public or private space; except, that the Board, in its discretion, may allow for the placement of a game of skill machine on outdoor public or private space if, in the Board's determination, activity associated with the game of skill machine is:</text>
-        <para>
-          <num>(i)</num>
-          <text>Not visible from a public street or sidewalk;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Adequately secured against unauthorized entrance; and</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>Accessible only by patrons from within the establishment.</text>
-        </para>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Subparagraph (A) of this paragraph shall not apply to a licensee operating a passenger-carrying marine vessel in accordance with <cite path="§25-113|(h)">§ 25-113(h)</cite>.</text>
-      </para>
     </para>
   </para>
 </section>

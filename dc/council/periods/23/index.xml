@@ -30,6 +30,7 @@
     <heading>Permanent Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/23-149.xml"/>
       <xi:include href="./laws/23-138.xml"/>
       <xi:include href="./laws/23-135.xml"/>
       <xi:include href="./laws/23-134.xml"/>
@@ -103,7 +104,6 @@
     </collection>
     <collection name="pending">
       <heading>Acts pending congressional review</heading>
-      <xi:include href="./acts/23-407.xml"/>
     </collection>
   </collection>
   <collection name="emergency">
@@ -120,7 +120,6 @@
     <xi:include href="./acts/23-434.xml"/>
     <xi:include href="./acts/23-429.xml"/>
     <xi:include href="./acts/23-428.xml"/>
-    <xi:include href="./acts/23-426.xml"/>
     <xi:include href="./acts/23-425.xml"/>
     <xi:include href="./acts/23-424.xml"/>
     <xi:include href="./acts/23-423.xml"/>

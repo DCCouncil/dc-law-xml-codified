@@ -316,6 +316,7 @@
     </para>
   </section>
   <section codify:doc="D.C. Code" codify:path="§10-1202.03a">
+    <codify:applicability doc="D.C. Act 23-416" path="§4" date="2020-12-08" history="false"/>
     <num>4</num>
     <text>Section 203a of the Washington Convention Center Authority Act of 1994, effective August 19, 2020 (D.C. Act 23-404; 67 DCR 10098), is amended as follows:</text>
     <para codify:path="(a)">
@@ -331,7 +332,7 @@
         <para>
           <num>(B)</num>
           <text>Strike the phrase "a District resident shall" and insert the phrase "a District resident shall, at the time of application for assistance under this section" in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§10-1202.03a|(a)">
+          <codify:find-replace count="1">
             <find>a District resident shall</find>
             <replace>a District resident shall, at the time of application for assistance under this section</replace>
           </codify:find-replace>
@@ -342,7 +343,7 @@
         <text>Paragraph (1) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§10-1202.03a|(a)|(1)"/>
+            <codify:replace/>
             <num>(1)</num>
             <text>Demonstrate loss of income due to the public health emergency;</text>
           </para>
@@ -354,7 +355,7 @@
         <text>Paragraph (2) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§10-1202.03a|(a)|(2)"/>
+            <codify:replace/>
             <num>(2)</num>
             <para>
               <num>(A)</num>
@@ -401,14 +402,13 @@
       <text>Subsection (d)(2) is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert codified:doc="D.C. Code" codified:path="§10-1202.03a|(d)|(2)|(2)"/>
+          <codify:insert/>
           <num>(2)</num>
           <text>COVID-19 relief" means federal monetary unemployment assistance provided under the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 281; 15 U.S.C. § 9001 <em>et seq.</em>), which shall include tax credits but shall not include federal Economic Impact Payments or other stimulus relief for which eligibility is not contingent on the recipient's employment status.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
     </para>
-    <codify:applicability doc="D.C. Act 23-416" path="§4" date="2020-12-08" history="false" codified:doc="D.C. Code" codified:path="§10-1202.03a|(a)"/>
   </section>
   <section codify:doc="D.C. Code">
     <num>5</num>
@@ -486,15 +486,8 @@
       <replace>described in <span codify:value="">D.C. Official Code </span>§§ <cite doc="D.C. Code" path="§47-2002|(a)|(4B)">47-2002(a)(4B)</cite> and <cite doc="D.C. Code" path="§47-2002.02|(2)|(C)">47-2002.02(2)(C)</cite></replace>
     </codify:find-replace>
   </section>
-  <codify:insert doc="D.C. Code" path="1|3|I|" after="I" history="false" codified:doc="D.C. Code" codified:path="1|3|I|I-i">
-    <container>
-      <prefix>Part</prefix>
-      <num>I-i</num>
-      <heading>Chief Financial Officer collection of fees and processing costs.</heading>
-    </container>
-  </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="1|3|I|I-i" num-value="1-301.161" codified:doc="D.C. Code" codified:path="§1-301.161"/>
+    <codify:insert doc="D.C. Code" path="1|3|I|I" num-value="1-301.158" codified:doc="D.C. Code" codified:path="§1-301.158"/>
     <num>7</num>
     <heading>Chief Financial Officer collection of fees and processing costs.</heading>
     <para>
@@ -535,9 +528,9 @@
       *NOTE: This section includes amendments by emergency legislation that will expire on December 30, 2020. To view the text of this section after the expiration of the emergency legislation, click this link: <cite doc="D.C. Code" path="§50-2201.03(Perm)">Permanent Version</cite>.*
       </text>
     </codify:insert>
-    <codify:insert doc="D.C. Code" path="§1-301.161" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-301.161">
+    <codify:insert doc="D.C. Code" path="§1-301.158" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-301.158">
       <text>
-      *NOTE: This section was created by emergency legislation that will expire onDecember 30, 2020.*
+      *NOTE: This section was created by emergency legislation that will expire on December 30, 2020.*
       </text>
     </codify:insert>
   </section>

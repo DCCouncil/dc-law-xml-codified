@@ -651,13 +651,7 @@
         <xi:include href="./sections/1-301.155.xml"/>
         <xi:include href="./sections/1-301.156.xml"/>
         <xi:include href="./sections/1-301.157.xml"/>
-      </container>
-      <container>
-        <prefix>Part</prefix>
-        <num>I-i</num>
-        <heading>Chief Financial Officer collection of fees and processing costs.</heading>
-        <annotation app="2020-10-14" doc="D.C. Act 23-416" eff="2020-10-14" path="" type="History" display="false"/>
-        <xi:include href="./sections/1-301.161.xml"/>
+        <xi:include href="./sections/1-301.158.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -1258,8 +1252,7 @@
         <prefix>Part</prefix>
         <num>PP</num>
         <heading>Audit Engagement Fund.</heading>
-        <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9001" type="History" display="false"/>
-        <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="I" type="History" display="false"/>
+        <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" type="History" display="false"/>
         <xi:include href="./sections/1-325.411.xml"/>
       </container>
     </container>
@@ -1428,13 +1421,12 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>XVIII</num>
-      <heading>Expenditure Commission. [Repealed]<annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9001" type="History" display="false"/><annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§7106" type="History"/></heading>
+      <heading>Expenditure Commission. [Repealed]<annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7106" type="History"/></heading>
       <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="VII" type="History" display="false"/>
       <xi:include href="./sections/1-361.01.xml"/>
       <xi:include href="./sections/1-361.02.xml"/>
       <xi:include href="./sections/1-361.03.xml"/>
-      <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9001" type="History" display="false"/>
-      <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§7106" type="History"/>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7106" type="History"/>
     </container>
   </container>
   <container>
@@ -1562,8 +1554,7 @@
       <prefix>Subchapter</prefix>
       <num>X</num>
       <heading>Freeze on Pay Increases and Benefits fromOctober 1, 2020 through September 30, 2021.</heading>
-      <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9001" type="History" display="false"/>
-      <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="I" type="History" display="false"/>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" type="History" display="false"/>
       <xi:include href="./sections/1-555.01.xml"/>
       <xi:include href="./sections/1-555.02.xml"/>
       <xi:include href="./sections/1-555.03.xml"/>
@@ -1661,8 +1652,7 @@
       <prefix>Subchapter</prefix>
       <num>VII-B</num>
       <heading>Transgender and Non-Binary Employment Study.</heading>
-      <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="§9001" type="History" display="false"/>
-      <annotation app="2020-08-19" doc="D.C. Act 23-426" eff="2020-10-20" path="II" type="History" display="false"/>
+      <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>
       <xi:include href="./sections/1-607.61.xml"/>
       <xi:include href="./sections/1-607.62.xml"/>
     </container>
