@@ -6417,7 +6417,7 @@
             <text>A new subparagraph (B-i) is added to read as follows:</text>
             <include lvl="2">
               <para>
-                <codify:insert after="(B)" codified:doc="D.C. Code" codified:path="§7-503.07"/>
+                <codify:insert after="(B)"/>
                 <num>(B-i)</num>
                 <text>The number of aged residents, listed by Ward, who spend down assets in order to qualify for Medicaid, who forgo needed care because they cannot afford the care, and who spend a significant percentage of their income or assets on health care; and</text>
               </para>
@@ -6448,7 +6448,7 @@
               <text>A new sub-subparagraph (iv) is added to read as follows:</text>
               <include lvl="3">
                 <para>
-                  <codify:insert codified:doc="D.C. Code" codified:path="§7-503.07"/>
+                  <codify:insert/>
                   <num>(iv)</num>
                   <text>Are disabled;</text>
                 </para>
@@ -6478,7 +6478,7 @@
           <text>A new paragraph (9) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§7-503.07"/>
+              <codify:insert/>
               <num>(9)</num>
               <text>Current licensing and training programs, administered by the Department of Health or the Department of Employment Services, for in-home healthcare workers and recommendations for improvements to licensing or training programs that would increase the number of in-home healthcare workers in the District.</text>
             </para>
@@ -9804,7 +9804,7 @@
               <text>Paragraph (1) is amended to read as follows:</text>
               <include lvl="1">
                 <para>
-                  <codify:replace codified:doc="D.C. Code" codified:path="§47-1817.06"/>
+                  <codify:replace codified:doc="D.C. Code" codified:path="§47-1817.06|(a)|(1)"/>
                   <num>(1)</num>
                   <para>
                     <num>(A)</num>
@@ -9823,7 +9823,7 @@
               <text>A new paragraph (3) is added to read as follows:</text>
               <include lvl="1">
                 <para>
-                  <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§47-1817.06"/>
+                  <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§47-1817.06|(a)|(3)"/>
                   <num>(3)</num>
                   <text>For tax years beginning after December 31, 2019, a Qualified High Technology Company shall be allowed a credit against taxes imposed by <cite doc="D.C. Code" path="§47-1807.02">§ 47-1807.02 </cite>as follows:</text>
                   <para>
