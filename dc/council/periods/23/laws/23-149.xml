@@ -10331,6 +10331,11 @@
             <find>The</find>
             <replace>The</replace>
           </codify:find-replace>
+          <codify:insert doc="D.C. Code" path="§47-1508" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-1508">
+            <text>
+      *NOTE: This section will be amended by D.C. Law 23-149 beginning July 1, 2021.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(b)</num>

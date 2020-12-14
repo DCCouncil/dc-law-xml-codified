@@ -24,7 +24,6 @@
     <xi:include href="./acts/23-413.xml"/>
     <xi:include href="./acts/23-411.xml"/>
     <xi:include href="./acts/23-410.xml"/>
-    <xi:include href="./acts/23-384.xml"/>
   </collection>
   <collection name="permanent">
     <heading>Permanent Laws</heading>
@@ -109,6 +108,7 @@
   <collection name="emergency">
     <heading>Emergency Acts</heading>
     <xi:include href="./acts/23-497.xml"/>
+    <xi:include href="./acts/23-384.xml"/>
     <xi:include href="./acts/23-482.xml"/>
     <xi:include href="./acts/23-479.xml"/>
     <xi:include href="./acts/23-477.xml"/>
