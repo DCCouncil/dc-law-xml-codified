@@ -10,6 +10,7 @@
     <xi:include href="./laws/23-143.xml"/>
     <xi:include href="./laws/23-137.xml"/>
     <xi:include href="./laws/23-130.xml"/>
+    <xi:include href="./acts/23-520.xml"/>
     <xi:include href="./acts/23-483.xml"/>
     <xi:include href="./acts/23-478.xml"/>
     <xi:include href="./acts/23-475.xml"/>
@@ -107,6 +108,13 @@
   </collection>
   <collection name="emergency">
     <heading>Emergency Acts</heading>
+    <xi:include href="./acts/23-523.xml"/>
+    <xi:include href="./acts/23-522.xml"/>
+    <xi:include href="./acts/23-521.xml"/>
+    <xi:include href="./acts/23-519.xml"/>
+    <xi:include href="./acts/23-517.xml"/>
+    <xi:include href="./acts/23-516.xml"/>
+    <xi:include href="./acts/23-515.xml"/>
     <xi:include href="./acts/23-497.xml"/>
     <xi:include href="./acts/23-384.xml"/>
     <xi:include href="./acts/23-482.xml"/>

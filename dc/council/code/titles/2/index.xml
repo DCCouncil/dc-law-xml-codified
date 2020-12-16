@@ -2283,6 +2283,7 @@
       <xi:include href="./sections/2-1411.04.xml"/>
       <xi:include href="./sections/2-1411.05.xml"/>
       <xi:include href="./sections/2-1411.05a.xml"/>
+      <xi:include href="./sections/2-1411.05b.xml"/>
       <xi:include href="./sections/2-1411.06.xml"/>
     </container>
     <container>
@@ -2298,6 +2299,15 @@
       <xi:include href="./sections/2-1431.07.xml"/>
       <xi:include href="./sections/2-1431.08.xml"/>
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>14A</num>
+    <heading>Office of Racial Equity and Commission on Racial Equality, Social Justice, and Economic Inclusion.</heading>
+    <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="" type="History" display="false"/>
+    <xi:include href="./sections/2-1471.01.xml"/>
+    <xi:include href="./sections/2-1471.02.xml"/>
+    <xi:include href="./sections/2-1471.03.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

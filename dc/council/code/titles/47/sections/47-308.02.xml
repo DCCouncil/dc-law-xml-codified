@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-308.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 7, 2021. To view the text of this section after the expiration of all emergency and/or temporary legislation effecting this section, click this link: <cite path="§47-308.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Relevant performance measures.</heading>
   <para>
     <num>(a)</num>
@@ -31,5 +34,12 @@
     <annotation doc="D.C. Law 16-191" type="History">Mar. 2, 2007, D.C. Law 16-191, § 5(a), 53 DCR 6794</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition of section, see § 1006(c) of Fiscal Year 2006 Budget Support Emergency Act of 2005 (D.C. Act 16-168, July 26, 2005,  52 DCR 7667).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 16-191">D.C. Law 16-191</cite>, in subsec. (e), substituted “<cite path="§1-614.13">§ 1-614.13</cite>” for “ <cite path="§1-614.13">§ 1-614.13</cite> ”.</annotation>
+    <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="§202|(b)" type="History" display="false"/>
+    <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="§202|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-521" path="§202|(b)" codified:display="Note" app="2020-12-07" eff="2020-12-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-521" path="§202|(b)">§ 202(b) of Racial Equity Achieves Results (REACH) Emergency Amendment Act of 2020 (D.C. Act 23-521, Dec. 7, 2020, 67 DCR 14433)</cite>.</annotation>
   </annotations>
+  <para>
+    <num>(g)</num>
+    <text>Beginning no later than Fiscal Year 2022, and for each subsequent fiscal year, the Mayor shall establish at least one relevant performance measure related to an agency's progress toward achieving racial equity.</text>
+  </para>
 </section>

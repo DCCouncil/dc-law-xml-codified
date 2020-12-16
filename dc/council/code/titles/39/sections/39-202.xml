@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>39-202</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on March 7, 2021. To view the text of this section after the expiration of all emergency and/or temporary legislation effecting this section, click this link: <cite path="§39-202(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of <cite path="39|2">this chapter</cite>, the term:</text>
   <para>
@@ -52,7 +55,7 @@
         <text>Nonprofit corporations incorporated under the laws of the District that:</text>
         <para>
           <num>(i)</num>
-          <text>Have an annual income, exclusive of District funds, in excess of $1 million for each of the 3 years before receipt of a grant awarded under <cite path="39|2">this chapter</cite>;</text>
+          <text>Have an annual income, exclusive of District funds other than sponsorships provided by Events DC, in excess of $1 million for each of the 3 years before receipt of a grant awarded under <cite path="39|2">this chapter</cite>;</text>
         </para>
         <para>
           <num>(ii)</num>
@@ -84,5 +87,8 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§2202|(a)" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§2202|(a)">§ 2202(a) of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§2202|(a)" type="History" display="false"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§2202|(a)" type="History"/>
+    <annotation app="2020-12-07" doc="D.C. Act 23-520" eff="2020-12-07" path="§4" type="History" display="false"/>
+    <annotation app="2020-12-07" doc="D.C. Act 23-520" eff="2020-12-07" path="§4" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Act 23-520" path="§4" codified:display="Note" app="2020-12-07" eff="2020-12-07">For temporary (225 days) amendment of this section, see <cite doc="D.C. Act 23-520" path="§4">§ 4 of Public Space Maintenance and Arts Clarification Emergency Amendment Act of 2020 (D.C. Act 23-520, Dec. 7, 2020, 67 DCR 14431)</cite>.</annotation>
   </annotations>
 </section>
