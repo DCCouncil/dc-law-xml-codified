@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-1031</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on July 16, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-1031(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Commencement of corrective  or adverse action.</heading>
   <para>
     <num>(a)</num>
@@ -10,16 +13,20 @@
     <num>(a-1)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided  in subsection (b) of this section, no corrective or adverse action  against any sworn member or civilian employee of the Metropolitan  Police Department shall be commenced more than 90 days, not including  Saturdays, Sundays, or legal holidays, after the date that the Metropolitan  Police Department had notice of the act or occurrence allegedly constituting  cause.</text>
+      <text>Except as provided  in paragraph (1A) of this subsection and subsection (b) of this section, no corrective or adverse action  against any sworn member or civilian employee of the Metropolitan  Police Department shall be commenced more than 90 days, not including  Saturdays, Sundays, or legal holidays, after the date that the Metropolitan  Police Department had notice of the act or occurrence allegedly constituting  cause.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>If the act or occurrence allegedly constituting cause involves the serious use of force or indicates potential criminal conduct by a sworn member or civilian employee of the Metropolitan Police Department, the period for commencing a corrective or adverse action under this subsection shall be 180 days, not including Saturdays, Sundays, or legal holidays, after the date that the Metropolitan Police Department had notice of the act or occurrence allegedly constituting cause.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>For the purposes  of paragraph (1) of this subsection, the Metropolitan Police Department  has notice of the act or occurrence allegedly constituting cause on  the date that the Metropolitan Police Department generates an internal  investigation system tracking number for the act or occurrence.</text>
+      <text>For the purposes  of paragraphs (1) and (1A) of this subsection, the Metropolitan Police Department  has notice of the act or occurrence allegedly constituting cause on  the date that the Metropolitan Police Department generates an internal  investigation system tracking number for the act or occurrence.</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>If the act or  occurrence allegedly constituting cause is the subject of a criminal  investigation by the Metropolitan Police Department or any law enforcement  agency with jurisdiction within the United States, the Office of the  United States Attorney for the District of Columbia, or the Office  of the Attorney General, or is the subject of an investigation by  the Office of the Inspector General, the Office of the District of  Columbia Auditor, or the Office of Police Complaints, the 90-day period  for commencing a corrective or adverse action under subsection (a)  or (a-1) of this section shall be tolled until the conclusion of the  investigation.</text>
+    <text>If the act or  occurrence allegedly constituting cause is the subject of a criminal  investigation by the Metropolitan Police Department or any law enforcement  agency with jurisdiction within the United States, the Office of the  United States Attorney for the District of Columbia, or the Office  of the Attorney General, or is the subject of an investigation by  the Office of the Inspector General, the Office of the District of  Columbia Auditor, or the Office of Police Complaints, the 90-day or 180-day period, as applicable,  for commencing a corrective or adverse action under subsection (a)  or (a-1) of this section shall be tolled until the conclusion of the  investigation.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 15-194" type="History" path="§502">Sept. 30, 2004, D.C. Law 15-194, § 502, 51 DCR 9406</annotation>
@@ -30,5 +37,11 @@
     <annotation app="2020-07-22" doc="D.C. Act 23-336" eff="2020-07-22" path="§117" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§117" codified:display="Note" app="2020-10-28" eff="2020-10-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-437" path="§117">§ 117 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
     <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§117" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§117" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§117|(a)|(1)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§117|(a)|(2)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§117|(a)|(3)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§117|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§117" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-151" path="§117">§ 117 of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
   </annotations>
 </section>

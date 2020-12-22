@@ -1,15 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-125.02</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on July 16, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-125.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
-  <para>
+  <para placeholder="Repealed">
     <num>(1)</num>
-    <text>A “trachea hold,” “arm bar hold,” or “bar-arm hold” means any weaponless technique or any technique using the officer’s arm, a long or short police baton, or a flashlight or other firm object that attempts to control or disable a person by applying force or pressure against the trachea, windpipe, or the frontal area of the neck with the purpose or intent of controlling a person’s movement or rendering a person unconscious by blocking the passage of air through the windpipe.</text>
+    <text>Repealed.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(2)</num>
-    <text>A “carotid artery hold,” “sleeper hold,” or “v hold” means any weaponless technique which is applied in an effort to control or disable a person by applying pressure or force to the carotid artery or the jugular vein or the sides of the neck with the intent or purpose of controlling a person’s movement or rendering a person unconscious by constricting the flow of blood to and from the brain.</text>
+    <text>Repealed.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 6-77" type="History" path="§3">Jan. 25, 1986, D.C. Law 6-77, § 3, 32 DCR 6497</annotation>
@@ -20,5 +23,14 @@
     <annotation app="2020-07-22" doc="D.C. Act 23-336" eff="2020-07-22" path="§101|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§101|(b)" codified:display="Note" app="2020-10-28" eff="2020-10-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-437" path="§101|(b)">§ 101(b) of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
     <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§101|(b)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§101|(b)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§101|(b)|(1)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§101|(b)|(2)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§101|(b)|(3)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§101|(b)" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-151" path="§101|(b)">§ 101(b) of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
   </annotations>
+  <para>
+    <num>(3)</num>
+    <text>"Neck restraint" means the use of any body part or object to attempt to control or disable a person by applying pressure against the person's neck, including the trachea or carotid artery, with the purpose, intent, or effect of controlling or restricting the person's movement or restricting their blood flow or breathing.</text>
+  </para>
 </section>

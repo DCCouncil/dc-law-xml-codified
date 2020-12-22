@@ -1,15 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-331.02</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on July 16, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-331.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <para>
     <num>(1)</num>
-    <text>“First Amendment assembly” means a demonstration, rally, parade, march, picket line, or other similar gathering conducted for the purpose of persons expressing their political, social, or religious views.</text>
+    <text>"Chemical irritant" means tear gas or any chemical that can rapidly produce sensory irritation or disabling physical effects in humans, which disappear within a short time following termination of exposure, or any substance prohibited by the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, effective April 29, 1997.</text>
   </para>
   <para>
     <num>(2)</num>
-    <text>“MPD” means the Metropolitan Police Department.</text>
+    <text>“First Amendment assembly” means a demonstration, rally, parade, march, picket line, or other similar gathering conducted for the purpose of persons expressing their political, social, or religious views.</text>
+  </para>
+  <para>
+    <num>(3)</num>
+    <text>"Less-lethal projectiles" means any munition that may cause bodily injury or death through the transfer of kinetic energy and blunt force trauma. The term "less-lethal projectiles" includes rubber or foam-covered bullets and stun grenades.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 15-352" type="History" path="§102">Apr. 13, 2005, D.C. Law 15-352, § 102, 52 DCR 2296</annotation>
@@ -17,5 +24,14 @@
     <annotation app="2020-07-22" doc="D.C. Act 23-336" eff="2020-07-22" path="§121|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§121|(a)" codified:display="Note" app="2020-10-28" eff="2020-10-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-437" path="§121|(a)">§ 121(a) of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
     <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§121|(a)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§121|(a)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§121|(a)|(2)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§121|(a)|(1)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§121|(a)|(3)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§121|(a)" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-151" path="§121|(a)">§ 121(a) of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
   </annotations>
+  <para>
+    <num>(4)</num>
+    <text>“MPD” means the Metropolitan Police Department.</text>
+  </para>
 </section>

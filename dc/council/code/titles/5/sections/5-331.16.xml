@@ -1,24 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-331.16</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on July 16, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-331.16(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Use of riot gear and riot tactics at First Amendment assemblies.</heading>
   <para>
     <num>(a)</num>
-    <text>Officers in riot gear shall be deployed consistent with the District policy on First Amendment assemblies and only where there is a danger of violence. Following any deployment of officers in riot gear, the commander at the scene shall make a written report to the Chief of Police within 48 hours and that report shall be available to the public on request.</text>
+    <para>
+      <num>(1)</num>
+      <text>No officers in riot gear may be deployed in response to a First Amendment assembly unless there is an immediate risk to officers of significant bodily injury. Any deployment of officers in riot gear:</text>
+      <para>
+        <num>(A)</num>
+        <text>Shall be consistent with the District's policy on First Amendment assemblies; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>May not be used as a tactic to disperse a First Amendment assembly.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Following any deployment of officers in riot gear in response to a First Amendment assembly, the commander at the scene shall make a written report to the Chief of Police within 48 hours, and that report shall be available to the public.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>Large scale canisters of chemical irritant shall not be used at First Amendment assemblies absent the approval of a commanding officer at the scene, and the chemical irritant is reasonable and necessary to protect officers or others from physical harm or to arrest actively resisting subjects.</text>
+      <text>Chemical irritants shall not be used by MPD to disperse a First Amendment assembly.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Chemical irritant shall not be used by officers to disperse a First Amendment assembly unless the assembly participants or others are committing acts of public disobedience endangering public safety and security.</text>
+      <text>The Mayor shall request that any federal law enforcement agency operating in the District refrain from the use of chemical irritants to disperse a First Amendment assembly.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>Less-lethal projectiles shall not be used by MPD to disperse a First Amendment assembly.</text>
     </para>
     <para>
-      <num>(3)</num>
-      <text>A commanding officer who makes the determination specified in paragraph (1) of this subsection shall file with the Chief of Police a written report explaining his or her action within 48 hours after the event.</text>
+      <num>(2)</num>
+      <text>The Mayor shall request that any federal law enforcement agency operating in the District refrain from the use of less-lethal projectiles to disperse a First Amendment assembly.</text>
     </para>
   </para>
   <annotations>
@@ -27,5 +52,8 @@
     <annotation app="2020-07-22" doc="D.C. Act 23-336" eff="2020-07-22" path="§121|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§121|(b)" codified:display="Note" app="2020-10-28" eff="2020-10-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-437" path="§121|(b)">§ 121(b) of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
     <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§121|(b)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§121|(b)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§121|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§121|(b)" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-151" path="§121|(b)">§ 121(b) of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
   </annotations>
 </section>

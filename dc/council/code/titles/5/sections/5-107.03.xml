@@ -1,14 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>5-107.03</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on July 16, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-107.03(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Establishment of District of Columbia Police Officers Standards and Training Board.</heading>
   <para>
     <num>(a)</num>
-    <text>There is hereby established the District of Columbia Police Officers Standards and Training Board (“Board”).</text>
+    <text>There is hereby established the Police Officers Standards and Training Board (“Board”).</text>
   </para>
   <para>
     <num>(b)</num>
-    <text>Membership on the Board shall consist of the following 11 persons who shall be voting members:</text>
+    <text>Membership on the Board shall consist of the following 15 persons who shall be voting members:</text>
     <para>
       <num>(1)</num>
       <text>The Mayor or the Mayor’s designee;</text>
@@ -18,8 +21,16 @@
       <text>Chief of Police, Metropolitan Police Department or the Chief of Police’s  designee;</text>
     </para>
     <para>
+      <num>(2A)</num>
+      <text>Executive Director of the Office of Police Complaints or the Executive Director's designee;</text>
+    </para>
+    <para>
       <num>(3)</num>
       <text>Corporation Counsel for the District of Columbia or the Corporation Counsel’s designee;</text>
+      <para>
+        <num>(3)</num>
+        <text>The Attorney General for the District of Columbia or the Attorney General's designee;</text>
+      </para>
     </para>
     <para>
       <num>(4)</num>
@@ -39,11 +50,31 @@
     </para>
     <para>
       <num>(8)</num>
-      <text>One police representative appointed by the certified collective bargaining agent, and one police representative appointed by the Mayor in consultation with the Chief of Police.</text>
+      <text>One police representative appointed by the certified collective bargaining agent, and one police representative appointed by the Mayor in consultation with the Chief of Police; and</text>
     </para>
     <para>
       <num>(9)</num>
-      <text>Two community representatives appointed by the Mayor.</text>
+      <text>Five community representatives appointed by the Mayor, one each with expertise in the following areas:</text>
+      <para>
+        <num>(A)</num>
+        <text>Oversight of law enforcement;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Juvenile justice reform;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Criminal defense;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Gender-based violence or LGBTQ social services, policy, or advocacy; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Violence prevention or intervention.</text>
+      </para>
     </para>
   </para>
   <para>
@@ -84,7 +115,7 @@
   </para>
   <para>
     <num>(i)</num>
-    <text>The Board shall hold its initial meeting promptly after the appointment and qualification of its members. Thereafter, the Board shall meet a minimum of twice each calendar year and at other times as it or the Board’s Chairperson may determine. The majority of the voting members of the Board shall constitute a quorum for the transaction of business, the performance of duties or for the exercise of any of its authority. Advisory members shall be entitled to participate in the business and deliberation of the Board, but shall not be entitled to vote. The Board shall establish its own procedures and requirements with respect to the place and conduct of its meetings.</text>
+    <text>The Board shall hold its initial meeting by September 1, 2020. Thereafter, the Board shall meet a minimum of twice each calendar year and at other times as it or the Board’s Chairperson may determine. The majority of the voting members of the Board shall constitute a quorum for the transaction of business, the performance of duties or for the exercise of any of its authority. Advisory members shall be entitled to participate in the business and deliberation of the Board, but shall not be entitled to vote. The Board shall establish its own procedures and requirements with respect to the place and conduct of its meetings.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 13-160" type="History" path="§204">Oct. 4, 2000, D.C. Law 13-160, § 204, 47 DCR 4619</annotation>
@@ -94,5 +125,14 @@
     <annotation app="2020-07-22" doc="D.C. Act 23-336" eff="2020-07-22" path="§111|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§111|(b)" codified:display="Note" app="2020-10-28" eff="2020-10-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-437" path="§111|(b)">§ 111(b) of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
     <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§111|(b)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§111|(b)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§111|(b)|(1)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§111|(b)|(2)|(A)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§111|(b)|(2)|(B)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§111|(b)|(2)|(C)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§111|(b)|(2)|(D)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§111|(b)|(2)|(E)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§111|(b)|(3)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§111|(b)" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-151" path="§111|(b)">§ 111(b) of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
   </annotations>
 </section>

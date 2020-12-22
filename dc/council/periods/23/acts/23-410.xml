@@ -56,6 +56,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§1-1001.05" codified:doc="D.C. Code" codified:path="§1-1001.05" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-1001.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1001.05">
+          <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 3, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1001.05(Perm)">Permanent Version</cite>.*
+      </text>
+        </codify:insert>
       </para>
     </para>
   </section>

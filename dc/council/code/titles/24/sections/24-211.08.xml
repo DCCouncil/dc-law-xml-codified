@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>24-211.08</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on July 16, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§24-211.08(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Voting assistance and notifications to inmates in Department of Corrections custody.</heading>
   <para>
     <num>(a)</num>
@@ -23,6 +26,10 @@
     <text>The Department shall include information about the District voting rights of individuals currently incarcerated or with a criminal record in its Inmate Handbook or other similar resource provided to inmates.</text>
   </para>
   <para>
+    <num>(b-1)</num>
+    <text>Within 10 business days after the effective date of the Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020, passed on emergency basis on July 7, 2020 (Enrolled version of Bill 23-825) ("act"), the Department shall notify eligible individuals in its care or custody of their voting rights pursuant to section 201 of the act.</text>
+  </para>
+  <para>
     <num>(c)</num>
     <text>Beginning on April 26, 2019, and every 6 months thereafter, the Department shall provide to the Office on Returning Citizen Affairs the names and contact information of inmates released from its custody in the prior 6 months.</text>
   </para>
@@ -33,5 +40,8 @@
     <annotation app="2020-07-22" doc="D.C. Act 23-336" eff="2020-07-22" path="§202" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§202" codified:display="Note" app="2020-10-28" eff="2020-10-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-437" path="§202">§ 202 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
     <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§202" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§202" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§202" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§202" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-151" path="§202">§ 202 of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
   </annotations>
 </section>

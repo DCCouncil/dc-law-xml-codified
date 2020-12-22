@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>5-1107</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on July 16, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§5-1107(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Authority of the Office and processing of complaint.</heading>
   <para>
     <num>(a)</num>
@@ -87,8 +90,35 @@
     </para>
   </para>
   <para>
+    <num>(g-1)</num>
+    <para>
+      <num>(1)</num>
+      <text>If the Executive Director discovers evidence of abuse or misuse of police powers that was not alleged by the complainant in the complaint, the Executive Director may:</text>
+      <para>
+        <num>(A)</num>
+        <text>Initiate the Executive Director's own complaint against the subject police officer; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Take any of the actions described in subsection (g)(2) through (6) of this section.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The authority granted pursuant to paragraph (1) of this subsection shall include circumstances in which the subject police officer failed to:</text>
+      <para>
+        <num>(A)</num>
+        <text>Intervene in or subsequently report any use of force incident in which the subject police officer observed another law enforcement officer, including an MPD officer, utilizing excessive force or engaging in any type of misconduct, pursuant to MPD General Order 901.07, its successor directive, or a similar local or federal directive; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Immediately report to their supervisor any violations of the rules and regulations of the MPD committed by any other MPD officer, and each instance of their use of force or a use of force committed by another MPD officer, pursuant to MPD General Order 201.26, or any successor directive.</text>
+      </para>
+    </para>
+  </para>
+  <para>
     <num>(h)</num>
-    <text>The Executive Director shall notify in writing the complainant and the subject police officer or officers of the action taken under subsection (g) of this section. If the complaint is dismissed, the notice shall be accompanied by a brief statement of the reasons for the dismissal, and the Executive Director shall notify the complainant that the complaint may be brought to the attention of the Police Chief who may direct that the complaint be investigated and that appropriate action be taken.</text>
+    <text>The Executive Director shall notify in writing the complainant and the subject police officer or officers of the action taken under subsection (g) or (g-1) of this section. If the complaint is dismissed, the notice shall be accompanied by a brief statement of the reasons for the dismissal, and the Executive Director shall notify the complainant that the complaint may be brought to the attention of the Police Chief who may direct that the complaint be investigated and that appropriate action be taken.</text>
   </para>
   <para>
     <num>(h-1)</num>
@@ -158,5 +188,9 @@
     <annotation app="2020-07-22" doc="D.C. Act 23-336" eff="2020-07-22" path="§105|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§105|(b)" codified:display="Note" app="2020-10-28" eff="2020-10-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-437" path="§105|(b)">§ 105(b) of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
     <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§105|(b)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§105|(b)" type="History" display="false"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§105|(b)|(1)" type="History"/>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§105|(b)|(2)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§105|(b)" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-151" path="§105|(b)">§ 105(b) of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
   </annotations>
 </section>

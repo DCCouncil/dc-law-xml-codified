@@ -402,6 +402,20 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>3B</num>
+    <heading>Use of Deadly Force.</heading>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="I" type="History" display="false"/>
+    <xi:include href="./sections/5-351.01.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3C</num>
+    <heading>Limitation on military weaponry.</heading>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="I" type="History" display="false"/>
+    <xi:include href="./sections/5-361.01.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>4</num>
     <heading>Fire and Emergency Services Department.</heading>
     <container>
@@ -775,6 +789,20 @@
       <xi:include href="./sections/5-1139.xml"/>
       <xi:include href="./sections/5-1140.xml"/>
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11A</num>
+    <heading>Use of Force Review Board.</heading>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="I" type="History" display="false"/>
+    <xi:include href="./sections/5-1151.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>11B</num>
+    <heading>Police Reform Commission.</heading>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="I" type="History" display="false"/>
+    <xi:include href="./sections/5-1161.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
