@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-242</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on July 16, 2021. To view the text of this section after the expiration of all emergency and/or temporary legislation effecting this section, click this link: <cite path="§7-242(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Use and disclosure of health and human services information.</heading>
   <para>
     <num>(a)</num>
@@ -101,7 +98,7 @@
       </para>
       <para>
         <num>(K)</num>
-        <text>Civil, administrative, or criminal proceedings or actions;</text>
+        <text>Civil, administrative, or criminal proceedings or actions; and</text>
       </para>
     </para>
     <para>
@@ -113,12 +110,8 @@
       </para>
       <para>
         <num>(B)</num>
-        <text>The agency or service provider receiving the health and human services information shall affirm in writing that any individually identifiable health information shall be treated in accordance with HIPAA; and</text>
+        <text>The agency or service provider receiving the health and human services information shall affirm in writing that any individually identifiable health information shall be treated in accordance with HIPAA.</text>
       </para>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>To aid in the development of the report required by <cite path="§22-4234|(b-3)">§ 22-4234(b-3)</cite>.</text>
     </para>
   </para>
   <para>
@@ -173,10 +166,5 @@
     <annotation app="2020-08-05" doc="D.C. Act 23-357" eff="2020-08-05" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-423" path="§2" codified:display="Note" app="2020-10-26" eff="2020-10-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-423" path="§2">§ 2 of Criminal Justice Coordinating Council Information Sharing Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-423, Oct. 26, 2020, 67 DCR 12830)</cite>.</annotation>
     <annotation app="2020-10-26" doc="D.C. Act 23-423" eff="2020-10-26" path="§2" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-150" eff="2020-12-03" path="§2" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-150" eff="2020-12-03" path="§2|(a)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-150" eff="2020-12-03" path="§2|(b)" type="History"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-150" eff="2020-12-03" path="§2|(c)" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-150" path="§2" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-150" path="§2">§ 2 of Criminal Justice Coordinating Council Information Sharing Temporary Amendment Act of 2020 (D.C. Law 23-150, Dec. 3, 2020, 67 DCR 9902)</cite>.</annotation>
   </annotations>
 </section>
