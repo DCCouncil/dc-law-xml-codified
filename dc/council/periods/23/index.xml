@@ -3,6 +3,8 @@
   <heading>Council Period 23</heading>
   <collection name="covid-19">
     <heading>COVID-19 Related Legislation</heading>
+    <xi:include href="./acts/23-524.xml"/>
+    <xi:include href="./laws/23-153.xml"/>
     <xi:include href="./laws/23-148.xml"/>
     <xi:include href="./laws/23-147.xml"/>
     <xi:include href="./laws/23-145.xml"/>
@@ -30,6 +32,7 @@
     <heading>Permanent Laws</heading>
     <collection name="effective">
       <heading>Laws</heading>
+      <xi:include href="./laws/23-152.xml"/>
       <xi:include href="./laws/23-149.xml"/>
       <xi:include href="./laws/23-138.xml"/>
       <xi:include href="./laws/23-135.xml"/>
