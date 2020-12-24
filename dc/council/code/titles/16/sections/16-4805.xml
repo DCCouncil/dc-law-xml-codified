@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>16-4805</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on June 2, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§16-4805(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Petition for approval of standby guardianship.</heading>
   <para>
     <num>(a)</num>
@@ -42,7 +45,7 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>An adverse immigration action against the designator.</text>
+        <text>An adverse immigration action against the designator;</text>
       </para>
     </para>
     <para>
@@ -123,10 +126,6 @@
     <text>If filed after the triggering event, the petition shall be filed as soon as practicable after the occurrence of the triggering event, but in no event later than 90 days after the triggering event.</text>
   </para>
   <para>
-    <num>(d-1)</num>
-    <text>Except by order of the Court, no records in an action filed on or after July 31, 2019, over which the Court has jurisdiction under this section shall be open to inspection by anyone other than the parties or authorized Court staff. The Court, upon a proper showing of reasonable grounds, may furnish certified copies of the records, or portions thereof, to the parties.</text>
-  </para>
-  <para>
     <num>(e)</num>
     <text>The authority of the standby guardian shall cease upon his or her failure to file the petition within 90 days, but shall recommence upon the filing of the petition.</text>
   </para>
@@ -143,13 +142,12 @@
     <annotation app="2020-07-27" doc="D.C. Act 23-345" eff="2020-07-27" path="§2|(d)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-432" path="§2|(d)" codified:display="Note" app="2020-10-06" eff="2020-10-06">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-432" path="§2|(d)">§ 2(d) of Standby Guardian Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-432, Oct. 6, 2020, 0 DCR 0)</cite>.</annotation>
     <annotation app="2020-10-06" doc="D.C. Act 23-432" eff="2020-10-06" path="§2|(d)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-145" path="§2|(d)" codified:display="Note" app="2020-10-20" eff="2020-10-20">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-145" path="§2|(d)">§ 2(d) of Standby Guardian Temporary Amendment Act of 2020 [Effective from October 20, 2020] (D.C. Law 23-145, Oct. 20, 2020, 67 DCR 9916)</cite>.</annotation>
-    <annotation app="2020-10-20" doc="D.C. Law 23-145" eff="2020-10-20" path="§2|(d)" type="History" display="false"/>
-    <annotation app="2020-12-08" doc="D.C. Law 23-153" eff="2020-12-08" path="§2|(d)|(1)|(A)|(i)" type="History"/>
-    <annotation app="2020-12-08" doc="D.C. Law 23-153" eff="2020-12-08" path="§2|(d)|(1)|(A)|(ii)" type="History"/>
-    <annotation app="2020-12-08" doc="D.C. Law 23-153" eff="2020-12-08" path="§2|(d)|(1)|(A)|(iii)" type="History"/>
-    <annotation app="2020-12-08" doc="D.C. Law 23-153" eff="2020-12-08" path="§2|(d)|(1)|(B)" type="History"/>
-    <annotation app="2020-12-08" doc="D.C. Law 23-153" eff="2020-12-08" path="§2|(d)|(1)|(C)" type="History"/>
-    <annotation app="2020-12-08" doc="D.C. Law 23-153" eff="2020-12-08" path="§2|(d)|(2)" type="History"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-145" eff="2020-10-20" path="§4|(b)" type="History" display="false"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-145" eff="2020-10-20" path="§2|(d)|(1)|(A)" type="History"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-145" eff="2020-10-20" path="§2|(d)|(1)|(B)" type="History"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-145" eff="2020-10-20" path="§2|(d)|(1)|(C)" type="History"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-145" eff="2020-10-20" path="§2|(d)|(2)" type="History"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-145" eff="2020-10-20" path="§2|(d)|(3)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-145" path="§4|(b)" codified:display="Note" app="2020-10-20" eff="2020-10-20">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-145" path="§4|(b)">§ 4(b) of Standby Guardian Temporary Amendment Act of 2020 [Effective from October 20, 2020] (D.C. Law 23-145, Oct. 20, 2020, 67 DCR 9916)</cite>.</annotation>
   </annotations>
 </section>

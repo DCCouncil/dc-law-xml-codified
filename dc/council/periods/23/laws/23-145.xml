@@ -32,12 +32,19 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph (1) is amended by striking the phrase "or who is periodically incapable of caring for the needs of a child due to the parent's incapacity or debilitation resulting from illness," and inserting the phrase "who is periodically incapable of caring for the needs of a child due to the parent's incapacity or debilitation resulting from illness, or who may be subject to an adverse immigration action," in its place.</text>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-4801|(1)">
+          <find>or who is periodically incapable of caring for the needs of a child due to the parent's incapacity or debilitation resulting from illness,</find>
+          <replace>who is periodically incapable of caring for the needs of a child due to the parent's incapacity or debilitation resulting from illness, or who may be subject to an adverse immigration action,</replace>
+        </codify:find-replace>
       </para>
       <para codify:path="(2)">
         <num>(2)</num>
         <text>Paragraph (2) is amended by striking "ill parents" and inserting "parents who may be ill or subject to an adverse immigration action" in its place.</text>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-4801|(2)">
+          <find>ill parents</find>
+          <replace>parents who may be ill or subject to an adverse immigration action</replace>
+        </codify:find-replace>
       </para>
-      <codify:temporary doc="D.C. Code" path="§16-4801" display-template="" codified:doc="D.C. Code" codified:path="§16-4801" codified:display="Note"/>
     </para>
     <para codify:path="§16-4802">
       <num>(b)</num>
@@ -45,12 +52,17 @@
       <para codify:path="(1)|num">
         <num>(1)</num>
         <text>Paragraph (1) is redesignated as Paragraph (1A).</text>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-4802|(1A)">
+          <find>(1)</find>
+          <replace>(1A)</replace>
+        </codify:find-replace>
       </para>
       <para>
         <num>(2)</num>
         <text>A new paragraph (1) is added to read as follows:</text>
         <include lvl="1">
           <para>
+            <codify:insert before="(1A)" codified:doc="D.C. Code" codified:path="§16-4802|(1)"/>
             <num>(1)</num>
             <text>"Adverse immigration action" includes any of the following events:</text>
             <para>
@@ -86,6 +98,7 @@
         <text>A new paragraph (5A) is added to read as follows:</text>
         <include lvl="1">
           <para>
+            <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§16-4802|(5A)"/>
             <num>(5A)</num>
             <text>"COVID-19" means the disease caused by the novel coronavirus SARS-CoV-2.</text>
           </para>
@@ -97,6 +110,7 @@
         <text>Paragraph (6) is amended to read as follows:</text>
         <include lvl="1">
           <para>
+            <codify:replace codified:doc="D.C. Code" codified:path="§16-4802|(6)"/>
             <num>(6)</num>
             <text>"Debilitation" means those periods when a person cannot care for that person's minor child as a result of:</text>
             <para>
@@ -114,12 +128,17 @@
       <para codify:path="(8)">
         <num>(5)</num>
         <text>Paragraph (8) is amended by striking the phrase ", who has been diagnosed, in writing, by a licensed clinician to suffer from a chronic condition caused by injury, disease, or illness from which, to a reasonable degree of probability, the designator may not recover." and inserting a period in its place.</text>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-4802|(8)">
+          <find>, who has been diagnosed, in writing, by a licensed clinician to suffer from a chronic condition caused by injury, disease, or illness from which, to a reasonable degree of probability, the designator may not recover.</find>
+          <replace>.</replace>
+        </codify:find-replace>
       </para>
       <para codify:path="(10)">
         <num>(6)</num>
         <text>Paragraph (10) is amended to read as follows:</text>
         <include lvl="1">
           <para>
+            <codify:replace codified:doc="D.C. Code" codified:path="§16-4802|(10)"/>
             <num>(10)</num>
             <text>"Incapacity" means:</text>
             <para>
@@ -139,6 +158,7 @@
         <text>Paragraph (13) is amended to read as follows:</text>
         <include lvl="1">
           <para>
+            <codify:replace codified:doc="D.C. Code" codified:path="§16-4802|(13)"/>
             <num>(13)</num>
             <text>"Triggering event" means any of the following events:</text>
             <para>
@@ -181,12 +201,14 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:temporary doc="D.C. Code" path="§16-4802" display-template="" codified:doc="D.C. Code" codified:path="§16-4802" codified:display="Note"/>
     </para>
     <para>
       <num>(c)</num>
       <text>Section 16-4804(a) is amended by striking the phrase "the designator's health" and inserting the phrase "the designator's health or immigration status" in its place.</text>
-      <codify:temporary doc="D.C. Code" path="§16-4804" display-template="" codified:doc="D.C. Code" codified:path="§16-4804" codified:display="Note"/>
+      <codify:find-replace path="§16-4804|(a)" count="1" codified:doc="D.C. Code" codified:path="§16-4804|(a)">
+        <find>the designator's health</find>
+        <replace>the designator's health or immigration status</replace>
+      </codify:find-replace>
     </para>
     <para codify:path="§16-4805|(b)">
       <num>(d)</num>
@@ -197,16 +219,25 @@
         <para codify:path="(B)">
           <num>(A)</num>
           <text>Subparagraph (B) is amended by striking the phrase "; or" and inserting a semicolon in its place.</text>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-4805|(b)|(3)|(B)">
+            <find>; or</find>
+            <replace>;</replace>
+          </codify:find-replace>
         </para>
         <para codify:path="(C)">
           <num>(B)</num>
           <text>Subparagraph (C) is amended by striking the semicolon and inserting the phrase "; or" in its place.</text>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-4805|(b)|(3)|(C)">
+            <find>;</find>
+            <replace>; or</replace>
+          </codify:find-replace>
         </para>
         <para>
           <num>(C)</num>
           <text>A new subparagraph (D) is added to read as follows:</text>
           <include lvl="2">
             <para>
+              <codify:insert codified:doc="D.C. Code" codified:path="§16-4805|(b)|(3)|(D)"/>
               <num>(D)</num>
               <text>An adverse immigration action against the designator;</text>
             </para>
@@ -217,19 +248,23 @@
       <para codify:path="(4)">
         <num>(2)</num>
         <text>Paragraph (4) is amended by striking the phrase "that the designator suffers" and inserting the phrase "that the designator experienced an adverse immigration action or suffers" in its place.</text>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-4805|(b)|(4)">
+          <find>that the designator suffers</find>
+          <replace>that the designator experienced an adverse immigration action or suffers</replace>
+        </codify:find-replace>
       </para>
       <para>
         <num>(3)</num>
         <text>A new paragraph (7A) is added to read as follows:</text>
         <include lvl="1">
           <para>
+            <codify:insert after="(7)" codified:doc="D.C. Code" codified:path="§16-4805|(b)|(7A)"/>
             <num>(7A)</num>
             <text>If an adverse immigration action is the triggering event, documentation demonstrating that an adverse immigration action occurred;</text>
           </para>
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:temporary doc="D.C. Code" path="§16-4805" display-template="" codified:doc="D.C. Code" codified:path="§16-4805" codified:display="Note"/>
     </para>
     <para codify:path="§16-4806">
       <num>(e)</num>
@@ -237,6 +272,10 @@
       <para codify:path="(b)">
         <num>(1)</num>
         <text>Subsection (b) is amended by striking the phrase "or dies." and inserting the phrase "dies, or is subject to an adverse immigration action." in its place.</text>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-4806|(b)">
+          <find>or dies.</find>
+          <replace>dies, or is subject to an adverse immigration action.</replace>
+        </codify:find-replace>
       </para>
       <para codify:path="(c)">
         <num>(2)</num>
@@ -244,16 +283,25 @@
         <para codify:path="(2)">
           <num>(A)</num>
           <text>Paragraph (2) is amended by striking the phrase "; or" and inserting a semicolon in its place.</text>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-4806|(c)|(2)">
+            <find>; or</find>
+            <replace>;</replace>
+          </codify:find-replace>
         </para>
         <para codify:path="(3)">
           <num>(B)</num>
           <text>Paragraph (3) is amended by striking the period and inserting the phrase "; or" in its place.</text>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-4806|(c)|(3)">
+            <find>.</find>
+            <replace>; or</replace>
+          </codify:find-replace>
         </para>
         <para>
           <num>(C)</num>
           <text>A new paragraph (4) is added to read as follows:</text>
           <include lvl="1">
             <para>
+              <codify:insert codified:doc="D.C. Code" codified:path="§16-4806|(c)|(4)"/>
               <num>(4)</num>
               <text>The documentation demonstrating that an adverse immigration action occurred against the designator.</text>
             </para>
@@ -264,8 +312,11 @@
       <para codify:path="(l)">
         <num>(3)</num>
         <text>Subsection (l) is amended by striking the phrase "medically unable to appear" and inserting the phrase "unable to appear for medical reasons or due to an adverse immigration action" in its place.</text>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§16-4806|(l)">
+          <find>medically unable to appear</find>
+          <replace>unable to appear for medical reasons or due to an adverse immigration action</replace>
+        </codify:find-replace>
       </para>
-      <codify:temporary doc="D.C. Code" path="§16-4806" display-template="" codified:doc="D.C. Code" codified:path="§16-4806" codified:display="Note"/>
     </para>
   </section>
   <section>
@@ -283,6 +334,36 @@
     <para>
       <num>(b)</num>
       <text>This act shall expire after 225 days of its having taken effect.</text>
+      <codify:temporary doc="D.C. Code" path="§16-4801" display-template="" codified:doc="D.C. Code" codified:path="§16-4801" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§16-4801" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-4801">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on June 2, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§16-4801(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
+      <codify:temporary doc="D.C. Code" path="§16-4802" display-template="" codified:doc="D.C. Code" codified:path="§16-4802" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§16-4802" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-4802">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on June 2, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§16-4802(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
+      <codify:temporary doc="D.C. Code" path="§16-4804" display-template="" codified:doc="D.C. Code" codified:path="§16-4804" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§16-4804" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-4804">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on June 2, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§16-4804(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
+      <codify:temporary doc="D.C. Code" path="§16-4805" display-template="" codified:doc="D.C. Code" codified:path="§16-4805" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§16-4805" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-4805">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on June 2, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§16-4805(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
+      <codify:temporary doc="D.C. Code" path="§16-4806" display-template="" codified:doc="D.C. Code" codified:path="§16-4806" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§16-4806" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-4806">
+        <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on June 2, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§16-4806(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
     </para>
   </section>
 </document>
