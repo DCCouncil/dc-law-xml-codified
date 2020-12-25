@@ -2,7 +2,10 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-539</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on April 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite path="§2-539(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by temporary legislation that will expire on April 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§2-539(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§2-539(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Definitions.</heading>
   <para>
@@ -102,19 +105,29 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§808|(c)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§808|(c)">§ 808(c) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 [Effective August 19, 2020 through October 8, 2020] (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§808|(c)" type="History" display="false"/>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§808|(c)" type="History" display="false"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§808|(c)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§808|(c)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§808|(c)">§ 808(c) of Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020] (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation app="2020-12-22" doc="D.C. Act 23-555" eff="2020-12-22" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2020-12-22" doc="D.C. Act 23-555" eff="2020-12-22" path="§2|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-555" path="§2|(c)" codified:display="Note" app="2020-12-22" eff="2020-12-22">For temporary (90 days) , see <cite doc="D.C. Act 23-555" path="§2|(c)">§ 2(c) of FOIA Tolling Emergency Amendment Act of 2020 (D.C. Act 23-555, Dec. 22, 2020, 0 DCR 0)</cite>.</annotation>
   </annotations>
   <para>
     <num>(c)</num>
-    <text>For the purposes of <cite path="2|5|II">this subchapter</cite>, the term "COVID-19 closure" means:</text>
+    <text>For the purposes of <cite path="2|5|II">this subchapter</cite>, the term:</text>
     <para>
       <num>(1)</num>
-      <text>A period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>; or</text>
+      <text>"COVID-19 closure" means:</text>
+      <para>
+        <num>(A)</num>
+        <text>A period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A period of time during which a public body is closed due to the COVID-19 coronavirus disease, as determined by the personnel authority of the public body.</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>A period of time during which a public body is closed due to the COVID-19 coronavirus disease, as determined by the personnel authority of the public body.</text>
+      <text>"Initial COVID-19 closure" means March 11, 2020 through January 15, 2021.</text>
     </para>
   </para>
 </section>
