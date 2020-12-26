@@ -13,10 +13,10 @@
     </canonical-urls>
     <build xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="dc-law-xml" commit="5cd8646b8843fda9d02102d287b38203a74f01bd"/>
+        <repository name="dc-law-xml" commit="dd2df383e833ef43247d3d03fbcf2660fea86ac0"/>
       </repositories>
       <platform version="2019.2.12" reproducible="true"/>
-      <date>2020-12-25 21:28:53</date>
+      <date>2020-12-26 05:04:17</date>
     </build>
   </meta>
   <xi:include href="./dc/council/code/index.xml"/>
@@ -24,7 +24,6 @@
     <heading>D.C. Laws Codified in the D.C. Code</heading>
     <heading type="search">D.C. Laws</heading>
     <text>For laws not codified in the D.C. Code, please visit <a href="http://lims.dccouncil.us">LIMS</a>.</text>
-    <xi:include href="./dc/council/periods/24/index.xml"/>
     <xi:include href="./dc/council/periods/23/index.xml"/>
     <xi:include href="./dc/council/periods/22/index.xml"/>
     <xi:include href="./dc/council/periods/21/index.xml"/>
