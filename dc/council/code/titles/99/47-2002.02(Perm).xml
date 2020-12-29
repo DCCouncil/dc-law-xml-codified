@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>47-2002.02</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on March 22, 2021. To view the text of this section after the expiration of all emergency and/or temporary legislation effecting this section, click this link: <cite path="§47-2002.02(Perm)">Permanent Version</cite>.*
-      </text>
+  <num>47-2002.02(Perm)</num>
   <heading>Tax on gross receipts for transient lodgings or accommodations; food or drink for immediate consumption; spirits sold for consumption on premises; rental vehicles.</heading>
   <text>A tax, separate from, and in addition to, the tax imposed pursuant to <cite path="§47-2002">§ 47-2002</cite>, is imposed on vendors engaging in the business activities listed in paragraphs (1) and (2) of this section for the privilege of selling at retail certain tangible personal property and for the privilege of selling certain selected services (defined as “retail sales” and “sale at retail” pursuant to <cite path="§47-2001|(n)|(1)">§ 47-2001(n)(1)</cite>). The rate of the tax shall be:</text>
   <para>
@@ -26,15 +23,11 @@
     </para>
     <para>
       <num>(B)</num>
-      <text>Spiritous or malt liquors, beers, and wine sold for consumption on the premises where sold;</text>
+      <text>Spiritous or malt liquors, beers, and wine sold for consumption on the premises where sold; or</text>
     </para>
     <para>
       <num>(C)</num>
-      <text>Rental or leasing of rental vehicles and utility trailers as defined in <cite path="§50-1505.01|(8)">§ 50-1505.01(8)</cite> and (9); or</text>
-    </para>
-    <para>
-      <num>(D)</num>
-      <text>Spirituous or malt liquors, beers, and wine sold by an alcoholic beverage licensee acting under authority of §§ <cite path="§25-112|(h)|(1)">25-112(h)(1)</cite>, <cite path="§25-113|(a)|(3)|(C)">25-113(a)(3)(C)</cite>, or <cite path="§25-113.01|(f)">25-113.01(f)</cite> or <cite path="§25-113.01|(g)">(g)</cite>.</text>
+      <text>Rental or leasing of rental vehicles and utility trailers as defined in <cite path="§50-1505.01|(8)">§ 50-1505.01(8)</cite> and (9).</text>
     </para>
   </para>
   <annotations>
@@ -48,6 +41,7 @@
     <annotation doc="D.C. Law 12-142" type="History">Aug. 12, 1998, D.C. Law 12-142, § 3(d), 45 DCR 4826</annotation>
     <annotation doc="D.C. Law 18-364" type="History">Apr. 8, 2011, D.C. Law 18-364, § 2(c), 58 DCR 976</annotation>
     <annotation doc="D.C. Law 19-21" type="History">Sept. 14, 2011, D.C. Law 19-21, § 7002(a)(3), 58 DCR 6226</annotation>
+    <annotation doc="D.C. Law 23-16" path="§7062|(c)" type="History">Sept. 11, 2019, D.C. Law 23-16, § 7062(c), 66 DCR 8621</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 7002(a)(3) of Fiscal Year 2012 Budget Support Emergency Act of 2011 (D.C. Act 19-93, June 29, 2011,  58 DCR 5599).</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 19-21">D.C. Law 19-21</cite>, in par. (1)(B), substituted “net charges and additional charges received by the room remarketer” for “net sale or net charges received from the transient by the room remarketer”.</annotation>
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-364">D.C. Law 18-364</cite> designated the existing text of par. (1) as par. (1)(A); and added par. (1)(B).</annotation>
@@ -57,18 +51,5 @@
     <annotation type="Cross References">Washington Convention Center Authority, “dedicated taxes” defined, see <cite path="§10-1202.01">§ 10-1202.01</cite>.</annotation>
     <annotation type="Cross References">Washington Convention Center Authority, collection and transfer of taxes to Fund, see <cite path="§10-1203.07">§ 10-1203.07</cite>.</annotation>
     <annotation type="Cross References">Washington Convention Center Authority, audit of accounts and operations, certification of sufficiency of sum of projected revenues, surtax, see <cite path="§10-1203.05">§ 10-1203.05</cite>.</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-91" path="§7062|(c)" codified:display="Note" app="2019-07-22" eff="2019-07-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-91" path="§7062|(c)">§ 7062(c) of Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019, 66 DCR 8497)</cite>.</annotation>
-    <annotation app="2019-07-22" doc="D.C. Act 23-91" eff="2019-07-22" path="§7062|(c)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" path="§7062|(c)" codified:display="Note" app="2019-09-04" eff="2019-09-04">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-112" path="§7062|(c)">§ 7062(c) of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
-    <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7062|(c)" type="History" display="false"/>
-    <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7062|(c)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-416" path="§5|(a)" codified:display="Note" app="2020-12-05" eff="2020-10-01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-416" path="§5|(a)">§ 5(a) of Fiscal Year 2021 Budget Support Clarification Emergency Amendment Act of 2020 (D.C. Act 23-416, Oct. 1, 2020, 67 DCR 12245)</cite>.</annotation>
-    <annotation app="2020-12-05" doc="D.C. Act 23-416" eff="2020-10-01" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2020-12-05" doc="D.C. Act 23-416" eff="2020-10-01" path="§5|(a)" type="History" display="false"/>
-    <annotation app="2020-12-22" doc="D.C. Act 23-554" eff="2020-12-22" path="§4|(a)" type="History" display="false"/>
-    <annotation app="2020-12-22" doc="D.C. Act 23-554" eff="2020-12-22" path="§4|(a)|(1)" type="History"/>
-    <annotation app="2020-12-22" doc="D.C. Act 23-554" eff="2020-12-22" path="§4|(a)|(2)" type="History"/>
-    <annotation app="2020-12-22" doc="D.C. Act 23-554" eff="2020-12-22" path="§4|(a)|(3)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-554" path="§4|(a)" codified:display="Note" app="2020-12-22" eff="2020-12-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-554" path="§4|(a)">§ 4(a) of Fiscal Year 2021 Budget Support Clarification Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-554, Dec. 22, 2020, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
