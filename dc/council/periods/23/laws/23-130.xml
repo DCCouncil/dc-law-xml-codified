@@ -6337,10 +6337,6 @@
       <para codify:path="§2-537|(a)">
         <num>(b)</num>
         <text>Section 207(a) (D.C. Official Code § 2-537(a)) is amended by striking the phrase "Sundays, and" and inserting the phrase "Sundays, days of a COVID-19 closure, and" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-537|(a)">
-          <find>Sundays,</find>
-          <replace>Sundays,</replace>
-        </codify:find-replace>
         <codify:temporary doc="D.C. Code" path="§2-537" codified:doc="D.C. Code" codified:path="§2-537" codified:display="Note"/>
         <codify:insert doc="D.C. Code" path="§2-537" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-537">
           <text>
