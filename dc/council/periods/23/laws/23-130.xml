@@ -5909,7 +5909,6 @@
         <text>Section 2 (D.C. Official Code § 1-1001.02) is amended by adding a new paragraph (31) to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert doc="D.C. Code" path="§1-1001.02" codified:doc="D.C. Code" codified:path="§1-1001.02|(31)"/>
             <num>(31)</num>
             <text>For the June 2, 2020, Primary Election and the June 16, 2020, Ward 2 Special Election, the term "polling place" shall include Vote Centers operated by the Board throughout the District.</text>
           </para>
@@ -6338,10 +6337,6 @@
       <para codify:path="§2-537|(a)">
         <num>(b)</num>
         <text>Section 207(a) (D.C. Official Code § 2-537(a)) is amended by striking the phrase "Sundays, and" and inserting the phrase "Sundays, days of a COVID-19 closure, and" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-537|(a)">
-          <find>Sundays,</find>
-          <replace>Sundays,</replace>
-        </codify:find-replace>
         <codify:temporary doc="D.C. Code" path="§2-537" codified:doc="D.C. Code" codified:path="§2-537" codified:display="Note"/>
         <codify:insert doc="D.C. Code" path="§2-537" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-537">
           <text>
