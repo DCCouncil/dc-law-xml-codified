@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1001.05</num>
   <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 3, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-1001.05(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
       *NOTE: This section includes amendments by temporary legislation that will expire on April 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-1001.05(Perm)">Permanent Version</cite>.*
       </text>
   <text>
@@ -422,7 +425,7 @@
       <num>(4)</num>
       <para>
         <num>(A)</num>
-        <text>The Board shall select, appoint, and fix the compensation of temporary election workers to operate the polling places, including precinct captains who shall oversee the operations of polling places in accordance with rules prescribed by the Board, and polling place workers who shall assist the precinct captains. Precinct captains shall be qualified registered electors in the District. Polling place workers shall be qualified registered electors in the District; provided, that the Board may also appoint as polling place workers individuals who are at least 16 years of age on the day that they are working in this capacity, who reside in the District of Columbia, and who are enrolled in or have graduated from a public or private secondary school or an institution of higher education. Any polling place worker shall be required to:</text>
+        <text>Except as provided in subparagraph (C) of this paragraph, the Board shall select, appoint, and fix the compensation of temporary election workers to operate the polling places, including precinct captains who shall oversee the operations of polling places in accordance with rules prescribed by the Board, and polling place workers who shall assist the precinct captains. Precinct captains shall be qualified registered electors in the District. Polling place workers shall be qualified registered electors in the District; provided, that the Board may also appoint as polling place workers individuals who are at least 16 years of age on the day that they are working in this capacity, who reside in the District of Columbia, and who are enrolled in or have graduated from a public or private secondary school or an institution of higher education. Any polling place worker shall be required to:</text>
         <para>
           <num>(i)</num>
           <text>Complete at least 4 hours of training;</text>
@@ -439,6 +442,10 @@
       <para>
         <num>(B)</num>
         <text>The Board shall establish standards to measure the performance of polling place workers, including the past performance of a polling place worker, and shall consider the polling place worker’s past performance before appointing him or her to work as a polling place worker in a subsequent election.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>For the November 3, 2020 General Election, election workers, including precinct captains and polling place workers, who are District government employees are not required to be District residents or qualified electors.</text>
       </para>
     </para>
   </para>
@@ -736,8 +743,10 @@
     <annotation app="2020-08-13" doc="D.C. Act 23-382" eff="2020-08-13" path="§2|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§804|(b)|(2)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§804|(b)|(2)">§ 804(b)(2) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 [Effective August 19, 2020 through October 8, 2020] (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§804|(b)|(2)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-410" path="§2|(b)|(2)" codified:display="Note" app="2020-10-05" eff="2020-10-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-410" path="§2|(b)|(2)">§ 2(b)(2) of Election Worker Residency Requirement Waiver Emergency Amendment Act of 2020 [Effective from October 5, 2020] (D.C. Act 23-410, Oct. 5, 2020, 67 DCR 11511)</cite>.</annotation>
     <annotation app="2020-10-05" doc="D.C. Act 23-410" eff="2020-10-05" path="§2|(b)|(2)" type="History" display="false"/>
+    <annotation app="2020-10-05" doc="D.C. Act 23-410" eff="2020-10-05" path="§2|(b)|(1)" type="History"/>
+    <annotation app="2020-10-05" doc="D.C. Act 23-410" eff="2020-10-05" path="§2|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-410" path="§2|(b)|(2)" codified:display="Note" app="2020-10-05" eff="2020-10-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-410" path="§2|(b)|(2)">§ 2(b)(2) of Election Worker Residency Requirement Waiver Emergency Amendment Act of 2020 [Effective from October 5, 2020] (D.C. Act 23-410, Oct. 5, 2020, 67 DCR 11511)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(b)" type="History" display="false"/>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(b)|(1)" type="History"/>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(b)|(2)" type="History"/>
