@@ -2239,6 +2239,17 @@
           <annotation type="Applicability" doc="D.C. Law 23-90" path="§2|(b)|(2)" codified:display="Note" app="2020-05-06" eff="2020-05-06">Applicability of <cite doc="D.C. Law 23-90" path="">D.C. Law 23-90</cite>: <cite doc="D.C. Law 23-90" path="§3">§ 3 of D.C. Law 23-90</cite> provided that the creation of this section by <cite doc="D.C. Law 23-90" path="§2|(b)|(2)">§ 2(b)(2) of D.C. Law 23-90</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
           <annotation app="2020-05-06" doc="D.C. Law 23-90" eff="2020-05-06" path="§2|(b)|(2)" type="History"/>
         </container>
+        <container>
+          <prefix>Part</prefix>
+          <num>K</num>
+          <heading>Long-Term Care Facilities.</heading>
+          <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="" type="History" display="false"/>
+          <xi:include href="./sections/2-1402.101.xml"/>
+          <xi:include href="./sections/2-1402.102.xml"/>
+          <xi:include href="./sections/2-1402.103.xml"/>
+          <xi:include href="./sections/2-1402.104.xml"/>
+          <xi:include href="./sections/2-1402.105.xml"/>
+        </container>
       </container>
       <container>
         <prefix>Subchapter</prefix>
