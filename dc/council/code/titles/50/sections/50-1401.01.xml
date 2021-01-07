@@ -61,6 +61,10 @@
           <text>Any other criteria as the Mayor may establish.</text>
         </para>
       </para>
+      <para placeholder="Not Funded">
+        <num>(B-i)</num>
+        <text>Not Funded.</text>
+      </para>
       <para>
         <num>(C)</num>
         <text>An applicant under the age of 21, shall meet the following additional qualifications in addition to the qualifications in subparagraph (B) of this paragraph:</text>
@@ -526,6 +530,11 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3053|(a)|(2)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3053|(a)|(3)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7185" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§14|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§8|(a)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§8|(a)|(2)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-158" path="§8|(a)" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-158" path="">D.C. Law 23-158</cite>: <cite doc="D.C. Law 23-158" path="§14">§ 14 of D.C. Law 23-158</cite> provided that the change made to this section by <cite doc="D.C. Law 23-158" path="§8|(a)">§ 8(a) of D.C. Law 23-158</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§8|(a)" type="History"/>
   </annotations>
   <para>
     <num>(h)</num>

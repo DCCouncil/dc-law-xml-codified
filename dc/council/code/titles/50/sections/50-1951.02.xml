@@ -77,6 +77,10 @@
       <num>(7)</num>
       <text>As identified in MPD's crash report, the apparent human factor or factors that contributed to the collision, such as intoxication, driver inattention or distraction, speeding, or failure to yield.</text>
     </para>
+    <para placeholder="Not Funded">
+      <num>(8)</num>
+      <text>Not Funded.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -88,5 +92,11 @@
     <annotation app="2018-03-29" doc="D.C. Law 22-77" eff="2018-03-29" path="§2|(a)|(1)" type="History"/>
     <annotation app="2018-03-29" doc="D.C. Law 22-77" eff="2018-03-29" path="§2|(a)|(2)" type="History"/>
     <annotation app="2018-03-29" doc="D.C. Law 22-77" eff="2018-03-29" path="§2|(a)|(3)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§14|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(a)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(a)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(a)|(3)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-158" path="§7|(a)" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-158" path="">D.C. Law 23-158</cite>: <cite doc="D.C. Law 23-158" path="§14">§ 14 of D.C. Law 23-158</cite> provided that the change made to this section by <cite doc="D.C. Law 23-158" path="§7|(a)">§ 7(a) of D.C. Law 23-158</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(a)" type="History"/>
   </annotations>
 </section>

@@ -33,6 +33,10 @@
       <num>(7)</num>
       <text>The year, make, model, and type of the motor vehicle that committed the moving infraction.</text>
     </para>
+    <para placeholder="Not Funded">
+      <num>(8)</num>
+      <text>Not Funded.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -50,5 +54,11 @@
     <annotation doc="D.C. Law 22-33" path="§7015" type="Applicability" history="false" app="2017-12-13" eff="2017-12-13"><cite doc="D.C. Law 22-33" path="§7015">Section 7015 of D.C. Law 22-33</cite> repealed <cite doc="D.C. Law 21-155" path="§901">§ 901 of D.C. Law 21-155</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-155">D.C. Law 21-155</cite> have been implemented.</annotation>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7015" type="History" display="false"/>
     <annotation app="2018-03-29" doc="D.C. Law 22-77" eff="2018-03-29" path="§2|(b)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§14|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(b)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(b)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(b)|(3)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-158" path="§7|(b)" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-158" path="">D.C. Law 23-158</cite>: <cite doc="D.C. Law 23-158" path="§14">§ 14 of D.C. Law 23-158</cite> provided that the change made to this section by <cite doc="D.C. Law 23-158" path="§7|(b)">§ 7(b) of D.C. Law 23-158</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2020-12-23" doc="D.C. Law 23-158" eff="2020-12-23" path="§7|(b)" type="History"/>
   </annotations>
 </section>
