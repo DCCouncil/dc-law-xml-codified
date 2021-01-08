@@ -38,7 +38,7 @@
       </include>
       <aftertext>.</aftertext>
     </para>
-    <para>
+    <para codify:path="§1-1001.05|(a)">
       <num>(b)</num>
       <text>Section 5(a) (D.C. Official Code § 1-1001.05(a)) is amended as follows:</text>
       <para>
@@ -49,7 +49,11 @@
         <num>(2)</num>
         <text>A new paragraph (9A-i) is added to read as follows:</text>
         <include lvl="1">
-          <text>(9A-i) For the November 3, 2020, General Election, mail every registered qualified elector an absentee ballot and a postage-paid return envelope;</text>
+          <para>
+            <codify:insert after="(9A-i)" codified:doc="D.C. Code" codified:path="§1-1001.05|(a)|(9A-ii)"/>
+            <num>(9A-ii)</num>
+            <text>[This is a test] ***For the November 3, 2020, General Election, mail every registered qualified elector an absentee ballot and a postage-paid return envelope;</text>
+          </para>
         </include>
         <aftertext>.</aftertext>
       </para>
