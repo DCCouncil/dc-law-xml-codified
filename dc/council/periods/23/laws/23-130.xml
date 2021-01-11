@@ -5909,18 +5909,12 @@
         <text>Section 2 (D.C. Official Code § 1-1001.02) is amended by adding a new paragraph (31) to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert doc="D.C. Code" path="§1-1001.02" codified:doc="D.C. Code" codified:path="§1-1001.02|(31)"/>
             <num>(31)</num>
             <text>For the June 2, 2020, Primary Election and the June 16, 2020, Ward 2 Special Election, the term "polling place" shall include Vote Centers operated by the Board throughout the District.</text>
           </para>
         </include>
         <aftertext>.</aftertext>
         <codify:temporary doc="D.C. Code" path="§1-1001.02" codified:doc="D.C. Code" codified:path="§1-1001.02" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§1-1001.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1001.02">
-          <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on April 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§1-1001.02(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </para>
       <para>
         <num>(b)</num>
