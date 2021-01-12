@@ -2,7 +2,7 @@
 <document xmlns:cache="https://code.dccouncil.us/schemas/cache" xmlns:citations="https://code.dccouncil.us/schemas/citations" xmlns:macro="https://code.dccouncil.us/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" id="D.C. Act 23-384">
   <num type="bill">23-870</num>
   <num type="act">23-384</num>
-  <heading type="short">Protecting Businesses and Workers from COVID-19 Emergency Amendment Act of 2020 [Effective from August 13, 2020]</heading>
+  <heading type="short">Protecting Businesses and Workers from COVID-19 Emergency Amendment Act of 2020</heading>
   <heading type="long">To require, on an emergency basis, employers to adopt and implement social distancing policies that adheres to Mayor's Order 2020-080 or subsequent Mayor's Order, to prohibit retaliation against an employee who refuses to work with or serve an individual who refuses to  comply with Mayor's Order 2020-080, to prohibit retaliation against an employee because the employee tests positive for or is quarantining because of COVID-19, or is caring for someone who has symptoms of or is quarantining because of COVID-19, and to prohibit retaliation against an employee who attempts to exercise any right or protection under title I or to stop or prevent a violation of the worker safety provisions of title I, to authorize the Mayor and Attorney General to administer and enforce workplace and employee protections in title I, to authorize the Attorney General to bring civil actions in a court of competent jurisdiction, to authorize the Chief Procurement Officer to enter into an indefinite duration/indefinite quantity contract to assist eligible businesses in the purchase of personal protective equipment and other supplies related to the containment of COVID-19, to permit federal laws, polices, and standards or a Mayor's Order that contains stricter personal protective equipment standards, to preempt the terms of title I; and to amend the Small and Certified Business Enterprise Act of 2005 to authorize the Mayor to issue grants for small businesses to purchase or receive reimbursements for the purchase of personal protective equipment for their employees.</heading>
   <meta>
     <introduced>2020-07-27</introduced>
@@ -69,6 +69,8 @@
           <text>"Workplace" means any physical structure or space over which an employer maintains control wherein an employee performs work for an employer; workplace does not include the home of an employee who teleworks.</text>
         </para>
       </para>
+      <codify:applicability doc="D.C. Act 23-384" date="2020-12-24" history="false" codified:doc="D.C. Code" codified:path="§2-218.17"/>
+      <codify:emergency doc="D.C. Code" path="§32-141.01" action="creation of" codified:doc="D.C. Code" codified:path="§32-141.01" codified:display="Note"/>
     </section>
     <section>
       <num>102</num>
@@ -88,6 +90,8 @@
           <text>An employer may not disclose the identity of an employee who tests positive except to the Department of Health or another District or federal agency responsible for and engaged in contact tracing and the containment of community spread of COVID-19.</text>
         </para>
       </para>
+      <codify:applicability doc="D.C. Act 23-384" date="2020-12-24" history="false" codified:doc="D.C. Code" codified:path="§2-218.17"/>
+      <codify:emergency doc="D.C. Code" path="§32-141.02" action="creation of" codified:doc="D.C. Code" codified:path="§32-141.02" codified:display="Note"/>
     </section>
     <section>
       <num>103</num>
@@ -127,6 +131,8 @@
         <num>(c)</num>
         <text>No employer or agent thereof may take an adverse employment action against an employee because of actions the employee takes to secure any right or protection contained in <code-cite doc="D.C. Code" path="32|1A-i">this title</code-cite> or to prevent or stop a violation of <code-cite doc="D.C. Code" path="32|1A-i">this title</code-cite>.</text>
       </para>
+      <codify:applicability doc="D.C. Act 23-384" date="2020-12-24" history="false" codified:doc="D.C. Code" codified:path="§2-218.17"/>
+      <codify:emergency doc="D.C. Code" path="§32-141.03" action="creation of" codified:doc="D.C. Code" codified:path="§32-141.03" codified:display="Note"/>
     </section>
     <section>
       <num>104</num>
@@ -181,6 +187,8 @@
           </para>
         </para>
       </para>
+      <codify:applicability doc="D.C. Act 23-384" date="2020-12-24" history="false" codified:doc="D.C. Code" codified:path="§2-218.17"/>
+      <codify:emergency doc="D.C. Code" path="§32-141.04" action="creation of" codified:doc="D.C. Code" codified:path="§32-141.04" codified:display="Note"/>
     </section>
     <section>
       <num>105</num>
@@ -212,6 +220,8 @@
         <num>(b)</num>
         <text>The CPO, or the CPOs designee, shall monitor and review, and may establish standards, procedures, or rules for, IDIQ contracts entered into pursuant to subsection (a) of this section.</text>
       </para>
+      <codify:applicability doc="D.C. Act 23-384" date="2020-12-24" history="false" codified:doc="D.C. Code" codified:path="§2-218.17"/>
+      <codify:emergency doc="D.C. Code" path="§32-141.05" action="creation of" codified:doc="D.C. Code" codified:path="§32-141.05" codified:display="Note"/>
     </section>
     <section>
       <num>106</num>
@@ -224,6 +234,8 @@
         <num>(b)</num>
         <text>To the extent a Mayor's Order issued pursuant to <span codify:value="§§"/>  <code-cite doc="D.C. Code" path="§7-2304" codify:value="7-2304">sections 5</code-cite> and <code-cite doc="D.C. Code" path="§7-2304.01" codify:value="7-2304.01">5a of the District of Columbia Public Emergency Act of 1980, effective March 5, 1981 (D.C. Law 3-149, D.C. Official Code §§ 7-2304, 7-2304.01),</code-cite> is related to the wearing of PPE and requires employers, employees, or other individuals to adhere to stricter safety standards, policies, or protocols than those required under <code-cite doc="D.C. Code" path="§32-141.02">section 102</code-cite>, the Mayor's Order shall control.</text>
       </para>
+      <codify:applicability doc="D.C. Act 23-384" date="2020-12-24" history="false" codified:doc="D.C. Code" codified:path="§2-218.17"/>
+      <codify:emergency doc="D.C. Code" path="§32-141.06" action="creation of" codified:doc="D.C. Code" codified:path="§32-141.06" codified:display="Note"/>
     </section>
   </container>
   <container codify:doc="D.C. Code">
@@ -302,6 +314,8 @@
         </include>
         <aftertext>.</aftertext>
       </para>
+      <codify:applicability doc="D.C. Act 23-384" date="2020-12-24" history="false" codified:doc="D.C. Code" codified:path="§2-218.17"/>
+      <codify:emergency doc="D.C. Code" path="§2-218.17" action="creation of" codified:doc="D.C. Code" codified:path="§2-218.17" codified:display="Note"/>
     </section>
   </container>
   <container>
