@@ -2,10 +2,10 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1215.81</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on January 31, 2021.*
+      *NOTE: This section was created by temporary legislation that will expire on August 5, 2021.*
       </text>
   <text>
-      *NOTE: This section was created by emergency legislation and amended by emergency legislation that will expire on January 31, 2021.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 7, 2021.*
       </text>
   <heading>BID public space maintenance agreements.</heading>
   <para>
@@ -28,14 +28,23 @@
     <num>(e)</num>
     <text>This section shall apply during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite> and for 30 days thereafter.</text>
   </para>
+  <codify:temporary doc="D.C. Code" path="§2-1215.81" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-1215.81" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§2-1215.81" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1215.81">
+    <text>
+      *NOTE: This section was created by temporary legislation that will expire on August 5, 2021.*
+      </text>
+  </codify:insert>
   <annotations>
-    <annotation app="2020-11-02" doc="D.C. Act 23-475" eff="2020-11-02" path="" type="History" display="false"/>
-    <annotation app="2020-11-02" doc="D.C. Act 23-475" eff="2020-11-02" path="§4" type="History" display="false"/>
-    <annotation app="2020-11-02" doc="D.C. Act 23-475" eff="2020-11-02" path="§2" type="History"/>
-    <annotation app="2020-12-07" doc="D.C. Act 23-520" eff="2020-12-07" path="§2" type="History" display="false"/>
-    <annotation app="2020-12-07" doc="D.C. Act 23-520" eff="2020-12-07" path="§2|(a)" type="History"/>
-    <annotation app="2020-12-07" doc="D.C. Act 23-520" eff="2020-12-07" path="§2|(b)" type="History"/>
-    <annotation app="2020-12-07" doc="D.C. Act 23-520" eff="2020-12-07" path="§2|(c)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-520" path="§2" codified:display="Note" app="2020-12-07" eff="2020-12-07">For temporary (90 days) , see <cite doc="D.C. Act 23-520" path="§2">§ 2 of Public Space Maintenance and Arts Clarification Emergency Amendment Act of 2020 (D.C. Act 23-520, Dec. 7, 2020, 67 DCR 14431)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-475" path="§2" codified:display="Note" app="2020-12-24" eff="2020-11-02">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-475" path="§2">§ 2 of Public Space Maintenance Emergency Act of 2020 (D.C. Act 23-475, Nov. 2, 2020, 67 DCR 14604)</cite>.</annotation>
+    <annotation app="2020-12-24" doc="D.C. Act 23-475" eff="2020-11-02" path="§2" type="History" display="false"/>
+    <annotation app="2020-12-24" doc="D.C. Act 23-520" eff="2020-12-07" path="§3" type="History" display="false"/>
+    <annotation app="2020-12-24" doc="D.C. Act 23-520" eff="2020-12-07" path="§3|(a)" type="History"/>
+    <annotation app="2020-12-24" doc="D.C. Act 23-520" eff="2020-12-07" path="§3|(b)" type="History"/>
+    <annotation app="2020-12-24" doc="D.C. Act 23-520" eff="2020-12-07" path="§3|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-520" path="§3" codified:display="Note" app="2020-12-24" eff="2020-12-07">For temporary (90 days) , see <cite doc="D.C. Act 23-520" path="§3">§ 3 of Public Space Maintenance and Arts Clarification Emergency Amendment Act of 2020 (D.C. Act 23-520, Dec. 7, 2020, 67 DCR 14431)</cite>.</annotation>
+    <annotation app="2020-12-23" doc="D.C. Law 23-175" eff="2020-12-23" path="" type="History" display="false"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-175" eff="2020-12-23" path="§2" type="History" display="false"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-175" eff="2020-12-23" path="§2" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-175" path="§2" codified:display="Note" app="2020-12-23" eff="2020-12-23">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-175" path="§2">§ 2 of Public Space Maintenance Temporary Act of 2020 (D.C. Law 23-175, Dec. 23, 2020, 67 DCR 13238)</cite>.</annotation>
   </annotations>
 </section>
