@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <num>32-111.06</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on April 13, 2021.*
+      </text>
+  <heading>Relationship to employment contracts and agreements.</heading>
+  <text>The requirements of <cite path="32|1|II">this subchapter</cite> shall not diminish the obligation of a contractor or an employer to comply with the provisions of any contract, including any individual contractual arrangement or any collective bargaining agreement that provides greater or equal rights to employees than the rights afforded under <cite path="32|1|II">this subchapter</cite>.</text>
+  <codify:annotation doc="D.C. Code" path="§32-111.06" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§32-111.06">
+                For temporary (90 days) creation of this section, see § 206 of Displaced Workers Right to Reinstatement and Retention Emergency Amendment Act of 2020 (D.C. Act 23-605, January 13, 2021, 0 DCR 0).
+              </codify:annotation>
+  <codify:insert doc="D.C. Code" path="§32-111.06" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-111.06">
+    <text>
+      *NOTE: This section was created by emergency legislation that will expire on April 13, 2021.*
+      </text>
+  </codify:insert>
+  <annotations>
+    <annotation doc="D.C. Law 10-105" type="History" path="§2" display="false">Apr. 26, 1994, D.C. Law 10-105, § 206</annotation>
+    <annotation doc="D.C. Law 10-105" type="History" path="§2">Apr. 26, 1994, D.C. Law 10-105, § 206</annotation>
+    <annotation app="2021-01-13" doc="D.C. Act 23-605" eff="2021-01-13" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2021-01-13" doc="D.C. Act 23-605" eff="2021-01-13" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2021-01-13" doc="D.C. Act 23-605" eff="2021-01-13" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2021-01-13" doc="D.C. Act 23-605" eff="2021-01-13" path="§2|(c)" prefix="as added" type="History"/>
+    <annotation doc="D.C. Act 23-605" path="§2|(c)" type="Emergency Legislation" history="false" app="2021-01-13" eff="2021-01-13">
+                For temporary (90 days) creation of this section, see § 206 of Displaced Workers Right to Reinstatement and Retention Emergency Amendment Act of 2020 (D.C. Act 23-605, January 13, 2021, 0 DCR 0).
+              </annotation>
+  </annotations>
+</section>

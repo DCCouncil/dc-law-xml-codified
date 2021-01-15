@@ -1,12 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-2703.07a</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on April 13, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§42-2703.07a(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Reverse Mortgage Foreclosure Prevention Program.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
-      <text>The Agency shall establish a Reverse Mortgage Foreclosure Prevention Program ("program") as a pilot program that allows qualified homeowners to apply for and receive financial assistance for payment of past due property taxes and property insurance debts that have put the qualified homeowner at risk of foreclosure.</text>
+      <text>The Agency shall establish a Reverse Mortgage Foreclosure Prevention Program ("program") as a pilot program that allows qualified homeowners to apply for and receive financial assistance for payment of past due property taxes, property insurance debts, condominium fees, and homeowners association fees that have put the qualified homeowner at risk of foreclosure.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -14,7 +17,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>The program shall run for 18 months, with a 6-month planning period and a 12-month implementation period.</text>
+      <text>The program shall run for 36 months, with a 6-month planning period and a 30-month implementation period, subject to available funds.</text>
     </para>
   </para>
   <para>
@@ -29,9 +32,9 @@
     <num>(d)</num>
     <text>No qualified homeowner may receive more than $25,000 in assistance.</text>
   </para>
-  <para>
+  <para placeholder="Repealed">
     <num>(e)</num>
-    <text>No more than $500,000 in Fiscal Year 2019 shall be allocated to the program.</text>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(f)</num>
@@ -41,11 +44,11 @@
       <text>"At risk of foreclosure" means:</text>
       <para>
         <num>(A)</num>
-        <text>A reverse mortgage lender has provided a homeowner with legal notice that the homeowner is in default on the terms of a reverse mortgage on the home in which the homeowner lives for failure to pay property taxes or insurance premiums; or</text>
+        <text>A reverse mortgage lender has provided a homeowner with legal notice that the homeowner is in default on the terms of a reverse mortgage on the home in which the homeowner lives for failure to pay property taxes, insurance premiums, condominium fees, or homeowners association fees; or</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>A homeowner and reverse mortgage lender have entered into an agreement to pay past due balances of property taxes and insurance premiums on a home in which the homeowner lives, but the homeowner has demonstrated difficulty maintaining the agreement.</text>
+        <text>A homeowner and reverse mortgage lender have entered into an agreement to pay past due balances of property taxes, insurance premiums, condominium fees, and homeowners association fees on a home in which the homeowner lives, but the homeowner has demonstrated difficulty maintaining the agreement.</text>
       </para>
     </para>
     <para>
@@ -92,5 +95,12 @@
     <annotation app="2020-03-17" doc="D.C. Act 23-253" eff="2020-03-17" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-108" path="§2" codified:display="Note" app="2020-06-17" eff="2020-06-17">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-108" path="§2">§ 2 of Reverse Mortgage Insurance and Tax Payment Program Temporary Amendment Act of 2020 (D.C. Law 23-108, June 17, 2020, 67 DCR 3953)</cite>.</annotation>
     <annotation app="2020-06-17" doc="D.C. Law 23-108" eff="2020-06-17" path="§2" type="History" display="false"/>
+    <annotation app="2021-01-13" doc="D.C. Act 23-596" eff="2021-01-13" path="§2" type="History" display="false"/>
+    <annotation app="2021-01-13" doc="D.C. Act 23-596" eff="2021-01-13" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2021-01-13" doc="D.C. Act 23-596" eff="2021-01-13" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2021-01-13" doc="D.C. Act 23-596" eff="2021-01-13" path="§2|(b)" type="History"/>
+    <annotation app="2021-01-13" doc="D.C. Act 23-596" eff="2021-01-13" path="§2|(c)|(1)" type="History"/>
+    <annotation app="2021-01-13" doc="D.C. Act 23-596" eff="2021-01-13" path="§2|(c)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-596" path="§2" codified:display="Note" app="2021-01-13" eff="2021-01-13">For temporary (90 days) , see <cite doc="D.C. Act 23-596" path="§2">§ 2 of Reverse Mortgage Insurance and Tax Payment Program Extension Emergency Amendment Act of 2020 (D.C. Act 23-596, Jan. 13, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
