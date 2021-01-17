@@ -7,28 +7,9 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Displaced Workers Protection.</heading>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>I</num>
-      <heading>[General].</heading>
-      <xi:include href="./sections/32-101.xml"/>
-      <xi:include href="./sections/32-102.xml"/>
-      <xi:include href="./sections/32-103.xml"/>
-    </container>
-    <annotation app="2021-01-13" doc="D.C. Act 23-605" eff="2021-01-13" path="§2|(a)" type="History" display="false"/>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>II</num>
-      <heading>Protections for Workers Displaced by COVID-19.</heading>
-      <annotation app="2021-01-13" doc="D.C. Act 23-605" eff="2021-01-13" path="§2|(b)" type="History" display="false"/>
-      <xi:include href="./sections/32-111.01.xml"/>
-      <xi:include href="./sections/32-111.02.xml"/>
-      <xi:include href="./sections/32-111.03.xml"/>
-      <xi:include href="./sections/32-111.04.xml"/>
-      <xi:include href="./sections/32-111.05.xml"/>
-      <xi:include href="./sections/32-111.06.xml"/>
-      <xi:include href="./sections/32-111.07.xml"/>
-    </container>
+    <xi:include href="./sections/32-101.xml"/>
+    <xi:include href="./sections/32-102.xml"/>
+    <xi:include href="./sections/32-103.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

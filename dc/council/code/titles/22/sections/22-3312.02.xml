@@ -1,29 +1,37 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>22-3312.02</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on April 13, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§22-3312.02(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on January 13, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§22-3312.02(Perm)">Permanent Version</cite>.*
       </text>
-  <heading>Defacement of certain symbols; display of certain emblems.</heading>
+  <heading>Defacing or burning cross or religious symbol; display of certain emblems.</heading>
   <para>
-    <num undesignated="true">(a)</num>
-    <text>It shall be unlawful for any person to burn, desecrate, mar, deface, or damage a religious or secular symbol, or place or display a sign, mark, symbol, impression, or other emblem, including a Nazi swastika, noose, or real or simulated burning cross, on the private property of another, without the permission of the owner or the owner's designee, or on public property, where the person acts reckless to the fact that a reasonable person would perceive that the intent of the person acting is to:</text>
+    <num>(a)</num>
+    <text>It shall be unlawful for any person to burn, desecrate, mar, deface, or damage a religious or secular symbol on any private property of another without the permission of the owner or the owner's designee or on any public property in the District of Columbia; or to place or to display in any of these locations a sign, mark, symbol, emblem, or other physical impression including, but not limited to, a Nazi swastika, a noose, or any manner of exhibit which includes a burning cross, real or simulated, where it is probable that a reasonable person would perceive that the intent is:</text>
     <para>
       <num>(1)</num>
-      <text>Deprive a person or class of persons of equal protection under federal or District law;</text>
+      <text>To deprive any person or class of persons of equal protection of the law or of equal privileges and immunities under the law, or for the purpose of preventing or hindering the constituted authorities of the United States or the District of Columbia from giving or securing to all persons within the District of Columbia equal protection of the law;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Hinder or interfere with, or retaliate for, a person's exercise of any right secured by federal or District law;</text>
+      <text>To injure, intimidate, or interfere with any person because of his or her exercise of any right secured by federal or District of Columbia laws, or to intimidate any person or any class of persons from exercising any right secured by federal or District of Columbia laws;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Threaten to injure, break, or destroy a person's property or harm a person's financial interests; or</text>
+      <text>To threaten another person or property whereby the threat is a serious expression of an intent to inflict harm; or</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>Threaten to do bodily harm to a person.</text>
+      <text>To cause another person to fear for his or her personal safety, or where it is probable that reasonable persons will be put in fear for their personal safety by the defendant’s actions, with reckless disregard for that probability.</text>
     </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Repealed.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Nothing in this section shall be deemed to amend or repeal any provision of the District of Columbia Fire Prevention Code (7 DCRR).</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 4-203" type="History" path="§3">Mar. 10, 1983, D.C. Law 4-203, § 3, 30 DCR 180</annotation>
@@ -41,10 +49,8 @@
     <annotation app="2020-02-27" doc="D.C. Act 23-234" eff="2020-02-27" path="§2" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-67" path="§2" codified:display="Note" app="2020-03-11" eff="2020-03-11">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-67" path="§2">§ 2 of Community Harassment Prevention Second Temporary Amendment Act of 2019 (D.C. Law 23-67, Mar. 11, 2020, 66 DCR 16183)</cite>.</annotation>
     <annotation app="2020-03-11" doc="D.C. Law 23-67" eff="2020-03-11" path="§2" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-434" path="§2" codified:display="Note" app="2020-10-22" eff="2020-10-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-434" path="§2">§ 2 of Community Harassment Prevention Emergency Amendment Act of 2020 (D.C. Act 23-434, Oct. 22, 2020, 67 DCR 12987)</cite>.</annotation>
-    <annotation app="2020-10-22" doc="D.C. Act 23-434" eff="2020-10-22" path="§2" type="History" display="false"/>
-    <annotation app="2021-01-13" doc="D.C. Act 23-599" eff="2021-01-13" path="§2" type="History" display="false"/>
-    <annotation app="2021-01-13" doc="D.C. Act 23-599" eff="2021-01-13" path="§2" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-599" path="§2" codified:display="Note" app="2021-01-13" eff="2021-01-13">For temporary (90 days) , see <cite doc="D.C. Act 23-599" path="§2">§ 2 of Community Harassment Prevention Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-599, Jan. 13, 2021, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2020-10-22" doc="D.C. Act 23-434" eff="2020-10-22" path="§7" type="History" display="false"/>
+    <annotation app="2020-10-22" doc="D.C. Act 23-434" eff="2020-10-22" path="§2|(a)" type="History"/>
+    <annotation app="2020-10-22" doc="D.C. Act 23-434" eff="2020-10-22" path="§2|(b)" type="History"/>
   </annotations>
 </section>
