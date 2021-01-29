@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>25-401</num>
   <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on December 30, 2020, and temporary legislation that will expire on May 22, 2021. To view the text of this section after the expiration of the emergency and temporary legislation, click this link: <cite path="§25-401(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
       *NOTE: This section includes amendments by temporary legislation that will expire on April 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§25-401(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Form of application.</heading>
@@ -48,10 +51,22 @@
     <annotation app="2020-05-06" doc="D.C. Law 23-93" eff="2020-05-06" path="§2|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§204|(b)|(1)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§204|(b)|(1)">§ 204(b)(1) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§204|(b)|(1)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-479" path="§3|(b)" codified:display="Note" app="2020-10-01" eff="2020-10-01">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-479" path="§3|(b)">§ 3(b) of Revised Game of Skill Machines Consumer Protections Emergency Amendment Act of 2020 (D.C. Act 23-479, Oct. 1, 2020, 67 DCR 13284)</cite>.</annotation>
-    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§3|(b)" type="History" display="false"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§8" type="History" display="false"/>
+    <annotation app="2020-10-01" doc="D.C. Act 23-479" eff="2020-10-01" path="§3|(b)" type="History"/>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§204|(b)|(1)" type="History" display="false"/>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§204|(b)|(1)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§204|(b)|(1)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§204|(b)|(1)">§ 204(b)(1) of Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020] (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
   </annotations>
+  <para>
+    <num>(e)</num>
+    <text>An applicant for a game of skill machine endorsement shall submit to the Board with its application:</text>
+    <para>
+      <num>(1)</num>
+      <text>A diagram of where the game of skill machines will be placed on the licensed premises; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The name of the manufacturer and distributor of the game of skill machines and documentation reflecting that the manufacturer and distributor are licensed to do business and pays taxes in the District of Columbia.</text>
+    </para>
+  </para>
 </section>
