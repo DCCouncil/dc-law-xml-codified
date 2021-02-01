@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <num>7-771.07b</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on April 25, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§7-771.07b(Perm)">Permanent Version</cite>.*
-      </text>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>7-771.07b(Perm)</num>
   <heading>Medicaid reserve.</heading>
   <para>
     <num>(a)</num>
@@ -75,43 +72,10 @@
   </para>
   <para>
     <num>(d)</num>
-    <para>
-      <num>(1)</num>
-      <text>There is established as a special fund the Medicaid Reserve Fund ("Fund").</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The following monies shall be deposited into the Fund:</text>
-      <para>
-        <num>(A)</num>
-        <text>All unspent local fund monies remaining in the operating budget of the Medicaid Reserve at the end of Fiscal Year 2021; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>All unspent local fund monies remaining in the operating budget of the Department of Health Care Finance at the end of Fiscal Year 2021.</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Money in the Fund shall be used for operating expenses permitted under this section.</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <para>
-        <num>(A)</num>
-        <text>The money deposited into the Fund, but not expended in a fiscal year, shall not revert to the unassigned fund balance of the General Fund of the District of Columbia at the end of a fiscal year or at any other time.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
-      </para>
-    </para>
+    <text>Funds may be reprogrammed from the Medicaid reserve for purposes other than those detailed in subsection (b) of this section, subject to <cite path="47|3|IV">subchapter IV of Chapter 3 of Title 47</cite>; provided, that the Office of the Chief Financial Officer determines that sufficient funds are still available within the Medicaid reserve to ensure a deficiency will not occur at the Department.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 17-109" type="History" path="§8b">Feb. 27, 2008, D.C. Law 17-109, § 8b</annotation>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§5032|(b)" prefix="as added" type="History"/>
-    <annotation app="2021-01-29" doc="D.C. Act 24-6" eff="2021-01-29" path="§3|(a)" type="History" display="false"/>
-    <annotation app="2021-01-29" doc="D.C. Act 24-6" eff="2021-01-29" path="§3|(a)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-6" path="§3|(a)" codified:display="Note" app="2021-01-29" eff="2021-01-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-6" path="§3|(a)">§ 3(a) of Department of Health Care Finance Alliance Reform and Budget Transparency Emergency Amendment Act of 2021 (D.C. Act 24-6, Jan. 29, 2021, 0 DCR 0)</cite>.</annotation>
+    <annotation doc="D.C. Law 23-149" path="§5032|(b)" type="History">as added Dec. 3, 2020, D.C. Law 23-149, § 5032(b), 67 DCR 10493</annotation>
   </annotations>
 </section>
