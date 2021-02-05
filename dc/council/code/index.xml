@@ -6,7 +6,7 @@
     <recency through="2021-02-03">
       <law doc="D.C. Law 23-179">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
       <emergency doc="D.C. Act 24-10">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
-      <federal doc="Pub. L. 116-94">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
+      <federal doc="Pub. L. 116-159">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
     </recency>
   </meta>
   <subheading>Division I. Government of District.</subheading>
