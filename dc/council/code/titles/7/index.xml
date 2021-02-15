@@ -546,14 +546,7 @@
       <num>V</num>
       <heading>Dementia Services Coordinator.</heading>
       <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="V" type="History" display="false"/>
-      <container>
-        <prefix>Subtitle</prefix>
-        <num>E</num>
-        <heading>Dementia Services.</heading>
-        <xi:include href="./sections/7-744.01.xml"/>
-        <annotation doc="D.C. Law 14-28" type="History" path="§4951">Oct. 3, 2001, D.C. Law 14-28, § 4948 [4951]</annotation>
-        <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5052" prefix="as added" type="History"/>
-      </container>
+      <xi:include href="./sections/7-744.01.xml"/>
     </container>
   </container>
   <container>
@@ -1622,6 +1615,7 @@
         <xi:include href="./sections/7-2231.08.xml"/>
         <xi:include href="./sections/7-2231.09.xml"/>
         <xi:include href="./sections/7-2231.10.xml"/>
+        <xi:include href="./sections/7-2231.11.xml"/>
       </container>
     </container>
     <container>
