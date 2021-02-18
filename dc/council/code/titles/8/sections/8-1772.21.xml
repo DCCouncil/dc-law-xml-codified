@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-1772.21</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on February 15, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§8-1772.21(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Establishment of a Building Energy Performance Standard Program.</heading>
   <para>
     <num>(a)</num>
@@ -14,11 +11,11 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>Beginning January 1, 2027, all privately-owned buildings with at least 25,000 square feet of gross floor area; and</text>
+      <text>Beginning January 1, 2023, all privately-owned buildings with at least 25,000 square feet of gross floor area; and</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Beginning January 1, 2033, all privately-owned buildings with at least 10,000 square feet of gross floor area.</text>
+      <text>Beginning January 1, 2026, all privately-owned buildings with at least 10,000 square feet of gross floor area.</text>
     </para>
   </para>
   <para>
@@ -27,7 +24,7 @@
       <num>(1)</num>
       <para>
         <num>(A)</num>
-        <text>No later than January 1, 2021, and every 6 years thereafter, DOEE shall, by rulemaking or publication on the DOEE website, establish property types and building energy performance standards for each property type, or an equivalent metric for buildings that do not receive an ENERGY STAR score.</text>
+        <text>No later than January 1, 2021, and every 5 years thereafter, DOEE shall establish property types and building energy performance standards for each property type, or an equivalent metric for buildings that do not receive an ENERGY STAR score.</text>
       </para>
       <para>
         <num>(B)</num>
@@ -64,7 +61,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>All buildings below the energy performance standard for their property type, established pursuant to subsection (b)(1) and (2) of this section, shall have 5 years from the date the performance standards are established to meet the building energy performance requirements established by DOEE.</text>
+    <text>All buildings with a verified ENERGY STAR score below the building energy performance standard for its property type shall have 5 years from the date of the performance standards established pursuant to paragraph (b)(1)(A) to meet the building energy performance requirements established by DOEE.</text>
   </para>
   <para>
     <num>(d)</num>
@@ -141,10 +138,7 @@
     <annotation app="2020-02-27" doc="D.C. Act 23-230" eff="2020-02-27" path="§2|(a)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-94" path="§2|(a)" codified:display="Note" app="2020-05-06" eff="2020-05-06">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-94" path="§2|(a)">§ 2(a) of CleanEnergy DC Omnibus Temporary Amendment Act of 2020 (D.C. Law 23-94, May 6, 2020, 67 DCR 3527)</cite>.</annotation>
     <annotation app="2020-05-06" doc="D.C. Law 23-94" eff="2020-05-06" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2020-11-17" doc="D.C. Act 23-482" eff="2020-11-17" path="§6" type="History" display="false"/>
-    <annotation app="2020-11-17" doc="D.C. Act 23-482" eff="2020-11-17" path="§2|(a)|(1)|(A)" type="History"/>
-    <annotation app="2020-11-17" doc="D.C. Act 23-482" eff="2020-11-17" path="§2|(a)|(1)|(B)" type="History"/>
-    <annotation app="2020-11-17" doc="D.C. Act 23-482" eff="2020-11-17" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2020-11-17" doc="D.C. Act 23-482" eff="2020-11-17" path="§2|(a)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-482" path="§2|(a)" codified:display="Note" app="2020-11-17" eff="2020-11-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-482" path="§2|(a)">§ 2(a) of CleanEnergy DC Omnibus Technical Amendment Emergency Amendment Act of 2020 (D.C. Act 23-482, Nov. 17, 2020, 67 DCR 13858)</cite>.</annotation>
+    <annotation app="2020-11-17" doc="D.C. Act 23-482" eff="2020-11-17" path="§2|(a)" type="History" display="false"/>
   </annotations>
 </section>
