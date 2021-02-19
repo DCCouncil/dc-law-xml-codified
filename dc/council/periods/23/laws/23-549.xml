@@ -21,53 +21,46 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Tax Revision Commission Reestablishment Amendment Act of 2020".</text>
-  <section codify:doc="D.C. Code">
+  <section>
     <num>2</num>
     <text>Chapter 4 of Title 47 of the District of Columbia Official Code is amended as follows:</text>
-    <para codify:path="§47-461|(5)">
+    <para>
       <num>(a)</num>
       <text>Section 47-461(5) is amended by striking the phrase "in 1998" and inserting the phrase "in 2014" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-461|(5)" codified:citation="§ 47-461" codified:display="Amend">
-        <find>in 1998</find>
-        <replace>in 2014</replace>
-      </codify:find-replace>
     </para>
-    <para codify:path="§47-462">
+    <para>
       <num>(b)</num>
       <text>Section 47-462 is amended as follows:</text>
-      <para codify:path="(a)|(1)">
+      <para>
         <num>(1)</num>
         <text>Subsection (a)(1) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§47-462|(a)|(1)" codified:citation="§ 47-462" codified:display="Amend"/>
             <num>(1)</num>
             <text>Provide for fairness and equity in the apportionment of taxes and promote progressivity;</text>
           </para>
         </include>
         <aftertext>.</aftertext>
       </para>
-      <para codify:path="(b)">
+      <para>
         <num>(2)</num>
         <text>Subsection (b) is amended as follows:</text>
-        <para codify:path="(5)">
+        <para>
           <num>(A)</num>
           <text>Paragraph (5) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§47-462|(b)|(5)" codified:citation="§ 47-462" codified:display="Amend"/>
               <num>(5)</num>
               <text>To establish or revise criteria and a conceptual framework for evaluating current and future taxes.  Such criteria and framework shall consider racial equity impacts;</text>
             </para>
           </include>
           <aftertext>.</aftertext>
         </para>
-        <para codify:path="(7)">
+        <para>
           <num>(B)</num>
           <text>Paragraph (7) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§47-462|(b)|(7)" codified:citation="§ 47-462" codified:display="Amend"/>
               <num>(7)</num>
               <text>To analyze the specific changes to the District's tax system since the Commission's most recent recommendations to determine the extent to which such changes are consistent with the principles identified in this section.</text>
             </para>
@@ -75,28 +68,19 @@
           <aftertext>.</aftertext>
         </para>
       </para>
-      <para codify:path="(c)">
+      <para>
         <num>(3)</num>
         <text>Subsection (c) is amended by striking the phrase "District of Columbia Tax Revision Commission by letter dated June 2, 1998, and entitled "Taxing Simply, Taxing Fairly"" and inserting the phrase "Commission on February 12, 2014" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-462|(c)" codified:citation="§ 47-462" codified:display="Amend">
-          <find>District of Columbia Tax Revision Commission by letter dated June 2, 1998, and entitled “Taxing Simply, Taxing Fairly”</find>
-          <replace>Commission on February 12, 2014</replace>
-        </codify:find-replace>
       </para>
-      <para codify:path="(d)">
+      <para>
         <num>(4)</num>
         <text>Subsection (d) is amended by striking the phrase "December 31, 2013" and inserting the phrase "one year after the Commission's appointment. Appointments to the Commission shall expire 60 days after the Commission submits its report." in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-462|(d)" codified:citation="§ 47-462" codified:display="Amend">
-          <find>December 31, 2013</find>
-          <replace>one year after the Commission's appointment. Appointments to the Commission shall expire 60 days after the Commission submits its report[]</replace>
-        </codify:find-replace>
       </para>
       <para>
         <num>(5)</num>
         <text>A new subsection (e) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§47-462|(e)" codified:citation="§ 47-462" codified:display="Amend"/>
             <num>(e)</num>
             <text>Every 10 years after the submission of the previous Commission's report, a new Commission shall be convened. The Mayor and the Chairman of the Council shall make new appointments consistent with the provisions of this subchapter and may appoint members who previously have served on the Commission.</text>
           </para>
@@ -104,13 +88,9 @@
         <aftertext>.</aftertext>
       </para>
     </para>
-    <para codify:path="§47-463|(c)">
+    <para>
       <num>(c)</num>
       <text>Section 47-463(c) is amended by striking the phrase "of the Fiscal Year 2012 Budget Support Act of 2011, passed on 2nd reading on June 14, 2011 (Enrolled version of Bill 19-203)" and inserting the phrase "of the Tax Revision Commission Reestablishment Amendment Act of 2020, passed on 2nd reading on December 1, 2020 (Enrolled version of Bill 23-316)" in its place.</text>
-      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-463|(c)" codified:citation="§ 47-463" codified:display="Amend">
-        <find>of [September 14, 2011]</find>
-        <replace>of [insert effective date of Act 23-549]</replace>
-      </codify:find-replace>
     </para>
   </section>
   <section>
