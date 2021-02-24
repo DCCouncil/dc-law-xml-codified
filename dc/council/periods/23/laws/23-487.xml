@@ -6,7 +6,7 @@
   <heading type="long">To amend the Abatement and Condemnation of Nuisance Properties Omnibus Amendment Act of 2000 to clarify the basis for the appointment of a receiver, to authorize the Office of the Attorney General to issue subpoenas for documents and testimony as part of a receivership investigation, to require the Court to monitor the execution of a landlord's plan to abate housing code violations, to authorize the Court to order an owner, member, or any person with charge, care, or control of the property to contribute funds in excess of the rents to abate violations, reimburse the District, relocate displaced tenants, fund up-front receivership costs, and maintain the upkeep, utilities, mortgages, back rent, and debts of the building while in receivership, to prohibit the termination of a receivership until the District is reimbursed in full for all expenses associated with the receivership, all abatement costs, and all fines, infractions, and penalties arising from code violations, and to clarify that the Court may enjoin a respondent from continuing actions, practices, or patterns of neglect at any rental accommodation owned, managed, or controlled by the respondent.</heading>
   <meta>
     <introduced>2019-10-01</introduced>
-    <effective>2020-11-17</effective>
+    <effective projected="true">2021-03-19</effective>
     <citations>
       <citation type="act" url="https://lims.dccouncil.us/downloads/LIMS/43297/Signed_Act/B23-0456-Signed_Act.pdf">D.C. Act 23-487</citation>
       <citation type="register">67 DCR 13899</citation>
@@ -27,7 +27,7 @@
     <para>
       <num>(a)</num>
       <text>Section 501 (D.C. Official Code § 42-3651.01) is amended by striking the phrase "Nothing in this title shall be construed to limit or abrogate any other common law or statutory right to petition for receivership." and inserting the phrase "Nothing in this title shall be construed to limit or abrogate any other common law or statutory right to petition for receivership, nor shall anything in this title prevent a tenant or tenant association from asserting as a defense or counterclaim a housing provider's non-compliance with applicable housing regulations." in its place.</text>
-      <codify:find-replace path="§42-3651.01" count="1" codified:doc="D.C. Code" codified:path="§42-3651.01">
+      <codify:find-replace path="§42-3651.01" count="1" codified:doc="D.C. Code" codified:path="§42-3651.01" codified:citation="§ 42-3651.01" codified:display="Amend">
         <find>Nothing in this chapter shall be construed to limit or abrogate any other common law or statutory right to petition for receivership.</find>
         <replace>Nothing in <code-cite doc="D.C. Code" path="42|36A">this title</code-cite> shall be construed to limit or abrogate any other common law or statutory right to petition for receivership, nor shall anything in <code-cite doc="D.C. Code" path="42|36A">this title</code-cite> prevent a tenant or tenant association from asserting as a defense or counterclaim a housing provider's non-compliance with applicable housing regulations.</replace>
       </codify:find-replace>
@@ -38,7 +38,7 @@
       <para codify:path="(b)">
         <num>(1)</num>
         <text>Subsection (b) is amended by striking the phrase "security of the tenants.  For purposes of this subsection, the term "pattern of neglect" includes all evidence that the owner, agent, lessor, or manager of the rental housing accommodation has maintained the premises in a serious state of disrepair, including vermin or rat infestation, filth or contamination, inadequate ventilation, illumination, sanitary, heating or life safety facilities, inoperative fire suppression or warning equipment, or any other condition that constitutes a hazard to its occupants or to the public." and inserting the phrase "security of the tenants." in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3651.02|(b)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3651.02|(b)" codified:citation="§ 42-3651.02" codified:display="Amend">
           <find>security of the tenants. For purposes of this subsection, the term “pattern of neglect” includes all evidence that the owner, agent, lessor, or manager of the rental housing accommodation has maintained the premises in a serious state of disrepair, including vermin or rat infestation, filth or contamination, inadequate ventilation, illumination, sanitary, heating or life safety facilities, inoperative fire suppression or warning equipment, or any other condition that constitutes a hazard to its occupants or to the public.</find>
           <replace>security of the tenants.</replace>
         </codify:find-replace>
@@ -48,7 +48,7 @@
         <text>A new subsection (c) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert num-value="" codified:doc="D.C. Code" codified:path="§42-3651.02"/>
+            <codify:insert num-value="" codified:doc="D.C. Code" codified:path="§42-3651.02" codified:citation="§ 42-3651.02" codified:display="Amend"/>
             <num>(c)</num>
             <text>For purposes of this section, the term:</text>
             <para>
@@ -94,7 +94,7 @@
       <para codify:path="(a)">
         <num>(1)</num>
         <text>Subsection (a) is amended by striking the phrase "Corporation Counsel" and inserting the phrase "Attorney General for the District of Columbia" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3651.03|(a)">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3651.03|(a)" codified:citation="§ 42-3651.03" codified:display="Amend">
           <find>Corporation Counsel</find>
           <replace>Attorney General for the District of Columbia</replace>
         </codify:find-replace>
@@ -104,7 +104,7 @@
         <text>A new subsection (a-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§42-3651.03|(a-1)"/>
+            <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§42-3651.03|(a-1)" codified:citation="§ 42-3651.03" codified:display="Amend"/>
             <num>(a-1)</num>
             <para>
               <num>(1)</num>
@@ -137,7 +137,7 @@
       <para codify:path="(b)">
         <num>(3)</num>
         <text>Subsection (b) is amended by striking the phrase "Corporation Counsel" both times it appears and inserting the phrase "Attorney General for the District of Columbia" in its place.</text>
-        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§42-3651.03|(b)">
+        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§42-3651.03|(b)" codified:citation="§ 42-3651.03" codified:display="Amend">
           <find>Corporation Counsel</find>
           <replace>Attorney General for the District of Columbia</replace>
         </codify:find-replace>
@@ -146,7 +146,7 @@
     <para codify:path="§42-3651.04|(a)|(3)|(A)">
       <num>(d)</num>
       <text>Section 504(a)(3)(A) (D.C. Official Code § 42-3651.04(a)(3)(A)) is amended by striking the phrase "Corporation Counsel" both times it appears and inserting the phrase "Attorney General for the District of Columbia" in its place.</text>
-      <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§42-3651.04|(a)|(3)|(A)">
+      <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§42-3651.04|(a)|(3)|(A)" codified:citation="§ 42-3651.04" codified:display="Amend">
         <find>Corporation Counsel</find>
         <replace>Attorney General for the District of Columbia</replace>
       </codify:find-replace>
@@ -160,7 +160,7 @@
         <para codify:path="(1)">
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the phrase "conditions alleged in the petition." and inserting the phrase "conditions alleged in the petition. As part of any order granting a receivership, the Court may also enjoin the respondent from continuing any of the actions, practices, or patterns of neglect at the rental housing accommodation and at any other rental accommodations owned, managed, or controlled by the respondent." in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3651.05|(a)|(1)">
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§42-3651.05|(a)|(1)" codified:citation="§ 42-3651.05" codified:display="Amend">
             <find>conditions alleged in the petition.</find>
             <replace>conditions alleged in the petition. As part of any order granting a receivership, the Court may also enjoin the respondent from continuing any of the actions, practices, or patterns of neglect at the rental housing accommodation and at any other rental accommodations owned, managed, or controlled by the respondent.</replace>
           </codify:find-replace>
@@ -170,7 +170,7 @@
           <text>Paragraph (2) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§42-3651.05|(a)|(2)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§42-3651.05|(a)|(2)" codified:citation="§ 42-3651.05" codified:display="Amend"/>
               <num>(2)</num>
               <text>Upon acceptance of a respondent's plan, the Court shall retain the case for purposes of monitoring respondent's execution of the plan. The monitoring shall continue until the Court, on its own motion or that of any party:</text>
               <para>
@@ -191,7 +191,7 @@
         <text>Subsection (f) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§42-3651.05|(f)"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§42-3651.05|(f)" codified:citation="§ 42-3651.05" codified:display="Amend"/>
             <num>(f)</num>
             <para>
               <num>(1)</num>
@@ -245,7 +245,7 @@
     <para codify:path="§42-3651.06">
       <num>(f)</num>
       <text>Section 506 (D.C. Official Code § 42-3651.06) is amended by striking the phrase "Corporation Counsel" both times it appears and inserting the phrase "Attorney General for the District of Columbia" in its place.</text>
-      <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§42-3651.06">
+      <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§42-3651.06" codified:citation="§ 42-3651.06" codified:display="Amend">
         <find>Corporation Counsel</find>
         <replace>Attorney General for the District of Columbia</replace>
       </codify:find-replace>
@@ -258,7 +258,7 @@
         <text>Subsection (a)(1) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§42-3651.07|(a)|(1)"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§42-3651.07|(a)|(1)" codified:citation="§ 42-3651.07" codified:display="Amend"/>
             <num>(1)</num>
             <text>The Court determines that the receivership is no longer necessary because the grounds on which the appointment of the receiver was based no longer exist; the receiver has received proper compensation for the services provided; the District of Columbia has been reimbursed for all expenses related to the appointment of the receiver; the District of Columbia has been reimbursed for all expenses related to abatements performed by the District or on its behalf by any third-party; and all fines, infractions, and penalties arising from code violations at the property to date have been paid in full to the District of Columbia; or</text>
           </para>
@@ -268,7 +268,7 @@
       <para codify:path="(b)|(1)">
         <num>(2)</num>
         <text>Subsection (b)(1) is amended by striking the period at the end and inserting the phrase ", for all expenses related to abatements performed by the District or on its behalf by any third-party, and all fines, infractions and penalties arising from code violations at the property to date have been paid in full to the District of Columbia." in its place.</text>
-        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§42-3651.07|(b)|(1)">
+        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§42-3651.07|(b)|(1)" codified:citation="§ 42-3651.07" codified:display="Amend">
           <find>.</find>
           <replace>, for all expenses related to abatements performed by the District or on its behalf by any third-party, and all fines, infractions and penalties arising from code violations at the property to date have been paid in full to the District of Columbia.</replace>
         </codify:find-replace>
@@ -278,7 +278,7 @@
         <text>A new subsection (d) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§42-3651.07|(d)"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§42-3651.07|(d)" codified:citation="§ 42-3651.07" codified:display="Amend"/>
             <num>(d)</num>
             <text>As part of any order terminating a receivership, the Court may also permanently enjoin the respondent from continuing any of the actions, practices, or pattern of neglect at the rental housing accommodation and at any other rental accommodations owned, managed, or controlled by the respondent.</text>
           </para>
