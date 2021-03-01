@@ -6,7 +6,7 @@
   <heading type="long">To amend the District of Columbia Public Postsecondary Education Reorganization Act to clarify the terms of service of elected and appointed members of the Board of Trustees of the University of the District of Columbia and to make accompanying technical amendments.</heading>
   <meta>
     <introduced>2020-07-06</introduced>
-    <effective projected="true">2021-03-19</effective>
+    <effective>2020-11-16</effective>
     <citations>
       <citation type="act" url="https://lims.dccouncil.us/downloads/LIMS/45295/Signed_Act/B23-0817-Signed_Act.pdf">D.C. Act 23-492</citation>
       <citation type="register">67 DCR 13913</citation>
@@ -25,17 +25,17 @@
     <text>Section 201(d), (e), and (f) of The District of Columbia Public Postsecondary Education Reorganization Act, approved October 26, 1974 (88 Stat. 1423; D.C. Official Code § 38-1202.01(d), (e), and(f)), are amended to read as follows:</text>
     <include>
       <para>
-        <codify:replace path="(d)" codified:doc="D.C. Code" codified:path="§38-1202.01|(d)" codified:citation="§ 38-1202.01" codified:display="Amend"/>
+        <codify:replace path="(d)" codified:doc="D.C. Code" codified:path="§38-1202.01|(d)"/>
         <num>(d)</num>
         <text>All terms on the Board of Trustees shall begin on May 15.  The student member elected pursuant to subsection (c)(2) of this section shall serve for a term of one year.  The term for all of the other members shall be 5 years.  Depending on the date of his or her election or appointment, a member of the Board may actually serve a partial term.</text>
       </para>
       <para>
-        <codify:replace path="(e)" codified:doc="D.C. Code" codified:path="§38-1202.01|(e)" codified:citation="§ 38-1202.01" codified:display="Amend"/>
+        <codify:replace path="(e)" codified:doc="D.C. Code" codified:path="§38-1202.01|(e)"/>
         <num>(e)</num>
         <text>A member of the Board of Trustees who is elected as an alumnus or alumna pursuant to subsection (c)(3) of this section, including for a partial term, may be re-elected to serve one additional term, after which the individual may not again be elected pursuant to subsection (c)(3) of this section until 5 years have passed since his or her last day of service on the Board.</text>
       </para>
       <para>
-        <codify:replace path="(f)" codified:doc="D.C. Code" codified:path="§38-1202.01|(f)" codified:citation="§ 38-1202.01" codified:display="Amend"/>
+        <codify:replace path="(f)" codified:doc="D.C. Code" codified:path="§38-1202.01|(f)"/>
         <num>(f)</num>
         <text>A member of the Board of Trustees who is appointed pursuant to subsection (c)(1) of this section may serve 3 consecutive terms, including partial terms.  No member shall serve more than 15 consecutive years regardless of whether elected or appointed, or both, and shall not serve thereafter until 5 years have passed since his or her last day of service on the Board.</text>
       </para>
