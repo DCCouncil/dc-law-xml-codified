@@ -6,7 +6,7 @@
   <heading type="long">To amend the District of Columbia Traffic Act, 1925 to require the Mayor to create rules governing shared fleet devices, to require a shared fleet device permit for the operation of a SFD fleet, to require permitted operators to pay a performance bond to the District in order to pay for damage to public property and other costs, to require permitted operators to provide fleet and trip data and complaint statistics to the Director of the District Department of Transportation, to require permitted operators to maintain at least 3% of its fleet in each ward between 5:00a.m. and 7:00a.m. each day, to prohibit permitted operators from deploying electric mobility devices within 300 feet of elementary, middle schools, or senior wellness centers, unless that space is located on a block face adjacent to a metro rail station entrance, to require permitted operators to maintain a 24-hour toll-free customer service line for the public to report inoperable or illegally parked shared fleet devices and other complaints, to require permitted operators to move the shared fleet devices within 2 hours of being notified that they are parked illegally, to require permitted operators to provide optional, free virtual classes on how to safely operate the shared fleet devices, to require shared fleet devices to have proper lighting and reflectors, to require the Director of the District Department of Transportation to construct signage or create conspicuous pavement markings alerting shared fleet device users when they are entering the Central Business District, to require the Director of the District Department of Transportation to construct at least 1,000 racks a year until 2025 for parking of electric mobility devices, to prohibit the Director of the District Department of Transportation from permitting more than 20,000 electric mobility devices before October 1, 2023, and to require shared fleet device users to park devices in an upright position and, beginning October 1, 2021, locked to an object with at least 3 feet of unobstructed pedestrian walkway; to amend the Pedestrian Protection Amendment Act of 1987 to provide that riders of electric mobility devices shall have the same rights and duties as a pedestrian under the same circumstances; and to amend the Anti-Drunk Driving Act of 1982 to prohibit a person from operating or being in the physical control of any personal mobility device or electric mobility device while under the influence of alcohol or any drug or any combination thereof; and to make conforming amendments.</heading>
   <meta>
     <introduced>2019-06-25</introduced>
-    <effective projected="true">2021-03-19</effective>
+    <effective>2020-11-16</effective>
     <citations>
       <citation type="act" url="https://lims.dccouncil.us/downloads/LIMS/42885/Signed_Act/B23-0359-Signed_Act.pdf">D.C. Act 23-486</citation>
       <citation type="register">67 DCR 13886</citation>
@@ -37,12 +37,12 @@
           <text>New paragraphs (2A) and (2B) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§50-2201.02|(2A)" codified:citation="§ 50-2201.02" codified:display="Amend"/>
+              <codify:insert after="(2)" codified:doc="D.C. Code" codified:path="§50-2201.02|(2A)"/>
               <num>(2A)</num>
               <text>"Block" means the 2 opposite sides of a street between 2 consecutive street intersections.</text>
             </para>
             <para>
-              <codify:insert after="(2A)" codified:doc="D.C. Code" codified:path="§50-2201.02|(2B)" codified:citation="§ 50-2201.02" codified:display="Amend"/>
+              <codify:insert after="(2A)" codified:doc="D.C. Code" codified:path="§50-2201.02|(2B)"/>
               <num>(2B)</num>
               <text>"Block face" means one side of a block.</text>
             </para>
@@ -54,7 +54,7 @@
           <text>A new paragraph (5A) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§50-2201.02|(5A)" codified:citation="§ 50-2201.02" codified:display="Amend"/>
+              <codify:insert after="(5)" codified:doc="D.C. Code" codified:path="§50-2201.02|(5A)"/>
               <num>(5A)</num>
               <text>"Director" means the Director of the District Department of Transportation.</text>
             </para>
@@ -66,7 +66,7 @@
           <text>A new paragraph (6A) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(6)" codified:doc="D.C. Code" codified:path="§50-2201.02|(6A)" codified:citation="§ 50-2201.02" codified:display="Amend"/>
+              <codify:insert after="(6)" codified:doc="D.C. Code" codified:path="§50-2201.02|(6A)"/>
               <num>(6A)</num>
               <para>
                 <num>(A)</num>
@@ -101,7 +101,7 @@
           <text>A new paragraph (9A) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(9)" codified:doc="D.C. Code" codified:path="§50-2201.02|(9A)" codified:citation="§ 50-2201.02" codified:display="Amend"/>
+              <codify:insert after="(9)" codified:doc="D.C. Code" codified:path="§50-2201.02|(9A)"/>
               <num>(9A)</num>
               <text>"Lock-to mechanism" means a mechanism on shared fleet devices that locks the device to an object or infrastructure.</text>
             </para>
@@ -111,7 +111,7 @@
         <para>
           <num>(5)</num>
           <text>Paragraph (11) is amended by striking the phrase "personal mobility devices, as defined in paragraph (13) of this section," and inserting the phrase "electric mobility devices, personal mobility devices, motorized bicycles" in its place.</text>
-          <codify:find-replace path="(11)" count="1" codified:doc="D.C. Code" codified:path="§50-2201.02|(11)" codified:citation="§ 50-2201.02" codified:display="Amend">
+          <codify:find-replace path="(11)" count="1" codified:doc="D.C. Code" codified:path="§50-2201.02|(11)">
             <find>personal mobility devices, as defined in paragraph (13) of this section,</find>
             <replace>electric mobility devices, personal mobility devices, motorized bicycles</replace>
           </codify:find-replace>
@@ -121,7 +121,7 @@
           <text>A new paragraph (11A) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(11)" codified:doc="D.C. Code" codified:path="§50-2201.02|(11A)" codified:citation="§ 50-2201.02" codified:display="Amend"/>
+              <codify:insert after="(11)" codified:doc="D.C. Code" codified:path="§50-2201.02|(11A)"/>
               <num>(11A)</num>
               <para>
                 <num>(A)</num>
@@ -156,12 +156,12 @@
           <text>New paragraphs (12A) and (12B) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(12)" codified:doc="D.C. Code" codified:path="§50-2201.02|(12A)" codified:citation="§ 50-2201.02" codified:display="Amend"/>
+              <codify:insert after="(12)" codified:doc="D.C. Code" codified:path="§50-2201.02|(12A)"/>
               <num>(12A)</num>
               <text>"Permitted operator" means a SFD operating company that has a SFD permit.</text>
             </para>
             <para>
-              <codify:insert after="(12A)" codified:doc="D.C. Code" codified:path="§50-2201.02|(12B)" codified:citation="§ 50-2201.02" codified:display="Amend"/>
+              <codify:insert after="(12A)" codified:doc="D.C. Code" codified:path="§50-2201.02|(12B)"/>
               <num>(12B)</num>
               <text>"Personal information" means information that can reasonably be used to contact or distinguish a person, including internet protocol addresses, device identifiers, bank or credit card information, home addresses, email addresses, or phone numbers.</text>
             </para>
@@ -173,7 +173,7 @@
           <text>Paragraph (13) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace path="(13)" codified:doc="D.C. Code" codified:path="§50-2201.02|(13)" codified:citation="§ 50-2201.02" codified:display="Amend"/>
+              <codify:replace path="(13)" codified:doc="D.C. Code" codified:path="§50-2201.02|(13)"/>
               <num>(13)</num>
               <para>
                 <num>(A)</num>
@@ -212,12 +212,12 @@
           <text>New paragraph (14A), (14B), (14C), and (14D) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(14)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14A)" codified:citation="§ 50-2201.02" codified:display="Amend"/>
+              <codify:insert after="(14)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14A)"/>
               <num>(14A)</num>
               <text>"SFD fleet" means all shared fleet devices of any single type of shared fleet device made available for rent by a permitted operator.</text>
             </para>
             <para>
-              <codify:insert after="(14A)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14B)" codified:citation="§ 50-2201.02" codified:display="Amend"/>
+              <codify:insert after="(14A)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14B)"/>
               <num>(14B)</num>
               <para>
                 <num>(A)</num>
@@ -229,12 +229,12 @@
               </para>
             </para>
             <para>
-              <codify:insert after="(14B)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14C)" codified:citation="§ 50-2201.02" codified:display="Amend"/>
+              <codify:insert after="(14B)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14C)"/>
               <num>(14C)</num>
               <text>"SFD permit" means a public-right-of-way occupancy permit issued by the Director to a shared fleet device operating company to offer shared fleet devices for rental in the public right-of-way in the District.</text>
             </para>
             <para>
-              <codify:insert after="(14C)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14D)" codified:citation="§ 50-2201.02" codified:display="Amend"/>
+              <codify:insert after="(14C)" codified:doc="D.C. Code" codified:path="§50-2201.02|(14D)"/>
               <num>(14D)</num>
               <text>"Shared fleet device" means an electric mobility device, bicycle, or electrically-powered motorized bicycle that is available for short-term rental and is permitted for use in public space.</text>
             </para>
@@ -244,7 +244,7 @@
         <para>
           <num>(10)</num>
           <text>Paragraph (19)(D) is amended by striking the period and inserting the phrase ", but not including shared fleet devices." in its place.</text>
-          <codify:find-replace path="(19)|(D)" count="1" codified:doc="D.C. Code" codified:path="§50-2201.02|(19)|(D)" codified:citation="§ 50-2201.02" codified:display="Amend">
+          <codify:find-replace path="(19)|(D)" count="1" codified:doc="D.C. Code" codified:path="§50-2201.02|(19)|(D)">
             <find>.</find>
             <replace>, but not including shared fleet devices.</replace>
           </codify:find-replace>
@@ -255,7 +255,7 @@
         <text>New sections 6b and 6c are added to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="50|22|I|A" after="§50-2201.03a" num-value="50-2201.03b" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2201.03b" codified:citation="§ 50-2201.03b" codified:display="New"/>
+            <codify:insert path="50|22|I|A" after="§50-2201.03a" num-value="50-2201.03b" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2201.03b"/>
             <num>6b</num>
             <heading>Regulations for shared fleet devices.</heading>
             <para>
@@ -309,7 +309,7 @@
             <annotation type="History" doc="Stat. 68-2-ch443" path="§6b">Mar. 3, 1925, ch. 443, § 6b</annotation>
           </section>
           <section>
-            <codify:insert path="50|22|I|A" after="§50-2201.03b" num-value="50-2201.03c" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2201.03c" codified:citation="§ 50-2201.03c" codified:display="New"/>
+            <codify:insert path="50|22|I|A" after="§50-2201.03b" num-value="50-2201.03c" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2201.03c"/>
             <num>6c</num>
             <heading>Operation of shared fleet devices.</heading>
             <para>
@@ -586,7 +586,7 @@
               </para>
             </para>
             <annotation type="History" doc="Stat. 68-2-ch443" path="§6c">Mar. 3, 1925, ch. 443, § 6c</annotation>
-            <codify:not-funded-anno doc="D.C. Code" path="§50-2201.03c" applicability-path="§301" action="creation of subsection (f) of" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.03c" codified:citation="§ 50-2201.03c" codified:display="Note"/>
+            <codify:not-funded-anno doc="D.C. Code" path="§50-2201.03c" applicability-path="§301" action="creation of subsection (f) of this section" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.03c" codified:display="Note"/>
           </section>
         </include>
         <aftertext>.</aftertext>
@@ -597,7 +597,7 @@
       <text>Section 2(b-1) of the Pedestrian Protection Amendment Act of 1987, effective October 9, 1987 (D.C. Law 7-34; D.C. Official Code § 50-2201.28(b-1)), is amended to read as follows:</text>
       <include>
         <para>
-          <codify:replace doc="D.C. Code" path="§50-2201.28|(b-1)" codified:doc="D.C. Code" codified:path="§50-2201.28|(b-1)" codified:citation="§ 50-2201.28" codified:display="Amend"/>
+          <codify:replace doc="D.C. Code" path="§50-2201.28|(b-1)" codified:doc="D.C. Code" codified:path="§50-2201.28|(b-1)"/>
           <num>(b-1)</num>
           <text>A person on a bicycle, personal mobility device, or electric mobility device upon or along a sidewalk or while crossing a roadway in a crosswalk shall have the rights and duties applicable to a pedestrian under the same circumstances; provided, that:</text>
           <para>
@@ -623,7 +623,7 @@
           <text>A new paragraph (6A) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(6)" codified:doc="D.C. Code" codified:path="§50-2206.01|(6A)" codified:citation="§ 50-2206.01" codified:display="Amend"/>
+              <codify:insert after="(6)" codified:doc="D.C. Code" codified:path="§50-2206.01|(6A)"/>
               <num>(6A)</num>
               <text>"Electric mobility device" shall have the same meaning as provided in section 2(6A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.01(6A)).</text>
             </para>
@@ -635,7 +635,7 @@
           <text>Paragraph (16) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace path="(16)" codified:doc="D.C. Code" codified:path="§50-2206.01|(16)" codified:citation="§ 50-2206.01" codified:display="Amend"/>
+              <codify:replace path="(16)" codified:doc="D.C. Code" codified:path="§50-2206.01|(16)"/>
               <num>(16)</num>
               <text>"Personal mobility device" shall have the same meaning as provided in section 2(13) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.01(13)).</text>
             </para>
@@ -648,7 +648,7 @@
         <text>A new section 3g-1 is added to read as follows:</text>
         <include>
           <section>
-            <codify:insert doc="D.C. Code" path="50|22|III-A|B" after="§50-2206.16" num-value="50-2206.16a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2206.16a" codified:citation="§ 50-2206.16a" codified:display="New"/>
+            <codify:insert doc="D.C. Code" path="50|22|III-A|B" after="§50-2206.16" num-value="50-2206.16a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§50-2206.16a"/>
             <num>3g-1</num>
             <heading>Operating under the influence of alcohol or a drug; personal mobility device and electric mobility device.</heading>
             <para>
@@ -675,7 +675,7 @@
       <text>Section 3(17) of the Compulsory/No Fault Motor Vehicle Insurance Act of 1982, effective September 18, 1982 (D.C. Law 4-155; D.C. Official Code § 31-2402(17)), is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace doc="D.C. Code" path="§31-2402|(17)" codified:doc="D.C. Code" codified:path="§31-2402|(17)" codified:citation="§ 31-2402" codified:display="Amend"/>
+          <codify:replace doc="D.C. Code" path="§31-2402|(17)" codified:doc="D.C. Code" codified:path="§31-2402|(17)"/>
           <num>(17)</num>
           <text>The term "motor vehicle" means any device propelled by an internal- combustion engine, electricity, or steam. The term "motor vehicle" shall not include traction engines used exclusively for drawing vehicles in fields, road rollers, vehicles propelled only upon rails and tracks, personal mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(13)">section 2(13) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(13))</code-cite>, electric mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(6A)">section 2(6A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(6A))</code-cite>, motorized bicycles, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(11A)">section 2(11A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(11A))</code-cite>, or a battery-operated wheelchair when operated by a person with a disability.</text>
         </para>
@@ -687,7 +687,7 @@
       <text>Section 1(6) of An Act To provide for the regulation of finance charges for retail installment sales of motor vehicles in the District of Columbia, and for other purposes, approved April 22, 1960 (74 Stat. 69; D.C. Official Code § 50-601(6)), is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace doc="D.C. Code" path="§50-601|(6)" codified:doc="D.C. Code" codified:path="§50-601|(6)" codified:citation="§ 50-601" codified:display="Amend"/>
+          <codify:replace doc="D.C. Code" path="§50-601|(6)" codified:doc="D.C. Code" codified:path="§50-601|(6)"/>
           <num>(6)</num>
           <text>"Motor vehicle" means any automobile, mobile home, motorcycle, truck, truck tractor, trailer, semi-trailer, or bus. The term "motor vehicle" shall not include any boat trailer, any vehicle propelled or drawn exclusively by muscular power, any vehicle designed to run only on rails or tracks, a personal mobility device, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(13)">section 2(13) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(13))</code-cite>, electric mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(6A)">section 2(6A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(6A))</code-cite>, motorized bicycles, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(11A)">section 2(11A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(11A))</code-cite>, or a battery-operated wheelchair when operated by a person with a disability.</text>
         </para>
@@ -699,7 +699,7 @@
       <text>Section 8 of An Act To provide for the annual inspection of all motor vehicles in the District of Columbia, effective March 15, 1985 (D.C. Law 5-176; D.C. Official Code § 50-1108), is amended to read as follows:</text>
       <include>
         <section>
-          <codify:replace doc="D.C. Code" path="§50-1108" codified:doc="D.C. Code" codified:path="§50-1108" codified:citation="§ 50-1108" codified:display="Amend"/>
+          <codify:replace doc="D.C. Code" path="§50-1108" codified:doc="D.C. Code" codified:path="§50-1108"/>
           <num codify:value="50-1108">8</num>
           <heading>As used in this act, the term "motor vehicle" means all vehicles propelled by internal-combustion engines, electricity, or steam.</heading>
           <text>The term "motor vehicle" shall not include traction engines, road rollers, vehicles propelled only upon rails or tracks, personal mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(13)">section 2(13) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(13))</code-cite>, electric mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(6A)">section 2(6A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(6A))</code-cite>, motorized bicycles, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(11A)">section 2(11A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(11A))</code-cite>, or a battery-operated wheelchair when operated by a person with a disability.</text>
@@ -712,7 +712,7 @@
       <text>Section 1(9) of An Act To provide for the recording and releasing of liens by entries on certificates of title for motor vehicles and trailers, and for other purposes, approved July 2, 1940 (54 Stat. 736; D.C. Official Code § 50-1201(9)), is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace doc="D.C. Code" path="§50-1201|(9)" codified:doc="D.C. Code" codified:path="§50-1201|(9)" codified:citation="§ 50-1201" codified:display="Amend"/>
+          <codify:replace doc="D.C. Code" path="§50-1201|(9)" codified:doc="D.C. Code" codified:path="§50-1201|(9)"/>
           <num>(9)</num>
           <text>"Motor vehicle" means all vehicles propelled by internal-combustion engines, electricity, or steam. The term "motor vehicle" shall not include traction engines, road rollers, vehicles propelled only upon rails or tracks, personal mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(13)">section 2(13) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(13))</code-cite>, electric mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(6A)">section 2(6A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(6A))</code-cite>, motorized bicycles, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(11A)">section 2(11A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(11A))</code-cite>, or a battery-operated wheelchair when operated by a person with a disability.</text>
         </para>
@@ -724,7 +724,7 @@
       <text>Section 2(4) of the Motor Vehicle Safety Responsibility Act of the District of Columbia, approved May 25, 1954 (68 Stat. 120; D.C. Official Code § 50-1301.02(4)), is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace doc="D.C. Code" path="§50-1301.02|(4)" codified:doc="D.C. Code" codified:path="§50-1301.02|(4)" codified:citation="§ 50-1301.02" codified:display="Amend"/>
+          <codify:replace doc="D.C. Code" path="§50-1301.02|(4)" codified:doc="D.C. Code" codified:path="§50-1301.02|(4)"/>
           <num>(4)</num>
           <text>Motor vehicle" means every vehicle that is self-propelled and every vehicle that is propelled by electric power obtained from overhead trolley wires, but not operated upon rails. The term "motor vehicle" shall not include personal mobility devices,as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(13)">section 2(13) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(13))</code-cite>, electric mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(6A)">section 2(6A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(6A))</code-cite>, motorized bicycles, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(11A)">section 2(11A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(11A))</code-cite>, or a battery-operated wheelchair when operated by a person with a disability.</text>
         </para>
@@ -736,7 +736,7 @@
       <text>Section 1(a) of Title IV of the District of Columbia Revenue Act of 1937, approved August 17, 1937 (50 Stat. 679; D.C. Official Code § 50-1501.01(1)), is amended as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace doc="D.C. Code" path="§50-1501.01|(1)" codified:doc="D.C. Code" codified:path="§50-1501.01|(1)" codified:citation="§ 50-1501.01" codified:display="Amend"/>
+          <codify:replace doc="D.C. Code" path="§50-1501.01|(1)" codified:doc="D.C. Code" codified:path="§50-1501.01|(1)"/>
           <num codify:value="(1)">(a)</num>
           <text>The term "motor vehicle" means any vehicle propelled by internal-combustion engine, electricity, or steam. The term "motor vehicle" shall not include a traction engine, road roller, vehicle propelled only upon rails or tracks, personal mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(13)">section 2(13) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(13))</code-cite>, electric mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(6A)">section 2(6A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(6A))</code-cite>, motorized bicycles, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(11A)">section 2(11A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(11A))</code-cite>, or a battery-operated wheelchair when operated by a person with a disability.</text>
         </para>
@@ -748,7 +748,7 @@
       <text>Section 2(b) of the Rental Vehicle Tax Reform Act of 1978, effective March 6, 1979 (D.C. Law 2-157; D.C. Official Code § 50-1505.01(2)), is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace doc="D.C. Code" path="§50-1505.01|(2)" codified:doc="D.C. Code" codified:path="§50-1505.01|(2)" codified:citation="§ 50-1505.01" codified:display="Amend"/>
+          <codify:replace doc="D.C. Code" path="§50-1505.01|(2)" codified:doc="D.C. Code" codified:path="§50-1505.01|(2)"/>
           <num codify:value="(2)">(b)</num>
           <text>The term "motor vehicle" means any device propelled by an internal-combustion engine, and designed to carry passengers. The term "motor vehicle" shall not include road rollers, farm tractors, trucks, motorcycles, motorized bicycles, vehicles with a seating capacity of 10 or more persons, vehicles propelled only upon rails and tracks, personal mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(13)">section 2(13) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(13))</code-cite>, electric mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(6A)">section 2(6A) of the District of Columbia Traffic Act, 1925 approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(6A))</code-cite>, or a battery-operated wheelchair when operated by a person with a disability.</text>
         </para>
@@ -760,7 +760,7 @@
       <text>Section 1(14) of the District of Columbia Implied Consent Act, approved October 21, 1972 (86 Stat. 1016; D.C. Official Code § 50-1901(14)), is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace doc="D.C. Code" path="§50-1901|(14)" codified:doc="D.C. Code" codified:path="§50-1901|(14)" codified:citation="§ 50-1901" codified:display="Amend"/>
+          <codify:replace doc="D.C. Code" path="§50-1901|(14)" codified:doc="D.C. Code" codified:path="§50-1901|(14)"/>
           <num>(14)</num>
           <text>The term "motor vehicle" means all vehicles propelled by internal combustion engines, electricity, or steam. The term "motor vehicle" shall not include personal mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(13)">section 2(13) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(13))</code-cite>, electric mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(6A)">section 2(6A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(6A))</code-cite>, motorized bicycles, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(11A)">section 2(11A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(11A))</code-cite>, or a battery-operated wheelchair when operated by a person with a disability.</text>
         </para>
@@ -772,7 +772,7 @@
       <text>Section 102(5A) of the District of Columbia Traffic Adjudication Act of 1978, effective September 12, 1978 (D.C. Law 2-104; D.C. Official Code § 50-2301.02(5A)), is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace doc="D.C. Code" path="§50-2301.02|(5A)" codified:doc="D.C. Code" codified:path="§50-2301.02|(5A)" codified:citation="§ 50-2301.02" codified:display="Amend"/>
+          <codify:replace doc="D.C. Code" path="§50-2301.02|(5A)" codified:doc="D.C. Code" codified:path="§50-2301.02|(5A)"/>
           <num>(5A)</num>
           <text>The term "motor vehicle" means all vehicles propelled by an internal-combustion engine, electricity, or steam. The term "motor vehicle" shall not include traction engines, road rollers, vehicles propelled only upon stationary rails or tracks, personal mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(13)">section 2(13) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(13))</code-cite>, electric mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(6A)">section 2(6A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(6A))</code-cite>, motorized bicycles, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(11A)">section 2(11A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(11A))</code-cite>, or a battery-operated wheelchair when operated by a person with a disability.</text>
         </para>
@@ -784,7 +784,7 @@
       <text>Section 2(5) of the District of Columbia Motor Vehicle Parking Facility Act of 1942, approved February 16, 1942 (56 Stat. 91; D.C. Official Code § 50-2602(5)), is amended to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:replace doc="D.C. Code" path="§50-2602|(5)" codified:doc="D.C. Code" codified:path="§50-2602|(5)" codified:citation="§ 50-2602" codified:display="Amend"/>
+          <codify:replace doc="D.C. Code" path="§50-2602|(5)" codified:doc="D.C. Code" codified:path="§50-2602|(5)"/>
           <num>(5)</num>
           <text>The term "motor vehicle" means any device propelled by an internal combustion engine, electricity, or steam. The term "motor vehicle" shall not include traction engines, road rollers, vehicles propelled only upon rails or tracks, personal mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(13)">section 2(13) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(13))</code-cite>, electric mobility devices, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(6A)">section 2(6A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(6A))</code-cite>, motorized bicycles, as the term is defined in <code-cite doc="D.C. Code" path="§50-2201.02|(11A)">section 2(11A) of the District of Columbia Traffic Act, 1925, approved March 3, 1925 (43 Stat. 1119; D.C. Official Code § 50-2201.02(11A))</code-cite>, or a battery-operated wheelchair when operated by a person with a disability.</text>
         </para>
@@ -802,8 +802,8 @@
       <para>
         <num>(a)</num>
         <text>The amendatory section 6c(f) within section 101(b) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-        <codify:repeal doc="D.C. Code" path="§50-2201.03c|(f)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.03c|(f)" codified:citation="§ 50-2201.03c" codified:display="Amend"/>
-        <codify:find-replace doc="D.C. Code" path="§50-2201.03c|(f)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.03c|(f)" codified:citation="§ 50-2201.03c" codified:display="Amend">
+        <codify:repeal doc="D.C. Code" path="§50-2201.03c|(f)" codified:doc="D.C. Code" codified:path="§50-2201.03c|(f)"/>
+        <codify:find-replace doc="D.C. Code" path="§50-2201.03c|(f)" count="1" codified:doc="D.C. Code" codified:path="§50-2201.03c|(f)">
           <find>Repealed</find>
           <replace>Not Funded</replace>
         </codify:find-replace>
