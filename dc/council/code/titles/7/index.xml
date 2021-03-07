@@ -1661,6 +1661,13 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>23A-ii</num>
+    <heading>Authority of the Chief Procurement Officer During a Public Health Emergency.</heading>
+    <annotation app="2021-02-26" doc="D.C. Act 24-26" eff="2021-02-26" path="II" type="History" display="false"/>
+    <xi:include href="./sections/7-2336.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>23B</num>
     <heading>Emergency Medical Services.</heading>
     <xi:include href="./sections/7-2341.01.xml"/>
@@ -1912,6 +1919,10 @@
       <xi:include href="./sections/7-2510.05.xml"/>
       <xi:include href="./sections/7-2510.06.xml"/>
       <xi:include href="./sections/7-2510.07.xml"/>
+      <xi:include href="./sections/7-2510.07a.xml"/>
+      <xi:include href="./sections/7-2510.07b.xml"/>
+      <xi:include href="./sections/7-2510.07c.xml"/>
+      <xi:include href="./sections/7-2510.07d.xml"/>
       <xi:include href="./sections/7-2510.08.xml"/>
       <xi:include href="./sections/7-2510.09.xml"/>
       <xi:include href="./sections/7-2510.10.xml"/>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-2510.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on May 27, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§7-2510.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Service of extreme risk protection orders.</heading>
   <para>
     <num>(a)</num>
@@ -10,20 +13,20 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The court shall submit a copy of extreme risk protection order to the Metropolitan Police Department on or before the next business day after the issuance of the order for service upon the respondent. Service of an extreme risk protection order shall take precedence over the service of other documents, unless the other documents are of a similar emergency nature.</text>
+      <text>The court shall submit a copy of extreme risk protection order to the Metropolitan Police Department on or before the next day after the issuance of the order for service upon the respondent. Service of an extreme risk protection order shall take precedence over the service of other documents, unless the other documents are of a similar emergency nature.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>If the Metropolitan Police Department cannot complete personal service upon the respondent within 5 business days after receiving an order from the court under paragraph (2) of this subsection, the Metropolitan Police Department shall notify the petitioner.</text>
+      <text>If the Metropolitan Police Department cannot complete personal service upon the respondent within 7 days after receiving an order from the court under paragraph (2) of this subsection, the Metropolitan Police Department shall notify the petitioner.</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>Within one business day after service, the Metropolitan Police Department shall submit proof of service to the court.</text>
+      <text>Within 24 hours after service, the Metropolitan Police Department shall submit proof of service to the court.</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>If the respondent was personally served in court when the extreme risk protection order was addedsued, the requirements of subsection (a) of this section shall be waived.</text>
+    <text>If the respondent was personally served in court when the extreme risk protection order was issued, the requirements of subsection (a) of this section shall be waived.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 1-85" type="History" path="§101">Sept. 24, 1976, D.C. Law 1-85, title X, § 1005</annotation>
@@ -47,5 +50,11 @@
     <annotation app="2020-07-27" doc="D.C. Act 23-342" eff="2020-07-27" path="§4|(i)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-123" path="§4|(h)" codified:display="Note" app="2020-08-06" eff="2020-08-06">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-123" path="§4|(h)">§ 4(h) of Firearms Safety Omnibus Clarification Temporary Amendment Act of 2020 (D.C. Law 23-123, Aug. 6, 2020, 67 DCR 5103)</cite>.</annotation>
     <annotation app="2020-08-06" doc="D.C. Law 23-123" eff="2020-08-06" path="§4|(h)" type="History" display="false"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(k)" type="History" display="false"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(k)|(1)|(A)" type="History"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(k)|(1)|(B)" type="History"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(k)|(1)|(C)" type="History"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(k)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-25" path="§4|(k)" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-25" path="§4|(k)">§ 4(k) of Omnibus Public Safety and Justice Emergency Amendment Act of 2021 (D.C. Act 24-25, Feb. 26, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

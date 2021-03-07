@@ -1668,13 +1668,13 @@
       <container>
         <prefix>Chapter</prefix>
         <num>6A</num>
-        <heading>Registration of Third-party Food Delivery Commissions During a Public Health Emergency.</heading>
+        <heading>Third-party Food Delivery.</heading>
       </container>
     </codify:insert>
     <section>
       <codify:insert doc="D.C. Code" path="48|6A" num-value="48-641" codified:doc="D.C. Code" codified:path="§48-641"/>
       <num>205</num>
-      <heading>Third-party food delivery commissions.</heading>
+      <heading>Registration of third-party food delivery commissions during a public health emergency.</heading>
       <para>
         <num>(a)</num>
         <text>During a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite> ("public health emergency"), a person, corporation, partnership, or association operating a third-party food platform within the District shall register with the Department of Consumer and Regulatory Affairs.</text>
@@ -3589,20 +3589,14 @@
         <text>The Rental Housing Conversion and Sale Act of 1980, effective September 10, 1980 (D.C. Law 3-86; D.C. Official Code § 42-3401.01 <em>et seq.</em>), is amended by adding a new section 510b to read as follows:</text>
         <include>
           <section>
-            <codify:insert doc="D.C. Code" path="42|34|V" after="§42-3405.10a" num-value="42-3405.10b" history-prefix="as added" codified:doc="D.C. Code" codified:path="§42-3405.10b"/>
             <num>510b</num>
             <heading>Tolling of tenant deadlines during a public health emergency.</heading>
             <text>The running of all time periods for tenants and tenant organizations to exercise rights under <code-cite doc="D.C. Code" path="42|34">this act</code-cite> shall be tolled from the beginning of the period of a public health emergency declared pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, until the end of the public health emergency, and for 30 days thereafter.</text>
-            <annotation doc="D.C. Law 3-86" type="History" path="§510b">Sept. 10, 1980, D.C. Law 3-86, § 510b</annotation>
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:applicability doc="D.C. Law 23-130" path="§405|(a)" date="2021-02-27" history="false" codified:doc="D.C. Code" codified:path="§42-3405.10b"/>
         <codify:temporary doc="D.C. Code" path="§42-3405.10b" action="creation of this section" codified:doc="D.C. Code" codified:path="§42-3405.10b" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§42-3405.10b" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3405.10b">
-          <text>
-      *NOTE: This section was created by temporary legislation that will expire on April 1, 2021.*
-      </text>
-        </codify:insert>
       </para>
       <para>
         <num>(b)</num>

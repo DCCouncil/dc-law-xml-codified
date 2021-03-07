@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>51-110</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on May 27, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§51-110(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Disqualification for benefits.</heading>
   <para>
     <num>(a)</num>
-    <text>For weeks commencing after March 15, 1983, any individual who left his most recent work voluntarily without good cause connected with the work, as determined under duly prescribed regulations, shall not be eligible for benefits until he has been employed in each of 10 subsequent weeks (whether or not consecutive) and, notwithstanding <cite path="§51-101">§ 51-101</cite>, has earned wages from employment as defined by this subchapter equal to not less than 10 times the weekly benefit amount to which he would be entitled pursuant to <cite path="§51-107|(b)">§ 51-107(b)</cite>.</text>
+    <para>
+      <num>(1)</num>
+      <text>For weeks commencing after March 15, 1983, any individual who left his most recent work voluntarily without good cause connected with the work, as determined under duly prescribed regulations, shall not be eligible for benefits until he has been employed in each of 10 subsequent weeks (whether or not consecutive) and, notwithstanding <cite path="§51-101">§ 51-101</cite>, has earned wages from employment as defined by this subchapter equal to not less than 10 times the weekly benefit amount to which he would be entitled pursuant to <cite path="§51-107|(b)">§ 51-107(b)</cite>.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For the purposes of paragraph (1) of this subsection, the term "good cause" includes working in unsafe locations or under unsafe conditions where such unsafe working condition or environment would cause a reasonable and prudent person in the labor market to leave the work, as determined by the Director based on the facts in each case.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -245,5 +255,8 @@
     <annotation type="Section References">This section is referenced in <cite path="§51-101">§ 51-101</cite>, <cite path="§51-103">§ 51-103</cite>, <cite path="§51-107">§ 51-107</cite>, <cite path="§51-109">§ 51-109</cite>, and <cite path="§51-111">§ 51-111</cite>.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-14" path="§2|(b)" codified:display="Note" app="2019-02-25" eff="2019-02-25">For temporary (90 days) creation of new § 51-110.01, see <cite doc="D.C. Act 23-14" path="§2|(b)">§ 2(b) of Supporting Essential Workers Unemployment Insurance Emergency Amendment Act of 2019 (D.C. Act 23-14, Feb. 25, 2019, 66 DCR 2469)</cite>.</annotation>
     <annotation app="2019-02-25" doc="D.C. Act 23-14" eff="2019-02-25" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-26" eff="2021-02-26" path="§502" type="History" display="false"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-26" eff="2021-02-26" path="§301|(1)" type="History"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-26" eff="2021-02-26" path="§301|(2)" type="History"/>
   </annotations>
 </section>

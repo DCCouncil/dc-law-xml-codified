@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>22-4251</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on May 27, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§22-4251(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Comprehensive Homicide Elimination Strategy Task Force.</heading>
   <para>
     <num>(a)</num>
@@ -10,7 +13,7 @@
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>The Task Force shall be comprised of 20 representatives from among the following entities:</text>
+      <text>The Task Force shall be comprised of 20 representatives from among the following entities, of which one-third shall constitute a quorum:</text>
       <para>
         <num>(i)</num>
         <text>Government agencies;</text>
@@ -67,7 +70,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>No later than June 1, 2019, the Task Force shall hold at least 3 public meetings and shall submit the report required in subsection (a) of this section to the Mayor and the Council.</text>
+    <text>No later than June 1, 2021, the Task Force shall hold at least 3 public meetings and shall submit the report required in subsection (a) of this section to the Mayor and the Council.</text>
   </para>
   <para placeholder="Repealed">
     <num>(d)</num>
@@ -119,5 +122,9 @@
     <annotation app="2020-07-27" doc="D.C. Act 23-342" eff="2020-07-27" path="§5" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-123" path="§5" codified:display="Note" app="2020-08-06" eff="2020-08-06">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-123" path="§5">§ 5 of Firearms Safety Omnibus Clarification Temporary Amendment Act of 2020 (D.C. Law 23-123, Aug. 6, 2020, 67 DCR 5103)</cite>.</annotation>
     <annotation app="2020-08-06" doc="D.C. Law 23-123" eff="2020-08-06" path="§5" type="History" display="false"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§5" type="History" display="false"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§5|(a)" type="History"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§5|(b)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-25" path="§5" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-25" path="§5">§ 5 of Omnibus Public Safety and Justice Emergency Amendment Act of 2021 (D.C. Act 24-25, Feb. 26, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

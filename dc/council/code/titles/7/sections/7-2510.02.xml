@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-2510.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on May 27, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§7-2510.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Petitions for extreme risk protection orders.</heading>
   <para>
     <num>(a)</num>
@@ -15,11 +18,11 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>To the best of the petitioner's knowledge, identify the number, types, and locations of any firearms or ammunition the petitioner believes to be in the respondent's possession, control, or ownership;</text>
+      <text>To the best of the petitioner's knowledge, identify the number, types, and locations of any firearms or ammunition the petitioner believes to be in the respondent's possession, control, or ownership; and</text>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(4)</num>
-      <text>Be accompanied by any appropriate exhibits, affidavits, and supporting documents; and</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -32,23 +35,74 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>The Office of Attorney General may provide individual legal representation to a petitioner. If the Office of Attorney General decides to provide individual legal representation to a petitioner, the representation shall continue until the earliest of:</text>
     <para>
       <num>(1)</num>
-      <text>The court denies the petition for a final extreme risk protection order pursuant to <cite path="§7-2510.03">§ 7-2510.03</cite>;</text>
+      <text>The Office of the Attorney General may:</text>
+      <para>
+        <num>(A)</num>
+        <text>Intervene in the case and represent the interests of the District of Columbia; or</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>At the request of the petitioner, provide individual legal representation to the petitioner in proceedings under <cite path="7|25|X">this subchapter</cite>.</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>The court terminates a final extreme risk protection order pursuant to <cite path="§7-2510.08">§ 7-2510.08</cite>; or</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The Office of the Attorney General withdraws from representation.</text>
+      <text>If the Office of the Attorney General intervenes in a case under paragraph (1)(A) of this subsection, the intervention shall continue until:</text>
+      <para>
+        <num>(A)</num>
+        <text>The court denies the petition for a final extreme risk protection order pursuant to <cite path="§7-2510.03">§ 7-2510.03</cite>;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The court terminates a final extreme risk protection order pursuant to <cite path="§7-2510.08">§ 7-2510.08</cite>; or</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The Office of the Attorney General withdraws from the intervention.</text>
+      </para>
     </para>
   </para>
   <para>
     <num>(d)</num>
-    <text>At the request of the petitioner or respondent, the court may place any record or part of a proceeding related to the issuance, renewal, or termination of an extreme risk protection order under seal while the petition is pending.</text>
+    <text>The court may place any record or part of a proceeding related to the issuance, renewal, or termination of an extreme risk protection order under seal for good cause shown.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>When computing a time period specified in <cite path="7|25|X">this subchapter</cite>, or in an order issued under <cite path="7|25|X">this subchapter</cite>:</text>
+    <para>
+      <num>(1)</num>
+      <text>Stated in days or a longer unit of time:</text>
+      <para>
+        <num>(A)</num>
+        <text>Exclude the day of the event that triggers the time period;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Count every day, including intermediate Saturdays, Sundays and legal holidays; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Include the last day of the time period, but if the last day of the time period specified falls on a Saturday, Sunday, a legal holiday, or a day on which weather or other conditions cause the court to be closed, the time period specified shall continue to run until the end of the next day that is not a Saturday, Sunday, legal holiday, or a day on which weather or other conditions cause the court to be closed.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Stated in hours:</text>
+      <para>
+        <num>(A)</num>
+        <text>Begin counting immediately on the occurrence of the event that triggers the time period;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Count every hour, including hours during intermediate Saturdays, Sundays, and legal holidays; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>If the time period would end on a Saturday, Sunday, legal holiday, or a day on which weather or other conditions cause the court to be closed, the time period shall continue to run until the same time on the next day that is not a Saturday, Sunday, legal holiday, or a day on which weather or other conditions cause the court to be closed.</text>
+      </para>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 1-85" type="History" path="§101">Sept. 24, 1976, D.C. Law 1-85, title X, § 1002</annotation>
@@ -72,5 +126,12 @@
     <annotation app="2020-07-27" doc="D.C. Act 23-342" eff="2020-07-27" path="§4|(e)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-123" path="§4|(e)" codified:display="Note" app="2020-08-06" eff="2020-08-06">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-123" path="§4|(e)">§ 4(e) of Firearms Safety Omnibus Clarification Temporary Amendment Act of 2020 (D.C. Law 23-123, Aug. 6, 2020, 67 DCR 5103)</cite>.</annotation>
     <annotation app="2020-08-06" doc="D.C. Law 23-123" eff="2020-08-06" path="§4|(e)" type="History" display="false"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(h)" type="History" display="false"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(h)|(1)|(A)" type="History"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(h)|(1)|(B)" type="History"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(h)|(2)" type="History"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(h)|(3)" type="History"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(h)|(4)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-25" path="§4|(h)" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-25" path="§4|(h)">§ 4(h) of Omnibus Public Safety and Justice Emergency Amendment Act of 2021 (D.C. Act 24-25, Feb. 26, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
