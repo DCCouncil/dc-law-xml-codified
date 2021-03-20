@@ -1,47 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-1202.03a</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on May 14, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§10-1202.03a(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Assistance for excluded workers.</heading>
   <para>
     <num>(a)</num>
-    <text>During the public health emergency declared in the Mayor's order dated March 11, 2020 and any extensions thereof, the Washington Convention and Sports Authority ("Events DC") shall issue, subject to the availability of funds, grants or contracts to nonprofit entities to use to provide cash assistance to District residents who are otherwise excluded from District and federal aid related to COVID-19. To qualify for cash assistance from grants or contracts awarded pursuant to this section, a District resident shall, at the time of application for assistance under this section:</text>
+    <text>During the public health emergency declared in the Mayor's order dated March 11, 2020 and any extensions thereof, the Washington Convention and Sports Authority shall issue, subject to the availability of funds, grants or contracts to nonprofit entities to use to provide cash assistance to District residents who are otherwise excluded from District and federal aid related to COVID-19. To qualify for cash assistance from grants or contracts awarded pursuant to this section, a District resident shall:</text>
     <para>
       <num>(1)</num>
-      <text>Demonstrate loss of income due to the public health emergency;</text>
+      <para>
+        <num>(A)</num>
+        <text>Be ineligible for unemployment insurance or federal COVID-19 relief; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Be ineligible for TANF or other government cash assistance programs not related to the COVID-19 pandemic; or</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
-      <para>
-        <num>(A)</num>
-        <text>Be ineligible for:</text>
-        <para>
-          <num>(i)</num>
-          <text>Unemployment insurance; or</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>COVID-19 relief; or</text>
-        </para>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Be a returning citizen, as defined by section 2(5) of the Office on Ex-Offender Affairs and Commission on Re-Entry and Ex-Offender Affairs Establishment Act of 2006, effective March 8, 2007 (D.C. Law 16-243; D.C. Official Code § 24-1301(5)), whose incarceration ended not more than 6 months before the time of application for assistance under this section; and</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Provide a:</text>
-      <para>
-        <num>(A)</num>
-        <text>Signed certification that the resident's loss of income stems from the public health emergency; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Proof of residency and eligibility for relief, as determined by Events DC and consistent with rules and standards for COVID-19 relief programs administered by Events DC.</text>
-      </para>
+      <text>Be a returning citizen, as defined by <cite path="§24-1301|(5)">§ 24-1301(5)</cite>, who would not otherwise qualify under paragraph (1) of this subsection and whose incarceration ended not more than 6 months before receiving assistance.</text>
     </para>
   </para>
   <para>
@@ -61,7 +38,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>"COVID-19 relief" means federal monetary unemployment assistance provided under the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 281; 15 U.S.C. § 9001 <em>et seq.</em>), which shall include tax credits but shall not include federal Economic Impact Payments or other stimulus relief for which eligibility is not contingent on the recipient's employment status.</text>
+      <text>COVID-19 relief" means federal monetary assistance, including tax credits, provided under the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 281; 15 U.S.C. § 9001 <em>et seq.</em>).</text>
     </para>
   </para>
   <annotations>
@@ -73,15 +50,10 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-522" path="§2" codified:display="Note" app="2020-12-07" eff="2020-12-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-522" path="§2">§ 2 of Fiscal Year 2021 Budget Support Additional Clarification Emergency Amendment Act of 2020 (D.C. Act 23-522, Dec. 7, 2020, 67 DCR 14439)</cite>.</annotation>
     <annotation app="2020-12-07" doc="D.C. Act 23-522" eff="2020-12-07" path="§2" type="History" display="false"/>
     <annotation doc="D.C. Act 23-554" path="§2|(b)" type="Emergency Legislation" history="false" app="2020-12-22" eff="2020-12-22">
-            For temporary (90 days) creation of this section, see § 2 of Fiscal Year 2021 Budget Support Additional Clarification Emergency Amendment Act of 2020 (D.C. Act 23-554, December 7, 2020, 67 DCR 14439).
+            For temporary (90 days) amendment of this section, see § 2 of Fiscal Year 2021 Budget Support Additional Clarification Emergency Amendment Act of 2020 (D.C. Act 23-554, December 7, 2020, 67 DCR 14439).
           </annotation>
     <annotation app="2020-12-22" doc="D.C. Act 23-554" eff="2020-12-22" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-176" eff="2020-12-23" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-176" eff="2020-12-23" path="§2|(b)|(1)|(B)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-176" eff="2020-12-23" path="§2|(b)|(1)|(C)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-176" eff="2020-12-23" path="§2|(b)|(1)|(A)|(i)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-176" eff="2020-12-23" path="§2|(b)|(1)|(A)|(ii)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-176" eff="2020-12-23" path="§2|(b)|(2)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-176" path="§2|(b)" codified:display="Note" app="2020-12-23" eff="2020-12-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-176" path="§2|(b)">§ 2(b) of Fiscal Year 2021 Budget Support Clarification Temporary Amendment Act of 2020 (D.C. Law 23-176, Dec. 23, 2020, 67 DCR 13036)</cite>.</annotation>
+    <annotation app="2020-12-23" doc="D.C. Law 23-176" eff="2020-12-23" path="§2|(b)" type="History" display="false"/>
   </annotations>
 </section>

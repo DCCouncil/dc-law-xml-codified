@@ -191,12 +191,25 @@
   <container>
     <prefix>Chapter</prefix>
     <num>6A</num>
-    <heading>Commission on Poverty.</heading>
+    <heading>Commission on Poverty.<annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§301|(a)" type="History" display="false"/><annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History"/></heading>
     <xi:include href="./sections/3-631.xml"/>
     <xi:include href="./sections/3-632.xml"/>
     <xi:include href="./sections/3-633.xml"/>
     <xi:include href="./sections/3-634.xml"/>
     <xi:include href="./sections/3-635.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6A-i</num>
+    <heading>Commission of Poverty.</heading>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History" display="false"/>
+    <xi:include href="./sections/3-641.01.xml"/>
+    <xi:include href="./sections/3-641.02.xml"/>
+    <xi:include href="./sections/3-641.03.xml"/>
+    <xi:include href="./sections/3-641.04.xml"/>
+    <xi:include href="./sections/3-641.05.xml"/>
+    <xi:include href="./sections/3-641.06.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

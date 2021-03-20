@@ -41,6 +41,18 @@
       <num>(9)</num>
       <text>"In-network health care provider" means the health care providers or health care facilities that have contracted with a health insurer to provide services to plan members for negotiated rates.</text>
     </para>
+    <para placeholder="Not Funded">
+      <num>(9A)</num>
+      <text>Not Funded.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(9B)</num>
+      <text>Not Funded.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(9C)</num>
+      <text>Not Funded.</text>
+    </para>
     <para>
       <num>(10)</num>
       <text>"Opioid use disorder" means a pattern of opioid use leading to clinically significant impairment or distress, as manifested by symptoms identified in the most recent publication of the Diagnostic and Statistical Manual of Mental Disorders of the American Psychiatric Association.</text>
@@ -67,5 +79,9 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7168" display="false">For temporary (90 days) repeal of applicability provision of D.C. Law 22-288, see <cite doc="D.C. Act 23-112" path="§7168">§ 7168 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
     <annotation app="2019-09-04" doc="D.C. Act 23-112" eff="2019-09-04" path="§7168" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-112" codified:display="Note" app="2019-09-04" eff="2019-09-04" path="§7168">For temporary (90 days) repeal of applicability provision of D.C. Law 22-288, see <cite doc="D.C. Act 23-112" path="§7168">§ 7168 of Fiscal Year 2020 Budget Support Congressional Review Emergency Act of 2019 (D.C. Act 23-112, Sept. 4, 2019, 66 DCR 11964)</cite>.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-182" eff="2021-03-16" path="§6|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-182" eff="2021-03-16" path="§3|(a)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-182" path="§3|(a)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-182" path="">D.C. Law 23-182</cite>: <cite doc="D.C. Law 23-182" path="§6">§ 6 of D.C. Law 23-182</cite> provided that the change made to this section by <cite doc="D.C. Law 23-182" path="§3|(a)">§ 3(a) of D.C. Law 23-182</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-182" eff="2021-03-16" path="§3|(a)" type="History"/>
   </annotations>
 </section>

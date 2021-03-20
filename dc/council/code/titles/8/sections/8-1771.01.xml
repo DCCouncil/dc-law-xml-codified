@@ -7,21 +7,57 @@
     <num>(1)</num>
     <text>“Ballast” means a device used with an electric discharge lamp to obtain necessary circuit conditions (voltage, current, and waveform) for starting and operating the lamp.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(1A)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(2)</num>
     <text>“Bottle-type water dispenser” means a water dispenser that uses a bottle or reservoir as the source of potable water.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(2A)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(2B)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(2C)</num>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(3)</num>
     <text>“Commercial hot food holding cabinet” means a heated, fully-enclosed compartment with one or more solid or glass doors that is designed to maintain the temperature of hot food that has been cooked in a separate appliance. The term “commercial hot food holding cabinet” shall not include heated glass merchandizing cabinets, drawer warmers, or cook-and-hold appliances.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(3A)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(4)</num>
     <text>“Construction Codes” means the standards and requirements adopted pursuant to <cite path="6|14">Chapter 14 of Title 6</cite>.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(4A)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(4B)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(5)</num>
     <text>“High-intensity discharge lamp” means a lamp in which light is produced by the passage of an electric current through a vapor or gas and in which the light-producing arc is stabilized by bulb wall temperature and the arc tube has a bulb wall loading in excess of 3 watts per square centimeter.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(5A)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(5B)</num>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(6)</num>
@@ -31,9 +67,37 @@
     <num>(7)</num>
     <text>“Metal halide lamp fixture” means a light fixture designed to be operated with a metal halide lamp and a ballast for a metal halide lamp.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(7A)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(7B)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(7C)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(8)</num>
     <text>“Probe-start metal halide ballast” means a ballast which is used to operate metal halide lamps, which does not contain an igniter, and which starts lamps by using a 3rd starting electrode probe in the arc tube.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(8A)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(8B)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(8C)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(8D)</num>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(9)</num>
@@ -79,6 +143,14 @@
       <text>Has a nameplate output power not exceeding 250 watts.</text>
     </para>
   </para>
+  <para placeholder="Not Funded">
+    <num>(9A)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(9B)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(10)</num>
     <text>“State-regulated incandescent reflector lamp” means a lamp, not colored or designed for rough or vibration service applications, with an inner reflective coating on the outer bulb to direct the light, an E26 medium screw base, a rated voltage or voltage range that lies at least partially within 115 to 130 volts, and that falls into either of the following categories:</text>
@@ -91,9 +163,21 @@
       <text>A reflector, parabolic aluminized reflector, or similar bulb shape with a diameter of 2.25 to 2.75 inches.</text>
     </para>
   </para>
+  <para placeholder="Not Funded">
+    <num>(10A)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(11)</num>
     <text>“Walk-in refrigerator or freezer” means a refrigerated space that can be walked into and has a total chilled and frozen storage area of less than 3,000 square feet, operates at chilled (above 32 degrees Fahrenheit) or frozen (at or below 32 degrees Fahrenheit) temperature, and is connected to a self-contained or remote condensing unit. The term “walk-in refrigerator or freezer” shall not include products designed and marketed exclusively for medical, scientific, or research purposes, or refrigerated warehouses.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(11A)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(11B)</num>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(12)</num>
@@ -101,5 +185,19 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 17-64" type="History" path="§2">Dec. 11, 2007, D.C. Law 17-64, § 2, 54 DCR 10964</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-195" eff="2021-03-16" path="§3|(b)|(1)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-195" eff="2021-03-16" path="§2|(a)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-195" eff="2021-03-16" path="§2|(a)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-195" eff="2021-03-16" path="§2|(a)|(4)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-195" eff="2021-03-16" path="§2|(a)|(5)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-195" eff="2021-03-16" path="§2|(a)|(6)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-195" eff="2021-03-16" path="§2|(a)|(7)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-195" eff="2021-03-16" path="§2|(a)|(8)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-195" eff="2021-03-16" path="§2|(a)|(9)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-195" eff="2021-03-16" path="§2|(a)|(10)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-195" eff="2021-03-16" path="§2|(a)|(11)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-195" eff="2021-03-16" path="§2|(a)|(12)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-195" path="§2|(a)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-195" path="">D.C. Law 23-195</cite>: <cite doc="D.C. Law 23-195" path="§3">§ 3 of D.C. Law 23-195</cite> provided that the change made to this section by <cite doc="D.C. Law 23-195" path="§2|(a)">§ 2(a) of D.C. Law 23-195</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-195" eff="2021-03-16" path="§2|(a)" type="History"/>
   </annotations>
 </section>

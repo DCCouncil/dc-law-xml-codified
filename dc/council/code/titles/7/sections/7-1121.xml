@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <codify:find-replace doc="D.C. Code" path="7|11C|num" count="1" codified:doc="D.C. Code" codified:path="7|11D">
+    <find>11C</find>
+    <replace>11D</replace>
+  </codify:find-replace>
+  <codify:find-replace doc="D.C. Code" path="7|11B|num" position="first" codified:doc="D.C. Code" codified:path="7|11C">
+    <find>11B</find>
+    <replace>11C</replace>
+  </codify:find-replace>
+  <codify:find-replace doc="D.C. Code" path="7|11A|num" codified:doc="D.C. Code" codified:path="7|11B">
+    <find>11A</find>
+    <replace>11B</replace>
+  </codify:find-replace>
+  <codify:insert doc="D.C. Code" path="7" after="11" history="false" codified:doc="D.C. Code" codified:path="7|11A">
+    <container>
+      <prefix>Chapter</prefix>
+      <num>11A</num>
+      <heading>Psychology Interjurisdictional Compact.</heading>
+    </container>
+  </codify:insert>
+  <reason>Not Funded</reason>
+  <num>7-1121</num>
+  <heading>Psychology Interjurisdictional Compact.</heading>
+  <text>Not Funded.</text>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§7-1121" codified:display="Note" codified:doc="D.C. Code" codified:path="§7-1121">Applicability of <cite doc="D.C. Law 23-190" path="">D.C. Law 23-190</cite>: <cite doc="D.C. Law 23-190" path="§3">§ 3 of D.C. Law 23-190</cite> provided that the creation of this section by <cite doc="D.C. Law 23-190" path="§2">§ 2 of D.C. Law 23-190</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <annotations>
+    <annotation app="2021-03-16" doc="D.C. Law 23-190" eff="2021-03-16" path="§2" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-190" eff="2021-03-16" path="§2" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-190" path="§2" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-190" path="">D.C. Law 23-190</cite>: <cite doc="D.C. Law 23-190" path="§3">§ 3 of D.C. Law 23-190</cite> provided that the creation of this section by <cite doc="D.C. Law 23-190" path="§2">§ 2 of D.C. Law 23-190</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-190" eff="2021-03-16" path="§3|(a)" type="History" display="false"/>
+  </annotations>
+</section>

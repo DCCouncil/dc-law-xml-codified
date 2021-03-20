@@ -79,6 +79,14 @@
     <num>(11)</num>
     <text>“Educational facility” means any building that has the provision of education as its primary use.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(11A)</num>
+    <text>Not Funded.</text>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(11B)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(12)</num>
     <text>“ENERGY STAR Portfolio Manager” means the tool developed by EPA ENERGY STAR that rates the performance of a qualifying building, relative to similar buildings nationwide, accounting for the impacts of year-to-year weather variations, building size, location, and several operating characteristics, using the Environmental Protection Agency’s national energy performance rating system.</text>
@@ -175,6 +183,10 @@
     <num>(32A)</num>
     <text>“Mixed-use space” means demised space in any residential project that contains at least 50,000 contiguous square feet of gross floor area, exclusive of common space, that is or would be occupied for a nonresidential use.</text>
   </para>
+  <para placeholder="Not Funded">
+    <num>(32B)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(33)</num>
     <text>“New construction” means the construction of any building whether as a stand-alone building or an addition to an existing building. The term “new construction” includes new buildings and additions or enlargements of existing buildings, exclusive of any alterations or repairs to any existing portion of a building.</text>
@@ -252,5 +264,10 @@
     <annotation type="Effect of Amendments"><cite doc="D.C. Law 18-349">D.C. Law 18-349</cite> added pars. (2A), (9A), and (31A); in par. (4), substituted “DCRA” for “the Department’; and rewrote par. (9) and repealed pars. (27), (28), (30), (31), and (34).</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§1-301.181">§ 1-301.181</cite>, <cite path="§2-1212.24">§ 2-1212.24</cite>, <cite path="§2-1226.32">§ 2-1226.32</cite>, and <cite path="§10-551.06">§ 10-551.06</cite>.</annotation>
     <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="§6044|(a)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-194" eff="2021-03-16" path="§3|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-194" eff="2021-03-16" path="§2|(a)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-194" eff="2021-03-16" path="§2|(a)|(2)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-194" path="§2|(a)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-194" path="">D.C. Law 23-194</cite>: <cite doc="D.C. Law 23-194" path="§3">§ 3 of D.C. Law 23-194</cite> provided that the change made to this section by <cite doc="D.C. Law 23-194" path="§2|(a)">§ 2(a) of D.C. Law 23-194</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-194" eff="2021-03-16" path="§2|(a)" type="History"/>
   </annotations>
 </section>

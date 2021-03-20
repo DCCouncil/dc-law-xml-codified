@@ -12,6 +12,14 @@
     <text>“All-terrain vehicle” or “ATV” means any motor vehicle with 3 or more tires that is designed primarily for off-road use and which has a seat or saddle designed to be straddled by the operator. The terms “all-terrain vehicle” and “ATV” shall not include golf carts, riding lawnmowers, or tractors.</text>
   </para>
   <para>
+    <num>(2A)</num>
+    <text>"Block" means the 2 opposite sides of a street between 2 consecutive street intersections.</text>
+  </para>
+  <para>
+    <num>(2B)</num>
+    <text>"Block face" means one side of a block.</text>
+  </para>
+  <para>
     <num>(3)</num>
     <text>“Collision” means an impact between the operator’s vehicle, or anything attached to or transported by the vehicle, and anything else, regardless of whether it is a person, a wild or domestic animal, real property, or personal property.</text>
   </para>
@@ -44,8 +52,39 @@
     <text>“Court” means the Superior Court of the District of Columbia, except when used in the definition of “prior offense” when it shall also include courts of other jurisdictions.</text>
   </para>
   <para>
+    <num>(5A)</num>
+    <text>"Director" means the Director of the District Department of Transportation.</text>
+  </para>
+  <para>
     <num>(6)</num>
     <text>“Dirt bike” means any motorcycle designed primarily for off-road use.</text>
+  </para>
+  <para>
+    <num>(6A)</num>
+    <para>
+      <num>(A)</num>
+      <text>"Electric mobility device" means a device weighing less than 60 pounds that:</text>
+      <para>
+        <num>(i)</num>
+        <text>Has an electric motor;</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>Is solely powered by the electric motor or human power;</text>
+      </para>
+      <para>
+        <num>(iii)</num>
+        <text>Is designed to transport only one person in a standing or seated position, where the rider is not enclosed; and</text>
+      </para>
+      <para>
+        <num>(iv)</num>
+        <text>Is no greater than 24 inches wide and 48 inches long.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The term "electric mobility device" shall not include a motorized bicycle, personal mobility device, motorcycle, or moped.</text>
+    </para>
   </para>
   <para>
     <num>(7)</num>
@@ -60,24 +99,113 @@
     <text>“Law enforcement officer” means a sworn member of the Metropolitan Police Department or a sworn member of any other police force operating in the District of Columbia.</text>
   </para>
   <para>
+    <num>(9A)</num>
+    <text>"Lock-to mechanism" means a mechanism on shared fleet devices that locks the device to an object or infrastructure.</text>
+  </para>
+  <para>
     <num>(10)</num>
     <text>“Mayor” means the Mayor of the District of Columbia or his or her designee.</text>
   </para>
   <para>
     <num>(11)</num>
-    <text>“Motor vehicle” means all vehicles propelled by internal-combustion engines, electricity, or steam. The term “motor vehicle” shall not include traction engines, road rollers, vehicles propelled only upon rails or tracks, personal mobility devices, as defined in paragraph (13) of this section, or a battery-operated wheelchair when operated by a person with a disability.</text>
+    <text>“Motor vehicle” means all vehicles propelled by internal-combustion engines, electricity, or steam. The term “motor vehicle” shall not include traction engines, road rollers, vehicles propelled only upon rails or tracks, electric mobility devices, personal mobility devices, motorized bicycles or a battery-operated wheelchair when operated by a person with a disability.</text>
+  </para>
+  <para>
+    <num>(11A)</num>
+    <para>
+      <num>(A)</num>
+      <text>"Motorized bicycle" means a 2 or 3 wheeled vehicle with all of the following characteristics:</text>
+      <para>
+        <num>(i)</num>
+        <text>A post mounted seat or saddle for each person that the device is designed and equipped to carry;</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>A vehicle with 2 or 3 wheels in contact with the ground, which are at least 16 inches in diameter;</text>
+      </para>
+      <para>
+        <num>(iii)</num>
+        <text>Fully operative pedals for human propulsion; and</text>
+      </para>
+      <para>
+        <num>(iv)</num>
+        <text>A motor incapable of propelling the device at a speed of more than 20 miles per hour on level ground.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The term "motorized bicycle" shall not include electric mobility devices, personal mobility devices, or a battery-operated wheelchair when operated by a person with a disability.</text>
+    </para>
   </para>
   <para>
     <num>(12)</num>
     <text>“Park” means to leave any motor vehicle standing on a highway, whether or not attended.</text>
   </para>
   <para>
+    <num>(12A)</num>
+    <text>"Permitted operator" means a SFD operating company that has a SFD permit.</text>
+  </para>
+  <para>
+    <num>(12B)</num>
+    <text>"Personal information" means information that can reasonably be used to contact or distinguish a person, including internet protocol addresses, device identifiers, bank or credit card information, home addresses, email addresses, or phone numbers.</text>
+  </para>
+  <para>
     <num>(13)</num>
-    <text>“Personal mobility device” or “PMD” means a motorized propulsion device designed to transport one person or a self-balancing, two non-tandem wheeled device, designed to transport only one person with an electric propulsion system, but does not include a battery-operated wheelchair.</text>
+    <para>
+      <num>(A)</num>
+      <text>"Personal mobility device" or "PMD" means a motorized propulsion device that is designed to transport only one person that:</text>
+      <para>
+        <num>(i)</num>
+        <text>Weighs 60 pounds or more; or</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>Is a self-balancing, two non-tandem wheeled device.</text>
+      </para>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The term "personal mobility device" shall not include:</text>
+      <para>
+        <num>(i)</num>
+        <text>A battery-operated wheelchair;</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>An electric mobility device; or</text>
+      </para>
+      <para>
+        <num>(iii)</num>
+        <text>A motorized bicycle.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(14)</num>
     <text>“Prior offense” means any guilty plea or verdict, including a finding of guilty in the case of a juvenile, for an offense under District law or a disposition in another jurisdiction for a substantially similar offense which occurred before the current offense regardless of when the arrest occurred. The term “prior offense” does not include an offense where the later of any term of incarceration, supervised release, parole, or probation ceased or expired more than 15 years prior to the arrest on the current offense.</text>
+  </para>
+  <para>
+    <num>(14A)</num>
+    <text>"SFD fleet" means all shared fleet devices of any single type of shared fleet device made available for rent by a permitted operator.</text>
+  </para>
+  <para>
+    <num>(14B)</num>
+    <para>
+      <num>(A)</num>
+      <text>"SFD operating company" means a company that provides rental of shared fleet devices for use in the public right-of-way without requiring the installation of any infrastructure within the public right-of-way.</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>The term "SFD operating company" shall not include the District Department of Transportation or its contractors operating Capital Bikeshare.</text>
+    </para>
+  </para>
+  <para>
+    <num>(14C)</num>
+    <text>"SFD permit" means a public-right-of-way occupancy permit issued by the Director to a shared fleet device operating company to offer shared fleet devices for rental in the public right-of-way in the District.</text>
+  </para>
+  <para>
+    <num>(14D)</num>
+    <text>"Shared fleet device" means an electric mobility device, bicycle, or electrically-powered motorized bicycle that is available for short-term rental and is permitted for use in public space.</text>
   </para>
   <para>
     <num>(15)</num>
@@ -112,7 +240,7 @@
     </para>
     <para>
       <num>(D)</num>
-      <text>Any other vehicle that provides transportation for a fee not operated on a schedule or between fixed termini and operating in the District, including taxicabs, limousines, party buses, and pedicabs.</text>
+      <text>Any other vehicle that provides transportation for a fee not operated on a schedule or between fixed termini and operating in the District, including taxicabs, limousines, party buses, and pedicabs, but not including shared fleet devices.</text>
     </para>
   </para>
   <para>
@@ -172,5 +300,15 @@
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-37" path="§2" codified:display="Note" app="2019-04-03" eff="2019-04-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-37" path="§2">§ 2 of All-Terrain Vehicle Clarification Emergency Amendment Act of 2019 (D.C. Act 23-37, Apr. 3, 2019, 66 DCR 4942)</cite>.</annotation>
     <annotation app="2019-04-03" doc="D.C. Act 23-37" eff="2019-04-03" path="§2" type="History" display="false"/>
     <annotation app="2019-05-10" doc="D.C. Law 22-313" eff="2019-05-10" path="§17" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-203" eff="2021-03-16" path="§101|(a)|(1)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-203" eff="2021-03-16" path="§101|(a)|(2)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-203" eff="2021-03-16" path="§101|(a)|(3)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-203" eff="2021-03-16" path="§101|(a)|(4)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-203" eff="2021-03-16" path="§101|(a)|(5)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-203" eff="2021-03-16" path="§101|(a)|(6)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-203" eff="2021-03-16" path="§101|(a)|(7)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-203" eff="2021-03-16" path="§101|(a)|(8)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-203" eff="2021-03-16" path="§101|(a)|(9)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-203" eff="2021-03-16" path="§101|(a)|(10)" type="History"/>
   </annotations>
 </section>

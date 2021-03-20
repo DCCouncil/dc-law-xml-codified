@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>31-2361.01</num>
-  <text>
-      *NOTE: This section was created by temporary legislation that will expire on June 2, 2021*
-      </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -61,14 +58,25 @@
     </para>
     <para>
       <num>(6)</num>
-      <text>"Appraisal panel" means a network, list, or roster of licensed or certified appraisers approved by an appraisal management company to perform appraisals as independent contractors for the appraisal management company.  Appraisers on an appraiser panel include both appraisers accepted by the appraisal management company for consideration for future appraisal assignments in covered transactions or for secondary mortgage market participants in connection with covered transactions, and appraisers engaged by the appraisal management company to perform one or more appraisals in covered transactions or for secondary mortgage market participants in connection with covered transactions.  An appraiser is an independent contractor or if the appraiser is treated as an independent contractor by the appraisal management company for purposes of federal income taxation.</text>
+      <para>
+        <num>(A)</num>
+        <text>"Appraisal panel" means a network, list, or roster of licensed or certified appraisers approved by an appraisal management company to perform appraisals as independent contractors for the appraisal management company.</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Appraisers on an appraiser panel include both appraisers accepted by the appraisal management company for consideration for future appraisal assignments in covered transactions or for secondary mortgage market participants in connection with covered transactions, and appraisers engaged by the appraisal management company to perform one or more appraisals in covered transactions or for secondary mortgage market participants in connection with covered transactions.</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>An appraiser is an independent contractor or if the appraiser is treated as an independent contractor by the appraisal management company for purposes of federal income taxation.</text>
+      </para>
     </para>
     <para>
       <num>(7)</num>
       <text>"Appraisal review" means the act or process of developing and communicating an opinion about the quality of another appraiser's work that was performed as part of an appraisal assignment and is related to the appraiser's data collection, analysis, opinions, conclusions, estimate of value, or compliance with the uniform standards of professional appraisal practice.  This term does not include:</text>
       <para>
         <num>(A)</num>
-        <text>A general examination for grammatical, typographical, or other similar errors;</text>
+        <text>A general examination for grammatical, typographical, or other similar errors; or</text>
       </para>
       <para>
         <num>(B)</num>
@@ -113,46 +121,42 @@
     </para>
     <para>
       <num>(14)</num>
-      <text>"District" means the District of Columbia.</text>
-    </para>
-    <para>
-      <num>(15)</num>
       <text>"Dwelling" means a residential structure that contains one to 4 units, regardless of whether that structure is attached to real property.  The term includes an individual condominium unit, cooperative unit, mobile home, and trailer, if it is used as a residence.</text>
     </para>
     <para>
-      <num>(16)</num>
+      <num>(15)</num>
       <text>"Federal financial institutions regulatory agency" includes the Consumer Financial Protection Bureau, the Federal Housing Finance Agency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and the National Credit Union Administration.</text>
     </para>
     <para>
-      <num>(17)</num>
+      <num>(16)</num>
       <text>"Federally regulated appraisal management company" means an appraisal management company that is owned and controlled by an insured depository institution, as defined in section 3(c)(2) of the Federal Deposit Insurance Act, approved September 21, 1950 (64 Stat. 873; 12 U.S.C. § 1813(c)(2)), and regulated by the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, or the National Credit Union Administration.</text>
     </para>
     <para>
-      <num>(18)</num>
+      <num>(17)</num>
       <text>"Federally regulated transaction regulations" means regulations established by the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, or the National Credit Union Administration, pursuant to sections 1112, 1113, and 1114 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, approved August 9, 1989 (103 Stat. 183; 12 U.S.C. §§ 3341-3343).</text>
     </para>
     <para>
-      <num>(19)</num>
+      <num>(18)</num>
       <text>"Federally related transaction" means any real-estate-related financial transaction that involves an insured depository institution regulated by the Office of the Comptroller of the Currency, Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, or National Credit Union Administration and that requires the services of an appraiser under the interagency appraisal rules.</text>
     </para>
     <para>
-      <num>(20)</num>
+      <num>(19)</num>
       <text>"Person" means a natural person or an organization, including a corporation, partnership, proprietorship, association, cooperative, estate, trust, or government unit.</text>
     </para>
     <para>
-      <num>(21)</num>
+      <num>(20)</num>
       <text>"Principal dwelling" means the primary residence of a consumer.  For purposes of <cite path="31|23R">this chapter</cite>, a consumer may only have one principal dwelling.  A vacation or other second home shall not be considered a principal dwelling.  However, if a consumer buys or builds a new dwelling that will become the consumer's primary residence within one year or upon completion of the construction, the new residence shall be considered the principal dwelling for purposes of <cite path="31|23R">this chapter</cite>.</text>
     </para>
     <para>
-      <num>(22)</num>
-      <text>"Real-estate-related financial transaction" means any transaction involving the sale, lease, purchase, investment in, or exchange of real property, including interests in property or the financing thereof; the refinancing of real property or interests in real property; or the use of real property or interests in property as security for a loan or investment, including mortgage-backed securities.</text>
+      <num>(21)</num>
+      <text>"Real-estate-related financial transaction" means any transaction involving the sale, lease, purchase, investment in, or exchange of real property, including interests in property or the financing thereof, the refinancing of real property or interests in real property, or the use of real property or interests in property as security for a loan or investment, including mortgage-backed securities.</text>
     </para>
     <para>
-      <num>(23)</num>
+      <num>(22)</num>
       <text>"Secondary mortgage market participant" means a guarantor or insurer of mortgage-backed securities, or an underwriter or issuer of mortgage-backed securities.  The term includes an individual investor in a mortgage-backed security only if that investor also serves in the capacity of a guarantor, insurer, underwriter, or issuer for the mortgage-backed security.</text>
     </para>
     <para>
-      <num>(24)</num>
+      <num>(23)</num>
       <text>"State" includes the District of Columbia.</text>
     </para>
     <para>
@@ -161,13 +165,12 @@
     </para>
   </para>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-110" path="§101" codified:display="Note" app="2020-10-21" eff="2019-07-31">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-110" path="§101">§ 101 of Appraisal Management Company Regulation Emergency Act of 2019 (D.C. Act 23-110, July 31, 2019, 66 DCR 178)</cite>.</annotation>
-    <annotation app="2020-10-21" doc="D.C. Act 23-110" eff="2019-07-31" path="§101" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-110" path="§101" codified:display="Note" app="2021-03-16" eff="2019-07-31">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-110" path="§101">§ 101 of Appraisal Management Company Regulation Emergency Act of 2019 (D.C. Act 23-110, July 31, 2019, 66 DCR 178)</cite>.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Act 23-110" eff="2019-07-31" path="§101" type="History" display="false"/>
     <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
-    <annotation app="2020-10-20" doc="D.C. Law 23-140" eff="2020-10-20" path="" type="History" display="false"/>
-    <annotation app="2020-10-20" doc="D.C. Law 23-140" eff="2020-10-20" path="§202|(b)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-140" path="I" codified:display="Note" app="2020-10-20" eff="2020-10-20">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-140" path="I">title I of Appraisal Management Company Regulation Temporary Act of 2020 (D.C. Law 23-140, Oct. 20, 2020, 67 DCR 9891)</cite>.</annotation>
-    <annotation app="2020-10-20" doc="D.C. Law 23-140" eff="2020-10-20" path="I" type="History" display="false"/>
-    <annotation app="2020-10-20" doc="D.C. Law 23-140" eff="2020-10-20" path="§101" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-140" path="§101" codified:display="Note" app="2021-03-16" eff="2020-10-20">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-140" path="§101">§ 101 of Appraisal Management Company Regulation Temporary Act of 2020 (D.C. Law 23-140, Oct. 20, 2020, 67 DCR 9891)</cite>.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-140" eff="2020-10-20" path="§101" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-206" eff="2021-03-16" path="" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-206" eff="2021-03-16" path="§101" type="History"/>
   </annotations>
 </section>

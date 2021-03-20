@@ -143,7 +143,7 @@
           <text>A new paragraph (7A) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert doc="D.C. Code" path="§3-1201.02|(a)" after="(2C)" num-value="[(2D)]" codified:doc="D.C. Code" codified:path="§3-1201.02|[(2D)]"/>
+              <codify:insert doc="D.C. Code" path="§3-1201.02|(a)" after="(2C)" num-value="[(2D)]" codified:doc="D.C. Code" codified:path="§3-1201.02|(2D)"/>
               <num>(7A)</num>
               <para>
                 <num>(A)</num>

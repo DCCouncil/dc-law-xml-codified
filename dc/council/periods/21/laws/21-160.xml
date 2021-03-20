@@ -8269,7 +8269,7 @@
         <para>
           <num>(a)</num>
           <text>The existing paragraph (1) is redesignated as paragraph (1A).</text>
-          <codify:replace path="(1)|num" codified:doc="D.C. Code" codified:path="§8-1531|(1A)">
+          <codify:replace path="(1)|num" codified:doc="D.C. Code" codified:path="§8-1531|(1B)">
             <num>(1A)</num>
           </codify:replace>
         </para>
@@ -8278,7 +8278,7 @@
           <text>A new paragraph (1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert before="(1A)" codified:doc="D.C. Code" codified:path="§8-1531|(1)"/>
+              <codify:insert before="(1A)" codified:doc="D.C. Code" codified:path="§8-1531|(1A)"/>
               <num>(1)</num>
               <text>"Compostable" means:</text>
               <para>
