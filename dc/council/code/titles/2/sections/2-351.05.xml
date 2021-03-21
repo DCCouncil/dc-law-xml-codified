@@ -101,9 +101,9 @@
         <text>Any other agency that has entered into an agreement with any of the agencies listed in subparagraphs (A) through (E) of this paragraph directly related to the production of permanent supportive housing;</text>
       </para>
     </para>
-    <para>
+    <para placeholder="Repealed">
       <num>(17)</num>
-      <text>District of Columbia Health Benefit Exchange Authority;</text>
+      <text>Repealed.</text>
     </para>
     <para>
       <num>(18)</num>
@@ -111,15 +111,19 @@
     </para>
     <para>
       <num>(19)</num>
-      <text>The Office of Public-Private Partnerships; provided that §§ <cite path="§2-352.02">2-352.02</cite>, <cite path="§2-354.15">2-354.15</cite>, and <cite path="2|3A|X">subchapter X of this chapter</cite> shall apply; and</text>
+      <text>The Office of Public-Private Partnerships; provided that §§ <cite path="§2-352.02">2-352.02</cite>, <cite path="§2-354.15">2-354.15</cite>, and <cite path="2|3A|X">subchapter X of this chapter</cite> shall apply;</text>
     </para>
     <para>
       <num>(20)</num>
-      <text>The Green Finance Authority.</text>
+      <text>The Green Finance Authority; and</text>
     </para>
     <para placeholder="Repealed">
       <num>(21)</num>
       <text>Repealed.</text>
+    </para>
+    <para>
+      <num>(22)</num>
+      <text>The District of Columbia Health Benefit Exchange Authority.</text>
     </para>
   </para>
   <annotations>
@@ -176,5 +180,12 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7125|(b)" type="History"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7125|(c)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7106" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-223" eff="2021-03-16" path="§3|(a)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-223" eff="2021-03-16" path="§3|(b)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-223" eff="2021-03-16" path="§3|(c)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-223" eff="2021-03-16" path="§3|(d)" type="History"/>
+    <annotation doc="D.C. Law 23-223" path="§2" type="Expiration of Law" history="false" app="2021-03-16" eff="2021-03-16"><cite doc="D.C. Law 23-223" path="§2">Section 2 of D.C. Law 23-223</cite> provided that § 2(a)(2), (3), and (4) of the act shall expire on September 30, 2023. 
+        </annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-223" eff="2021-03-16" path="§2" type="History" display="false"/>
   </annotations>
 </section>

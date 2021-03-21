@@ -308,6 +308,13 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>5A</num>
+    <heading>Interstate Physical Therapy Compact.</heading>
+    <annotation app="2021-03-16" doc="D.C. Law 23-220" eff="2021-03-16" path="" type="History" display="false"/>
+    <xi:include href="./sections/7-581.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>6</num>
     <heading>Death.</heading>
     <container>
@@ -1624,6 +1631,7 @@
         <xi:include href="./sections/7-2231.08.xml"/>
         <xi:include href="./sections/7-2231.09.xml"/>
         <xi:include href="./sections/7-2231.10.xml"/>
+        <xi:include href="./sections/7-2231.11.xml"/>
       </container>
     </container>
     <container>

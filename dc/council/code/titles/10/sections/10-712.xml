@@ -53,6 +53,26 @@
       <num>(12)</num>
       <text>Carbon monoxide.</text>
     </para>
+    <para placeholder="Not Funded">
+      <num>(13)</num>
+      <text>Not Funded.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(14)</num>
+      <text>Not Funded.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(15)</num>
+      <text>Not Funded.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(16)</num>
+      <text>Not Funded.</text>
+    </para>
+    <para placeholder="Not Funded">
+      <num>(17)</num>
+      <text>Not Funded.</text>
+    </para>
   </para>
   <para>
     <num>(b)</num>
@@ -69,6 +89,10 @@
       <num>(3)</num>
       <text>The remediation and public disclosure measures that shall be taken when an assessment reveals levels that exceed a threshold level established pursuant to paragraph (2) of this subsection.</text>
     </para>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(b-1)</num>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -98,6 +122,10 @@
       </para>
     </para>
   </para>
+  <para placeholder="Not Funded">
+    <num>(d-1)</num>
+    <text>Not Funded.</text>
+  </para>
   <para>
     <num>(e)</num>
     <para>
@@ -112,5 +140,14 @@
   <annotations>
     <annotation app="2017-04-01" doc="D.C. Law 21-237" eff="2017-04-01" path="" type="History" display="false"/>
     <annotation app="2017-04-01" doc="D.C. Law 21-237" eff="2017-04-01" path="§3" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(C)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(D)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(A)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(3)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-233" path="§2|(b)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-233" path="">D.C. Law 23-233</cite>: <cite doc="D.C. Law 23-233" path="§4">§ 4 of D.C. Law 23-233</cite> provided that the change made to this section by <cite doc="D.C. Law 23-233" path="§2|(b)">§ 2(b) of D.C. Law 23-233</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)" type="History"/>
   </annotations>
 </section>

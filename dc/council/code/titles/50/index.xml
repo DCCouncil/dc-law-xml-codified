@@ -596,6 +596,9 @@
       <xi:include href="./sections/50-1501.02f.xml"/>
       <xi:include href="./sections/50-1501.02g.xml"/>
       <xi:include href="./sections/50-1501.02h.xml"/>
+      <xi:include href="./sections/50-1501.02i.xml"/>
+      <xi:include href="./sections/50-1501.02j.xml"/>
+      <xi:include href="./sections/50-1501.02k.xml"/>
       <xi:include href="./sections/50-1501.03.xml"/>
       <xi:include href="./sections/50-1501.03a.xml"/>
       <xi:include href="./sections/50-1501.04.xml"/>
@@ -1290,6 +1293,7 @@
     <heading>Residential Parking Permit Voluntary Exclusion.</heading>
     <annotation app="2020-12-23" doc="D.C. Law 23-164" eff="2020-12-23" path="" type="History" display="false"/>
     <xi:include href="./sections/50-2561.xml"/>
+    <xi:include href="./sections/50-2562.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
