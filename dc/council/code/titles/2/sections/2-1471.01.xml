@@ -1,12 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1471.01</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on March 7, 2021.*
+      </text>
   <heading>Definitions.</heading>
-  <text>For the purposes of <cite path="2|14A">this chapter</cite>, the term "racial equity" means the elimination of racial disparities such that race no longer predicts opportunities, outcomes, or the distribution of resources for residents of the District, particularly for persons of color and Black residents.</text>
+  <text>For the purposes of <cite path="2|14A">this chapter</cite>, the term "racial equity" means the elimination of racial disparities such that race no longer predicts opportunities, outcomes or the distribution of resources for residents of the District, particularly for persons of color and Black residents.</text>
+  <codify:emergency doc="D.C. Code" path="§2-1471.01" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-1471.01" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§2-1471.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1471.01">
+    <text>
+      *NOTE: This section was created by emergency legislation that will expire on March 7, 2021.*
+      </text>
+  </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-521" path="§101" codified:display="Note" app="2021-03-16" eff="2020-12-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-521" path="§101">§ 101 of Racial Equity Achieves Results (REACH) Emergency Amendment Act of 2020 (D.C. Act 23-521, Dec. 7, 2020, 67 DCR 14433)</cite>.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Act 23-521" eff="2020-12-07" path="§101" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-181" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-181" eff="2021-03-16" path="§101" type="History"/>
+    <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="" type="History" display="false"/>
+    <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="§101" type="History" display="false"/>
+    <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="§101" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-521" path="§101" codified:display="Note" app="2020-12-07" eff="2020-12-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-521" path="§101">§ 101 of Racial Equity Achieves Results (REACH) Emergency Amendment Act of 2020 (D.C. Act 23-521, Dec. 7, 2020, 67 DCR 14433)</cite>.</annotation>
   </annotations>
 </section>

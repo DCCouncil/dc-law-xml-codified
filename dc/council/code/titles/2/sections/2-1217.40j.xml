@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1217.40j</num>
+  <text>
+      *NOTE: This section was created by temporary legislation that will expire on June 2, 2021.*
+      </text>
   <heading>Limited liability.</heading>
   <para>
     <num>(a)</num>
@@ -14,14 +17,16 @@
     <num>(c)</num>
     <text>No person, including, but not limited to, any bond owner, shall have any claims against the District or any of its elected or appointed officials, officers, employees, or agents for monetary damages suffered as a result of the failure of the District to perform any covenant, undertaking, or obligation under <cite path="2|12|IX|B|10">this subpart</cite>, the bonds, the Financing Documents, or the Closing Documents, or as a result of the incorrectness of any representation in or omission from the Financing Documents or the Closing Documents, unless the District or its elected or appointed officials, officers, employees, or agents have acted in a willful and fraudulent manner.</text>
   </para>
+  <codify:temporary doc="D.C. Code" path="§2-1217.40j" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-1217.40j" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§2-1217.40j" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1217.40j">
+    <text>
+      *NOTE: This section was created by temporary legislation that will expire on June 2, 2021.*
+      </text>
+  </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-250" path="§11" codified:display="Note" app="2021-03-16" eff="2020-03-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-250" path="§11">§ 11 of Reunion Square Tax Increment Financing Emergency Act of 2020 (D.C. Act 23-250, Mar. 17, 2020, 67 DCR 3455)</cite>.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Act 23-250" eff="2020-03-17" path="§11" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-370" path="§11" codified:display="Note" app="2021-03-16" eff="2020-08-10">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-370" path="§11">§ 11 of Reunion Square Tax Increment Financing Second Emergency Act of 2020 (D.C. Act 23-370, Aug. 10, 2020, 67 DCR 9689)</cite>.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Act 23-370" eff="2020-08-10" path="§11" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-146" path="§11" codified:display="Note" app="2021-03-16" eff="2020-10-20">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-146" path="§11">§ 11 of Reunion Square Tax Increment Financing Temporary Amendment Act of 2020 (D.C. Law 23-146, Oct. 20, 2020, 67 DCR 9941)</cite>.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-146" eff="2020-10-20" path="§11" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-202" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-202" eff="2021-03-16" path="§11" type="History"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-146" eff="2020-10-20" path="" type="History" display="false"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-146" eff="2020-10-20" path="§11" type="History" display="false"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-146" eff="2020-10-20" path="§11" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-146" path="§11" codified:display="Note" app="2020-10-20" eff="2020-10-20">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-146" path="§11">§ 11 of Reunion Square Tax Increment Financing Temporary Amendment Act of 2020 (D.C. Law 23-146, Oct. 20, 2020, 67 DCR 9941)</cite>.</annotation>
   </annotations>
 </section>

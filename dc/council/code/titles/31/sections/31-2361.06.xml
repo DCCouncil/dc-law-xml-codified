@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>31-2361.06</num>
+  <text>
+      *NOTE: This section was created by temporary legislation that will expire on June 2, 2021*
+      </text>
   <heading>Appraisal management company requirements.</heading>
   <para>
     <num>(a)</num>
@@ -10,7 +13,7 @@
       <text>At the time of applying for registration or renewing registration in the District, the appraisal management company shall designate one of its controlling persons to serve as the main contact for all communication between the Department and the company.  The designated controlling person shall:</text>
       <para>
         <num>(A)</num>
-        <text>Remain in good standing in the District and in any other state that has issued the controlling person an appraiser license or certification; except, that, nothing in <cite path="31|23R">this chapter</cite> shall require that a designated controlling person hold or continue to hold an appraiser license or certification in any jurisdiction;</text>
+        <text>Remain in good standing in the District and in any other state that has issued the controlling person an appraiser license or certification; however, nothing in <cite path="31|23R">this chapter</cite> shall require that a designated controlling person hold or continue to hold an appraiser license or certification in any jurisdiction;</text>
       </para>
       <para>
         <num>(B)</num>
@@ -39,12 +42,14 @@
     <text>An appraisal management company that has a reasonable basis to believe an appraiser has materially failed to comply with applicable laws or rules or has materially violated the USPAP shall refer the matter to the Department in conformance with applicable federal laws and regulations.</text>
   </para>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-110" path="§106" codified:display="Note" app="2021-03-16" eff="2019-07-31">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-110" path="§106">§ 106 of Appraisal Management Company Regulation Emergency Act of 2019 (D.C. Act 23-110, July 31, 2019, 66 DCR 178)</cite>.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Act 23-110" eff="2019-07-31" path="§106" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-110" path="§106" codified:display="Note" app="2020-10-21" eff="2019-07-31">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-110" path="§106">§ 106 of Appraisal Management Company Regulation Emergency Act of 2019 (D.C. Act 23-110, July 31, 2019, 66 DCR 178)</cite>.</annotation>
+    <annotation app="2020-10-21" doc="D.C. Act 23-110" eff="2019-07-31" path="§101" type="History" display="false"/>
+    <annotation app="2020-10-21" doc="D.C. Act 23-110" eff="2019-07-31" path="§106" type="History" display="false"/>
     <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-140" path="§106" codified:display="Note" app="2021-03-16" eff="2020-10-20">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-140" path="§106">§ 106 of Appraisal Management Company Regulation Temporary Act of 2020 (D.C. Law 23-140, Oct. 20, 2020, 67 DCR 9891)</cite>.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-140" eff="2020-10-20" path="§106" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-206" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-206" eff="2021-03-16" path="§106" type="History"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-140" eff="2020-10-20" path="" type="History" display="false"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-140" eff="2020-10-20" path="§202|(b)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-140" path="I" codified:display="Note" app="2020-10-20" eff="2020-10-20">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-140" path="I">title I of Appraisal Management Company Regulation Temporary Act of 2020 (D.C. Law 23-140, Oct. 20, 2020, 67 DCR 9891)</cite>.</annotation>
+    <annotation app="2020-10-20" doc="D.C. Law 23-140" eff="2020-10-20" path="I" type="History" display="false"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-140" eff="2020-10-20" path="§106" type="History"/>
   </annotations>
 </section>

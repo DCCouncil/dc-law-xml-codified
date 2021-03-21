@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-1802.06</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 7, 2021. To view the text of this section after the expiration of all emergency and temporary legislation effecting this section, click this link: <cite path="§38-1802.06(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Student admission, enrollment, and withdrawal.</heading>
   <para>
     <num>(a)</num>
@@ -18,7 +21,7 @@
     <text>If there are more applications to enroll in a public charter school from students who are residents of the District of Columbia than there are spaces available, students shall be admitted using a random selection process; except, that a preference in admission may be given to an applicant who is a:</text>
     <para>
       <num>(1)</num>
-      <text>Sibling of a student already attending or selected for admission to the public charter school in which the applicant is seeking enrollment;</text>
+      <text>Sibling or child of a student already attending or selected for admission to the public charter school in which the applicant is seeking enrollment;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -156,7 +159,8 @@
     <annotation app="2016-07-21" doc="D.C. Act 21-476" eff="2016-07-21" path="§3" type="History" display="false"/>
     <annotation app="2016-07-26" doc="D.C. Law 21-140" eff="2016-07-26" path="§3" type="History"/>
     <annotation app="2018-08-25" doc="D.C. Law 22-157" eff="2018-08-25" path="§3|(c)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-519" path="§2" codified:display="Note" app="2020-12-07" eff="2020-12-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-519" path="§2">§ 2 of Child Enrollment Preference Emergency Amendment Act of 2020 (D.C. Act 23-519, Dec. 7, 2020, 67 DCR 14429)</cite>.</annotation>
     <annotation app="2020-12-07" doc="D.C. Act 23-519" eff="2020-12-07" path="§2" type="History" display="false"/>
+    <annotation app="2020-12-07" doc="D.C. Act 23-519" eff="2020-12-07" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-519" path="§2" codified:display="Note" app="2020-12-07" eff="2020-12-07">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-519" path="§2">§ 2 of Child Enrollment Preference Emergency Amendment Act of 2020 (D.C. Act 23-519, Dec. 7, 2020, 67 DCR 14429)</cite>.</annotation>
   </annotations>
 </section>

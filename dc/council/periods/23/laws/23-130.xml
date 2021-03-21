@@ -136,7 +136,7 @@
         <text>Section 3(c)(2) (D.C. Official Code § 51-103(c)(2)) is amended by adding a new subparagraph (G) to read as follows:</text>
         <include lvl="2">
           <para>
-            <codify:insert num-value="[(H)]" codified:doc="D.C. Code" codified:path="§51-103|(c)|(2)|[(H)]"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§51-103|(c)|(2)|(G)"/>
             <num>(G)</num>
             <text><span codify:value="">"</span>Federal Pandemic Unemployment Compensation ("FPUC") benefits paid to an individual filing during a period of national emergency shall not be charged to the experience rating of the eligible claimant's base period employer's accounts.  Employers electing to become liable for payments in lieu of contributions shall be charged 50% of reimbursements due as a result of FPUC benefits paid to an individual filing during a period of national emergency.</text>
           </para>
@@ -1525,14 +1525,14 @@
           <text>Section 25-113a is amended by adding a new subsection (c-1) to read as follows:</text>
           <include>
             <para>
-              <codify:insert doc="D.C. Code" path="§[25-113.01]" after="(c)" codified:doc="D.C. Code" codified:path="§25-113.01|(c-1)"/>
+              <codify:insert doc="D.C. Code" path="§[25-113.01]" after="(c)" codified:doc="D.C. Code" codified:path="§[25-113.01]|(c-1)"/>
               <num>(c-1)</num>
               <text>Notwithstanding subsection (c) of this section, an on-premises retailer's licensee, class C or D, or manufacturer's licensee, class A or B, with an on-site sales and consumption permit may conduct business on ground floor or street level outdoor public or private space, including the sale, service, and consumption alcoholic beverages; provided, that the licensee complies with <cite doc="D.C. Code" path="§25-113|(a)|(6)">§ 25-113(a)(6)</cite>.</text>
             </para>
           </include>
           <aftertext>.</aftertext>
-          <codify:temporary doc="D.C. Code" path="§[25-113.01]" codified:doc="D.C. Code" codified:path="§25-113.01" codified:display="Note"/>
-          <codify:insert doc="D.C. Code" path="§[25-113.01]" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§25-113.01">
+          <codify:temporary doc="D.C. Code" path="§[25-113.01]" codified:doc="D.C. Code" codified:path="§[25-113.01]" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§[25-113.01]" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§[25-113.01]">
             <text>
       *NOTE: This section includes amendments by temporary legislation that will expire on April 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§[25-113.01](Perm)">Permanent Version</cite>.*
       </text>
@@ -5372,7 +5372,7 @@
         <text>A new paragraph (7) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert after="(6)" num-value="[(8)]" codified:doc="D.C. Code" codified:path="§1-301.191|(c)|[(8)]"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§1-301.191|(c)|(7)"/>
             <num>(7)</num>
             <text>During a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, provide to the Council Committee with jurisdiction over the Office a weekly written update containing the following information:</text>
             <para>
@@ -5950,16 +5950,25 @@
           <para codify:path="(C)">
             <num>(A)</num>
             <text>Subparagraph (C) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(d)|(2)|(C)">
+              <find>; and</find>
+              <replace>;</replace>
+            </codify:find-replace>
           </para>
           <para codify:path="(D)">
             <num>(B)</num>
             <text>Subparagraph (D) is amended by striking the period and inserting the phrase "; and" in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(d)|(2)|(D)">
+              <find>.</find>
+              <replace>; and</replace>
+            </codify:find-replace>
           </para>
           <para>
             <num>(C)</num>
             <text>A new subparagraph (E) is added to read as follows:</text>
             <include lvl="2">
               <para>
+                <codify:insert codified:doc="D.C. Code" codified:path="§1-1001.07|(d)|(2)|(E)"/>
                 <num>(E)</num>
                 <text>For the June 2, 2020, Primary Election and the June 16, 2020, Ward 2 Special Election, regularly promote the Board's revised plans for those elections on the voter registration agencies' social media platforms, including by providing information about how to register to vote and vote by mail.</text>
               </para>
@@ -5994,6 +6003,7 @@
           <text>Subsection (b) is amended by adding a new paragraph (3A) to read as follows:</text>
           <include lvl="1">
             <para>
+              <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§1-1001.08|(b)|(3A)"/>
               <num>(3A)</num>
               <text>For the November 3, 2020, general election:</text>
               <para>
@@ -6098,12 +6108,17 @@
         <para codify:path="(g)">
           <num>(1)</num>
           <text>Subsection (g) is amended by striking the phrase "white paper of good writing quality of the same size as the original or shall utilize the mobile application made available under section 5(a)(19). Each initiative or referendum petition sheet shall consist of one double-sided sheet providing numbered lines for 20 printed" and inserting the phrase "paper of good writing quality or shall utilize the mobile application made available under section 5(a)(19).  Each initiative or referendum petition sheet shall consist of one sheet providing numbered lines for printed" in its place.</text>
+          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.16|(g)">
+            <find>white paper of good writing quality of the same size as the original or shall utilize the mobile application made available under <code-cite path="§5|(a)|(19)">section 5(a)(19)</code-cite>. Each initiative or referendum petition sheet shall consist of one double-sided sheet providing numbered lines for 20 printed</find>
+            <replace>paper of good writing quality or shall utilize the mobile application made available under <code-cite doc="D.C. Code" path="§1-1001.05|(a)|(19)">section 5(a)(19)</code-cite>.  Each initiative or referendum petition sheet shall consist of one sheet providing numbered lines for printed</replace>
+          </codify:find-replace>
         </para>
         <para>
           <num>(2)</num>
           <text>A new subsection (g-1) is added to read as follows:</text>
           <include>
             <para>
+              <codify:insert after="(g)" codified:doc="D.C. Code" codified:path="§1-1001.16|(g-1)"/>
               <num>(g-1)</num>
               <text>In calendar year 2020:</text>
               <para>

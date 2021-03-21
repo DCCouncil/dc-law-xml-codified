@@ -137,7 +137,6 @@
     <xi:include href="./sections/7-231.13.xml"/>
     <xi:include href="./sections/7-231.14.xml"/>
     <xi:include href="./sections/7-231.15.xml"/>
-    <xi:include href="./sections/7-231.15a.xml"/>
     <xi:include href="./sections/7-231.16.xml"/>
     <xi:include href="./sections/7-231.17.xml"/>
     <xi:include href="./sections/7-231.18.xml"/>
@@ -545,10 +544,9 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
-      <heading>Dementia Services Coordinator.<annotation app="notfunded" doc="D.C. Law 23-201" eff="2021-03-16" path="§5|(a)" type="History" display="false"/><annotation app="notfunded" doc="D.C. Law 23-201" eff="2021-03-16" path="§2|(a)" type="History"/></heading>
+      <heading>Dementia Services Coordinator.</heading>
       <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="V" type="History" display="false"/>
       <xi:include href="./sections/7-744.01.xml"/>
-      <xi:include href="./sections/7-744.02.xml"/>
     </container>
   </container>
   <container>
@@ -842,13 +840,6 @@
   <container>
     <prefix>Chapter</prefix>
     <num>11A</num>
-    <heading>Psychology Interjurisdictional Compact.</heading>
-    <annotation app="2021-03-16" doc="D.C. Law 23-190" eff="2021-03-16" path="§2" type="History" display="false"/>
-    <xi:include href="./sections/7-1121.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>11B<annotation app="2021-03-16" doc="D.C. Law 23-190" eff="2021-03-16" path="§2" type="History"/></num>
     <heading>Department of Mental Health Establishment.</heading>
     <xi:include href="./sections/7-1131.01.xml"/>
     <xi:include href="./sections/7-1131.02.xml"/>
@@ -874,7 +865,7 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>11C<annotation app="2021-03-16" doc="D.C. Law 23-190" eff="2021-03-16" path="§2" type="History"/></num>
+    <num>11B</num>
     <heading>Department of Behavioral Health.</heading>
     <container>
       <prefix>Subchapter</prefix>
@@ -901,7 +892,7 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>11D<annotation app="2021-03-16" doc="D.C. Law 23-190" eff="2021-03-16" path="§2" type="History"/></num>
+    <num>11C</num>
     <heading>Department of Mental Health Funding.</heading>
     <xi:include href="./sections/7-1151.01.xml"/>
   </container>
@@ -2076,7 +2067,6 @@
     <xi:include href="./sections/7-3202.xml"/>
     <xi:include href="./sections/7-3203.xml"/>
     <xi:include href="./sections/7-3204.xml"/>
-    <xi:include href="./sections/7-3204.01.xml"/>
     <xi:include href="./sections/7-3205.xml"/>
   </container>
 </container>

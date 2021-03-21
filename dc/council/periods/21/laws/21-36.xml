@@ -535,7 +535,7 @@
           <para>
             <num>(1)</num>
             <text>Paragraph (1) is amended by striking the phrase "prepared by a food service business" and inserting the phrase "prepared by a food service entity" in its place.</text>
-            <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§8-1531|(1B)">
+            <codify:find-replace path="(1)" count="1" codified:doc="D.C. Code" codified:path="§8-1531|(1A)">
               <find>prepared by a food service business</find>
               <replace>prepared by a food service entity</replace>
             </codify:find-replace>

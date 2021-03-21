@@ -719,23 +719,6 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>7E</num>
-    <heading>Battery Producer Responsibility.</heading>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History" display="false"/>
-    <xi:include href="./sections/8-771.01.xml"/>
-    <xi:include href="./sections/8-771.02.xml"/>
-    <xi:include href="./sections/8-771.03.xml"/>
-    <xi:include href="./sections/8-771.04.xml"/>
-    <xi:include href="./sections/8-771.05.xml"/>
-    <xi:include href="./sections/8-771.06.xml"/>
-    <xi:include href="./sections/8-771.07.xml"/>
-    <xi:include href="./sections/8-771.08.xml"/>
-    <xi:include href="./sections/8-771.09.xml"/>
-    <xi:include href="./sections/8-771.10.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
     <num>8</num>
     <heading>Litter Control Administration.</heading>
     <xi:include href="./sections/8-801.xml"/>
@@ -806,10 +789,7 @@
     <xi:include href="./sections/8-1031.01.xml"/>
     <xi:include href="./sections/8-1031.02.xml"/>
     <xi:include href="./sections/8-1031.03.xml"/>
-    <xi:include href="./sections/8-1031.03a.xml"/>
-    <xi:include href="./sections/8-1031.03b.xml"/>
     <xi:include href="./sections/8-1031.04.xml"/>
-    <xi:include href="./sections/8-1031.04a.xml"/>
     <xi:include href="./sections/8-1031.05.xml"/>
     <xi:include href="./sections/8-1031.06.xml"/>
     <xi:include href="./sections/8-1031.07.xml"/>
@@ -820,9 +800,6 @@
     <xi:include href="./sections/8-1031.12.xml"/>
     <xi:include href="./sections/8-1031.12a.xml"/>
     <xi:include href="./sections/8-1031.12b.xml"/>
-    <xi:include href="./sections/8-1031.12c.xml"/>
-    <xi:include href="./sections/8-1031.12d.xml"/>
-    <xi:include href="./sections/8-1031.12e.xml"/>
     <xi:include href="./sections/8-1031.13.xml"/>
     <xi:include href="./sections/8-1031.14.xml"/>
   </container>
@@ -1062,7 +1039,6 @@
     <xi:include href="./sections/8-1771.03.xml"/>
     <xi:include href="./sections/8-1771.04.xml"/>
     <xi:include href="./sections/8-1771.05.xml"/>
-    <xi:include href="./sections/8-1771.05a.xml"/>
     <xi:include href="./sections/8-1771.06.xml"/>
   </container>
   <container>
