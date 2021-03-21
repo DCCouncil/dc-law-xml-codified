@@ -345,6 +345,7 @@
     <annotation app="2017-04-07" doc="D.C. Law 21-248" eff="2017-04-07" path="" type="History" display="false"/>
     <xi:include href="./sections/48-855.01.xml"/>
     <xi:include href="./sections/48-855.02.xml"/>
+    <xi:include href="./sections/48-855.02a.xml"/>
     <xi:include href="./sections/48-855.03.xml"/>
   </container>
   <subheading>Subtitle III. Illegal Drugs.</subheading>
@@ -463,6 +464,15 @@
       <xi:include href="./sections/48-931.01.xml"/>
       <xi:include href="./sections/48-931.02.xml"/>
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>9C</num>
+    <heading>Entheogenic Plant and Fungus Policy.</heading>
+    <annotation app="2021-03-16" doc="D.C. Law 23-268" eff="2021-03-16" path="" type="History" display="false"/>
+    <xi:include href="./sections/48-921.51.xml"/>
+    <xi:include href="./sections/48-921.52.xml"/>
+    <xi:include href="./sections/48-921.53.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
