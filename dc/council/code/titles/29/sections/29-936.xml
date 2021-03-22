@@ -1,8 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>29-936</num>
+  <text>
+      *NOTE: This section includes amendments bytemporary legislation that will expire on October 26, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§29-936(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Foreign corporations and associations; admission to do business.</heading>
-  <text>A foreign corporation or association operating on a cooperative basis and complying with the applicable laws of the state wherein it is organized shall be entitled to do business in the District as a foreign cooperative corporation or association and shall govern itself in accordance with its bylaws and the laws of the state wherein it is organized. A foreign corporation or association shall file a foreign registration statement as provided in <cite path="§29-105.03">§ 29-105.03</cite>.</text>
   <annotations>
     <annotation doc="D.C. Law 18-378" type="History">July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720</annotation>
     <annotation type="Prior Codifications">1973 Ed., § 29-841.</annotation>
@@ -13,5 +15,17 @@
     <annotation app="2020-10-09" doc="D.C. Act 23-453" eff="2020-10-09" path="§2|(b)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-603" path="§2" codified:display="Note" app="2021-01-13" eff="2021-01-13">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-603" path="§2">§ 2 of Common Interest Community Virtual Meeting Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-603, Jan. 13, 2021, 0 DCR 0)</cite>.</annotation>
     <annotation app="2021-01-13" doc="D.C. Act 23-603" eff="2021-01-13" path="§2" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-259" eff="2021-03-16" path="§2" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-259" eff="2021-03-16" path="§2|(a)" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-259" eff="2021-03-16" path="§2|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-259" path="§2" codified:display="Note" app="2021-03-16" eff="2021-03-16">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-259" path="§2">§ 2 of Common Interest Community Virtual Meeting Congressional Review Temporary Amendment Act of 2020 (D.C. Law 23-259, Mar. 16, 2021, 67 DCR 14385)</cite>.</annotation>
   </annotations>
+  <para>
+    <num>(a)</num>
+    <text>A foreign corporation or association operating on a cooperative basis and complying with the applicable laws of the state wherein it is organized shall be entitled to do business in the District as a foreign cooperative corporation or association and shall govern itself in accordance with its bylaws and the laws of the state wherein it is organized. A foreign corporation or association shall file a foreign registration statement as provided in <cite path="§29-105.03">§ 29-105.03</cite>.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>During a period of time for which a public health emergency has been declared pursuant to <cite path="§7-2304.01">[§ 7-2304.01]</cite>, regardless of whether remote regular and special meetings of members are authorized by the articles or bylaws, members may participate in regular and special meetings of members remotely.</text>
+  </para>
 </section>
