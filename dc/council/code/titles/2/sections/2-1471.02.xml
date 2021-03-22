@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1471.02</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on March 7, 2021.*
+      </text>
   <heading>Establishment of the Office of Racial Equity.</heading>
   <para>
     <num>(a)</num>
-    <text>There is established an Office of Racial Equity ("Office") within the Office of the City Administrator. The purpose of the Office shall be to coordinate the District's efforts toward</text>
-    <text>achieving racial equity.</text>
+    <text>There is established an Office of Racial Equity ("Office") within the Office of the City Administrator. The purpose of the Office shall be to coordinate the District's efforts toward achieving racial equity.</text>
   </para>
   <para>
     <num>(b)</num>
@@ -15,7 +17,7 @@
     </para>
     <para>
       <num>(2)</num>
-      <text>The Chief Equity Officer shall be a full-time position, for which annual compensation shall be fixed in accordance with <cite path="1|6|X-A">subchapter X-A of Chapter 6 of Title 1</cite>.</text>
+      <text>The Chief Equity Officer shall be a fulltime position, for which annual compensation shall be fixed in accordance with <cite path="1|6|X-A">subchapter X-A of Chapter 6 of Title 1</cite>.</text>
     </para>
   </para>
   <para>
@@ -112,17 +114,23 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>A member appointed pursuant to paragraph (2) of this subsection shall serve a term of 2 years. A member may be reappointed but shall not serve more than 3 consecutive terms.</text>
+      <text>A member appointed pursuant to paragraph (2) of this subsection shall serve a term of 2 years.  A member may be reappointed but shall not serve more than 3 consecutive terms.</text>
     </para>
     <para>
       <num>(4)</num>
       <text>Individual members of the Board may be compensated for reasonable expenses incurred in the performance of their official duties.</text>
     </para>
   </para>
+  <codify:emergency doc="D.C. Code" path="§2-1471.02" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-1471.02" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§2-1471.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1471.02">
+    <text>
+      *NOTE: This section was created by emergency legislation that will expire on March 7, 2021.*
+      </text>
+  </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-521" path="§102" codified:display="Note" app="2021-03-16" eff="2020-12-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-521" path="§102">§ 102 of Racial Equity Achieves Results (REACH) Emergency Amendment Act of 2020 (D.C. Act 23-521, Dec. 7, 2020, 67 DCR 14433)</cite>.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Act 23-521" eff="2020-12-07" path="§102" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-181" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-181" eff="2021-03-16" path="§102" type="History"/>
+    <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="" type="History" display="false"/>
+    <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="§102" type="History" display="false"/>
+    <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="§102" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-521" path="§102" codified:display="Note" app="2020-12-07" eff="2020-12-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-521" path="§102">§ 102 of Racial Equity Achieves Results (REACH) Emergency Amendment Act of 2020 (D.C. Act 23-521, Dec. 7, 2020, 67 DCR 14433)</cite>.</annotation>
   </annotations>
 </section>

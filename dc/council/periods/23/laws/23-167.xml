@@ -50,6 +50,10 @@
       <para codify:path="(9)">
         <num>(1)</num>
         <text>Paragraph (9) is amended by striking the phrase "polling places" and inserting the phrase "polling places; provided, that for the November 3, 2020, General Election, the Board shall operate no fewer than 80 polling places, including a polling place for individuals incarcerated in the Department of Corrections' custody at the Central Detention Facility and Correctional Treatment Facility, if public health guidance permits" in its place.</text>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.05|(a)|(9)">
+          <find>polling places</find>
+          <replace>polling places; provided, that for the November 3, 2020, General Election, the Board shall operate no fewer than 80 polling places, including a polling place for individuals incarcerated in the Department of Corrections' custody at the Central Detention Facility and Correctional Treatment Facility, if public health guidance permits</replace>
+        </codify:find-replace>
       </para>
       <para>
         <num>(2)</num>
@@ -93,9 +97,13 @@
     <para codify:path="§1-1001.07">
       <num>(c)</num>
       <text>Section 7 (D.C. Official Code § 1-1001.07) is amended as follows:</text>
-      <para>
+      <para codify:path="(d)|(2)|(E)">
         <num>(1)</num>
         <text>Subsection (d)(2)(E) is amended by striking the phrase "For the June 2, 2020, Primary Election and the June 16, 2020, Ward 2 Special Election" and inserting the phrase "For elections held in calendar year 2020" in its place.</text>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(d)|(2)|(E)">
+          <find>For the June 2, 2020, Primary Election and the June 16, 2020, Ward 2 Special Election</find>
+          <replace>For elections held in calendar year 2020</replace>
+        </codify:find-replace>
       </para>
       <para codify:path="(h)|(4)">
         <num>(2)</num>

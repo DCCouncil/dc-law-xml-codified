@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1471.03</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on March 7, 2021.*
+      </text>
   <heading>Establishment of the Commission on Racial Equity, Social Justice, and Economic Inclusion.</heading>
   <para>
     <num>(a)</num>
@@ -30,7 +33,7 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>The Commission shall examine issues of racial equity in governance in the District in its deliberations, identify best practices in other jurisdictions, and may undertake such other endeavors related to racial equity as it determines necessary to advise the Council. The Commission may also work with the Council's Racial Equity Office.</text>
+      <text>The Commission shall examine issues of racial equity in governance in the District in its deliberations, identify best practices in other jurisdictions, and may undertake such other endeavors related to racial equity as it determines necessary to advise the Council.  The Commission may also work with the Council's Racial Equity Office.</text>
     </para>
     <para>
       <num>(5)</num>
@@ -45,10 +48,16 @@
     <num>(b)</num>
     <text>It is the sense of the Council that for Council Period 24, the Council should include in its rules the establishment of a Racial Equity Program to produce racial equity training materials, provide ongoing racial equity training for Council staff, and include a protocol for conducting Racial Equity Impact Assessments on legislation.</text>
   </para>
+  <codify:emergency doc="D.C. Code" path="§2-1471.03" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-1471.03" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§2-1471.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1471.03">
+    <text>
+      *NOTE: This section was created by emergency legislation that will expire on March 7, 2021.*
+      </text>
+  </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-521" path="§103" codified:display="Note" app="2021-03-16" eff="2020-12-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-521" path="§103">§ 103 of Racial Equity Achieves Results (REACH) Emergency Amendment Act of 2020 (D.C. Act 23-521, Dec. 7, 2020, 67 DCR 14433)</cite>.</annotation>
-    <annotation app="2021-03-16" doc="D.C. Act 23-521" eff="2020-12-07" path="§103" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-181" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-181" eff="2021-03-16" path="§103" type="History"/>
+    <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="" type="History" display="false"/>
+    <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="§103" type="History" display="false"/>
+    <annotation app="2020-12-07" doc="D.C. Act 23-521" eff="2020-12-07" path="§103" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-521" path="§103" codified:display="Note" app="2020-12-07" eff="2020-12-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-521" path="§103">§ 103 of Racial Equity Achieves Results (REACH) Emergency Amendment Act of 2020 (D.C. Act 23-521, Dec. 7, 2020, 67 DCR 14433)</cite>.</annotation>
   </annotations>
 </section>

@@ -596,9 +596,6 @@
       <xi:include href="./sections/50-1501.02f.xml"/>
       <xi:include href="./sections/50-1501.02g.xml"/>
       <xi:include href="./sections/50-1501.02h.xml"/>
-      <xi:include href="./sections/50-1501.02i.xml"/>
-      <xi:include href="./sections/50-1501.02j.xml"/>
-      <xi:include href="./sections/50-1501.02k.xml"/>
       <xi:include href="./sections/50-1501.03.xml"/>
       <xi:include href="./sections/50-1501.03a.xml"/>
       <xi:include href="./sections/50-1501.04.xml"/>
@@ -901,8 +898,6 @@
         <xi:include href="./sections/50-2201.02.xml"/>
         <xi:include href="./sections/50-2201.03.xml"/>
         <xi:include href="./sections/50-2201.03a.xml"/>
-        <xi:include href="./sections/50-2201.03b.xml"/>
-        <xi:include href="./sections/50-2201.03c.xml"/>
         <xi:include href="./sections/50-2201.04.xml"/>
         <xi:include href="./sections/50-2201.04a.xml"/>
         <xi:include href="./sections/50-2201.04b.xml"/>
@@ -990,7 +985,6 @@
         <xi:include href="./sections/50-2206.14.xml"/>
         <xi:include href="./sections/50-2206.15.xml"/>
         <xi:include href="./sections/50-2206.16.xml"/>
-        <xi:include href="./sections/50-2206.16a.xml"/>
         <xi:include href="./sections/50-2206.17.xml"/>
         <xi:include href="./sections/50-2206.18.xml"/>
       </container>
@@ -1293,7 +1287,6 @@
     <heading>Residential Parking Permit Voluntary Exclusion.</heading>
     <annotation app="2020-12-23" doc="D.C. Law 23-164" eff="2020-12-23" path="" type="History" display="false"/>
     <xi:include href="./sections/50-2561.xml"/>
-    <xi:include href="./sections/50-2562.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
