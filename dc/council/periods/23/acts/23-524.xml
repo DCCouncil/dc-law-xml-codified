@@ -40,6 +40,7 @@
       <text>Section 203 is amended by adding new subsections (a-1) and (a-2) to read as follows:</text>
       <include>
         <para>
+          <codify:insert after="(a)" codified:doc="D.C. Code" codified:path="§2-218.91|(a-1)"/>
           <num>(a-1)</num>
           <text>Notwithstanding subsection (a) of this section, a certified business enterprise awarded a contract for a government-assisted project in excess of $250,000 that is unrelated to the District's response to the COVID-19 emergency but entered into during the COVID-19 emergency shall:</text>
           <para>
@@ -52,6 +53,7 @@
           </para>
         </para>
         <para>
+          <codify:insert after="(a-1)" codified:doc="D.C. Code" codified:path="§2-218.91|(a-2)"/>
           <num>(a-2)</num>
           <text>Notwithstanding subsection (a) of this section, a certified joint venture awarded a contract for a government-assisted project in excess of $250,000 that is unrelated to the District's response to the COVID-19 emergency but entered into during the COVID-19 emergency shall:</text>
           <para>
@@ -66,6 +68,11 @@
       </include>
       <aftertext>.</aftertext>
       <codify:emergency doc="D.C. Code" path="§2-218.91" codified:doc="D.C. Code" codified:path="§2-218.91" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§2-218.91" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-218.91">
+        <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 18, 2021.*
+      </text>
+      </codify:insert>
     </para>
     <para codify:path="§7-2304.02|(a)">
       <num>(b)</num>
@@ -73,24 +80,38 @@
       <para codify:path="text">
         <num>(1)</num>
         <text>The lead-in language is amended by striking the phrase "program or organization" and inserting the phrase "program, organization, business, or entity" in its place.</text>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2304.02|(a)">
+          <find>program or organization</find>
+          <replace>program, organization, business, or entity</replace>
+        </codify:find-replace>
       </para>
       <para codify:path="(4)">
         <num>(2)</num>
         <text>Paragraph (4) is amended by striking the phrase "; or" and inserting a semicolon in its place.</text>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2304.02|(a)|(4)">
+          <find>; or</find>
+          <replace>;</replace>
+        </codify:find-replace>
       </para>
       <para codify:path="(5)">
         <num>(3)</num>
         <text>Paragraph (5) is amended by striking the phrase "services." and inserting the phrase "services;" in its place.</text>
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-2304.02|(a)|(5)">
+          <find>services.</find>
+          <replace>services;</replace>
+        </codify:find-replace>
       </para>
       <para>
         <num>(4)</num>
         <text>New paragraphs (6) and (7) are added to read as follows:</text>
         <include lvl="1">
           <para>
+            <codify:insert codified:doc="D.C. Code" codified:path="§7-2304.02|(a)|(6)"/>
             <num>(6)</num>
             <text>Covering the costs of operating a business or organization including rent, utilities, or employee wages and benefits; or</text>
           </para>
           <para>
+            <codify:insert codified:doc="D.C. Code" codified:path="§7-2304.02|(a)|(7)"/>
             <num>(7)</num>
             <text>Providing technical assistance to the business community.</text>
           </para>
@@ -98,6 +119,11 @@
         <aftertext>.</aftertext>
       </para>
       <codify:emergency doc="D.C. Code" path="§7-2304.02" codified:doc="D.C. Code" codified:path="§7-2304.02" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§7-2304.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2304.02">
+        <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 18, 2021.*
+      </text>
+      </codify:insert>
     </para>
     <para>
       <num>(c)</num>
@@ -137,6 +163,11 @@
       <text>Amendatory section 7(c-1) of the District of Columbia Public Emergency Act of 1980, effective March 5, 1981 (D.C. Law 3-149; D.C. Official Code § 7-2306(c-1)), in subsection (a) is amended by striking the date "December 31, 2020" and inserting the date "March 31, 2021" in its place.</text>
       <codify:applicability doc="D.C. Act 23-524" path="§4" date="2021-02-27" history="false" codified:doc="D.C. Code" codified:path="§7-2306"/>
       <codify:emergency doc="D.C. Code" path="§7-2306" codified:doc="D.C. Code" codified:path="§7-2306" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§7-2306" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2306">
+        <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on March 18, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§7-2306(Perm)">Permanent Version</cite>.*
+      </text>
+      </codify:insert>
     </para>
     <para>
       <num>(b)</num>
