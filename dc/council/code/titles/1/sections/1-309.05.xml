@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-309.05</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on April 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-309.05(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-309.05(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Advisory Neighborhood Commissions — Qualifications of members; nomination by petition.</heading>
   <para>
@@ -36,7 +36,7 @@
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>Except as provided in paragraph (3) of this subsection, candidates for member of an Advisory Neighborhood Commission shall be nominated by a petition:</text>
+      <text>Candidates for member of an Advisory Neighborhood Commission shall be nominated by a petition:</text>
       <para>
         <num>(A)</num>
         <text>Prepared and presented to the Board in accordance with regulations of the Board no later than the 90th calendar day before the date of the election in which he intends to be a candidate; and</text>
@@ -52,26 +52,38 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>For the November 3, 2020, general election:</text>
+      <text>During a period of time for which a public health emergency has been declared by the Mayor pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>:</text>
       <para>
         <num>(A)</num>
-        <text>Candidates for member of an Advisory Neighborhood Commission shall be nominated by a petition signed by not fewer than 10 registered qualified electors who are residents of the single-member district from which the candidate seeks election;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The petitions of a candidate in subparagraph (A) of this paragraph may be electronically:</text>
+        <text>Petition sheets circulated in support of a candidate shall be filed with the Board in hard copy but may be electronically provided by the:</text>
         <para>
           <num>(i)</num>
-          <text>Made available by the candidate to a qualified petition circulator; and</text>
+          <text>Board to the candidate;</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>Returned by a qualified petition circulator to the candidate; and</text>
+          <text>Candidate to qualified petition circulators; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Qualified petition circulator to the candidate;</text>
         </para>
       </para>
       <para>
+        <num>(B)</num>
+        <text>Signatures on such petition sheets shall not be invalidated because the signer was also the circulator of the same petition on which the signature appears; and</text>
+      </para>
+      <para>
         <num>(C)</num>
-        <text>Signatures on a candidate's petitions shall not be invalidated because the signer was also the circulator of the same petition on which the signature appears.</text>
+        <text>If the election is for member of an Advisory Neighborhood Commission representing the single-member district containing the Central Detention Facility and Correctional Treatment Facility:</text>
+        <para>
+          <num>(i)</num>
+          <text>The Board shall develop, and the Department of Corrections shall distribute, lay-friendly educational materials for individuals in the Department of Corrections' care and custody about how to register to vote, residency requirements to run for Advisory Neighborhood Commissioner, how to vote, and the functions of an Advisory Neighborhood Commission; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>The Department of Corrections shall facilitate the transmission of the petition sheets to any candidates who are in the care and custody of the Department of Corrections and from the candidates to the Board, as well as the petition circulation among the qualified registered electors in its care and custody.</text>
+        </para>
       </para>
     </para>
   </para>
@@ -105,9 +117,10 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7145" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§905|(a)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§905|(a)">§ 905(a) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§905|(a)" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§905|(a)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§905|(a)">§ 905(a) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§905|(a)" type="History" display="false"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§905|(a)|(1)" type="History"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§905|(a)|(2)" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§905|(a)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§905|(a)">§ 905(a) of Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020] (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§905|(a)" type="History" display="false"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§905|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§905|(a)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§905|(a)">§ 905(a) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

@@ -315,13 +315,13 @@
     <text>Section 16-1501 of the District of Columbia Official Code is amended by adding a new subsection (c) to read as follows:</text>
     <include>
       <para>
-        <codify:insert doc="D.C. Code" path="§16-1501" codified:doc="D.C. Code" codified:path="§16-1501|(c)"/>
+        <codify:insert doc="D.C. Code" path="§16-1501" codified:doc="D.C. Code" codified:path="§16-1501|(a)|(c)"/>
         <num>(c)</num>
         <text>The person aggrieved shall not file a complaint seeking restitution of possession  pursuant to this section for nonpayment of rent in an amount less than $600; except, that the person aggrieved may file a complaint to recover the amount owed.</text>
       </para>
     </include>
     <aftertext>.</aftertext>
-    <codify:temporary doc="D.C. Code" path="§16-1501" codified:doc="D.C. Code" codified:path="§16-1501" codified:display="Note"/>
+    <codify:temporary doc="D.C. Code" path="§16-1501" codified:doc="D.C. Code" codified:path="§16-1501|(a)" codified:display="Note"/>
   </section>
   <section>
     <codify:marginalia display="Not codified"/>
@@ -380,7 +380,7 @@
       *NOTE: This section includes amendments by temporary legislation that will expire on October 27, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§42-3505.01(Perm)">Permanent Version</cite>.*
       </text>
     </codify:insert>
-    <codify:insert doc="D.C. Code" path="§16-1501" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-1501">
+    <codify:insert doc="D.C. Code" path="§16-1501" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-1501|(a)">
       <text>
       *NOTE: This section includes amendments by temporary legislation that will expire on October 27, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§16-1501(Perm)">Permanent Version</cite>.*
       </text>

@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3191.01</num>
   <text>
-      *NOTE: This section was created by temporary legislation that will expire on April 1, 2021.*
+      *NOTE: This section was created by emergency legislation that will expire on June 10, 2021.*
       </text>
   <heading>Mortgage relief.</heading>
   <para>
@@ -100,7 +100,7 @@
   </para>
   <para>
     <num>(j)</num>
-    <text>This section shall not apply to a mortgage loan that is a Federally backed mortgage loan, as that term is defined in section 4022(a)(2) of the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 281; 15 U.S.C. § 9056(a)(2)) ("CARES Act"), or a Federally backed multifamily mortgage loan, as that term is defined in section 4023(f)(2) of the CARES Act (15 U.S.C. § 9057(f)(2)).</text>
+    <text>This section shall not apply to a mortgage loan that is a Federally backed mortgage loan, as that term is defined in section 4022(a)(2) of the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 490; 15 U.S.C. § 9056(a)(2)) ("CARES Act"), or a Federally backed multifamily mortgage loan, as that term is defined in section 4023(f)(2) of the CARES Act (15 U.S.C. § 9057(f)(2)).</text>
   </para>
   <para>
     <num>(k)</num>
@@ -122,18 +122,18 @@
       <text>"Mortgage lender" means any person that makes a mortgage loan to any person or that engages in the business of servicing mortgage loans for others or collecting or otherwise receiving mortgage loan payments directly from borrowers for distribution to any other person.  The term "mortgage lender" does not include the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, or the Government National Mortgage Association.</text>
     </para>
   </para>
-  <codify:temporary doc="D.C. Code" path="§42-3191.01" action="creation of this section" codified:doc="D.C. Code" codified:path="§42-3191.01" codified:display="Note"/>
+  <codify:emergency doc="D.C. Code" path="§42-3191.01" action="creation of this section" codified:doc="D.C. Code" codified:path="§42-3191.01" codified:display="Note"/>
   <codify:insert doc="D.C. Code" path="§42-3191.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3191.01">
     <text>
-      *NOTE: This section was created by temporary legislation that will expire on April 1, 2021.*
+      *NOTE: This section was created by emergency legislation that will expire on June 10, 2021.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§401" codified:display="Note" app="2020-10-11" eff="2020-08-19">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-405" path="§401">§ 401 of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
-    <annotation app="2020-10-11" doc="D.C. Act 23-405" eff="2020-08-19" path="§401" type="History" display="false"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="IV" type="History" display="false"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§401" type="History" display="false"/>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§401" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§401" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-130" path="§401">§ 401 of Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020] (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§401" codified:display="Note" app="2021-03-17" eff="2020-10-09">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-130" path="§401">§ 401 of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation app="2021-03-17" doc="D.C. Law 23-130" eff="2020-10-09" path="§401" type="History" display="false"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="IV" type="History" display="false"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§401" type="History" display="false"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§401" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§401" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-30" path="§401">§ 401 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
