@@ -2,6 +2,9 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-523.01</num>
   <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on April 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-523.01(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
       *NOTE: This section includes amendments by temporary legislation that will expire on July 16, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-523.01(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Mayoral nominees.</heading>
@@ -23,7 +26,7 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>No person shall serve in a hold-over capacity for longer than 180 days after the expiration of the term to which he or she was appointed, in a position that is required by law to be filled by Mayoral appointment with the advice and consent of the Council including to positions on boards and commissions.</text>
+    <text>No person shall serve in a hold-over capacity for longer than 180 days, excluding days occurring during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, after the expiration of the term to which he or she was appointed, in a position that is required by law to be filled by Mayoral appointment with the advice and consent of the Council including to positions on boards and commissions.</text>
   </para>
   <para>
     <num>(d)</num>
@@ -31,7 +34,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>Notwithstanding any other provision of law, the Mayor shall transmit to the Council, for a 90-day period of review, excluding days of Council recess, nominations to the boards and commissions listed in this subsection. If the Council does not approve by resolution within the 90-day period a nomination to these boards or commissions, the nomination shall be deemed disapproved.</text>
+    <text>Notwithstanding any other provision of law, the Mayor shall transmit to the Council, for a 90-day period of review, excluding days of Council recess and days occurring during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>[], nominations to the boards and commissions listed in this subsection. If the Council does not approve by resolution within the 90-day period a nomination to these boards or commissions, the nomination shall be deemed disapproved.</text>
     <para>
       <num>(1)</num>
       <text>The Alcoholic Beverage Control Board, established by <cite path="§25-104|(a)">§ 25-104(a)</cite>;</text>
@@ -195,7 +198,7 @@
   </para>
   <para>
     <num>(f)</num>
-    <text>Notwithstanding any other provision of law, the Mayor shall transmit to the Council, for a 45-day period of review, excluding days of Council recess, nominations to the boards and commissions listed in this subsection. The Council shall be deemed to have approved a nomination under this subsection if during the 45-day period, no member introduces a resolution disapproving the nomination. If a member introduces a resolution disapproving the nomination within the 45-day period, the Council shall have an additional 45 days, excluding days of Council recess, to disapprove the nomination by resolution, or it will be deemed approved.</text>
+    <text>Notwithstanding any other provision of law, the Mayor shall transmit to the Council, for a 45-day period of review, excluding days of Council recess, nominations to the boards and commissions listed in this subsection. The Council shall be deemed to have approved a nomination under this subsection if during the 45-day period, no member introduces a resolution disapproving the nomination. If a member introduces a resolution disapproving the nomination within the 45-day period, the Council shall have an additional 45 days, excluding days of Council recess and days occurring during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, to disapprove the nomination by resolution, or it will be deemed approved.</text>
     <para>
       <num>(1)</num>
       <text>The Apprenticeship Council, established by <cite path="§32-1402">§ 32-1402</cite>;</text>
@@ -763,10 +766,11 @@
     <annotation app="2020-07-22" doc="D.C. Act 23-336" eff="2020-07-22" path="§107" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§904|(a)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§904|(a)">§ 904(a) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§904|(a)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§904|(a)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§904|(a)">§ 904(a) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§904|(a)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§904|(b)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) creation of § 1-523.11, see <cite doc="D.C. Law 23-130" path="§904|(b)">§ 904(b) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
-    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§904|(b)" type="History" display="false"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§904|(a)|(1)" type="History"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§904|(a)|(2)" type="History"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§904|(a)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§904|(a)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§904|(a)">§ 904(a) of Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020] (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§107" codified:display="Note" app="2020-10-28" eff="2020-10-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-437" path="§107">§ 107 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
     <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§107" type="History" display="false"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§1104" type="History" display="false"/>

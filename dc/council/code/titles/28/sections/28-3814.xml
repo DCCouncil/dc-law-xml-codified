@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28-3814</num>
   <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§28-3814(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by temporary legislation that will expire on April 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§28-3814(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Debt collection.</heading>
   <para>
@@ -17,15 +17,15 @@
       <text>“claim” means any obligation or alleged obligation, arising from a consumer credit sale, consumer lease, or direct installment loan;</text>
     </para>
     <para>
-      <num>[(1Ax)]</num>
+      <num>(1A)</num>
       <text>"collection lawsuit" means any legal proceeding, including civil actions, statements of small claims, and supplementary process actions, commenced in any court for the purpose of collecting any debt or other past due balance owed or alleged to be owed.</text>
     </para>
     <para>
-      <num>(1A)</num>
+      <num>[(1B)]</num>
       <text>“creditor” means a claimant or other person holding a claim;</text>
     </para>
     <para>
-      <num>(1B)</num>
+      <num>[(1C)]</num>
       <text>"debt" means money or its equivalent which is, or is alleged to be, more than 30 days past due and owing, unless a different period is agreed to by the debtor, under a single account as a result of a purchase, lease, or loan of goods, services, or real or personal property for personal, family, or household purposes or as a result of a loan of money that was obtained for personal, family, or household purposes whether or not the obligation has been reduced to judgment.</text>
     </para>
     <para>
@@ -208,13 +208,12 @@
     <annotation type="Cross References">Consumer protection procedures, complaints, dismissal of debt collection action, see <cite path="§28-3905">§ 28-3905</cite>.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§303|(b)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§303|(b)">§ 303(b) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§303|(b)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§303" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§303">§ 303 of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§303" type="History" display="false"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§303" type="History" display="false"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§303|(a)|(1)" type="History"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§303|(a)|(2)" type="History"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§303|(b)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§303" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§303">§ 303 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§303|(a)|(1)" type="History"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§303" type="History"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§303|(a)|(2)" type="History"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§303|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§303" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§303">§ 303 of Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020] (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
   </annotations>
   <para>
     <num>(l)</num>
@@ -252,15 +251,7 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>This subsection shall not apply to:</text>
-      <para>
-        <num>(A)</num>
-        <text>Collecting or attempting to collect a debt that is, or is alleged to be, owed on a loan secured by a mortgage on real property or owed for common expenses pursuant to <cite path="§42-1903.12">§ 42-1903.12</cite>; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Collecting or attempting to collect delinquent debt pursuant to <cite path="1|3|XVII">[subchapter XVII of Chapter 3 of Title 1]</cite>.</text>
-      </para>
+      <text>This subsection shall not apply to collecting or attempting to collect a debt that is, or is alleged to be, owed on a loan secured by a mortgage on real property or owed for common expenses pursuant to <cite path="§42-1903.12">§ 42-1903.12</cite>.</text>
     </para>
     <para>
       <num>(4)</num>
@@ -290,11 +281,7 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>Receiving and depositing payments the debtor chooses to make during a public health emergency; or</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>Collecting or attempting to collect delinquent debt pursuant to <cite path="1|3|XVII">[subchapter XVII of Chapter 3 of Title 1]</cite>.</text>
+        <text>Receiving and depositing payments the debtor chooses to make during a public health emergency.</text>
       </para>
     </para>
   </para>

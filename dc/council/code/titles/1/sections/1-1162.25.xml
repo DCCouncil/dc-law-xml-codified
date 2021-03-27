@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-1162.25</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on April 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-1162.25(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Confidential disclosure of financial interest.</heading>
   <para>
     <num>(a)</num>
@@ -16,6 +19,18 @@
   <para>
     <num>(b)</num>
     <text>Each personnel authority shall review each confidential financial disclosure statement filed by an employee of its agency or the Council pursuant to subsection (a) of this section no later than 11:59 p.m. on June 1 of each year.  Any violation of the Code of Conduct found by the personnel authority shall be forwarded immediately to the Board for review.</text>
+  </para>
+  <para>
+    <num>(b-1)</num>
+    <text>Notwithstanding any other provision of this section, in calendar year 2020, the Board may change the dates by which:</text>
+    <para>
+      <num>(1)</num>
+      <text>Reports required by subsection (a) of this section are to be filed; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Reports filed pursuant to subsection (a) of this section shall be reviewed pursuant to subsection (b) of this section.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
@@ -58,7 +73,8 @@
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1083|(aa)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§803|(a)|(2)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§803|(a)|(2)">§ 803(a)(2) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§803|(a)|(2)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§803|(a)|(2)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§803|(a)|(2)">§ 803(a)(2) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§803|(a)|(2)" type="History" display="false"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§803|(a)|(2)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§803|(a)|(2)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§803|(a)|(2)">§ 803(a)(2) of Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020] (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
   </annotations>
 </section>

@@ -23,7 +23,6 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Revised Streatery and Pop Up Locations Programs Clarification Temporary Amendment Act of 2020".</text>
-  <codify:applicability doc="D.C. Law 23-256" path="§2" date="2021-03-17" history="false" codified:doc="D.C. Code" codified:path="§25-113"/>
   <section codify:doc="D.C. Code" codify:path="§25-113|(a)">
     <num>2</num>
     <text>The amendatory language of § 25-113(a) in section 204(a)(2) of the Coronavirus Support Temporary Amendment Act of 2020, enacted on July 7, 2020 (D.C. Act 23-334; 67 DCR 8622), is amended as follows:</text>
@@ -35,8 +34,8 @@
         <include lvl="1">
           <para>
             <num>(3)</num>
-            <para codify:path="(3)">
-              <codify:insert codified:doc="D.C. Code" codified:path="§25-113|(a)|(3)|(D)"/>
+            <para codify:path="(3)|(D)">
+              <codify:replace codified:doc="D.C. Code" codified:path="§25-113|(a)|(3)|(D)"/>
               <num>(D)</num>
               <para>
                 <num>(i)</num>
@@ -195,8 +194,8 @@
         <num>(2)</num>
         <text>Paragraph (6) is amended to read as follows:</text>
         <include lvl="1">
-          <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§25-113|(a)|(6)"/>
+          <para codify:path="(6)">
+            <codify:replace codified:doc="D.C. Code" codified:path="§25-113|(a)|(6)"/>
             <num>(6)</num>
             <para>
               <num>(A)</num>
