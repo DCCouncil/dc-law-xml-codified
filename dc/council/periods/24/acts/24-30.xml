@@ -2375,7 +2375,7 @@
         <codify:emergency doc="D.C. Code" path="§28-4101" codified:doc="D.C. Code" codified:path="§28-4101" codified:display="Note"/>
         <codify:insert doc="D.C. Code" path="§28-4101" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§28-4101">
           <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link:Permanent Version [Insert permanent act].*
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§28-4101(Perm)">Permanent Version</cite>.*
       </text>
         </codify:insert>
       </para>
