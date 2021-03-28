@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-1163.04</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on April 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-1163.04(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Duties of the Director of Campaign Finance.</heading>
   <text>The Director of Campaign Finance shall:</text>
   <para>
@@ -94,7 +97,7 @@
     <text>Require a candidate for public office and the treasurer of any political committee, political action committee, or independent expenditure committee to attend a training program conducted by the Director of Campaign Finance concerning compliance with this subchapter. Such training shall:</text>
     <para>
       <num>(A)</num>
-      <text>Be conducted in person, although online materials may be used to supplement the training;</text>
+      <text>Be conducted in person or online;</text>
     </para>
     <para>
       <num>(A-i)</num>
@@ -164,8 +167,9 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§1043|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§803|(b)|(1)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§803|(b)|(1)">§ 803(b)(1) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§803|(b)|(1)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§803|(b)|(1)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§803|(b)|(1)">§ 803(b)(1) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§803|(b)|(1)" type="History" display="false"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§803|(b)|(1)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§803|(b)|(1)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§803|(b)|(1)">§ 803(b)(1) of Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020] (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§1104" type="History" display="false"/>
   </annotations>
 </section>

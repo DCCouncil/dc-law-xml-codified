@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>51-103</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on April 1, 2021. To view the text of this section after the expiration of all emergency and/or temporary legislation, click this link: <cite path="§51-103(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Employer contributions.</heading>
   <para>
     <num>(a)</num>
@@ -60,7 +63,7 @@
       </para>
       <para>
         <num>[(H)]</num>
-        <text>"Federal Pandemic Unemployment Compensation ("FPUC") benefits paid to an individual pursuant to section 2104 of the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 318; 15 U.S.C. § 9023), shall not be charged against an employer's account.</text>
+        <text>Federal Pandemic Unemployment Compensation ("FPUC") benefits paid to an individual filing during a period of national emergency shall not be charged to the experience rating of the eligible claimant's base period employer's accounts.  Employers electing to become liable for payments in lieu of contributions shall be charged 50% of reimbursements due as a result of FPUC benefits paid to an individual filing during a period of national emergency.</text>
       </para>
     </para>
     <para>
@@ -941,8 +944,9 @@
     <annotation type="Cross References">Judicial review by District of Columbia Court of Appeals, see <cite path="§2-510">§ 2-510</cite>.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§102|(b)" codified:display="Note" app="2020-08-19" eff="2020-08-19">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-405" path="§102|(b)">§ 102(b) of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§102|(b)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§102|(b)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§102|(b)">§ 102(b) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§102|(b)" type="History" display="false"/>
+    <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§102|(b)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§102|(b)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§102|(b)">§ 102(b) of Coronavirus Support Temporary Amendment Act of 2020 [Effective from October 9, 2020] (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-210" eff="2021-03-16" path="§2|(b)|(1)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-210" eff="2021-03-16" path="§2|(b)|(2)|(A)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-210" eff="2021-03-16" path="§2|(b)|(2)|(B)|(i)" type="History"/>
@@ -951,6 +955,5 @@
     <annotation app="2021-03-16" doc="D.C. Law 23-210" eff="2021-03-16" path="§2|(b)|(2)|(C)|(ii)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-210" eff="2021-03-16" path="§2|(b)|(2)|(C)|(iii)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-210" eff="2021-03-16" path="§2|(b)|(2)|(C)|(iv)" type="History"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§102|(b)" type="History"/>
   </annotations>
 </section>
