@@ -1,23 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Expired</reason>
   <num>7-2425</num>
   <heading>Implementation report.</heading>
-  <text>No later than September 30, 2020, the ACSH shall submit a report to the Mayor and Council that:</text>
-  <para>
-    <num undesignated="true">(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>Summarizes the work of the ACSH after October 30, 2018;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Discusses District agencies' implementation of model policies developed pursuant to <cite path="§7-2424|(a)">§ 7-2424(a)</cite>; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Summarizes elements of OHR's public information campaign, required by <cite path="§7-2424|(c)|(2)">§ 7-2424(c)(2)</cite>.</text>
-    </para>
-  </para>
+  <text>Expired.</text>
   <annotations>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="I|E" type="History" display="false"/>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§1046" type="History" display="false"/>
@@ -25,5 +11,9 @@
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§1046" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§1046" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-458" path="§1046">§ 1046 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1046" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1048" type="History"/>
+    <annotation doc="D.C. Law 22-168" path="§1048" type="Expiration of Law" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§1048">Section 1048 of D.C. Law 22-168</cite> provided that this section shall expire on October 1, 2020.
+        </annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1048" type="History" display="false"/>
   </annotations>
 </section>

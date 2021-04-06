@@ -1,55 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Expired</reason>
   <num>7-2424</num>
   <heading>Street harassment prevention report; model policies; public information campaign.</heading>
-  <para>
-    <num>(a)</num>
-    <text>No later than September 30, 2019, the ACSH shall submit a report to the Mayor and Council that:</text>
-    <para>
-      <num>(1)</num>
-      <text>Identifies categories of District employees and District residents most at risk of street harassment;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Proposes model policies and training materials to be adopted by District agencies for preventing and responding to street harassment, including model policies and training materials for public-facing employees;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Proposes strategies to improve public awareness and understanding of street harassment;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Discusses the need, if any, for a process by which victims and witnesses of street harassment can report instances of street harassment to District agencies; and</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Summarizes any actions taken by the ACSH after October 30, 2018.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>No later than April 1, 2020, all District agencies shall:</text>
-    <para>
-      <num>(1)</num>
-      <text>Implement the model policies developed pursuant to subsection (a) of this section; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Integrate training materials developed pursuant to subsection (a) of this section into the training of District employees.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>OHR shall:</text>
-    <para>
-      <num>(1)</num>
-      <text>Monitor District agencies' implementation of the model policies developed pursuant to subsection (a) of this section; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>No later than September 30, 2019, conduct a public information campaign about street harassment and resources available in the District for victims of street harassment.</text>
-    </para>
-  </para>
+  <text>Expired.</text>
   <annotations>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="I|E" type="History" display="false"/>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§1045" type="History" display="false"/>
@@ -57,5 +11,9 @@
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§1045" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§1045" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-458" path="§1045">§ 1045 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1045" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1048" type="History"/>
+    <annotation doc="D.C. Law 22-168" path="§1048" type="Expiration of Law" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§1048">Section 1048 of D.C. Law 22-168</cite> provided that this section shall expire on October 1, 2020.
+        </annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1048" type="History" display="false"/>
   </annotations>
 </section>

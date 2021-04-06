@@ -1,8 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-2426</num>
-  <heading>Sunset.</heading>
-  <text>This subtitle shall expire on October 1, 2020.</text>
+  <heading>Sunset. [Expired]</heading>
+  <text>Expired.</text>
+  <codify:repeal doc="D.C. Code" path="§7-2421" codified:doc="D.C. Code" codified:path="§7-2421"/>
+  <codify:find-replace doc="D.C. Code" path="§7-2421" count="2" codified:doc="D.C. Code" codified:path="§7-2421">
+    <find>Repealed</find>
+    <replace>Expired</replace>
+  </codify:find-replace>
+  <codify:annotation doc="D.C. Code" path="§7-2421" type="Expiration of Law" history="false" codified:doc="D.C. Code" codified:path="§7-2421"><cite doc="D.C. Law 22-168" path="§1048">Section 1048 of D.C. Law 22-168</cite> provided that this section shall expire on October 1, 2020.
+        </codify:annotation>
+  <codify:repeal doc="D.C. Code" path="§7-2422" codified:doc="D.C. Code" codified:path="§7-2422"/>
+  <codify:find-replace doc="D.C. Code" path="§7-2422" count="2" codified:doc="D.C. Code" codified:path="§7-2422">
+    <find>Repealed</find>
+    <replace>Expired</replace>
+  </codify:find-replace>
+  <codify:annotation doc="D.C. Code" path="§7-2422" type="Expiration of Law" history="false" codified:doc="D.C. Code" codified:path="§7-2422"><cite doc="D.C. Law 22-168" path="§1048">Section 1048 of D.C. Law 22-168</cite> provided that this section shall expire on October 1, 2020.
+        </codify:annotation>
+  <codify:repeal doc="D.C. Code" path="§7-2423" codified:doc="D.C. Code" codified:path="§7-2423"/>
+  <codify:find-replace doc="D.C. Code" path="§7-2423" count="2" codified:doc="D.C. Code" codified:path="§7-2423">
+    <find>Repealed</find>
+    <replace>Expired</replace>
+  </codify:find-replace>
+  <codify:annotation doc="D.C. Code" path="§7-2423" type="Expiration of Law" history="false" codified:doc="D.C. Code" codified:path="§7-2423"><cite doc="D.C. Law 22-168" path="§1048">Section 1048 of D.C. Law 22-168</cite> provided that this section shall expire on October 1, 2020.
+        </codify:annotation>
+  <codify:repeal doc="D.C. Code" path="§7-2424" codified:doc="D.C. Code" codified:path="§7-2424"/>
+  <codify:find-replace doc="D.C. Code" path="§7-2424" count="2" codified:doc="D.C. Code" codified:path="§7-2424">
+    <find>Repealed</find>
+    <replace>Expired</replace>
+  </codify:find-replace>
+  <codify:annotation doc="D.C. Code" path="§7-2424" type="Expiration of Law" history="false" codified:doc="D.C. Code" codified:path="§7-2424"><cite doc="D.C. Law 22-168" path="§1048">Section 1048 of D.C. Law 22-168</cite> provided that this section shall expire on October 1, 2020.
+        </codify:annotation>
+  <codify:repeal doc="D.C. Code" path="§7-2425" codified:doc="D.C. Code" codified:path="§7-2425"/>
+  <codify:find-replace doc="D.C. Code" path="§7-2425" count="2" codified:doc="D.C. Code" codified:path="§7-2425">
+    <find>Repealed</find>
+    <replace>Expired</replace>
+  </codify:find-replace>
+  <codify:annotation doc="D.C. Code" path="§7-2425" type="Expiration of Law" history="false" codified:doc="D.C. Code" codified:path="§7-2425"><cite doc="D.C. Law 22-168" path="§1048">Section 1048 of D.C. Law 22-168</cite> provided that this section shall expire on October 1, 2020.
+        </codify:annotation>
+  <codify:annotation doc="D.C. Code" path="§7-2426" type="Expiration of Law" history="false" codified:doc="D.C. Code" codified:path="§7-2426"><cite doc="D.C. Law 22-168" path="§1048">Section 1048 of D.C. Law 22-168</cite> provided that this section shall expire on October 1, 2020.
+        </codify:annotation>
   <annotations>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="I|E" type="History" display="false"/>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§1048" type="History" display="false"/>
@@ -10,5 +47,8 @@
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§1048" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§1048" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-458" path="§1048">§ 1048 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1048" type="History"/>
+    <annotation doc="D.C. Law 22-168" path="§1048" type="Expiration of Law" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§1048">Section 1048 of D.C. Law 22-168</cite> provided that this section shall expire on October 1, 2020.
+        </annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1048" type="History" display="false"/>
   </annotations>
 </section>

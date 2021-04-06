@@ -1,59 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Expired</reason>
   <num>7-2421</num>
   <heading>Definitions.</heading>
-  <text>For the purposes of <cite path="7|24B">this chapter</cite>, the term:</text>
-  <para>
-    <num undesignated="true">(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>"ACSH" means the Advisory Committee on Street Harassment established by <cite path="§7-2422">§ 7-2422</cite>.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>"High-risk area" means:</text>
-      <para>
-        <num>(A)</num>
-        <text>The enclosed area within any Metrorail car, Metrobus, MetroAccess vehicle, DC Circulator bus, DC Streetcar, or any other commercial vehicle capable of carrying more than 6 passengers;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The area within 25 feet of any Metrorail station, Metrobus stop, DC Circulator stop, DC streetcar stop, or a location designated for the loading and unloading of a commercial vehicle capable of carrying more than 6 passengers;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>The enclosed area within any private vehicle-for-hire, as that term is defined in <cite path="§50-301.03|(16A)">§ 50-301.03(16A)</cite>, or public vehicle-for-hire, as that term is defined in <cite path="§50-301.03|(17)">§ 50-301.03(17)</cite>;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>A food service entity, as that term is defined in <cite path="§8-1531|(4)">§ 8-1531(4)</cite>, hotel, as that term is defined in <cite path="§25-101|(25)">§ 25-101(25)</cite>, nightclub, as that term is defined in <cite path="§25-101|(33)">§ 25-101(33)</cite>, tavern, as that term is defined in <cite path="§25-101|(52)">§ 25-101(52)</cite>, and any other establishment that serves food or alcohol;</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>Any school, library, or other building primarily used for the instruction of students, including a day care center, nursery, elementary school, secondary school, college, and university;</text>
-      </para>
-      <para>
-        <num>(F)</num>
-        <text>Any bank, health care facility, laundromat, retail store, shopping mall, sports arena, music venue, and theater;</text>
-      </para>
-      <para>
-        <num>(G)</num>
-        <text>All the publicly owned property between property lines shown on the records of the District, including any roadway, sidewalk, or parking between such property lines; and</text>
-      </para>
-      <para>
-        <num>(H)</num>
-        <text>All buildings or land that are owned, leased, or occupied by the District government.</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>"OHR" means the Office of Human Rights established by <cite path="§2-1411.01">§ 2-1411.01</cite>.</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>"Street harassment" means disrespectful, offensive, or threatening statements, gestures, or other conduct directed at an individual in a high-risk area without the individual's consent and based on the individual's actual or perceived ethnicity or housing status, or a protected trait identified in the <cite path="2|14|A">Unit A of Chapter 14 of Title 2</cite>.</text>
-    </para>
-  </para>
+  <text>Expired.</text>
   <annotations>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="I|E" type="History" display="false"/>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§1042" type="History" display="false"/>
@@ -61,5 +11,9 @@
     <annotation app="2018-10-03" doc="D.C. Act 22-458" eff="2018-10-03" path="§1042" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§1042" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 22-458" path="§1042">§ 1042 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1042" type="History"/>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1048" type="History"/>
+    <annotation doc="D.C. Law 22-168" path="§1048" type="Expiration of Law" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§1048">Section 1048 of D.C. Law 22-168</cite> provided that this section shall expire on October 1, 2020.
+        </annotation>
+    <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§1048" type="History" display="false"/>
   </annotations>
 </section>
