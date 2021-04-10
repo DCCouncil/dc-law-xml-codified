@@ -50,7 +50,7 @@
         <text>A new subsection (c) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert num-value="" codified:doc="D.C. Code" codified:path="§42-3651.02"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§42-3651.02|(c)"/>
             <num>(c)</num>
             <text>For purposes of this section, the term:</text>
             <para>
