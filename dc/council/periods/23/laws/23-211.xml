@@ -511,7 +511,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§8-1031.04" applicability-path="§6" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.04" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§8-1031.04" applicability-path="§6" action="change made in subsection (b) of" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.04" codified:display="Note"/>
     </para>
     <para>
       <num>(e)</num>
@@ -879,7 +879,7 @@
           <para>
             <codify:replace codified:doc="D.C. Code" codified:path="§8-1041.12|(a)|(1)"/>
             <num>(1)</num>
-            <text>The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>), may issue rules to implement the provisions of<code-cite doc="D.C. Code" path="8|10A"> this subtitle</code-cite>.</text>
+            <text>The Mayor, pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq.</em>), may issue rules to implement the provisions of <code-cite doc="D.C. Code" path="8|10A"> this subtitle</code-cite>.</text>
           </para>
         </para>
       </include>
@@ -1667,8 +1667,8 @@
       <text>Sections 2(a), 2(b), the amendatory section 103a within 2(c), 2(d)(2), 2(e), 2(g), 2(k), 2(l), 2(m)(1), 2(p), 2(q), the amendatory section 403(e)(1) and (2) and (f) in section 3(b), and 4(b) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
       <codify:applicability doc="D.C. Law 23-211" path="§2|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.01|(1A)"/>
       <codify:applicability doc="D.C. Law 23-211" path="§2|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.03|(c)|(2)"/>
-      <codify:repeal doc="D.C. Code" path="§8-1031.03a" codified:doc="D.C. Code" codified:path="§8-1031.03a"/>
-      <codify:find-replace doc="D.C. Code" path="§8-1031.03a" count="2" codified:doc="D.C. Code" codified:path="§8-1031.03a">
+      <codify:repeal doc="D.C. Code" path="§8-1031.03a" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.03a"/>
+      <codify:find-replace doc="D.C. Code" path="§8-1031.03a" count="2" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.03a">
         <find>Repealed</find>
         <replace>Not Funded</replace>
       </codify:find-replace>
