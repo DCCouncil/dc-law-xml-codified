@@ -36,7 +36,6 @@
           <para>
             <num>(3)</num>
             <para codify:path="(3)">
-              <codify:insert codified:doc="D.C. Code" codified:path="§25-113|(a)|(3)|(D)"/>
               <num>(D)</num>
               <para>
                 <num>(i)</num>
@@ -196,7 +195,6 @@
         <text>Paragraph (6) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§25-113|(a)|(6)"/>
             <num>(6)</num>
             <para>
               <num>(A)</num>
@@ -347,11 +345,6 @@
       </para>
     </para>
     <codify:temporary doc="D.C. Code" path="§25-113" codified:doc="D.C. Code" codified:path="§25-113" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§25-113" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§25-113">
-      <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on October 27, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§25-113(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>3</num>

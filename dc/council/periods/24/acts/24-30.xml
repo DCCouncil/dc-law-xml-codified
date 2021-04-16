@@ -1321,6 +1321,7 @@
             <text>Paragraph (3) is amended by adding new subparagraph (D) to read as follows:</text>
             <include lvl="2">
               <para>
+                <codify:insert codified:doc="D.C. Code" codified:path="§25-113|(a)|(3)|(D)"/>
                 <num>(D)</num>
                 <para>
                   <num>(i)</num>
@@ -1479,6 +1480,7 @@
             <text>A new paragraph (6) is added to read as follows:</text>
             <include lvl="1">
               <para>
+                <codify:insert codified:doc="D.C. Code" codified:path="§25-113|(a)|(6)"/>
                 <num>(6)</num>
                 <para>
                   <num>(A)</num>
@@ -1627,6 +1629,11 @@
             </include>
             <aftertext>.</aftertext>
             <codify:emergency doc="D.C. Code" path="§25-113" codified:doc="D.C. Code" codified:path="§25-113" codified:display="Note"/>
+            <codify:insert doc="D.C. Code" path="§25-113" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§25-113">
+              <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§25-113(Perm)">Permanent Version</cite>.*
+      </text>
+            </codify:insert>
           </para>
         </para>
         <para>
@@ -3395,16 +3402,11 @@
           <num>(1)</num>
           <text>Section 16-1501 is amended as follows:</text>
           <para>
-            <num>(A)</num>
-            <text>The existing text is designated as subsection (a).</text>
-            <codify:redesignate-para num-value="(a)" codified:doc="D.C. Code" codified:path="§16-1501"/>
-          </para>
-          <para>
             <num>(B)</num>
             <text>A new subsection (b) is added to read as follows:</text>
             <include>
               <para>
-                <codify:insert codified:doc="D.C. Code" codified:path="§16-1501|(b)"/>
+                <codify:insert num-value="[(c)]" codified:doc="D.C. Code" codified:path="§16-1501|[(c)]"/>
                 <num>(b)</num>
                 <text>During a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code 7-2304.01)</code-cite>, and for 60 days thereafter, the person aggrieved shall not file a complaint seeking relief pursuant to this section.</text>
               </para>
@@ -3415,6 +3417,11 @@
           <codify:insert doc="D.C. Code" path="§16-1501" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-1501">
             <text>
       *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§16-1501(Perm)">Permanent Version</cite>.*
+      </text>
+          </codify:insert>
+          <codify:insert doc="D.C. Code" path="§16-1501" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-1501">
+            <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on October 27, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§16-1501(Perm)">Permanent Version</cite>.*
       </text>
           </codify:insert>
         </para>
