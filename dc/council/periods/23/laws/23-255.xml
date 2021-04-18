@@ -126,11 +126,11 @@
                   <text>The housing provider's initiation of eviction proceedings against the tenant was in violation of:</text>
                   <para>
                     <num>(I)</num>
-                    <text><span codify:value="Section "/><code-cite doc="D.C. Code" path="§42-3505.02" codify:value="42-3505.02">Section 502</code-cite>; or</text>
+                    <text><span codify:value="Section"> </span><code-cite doc="D.C. Code" path="§42-3505.02" codify:value="42-3505.02">Section 502</code-cite>; or</text>
                   </para>
                   <para>
                     <num>(II)</num>
-                    <text><span codify:value="Section "/><code-cite doc="D.C. Code" path="§2-1402.61" codify:value="2-1402.61">Section 261 of the Human Rights Act of 1977, effective December 13, 1977 (D.C. Law 2-38; D.C. Official Code § 2-1402.61)</code-cite>;</text>
+                    <text><span codify:value="Section"> </span><code-cite doc="D.C. Code" path="§2-1402.61" codify:value="2-1402.61">Section 261 of the Human Rights Act of 1977, effective December 13, 1977 (D.C. Law 2-38; D.C. Official Code § 2-1402.61)</code-cite>;</text>
                   </para>
                 </para>
                 <para>
@@ -310,20 +310,13 @@
       <codify:temporary doc="D.C. Code" path="§42-3505.10" action="creation of this section" codified:doc="D.C. Code" codified:path="§42-3505.10" codified:display="Note"/>
     </para>
   </section>
-  <codify:insert codified:doc="D.C. Code" codified:path="§16-1501">
-    <para>
-      <num>(A)</num>
-      <text>The existing text is designated as subsection (a).</text>
-      <codify:redesignate-para doc="D.C. Code" path="§16-1501" num-value="(a)" codified:doc="D.C. Code" codified:path="§16-1501"/>
-    </para>
-  </codify:insert>
-  <section codify:doc="D.C. Code">
+  <section>
     <num>3</num>
     <text>Section 16-1501 of the District of Columbia Official Code is amended by adding a new subsection (c) to read as follows:</text>
     <include>
       <para>
-        <codify:insert path="§16-1501" num-value="[(b)]" codified:doc="D.C. Code" codified:path="§16-1501|(a)|[(b)]"/>
-        <num>(a)</num>
+        <codify:insert doc="D.C. Code" path="§16-1501" codified:doc="D.C. Code" codified:path="§16-1501|(a)|(c)"/>
+        <num>(c)</num>
         <text>The person aggrieved shall not file a complaint seeking restitution of possession  pursuant to this section for nonpayment of rent in an amount less than $600; except, that the person aggrieved may file a complaint to recover the amount owed.</text>
       </para>
     </include>
@@ -373,7 +366,10 @@
     <heading>Effective date.</heading>
     <para>
       <num>(a)</num>
-      <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of Columbia Register.</text>
+      <text>This act shall take effect following approval by the Mayor (or in the event of veto by the Mayor, action by the Council to override the veto), a 30-day period of congressional review</text>
+      <text>as provided in section 602(c)(1) of the District of Columbia Home Rule Act, approved December</text>
+      <text>24, 1973 (87 Stat. 813; D.C. Official Code § 1-206.02(c)(1)), and publication in the District of</text>
+      <text>Columbia Register.</text>
     </para>
     <para>
       <num>(b)</num>
@@ -382,6 +378,11 @@
     <codify:insert doc="D.C. Code" path="§42-3505.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3505.01">
       <text>
       *NOTE: This section includes amendments by temporary legislation that will expire on October 27, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§42-3505.01(Perm)">Permanent Version</cite>.*
+      </text>
+    </codify:insert>
+    <codify:insert doc="D.C. Code" path="§16-1501" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-1501|(a)">
+      <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on October 27, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§16-1501(Perm)">Permanent Version</cite>.*
       </text>
     </codify:insert>
     <codify:insert doc="D.C. Code" path="§42-3505.09" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3505.09">
