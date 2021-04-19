@@ -671,6 +671,25 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>6C</num>
+    <heading>Office of the Ombudsperson for Children.</heading>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
+    <xi:include href="./sections/4-671.01.xml"/>
+    <xi:include href="./sections/4-671.02.xml"/>
+    <xi:include href="./sections/4-671.03.xml"/>
+    <xi:include href="./sections/4-671.04.xml"/>
+    <xi:include href="./sections/4-671.05.xml"/>
+    <xi:include href="./sections/4-671.06.xml"/>
+    <xi:include href="./sections/4-671.07.xml"/>
+    <xi:include href="./sections/4-671.08.xml"/>
+    <xi:include href="./sections/4-671.09.xml"/>
+    <xi:include href="./sections/4-671.10.xml"/>
+    <xi:include href="./sections/4-671.11.xml"/>
+    <xi:include href="./sections/4-671.12.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>7</num>
     <heading>Right to Overnight Shelter. [Repealed].</heading>
     <container>
@@ -970,6 +989,7 @@
         <xi:include href="./sections/4-1303.08.xml"/>
         <xi:include href="./sections/4-1303.09.xml"/>
         <xi:include href="./sections/4-1303.10.xml"/>
+        <xi:include href="./sections/4-1303.11.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>

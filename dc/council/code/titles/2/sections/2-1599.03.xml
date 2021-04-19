@@ -72,6 +72,10 @@
         <num>(P)</num>
         <text>Deputy Mayor for Education;</text>
       </para>
+      <para placeholder="Not Funded">
+        <num>(Q)</num>
+        <text>Not Funded.</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
@@ -191,5 +195,9 @@
           Applicability of <cite doc="D.C. Law 22-303">D.C. Law 22-303</cite>: <cite doc="D.C. Law 23-16" path="§7176">§ 7176 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-303" path="§9">§ 9 of D.C. Law 22-303</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-303">D.C. Law 22-303</cite> has been implemented.
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7176" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§203|(b)|(3)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-270" path="§203" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the change made to this section by <cite doc="D.C. Law 23-270" path="§203">§ 203 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="§203" type="History"/>
   </annotations>
 </section>

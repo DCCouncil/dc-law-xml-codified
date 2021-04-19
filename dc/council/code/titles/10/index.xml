@@ -292,6 +292,54 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>5B</num>
+    <heading>Department of Buildings.</heading>
+    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>Establishment of the Department of Buildings.</heading>
+      <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
+      <xi:include href="./sections/10-561.01.xml"/>
+      <xi:include href="./sections/10-561.02.xml"/>
+      <xi:include href="./sections/10-561.03.xml"/>
+      <xi:include href="./sections/10-561.04.xml"/>
+      <xi:include href="./sections/10-561.05.xml"/>
+      <xi:include href="./sections/10-561.06.xml"/>
+      <xi:include href="./sections/10-561.07.xml"/>
+      <xi:include href="./sections/10-561.08.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Agency Planning and Reporting Requirements.</heading>
+      <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
+      <xi:include href="./sections/10-562.01.xml"/>
+      <xi:include href="./sections/10-562.02.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III</num>
+      <heading>Agency Redesignation and Transition.</heading>
+      <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
+      <xi:include href="./sections/10-563.01.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>IV</num>
+      <heading>Rulemaking Authority; Savings Clause.</heading>
+      <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
+      <xi:include href="./sections/10-564.01.xml"/>
+      <xi:include href="./sections/10-564.02.xml"/>
+    </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>6</num>
     <heading>Construction of Public Buildings.</heading>
     <xi:include href="./sections/10-601.xml"/>
