@@ -33,10 +33,6 @@
           <prefix>§</prefix>
           <num>14-307</num>
           <heading>Confidential information.</heading>
-          <codify:find-replace doc="D.C. Code" path="§14-307|heading" count="1" codified:doc="D.C. Code" codified:path="§14-307">
-            <find>Physicians and mental health professionals</find>
-            <replace>Confidential information</replace>
-          </codify:find-replace>
         </section>
       </include>
       <aftertext>.</aftertext>
@@ -44,17 +40,8 @@
     <para>
       <num>(b)</num>
       <text>Subsection (a) is amended by striking the phrase "sexual assault victim advocate as defined in § 14-312(a)(7)" and inserting the phrase "sexual assault counselor as defined in § 23-1907(10)" in its place.</text>
-      <codify:find-replace doc="D.C. Code" path="§14-307|(a)" count="1" codified:doc="D.C. Code" codified:path="§14-307|(a)">
-        <find>sexual assault victim advocate as defined in <cite path="§14-312|(a)|(7)">§  14-312(a)(7)</cite></find>
-        <replace>sexual assault counselor as defined in <cite doc="D.C. Code" path="§23-1907|(10)">§ 23-1907(10)</cite></replace>
-      </codify:find-replace>
     </para>
     <codify:temporary doc="D.C. Code" path="§14-307" codified:doc="D.C. Code" codified:path="§14-307" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§14-307" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§14-307">
-      <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 5, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§14-307(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section>
     <num>3</num>

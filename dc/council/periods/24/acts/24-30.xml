@@ -5174,7 +5174,6 @@
           <text>A new section 3a-1 is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="24|4|I" after="§24-403.01" num-value="24-403.01a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§24-403.01a"/>
               <num>3a-1</num>
               <heading>Good time credit for felony offenses committed before August 5, 2000.</heading>
               <para>
@@ -5211,19 +5210,13 @@
             </section>
           </include>
           <aftertext>.</aftertext>
-          <codify:emergency doc="D.C. Code" path="§24-403.01a" action="creation of this section" codified:doc="D.C. Code" codified:path="§24-403.01a" codified:display="Note"/>
-          <codify:insert doc="D.C. Code" path="§24-403.01a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§24-403.01a">
-            <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 10, 2021.*
-      </text>
-          </codify:insert>
+          <codify:emergency-new-sec doc="D.C. Code" path="§24-403.01a" interim-path="§24-403.01" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§24-403.01a" codified:display="Note"/>
         </para>
         <para>
           <num>(2)</num>
           <text>A new section 3d is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="24|4|I" after="§24-403.03" num-value="24-403.04" history-prefix="as added" codified:doc="D.C. Code" codified:path="§24-403.04"/>
               <num>3d</num>
               <heading>Motions for compassionate release for individuals convicted of felony offenses.</heading>
               <para>
@@ -5287,12 +5280,7 @@
           </include>
           <aftertext>.</aftertext>
         </para>
-        <codify:emergency doc="D.C. Code" path="§24-403.04" action="creation of this section" codified:doc="D.C. Code" codified:path="§24-403.04" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§24-403.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§24-403.04">
-          <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 10, 2021.*
-      </text>
-        </codify:insert>
+        <codify:emergency-new-sec doc="D.C. Code" path="§24-403.04" interim-path="§24-403.03" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§24-403.04" codified:display="Note"/>
       </para>
     </section>
     <codify:insert doc="D.C. Code" path="7" after="3" history="false" codified:doc="D.C. Code" codified:path="7|3A">

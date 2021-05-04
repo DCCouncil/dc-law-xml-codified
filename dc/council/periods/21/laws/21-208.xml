@@ -57,7 +57,7 @@
             <text>Subparagraphs (A) and (B) are amended to read as follows:</text>
             <include>
               <para>
-                <codify:replace path="(A)" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)|(A)"/>
+                <codify:replace path="(A)" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)"/>
                 <num>(A)</num>
                 <para>
                   <num>(i)</num>
@@ -109,7 +109,7 @@
                 </para>
               </para>
               <para>
-                <codify:replace path="(B)" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)|(B)"/>
+                <codify:replace path="(B)" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)"/>
                 <num>(B)</num>
                 <text>The DMV and the Board shall jointly develop a DMV application form that shall contain the necessary information for the:</text>
                 <para>
@@ -155,7 +155,7 @@
           <para>
             <num>(ii)</num>
             <text>Subparagraph (D) is amended by striking the phrase "combined portion of the form" and inserting the word "application" in its place.</text>
-            <codify:find-replace path="(D)" count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)|(D)">
+            <codify:find-replace path="(D)" count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)">
               <find>combined portion of the form</find>
               <replace>application</replace>
             </codify:find-replace>
@@ -163,8 +163,8 @@
           <para>
             <num>(iii)</num>
             <text>Subparagraphs (E) and (F) are repealed.</text>
-            <codify:repeal path="(E)" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)|(E)"/>
-            <codify:repeal path="(F)" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)|(F)"/>
+            <codify:repeal path="(E)" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)"/>
+            <codify:repeal path="(F)" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)"/>
           </para>
           <para codify:path="(I)">
             <num>(iv)</num>
@@ -172,12 +172,12 @@
             <para>
               <num>(I)</num>
               <text>The existing text is designated as sub-subparagraph (i).</text>
-              <codify:redesignate-para num-value="(i)" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)|(I)"/>
+              <codify:redesignate-para num-value="(i)" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)"/>
             </para>
             <para codify:path="(i)">
               <num>(II)</num>
               <text>The newly designated sub-subparagraph (i) is amended by striking the phrase "An application to register to vote or for change of address, party, or name" and inserting the phrase "An application" in its place.</text>
-              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)|(I)|(i)">
+              <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)">
                 <find>An application to register to vote or for change of address, party, or name</find>
                 <replace>An application</replace>
               </codify:find-replace>
@@ -187,7 +187,7 @@
               <text>A new sub-subparagraph (ii) is added to read as follows:</text>
               <include>
                 <para>
-                  <codify:insert codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)|(I)|(ii)"/>
+                  <codify:insert codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)"/>
                   <num>(ii)</num>
                   <text>The Board shall consider an application that the DMV accepted for the purposes of voter registration on or before the voter registration deadline as timely received.</text>
                 </para>
@@ -198,7 +198,7 @@
           <para codify:path="(J)">
             <num>(v)</num>
             <text>Subparagraph (J) is amended by striking the phrase "may state whether the change of address or name is" and inserting the phrase "may decline to correct or update the individual's address or name" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)|(J)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(c)|(1)">
               <find>may state whether the change of address or name is</find>
               <replace>may decline to correct or update the individual's address or name</replace>
             </codify:find-replace>

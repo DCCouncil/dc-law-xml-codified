@@ -43,7 +43,7 @@
         </include>
         <aftertext>.</aftertext>
       </para>
-      <codify:temporary doc="D.C. Code" path="§1-620.11" codified:doc="D.C. Code" codified:path="§1-620.11|(a)" codified:display="Note"/>
+      <codify:temporary doc="D.C. Code" path="§1-620.11" codified:doc="D.C. Code" codified:path="§1-620.11" codified:display="Note"/>
     </para>
     <para>
       <num>(b)</num>
@@ -123,7 +123,8 @@
         </container>
       </include>
       <aftertext>.</aftertext>
-      <codify:temporary doc="D.C. Code" path="§1-620.44" action="creation of subchapter XX-E of this chapter" codified:doc="D.C. Code" codified:path="§1-620.44" codified:display="Note"/>
+      <codify:temporary-new-sec doc="D.C. Code" path="§1-620.51" interim-path="§1-620.44" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§1-620.51" codified:display="Note"/>
+      <codify:temporary-new-sec doc="D.C. Code" path="§1-620.52" interim-path="§1-620.44" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§1-620.52" codified:display="Note"/>
     </para>
   </section>
   <section>
