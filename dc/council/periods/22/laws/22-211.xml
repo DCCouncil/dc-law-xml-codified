@@ -51,7 +51,7 @@
       <para codify:path="(15A)|num">
         <num>(2)</num>
         <text>Paragraph (15A) is redesignated as paragraph (15B).</text>
-        <codify:find-replace count="1" display-template="" codified:doc="D.C. Code" codified:path="§1-603.01|(15B)">
+        <codify:find-replace count="1" display-template="" codified:doc="D.C. Code" codified:path="§1-603.01|(15C)">
           <find>(15A)</find>
           <replace>(15B)</replace>
         </codify:find-replace>
