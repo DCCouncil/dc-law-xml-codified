@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>7-2505.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on May 27, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§7-2505.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Sales and transfers prohibited.</heading>
   <text>No person or organization shall sell, transfer or otherwise dispose of any firearm, destructive device, ghost gun, unfinished frame or receiver, or ammunition in the District except as provided in <cite path="§7-2502.10|(c)">§ 7-2502.10(c)</cite>, <cite path="§7-2505.02">§ 7-2505.02</cite>, <cite path="§7-2507.05">§ 7-2507.05</cite>, <cite path="§7-2510.07">§ 7-2510.07</cite>, or <cite path="§7-2510.09">§ 7-2510.09</cite>.</text>
   <annotations>
@@ -20,8 +23,8 @@
     <annotation app="2020-05-27" doc="D.C. Act 23-324" eff="2020-05-27" path="§2|(c)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-125" path="§2|(c)" codified:display="Note" app="2020-07-30" eff="2020-07-30">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-125" path="§2|(c)">§ 2(c) of Ghost Guns Prohibition Temporary Amendment Act of 2020 (D.C. Law 23-125, July 30, 2020, 67 DCR 3945)</cite>.</annotation>
     <annotation app="2020-07-30" doc="D.C. Law 23-125" eff="2020-07-30" path="§2|(c)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-25" path="§4|(d)" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-25" path="§4|(d)">§ 4(d) of Omnibus Public Safety and Justice Emergency Amendment Act of 2021 (D.C. Act 24-25, Feb. 26, 2021, 68 DCR 002604)</cite>.</annotation>
     <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(d)" type="History" display="false"/>
-    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§201|(c)" type="History"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(d)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-25" path="§4|(d)" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-25" path="§4|(d)">§ 4(d) of Omnibus Public Safety and Justice Emergency Amendment Act of 2021 (D.C. Act 24-25, Feb. 26, 2021, 68 DCR 002604)</cite>.</annotation>
   </annotations>
 </section>

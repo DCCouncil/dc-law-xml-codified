@@ -1,129 +1,42 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <prefix>§</prefix>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>16-1003</num>
-  <heading>Petition for civil protection order; representation.</heading>
+  <heading>Petition for civil protection.</heading>
   <para>
     <num>(a)</num>
-    <text>A person 16 years of age or older may petition the Domestic Violence Division for a civil protection order against a respondent who has allegedly committed or threatened to commit:</text>
+    <text>A petitioner, or a person authorized by this section to act on petitioner’s behalf, may file a petition for civil protection in the Domestic Violence Unit against a respondent who has allegedly committed or threatened to commit one or more criminal offenses against the petitioner; provided, that:</text>
     <para>
       <num>(1)</num>
-      <text>An intrafamily offense, where the petitioner is the victim, or, if the offense is punishable under § 22-1001 or § 22-1002, where the victim is an animal that the petitioner owns, possesses, or controls;</text>
+      <text>If the petitioner is a minor, the petitioner’s parent, guardian, custodian, or other appropriate adult may file a petition for civil protection on the petitioner’s behalf;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>Sexual assault, where the petitioner is the victim;</text>
+      <text>A minor who is 16 years of age or older may file a petition for civil protection on his or her own behalf;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>Trafficking in labor or commercial sex acts, as described in § 22-1833, where the petitioner is the victim; or</text>
+      <text>A minor who is at least 12 but less than 16 years of age and a victim of intimate partner violence may file a petition for civil protection and participate in a hearing to seek a temporary protection order without a parent, guardian, custodian, or other appropriate adult acting on his or her behalf, but, under these circumstances, the court may appoint an attorney for the minor in accordance with section 16-1005(a-1)(3), if necessary, and if doing so will not unduly delay the issuance or denial of a temporary protection order;</text>
     </para>
     <para>
       <num>(4)</num>
-      <text>Sex trafficking of children, as described in § 22-1834, where the petitioner is the victim.</text>
+      <text>A minor who is at least 12 but less than 16 years of age and a victim of interpersonal or intrafamily violence may petition for civil protection only if his or her parent, guardian, or custodian files the petition on his or her behalf;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A minor who is less than 12 years of age may petition for civil protection only if his or her parent, guardian, or custodian files the petition on his or her behalf; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>A custodial parent, guardian, or custodian of a minor may not file a petition for civil protection against the minor.</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>A minor who is at least 13 years of age but less than 16 years of age may petition the Domestic Violence Division for a civil protection order against a respondent who has allegedly committed or threatened to commit:</text>
-    <para>
-      <num>(1)</num>
-      <text>An intrafamily offense, where the petitioner is the victim, or, if the offense is punishable under § 22-1001 or § 22-1002, where the victim is an animal that the petitioner owns, possesses, or controls; provided, that the petitioner is an intimate partner;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Sexual assault, where the petitioner is the victim; provided, that the respondent does not have a significant relationship, as that term is defined in § 22-3001(10), with the petitioner; or</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Sex trafficking of children, as described in § 22-1834, where the petitioner is the victim.</text>
-    </para>
+    <text>The Attorney General may provide individual legal representation to a petitioner, or person authorized by this section to act on petitioner’s behalf, who files a petition in accordance with subsection (a) of this section. Whenever the Attorney General represents a petitioner under subsection (a) of this section, the representation shall continue until the civil protection order terminates or the Attorney General withdraws his or her appearance, whichever is earlier.</text>
   </para>
   <para>
     <num>(c)</num>
-    <text>A minor who is less than 13 years of age may not petition for a civil protection order on their own behalf.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <para>
-      <num>(1)</num>
-      <text>The parent, legal guardian, or legal custodian of a minor may file a petition for a civil protection order on a minor's behalf.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The following individuals may, at the request of a minor 13 years of age or older, file a petition for a civil protection order on the minor's behalf:</text>
-      <para>
-        <num>(A)</num>
-        <text>A person 18 years of age or older to whom the minor is related by blood, adoption, legal custody, marriage, or domestic partnership; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>A sexual assault youth victim advocate, as that term is defined in § 23-1907(14).</text>
-      </para>
-    </para>
-  </para>
-  <para>
-    <num>(e)</num>
-    <text>A minor's custodial parent, guardian, or custodian may not file a petition for a civil protection order against the minor.</text>
-  </para>
-  <para>
-    <num>(f)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Office of Attorney General may:</text>
-      <para>
-        <num>(A)</num>
-        <text>If the petitioner is unable to petition on the petitioner's own behalf, intervene in a case and represent the interests of the District of Columbia at the request of the petitioner, a person petitioning on the petitioner's behalf, or a government agency; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>At the request of the petitioner or a person petitioning on the petitioner's behalf, provide individual legal representation to the petitioner in proceedings under this subchapter.</text>
-      </para>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>If the Office of the Attorney General intervenes in a case under paragraph (1)(A) of this subsection, the intervention shall continue until:</text>
-      <para>
-        <num>(A)</num>
-        <text>The court denies the petition for a civil protection order; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The Office of the Attorney General withdraws from the intervention.</text>
-      </para>
-    </para>
-  </para>
-  <para>
-    <num>(g)</num>
-    <text>The Domestic Violence Division may appoint attorneys to represent a party if the party:</text>
-    <para>
-      <num>(1)</num>
-      <text>Is a minor;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Is not represented by an attorney; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The appointment would not unreasonably delay a determination on the issuance or denial of a temporary protection order or civil protection order.</text>
-    </para>
-  </para>
-  <para>
-    <num>(h)</num>
-    <text>When computing a time period specified in this subchapter or in an order issued under this subchapter that is stated in days or a longer unit of time:</text>
-    <para>
-      <num>(1)</num>
-      <text>Exclude the day of the event that triggers the time period;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Count every day, including intermediate Saturdays, Sundays, and legal holidays; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Include the last day of the time period, but if the last day of the time period specified falls on a Saturday, Sunday, a legal holiday, or a day on which weather or other conditions cause the court to be closed, the time period specified shall continue to run until the end of the next day that is not a Saturday, Sunday, legal holiday, or a day on which weather or other conditions cause the court to be closed.</text>
-    </para>
+    <text>If a petitioner is unable to file a petition on his or her own behalf or with the assistance of a parent, guardian, custodian, or other appropriate adult in accordance with subsection (a) of this section, the Attorney General may file a petition for civil protection on the petitioner’s behalf at the request of the petitioner, the petitioner’s representative, or a government agency. When proceeding on a petition filed under this subsection, the Attorney General represents the interests of the District of Columbia.</text>
   </para>
   <annotations>
     <annotation doc="Pub. L. 91-358" type="History">July 29, 1970, 84 Stat. 546, Pub. L. 91-358, title I, § 131(a)</annotation>
@@ -134,6 +47,5 @@
     <annotation type="Prior Codifications">1973 Ed., § 16-1003.</annotation>
     <annotation type="Prior Codifications">1981 Ed., § 16-1003.</annotation>
     <annotation type="Section References">This section is referenced in <cite path="§16-1005">§ 16-1005</cite> and <cite path="§16-2301">§ 16-2301</cite>.</annotation>
-    <annotation app="2021-04-27" doc="D.C. Law 23-275" eff="2021-04-27" path="§3|(e)" type="History"/>
   </annotations>
 </section>

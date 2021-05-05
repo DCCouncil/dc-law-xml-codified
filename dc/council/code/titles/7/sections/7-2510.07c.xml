@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-2510.07c</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on May 27, 2021.*
+      </text>
   <heading>Execution of search warrants.</heading>
   <para>
     <num>(a)</num>
@@ -8,7 +11,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>An officer executing a search warrant issued under <cite path="§7-2510.07a">§ 7-2510.07a</cite> directing a search of a person shall give, or make reasonable effort to give, notice of his identity and purpose to the person, and, if such person thereafter resists or refuses to permit the search, such person shall be subject to arrest by such officer pursuant to <cite path="§22-405.01">§ 22-405.01</cite>, or other applicable provision of law.</text>
+    <text>An officer executing a search warrant issued under <cite path="§7-2510.07a">§ 7-2510.07a</cite> directing a search of a person shall give, or make reasonable effort to give, notice of his identity and purpose to the person, and, if such person thereafter resists or refuses to permit the search, such person shall be subject to arrest by such officer pursuant to <cite path="§23-581|(a)">§ 23-581(a)</cite> for violation of <cite path="§22-405.01">§ 22-405.01</cite> or other applicable provision of law.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -43,8 +46,8 @@
   </para>
   <annotations>
     <annotation app="2019-05-10" doc="D.C. Law 22-314" eff="2019-05-10" path="" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-25" path="§4|(n)" codified:display="Note" app="2021-04-27" eff="2021-02-26">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-25" path="§4|(n)">§ 4(n) of Omnibus Public Safety and Justice Emergency Amendment Act of 2021 (D.C. Act 24-25, Feb. 26, 2021, 68 DCR 002604)</cite>.</annotation>
-    <annotation app="2021-04-27" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(n)" type="History" display="false"/>
-    <annotation app="2021-04-27" doc="D.C. Law 23-274" eff="2021-04-27" path="§102|(k)" type="History"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(n)" type="History" display="false"/>
+    <annotation app="2021-02-26" doc="D.C. Act 24-25" eff="2021-02-26" path="§4|(n)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-25" path="§4|(n)" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-25" path="§4|(n)">§ 4(n) of Omnibus Public Safety and Justice Emergency Amendment Act of 2021 (D.C. Act 24-25, Feb. 26, 2021, 68 DCR 002604)</cite>.</annotation>
   </annotations>
 </section>

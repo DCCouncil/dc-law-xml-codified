@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-620.32</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on April 4, 2021. To view the text of this section after the expiration of the temporary legislation, click this link: <cite path="§1-620.32(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Employee testing.</heading>
   <para>
     <num>(a)</num>
     <text>The following individuals shall be tested by the District government for drug and alcohol use:</text>
     <para>
       <num>(1)</num>
-      <text>Applicants for employment in positions designated as safety-sensitive;</text>
+      <text>Applicants for employment in safety-sensitive positions;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -20,7 +23,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>The District shall subject District employees in positions designated as safety-sensitive to random testing, unless a District agency has additional requirements for drug and alcohol testing of its employees, in which case the stricter requirements shall apply.</text>
+    <text>The District shall subject District employees in safety-sensitive positions to random testing, unless a District agency has additional requirements for drug and alcohol testing of its employees, in which case the stricter requirements shall apply.</text>
   </para>
   <para>
     <num>(c)</num>
@@ -63,14 +66,13 @@
     <annotation app="2020-06-08" doc="D.C. Act 23-327" eff="2020-06-08" path="§2|(c)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-339" path="§2|(c)" codified:display="Note" app="2020-07-27" eff="2020-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-339" path="§2|(c)">§ 2(c) of Medical Marijuana Program Patient Employment Protection Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-339, July 27, 2020, 67 DCR 9352)</cite>.</annotation>
     <annotation app="2020-07-27" doc="D.C. Act 23-339" eff="2020-07-27" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2020-08-27" doc="D.C. Law 23-128" eff="2020-08-27" path="§5|(b)" type="History" display="false"/>
+    <annotation app="2020-08-27" doc="D.C. Law 23-128" eff="2020-08-27" path="§2|(c)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-128" path="§2|(c)" codified:display="Note" app="2020-08-27" eff="2020-08-27">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-128" path="§2|(c)">§ 2(c) of Medical Marijuana Program Patient Employment Protection Temporary Amendment Act of 2020 (D.C. Law 23-128, Aug. 27, 2020, 67 DCR 8619)</cite>.</annotation>
     <annotation app="2020-08-27" doc="D.C. Law 23-128" eff="2020-08-27" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2021-04-27" doc="D.C. Law 23-276" eff="2021-04-27" path="§2|(j)|(1)" type="History"/>
-    <annotation app="2021-04-27" doc="D.C. Law 23-276" eff="2021-04-27" path="§2|(j)|(2)" type="History"/>
-    <annotation app="2021-04-27" doc="D.C. Law 23-276" eff="2021-04-27" path="§2|(j)|(3)" type="History"/>
   </annotations>
   <para>
     <num>(g)</num>
-    <text>Notwithstanding section 2035(a), this title shall comply with the requirements of title XX-E for employees who are qualifying patients.</text>
+    <text>The testing program established pursuant to <cite path="1|6|XX-B">subchapter XX-B of this chapter</cite> shall comply with the requirements of <cite path="1|6|XX-E">subchapter XX-E of this chapter</cite>.</text>
   </para>
 </section>

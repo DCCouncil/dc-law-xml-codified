@@ -246,7 +246,6 @@
       <xi:include href="./sections/16-1004.xml"/>
       <xi:include href="./sections/16-1005.xml"/>
       <xi:include href="./sections/16-1006.xml"/>
-      <xi:include href="./sections/16-1007.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -295,17 +294,6 @@
       <xi:include href="./sections/16-1058.xml"/>
       <xi:include href="./sections/16-1059.xml"/>
     </container>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>10A</num>
-    <heading>Anti-Stalking Orders.</heading>
-    <annotation app="2021-04-27" doc="D.C. Law 23-275" eff="2021-04-27" path="§3|(j)" type="History" display="false"/>
-    <xi:include href="./sections/16-1061.xml"/>
-    <xi:include href="./sections/16-1062.xml"/>
-    <xi:include href="./sections/16-1063.xml"/>
-    <xi:include href="./sections/16-1064.xml"/>
-    <xi:include href="./sections/16-1065.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
