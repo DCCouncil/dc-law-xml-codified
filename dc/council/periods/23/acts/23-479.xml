@@ -943,7 +943,27 @@
         </container>
       </include>
       <aftertext>.</aftertext>
-      <codify:emergency doc="D.C. Code" path="36|6|III" action="creation of this section" applicability="2021-03-17" codified:doc="D.C. Code" codified:path="§36-641.01" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.01" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.01" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.02" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.02" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.03" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.03" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.04" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.04" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.05" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.05" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.06" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.06" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.07" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.07" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.08" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.08" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.09" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.09" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.10" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.10" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.11" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.11" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.12" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.12" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.13" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.13" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.14" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.14" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.15" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.15" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.16" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.16" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.17" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.17" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.18" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.18" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.19" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.19" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.20" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.20" codified:display="Note"/>
+      <codify:emergency-new-sec doc="D.C. Code" path="§36-641.21" interim-path="§36-621.17" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§36-641.21" codified:display="Note"/>
     </para>
   </section>
   <section codify:doc="D.C. Code">
@@ -1034,7 +1054,6 @@
             </para>
           </include>
           <aftertext>.</aftertext>
-          <codify:applicability doc="D.C. Act 23-479" path="§3|(a)|(2)|(C)" date="2020-10-10" history="false" codified:doc="D.C. Code" codified:path="§25-113.01"/>
           <codify:emergency doc="D.C. Code" path="§[25-113.01]" codified:doc="D.C. Code" codified:path="§25-113.01" codified:display="Note"/>
         </para>
       </para>
@@ -1182,7 +1201,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:emergency-new-sec doc="D.C. Code" path="§25-786" interim-path="§25-785" perm-eff="2021-03-16" codified:doc="D.C. Code" codified:path="§25-786" codified:display="Note"/>
+        <codify:emergency-new-sec doc="D.C. Code" path="§25-786" interim-path="§25-785" perm-eff="2021-04-27" codified:doc="D.C. Code" codified:path="§25-786" codified:display="Note"/>
       </para>
     </para>
     <para>

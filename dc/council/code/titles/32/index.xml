@@ -7,9 +7,30 @@
     <prefix>Chapter</prefix>
     <num>1</num>
     <heading>Displaced Workers Protection.</heading>
-    <xi:include href="./sections/32-101.xml"/>
-    <xi:include href="./sections/32-102.xml"/>
-    <xi:include href="./sections/32-103.xml"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>I</num>
+      <heading>[General].</heading>
+      <xi:include href="./sections/32-101.xml"/>
+      <xi:include href="./sections/32-102.xml"/>
+      <xi:include href="./sections/32-103.xml"/>
+    </container>
+    <annotation app="2021-04-27" doc="D.C. Law 23-281" eff="2021-04-27" path="§2|(a)" type="History" display="false"/>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>II</num>
+      <heading>Protections for Workers Displaced by COVID-19.</heading>
+      <annotation app="2021-04-27" doc="D.C. Law 23-281" eff="2021-04-27" path="§2|(b)" type="History" display="false"/>
+      <xi:include href="./sections/32-111.01.xml"/>
+      <xi:include href="./sections/32-111.02.xml"/>
+      <xi:include href="./sections/32-111.03.xml"/>
+      <xi:include href="./sections/32-111.04.xml"/>
+      <xi:include href="./sections/32-111.05.xml"/>
+      <xi:include href="./sections/32-111.06.xml"/>
+      <xi:include href="./sections/32-111.07.xml"/>
+      <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-605" path="§2|(c)" codified:display="Note" app="2021-04-27" eff="2021-01-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-605" path="§2|(c)">§ 2(c) of Displaced Workers Right to Reinstatement and Retention Emergency Amendment Act of 2020 (D.C. Act 23-605, Jan. 13, 2021, 68 DCR 001213)</cite>.</annotation>
+      <annotation app="2021-04-27" doc="D.C. Act 23-605" eff="2021-01-13" path="§2|(c)" type="History" display="false"/>
+    </container>
   </container>
   <container>
     <prefix>Chapter</prefix>

@@ -532,7 +532,7 @@
         <text>Strike the period and insert the phrase "; provided, that a private provider or entity is not required to comply with title XX-E." in its place.</text>
         <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§1-620.36">
           <find>.</find>
-          <replace>; provided, that a private provider or entity is not required to comply with title XX-E.</replace>
+          <replace>; provided, that a private provider or entity is not required to comply with subchapter XX-E of this chapter.</replace>
         </codify:find-replace>
       </para>
     </para>
@@ -560,6 +560,7 @@
     <para>
       <num>(a)</num>
       <text>Section 2(f) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
+      <codify:applicability doc="D.C. Law 23-276" path="§2|(f)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-606.03a"/>
     </para>
     <para>
       <num>(b)</num>

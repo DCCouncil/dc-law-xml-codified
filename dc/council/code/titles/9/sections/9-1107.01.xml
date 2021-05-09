@@ -1,12 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>9-1107.01</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on July 16, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§9-1107.01(Perm)">Permanent Version</cite>.*
-      </text>
-  <text>
-      *NOTE: Section 301(b) of D.C. Law 23-151 provided that the changes included in this section by section 123 of D.C. Law 23-151 shall apply after the enactment of concurring legislation by the State of Maryland and the Commonwealth of Virginia, the signing and execution of the legislation by the Mayor of the District of Columbia and the Governors of Maryland and Virginia, and approval by the United States Congress. To view the text of this section without the changes made by D.C. Law 23-151, click this link: <cite path="§9-1107.01(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Congressional consent given to Compact amendment.</heading>
   <text>The Congress hereby consents to, adopts and enacts for the District of Columbia an amendment to the Washington Metropolitan Area Transit Regulation Compact, for which Congress heretofore has granted its consent (§§ <cite path="§9-1103.01">9-1103.01</cite> and <cite path="§9-1103.02">9-1103.02</cite>) by adding thereto Title III, known as the Washington Metropolitan Area Transit Authority Compact (referred to in this subchapter as Title III), substantially as set out below.</text>
   <para>
@@ -1247,10 +1241,6 @@
             <num>(1)</num>
             <text>establish classifications based on the nature and scope of duties and fix and provide for their qualifications, appointment, removal, tenure, term, compensation pension, and retirement benefits;</text>
           </para>
-          <para codify:path="(f)">
-            <num>(1A)</num>
-            <text>prohibit the use of enforcement quotas to evaluate, incentivize, or discipline members, including with regard to the number of arrests made or citations or warnings issued;</text>
-          </para>
           <para>
             <num>(2)</num>
             <text>provide for their training and for this purpose, the Authority may enter into contracts or agreements with any public or private organization engaged in police training, and this training and the qualifications of the uniformed and plainclothes personnel shall at least equal the requirements of each signatory and of the political subdivisions therein in the Transit Zone for their personnel performing comparable duties; and</text>
@@ -1567,8 +1557,12 @@
     <annotation app="2020-07-22" doc="D.C. Act 23-336" eff="2020-07-22" path="§123" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-437" path="§123" codified:display="Note" app="2020-10-28" eff="2020-10-28">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-437" path="§123">§ 123 of Comprehensive Policing and Justice Reform Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-437, Oct. 28, 2020, 67 DCR 12993)</cite>.</annotation>
     <annotation app="2020-10-28" doc="D.C. Act 23-437" eff="2020-10-28" path="§123" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§123" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§123|(a)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-151" path="§123" codified:display="Note" app="2020-12-03" eff="2020-12-03">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-151" path="§123">§ 123 of Comprehensive Policing and Justice Reform Second Temporary Amendment Act of 2020 (D.C. Law 23-151, Dec. 3, 2020, 67 DCR 9920)</cite>.</annotation>
+    <annotation app="2020-12-03" doc="D.C. Law 23-151" eff="2020-12-03" path="§123" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-249" eff="2021-03-16" path="§2|(a)" type="History"/>
+    <annotation doc="D.C. Law 23-249" path="§2" type="Applicability" history="false" app="2021-03-16" eff="2021-03-16">
+      For an amendment to this section that requires concurring legislation by the State of Maryland and the Commonwealth of Virginia, and approval by the United States Congress, see section 2 of the <cite doc="D.C. Law 23-249" path="§2">Washington Metropolitan Area Transit Authority Police Accountability Amendment Act of 2020, effective March 16, 2021 (D.C. Law 23-249; 68 DCR 1145)</cite>.
+    </annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-249" eff="2021-03-16" path="§2" type="History" display="false"/>
   </annotations>
 </section>

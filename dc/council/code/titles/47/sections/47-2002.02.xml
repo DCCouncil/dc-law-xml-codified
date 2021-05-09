@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-2002.02</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on May 14, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-2002.02(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Tax on gross receipts for transient lodgings or accommodations; food or drink for immediate consumption; spirits sold for consumption on premises; rental vehicles.</heading>
   <text>A tax, separate from, and in addition to, the tax imposed pursuant to <cite path="§47-2002">§ 47-2002</cite>, is imposed on vendors engaging in the business activities listed in paragraphs (1) and (2) of this section for the privilege of selling at retail certain tangible personal property and for the privilege of selling certain selected services (defined as “retail sales” and “sale at retail” pursuant to <cite path="§47-2001|(n)|(1)">§ 47-2001(n)(1)</cite>). The rate of the tax shall be:</text>
   <para>
@@ -34,7 +31,7 @@
     </para>
     <para>
       <num>(D)</num>
-      <text>Spirituous or malt liquors, beers, and wine sold by an alcoholic beverage licensee acting under authority of §§ <cite path="§25-112|(h)|(1)">25-112(h)(1)</cite>, <cite path="§25-113|(a)|(3)|(C)">25-113(a)(3)(C)</cite>, or <cite path="§25-113.01|(f)">25-113.01(f)</cite> or <cite path="§25-113.01|(g)">(g)</cite>.</text>
+      <text>Spirituous or malt liquors, beers, and wine sold by an alcoholic beverage licensee acting under authority of §§ <cite path="§25-115|(h)|(1)">25-112(h)(1)</cite>, <cite path="§25-113|(a)|(C)">25-113(a)(3)(C)</cite>, or <cite path="§25-113.01|(f)">25-113.01(f)</cite> or <cite path="§25-113.01|(g)">(g)</cite>.</text>
     </para>
   </para>
   <annotations>
@@ -67,10 +64,10 @@
     <annotation app="2020-12-05" doc="D.C. Act 23-416" eff="2020-10-01" path="§5|(a)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-554" path="§4|(a)" codified:display="Note" app="2020-12-22" eff="2020-12-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-554" path="§4|(a)">§ 4(a) of Fiscal Year 2021 Budget Support Clarification Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-554, Dec. 22, 2020, 68 DCR 00130)</cite>.</annotation>
     <annotation app="2020-12-22" doc="D.C. Act 23-554" eff="2020-12-22" path="§4|(a)" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-176" eff="2020-12-23" path="§5|(a)" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-176" eff="2020-12-23" path="§5|(a)|(1)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-176" eff="2020-12-23" path="§5|(a)|(2)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-176" eff="2020-12-23" path="§5|(a)|(3)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-176" path="§5|(a)" codified:display="Note" app="2020-12-23" eff="2020-12-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-176" path="§5|(a)">§ 5(a) of Fiscal Year 2021 Budget Support Clarification Temporary Amendment Act of 2020 (D.C. Law 23-176, Dec. 23, 2020, 67 DCR 13036)</cite>.</annotation>
+    <annotation app="2020-12-23" doc="D.C. Law 23-176" eff="2020-12-23" path="§5|(a)" type="History" display="false"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-280" eff="2021-04-27" path="§5|(b)|(1)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-280" eff="2021-04-27" path="§5|(b)|(2)" type="History"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-280" eff="2021-04-27" path="§5|(b)|(3)" type="History"/>
   </annotations>
 </section>

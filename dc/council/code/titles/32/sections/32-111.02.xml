@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-111.02</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on April 13, 2021.*
-      </text>
   <heading>Right to reinstatement.</heading>
   <para>
     <num>(a)</num>
@@ -39,23 +36,12 @@
       <text>A contractor or employer shall not hire a new employee for a position until all eligible employees have either not responded to an offer of reinstatement by the deadline indicated in the offer or have declined the offer of reinstatement.</text>
     </para>
   </para>
-  <codify:annotation doc="D.C. Code" path="§32-111.02" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§32-111.02">
-                For temporary (90 days) creation of this section, see § 202 of Displaced Workers Right to Reinstatement and Retention Emergency Amendment Act of 2020 (D.C. Act 23-605, January 13, 2021, 0 DCR 0).
-              </codify:annotation>
-  <codify:insert doc="D.C. Code" path="§32-111.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-111.02">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on April 13, 2021.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation doc="D.C. Law 10-105" type="History" path="§2" display="false">Apr. 26, 1994, D.C. Law 10-105, § 202</annotation>
     <annotation doc="D.C. Law 10-105" type="History" path="§2">Apr. 26, 1994, D.C. Law 10-105, § 202</annotation>
-    <annotation app="2021-01-13" doc="D.C. Act 23-605" eff="2021-01-13" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2021-01-13" doc="D.C. Act 23-605" eff="2021-01-13" path="§2|(b)" type="History" display="false"/>
-    <annotation app="2021-01-13" doc="D.C. Act 23-605" eff="2021-01-13" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2021-01-13" doc="D.C. Act 23-605" eff="2021-01-13" path="§2|(c)" prefix="as added" type="History"/>
-    <annotation doc="D.C. Act 23-605" path="§2|(c)" type="Emergency Legislation" history="false" app="2021-01-13" eff="2021-01-13">
-                For temporary (90 days) creation of this section, see § 202 of Displaced Workers Right to Reinstatement and Retention Emergency Amendment Act of 2020 (D.C. Act 23-605, January 13, 2021, 0 DCR 0).
-              </annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-605" path="§2|(c)" codified:display="Note" app="2021-04-27" eff="2021-01-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-605" path="§2|(c)">§ 2(c) of Displaced Workers Right to Reinstatement and Retention Emergency Amendment Act of 2020 (D.C. Act 23-605, Jan. 13, 2021, 68 DCR 001213)</cite>.</annotation>
+    <annotation app="2021-04-27" doc="D.C. Act 23-605" eff="2021-01-13" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-281" eff="2021-04-27" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-281" eff="2021-04-27" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-281" eff="2021-04-27" path="§2|(c)" prefix="as added" type="History"/>
   </annotations>
 </section>
