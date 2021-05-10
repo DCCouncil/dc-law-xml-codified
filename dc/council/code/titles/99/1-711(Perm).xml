@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>1-711</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on August 1, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§1-711(Perm)">Permanent Version</cite>.*
-      </text>
+  <num>1-711(Perm)</num>
   <heading>District of Columbia Retirement Board.</heading>
   <para>
     <num>(a)</num>
@@ -225,10 +222,6 @@
         <num>(C)</num>
         <text>The Executive Director, who shall be appointed to manage the day-to-day operations of the Board, shall be a District resident throughout his or her term and failure to maintain District residency shall result in a forfeiture of the position.</text>
       </para>
-      <para>
-        <num>(D)</num>
-        <text>Notwithstanding any other provision of law, the annual salary of the Executive Director shall be fixed by the Board as it considers necessary at a rate not to exceed 135% of the highest step of Grade E5 of the Executive Service.</text>
-      </para>
     </para>
   </para>
   <para>
@@ -287,6 +280,7 @@
     <annotation doc="D.C. Law 16-91" type="History">Apr. 7, 2006, D.C. Law 16-91, § 125(a), 52 DCR 10637</annotation>
     <annotation doc="D.C. Law 16-191" type="History">Mar. 2, 2007, D.C. Law 16-191,§ 96, 53 DCR 6794</annotation>
     <annotation doc="D.C. Law 17-108" type="History">Feb. 6, 2008, D.C. Law 17-108, § 204, 54 DCR 10993</annotation>
+    <annotation doc="D.C. Law 22-315" pat="§4" type="History">May 23, 2019, D.C. Law 22-315, § 4, 66 DCR 1983</annotation>
     <annotation type="Resolutions">Resolution 16-335, the “District of Columbia Retirement Board Procurement Rules Amendment Approval Resolution of 2005”, was approved effective October 14, 2005.</annotation>
     <annotation type="Effective Dates">Section 2(d)(3) of Pub. L. 105-274 and § 804(d)(3) of Pub. L. 105-277 provided that § 11252(c) of Pub. L. 105-33, as renumbered by § 2(d)(1) of Pub. L. 105-274 and § 804(d)(1) of Pub. L. 105-277, shall take effect on the Dates on which the assets of the District of Columbia Judges Retirement Fund are transferred to the District of Columbia Judicial Retirement and Survivors Annuity Fund.</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) amendment of section, see § 2 of the Retirement Reform Congressional Review Emergency Amendment Act of  2000 (D.C. Act 13-526, January 11, 2001,  48 DCR 636).</annotation>
@@ -315,9 +309,5 @@
     <annotation type="Cross References">Police Officers, Fire Fighters, and Teachers Retirement Benefit Replacement Plan, “retirement board” defined, see <cite path="§1-901.02">§ 1-901.02</cite>.</annotation>
     <annotation type="Cross References">Police and Firemen’s Retirement and Relief Board, compensation of members, see <cite path="§1-611.08">§ 1-611.08</cite>.</annotation>
     <annotation type="Cross References">District of Columbia Retirement Board, administrative leave, see <cite path="§1-612.03">§ 1-612.03</cite>.</annotation>
-    <annotation app="2019-05-23" doc="D.C. Law 22-315" eff="2019-05-23" path="§4" type="History"/>
-    <annotation app="2021-05-05" doc="D.C. Act 24-64" eff="2021-05-05" path="§2" type="History" display="false"/>
-    <annotation app="2021-05-05" doc="D.C. Act 24-64" eff="2021-05-05" path="§2" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-64" path="§2" codified:display="Note" app="2021-05-05" eff="2021-05-05">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-64" path="§2">§ 2 of District of Columbia Retirement Board Leadership Emergency Amendment Act of 2021 (D.C. Act 24-64, May 5, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

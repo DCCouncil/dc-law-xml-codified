@@ -1,28 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-281.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on August 1, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§2-281.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Establishment of the Equity Impact Fund.</heading>
   <para>
     <num>(a)</num>
     <para>
       <num>(1)</num>
       <text>There is established a fund outside the General Fund of the District of Columbia, designated as the Equity Impact Fund ("Fund"), which shall be managed by a Fund Manager selected by the Mayor.</text>
+      <para>
+        <num>(1)</num>
+        <text>The Mayor shall select a Fund Manager to establish and manage a fund outside the District of Columbia government to be known as the Equity Impact Fund ("Fund").</text>
+      </para>
     </para>
     <para>
       <num>(2)</num>
-      <text>The Deputy Mayor for Planning and Economic Development shall provide, upon selection of the Fund Manager, $1.25 million in the aggregate in Fiscal Year 2021 for deposit into the Fund ("District's initial investment").</text>
+      <text>The Deputy Mayor for Planning and Economic Development shall provide, upon selection of the Fund Manager, a grant of $1.25 million in the aggregate in Fiscal Year 2021 to the Fund Manager for deposit by the Fund Manager into the Fund ("District's initial grant").</text>
     </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>The Fund shall be funded by money appropriated for the purposes of the Fund, other amounts, if any, received by the District or Fund Manager for deposit into the Fund, and any monies received as gifts, grants, donations, and awards.</text>
+    <text>The Fund shall be funded by money appropriated for the purposes of the Fund and granted by the Deputy Mayor for Planning and Economic Development to the Fund Manager, other amounts, if any, received by the District or Fund Manager for deposit into the Fund, and any monies received as gifts, grants, donations, and awards.</text>
   </para>
   <para>
     <num>(c)</num>
     <text>Money in the Fund shall be used for the following purposes:</text>
     <para>
       <num>(1)</num>
-      <text>To facilitate investment in businesses that lack access to capital;</text>
+      <text>To facilitate investment in eligible businesses that lack access to capital;</text>
     </para>
     <para>
       <num>(2)</num>
@@ -36,5 +43,12 @@
   <annotations>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2163" type="History"/>
+    <annotation app="2021-05-03" doc="D.C. Act 24-61" eff="2021-05-03" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2021-05-03" doc="D.C. Act 24-61" eff="2021-05-03" path="§2|(b)|(1)|(A)" type="History"/>
+    <annotation app="2021-05-03" doc="D.C. Act 24-61" eff="2021-05-03" path="§2|(b)|(1)|(B)|(i)" type="History"/>
+    <annotation app="2021-05-03" doc="D.C. Act 24-61" eff="2021-05-03" path="§2|(b)|(1)|(B)|(ii)" type="History"/>
+    <annotation app="2021-05-03" doc="D.C. Act 24-61" eff="2021-05-03" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2021-05-03" doc="D.C. Act 24-61" eff="2021-05-03" path="§2|(b)|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-61" path="§2|(b)" codified:display="Note" app="2021-05-03" eff="2021-05-03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-61" path="§2|(b)">§ 2(b) of Equitable Impact Assistance for Local Businesses Emergency Amendment Act of 2021 (D.C. Act 24-61, May 3, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
