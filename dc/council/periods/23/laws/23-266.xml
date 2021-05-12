@@ -29,11 +29,25 @@
     <para codify:path="(c)|(1)">
       <num>(a)</num>
       <text>Subsection (c)(1) is amended by striking the date "December 31, 2020" and inserting the date "April 30, 2021" in its place.</text>
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§5-1161|(c)|(1)">
+        <find>December 31, 2020</find>
+        <replace>April 30, 2021</replace>
+      </codify:find-replace>
     </para>
     <para codify:path="(d)">
       <num>(b)</num>
       <text>Subsection (d) is amended by striking the date "December 31, 2020" and inserting the date "April 30, 2021" in its place.</text>
+      <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§5-1161|(d)">
+        <find>December 31, 2020</find>
+        <replace>April 30, 2021</replace>
+      </codify:find-replace>
     </para>
+    <codify:temporary doc="D.C. Code" path="§5-1161" codified:doc="D.C. Code" codified:path="§5-1161" codified:display="Note"/>
+    <codify:insert doc="D.C. Code" path="§5-1161" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1161">
+      <text>
+      *NOTE: This section was amended by temporary legislation that will expire on October 27, 2021.*
+      </text>
+    </codify:insert>
   </section>
   <section>
     <num>3</num>
