@@ -543,44 +543,6 @@
       </text>
         </codify:insert>
       </section>
-      <section codify:path="§1-523.01|(e)">
-        <num>107</num>
-        <text>Section 2(e) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(e)), is amended as follows:</text>
-        <para codify:path="[(38)]">
-          <num>(a)</num>
-          <text>Paragraph (38) is amended by striking the phrase "; and" and inserting a semicolon in its place.</text>
-          <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-523.01|(e)|[(38)]">
-            <find>; and</find>
-            <replace>;</replace>
-          </codify:find-replace>
-        </para>
-        <para codify:path="[(39)]">
-          <num>(b)</num>
-          <text>Paragraph (39) is amended by striking the period and inserting the phrase "; and" in its place.</text>
-          <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§1-523.01|(e)|[(39)]">
-            <find>.</find>
-            <replace>; and</replace>
-          </codify:find-replace>
-        </para>
-        <para>
-          <num>(c)</num>
-          <text>A new paragraph (40) is added to read as follows:</text>
-          <include lvl="1">
-            <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§1-523.01|(e)|(40)"/>
-              <num>(40)</num>
-              <text>Use of Force Review Board, established by <code-cite doc="D.C. Code" path="§5-1151">section 106 of the Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021, passed on emergency basis on A[ril 6, 2021] (Enrolled version of Bill 24-196)</code-cite>.</text>
-            </para>
-          </include>
-          <aftertext>.</aftertext>
-        </para>
-        <codify:emergency doc="D.C. Code" path="§1-523.01" codified:doc="D.C. Code" codified:path="§1-523.01" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§1-523.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-523.01">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on August 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§1-523.01(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
-      </section>
     </container>
     <container>
       <prefix>SUBTITLE</prefix>
@@ -1638,7 +1600,7 @@
           <text>Section 5(a) (D.C. Official Code § 1-1001.05(a)) is amended by adding new paragraphs (9B) and (9C) to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(9)" codified:doc="D.C. Code" codified:path="§1-1001.05|(a)|(9B)"/>
+              <codify:insert before="(10)" codified:doc="D.C. Code" codified:path="§1-1001.05|(a)|(9B)"/>
               <num>(9B)</num>
               <text>In advance of any applicable voter registration or absentee ballot submission deadlines, provide, to every qualified elector in the Department of Corrections' care or custody, and, beginning January 1, 2021, endeavor to provide to every qualified elector in the Bureau of Prisons' care or custody:</text>
               <para>
@@ -1659,8 +1621,8 @@
               </para>
             </para>
             <para>
-              <codify:insert after="(9B)" codified:doc="D.C. Code" codified:path="§1-1001.05|(a)|(9Cx)"/>
-              <num>(9Cx)</num>
+              <codify:insert before="(10)" codified:doc="D.C. Code" codified:path="§1-1001.05|(a)|(9C)"/>
+              <num>(9C)</num>
               <text>Beginning January 1, 2021, upon receiving information pursuant to <code-cite doc="D.C. Code" path="§1-1001.07|(k)|(3)">section 7(k)(3)</code-cite>, <cite doc="D.C. Code" path="§1-1001.07|(k)|(4)">(4)</cite>, or <cite doc="D.C. Code" path="§1-1001.07|(k)|(4A)">(4A)</cite> from the Superior Court of the District of Columbia, the United States District Court for the District of Columbia, or the Bureau of Prisons, notify a qualified elector incarcerated for a felony of the qualified elector's right to vote;</text>
             </para>
           </include>
@@ -1668,8 +1630,8 @@
           <codify:emergency doc="D.C. Code" path="§1-1001.05" codified:doc="D.C. Code" codified:path="§1-1001.05" codified:display="Note"/>
           <codify:insert doc="D.C. Code" path="§1-1001.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-1001.05">
             <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on August 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§1-1001.05(Perm)">Permanent Version</cite>.*
-      </text>
+            *NOTE: This section includes amendments by emergency legislation that will expire on August 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§1-1001.05(Perm)">Permanent Version</cite>.*
+            </text>
           </codify:insert>
         </para>
         <para codify:path="§1-1001.07|(k)">
@@ -1702,24 +1664,6 @@
             </codify:insert>
           </para>
         </para>
-      </section>
-      <section>
-        <num>202</num>
-        <text>Section 8 of An Act To create a Department of Corrections in the District of Columbia, effective April 26, 2019 (D.C. Law 22-309; D.C. Official Code § 24-211.08), is amended by adding a new subsection (b-1) to read as follows:</text>
-        <include>
-          <para>
-            <codify:insert path="§24-211.08" after="(b)" codified:doc="D.C. Code" codified:path="§24-211.08|(b-1)"/>
-            <num>(b-1)</num>
-            <text>Within 10 business days after <span codify:value="December 3, 2020">the effective date of the Comprehensive Policing and Justice Reform Second Emergency Amendment Act of 2020, effective December 3, 2020 (D.C. Law 23-151; 67 DCR 9920)</span>, the Department shall notify eligible individuals in its care or custody of their voting rights pursuant to <cite doc="D.C. Act 23-336" path="§201">section 201</cite> <span codify:value="of D.C. Act 23-336">of the act</span>.</text>
-          </para>
-        </include>
-        <aftertext>.</aftertext>
-        <codify:emergency doc="D.C. Code" path="§24-211.08" codified:doc="D.C. Code" codified:path="§24-211.08" codified:display="Note"/>
-        <codify:insert doc="D.C. Code" path="§24-211.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§24-211.08">
-          <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on August 1, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§24-211.08(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
       </section>
     </container>
   </container>
