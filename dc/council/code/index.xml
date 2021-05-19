@@ -3,10 +3,10 @@
   <heading>Code of the District of Columbia</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2021-05-15">
-      <law doc="D.C. Law 23-282">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
+    <recency through="2021-05-05">
+      <law doc="D.C. Law 23-281">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
       <emergency doc="D.C. Act 24-64">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
-      <federal doc="Pub. L. 116-283">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
+      <federal doc="Pub. L. 116-159">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
     </recency>
   </meta>
   <subheading>Division I. Government of District.</subheading>
