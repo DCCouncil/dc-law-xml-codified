@@ -1,13 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>24-211.07</num>
-  <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 5, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§24-211.07(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Prohibition on cooperation with federal immigration agencies.</heading>
   <para>
     <num>(a)</num>
-    <text>Absent a judicial warrant or order, issued by a federal judge appointed pursuant to Article III of the United States Constitution or a federal magistrate judge appointed pursuant to 28 U.S.C. § 631, that authorizes a federal immigration agency to take into custody the person who is the subject of such warrant or order, the District of Columbia shall not:</text>
+    <text>Absent a judicial warrant or order issued by a federal judge appointed pursuant to Article III of the United States Constitution or a federal magistrate judge appointed pursuant to 28 U.S.C. § 631 that authorizes a federal immigration agency to take into custody the person who is the subject of such warrant or order, the District of Columbia shall not:</text>
     <para>
       <num>(1)</num>
       <text>Hold an individual in the District's custody after that individual would have been otherwise released, except as provided in section 2a(c)(6);</text>
@@ -18,21 +15,33 @@
     </para>
     <para>
       <num>(3)</num>
-      <text>Permit any federal immigration agency to interview an individual in the District's custody without giving the individual an opportunity to have counsel present; or</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Except as provided in Intergovernmental Agreement No. 16-00-0016, entered into between the Department of Corrections and the United States Marshals Service:</text>
+      <text>Permit any federal immigration agency to interview an individual in the District's custody unless:</text>
       <para>
         <num>(A)</num>
-        <text>Provide to a federal immigration agency an individual's date and time of release, location, address, or criminal case information;</text>
+        <text>The federal immigration agency presents a judicial order authorizing the interview, or the interview is requested by the detained individual; and</text>
       </para>
       <para>
         <num>(B)</num>
-        <text>Grant any federal immigration agency access to any District detention facility, including a facility under the control of the Department of Corrections, the Department of Youth Rehabilitation Services, the Department of Behavioral Health, or the Metropolitan Police Department, for the purpose of releasing an individual into federal custody; or</text>
+        <text>The detained individual has counsel present or knowingly, intelligently, and voluntarily declines to have counsel present for the interview; or</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Except with respect to individuals awaiting trial or sentencing for a federal criminal charge or serving a sentence for a federal criminal charge:</text>
+      <para>
+        <num>(A)</num>
+        <text>Provide to any federal immigration agency a space in a District detention facility to house, detain, or hold individuals for civil immigration enforcement purposes;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Provide to a federal immigration agency an individual's date and time of release, location, address, personal identifying information, medical information, photograph, or criminal case information;</text>
       </para>
       <para>
         <num>(C)</num>
+        <text>Grant any federal immigration agency access to any District detention facility or place, including a facility under the control of the Department of Corrections, the Department of Youth Rehabilitation Services, the Department of Behavioral Health, or the Metropolitan Police Department, for the purpose of releasing an individual into federal custody; or</text>
+      </para>
+      <para>
+        <num>(D)</num>
         <text>Release an individual for the purpose of transferring the individual into the custody of any federal immigration agency.</text>
       </para>
     </para>
@@ -43,10 +52,30 @@
   </para>
   <para>
     <num>(c)</num>
-    <text>Nothing in this section shall be construed to establish a right to counsel that does not otherwise exist in law.</text>
+    <text>The District shall conduct trainings of its employees on compliance with the provisions in this section.</text>
   </para>
   <para>
     <num>(d)</num>
+    <text>The Department of Corrections, the Department of Youth Rehabilitation Services, the Department of Behavioral Health, and the Metropolitan Police Department shall transmit a report on January 1 of each year to the Mayor and the Council providing the following:</text>
+    <para>
+      <num>(1)</num>
+      <text>The number of requests for information or detainer made by a federal immigration agency, a breakdown of whether the requests were made regarding individuals held on local charges or on federal charges, whether the request was accompanied by a judicial warrant, and any action taken by the District agency in response to such a request;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The number of individuals released into the custody of a federal immigration agency, the date of each release, and the justification for each release; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The types of information, anonymized and aggregated, that the agency shared with federal immigration agencies and whether it was at the request of a federal immigration agency.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Nothing in this section shall be construed to establish a right to counsel that does not otherwise exist in law.</text>
+  </para>
+  <para>
+    <num>(f)</num>
     <text>Nothing in this section shall be construed to create a private right of action.</text>
   </para>
   <annotations>
@@ -65,8 +94,8 @@
     <annotation app="2020-10-14" doc="D.C. Act 23-414" eff="2020-10-14" path="§2" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-553" path="§2" codified:display="Note" app="2020-12-22" eff="2020-12-22">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-553" path="§2">§ 2 of Sanctuary Values Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-553, Dec. 22, 2020, 68 DCR 00128)</cite>.</annotation>
     <annotation app="2020-12-22" doc="D.C. Act 23-553" eff="2020-12-22" path="§2" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-171" eff="2020-12-23" path="§2" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-171" eff="2020-12-23" path="§2" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-171" path="§2" codified:display="Note" app="2020-12-23" eff="2020-12-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-171" path="§2">§ 2 of Sanctuary Values Temporary Amendment Act of 2020 (D.C. Law 23-171, Dec. 23, 2020, 67 DCR 13034)</cite>.</annotation>
+    <annotation app="2020-12-23" doc="D.C. Law 23-171" eff="2020-12-23" path="§2" type="History" display="false"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-282" eff="2021-04-27" path="§3" type="History"/>
   </annotations>
 </section>

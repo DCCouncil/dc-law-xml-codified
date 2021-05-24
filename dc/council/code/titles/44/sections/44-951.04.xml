@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>44-951.04</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on August 17, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§44-951.04(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Board of Directors.</heading>
   <para>
     <num>(a)</num>
@@ -120,6 +123,11 @@
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§510" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§510" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§510">§ 510 of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§510" type="History" display="false"/>
+    <annotation app="2021-05-19" doc="D.C. Act 24-79" eff="2021-05-19" path="§3|(a)" type="History" display="false"/>
+    <annotation app="2021-05-19" doc="D.C. Act 24-79" eff="2021-05-19" path="§3|(a)|(1)" type="History"/>
+    <annotation app="2021-05-19" doc="D.C. Act 24-79" eff="2021-05-19" path="§3|(a)|(2)" type="History"/>
+    <annotation app="2021-05-19" doc="D.C. Act 24-79" eff="2021-05-19" path="§3|(a)|(3)" type="History"/>
+    <annotation app="2021-05-19" doc="D.C. Act 24-79" eff="2021-05-19" path="§3|(a)|(4)" type="History"/>
   </annotations>
   <para>
     <num>(l)</num>
@@ -151,7 +159,7 @@
       <num>(1)</num>
       <text>The Corporation shall be governed by a Fiscal Management Board, which shall serve as a control board, consisting of 9 members, 7 of whom shall be voting members and 2 of whom shall be non-voting members.</text>
     </para>
-    <para>
+    <para codify:path="(2)">
       <num>(2)</num>
       <text>Voting members of the Fiscal Management Board shall include:</text>
       <para>
@@ -164,19 +172,19 @@
       </para>
       <para>
         <num>(C)</num>
-        <text>The Director of the Child and Family Services Agency, or his or her designee;</text>
+        <text>One citizen member from either Ward 7 or Ward 8, appointed by the Mayor, who has experience in public health or health care delivery;</text>
       </para>
       <para>
         <num>(D)</num>
-        <text>A citizen member from Ward 8, appointed by the Mayor;</text>
+        <text>A citizen member, appointed by the Mayor, who has experience serving as the City Administrator of the District of Columbia;</text>
       </para>
       <para>
         <num>(E)</num>
-        <text>A citizen member, appointed by the Mayor, who has experience serving as the City Administrator of the District of Columbia; and</text>
+        <text>An individual with expertise in hospital management or finance, appointed by the Mayor; and</text>
       </para>
       <para>
         <num>(F)</num>
-        <text>One representative from each of the two unions maintaining the largest collective bargaining units at United Medical Center.</text>
+        <text>One representative from each of the two unions, selected by each representative union, maintaining the largest collective bargaining units at United Medical Center.</text>
       </para>
     </para>
     <para>
@@ -185,7 +193,27 @@
     </para>
     <para>
       <num>(4)</num>
-      <text>Members of the Fiscal Management Board shall serve until January 31, 2023.</text>
+      <text>Members of the Fiscal Management Board shall serve until December 31, 2024, the operations of the hospital have been dissolved, or such time as the Board is reinstated by an act of the Council.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The member listed in subparagraph (E) of subsection (m)(2) shall not be a member of the Board of the Corporation as constituted on May 1, 2021.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>In general, each voting member of the Fiscal Management Board shall:</text>
+      <para>
+        <num>(A)</num>
+        <text>Have experience, knowledge, and expertise in finance, management, and the organization or operation of a business or government;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Not be an individual who provides goods or services to the Corporation, or be employed by an entity that provides goods or services to the Corporation, and is not the spouse, parent, child, or sibling of an individual who provides goods and services to the Corporation; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Maintain a primary residence or a primary place of business in the National Capital Region.</text>
+      </para>
     </para>
   </para>
 </section>

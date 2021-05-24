@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>29-405.01</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§29-405.01(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Annual and regular meetings.</heading>
   <para>
     <num>(a)</num>
@@ -23,7 +20,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>Notwithstanding the articles of incorporation or bylaws, during a period for which a public health emergency has been declared pursuant to <cite path="§7-2304.01">[§ 7-2304.01]</cite>, an annual or regular meeting of members does not need to be held at a geographic location if the meeting is held by means of the Internet or other electronic communications technology in a fashion pursuant to which the members have the opportunity to read or hear the proceedings substantially concurrently with their occurrence, vote on matters submitted to the members, pose questions, and make comments.</text>
+    <text>The articles of incorporation or bylaws may provide that an annual or regular meeting of members does not need to be held at a geographic location if the meeting is held by means of the Internet or other electronic communications technology in a fashion pursuant to which the members have the opportunity to read or hear the proceedings substantially concurrently with their occurrence, vote on matters submitted to the members, pose questions, and make comments.</text>
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-378" type="History">July 2, 2011, D.C. Law 18-378, § 2, 58 DCR 1720</annotation>
@@ -32,8 +29,5 @@
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§407|(a)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§407|(a)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§407|(a)">§ 407(a) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§407|(a)" type="History" display="false"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§407|(a)" type="History" display="false"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§407|(a)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§407|(a)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§407|(a)">§ 407(a) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
   </annotations>
 </section>

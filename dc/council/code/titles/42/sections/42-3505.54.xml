@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3505.54</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-3505.54(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Notice of tenant's intent to vacate after the expiration of the signed lease term, renewal or extension term.</heading>
   <para>
     <num>(a)</num>
@@ -13,10 +10,6 @@
     <num>(b)</num>
     <text>A housing provider shall not place or cause to be placed in a residential lease or rental agreement a requirement that the tenant provide more than a 30-day notice to the housing provider of the tenant's intention to vacate the premises, unless the lease or agreement also requires the housing provider to provide the tenant with a written notice of any rent increase that is at least 15 days more than that time period.</text>
   </para>
-  <para>
-    <num>(c)</num>
-    <text>Any notice of intent to vacate that a tenant provided prior to the period for which a public health emergency has been declared pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, shall be tolled at the election of the tenant for the period of any such public health emergency such that the tenant shall have the same number of days to vacate remaining at the end of the public health emergency as the tenant had remaining upon the effective date of the public health emergency.</text>
-  </para>
   <annotations>
     <annotation doc="D.C. Law 6-10" type="History" path="§534">July 17, 1985, D.C. Law 6-10, § 534</annotation>
     <annotation app="2017-02-18" doc="D.C. Law 21-210" eff="2017-02-18" path="§2|(d)" type="History" display="false"/>
@@ -25,8 +18,5 @@
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§405|(b)|(6)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§405|(b)|(6)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§405|(b)|(6)">§ 405(b)(6) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§405|(b)|(6)" type="History" display="false"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§405|(a)|(6)" type="History" display="false"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§405|(a)|(6)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§405|(a)|(6)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§405|(a)|(6)">§ 405(a)(6) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
   </annotations>
 </section>

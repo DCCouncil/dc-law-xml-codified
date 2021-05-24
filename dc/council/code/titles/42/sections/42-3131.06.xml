@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-3131.06</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-3131.06(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Registration of vacant buildings.</heading>
   <para>
     <num>(a)</num>
@@ -122,15 +119,11 @@
     </para>
     <para>
       <num>(8)</num>
-      <text>For a period not to exceed 12 months, the subject of a pending application for a necessary approval for development before the Board of Zoning Adjustment, the Zoning Commission for the District of Columbia, the Commission on Fine Arts, the Historic Preservation Review Board, the Mayor’s Agent for Historic Preservation, the Department of Public Works, or the National Capital Planning Commission;</text>
+      <text>For a period not to exceed 12 months, the subject of a pending application for a necessary approval for development before the Board of Zoning Adjustment, the Zoning Commission for the District of Columbia, the Commission on Fine Arts, the Historic Preservation Review Board, the Mayor’s Agent for Historic Preservation, the Department of Public Works, or the National Capital Planning Commission; or</text>
     </para>
     <para>
       <num>(9)</num>
-      <text technical="true">Located on the Water Reed Redevelopment Site, for so long as the building and the land on which the building sits is subject to the ground lease to the Developer; or</text>
-    </para>
-    <para>
-      <num>(10)</num>
-      <text>A commercial property that houses a business that has closed during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, as a result of the circumstances giving rise to or resulting from the public health emergency, and for 60 days thereafter.</text>
+      <text technical="true">Located on the Water Reed Redevelopment Site, for so long as the building and the land on which the building sits is subject to the ground lease to the Developer.</text>
     </para>
   </para>
   <para>
@@ -228,10 +221,5 @@
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§311" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§311" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§311">§ 311 of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§311" type="History" display="false"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§311" type="History" display="false"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§311|(a)" type="History"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§311|(b)" type="History"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§311|(c)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§311" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§311">§ 311 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
   </annotations>
 </section>

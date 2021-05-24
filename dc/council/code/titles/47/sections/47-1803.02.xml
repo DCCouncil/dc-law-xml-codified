@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-1803.02</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§47-1803.02(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Gross income — Items included and excluded; “adjusted gross income” defined.</heading>
   <para>
     <num>(a)</num>
@@ -189,18 +186,6 @@
       <para>
         <num>(FF)</num>
         <text>The amount received by a taxpayer pursuant to <cite path="§7-2831|(b)">§ 7-2831(b)</cite>.</text>
-      </para>
-      <para>
-        <num>(GG)</num>
-        <text>Small business loans awarded and subsequently forgiven under section 1106 of the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 297; 15 U.S.C. § 9005).</text>
-      </para>
-      <para>
-        <num>(HH)</num>
-        <text>Public health emergency small business grants awarded pursuant to section 2316 of the Small and Certified Business Enterprise Development and Assistance Act of 2005, passed on emergency basis on March 2, 2021 (Enrolled version of Bill 24-139).</text>
-      </para>
-      <para>
-        <num>(II)</num>
-        <text>Public health emergency grants authorized pursuant to section 16(m)(1) of the Advisory Neighborhood Commissions Act of 1975, effective March 26, 1976 (D.C. Law 1-58; D.C. Official Code § 1-309.13(m)(1)).</text>
       </para>
       <para>
         <num>(JJ)</num>
@@ -396,8 +381,5 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§207|(b)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§207|(b)">§ 207(b) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§207|(b)" type="History" display="false"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7213" type="History"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§207|(a)" type="History" display="false"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§207|(a)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§207|(a)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§207|(a)">§ 207(a) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
   </annotations>
 </section>
