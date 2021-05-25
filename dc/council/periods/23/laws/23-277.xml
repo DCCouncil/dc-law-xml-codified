@@ -486,7 +486,7 @@
           <num>(E)</num>
           <text>Paragraph (5)(B) is amended by striking the phrase "Corporation Counsel" and inserting the phrase "Attorney General" in its place.</text>
           <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§1-1001.07|(i)|(5)|(B)">
-            <find>Corporation Counsel</find>
+            <find>Corporation Counsel [Attorney General]</find>
             <replace>Attorney General</replace>
           </codify:find-replace>
         </para>
@@ -597,7 +597,6 @@
         <include lvl="1">
           <para>
             <codify:insert num-value="[(11)]" codified:doc="D.C. Code" codified:path="§24-211.02|(b)|[(11)]"/>
-            <codify:insert codified:doc="D.C. Code" codified:path="§24-211.02|(b)|[(11)]|(10)"/>
             <num>(10)</num>
             <text>Employ personnel whose sole responsibility shall be the civic engagement and enfranchisement of eligible individuals incarcerated in the Department of Corrections' care or custody, including those responsibilities in <code-cite doc="D.C. Code" path="§24-211.08">section 8</code-cite> and designing and implementing a plan to facilitate voting for each election in the Central Detention Facility and Correctional Treatment Facility.</text>
           </para>

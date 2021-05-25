@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>48-651</num>
   <text>
-      *NOTE: This section was created by by emergency legislation that will expire on May 27, 2021.*
+      *NOTE: This section was created by by temporary legislation that will expire on May 27, 2021.*
       </text>
   <heading>Restrictions on third-party meals delivery companies.</heading>
   <para>
@@ -14,23 +14,26 @@
     <text>For purposes of this section:</text>
     <para>
       <num>(1)</num>
-      <text>"Restaurant" means any establishment that is held out to and known by the public as a food-service establishment. The term includes an establishment defined in <cite path="§25-101|(43)">§ 25-101(43)</cite> and <cite path="§25-101|(52)">(52)</cite>.</text>
+      <text>"Restaurant" means any establishment that is held out to and known by the public as a food-service establishment.  The term includes an establishment defined in <cite path="§25-101|(43)">§ 25-101(43)</cite> and <cite path="§25-101|(52)">(52)</cite>.</text>
     </para>
     <para>
       <num>(2)</num>
       <text>"Third-party delivery platform" means any website, mobile application, or other internet service that offers or arranges for the sale of food and beverages prepared by, and the same-day delivery or same-day pickup of food and beverages from, restaurants.</text>
     </para>
   </para>
-  <codify:emergency doc="D.C. Code" path="§48-651" codified:doc="D.C. Code" codified:path="§48-651" codified:display="Note"/>
+  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§48-632" expire="2021-05-13" codified:display="Note">For temporary (225 days) creation of § 48-651, see <cite doc="D.C. Law 24-4" path="§2">§ 2 of Fair Meals Delivery Temporary Act of 2021 (D.C. Law 24-4, May 13, 2021, 68 DCR 003442)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§48-651" applicability="2021-05-13" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§48-651">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-4" path="§2">§ 2 of Fair Meals Delivery Temporary Act of 2021 (D.C. Law 24-4, May 13, 2021, 68 DCR 003442)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§48-651" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-651">
     <text>
-      *NOTE: This section was created by by emergency legislation that will expire on May 27, 2021.*
+      *NOTE: This section was created by by temporary legislation that will expire on May 27, 2021.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation app="2021-02-26" doc="D.C. Act 24-20" eff="2021-02-26" path="" type="History" display="false"/>
-    <annotation app="2021-02-26" doc="D.C. Act 24-20" eff="2021-02-26" path="§2" type="History" display="false"/>
-    <annotation app="2021-02-26" doc="D.C. Act 24-20" eff="2021-02-26" path="§2" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-20" path="§2" codified:display="Note" app="2021-02-26" eff="2021-02-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-20" path="§2">§ 2 of Fair Meals Delivery Emergency Act of 2021 (D.C. Act 24-20, Feb. 26, 2021, 68 DCR 002594)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-20" path="§2" codified:display="Note" app="2021-05-13" eff="2021-02-26">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-20" path="§2">§ 2 of Fair Meals Delivery Emergency Act of 2021 (D.C. Act 24-20, Feb. 26, 2021, 68 DCR 002594)</cite>.</annotation>
+    <annotation app="2021-05-13" doc="D.C. Act 24-20" eff="2021-02-26" path="§2" type="History" display="false"/>
+    <annotation app="2021-05-13" doc="D.C. Law 24-4" eff="2021-05-13" path="" type="History" display="false"/>
+    <annotation app="2021-05-13" doc="D.C. Law 24-4" eff="2021-05-13" path="§2" type="History" display="false"/>
+    <annotation app="2021-05-13" doc="D.C. Law 24-4" eff="2021-05-13" path="§2" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-4" path="§2" codified:display="Note" app="2021-05-13" eff="2021-05-13">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-4" path="§2">§ 2 of Fair Meals Delivery Temporary Act of 2021 (D.C. Law 24-4, May 13, 2021, 68 DCR 003442)</cite>.</annotation>
   </annotations>
 </section>
