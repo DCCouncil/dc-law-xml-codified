@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-309.13</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-309.13(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Advisory Neighborhood Commissions — Funds; audit of accounts; employees; financial reports; publications.</heading>
   <para>
     <num>(a)</num>
@@ -183,6 +186,10 @@
         <num>(B)</num>
         <text>Sub-subparagraph (i) of subparagraph (A) of this paragraph shall not apply to the failure to file quarterly reports covering periods prior to the 2020 fiscal year.</text>
       </para>
+      <para>
+        <num>(C)</num>
+        <text>Subparagraph (A)(i) of this paragraph shall not apply to the failure to file quarterly reports due during a period of time for which a public health emergency has been declared by the Mayor pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>.</text>
+      </para>
     </para>
   </para>
   <para>
@@ -263,7 +270,7 @@
     <num>(m)</num>
     <para>
       <num>(1)</num>
-      <text>A grant may not be awarded unless the grant is awarded pursuant to a vote of the Commission at a public meeting following the public presentation of the grant request. A Commission may approve grants only to organizations that are public in nature and benefit persons who reside or work within the Commission area. The services provided by the grantee organization must not be duplicative of any that are already performed by the District government.</text>
+      <text>A grant may not be awarded unless the grant is awarded pursuant to a vote of the Commission at a public meeting following the public presentation of the grant request. A Commission may approve grants only to organizations that are public in nature and benefit persons who reside or work within the Commission area. The services provided by the grantee organization must not be duplicative of any that are already performed by the District government; except, that notwithstanding any provision of District law, during a period for which a public health emergency has been declared by the Mayor pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, a Commission may approve grants to organizations for the purpose of providing humanitarian relief, including food or supplies, during the public health emergency, or otherwise assisting in the response to the public health emergency anywhere in the District, even if those services are duplicative of services also performed by the District government.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -448,8 +455,10 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§905|(e)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§905|(e)">§ 905(e) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§905|(e)" type="History" display="false"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§1032|(a)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§905|(e)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§905|(e)">§ 905(e) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
     <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§905|(e)" type="History" display="false"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§905|(e)|(1)" type="History"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§905|(e)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§905|(e)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§905|(e)">§ 905(e) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
   </annotations>
   <para>
     <num>(t)</num>

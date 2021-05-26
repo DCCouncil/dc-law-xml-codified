@@ -170,6 +170,7 @@
         <xi:include href="./sections/2-218.13.xml"/>
         <xi:include href="./sections/2-218.14.xml"/>
         <xi:include href="./sections/2-218.15.xml"/>
+        <xi:include href="./sections/2-218.16.xml"/>
         <xi:include href="./sections/2-218.17.xml"/>
       </container>
       <container>
@@ -279,6 +280,7 @@
       <heading>Small and Local Business Enterprise Development Assistance During the COVID-19 emergency.</heading>
       <annotation doc="D.C. Law 16-33" type="History" path="§2318" display="false">Oct. 20, 2005, D.C. Law 16-33, § [2318]</annotation>
       <annotation app="2020-10-20" doc="D.C. Law 23-147" eff="2020-10-20" path="§2|(a)" type="History" display="false"/>
+      <xi:include href="./sections/2-218.91.xml"/>
       <xi:include href="./sections/2-218.92.xml"/>
     </container>
     <container>
@@ -896,6 +898,13 @@
         </annotation>
       <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7163" type="History" display="false"/>
     </container>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3C</num>
+    <heading>District Government Contractor Reporting of SARS-CoV-2.</heading>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="V" type="History" display="false"/>
+    <xi:include href="./sections/2-391.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -2272,6 +2281,7 @@
         <xi:include href="./sections/2-1403.14.xml"/>
         <xi:include href="./sections/2-1403.15.xml"/>
         <xi:include href="./sections/2-1403.16.xml"/>
+        <xi:include href="./sections/2-1403.16a.xml"/>
         <xi:include href="./sections/2-1403.17.xml"/>
       </container>
       <container>
@@ -2668,6 +2678,13 @@
     <xi:include href="./sections/2-1831.17.xml"/>
     <xi:include href="./sections/2-1831.18.xml"/>
     <xi:include href="./sections/2-1831.19.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>18B</num>
+    <heading>Administrative Hearings Deadline Tolling During a Public Health Emergency.</heading>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="VIII" type="History" display="false"/>
+    <xi:include href="./sections/2-1851.01.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

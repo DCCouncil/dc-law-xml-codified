@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>44-504</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§44-504(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Rules.</heading>
   <para>
     <num>(a)</num>
@@ -160,11 +163,15 @@
         <text>Except as provided in paragraph (2) of this subsection:</text>
         <para>
           <num>(i)</num>
-          <text>Beginning January 1, 2011, have either a physician, physician assistant, or an advanced practice registered nurse, excluding the medical director, available on-site for a minimum of 0.2 hours per week for each resident at the facility; and</text>
+          <text>Beginning January 1, 2011, have either a physician, physician assistant, or an advanced practice registered nurse, excluding the medical director, available on-site for a minimum of 0.2 hours per week for each resident at the facility;</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>Beginning January 1, 2012, provide a minimum daily average of 4.1 hours of direct nursing care per resident per day, of which at least 0.6 hours shall be provided by an advanced practice registered nurse or registered nurse, which shall be in addition to any coverage required by sub-subparagraph (i) of this subparagraph;</text>
+          <text>Beginning January 1, 2012, provide a minimum daily average of 4.1 hours of direct nursing care per resident per day, of which at least 0.6 hours shall be provided by an advanced practice registered nurse or registered nurse, which shall be in addition to any coverage required by sub-subparagraph (i) of this subparagraph; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Provide a written report of the staffing level to the Department of Health for each day that the facility is below the prescribed staffing level as a result of circumstances giving rise to a public health emergency during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>.</text>
         </para>
       </para>
       <para>
@@ -548,7 +555,10 @@
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§509" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§509" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§509">§ 509 of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§509" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§509" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§509">§ 509 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
     <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§509" type="History" display="false"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§509|(a)" type="History"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§509|(b)" type="History"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§509|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§509" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§509">§ 509 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
   </annotations>
 </section>

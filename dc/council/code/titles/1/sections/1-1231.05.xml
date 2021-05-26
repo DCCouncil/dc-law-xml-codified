@@ -1,8 +1,66 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1231.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-1231.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Personal appearance required.</heading>
-  <text>If a notarial act relates to a statement made in or a signature executed on a record, the individual making the statement or executing the signature shall appear personally before the notarial officer.</text>
+  <para>
+    <num>(a)</num>
+    <text>If a notarial act relates to a statement made in or a signature executed on a record, the individual making the statement or executing the signature shall appear personally before the notarial officer.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Notwithstanding any provision of District law, during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, the Mayor may authorize, without the personal appearance of the individual making the statement or executing the signature, notarial acts required or permitted under District law if:</text>
+    <para>
+      <num>(1)</num>
+      <text>The notary public and the individual communicate with each other simultaneously by sight and sound using audio-video communication; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The notary public:</text>
+      <para>
+        <num>(A)</num>
+        <text>Has notified the Mayor of the intention to perform notarial acts using audio-video communication and the identity of the audio-video communication the notary public intends to use;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Has satisfactory evidence of the identity of the individual by means of:</text>
+        <para>
+          <num>(i)</num>
+          <text>Personal knowledge or by the individual's presentation of a current government-issued identification that contains the signature or photograph of the individual to the notary public during the video conference; or</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>A verification on oath or affirmation of a credible witness personally appearing before the officer and known to the officer or whom the officer can identify based on a current passport, driver's license, or government-issued nondriver identification card;</text>
+        </para>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Confirms that the individual made a statement or executed a signature on a document;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Receives by electronic means a legible copy of the signed document directly from the individual immediately after it was signed;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Upon receiving the signed document, immediately completes the notarization;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Upon completing the notarization, immediately transmits by electronic means the notarized document to the individual;</text>
+      </para>
+      <para>
+        <num>(G)</num>
+        <text>Creates, or directs another person to create, and retains an audio-visual recording of the performance of the notarial act; and</text>
+      </para>
+      <para>
+        <num>(H)</num>
+        <text>Indicates on a certificate of the notarial act and in a journal that the individual was not in the physical presence of the notary public and that the notarial act was performed using audio-visual communication.</text>
+      </para>
+    </para>
+  </para>
   <annotations>
     <annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="" type="History" display="false"/>
     <annotation app="2018-12-04" doc="D.C. Law 22-189" eff="2018-12-04" path="§6" type="History"/>
@@ -10,7 +68,9 @@
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§807|(b)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§807|(b)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§807|(b)">§ 807(b) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§807|(b)" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§807|(b)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§807|(b)">§ 807(b) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
     <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§807|(b)" type="History" display="false"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§807|(b)|(1)" type="History"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§807|(b)|(2)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§807|(b)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§807|(b)">§ 807(b) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
   </annotations>
 </section>

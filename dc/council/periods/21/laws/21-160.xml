@@ -2119,7 +2119,7 @@
             <text>All payments of benefits shall be made by the Chief Financial Officer and shall be subject to a post, but not a prior, audit by the Office of the Inspector General.</text>
           </include>
           <aftertext>.</aftertext>
-          <codify:find-replace path="§8" count="1" codified:doc="D.C. Code" codified:path="§51-108">
+          <codify:find-replace path="§8" count="1" codified:doc="D.C. Code" codified:path="§51-108|(a)">
             <find>All payments of benefits shall be made by checks drawn by the Director, or the Director’s duly authorized agent, shall be made through the employment offices designated by the Director, and shall be subject to a post, but not a prior, audit by the Office of the Inspector General.</find>
             <replace>All payments of benefits shall be made by the Chief Financial Officer and shall be subject to a post, but not a prior, audit by the Office of the Inspector General.</replace>
           </codify:find-replace>

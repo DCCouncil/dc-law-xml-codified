@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1555.07</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-1555.07(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Commission on Out of School Time Grants and Youth Outcomes; duties and authority.</heading>
   <para>
     <num>(a)</num>
@@ -42,6 +45,10 @@
     <text>The Commission may use the personnel and resources of the Office, as needed, to accomplish its duties.</text>
   </para>
   <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1555.07" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1555.07">Applicability of <cite doc="D.C. Law 21-261" path="">D.C. Law 21-261</cite>: <cite doc="D.C. Law 21-261" path="§12">§ 12 of D.C. Law 21-261</cite> provided that the creation of this section by <cite doc="D.C. Law 21-261" path="§8">§ 8 of D.C. Law 21-261</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <para>
+    <num>(c)</num>
+    <text>During a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, the Office may waive the requirement to conduct an annual, community-wide needs assessment pursuant to subsection (a)(1) of this section.</text>
+  </para>
   <annotations>
     <annotation app="2017-04-07" doc="D.C. Law 21-261" eff="2017-04-07" path="" type="History" display="false"/>
     <annotation app="2017-04-07" doc="D.C. Law 21-261" eff="2017-04-07" path="§8" type="History"/>
@@ -57,7 +64,8 @@
     <annotation app="2020-08-19" doc="D.C. Act 23-405" eff="2020-08-19" path="§602" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§602" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§602">§ 602 of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§602" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§602" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§602">§ 602 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
     <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§602" type="History" display="false"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§602" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§602" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§602">§ 602 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
   </annotations>
 </section>

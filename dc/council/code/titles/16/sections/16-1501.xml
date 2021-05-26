@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>16-1501</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on June 10, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§16-1501(Perm)">Permanent Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on October 27, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§16-1501(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definition; summons.</heading>
   <annotations>
     <annotation doc="Pub. L. 88-241" type="History">Dec. 23, 1963, 77 Stat. 581, Pub. L. 88-241, § 1</annotation>
@@ -26,8 +32,9 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-255" path="§3" codified:display="Note" app="2021-03-16" eff="2021-03-16">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-255" path="§3">§ 3 of Fairness in Renting Temporary Amendment Act of 2021 (D.C. Law 23-255, Mar. 16, 2021, 67 DCR 13959)</cite>.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-255" eff="2021-03-16" path="" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-255" eff="2021-03-16" path="(A)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§404|(a)|(1)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§404|(a)|(1)">§ 404(a)(1) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
     <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§404|(a)|(1)" type="History" display="false"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§404|(a)|(1)|(B)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§404|(a)|(1)" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-30" path="§404|(a)|(1)">§ 404(a)(1) of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-67" path="§2|(a)|(1)" codified:display="Note" app="2021-05-03" eff="2021-05-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-67" path="§2|(a)|(1)">§ 2(a)(1) of Eviction Moratorium Public Safety Exception Emergency Amendment Act of 2021 (D.C. Act 24-67, May 3, 2021, 68 DCR 004907)</cite>.</annotation>
     <annotation app="2021-05-03" doc="D.C. Act 24-67" eff="2021-05-03" path="§2|(a)|(1)" type="History" display="false"/>
   </annotations>
@@ -41,5 +48,9 @@
       <num>[(b)]</num>
       <text>The person aggrieved shall not file a complaint seeking restitution of possession  pursuant to this section for nonpayment of rent in an amount less than $600; except, that the person aggrieved may file a complaint to recover the amount owed.</text>
     </para>
+  </para>
+  <para>
+    <num>[(c)]</num>
+    <text>During a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">[§ 7-2304.01]</cite>, and for 60 days thereafter, the person aggrieved shall not file a complaint seeking relief pursuant to this section.</text>
   </para>
 </section>

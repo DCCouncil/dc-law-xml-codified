@@ -43,6 +43,7 @@
       <xi:include href="./sections/7-137.xml"/>
       <xi:include href="./sections/7-138.xml"/>
       <xi:include href="./sections/7-139.xml"/>
+      <xi:include href="./sections/7-139.01.xml"/>
       <xi:include href="./sections/7-140.xml"/>
       <xi:include href="./sections/7-141.xml"/>
       <xi:include href="./sections/7-142.xml"/>
@@ -174,6 +175,13 @@
     <xi:include href="./sections/7-302.xml"/>
     <xi:include href="./sections/7-303.xml"/>
     <xi:include href="./sections/7-304.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>3A</num>
+    <heading>Limitation of Healthcare Provider Liability Related to COVID-19 Treatment.</heading>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="VII" type="History" display="false"/>
+    <xi:include href="./sections/7-311.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -426,6 +434,13 @@
           Applicability of <cite doc="D.C. Law 22-238">D.C. Law 22-238</cite>: <cite doc="D.C. Law 23-16" path="§7159">§ 7159 of D.C. Law 23-16</cite> repealed <cite doc="D.C. Law 22-238" path="§4">§ 4 of D.C. Law 22-238</cite>. Therefore the creation of this section by <cite doc="D.C. Law 22-238">D.C. Law 22-238</cite> has been implemented.
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7159" type="History" display="false"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>6E</num>
+    <heading>Long-Term Care Facility reporting during a public health emergency.</heading>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="V" type="History" display="false"/>
+    <xi:include href="./sections/7-691.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -1641,6 +1656,7 @@
     <xi:include href="./sections/7-2303.xml"/>
     <xi:include href="./sections/7-2304.xml"/>
     <xi:include href="./sections/7-2304.01.xml"/>
+    <xi:include href="./sections/7-2304.02.xml"/>
     <xi:include href="./sections/7-2305.xml"/>
     <xi:include href="./sections/7-2306.xml"/>
     <xi:include href="./sections/7-2307.xml"/>
@@ -1659,6 +1675,13 @@
     <heading>Authority of the Chief Procurement Officer During a Public Health Emergency.</heading>
     <annotation app="2021-05-13" doc="D.C. Law 24-6" eff="2021-05-13" path="II" type="History" display="false"/>
     <xi:include href="./sections/7-2336.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>23A-i</num>
+    <heading>Mayoral Authority Regarding Licenses and Registrations During a Public Health Emergency.</heading>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="III" type="History" display="false"/>
+    <xi:include href="./sections/7-2335.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
