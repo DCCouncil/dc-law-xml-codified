@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-541.01</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on August 24, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-541.01(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of <cite path="32|5|IV">this subchapter</cite>, the term:</text>
   <para>
@@ -91,10 +88,6 @@
     <text>"Health care provider" shall have the same meaning as provided in <cite path="§32-501|(5)">§ 32-501(5)</cite>.</text>
   </para>
   <para>
-    <num>(8A)</num>
-    <text>"Insurer" shall have the same meaning as provided in <cite path="§31-2231.01|(7)">§ 31-2231.01(7)</cite>.</text>
-  </para>
-  <para>
     <num>(9)</num>
     <text>"Intermittent leave" means paid leave taken in increments of no less than one day, rather than for one continuous period of time.</text>
   </para>
@@ -177,10 +170,6 @@
   <para>
     <num>(19)</num>
     <text>"Self-employment income" means gross income earned from carrying on a trade or business as a sole proprietor, an independent contractor, or a member of a partnership.</text>
-  </para>
-  <para>
-    <num>(19A)</num>
-    <text>"Self-insured employer" means an employer that uses its own resources, rather than providing benefits directly through an insurance contract with a third-party insurer, to pay its employees' family, medical, short-term disability, or related leave benefits ("leave benefits") and includes an employer that contracts with a third-party insurer to administer its leave benefits program.</text>
   </para>
   <para>
     <num>(20)</num>
@@ -289,9 +278,5 @@
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7034" type="History" display="false"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2143|(a)|(1)" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§2143|(a)|(2)" type="History"/>
-    <annotation app="2021-05-26" doc="D.C. Act 24-90" eff="2021-05-26" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2021-05-26" doc="D.C. Act 24-90" eff="2021-05-26" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2021-05-26" doc="D.C. Act 24-90" eff="2021-05-26" path="§2|(a)|(2)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-90" path="§2|(a)" codified:display="Note" app="2021-05-26" eff="2021-05-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-90" path="§2|(a)">§ 2(a) of Short-term Disability Insurance Benefit Protection Emergency Amendment Act of 2021 (D.C. Act 24-90, May 26, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
