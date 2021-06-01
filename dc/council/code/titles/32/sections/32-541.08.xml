@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-541.08</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on August 24, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§32-541.08(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Appeals.</heading>
   <para>
     <num>(a)</num>
@@ -20,7 +23,7 @@
   </para>
   <para>
     <num>(e)</num>
-    <text>For complaints, other than a claim determination, that arise under <cite path="32|5|IV">this subchapter</cite>, the administrative enforcement procedure and relief shall be the same as that in <cite path="32|5|I">D.C. FMLA</cite>.</text>
+    <text>For complaints, other than a claim determination, that arise under <cite path="32|5|IV">this subchapter</cite>, the administrative enforcement procedure and relief shall be the same as that in <cite path="32|5|I">D.C. FMLA</cite>; except, that complaints arising from a violation of <cite path="§32-541.07|(j)">§ 32-541.07(j)</cite> shall be filed with the Department of Insurance, Securities, and Banking for resolution pursuant to <cite path="31|22A">Chapter 22A of Title 31</cite>.</text>
   </para>
   <para>
     <num>(f)</num>
@@ -48,5 +51,8 @@
     <annotation app="2017-07-20" doc="D.C. Act 22-104" eff="2017-07-20" path="§7034" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-167" path="§7034" codified:display="Note" app="2017-10-24" eff="2017-10-24">For temporary (90 days) repeal of § 301 of D.C. Law 21-264, see <cite doc="D.C. Act 22-167" path="§7034">§ 7034 of Fiscal Year 2018 Budget Support Congressional Review Emergency Act of 2017 (D.C. Act 22-167, Oct. 24, 2017, 64 DCR 10802)</cite>.</annotation>
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7034" type="History" display="false"/>
+    <annotation app="2021-05-26" doc="D.C. Act 24-90" eff="2021-05-26" path="§2|(c)" type="History" display="false"/>
+    <annotation app="2021-05-26" doc="D.C. Act 24-90" eff="2021-05-26" path="§2|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-90" path="§2|(c)" codified:display="Note" app="2021-05-26" eff="2021-05-26">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-90" path="§2|(c)">§ 2(c) of Short-term Disability Insurance Benefit Protection Emergency Amendment Act of 2021 (D.C. Act 24-90, May 26, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
