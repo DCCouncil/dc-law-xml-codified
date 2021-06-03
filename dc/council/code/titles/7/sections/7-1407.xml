@@ -1,18 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-1407</num>
-  <heading>D.C. Healthcare Alliance recertification.</heading>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on August 8, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§7-1407(Perm)">Permanent Version</cite>.*
+      </text>
+  <heading>DC HealthCare Alliance recertification.</heading>
+  <text>If DC HealthCare Alliance enrollees are required to complete an interview as a recertification requirement more than once in a 12-month period, the Mayor shall:</text>
   <para>
-    <num>(a)</num>
-    <text>A D.C. Healthcare Alliance ("Alliance") enrollee who enrolls in the Alliance before April 1, 2023, shall be required to recertify his or her enrollment every 6 months.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>An Alliance enrollee who enrolls in the Alliance after March 31, 2023, shall be required to recertify his or her enrollment on an annual basis.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>An enrollee may recertify in person with the Department of Human Services or, if the Alliance is incorporated into the D.C. Health Link program, with the District of Columbia Health Benefit Exchange Authority.</text>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>Only require DC HealthCare Alliance enrollees to complete one in person face-to-face interview for recertification during a 12-month period; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Allow DC HealthCare Alliance enrollees to complete any additional required interviews for recertification over the phone with the Department of Human Services.</text>
+    </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 14-18" type="History" path="§6">July 12, 2001, D.C. Law 14-18, § 7b</annotation>
@@ -32,14 +35,18 @@
     <annotation doc="D.C. Law 23-16" path="§5102" type="Applicability" history="false" app="2019-09-11" eff="2019-09-11"><cite doc="D.C. Law 23-16" path="§5102">Section 5102 of D.C. Law 23-16</cite> amended this section as added by <cite doc="D.C. Law 22-35" path="§2">section 2  of D.C. Law 22-35</cite> keeping in place the applicability provision. Therefore, the creation of this section by section 2 of Law 22-35 has not been implemented.
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§5102" type="History" display="false"/>
-    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7100" type="History"/>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7062" type="History" display="false"/>
     <annotation doc="D.C. Law 23-149" path="§7062" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 22-168" path="§5023">Section 5023 of D.C. Law 22-168</cite> amended <cite doc="D.C. Law 22-35" path="§3|(a)">section 3(a) of D.C. Law 22-35</cite> keeping in place the applicability provision.  Therefore, the creation of this section by section 2 of Law 22-35 has not been implemented.
         </annotation>
     <annotation doc="D.C. Law 23-149" path="§7062" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7062">Section 7062 of D.C. Law 23-149</cite> repealed <cite doc="D.C. Law 22-35" path="§3">section 3 of D.C. Law 22-35</cite> removing the applicability provision impacting this section.  Therefore, the creation of this section by section 2 of Law 22-35 has been implemented.
         </annotation>
+    <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7100" type="History"/>
     <annotation doc="D.C. Law 23-149" path="§7100" type="Applicability" history="false" app="2020-12-03" eff="2020-12-03"><cite doc="D.C. Law 23-149" path="§7100">Section 7100 of D.C. Law 23-149</cite> repealed D.C. Law 22-62, removing the amendment made to this section by that law and implementing the amendment to this section made by <cite doc="D.C. Law 23-16" path="§5102">D.C. Law 23-16</cite>.
        </annotation>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§7100" type="History" display="false"/>
+    <annotation app="2021-05-19" doc="D.C. Act 24-79" eff="2021-05-19" path="§4|(a)" type="History" display="false"/>
+    <annotation app="2021-05-19" doc="D.C. Act 24-79" eff="2021-05-19" path="§4|(a)" type="History"/>
+    <annotation doc="D.C. Act 24-79" path="§4|(a)" type="Applicability" history="false" app="2021-05-19" eff="2021-05-19"><cite doc="D.C. Act 24-79" path="§4|(a)">D.C. Act 24-79</cite> repealed, for 90 days, the amendment to this section made by <cite doc="D.C. Law 23-16" path="§5102">D.C. Law 23-16</cite>, thus temporarily restoring the language created by <cite doc="D.C. Law 22-35" path="§2">D.C. Law 22-35</cite>.
+      </annotation>
   </annotations>
 </section>
