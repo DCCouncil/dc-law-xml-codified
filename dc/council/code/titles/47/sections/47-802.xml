@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>47-802</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on June 2, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§47-802(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of this chapter:</text>
   <para>
@@ -140,6 +143,10 @@
         <num>(B)</num>
         <text>For the purposes of this paragraph, the term "live performance" means an act of staging or presenting a play, concert, or other form of entertainment before an audience where the artist is paid according to experience, talent, and best community practices for their form of entertainment.</text>
       </para>
+      <para>
+        <num>(C)</num>
+        <text>For tax year 2020, a business satisfies the requirements of subparagraph (A)(i) of this paragraph if the business hosts live performances by performing artists for a minimum of 48 hours per month during at least 5 months of the tax year.</text>
+      </para>
     </para>
   </para>
   <annotations>
@@ -244,7 +251,8 @@
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§7173" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-348" path="§2" codified:display="Note" app="2020-07-27" eff="2020-07-27">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-348" path="§2">§ 2 of Performing Arts Promotion Emergency Amendment Act of 2020 (D.C. Act 23-348, July 27, 2020, 67 DCR 9398)</cite>.</annotation>
     <annotation app="2020-07-27" doc="D.C. Act 23-348" eff="2020-07-27" path="§2" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-148" path="§2" codified:display="Note" app="2020-10-20" eff="2020-10-20">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-148" path="§2">§ 2 of Performing Arts Promotion Temporary Amendment Act of 2020 (D.C. Law 23-148, Oct. 20, 2020, 67 DCR 9955)</cite>.</annotation>
-    <annotation app="2020-10-20" doc="D.C. Law 23-148" eff="2020-10-20" path="§2" type="History" display="false"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-148" eff="2020-10-20" path="§4|(b)" type="History" display="false"/>
+    <annotation app="2020-10-20" doc="D.C. Law 23-148" eff="2020-10-20" path="§2" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-148" path="§4|(b)" codified:display="Note" app="2020-10-20" eff="2020-10-20">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-148" path="§4|(b)">§ 4(b) of Performing Arts Promotion Temporary Amendment Act of 2020 [Effective from October 20, 2020] (D.C. Law 23-148, Oct. 20, 2020, 67 DCR 9955)</cite>.</annotation>
   </annotations>
 </section>
