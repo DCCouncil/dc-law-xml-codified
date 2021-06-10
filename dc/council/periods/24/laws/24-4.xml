@@ -24,7 +24,8 @@
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Fair Meals Delivery Temporary Act of 2021".</text>
   <section>
-    <codify:insert doc="D.C. Code" path="48|6A" num-value="48-652" codified:doc="D.C. Code" codified:path="§48-652"/>
+    <codify:applicability doc="D.C. Act 24-4" path="§2" date="2021-06-07" history="false" codified:doc="D.C. Code" codified:path="§50-2561"/>
+    <codify:insert doc="D.C. Code" path="48|6A" num-value="48-652"/>
     <num>2</num>
     <heading>Restrictions on third-party meals delivery companies.</heading>
     <para>
@@ -43,8 +44,8 @@
         <text>"Third-party delivery platform" means any website, mobile application, or other internet service that offers or arranges for the sale of food and beverages prepared by, and the same-day delivery or same-day pickup of food and beverages from, restaurants.</text>
       </para>
     </para>
-    <codify:temporary-new-sec doc="D.C. Code" path="§48-651" interim-path="§48-632" perm-eff="2021-05-13" codified:doc="D.C. Code" codified:path="§48-651" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§48-651" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§48-651">
+    <codify:temporary-new-sec doc="D.C. Code" path="§48-651" interim-path="§48-632" perm-eff="2021-06-07"/>
+    <codify:insert doc="D.C. Code" path="§48-651" before="heading" history="false" display-template="">
       <text>
       *NOTE: This section was created by by temporary legislation that will expire on May 27, 2021.*
       </text>
