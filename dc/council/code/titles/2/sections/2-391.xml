@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-391</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on September 5, 2021.*
+      *NOTE: This section was created by emergency legislation that will expire on June 10, 2021.*
       </text>
   <heading>Contractor reporting of positive cases.</heading>
   <para>
@@ -11,7 +11,7 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>Notices under subsection (a) of this section shall be made to the District government's contracting officer and contract administrator, or, if a covered individual is in care or custody of the District, to the District agency authorized to receive personally identifiable information.  The notice shall contain the following information:</text>
+    <text>Notices under subsection (a) of this section shall be made to the District government's contracting officer and contract administrator, or, if a covered individual is in care or custody of the District, to the District agency authorized to receive personally identifiable information.  The notices shall contain the following information:</text>
     <para>
       <num>(1)</num>
       <text>The name, job title, and contact information of the covered employee;</text>
@@ -96,15 +96,13 @@
   <codify:emergency doc="D.C. Code" path="§2-391" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-391" codified:display="Note"/>
   <codify:insert doc="D.C. Code" path="§2-391" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-391">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on September 5, 2021.*
+      *NOTE: This section was created by emergency legislation that will expire on June 10, 2021.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§515" codified:display="Note" app="2021-06-07" eff="2021-03-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-30" path="§515">§ 515 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
-    <annotation app="2021-06-07" doc="D.C. Act 24-30" eff="2021-03-17" path="§515" type="History" display="false"/>
-    <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="V" type="History" display="false"/>
-    <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§515" type="History" display="false"/>
-    <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§515" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-96" path="§515" codified:display="Note" app="2021-06-07" eff="2021-06-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-96" path="§515">§ 515 of Coronavirus Support Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-96, June 7, 2021, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="V" type="History" display="false"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§515" type="History" display="false"/>
+    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§515" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§515" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-30" path="§515">§ 515 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
   </annotations>
 </section>
