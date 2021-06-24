@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-771.07b</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on April 25, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§7-771.07b(Perm)">Permanent Version</cite>.*
-      </text>
   <heading>Medicaid reserve.</heading>
   <para>
     <num>(a)</num>
@@ -40,7 +37,7 @@
         </para>
         <para>
           <num>(ii)</num>
-          <text>Funding <cite doc="D.C. Act" path="23-390">the Postpartum Coverage Expansion Act of 2020, passed on 2nd reading on July 21, 2020 (Enrolled version of Bill 23-326)</cite>; and</text>
+          <text>Funding §§<cite path="§31-3861|(2A)">31-3861(2A)</cite> and <cite path="§31-3862.01">31-3862.01</cite>; and</text>
         </para>
         <para>
           <num>(iii)</num>
@@ -110,9 +107,8 @@
   <annotations>
     <annotation doc="D.C. Law 17-109" type="History" path="§8b">Feb. 27, 2008, D.C. Law 17-109, § 8b</annotation>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="§5032|(b)" prefix="as added" type="History"/>
-    <annotation app="2021-01-29" doc="D.C. Act 24-6" eff="2021-01-29" path="§3|(a)" type="History" display="false"/>
-    <annotation app="2021-01-29" doc="D.C. Act 24-6" eff="2021-01-29" path="§3|(a)" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-6" path="§3|(a)" codified:display="Note" app="2021-01-29" eff="2021-01-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-6" path="§3|(a)">§ 3(a) of Department of Health Care Finance Alliance Reform and Budget Transparency Emergency Amendment Act of 2021 (D.C. Act 24-6, Jan. 29, 2021, 68 DCR 001539)</cite>.</annotation>
+    <annotation app="2021-01-29" doc="D.C. Act 24-6" eff="2021-01-29" path="§3|(a)" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-251" eff="2021-03-16" path="§401|(a)" type="History" display="false"/>
     <annotation app="notfunded" doc="D.C. Law 23-251" eff="2021-03-16" path="§202|(a)|(1)|(A)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 23-251" eff="2021-03-16" path="§202|(a)|(1)|(B)" type="History"/>
