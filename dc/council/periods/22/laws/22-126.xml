@@ -246,7 +246,7 @@
       <text>New sections 4a, 4b, 4c, 4d, and 4e are added to read as follows:</text>
       <include>
         <section>
-          <codify:insert after="§31-3863" num-value="31-3864" history-prefix="as added"/>
+          <codify:insert after="§31-3863" num-value="31-3864" history-prefix="as added" codified:doc="D.C. Code" codified:path="§31-3864"/>
           <num>4a</num>
           <heading>Remote patient monitoring service providers; payment.</heading>
           <para>
@@ -342,10 +342,10 @@
             </para>
           </para>
           <annotation doc="D.C. Law 20-26" type="History" path="§4a">Oct. 17, 2013, D.C. Law 20-26, § 4a</annotation>
-          <codify:not-funded-anno doc="D.C. Code" path="§31-3864" applicability-path="§3" action="creation of"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§31-3864" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§31-3864" codified:display="Note"/>
         </section>
         <section>
-          <codify:insert after="§31-3864" num-value="31-3865" history-prefix="as added"/>
+          <codify:insert after="§31-3864" num-value="31-3865" history-prefix="as added" codified:doc="D.C. Code" codified:path="§31-3865"/>
           <num>4b</num>
           <heading>Right to synchronous interaction.</heading>
           <para>
@@ -361,10 +361,10 @@
             <text>If, for any reason, the provider is unable to provide a patient with a synchronous interaction within 30 days of the patient's request for such, the provider shall not be reimbursed for any asynchronous store and forward health care services delivered through telehealth that were previously provided to the patient.</text>
           </para>
           <annotation doc="D.C. Law 20-26" type="History" path="§4b">Oct. 17, 2013, D.C. Law 20-26, § 4b</annotation>
-          <codify:not-funded-anno doc="D.C. Code" path="§31-3865" applicability-path="§3" action="creation of"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§31-3865" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§31-3865" codified:display="Note"/>
         </section>
         <section>
-          <codify:insert after="§31-3865" num-value="31-3866" history-prefix="as added"/>
+          <codify:insert after="§31-3865" num-value="31-3866" history-prefix="as added" codified:doc="D.C. Code" codified:path="§31-3866"/>
           <num>4c</num>
           <heading>Facility fees.</heading>
           <para>
@@ -384,23 +384,23 @@
             <text>A provider of remote patient monitoring services shall not be eligible to receive facility fees.</text>
           </para>
           <annotation doc="D.C. Law 20-26" type="History" path="§4c">Oct. 17, 2013, D.C. Law 20-26, § 4c</annotation>
-          <codify:not-funded-anno doc="D.C. Code" path="§31-3866" applicability-path="§3" action="creation of"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§31-3866" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§31-3866" codified:display="Note"/>
         </section>
         <section>
-          <codify:insert after="§31-3866" num-value="31-3867" history-prefix="as added"/>
+          <codify:insert after="§31-3866" num-value="31-3867" history-prefix="as added" codified:doc="D.C. Code" codified:path="§31-3867"/>
           <num>4d</num>
           <heading>Federal authorization.</heading>
           <text>By January 1, 2019, the Mayor shall seek the approval of the United States Department of Health and Human Services, Centers for Medicare and Medicaid Services for any amendments to the Medicaid State Plan necessary to implement <code-cite doc="D.C. Code" path="31|38C">this act</code-cite>.</text>
           <annotation doc="D.C. Law 20-26" type="History" path="§4d">Oct. 17, 2013, D.C. Law 20-26, § 4d</annotation>
-          <codify:not-funded-anno doc="D.C. Code" path="§31-3867" applicability-path="§3" action="creation of"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§31-3867" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§31-3867" codified:display="Note"/>
         </section>
         <section>
-          <codify:insert after="§31-3867" num-value="31-3868" history-prefix="as added"/>
+          <codify:insert after="§31-3867" num-value="31-3868" history-prefix="as added" codified:doc="D.C. Code" codified:path="§31-3868"/>
           <num>4e</num>
           <heading>Rules.</heading>
           <text>Within 180 days <span codify:value="July 3, 2018">after the effective date of the Telehealth Medicaid Expansion Amendment Act of 2018, passed on 2nd reading on April 10, 2018 (Enrolled version of Bill 22-233)</span>, the Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, shall issue rules to implement the provisions of <code-cite doc="D.C. Code" path="31|38C">this act</code-cite>.</text>
           <annotation doc="D.C. Law 20-26" type="History" path="§4e">Oct. 17, 2013, D.C. Law 20-26, § 4e</annotation>
-          <codify:not-funded-anno doc="D.C. Code" path="§31-3868" applicability-path="§3" action="creation of"/>
+          <codify:not-funded-anno doc="D.C. Code" path="§31-3868" applicability-path="§3" action="creation of" codified:doc="D.C. Code" codified:path="§31-3868" codified:display="Note"/>
         </section>
       </include>
       <aftertext>.</aftertext>

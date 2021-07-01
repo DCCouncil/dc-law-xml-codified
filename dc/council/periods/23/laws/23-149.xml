@@ -6384,7 +6384,7 @@
             <num>(a)</num>
             <para>
               <num>(1)</num>
-              <text>Beginning October 1, 2020, and except as provided in subsection (b) of this section and section 5087, the District, through the Office of Tax and Revenue, may charge each hospital a fee based on its inpatient net patient revenue.</text>
+              <text>Beginning October 1, 2020, and except as provided in subsection (b) of this section and <code-cite doc="D.C. Code" path="§44-664.16">section 5087</code-cite>, the District, through the Office of Tax and Revenue, may charge each hospital a fee based on its inpatient net patient revenue.</text>
             </para>
             <para>
               <num>(2)</num>
@@ -6392,7 +6392,7 @@
             </para>
             <para>
               <num>(3)</num>
-              <text>The fee collected pursuant to this section shall be deposited in the Hospital Fund, established by section 5083.</text>
+              <text>The fee collected pursuant to this section shall be deposited in the Hospital Fund, established by <code-cite doc="D.C. Code" path="§44-664.12">section 5083</code-cite>.</text>
             </para>
           </para>
         </include>
@@ -6938,7 +6938,7 @@
               </para>
               <para>
                 <num>(b)</num>
-                <text>Notwithstanding <span codify:value="">D.C. Official Code</span> §§ <cite doc="D.C. Code" path="§44-361" codify:value="44-361">47-361</cite>, <cite doc="D.C. Code" path="§44-362" codify:value="44-362">47-362</cite>, <cite doc="D.C. Code" path="§44-363" codify:value="44-363">47-363</cite>, and <cite doc="D.C. Code" path="§44-365" codify:value="44-365">47-365</cite>, funds may be transferred from the Medicaid reserve to the Department:</text>
+                <text>Notwithstanding <span codify:value="§§">D.C. Official Code</span> <cite doc="D.C. Code" path="§47-361" codify:value="47-361">47-361</cite>, <cite doc="D.C. Code" path="§47-362" codify:value="47-362">47-362</cite>, <cite doc="D.C. Code" path="§47-363" codify:value="47-363">47-363</cite>, and <cite doc="D.C. Code" path="§47-365" codify:value="47-365">47-365</cite>, funds may be transferred from the Medicaid reserve to the Department:</text>
                 <para>
                   <num>(1)</num>
                   <text>To pay expenses associated with increased Medicaid enrollment or service utilization upon a determination by the Agency Fiscal Officer that available funds within the Department are projected to be exhausted;</text>
@@ -6967,7 +6967,7 @@
                     </para>
                     <para>
                       <num>(ii)</num>
-                      <text>Funding <span codify:value="§§"> </span><code-cite doc="D.C. Code" path="§31-3861|(2A)" codify:value="31-3861(2A)">the Postpartum Coverage Expansion Act of 2020,</code-cite> <span codify:value="and"/> <code-cite doc="D.C. Code" path="§31-3862.01" codify:value="31-3862.01">passed on 2nd reading on July 21, 2020 (Enrolled version of Bill 23-326)</code-cite>; and</text>
+                      <text>Funding <span codify:value="§§ "/><code-cite doc="D.C. Code" path="§31-3861|(2A)" codify:value="31-3861(2A)">the Postpartum Coverage Expansion Act of 2020,</code-cite> <span codify:value="and"/> <code-cite doc="D.C. Code" path="§31-3862.01" codify:value="31-3862.01">passed on 2nd reading on July 21, 2020 (Enrolled version of Bill 23-326)</code-cite>; and</text>
                     </para>
                     <para>
                       <num>(iii)</num>
@@ -9418,14 +9418,6 @@
           <aftertext>.</aftertext>
           <codify:annotation doc="D.C. Code" path="§47-1508" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§47-1508"><cite doc="D.C. Law 23-149" path="§7003">Section 7003 of D.C. Law 23-149</cite> provided that the changes made to this section by section 7003(a) of D.C. Law 23-149 shall apply as of July 1, 2021.
         </codify:annotation>
-          <codify:replace doc="D.C. Code" path="§47-1508|(a)|(13)" codified:doc="D.C. Code" codified:path="§47-1508|(a)|(13)">
-            <para>
-              <num>(13)</num>
-              <text>
-        [Applicable as of July 1, 2021]
-        </text>
-            </para>
-          </codify:replace>
         </para>
         <para codify:path="§47-1521|(a)">
           <num>(b)</num>
@@ -9453,17 +9445,13 @@
           <para codify:path="(4)">
             <num>(3)</num>
             <text>Paragraph (4) is amended by striking the phrase "goods and chattels" and inserting the phrase "goods and chattels, including computer software," in its place.</text>
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-1521|(4)">
+              <find>goods and chattels</find>
+              <replace>goods and chattels, including computer software,</replace>
+            </codify:find-replace>
           </para>
           <codify:annotation doc="D.C. Code" path="§47-1521" type="Applicability" history="false" codified:doc="D.C. Code" codified:path="§47-1521"><cite doc="D.C. Law 23-149" path="§7003">Section 7003 of D.C. Law 23-149</cite> provided that the changes made to this section by D.C. Law 23-149 shall apply as of July 1, 2021.
         </codify:annotation>
-          <codify:replace doc="D.C. Code" path="§47-1521|(a)|(1)" codified:doc="D.C. Code" codified:path="§47-1521|(1)">
-            <para>
-              <num>(1)</num>
-              <text>
-        [Applicable as of July 1, 2021]
-        </text>
-            </para>
-          </codify:replace>
         </para>
       </section>
       <section>
@@ -10080,7 +10068,11 @@
         <text>The Telehealth Medicaid Expansion Amendment Act of 2018, effective July 3, 2018 (D.C. Law 22-126; 65 DCR 5110), is repealed.</text>
         <codify:repeal doc="D.C. Law 22-126" path="§2|(a)" codified:doc="D.C. Code" codified:path="§31-3861"/>
         <codify:repeal doc="D.C. Law 22-126" path="§2|(b)" codified:doc="D.C. Code" codified:path="§31-3863"/>
-        <codify:repeal doc="D.C. Law 22-126" path="§2|(c)"/>
+        <codify:repeal doc="D.C. Code" path="§31-3864" codified:doc="D.C. Code" codified:path="§31-3864"/>
+        <codify:repeal doc="D.C. Code" path="§31-3865" codified:doc="D.C. Code" codified:path="§31-3865"/>
+        <codify:repeal doc="D.C. Code" path="§31-3866" codified:doc="D.C. Code" codified:path="§31-3866"/>
+        <codify:repeal doc="D.C. Code" path="§31-3867" codified:doc="D.C. Code" codified:path="§31-3867"/>
+        <codify:repeal doc="D.C. Code" path="§31-3868" codified:doc="D.C. Code" codified:path="§31-3868"/>
       </section>
       <section>
         <num>7106</num>
@@ -10334,15 +10326,7 @@
         <para>
           <num>(a)</num>
           <text>Section 47-1508(a)(10) is repealed.</text>
-          <codify:find-replace doc="D.C. Code" path="§47-1508|(a)|(1)" count="1" codified:doc="D.C. Code" codified:path="§47-1508|(a)|(1)">
-            <find>The</find>
-            <replace>The</replace>
-          </codify:find-replace>
-          <codify:insert doc="D.C. Code" path="§47-1508" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-1508">
-            <text>
-      *NOTE: This section will be amended by D.C. Law 23-149 beginning July 1, 2021.*
-      </text>
-          </codify:insert>
+          <codify:repeal doc="D.C. Code" path="§47-1508|(a)|(10)" codified:doc="D.C. Code" codified:path="§47-1508|(a)|(10)"/>
         </para>
         <para>
           <num>(b)</num>

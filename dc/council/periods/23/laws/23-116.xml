@@ -228,7 +228,7 @@
       </para>
     </para>
     <para codify:path="§44-509|(e)">
-      <num>(b)</num>
+      <num codify:value="[(c)]">(b)</num>
       <text>Section 10(e) (D.C. Official Code§ 44-509(e)) is amended by adding a new paragraph (lA) to read as follows:</text>
       <include lvl="1">
         <para>
@@ -245,6 +245,9 @@
         </para>
       </include>
       <aftertext>.</aftertext>
+      <codify:annotation doc="D.C. Code" path="§44-509" type="History" codified:doc="D.C. Code" codified:path="§44-509">
+      June 24, 2020, D.C. Law 23-116, §2(b) [§2(c)], 67 DCR 5081  
+      </codify:annotation>
     </para>
   </section>
   <section codify:doc="D.C. Code">
