@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>51-181</num>
   <text>
-      *NOTE: This section was created by temporary legislation that will expire on February 4, 2022.*
+      *NOTE: This section was created by emergency legislation that will expire on September 5, 2021.*
       </text>
   <heading>Wage replacement.</heading>
   <para>
@@ -68,30 +68,25 @@
     <num>(g)</num>
     <text>Notwithstanding any provision of District law, but subject to applicable federal laws and regulations, during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, the requirements of <cite path="§51-109|(a)|(4)|(B)">§ 51-109(a)(4)(B)</cite> and <cite path="§51-109|(a)|(5)">(5)</cite>  shall not apply.</text>
   </para>
-  <codify:temporary doc="D.C. Code" path="§51-181" action="creation of this section" codified:doc="D.C. Code" codified:path="§51-181" codified:display="Note"/>
+  <codify:emergency doc="D.C. Code" path="§51-178" action="creation of § 51-181" codified:doc="D.C. Code" codified:path="§51-178" codified:display="Note"/>
+  <codify:emergency doc="D.C. Code" path="§51-181" action="creation of this section" codified:doc="D.C. Code" codified:path="§51-181" codified:display="Note"/>
   <codify:insert doc="D.C. Code" path="§51-181" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§51-181">
     <text>
-      *NOTE: This section was created by temporary legislation that will expire on February 4, 2022.*
+      *NOTE: This section was created by emergency legislation that will expire on September 5, 2021.*
       </text>
   </codify:insert>
   <annotations>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-247" path="§101" codified:display="Note" app="2021-06-24" eff="2020-03-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-247" path="§101">§ 101 of COVID-19 Response Emergency Amendment Act of 2020 (D.C. Act 23-247, Mar. 17, 2020, 67 DCR 3093)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Act 23-247" eff="2020-03-17" path="§101" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§101" codified:display="Note" app="2021-06-24" eff="2020-05-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-326" path="§101">§ 101 of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Act 23-326" eff="2020-05-27" path="§101" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§101" codified:display="Note" app="2021-06-24" eff="2020-06-08">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-328" path="§101">§ 101 of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Act 23-328" eff="2020-06-08" path="§101" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§101" codified:display="Note" app="2021-06-24" eff="2020-08-19">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-405" path="§101">§ 101 of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Act 23-405" eff="2020-08-19" path="§101" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§101" codified:display="Note" app="2021-06-24" eff="2020-10-09">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-130" path="§101">§ 101 of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Law 23-130" eff="2020-10-09" path="§101" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§101" codified:display="Note" app="2021-06-24" eff="2021-03-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-30" path="§101">§ 101 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Act 24-30" eff="2021-03-17" path="§101" type="History" display="false"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-96" path="§101" codified:display="Note" app="2021-06-24" eff="2021-06-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-96" path="§101">§ 101 of Coronavirus Support Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-96, June 7, 2021, 68 DCR 006025)</cite>.</annotation>
-    <annotation app="2021-06-24" doc="D.C. Act 24-96" eff="2021-06-07" path="§101" type="History" display="false"/>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="" type="History" display="false"/>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§101" type="History" display="false"/>
-    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§101" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§101" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-9" path="§101">§ 101 of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-247" path="§101" codified:display="Note" app="2021-06-07" eff="2020-03-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-247" path="§101">§ 101 of COVID-19 Response Emergency Amendment Act of 2020 (D.C. Act 23-247, Mar. 17, 2020, 67 DCR 3093)</cite>.</annotation>
+    <annotation app="2021-06-07" doc="D.C. Act 23-247" eff="2020-03-17" path="§101" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§101" codified:display="Note" app="2021-06-07" eff="2020-05-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-326" path="§101">§ 101 of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
+    <annotation app="2021-06-07" doc="D.C. Act 23-326" eff="2020-05-27" path="§101" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-405" path="§101" codified:display="Note" app="2021-06-07" eff="2020-08-19">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-405" path="§101">§ 101 of Coronavirus Support Second Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-405, Aug. 19, 2020, 67 DCR 10235)</cite>.</annotation>
+    <annotation app="2021-06-07" doc="D.C. Act 23-405" eff="2020-08-19" path="§101" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§101" codified:display="Note" app="2021-06-07" eff="2021-03-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-30" path="§101">§ 101 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
+    <annotation app="2021-06-07" doc="D.C. Act 24-30" eff="2021-03-17" path="§101" type="History" display="false"/>
+    <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="" type="History" display="false"/>
+    <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§101" type="History" display="false"/>
+    <annotation app="2021-06-07" doc="D.C. Act 24-96" eff="2021-06-07" path="§101" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-96" path="§101" codified:display="Note" app="2021-06-07" eff="2021-06-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-96" path="§101">§ 101 of Coronavirus Support Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-96, June 7, 2021, 68 DCR 006025)</cite>.</annotation>
   </annotations>
 </section>
