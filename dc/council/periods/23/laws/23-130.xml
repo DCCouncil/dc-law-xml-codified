@@ -754,7 +754,7 @@
           </section>
         </include>
         <aftertext>.</aftertext>
-        <codify:temporary doc="D.C. Code" path="§32-502" action="creation of § 32-502.01" codified:doc="D.C. Code" codified:path="§32-502" codified:display="Note"/>
+        <codify:temporary-new-sec doc="D.C. Code" path="§32-502.01" interim-path="§32-502" perm-eff="2021-06-24" codified:doc="D.C. Code" codified:path="§32-502.01" codified:display="Note"/>
       </para>
     </section>
     <section codify:doc="D.C. Code">
@@ -922,8 +922,8 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:temporary doc="D.C. Code" path="§32-531.05" codified:doc="D.C. Code" codified:path="§32-531.05" codified:display="Note"/>
         </para>
-        <codify:temporary doc="D.C. Code" path="§32-531.05" codified:doc="D.C. Code" codified:path="§32-531.05" codified:display="Note"/>
       </para>
       <para>
         <num>(b)</num>

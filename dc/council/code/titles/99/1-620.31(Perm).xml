@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>1-620.31</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-620.31(Perm)">Permanent Version</cite>.*
-      </text>
+  <num>1-620.31(Perm)</num>
   <heading>Definitions.</heading>
   <text>For the purposes of this subchapter, the term:</text>
   <para>
@@ -32,7 +29,7 @@
   </para>
   <para>
     <num>(7)</num>
-    <text>“Probable cause” or “reasonable suspicion” means a reasonable belief by a supervisor that an employee or volunteer in a safety-sensitive position is under the influence of an illegal drug or alcohol to the extent that the employee’s ability to perform his or her job is impaired.</text>
+    <text>“Probable cause” or “reasonable suspicion” means a reasonable belief by a supervisor that an employee in a safety-sensitive position is under the influence of an illegal drug or alcohol to the extent that the employee’s ability to perform his or her job is impaired.</text>
   </para>
   <para>
     <num>(8)</num>
@@ -40,15 +37,11 @@
   </para>
   <para>
     <num>(9)</num>
-    <text>“Reasonable suspicion referral” means referral of an employee or volunteer in a safety-sensitive position for testing by the District for drug or alcohol use.</text>
-  </para>
-  <para placeholder="Repealed">
-    <num>(10)</num>
-    <text>Repealed.</text>
+    <text>“Reasonable suspicion referral” means referral of an employee in a safety-sensitive position for testing by the District for drug or alcohol use.</text>
   </para>
   <para>
-    <num>(10A)</num>
-    <text>"Volunteer" means the same as provided in <cite path="§4-1501.02|(9)">§ 4-1501.02(9)</cite>, or a student participating through a federal work study program under Title IV of the Higher Education Act of 1965, approved October 17, 1986 (100 Stat. 1308; 20 U.S.C. § 1070 <em>et seq</em>.).</text>
+    <num>(10)</num>
+    <text>Repealed.</text>
   </para>
   <para>
     <num>(11)</num>
@@ -57,6 +50,7 @@
   <annotations>
     <annotation doc="D.C. Law 2-139" type="History" path="§2031">Mar. 3, 1979, D.C. Law 2-139, § 2031</annotation>
     <annotation doc="D.C. Law 15-353" type="History">as added Apr. 13, 2005, D.C. Law 15-353, § 102, 52 DCR 2331</annotation>
+    <annotation doc="D.C. Law 23-276" path="§2|(i)" type="History">as added Apr. 27, 2021, D.C. Law 23-276, § 2(i), 68 DCR 00048</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 102 of Child and Youth, Safety and Health Omnibus Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-30, February 17, 2005,  52 DCR 2993).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 102 of Child and Youth, Safety and Health Omnibus Emergency Amendment Act of 2004 (D.C. Act 15-630, November 30, 2004,  52 DCR 1143).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 102 of Child and Youth, Safety and Health Omnibus Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-407, March 18, 2004,  51 DCR 3659).</annotation>
@@ -68,11 +62,5 @@
     <annotation type="Temporary Legislation">For temporary (225 day) addition of section, see § 102 of the Child and Youth, Safety and Health Omnibus Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-117">D.C. Law 15-117</cite>, March 30, 2004, law notification  51 DCR 3804).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) addition of section, see § 102 of the Child and Youth, Safety and Health Omnibus Temporary Amendment Act of 2003 (<cite doc="D.C. Law 15-2">D.C. Law 15-2</cite>, May 3, 2003, law notification  50 DCR 3782).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) addition of section, see § 102 of the Child and Youth, Safety and Health Omnibus Temporary Amendment Act of 2002 (<cite doc="D.C. Law 14-164">D.C. Law 14-164</cite>, June 25, 2002, law notification  49 DCR 6500).</annotation>
-    <annotation app="2021-04-27" doc="D.C. Law 23-276" eff="2021-04-27" path="§2|(i)" type="History"/>
-    <annotation app="2021-07-15" doc="D.C. Act 24-114" eff="2021-07-15" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2021-07-15" doc="D.C. Act 24-114" eff="2021-07-15" path="§2|(a)|(1)" type="History"/>
-    <annotation app="2021-07-15" doc="D.C. Act 24-114" eff="2021-07-15" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2021-07-15" doc="D.C. Act 24-114" eff="2021-07-15" path="§2|(a)|(3)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-114" path="§2|(a)" codified:display="Note" app="2021-07-15" eff="2021-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-114" path="§2|(a)">§ 2(a) of DCPS Drug Testing Clarification Emergency Amendment Act of 2021 (D.C. Act 24-114, July 15, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

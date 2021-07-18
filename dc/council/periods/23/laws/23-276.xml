@@ -522,7 +522,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the phrase "safety-sensitive positions" both times it appears and insert the phrase "positions that are designated as safety-sensitive" in its place.</text>
-        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§1-620.36">
+        <codify:find-replace count="2" codified:doc="D.C. Code" codified:path="§1-620.36|(a)">
           <find>safety-sensitive positions</find>
           <replace>positions that are designated as safety-sensitive</replace>
         </codify:find-replace>
@@ -530,7 +530,7 @@
       <para>
         <num>(2)</num>
         <text>Strike the period and insert the phrase "; provided, that a private provider or entity is not required to comply with title XX-E." in its place.</text>
-        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§1-620.36">
+        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§1-620.36|(a)">
           <find>.</find>
           <replace>; provided, that a private provider or entity is not required to comply with subchapter XX-E of this chapter.</replace>
         </codify:find-replace>

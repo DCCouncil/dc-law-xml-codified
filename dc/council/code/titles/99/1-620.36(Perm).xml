@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
-  <num>1-620.36</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 13, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-620.36(Perm)">Permanent Version</cite>.*
-      </text>
+  <num>1-620.36(Perm)</num>
   <heading>Coverage of private contractual providers and private licensed providers.</heading>
+  <text>Each private provider that contracts with the District of Columbia to provide employees to work in positions that are designated as safety-sensitive and each private entity licensed by the District government that has employees who work in positions that are designated as safety-sensitive shall establish mandatory drug and alcohol testing policies and procedures that are consistent with the requirements of this subchapter; provided, that a private provider or entity is not required to comply with subchapter XX-E of this chapter</text>
   <annotations>
     <annotation doc="D.C. Law 2-139" type="History" path="§2036">Mar. 3, 1979, D.C. Law 2-139, § 2036</annotation>
     <annotation doc="D.C. Law 15-353" type="History">as added Apr. 13, 2005, D.C. Law 15-353, § 102, 52 DCR 2331</annotation>
+    <annotation doc="D.C. Law 23-276" path="§2|(l)" type="History">as added Apr. 27, 2021, D.C. Law 23-276, § 2(l), 68 DCR 00048</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 102 of Child and Youth, Safety and Health Omnibus Congressional Review Emergency Amendment Act of 2005 (D.C. Act 16-30, February 17, 2005,  52 DCR 2993).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 102 of Child and Youth, Safety and Health Omnibus Emergency Amendment Act of 2004 (D.C. Act 15-630, November 30, 2004,  52 DCR 1143).</annotation>
     <annotation type="Emergency Legislation">For temporary (90 day) addition, see § 102 of Child and Youth, Safety and Health Omnibus Congressional Review Emergency Amendment Act of 2004 (D.C. Act 15-407, March 18, 2004,  51 DCR 3659).</annotation>
@@ -19,20 +18,5 @@
     <annotation type="Temporary Legislation">For temporary (225 day) addition of section, see § 102 of the Child and Youth, Safety and Health Omnibus Temporary Amendment Act of 2004 (<cite doc="D.C. Law 15-117">D.C. Law 15-117</cite>, March 30, 2004, law notification  51 DCR 3804).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) addition of section, see § 102 of the Child and Youth, Safety and Health Omnibus Temporary Amendment Act of 2003 (<cite doc="D.C. Law 15-2">D.C. Law 15-2</cite>, May 3, 2003, law notification  50 DCR 3782).</annotation>
     <annotation type="Temporary Legislation">For temporary (225 day) addition of section, see § 102 of the Child and Youth, Safety and Health Omnibus Temporary Amendment Act of 2002 (<cite doc="D.C. Law 14-164">D.C. Law 14-164</cite>, June 25, 2002, law notification  49 DCR 6500).</annotation>
-    <annotation app="2021-04-27" doc="D.C. Law 23-276" eff="2021-04-27" path="§2|(l)|(1)" type="History"/>
-    <annotation app="2021-04-27" doc="D.C. Law 23-276" eff="2021-04-27" path="§2|(l)|(2)" type="History"/>
-    <annotation app="2021-07-15" doc="D.C. Act 24-114" eff="2021-07-15" path="§2|(c)" type="History" display="false"/>
-    <annotation app="2021-07-15" doc="D.C. Act 24-114" eff="2021-07-15" path="§2|(c)|(2)" type="History"/>
-    <annotation app="2021-07-15" doc="D.C. Act 24-114" eff="2021-07-15" path="§2|(c)|(1)" type="History"/>
-    <annotation app="2021-07-15" doc="D.C. Act 24-114" eff="2021-07-15" path="§2|(c)|(3)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-114" path="§2|(c)" codified:display="Note" app="2021-07-15" eff="2021-07-15">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-114" path="§2|(c)">§ 2(c) of DCPS Drug Testing Clarification Emergency Amendment Act of 2021 (D.C. Act 24-114, July 15, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
-  <para>
-    <num>(a)</num>
-    <text>Except as provided in subsection (b) of this section, each private provider that contracts with the District of Columbia to provide employees to work in positions that are designated as safety-sensitive and each private entity licensed by the District government that has employees who work in positions that are designated as safety-sensitive shall establish mandatory drug and alcohol testing policies and procedures that are consistent with the requirements of this subchapter; provided, that a private provider or entity is not required to comply with subchapter XX-E of this chapter.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>An employee described in subsection (a) of this section who works at a District of Columbia Public School and is not an employee of a child development facility licensed by the Office of the State Superintendent of Education pursuant to <cite path="7|20|II">subchapter II of Chapter 20 of Title 7</cite>, shall not be required to take a test for marijuana, unless the test for marijuana is based on reasonable suspicion or is required pursuant to federal law, regulation, contract, or funding agreement.</text>
-  </para>
 </section>
