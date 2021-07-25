@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>2-218.31</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on August 5, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§2-218.31(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 19, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§2-218.31(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Local business enterprises.</heading>
   <text>A business enterprise shall be eligible for certification as a local business enterprise if the business enterprise:</text>
@@ -12,18 +12,25 @@
   </para>
   <para>
     <num>(1A)</num>
-    <text>Is:</text>
     <para>
       <num>(A)</num>
-      <text>Independently owned, operated, and controlled;</text>
+      <text>Is:</text>
+      <para>
+        <num>(i)</num>
+        <text>Independently owned, operated, and controlled;</text>
+      </para>
+      <para>
+        <num>(ii)</num>
+        <text>More than 50% owned, operated, and controlled by a District-based enterprise or not-for-profit business; or</text>
+      </para>
+      <para>
+        <num>(iii)</num>
+        <text>Owned by a non-District-based business enterprise or not-for-profit business that is more than 50% owned by District residents.</text>
+      </para>
     </para>
     <para>
       <num>(B)</num>
-      <text>Owned, operated, and controlled by a District-based enterprise; or</text>
-    </para>
-    <para>
-      <num>(C)</num>
-      <text>Owned by a non-District-based business enterprise that is more than 50% owned by District residents;</text>
+      <text>For the purposes of this paragraph, the term "Independently owned, operated, and controlled" includes a business enterprise that manages and controls its day-to-day operations without being subject to control, restriction, modification, or limitation by another business enterprise or not-for-profit business that has an ownership or other financial interest in the business enterprise.</text>
     </para>
   </para>
   <para>
@@ -103,8 +110,13 @@
     <annotation type="Section References">This section is referenced in <cite path="§2-218.02">§ 2-218.02</cite> and <cite path="§2-218.39">§ 2-218.39</cite>.</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-476" path="§2|(a)" codified:display="Note" app="2020-11-02" eff="2020-11-02">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 23-476" path="§2|(a)">§ 2(a) of Local Business Enterprise Clarification Emergency Amendment Act of 2020 (D.C. Act 23-476, Nov. 2, 2020, 67 DCR 13267)</cite>.</annotation>
     <annotation app="2020-11-02" doc="D.C. Act 23-476" eff="2020-11-02" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-179" eff="2020-12-23" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-179" eff="2020-12-23" path="§2|(a)" type="History"/>
+    <annotation app="2020-11-02" doc="D.C. Act 23-476" eff="2020-11-02" path="§2|(b)" type="History" display="false"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-179" path="§2|(a)" codified:display="Note" app="2020-12-23" eff="2020-12-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-179" path="§2|(a)">§ 2(a) of Local Business Enterprise Clarification Temporary Amendment Act of 2020 (D.C. Law 23-179, Dec. 23, 2020, 67 DCR 13242)</cite>.</annotation>
+    <annotation app="2020-12-23" doc="D.C. Law 23-179" eff="2020-12-23" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-179" eff="2020-12-23" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2021-07-21" doc="D.C. Act 24-118" eff="2021-07-21" path="§2|(a)" type="History" display="false"/>
+    <annotation app="2021-07-21" doc="D.C. Act 24-118" eff="2021-07-21" path="§2|(a)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-118" path="§2|(a)" codified:display="Note" app="2021-07-21" eff="2021-07-21">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-118" path="§2|(a)">§ 2(a) of Local Business Enterprise Clarification Emergency Amendment Act of 2021 (D.C. Act 24-118, July 21, 2021, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2021-07-21" doc="D.C. Act 24-118" eff="2021-07-21" path="§2|(b)" type="History" display="false"/>
   </annotations>
 </section>
