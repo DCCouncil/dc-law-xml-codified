@@ -2,12 +2,15 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-218.91</num>
   <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 10, 2021.*
+      *NOTE: This section was created by temporary legislation that will expire on February 4, 2022.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§2-218.91(Perm)">Permanent Version</cite>.*
       </text>
   <heading>Certified Business Enterprise assistance.</heading>
   <para>
     <num>(a)</num>
-    <text>Notwithstanding <cite path="2|2|IX-A">subchapter IX-A of this chapter</cite>, or any other provision of District law or regulation, during the period of the COVID-19 emergency, any contract for a government-assisted project in excess of $250,000 that is unrelated to the District's response to the COVID-19 emergency but entered into during the COVID-19 emergency, absent a waiver pursuant to <cite path="§2-218.51">§ 2-218.51</cite>, shall provide that:</text>
+    <text>Notwithstanding <cite path="2|2|IX-A">subchapter IX-A of this chapter</cite>, or any other provision of District law or regulation, during the period from March 11, 2020, until November 5, 2021, any contract for a government-assisted project in excess of $250,000 that is unrelated to the District's response to the COVID-19 emergency but entered into during the COVID-19 emergency, absent a waiver pursuant to <cite path="§2-218.51">§ 2-218.51</cite>, shall provide that:</text>
     <para>
       <num>(1)</num>
       <text>At least 50% of the dollar volume of the contract be subcontracted to small business enterprises; or</text>
@@ -18,7 +21,7 @@
     </para>
   </para>
   <para>
-    <num>(a-1)</num>
+    <num>(b)</num>
     <text>Notwithstanding subsection (a) of this section, a certified business enterprise awarded a contract for a government-assisted project in excess of $250,000 that is unrelated to the District's response to the COVID-19 emergency but entered into during the COVID-19 emergency shall:</text>
     <para>
       <num>(1)</num>
@@ -30,7 +33,7 @@
     </para>
   </para>
   <para>
-    <num>(a-2)</num>
+    <num>(c)</num>
     <text>Notwithstanding subsection (a) of this section, a certified joint venture awarded a contract for a government-assisted project in excess of $250,000 that is unrelated to the District's response to the COVID-19 emergency but entered into during the COVID-19 emergency shall:</text>
     <para>
       <num>(1)</num>
@@ -42,7 +45,7 @@
     </para>
   </para>
   <para>
-    <num>(b)</num>
+    <num>(d)</num>
     <para>
       <num>(1)</num>
       <text>For every dollar expended by a beneficiary with a resident-owned business, the beneficiary shall receive a credit for $1.10 against the CBE minimum expenditure.</text>
@@ -57,7 +60,7 @@
     </para>
   </para>
   <para>
-    <num>(c)</num>
+    <num>(e)</num>
     <text>For the purposes of this section, the term:</text>
     <para>
       <num>(1)</num>
@@ -93,24 +96,39 @@
     </para>
   </para>
   <para>
-    <num>(d)</num>
+    <num>(f)</num>
     <text>Contracts entered into on an emergency basis or that are made in furtherance of, or that are related to, the District's response to the COVID-19 emergency shall not be subject to the requirements of <cite path="2|2|IX-A">subchapter IX-A of this chapter</cite> or <cite path="2|2|X">subchapter X of this chapter</cite>.</text>
   </para>
-  <codify:annotation doc="D.C. Code" path="§2-218.91" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§2-218.91"><cite doc="D.C. Act 23-524" path="3|(a)">For temporary (90 days) amendment of this section, see § 3(a) of Coronavirus Public Health Extension Emergency Amendment Act of 2020 (D.C. Act 23-524, Dec. 18, 2020, 67 DCR 14747)</cite>.
-</codify:annotation>
-  <codify:emergency doc="D.C. Code" path="§2-218.91" action="creation of this section" codified:doc="D.C. Code" codified:path="§2-218.91" codified:display="Note"/>
+  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§2-218.82" expire="2021-06-24" codified:display="Note">For temporary (225 days) creation of § 2-218.91, see <cite doc="D.C. Law 24-9" path="§203">§ 203 of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Temporary Legislation" doc="D.C. Code" path="§2-218.91" applicability="2021-06-24" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-218.91">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-9" path="§203">§ 203 of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</codify:annotation>
   <codify:insert doc="D.C. Code" path="§2-218.91" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-218.91">
     <text>
-      *NOTE: This section was created by emergency legislation that will expire on June 10, 2021.*
+      *NOTE: This section was created by temporary legislation that will expire on February 4, 2022.*
       </text>
   </codify:insert>
+  <codify:annotation doc="D.C. Code" path="§2-218.91" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§2-218.91">
+        For temporary (90 days) amendment to this section, see <cite doc="D.C. Act 23-524" path="§3">§ 3 of D.C. Act 23-524</cite>.
+      </codify:annotation>
   <annotations>
-    <annotation doc="D.C. Law 16-33" type="History" path="§2318" display="false">Oct. 20, 2005, D.C. Law 16-33, § [2318]</annotation>
-    <annotation app="2020-10-20" doc="D.C. Law 23-147" eff="2020-10-20" path="§2|(a)" type="History" display="false"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§203" type="History" display="false"/>
-    <annotation app="2021-03-17" doc="D.C. Act 24-30" eff="2021-03-17" path="§203" type="History"/>
-    <annotation doc="D.C. Act 24-30" path="§203" type="Emergency Legislation" history="false" app="2021-03-17" eff="2021-03-17"><cite doc="D.C. Act 23-524" path="3|(a)">For temporary (90 days) amendment of this section, see § 3(a) of Coronavirus Public Health Extension Emergency Amendment Act of 2020 (D.C. Act 23-524, Dec. 18, 2020, 67 DCR 14747)</cite>.
-</annotation>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§203" codified:display="Note" app="2021-03-17" eff="2021-03-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-30" path="§203">§ 203 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-326" path="§203" codified:display="Note" app="2021-06-24" eff="2020-05-27">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-326" path="§203">§ 203 of Coronavirus Support Emergency Amendment Act of 2020 (D.C. Act 23-326, May 27, 2020, 67 DCR 7045)</cite>.</annotation>
+    <annotation app="2021-06-24" doc="D.C. Act 23-326" eff="2020-05-27" path="§203" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-328" path="§203" codified:display="Note" app="2021-06-24" eff="2020-06-08">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-328" path="§203">§ 203 of Coronavirus Support Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-328, June 8, 2020, 67 DCR 7598)</cite>.</annotation>
+    <annotation app="2021-06-24" doc="D.C. Act 23-328" eff="2020-06-08" path="§203" type="History" display="false"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§203" codified:display="Note" app="2021-06-24" eff="2020-10-09">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 23-130" path="§203">§ 203 of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
+    <annotation app="2021-06-24" doc="D.C. Law 23-130" eff="2020-10-09" path="§203" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-30" path="§203" codified:display="Note" app="2021-06-24" eff="2021-03-17">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-30" path="§203">§ 203 of Coronavirus Support Emergency Amendment Act of 2021 (D.C. Act 24-30, Mar. 17, 2021, 68 DCR 003101)</cite>.</annotation>
+    <annotation app="2021-06-24" doc="D.C. Act 24-30" eff="2021-03-17" path="§203" type="History" display="false"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-96" path="§203" codified:display="Note" app="2021-06-24" eff="2021-06-07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-96" path="§203">§ 203 of Coronavirus Support Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-96, June 7, 2021, 68 DCR 006025)</cite>.</annotation>
+    <annotation app="2021-06-24" doc="D.C. Act 24-96" eff="2021-06-07" path="§203" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="II" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§203" type="History" display="false"/>
+    <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§203" type="History"/>
+    <annotation doc="D.C. Law 24-9" path="§203" type="Emergency Legislation" history="false" app="2021-06-24" eff="2021-06-24">
+        For temporary (90 days) amendment to this section, see <cite doc="D.C. Act 23-524" path="§3">§ 3 of D.C. Act 23-524</cite>.
+      </annotation>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§203" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-9" path="§203">§ 203 of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(g)" type="History" display="false"/>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(g)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-125" path="§3|(g)" codified:display="Note" app="2021-07-24" eff="2021-07-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-125" path="§3|(g)">§ 3(g) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Emergency Amendment Act of 2021 (D.C. Act 24-125, July 24, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

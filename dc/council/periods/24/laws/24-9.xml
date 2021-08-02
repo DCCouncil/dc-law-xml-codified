@@ -322,10 +322,10 @@
             <para>
               <num>(h)</num>
               <text>The rights provided to an employee under this section may not be diminished by any collective bargaining agreement or any employment benefit program or plan; except, that this section shall not supersede any clause on family or medical leave in a collective bargaining agreement in force on the applicability date of this section for the time that the collective bargaining agreement is in effect.</text>
-              <para>
-                <num>(i)</num>
-                <text>For the purposes of this section, the term "COVID-19 public health emergency" means the emergencies declared in the Declaration of Public Emergency (Mayor's Order 2020-045) together with the Declaration of Public Health Emergency (Mayor's Order 2020-046), declared on March 11, 2020, including any extension of those declared emergencies.</text>
-              </para>
+            </para>
+            <para>
+              <num>(i)</num>
+              <text>For the purposes of this section, the term "COVID-19 public health emergency" means the emergencies declared in the Declaration of Public Emergency (Mayor's Order 2020-045) together with the Declaration of Public Health Emergency (Mayor's Order 2020-046), declared on March 11, 2020, including any extension of those declared emergencies.</text>
             </para>
             <annotation doc="D.C. Law 8-181" type="History" path="§3a">Oct. 3, 1990, D.C. Law 8-181, § 3a</annotation>
           </section>
@@ -712,36 +712,15 @@
       </text>
       </codify:insert>
     </section>
+    <codify:insert doc="D.C. Code" path="2|2" after="IX-A" history="false" codified:doc="D.C. Code" codified:path="2|2|IX-B">
+      <container>
+        <prefix>Subchapter</prefix>
+        <num>IX-B</num>
+        <heading>Small and Local Business Enterprise Development Assistance During the COVID-19 emergency.</heading>
+      </container>
+    </codify:insert>
     <section>
-      <num>202</num>
-      <heading>Contractor advance payment.</heading>
-      <para>
-        <num undesignated="true">(a)</num>
-        <text>Section 2349 of the Small and Certified Business Enterprise Development and Assistance Act of 2005, effective October 20, 2005 (D.C. Law 16-33; D.C. Official Code § 2-218.49), is amended as follows:</text>
-        <para>
-          <num>(1)</num>
-          <text>Subsection (a)(2) is amended by striking the phrase "A policy" and inserting the phrase "Except as provided in subsection (a-1) of this section, a policy" in its place.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A new subsection (a-1) is added to read as follows:</text>
-          <include>
-            <para>
-              <num>(a-1)</num>
-              <text>During a period of time for which the Mayor has declared a public health emergency ("PHE") pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), an agency may make advance payments to a certified contractor for purchases related to the PHE when the payments are necessary to achieve the purposes of this subtitle and may provide an advance of more than 10% of the total value of the contract.</text>
-            </para>
-          </include>
-          <aftertext>.</aftertext>
-        </para>
-      </para>
-      <codify:temporary doc="D.C. Code" path="§2-218.49" codified:doc="D.C. Code" codified:path="§2-218.49" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§2-218.49" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-218.49">
-        <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on February 4, 2022. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§2-218.49(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
-    </section>
-    <section>
+      <codify:insert path="2|2|IX-B" num-value="2-218.91" codified:doc="D.C. Code" codified:path="§2-218.91"/>
       <num>203</num>
       <heading>Certified Business Enterprise assistance.</heading>
       <para>
@@ -835,7 +814,15 @@
         <num>(f)</num>
         <text>Contracts entered into on an emergency basis or that are made in furtherance of, or that are related to, the District's response to the COVID-19 emergency shall not be subject to the requirements of <code-cite doc="D.C. Code" path="2|2|IX-A">the CBE Act</code-cite> or <code-cite doc="D.C. Code" path="2|2|X">the First Source Employment Agreement Act of 1984, effective June 29, 1984 (D.C. Law 5-93; D.C. Official Code § 2-219.01 <em>et seq.</em>)</code-cite>.</text>
       </para>
-      <codify:temporary doc="D.C. Code" path="§2-218.82" action="creation of § 2-218.91" codified:doc="D.C. Code" codified:path="§2-218.82" codified:display="Note"/>
+      <codify:temporary-new-sec doc="D.C. Code" path="§2-218.91" interim-path="§2-218.82" perm-eff="2021-06-24" codified:doc="D.C. Code" codified:path="§2-218.91" codified:display="Note"/>
+      <codify:insert doc="D.C. Code" path="§2-218.91" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-218.91">
+        <text>
+      *NOTE: This section was created by temporary legislation that will expire on February 4, 2022.*
+      </text>
+      </codify:insert>
+      <codify:annotation doc="D.C. Code" path="§2-218.91" type="Emergency Legislation" history="false" codified:doc="D.C. Code" codified:path="§2-218.91">
+        For temporary (90 days) amendment to this section, see <cite doc="D.C. Act 23-524" path="§3">§ 3 of D.C. Act 23-524</cite>.
+      </codify:annotation>
     </section>
     <section>
       <num>204</num>
@@ -3991,30 +3978,6 @@
             <find>District of Columbia government;</find>
             <replace>District of Columbia government; provided further, that a summary of each emergency procurement entered into during a period for which a public health emergency is declared shall be provided to the Council no later than 7 days after the contract is awarded.  The summary shall include:</replace>
           </codify:find-replace>
-          <codify:insert codified:doc="D.C. Code" codified:path="§7-2304|(b)|(2)|(A)">
-            <para>
-              <num>(A)</num>
-              <text>A description of the goods or services procured;</text>
-            </para>
-          </codify:insert>
-          <codify:insert codified:doc="D.C. Code" codified:path="§7-2304|(b)|(2)|(B)">
-            <para>
-              <num>(B)</num>
-              <text>The source selection method;</text>
-            </para>
-          </codify:insert>
-          <codify:insert codified:doc="D.C. Code" codified:path="§7-2304|(b)|(2)|(C)">
-            <para>
-              <num>(C)</num>
-              <text>The award amount; and</text>
-            </para>
-          </codify:insert>
-          <codify:insert codified:doc="D.C. Code" codified:path="§7-2304|(b)|(2)|(D)">
-            <para>
-              <num>(D)</num>
-              <text>The name of the awardee.</text>
-            </para>
-          </codify:insert>
         </para>
         <para codify:path="(13)">
           <num>(3)</num>

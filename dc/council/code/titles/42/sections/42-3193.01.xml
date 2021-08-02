@@ -1,22 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>42-3193.01</num>
   <text>
-      *NOTE: This section was created by temporary legislation that will expire on February 4, 2022.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation, click this link: <cite doc="D.C. Law 24-9" path="§403">Temporary Version</cite>.*
+      </text>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation, click this link: <cite doc="D.C. Law 24-9" path="§404">Temporary Version</cite>.*
       </text>
   <heading>Residential cleaning.</heading>
-  <para>
-    <num>(a)</num>
-    <text>During a period of time for which a public health emergency has been declared pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, the owner or representative of the owner of a housing accommodation shall clean common areas of the housing accommodation on a regular basis, including surfaces that are regularly touched, such as doors, railings, seating, and the exterior of mailboxes.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>For the purposes of this section "housing accommodation" means any structure or building in the District containing one or more residential units that are not occupied by the owner of the housing accommodation, including any apartment, efficiency apartment, room, accessory dwelling unit, cooperative, homeowner association, condominium, multifamily apartment building, nursing home, assisted living facility, or group home.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>The Mayor may, pursuant to <cite path="2|5|I">subchapter I of Chapter 5 of Title 2</cite>, promulgate rules to implement this section.</text>
-  </para>
+  <text>Repealed.</text>
   <codify:temporary doc="D.C. Code" path="§42-3193.01" action="creation of this section" codified:doc="D.C. Code" codified:path="§42-3193.01" codified:display="Note"/>
   <codify:insert doc="D.C. Code" path="§42-3193.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3193.01">
     <text>
@@ -36,5 +29,10 @@
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§403" type="History" display="false"/>
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§403" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-9" path="§403" codified:display="Note" app="2021-06-24" eff="2021-06-24">For temporary (225 days) creation of this section, see <cite doc="D.C. Law 24-9" path="§403">§ 403 of Coronavirus Support Temporary Amendment Act of 2021 (D.C. Law 24-9, June 24, 2021, 68 DCR 004824)</cite>.</annotation>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(s)" type="History" display="false"/>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(t)" type="History" display="false"/>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(s)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-125" path="§3|(s)" codified:display="Note" app="2021-07-24" eff="2021-07-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-125" path="§3|(s)">§ 3(s) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Emergency Amendment Act of 2021 (D.C. Act 24-125, July 24, 2021, 0 DCR 0)</cite>.</annotation>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-125" path="§3|(t)" codified:display="Note" app="2021-07-24" eff="2021-07-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-125" path="§3|(t)">§ 3(t) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Emergency Amendment Act of 2021 (D.C. Act 24-125, July 24, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

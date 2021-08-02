@@ -1,10 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-815.05</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-815.05(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Foreclosure moratorium during a public health emergency.</heading>
   <para>
     <num>(a)</num>
-    <text>Notwithstanding any provision of District law, during a period of time for which the Mayor has declared a public health emergency pursuant to <cite path="§7-2304.01">§ 7-2304.01</cite>, and for 60 days thereafter, no residential foreclosure:</text>
+    <text>Notwithstanding any provision of District law, during the period of time from March 11, 2020, until November 5, 2021, no residential foreclosure:</text>
     <para>
       <num>(1)</num>
       <text>May be initiated or conducted under <cite path="§42-815">§ 42-815</cite> or <cite path="§42-816">§ 42-816</cite>; or</text>
@@ -20,5 +23,8 @@
   </para>
   <annotations>
     <annotation app="2021-06-24" doc="D.C. Law 24-9" eff="2021-06-24" path="§408|(a)" type="History"/>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(w)" type="History" display="false"/>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§3|(w)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-125" path="§3|(w)" codified:display="Note" app="2021-07-24" eff="2021-07-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-125" path="§3|(w)">§ 3(w) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Emergency Amendment Act of 2021 (D.C. Act 24-125, July 24, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
