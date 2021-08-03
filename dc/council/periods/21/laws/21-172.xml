@@ -117,7 +117,7 @@
     <para>
       <num>(c)</num>
       <text>Section 501(a) (D.C. Official Code § 42-3505.01(a)) is amended by striking the phrase "the rental unit" and inserting the phrase "the rental unit; provided, that the nonpayment of a late fee shall not be the basis for an eviction" in its place.</text>
-      <codify:find-replace doc="D.C. Code" path="§42-3505.01|(a)" count="1" codified:doc="D.C. Code" codified:path="§42-3505.01|(a)">
+      <codify:find-replace doc="D.C. Code" path="§42-3505.01|(a)" count="1" codified:doc="D.C. Code" codified:path="§42-3505.01|(a)|(1)">
         <find>the rental unit</find>
         <replace>the rental unit; provided, that the nonpayment of a late fee shall not be the basis for an eviction</replace>
       </codify:find-replace>
