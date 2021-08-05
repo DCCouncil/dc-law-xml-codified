@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-523.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on October 27, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-523.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Mayoral nominees.</heading>
   <para>
     <num>(a)</num>
@@ -179,11 +182,15 @@
     </para>
     <para>
       <num>[(38)]</num>
-      <text>The Corrections Information Council, established by <cite path="§24-101.01">§ 24-101.01</cite>; and</text>
+      <text>The Corrections Information Council, established by <cite path="§24-101.01">§ 24-101.01</cite>;</text>
     </para>
     <para>
       <num>[(39)]</num>
-      <text>The District of Columbia Sentencing Commission, established by <cite path="§3-101|(a)">§ 3-101(a)</cite>.</text>
+      <text>The District of Columbia Sentencing Commission, established by <cite path="§3-101|(a)">§ 3-101(a)</cite>; and</text>
+    </para>
+    <para>
+      <num>(40)</num>
+      <text>Use of Force Review Board, established by <cite path="§5-1151">§ 5-1151</cite>.</text>
     </para>
   </para>
   <para>
@@ -781,5 +788,10 @@
     <annotation doc="D.C. Act 24-102" path="§2" type="Applicability" history="false" app="2021-06-17" eff="2021-06-17"><cite doc="D.C. Act 24-102" path="§2"> Section 2 of D.C. Act 24-102</cite> provided that subsection (a)(1) of this section shall not apply to the compensation of a person serving in an interim capacity as the State Superintendent of Education from April 6, 2021 through December 31, 2021.
     </annotation>
     <annotation app="2021-06-17" doc="D.C. Act 24-102" eff="2021-06-17" path="§2" type="History" display="false"/>
+    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§107" type="History" display="false"/>
+    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§107|(a)" type="History"/>
+    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§107|(b)" type="History"/>
+    <annotation app="2021-07-29" doc="D.C. Act 24-128" eff="2021-07-29" path="§107|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-128" path="§107" codified:display="Note" app="2021-07-29" eff="2021-07-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-128" path="§107">§ 107 of Comprehensive Policing and Justice Reform Emergency Amendment Act of 2021 (D.C. Act 24-128, July 29, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
