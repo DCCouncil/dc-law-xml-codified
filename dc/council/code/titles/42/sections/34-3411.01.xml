@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>34-3411.01</num>
+  <text>
+      *NOTE: This section was created by emergency legislation that will expire on October 22, 2021.*
+      </text>
   <heading>STAY DC Improvements.</heading>
   <para>
     <num>(a)</num>
@@ -53,14 +56,16 @@
       <text>DC Healthcare Alliance.</text>
     </para>
   </para>
-  <codify:emergency doc="D.C. Code" path="§51-181" action="creation of this section" codified:doc="D.C. Code" codified:path="§51-181" codified:display="Note"/>
-  <codify:insert doc="D.C. Code" path="§51-181" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§51-181">
+  <codify:emergency doc="D.C. Code" path="§34-3411.01" action="creation of this section" codified:doc="D.C. Code" codified:path="§34-3411.01" codified:display="Note"/>
+  <codify:insert doc="D.C. Code" path="§34-3411.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§34-3411.01">
     <text>
       *NOTE: This section was created by emergency legislation that will expire on October 22, 2021.*
       </text>
   </codify:insert>
   <annotations>
     <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="" type="History" display="false"/>
+    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§4" type="History" display="false"/>
     <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§4" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-125" path="§4" codified:display="Note" app="2021-07-24" eff="2021-07-24">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-125" path="§4">§ 4 of Public Emergency Extension and Eviction and Utility Moratorium Phasing Emergency Amendment Act of 2021 (D.C. Act 24-125, July 24, 2021, 68 DCR 007342)</cite>.</annotation>
   </annotations>
 </section>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>6-1110.02</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 3, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§6-1110.02(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Targeted Homeowner Grant Program.</heading>
   <para>
     <num>(a)</num>
@@ -110,6 +113,21 @@
     <text>A taxpayer who has a household income of more than 90% of area median income shall be required to match the grant by contributing a minimum of 50% of the cost of the rehabilitation; except, that the match requirement shall be a minimum of 40% for a taxpayer in the Anacostia Historic District.</text>
   </para>
   <para>
+    <num>(g-1)</num>
+    <para>
+      <num>(1)</num>
+      <text>A grant may be made to a qualified taxpayer under subsection (e)(1) of this section who owns a unit in a multifamily common interest community, as defined in <cite path="§42-2071|(3)">§ 42-2071(3)</cite>, located in Square 2594, for the cost of rehabilitation by the common interest community attributable to the taxpayer.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Mayor shall ensure that all funds granted to a taxpayer who owns a unit in a common interest community are used to pay for the approved rehabilitation work.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>If the grant is to be used for the cost of rehabilitation to common elements, as defined in <cite path="§42-2071|(2)">§ 42-2071(2)</cite>, the preservation covenant required under subsection (i) of this section must be entered into by the unit owners' association or, if applicable, the master association.</text>
+    </para>
+  </para>
+  <para>
     <num>(h)</num>
     <text>The Mayor shall:</text>
     <para>
@@ -197,5 +215,8 @@
     <annotation app="2020-12-23" doc="D.C. Law 23-162" eff="2020-12-23" path="§2|(a)" type="History"/>
     <annotation app="2020-12-23" doc="D.C. Law 23-162" eff="2020-12-23" path="§2|(b)" type="History"/>
     <annotation app="2020-12-23" doc="D.C. Law 23-162" eff="2020-12-23" path="§2|(c)" type="History"/>
+    <annotation app="2021-08-05" doc="D.C. Act 24-157" eff="2021-08-05" path="§2" type="History" display="false"/>
+    <annotation app="2021-08-05" doc="D.C. Act 24-157" eff="2021-08-05" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-157" path="§2" codified:display="Note" app="2021-08-05" eff="2021-08-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-157" path="§2">§ 2 of Targeted Historic Preservation Assistance Emergency Amendment Act of 2021 (D.C. Act 24-157, Aug. 5, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>
