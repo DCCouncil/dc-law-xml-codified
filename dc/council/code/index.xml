@@ -4,7 +4,7 @@
   <meta>
     <effective>0001-01-01</effective>
     <recency through="2021-08-05">
-      <law doc="D.C. Law 24-11">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
+      <law doc="D.C. Law 24-15">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
       <emergency doc="D.C. Act 24-158">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
       <federal doc="Pub. L. 116-283">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
     </recency>
