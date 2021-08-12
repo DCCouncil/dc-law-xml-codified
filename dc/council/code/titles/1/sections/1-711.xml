@@ -2,7 +2,7 @@
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-711</num>
   <text>
-      *NOTE: This section includes amendments by temporary legislation that will expire on March 10, 2022. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite path="§1-711(Perm)">Permanent Version</cite>.*
+      *NOTE: This section includes amendments by emergency legislation that will expire on August 1, 2021. To view the text of this section after the expiration of the emergency legislation, click this link: <cite path="§1-711(Perm)">Permanent Version</cite>.*
       </text>
   <heading>District of Columbia Retirement Board.</heading>
   <para>
@@ -227,7 +227,7 @@
       </para>
       <para>
         <num>(D)</num>
-        <text>Notwithstanding any provision of law, the annual salary of the Executive Director shall be fixed by the Board as it considers necessary at a rate not to exceed 135% of the highest step of Grade E5 of the Executive Service.</text>
+        <text>Notwithstanding any other provision of law, the annual salary of the Executive Director shall be fixed by the Board as it considers necessary at a rate not to exceed 135% of the highest step of Grade E5 of the Executive Service.</text>
       </para>
     </para>
   </para>
@@ -316,10 +316,8 @@
     <annotation type="Cross References">Police and Firemen’s Retirement and Relief Board, compensation of members, see <cite path="§1-611.08">§ 1-611.08</cite>.</annotation>
     <annotation type="Cross References">District of Columbia Retirement Board, administrative leave, see <cite path="§1-612.03">§ 1-612.03</cite>.</annotation>
     <annotation app="2019-05-23" doc="D.C. Law 22-315" eff="2019-05-23" path="§4" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-64" path="§2" codified:display="Note" app="2021-05-05" eff="2021-05-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-64" path="§2">§ 2 of District of Columbia Retirement Board Leadership Emergency Amendment Act of 2021 (D.C. Act 24-64, May 5, 2021, 68 DCR 004901)</cite>.</annotation>
     <annotation app="2021-05-05" doc="D.C. Act 24-64" eff="2021-05-05" path="§2" type="History" display="false"/>
-    <annotation app="2021-07-28" doc="D.C. Law 24-14" eff="2021-07-28" path="§2" type="History" display="false"/>
-    <annotation app="2021-07-28" doc="D.C. Law 24-14" eff="2021-07-28" path="§2" type="History"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-14" path="§2" codified:display="Note" app="2021-07-28" eff="2021-07-28">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-14" path="§2">§ 2 of District of Columbia Retirement Board Leadership Temporary Amendment Act of 2021 (D.C. Law 24-14, July 28, 2021, 68 DCR 005856)</cite>.</annotation>
+    <annotation app="2021-05-05" doc="D.C. Act 24-64" eff="2021-05-05" path="§2" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-64" path="§2" codified:display="Note" app="2021-05-05" eff="2021-05-05">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-64" path="§2">§ 2 of District of Columbia Retirement Board Leadership Emergency Amendment Act of 2021 (D.C. Act 24-64, May 5, 2021, 68 DCR 004901)</cite>.</annotation>
   </annotations>
 </section>
