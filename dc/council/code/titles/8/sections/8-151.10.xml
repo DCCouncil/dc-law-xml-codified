@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-151.10</num>
+  <text>
+      *NOTE: Law 24-16, which amended this section, is not funded. Those amendments have not been included in this section.*
+      </text>
   <heading>Rulemaking.</heading>
   <para>
     <num>(a)</num>
@@ -51,6 +54,11 @@
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6032|(d)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§6033|(a)" type="History" display="false"/>
     <annotation doc="D.C. Law 22-168" path="§6033|(a)" type="Applicability" history="false" app="2018-10-30" eff="2018-10-30"><cite doc="D.C. Law 22-168" path="§6033">Section 6033 of D.C. Law 22-168</cite> repealed <cite doc="D.C. Law 21-254" path="§501|(a)">§ 501(a) of D.C. Law 21-254</cite>. Therefore the changes made to this section by <cite doc="D.C. Law 21-254">D.C. Law 21-254</cite> have been implemented.</annotation>
+    <annotation app="2021-07-29" doc="D.C. Law 24-16" eff="2021-07-29" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 24-16" eff="2021-07-29" path="§2|(b)|(1)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 24-16" eff="2021-07-29" path="§2|(b)|(2)" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 24-16" path="§2|(b)" codified:display="Note" app="2021-07-29" eff="2021-07-29">Applicability of <cite doc="D.C. Law 24-16" path="">D.C. Law 24-16</cite>: <cite doc="D.C. Law 24-16" path="§4">§ 4 of D.C. Law 24-16</cite> provided that the change made to this section by <cite doc="D.C. Law 24-16" path="§2|(b)">§ 2(b) of D.C. Law 24-16</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-07-29" doc="D.C. Law 24-16" eff="2021-07-29" path="§2|(b)" type="History"/>
   </annotations>
   <para>
     <num>(c)</num>
@@ -70,5 +78,9 @@
       <num>(4)</num>
       <text>For the purposes of this subsection, the term "Railroad Advisory Board" means the Railroad Advisory Board established by <cite path="§35-332">§ 35-332</cite>.</text>
     </para>
+  </para>
+  <para placeholder="Not Funded">
+    <num>(d)</num>
+    <text>Not Funded.</text>
   </para>
 </section>
