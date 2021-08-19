@@ -1,9 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <num>42-3505.01a</num>
-  <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§42-3505.01a(Perm)">Permanent Version</cite>.*
-      </text>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
+  <num>42-3505.01a(Perm)</num>
   <heading>Storage and disposal of tenants' personal property upon eviction.</heading>
   <para>
     <num>(a)</num>
@@ -13,7 +10,7 @@
     <num>(b)</num>
     <para>
       <num>(1)</num>
-      <text>In addition to any notification from the United States Marshals Service ("Marshals") to the tenant of the date of eviction, a housing provider shall deliver to the tenant a notice confirming the date of eviction by using the following methods:</text>
+      <text>In addition to any notification from the United States Marshals Service ("Marshals") to the tenant of the date of eviction, a housing provider shall deliver to the tenant a notice confirming the date of eviction not fewer than 21 days before the date of eviction by using the following methods:</text>
       <para>
         <num>(A)</num>
         <text>Telephone or electronic communication, including by email or mobile text message;</text>
@@ -26,14 +23,6 @@
         <num>(C)</num>
         <text>Conspicuous posting at the tenant's rental unit in a manner reasonably calculated to provide notice.</text>
       </para>
-    </para>
-    <para>
-      <num>[(1A)]</num>
-      <text>For a rescheduled eviction authorized prior to March 11, 2020, a housing provider shall deliver to the tenant the notice required in paragraph (1) of this subsection not fewer than 30 days prior to the new date.</text>
-    </para>
-    <para>
-      <num>[(1B)]</num>
-      <text>For evictions other than those covered in paragraph (1-A) [(1A)] of this subsection, a housing provider shall deliver to the tenant the notice required in paragraph (1) of this subsection not fewer than 21 days prior to the new date.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -193,12 +182,7 @@
     <text>For the purposes of this section, the term "time of eviction" means the time at which the Marshals execute a writ of restitution.</text>
   </para>
   <annotations>
-    <annotation doc="D.C. Law 6-10" type="History" path="§501a">July 17, 1985, D.C. Law 6-10, § 501a</annotation>
-    <annotation app="2019-03-13" doc="D.C. Law 22-245" eff="2019-03-13" path="§2|(b)" prefix="as added" type="History"/>
-    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§5|(b)|(2)" type="History" display="false"/>
-    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§5|(b)|(2)|(A)" type="History"/>
-    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§5|(b)|(2)|(B)" type="History"/>
-    <annotation app="2021-07-24" doc="D.C. Act 24-125" eff="2021-07-24" path="§5|(b)|(2)|(C)" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-125" path="§5|(b)|(2)" codified:display="Note" app="2021-07-24" eff="2021-07-24">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-125" path="§5|(b)|(2)">§ 5(b)(2) of Public Emergency Extension and Eviction and Utility Moratorium Phasing Emergency Amendment Act of 2021 (D.C. Act 24-125, July 24, 2021, 68 DCR 007342)</cite>.</annotation>
+    <annotation doc="D.C. Law 6-10" type="History" path="§501">July 17, 1985, D.C. Law 6-10, § 501, 32 DCR 3089</annotation>
+    <annotation doc="D.C. Law 22-245" type="History" path="§2|(b)">as added, Mar. 13, 2019, D.C. Law 22-245, § 2(b), 66 DCR 962</annotation>
   </annotations>
 </section>
