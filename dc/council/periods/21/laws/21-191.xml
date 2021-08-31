@@ -231,7 +231,7 @@
         <para>
           <num>(A)</num>
           <text>Paragraph (1) is amended by striking the phrase "shall be subject to a civil penalty of $50" and inserting the phrase "may be subject to a civil penalty of $25" in its place.</text>
-          <codify:find-replace path="(c)|(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03|(c)|(1)">
+          <codify:find-replace path="(c)|(1)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03|(c)">
             <find>shall be subject to a civil penalty of $50</find>
             <replace>may be subject to a civil penalty of $25</replace>
           </codify:find-replace>
@@ -239,7 +239,7 @@
         <para>
           <num>(B)</num>
           <text>Paragraph (2) is amended by striking the word "shall" and inserting the word "may" in its place.</text>
-          <codify:find-replace path="(c)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03|(c)|(2)">
+          <codify:find-replace path="(c)|(2)" count="1" codified:doc="D.C. Code" codified:path="§7-1721.03|(c)">
             <find>shall</find>
             <replace>may</replace>
           </codify:find-replace>
