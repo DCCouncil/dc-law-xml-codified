@@ -22,15 +22,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "RPP Voluntary Exclusion Temporary Act of 2020".</text>
-  <codify:insert doc="D.C. Code" path="50" after="25B" history="false" codified:doc="D.C. Code" codified:path="50|25C">
-    <container>
-      <prefix>Chapter</prefix>
-      <num>25C</num>
-      <heading>Residential Parking Permit Voluntary Exclusion.</heading>
-    </container>
-  </codify:insert>
   <section>
-    <codify:insert doc="D.C. Code" path="50|25C" num-value="50-2561" codified:doc="D.C. Code" codified:path="§50-2561"/>
     <num>2</num>
     <heading>RPP voluntary exclusion.</heading>
     <para>
@@ -64,12 +56,7 @@
         <text>Failure of a property owner to provide written notice of a buyer's inability to obtain a residential parking permit associated with the property shall be considered a material breach of the purchase and sales agreement.</text>
       </para>
     </para>
-    <codify:temporary doc="D.C. Code" path="§50-2561" action="creation of this section" codified:doc="D.C. Code" codified:path="§50-2561" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§50-2561" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2561">
-      <text>
-      *NOTE: This section was created by temporary legislation that will expire on August 5, 2021.*
-      </text>
-    </codify:insert>
+    <codify:temporary doc="D.C. Code" path="§50-2552" action="creation of § 50-2561" codified:doc="D.C. Code" codified:path="§50-2552" codified:display="Note"/>
   </section>
   <section>
     <num>3</num>
