@@ -1747,7 +1747,7 @@
           <text>Subsection (q) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(p)" codified:doc="D.C. Code" codified:path="§42-3505.01|(q)"/>
+              <codify:replace path="(q)" codified:doc="D.C. Code" codified:path="§42-3505.01|(q)"/>
               <num>(q)</num>
               <para>
                 <num>(1)</num>

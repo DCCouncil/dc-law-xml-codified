@@ -149,19 +149,12 @@
       </codify:find-replace>
     </section>
   </container>
-  <codify:insert doc="D.C. Code" path="50" after="25B" history="false" codified:doc="D.C. Code" codified:path="50|25C">
-    <container>
-      <prefix>Chapter</prefix>
-      <num>25C</num>
-      <heading>Residential Parking Permit Exclusion.</heading>
-    </container>
-  </codify:insert>
   <container codify:doc="D.C. Code">
     <prefix>TITLE</prefix>
     <num>II</num>
     <heading>RPP EXCLUSION</heading>
     <section>
-      <codify:insert doc="D.C. Code" path="50|25C" num-value="50-2561" codified:doc="D.C. Code" codified:path="§50-2561"/>
+      <codify:insert doc="D.C. Code" path="50|25C" num-value="50-2562" codified:doc="D.C. Code" codified:path="§50-2562"/>
       <num>201</num>
       <heading>RPP exclusion.</heading>
       <para>
@@ -195,7 +188,7 @@
           <text>Failure of a property owner to provide written notice of a buyer's inability to obtain a residential parking permit associated with the property shall be considered a material breach of the purchase and sales agreement.</text>
         </para>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§50-2561" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§50-2561" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§50-2562" applicability-path="§301" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§50-2562" codified:display="Note"/>
     </section>
   </container>
   <container>
@@ -208,7 +201,7 @@
       <para>
         <num>(a)</num>
         <text>Section 201 shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-        <codify:applicability doc="D.C. Law 23-230" path="§201" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2561"/>
+        <codify:applicability doc="D.C. Law 23-230" path="§201" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2562"/>
       </para>
       <para>
         <num>(b)</num>

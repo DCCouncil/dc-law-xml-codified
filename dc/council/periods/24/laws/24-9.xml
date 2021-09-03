@@ -113,11 +113,6 @@
       *NOTE: This section was created by temporary legislation that will expire on February 4, 2022.*
       </text>
       </codify:insert>
-      <codify:insert doc="D.C. Code" path="§51-181" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§51-181">
-        <text>
-      *NOTE: Pursuant to sections 2 and 3 of D.C. Act 24-9, this section shall expire on September 5, 2021.*
-      </text>
-      </codify:insert>
     </section>
     <section codify:doc="D.C. Code">
       <num>102</num>
@@ -138,11 +133,6 @@
         <codify:insert doc="D.C. Code" path="§51-101" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§51-101">
           <text>
       *NOTE: This section includes amendments by temporary legislation that will expire on February 4, 2022. To view the text of this section after the expiration of all emergency and/or temporary legislation, click this link: <cite doc="D.C. Code" path="§51-101(Perm)">Permanent Version</cite>.*
-      </text>
-        </codify:insert>
-        <codify:insert doc="D.C. Code" path="§51-101" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§51-101">
-          <text>
-      *NOTE: Pursuant to sections 2 and 3 of D.C. Act 24-9, subparagraph (A-i) of paragraph (2) of this section shall expire on September 5, 2021.*
       </text>
         </codify:insert>
       </para>
@@ -3067,7 +3057,7 @@
           <text>A new subsection (q-1) is added to read as follows:</text>
           <include>
             <para>
-              <codify:insert after="(p)" codified:doc="D.C. Code" codified:path="§42-3505.01|(q-1)"/>
+              <codify:insert after="(q)" codified:doc="D.C. Code" codified:path="§42-3505.01|(q-1)"/>
               <num>(q-1)</num>
               <para>
                 <num>(1)</num>

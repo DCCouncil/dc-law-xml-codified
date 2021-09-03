@@ -1285,9 +1285,10 @@
   <container>
     <prefix>Chapter</prefix>
     <num>25C</num>
-    <heading>Residential Parking Permit Exclusion.</heading>
-    <annotation app="2021-03-15" doc="D.C. Law 23-230" eff="2021-03-15" path="" type="History" display="false"/>
+    <heading>Residential Parking Permit Voluntary Exclusion.</heading>
+    <annotation app="2020-12-23" doc="D.C. Law 23-164" eff="2020-12-23" path="" type="History" display="false"/>
     <xi:include href="./sections/50-2561.xml"/>
+    <xi:include href="./sections/50-2562.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>

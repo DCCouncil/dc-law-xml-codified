@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>1-1001.08</num>
+  <text>
+      *NOTE: This section includes amendments by temporary legislation that will expire on August 5, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-1001.08(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Qualifications of candidates and electors; nomination and election of Delegate, Chairman of the Council, members of Council, Mayor, Attorney General, and members of State Board of Education; petition requirements; arrangement of ballot.</heading>
   <para>
     <num>(a)</num>
@@ -111,7 +114,14 @@
   </para>
   <para>
     <num>(f)</num>
-    <text>A political party which does not qualify under subsection (d) of this section may have the names of its candidates for President and Vice President of the United States printed on the general election ballot provided a petition nominating the appropriate number of candidates for presidential electors signed by at least 1 per centum of registered qualified electors of the District of Columbia, as shown by the records of the Board as of the 144th day before the date of the presidential election, is presented to the Board on or before the 90th day before the date of the presidential election.</text>
+    <para>
+      <num>(1)</num>
+      <text>Except as provided in paragraph (2) of this subsection, a political party which does not qualify under subsection (d) of this section may have the names of its candidates for President and Vice President of the United States printed on the general election ballot provided a petition nominating the appropriate number of candidates for presidential electors signed by at least 1 per centum of registered qualified electors of the District of Columbia, as shown by the records of the Board as of the 144th day before the date of the presidential election, is presented to the Board on or before the 90th day before the date of the presidential election.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>For the November 3, 2020, General Election, a political party which does not qualify under subsection (d) of this section may have the names of its candidates for President and Vice President of the United States printed on the general election ballot provided a petition nominating the appropriate number of candidates for presidential electors signed by at least 250 registered qualified electors of the District of Columbia, as shown by the records of the Board as of the 144th day before the date of the presidential election, is presented to the Board on or before the 90th day before the date of the presidential election.</text>
+    </para>
   </para>
   <para>
     <num>(g)</num>
@@ -487,8 +497,11 @@
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§804|(d)" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-422" path="§2|(c)" codified:display="Note" app="2020-10-26" eff="2020-10-26">For temporary (90 days) , see <cite doc="D.C. Act 23-422" path="§2|(c)">§ 2(c) of General Election Preparations Congressional Review Emergency Amendment Act of 2020 (D.C. Act 23-422, Oct. 26, 2020, 67 DCR 12827)</cite>.</annotation>
     <annotation app="2020-10-26" doc="D.C. Act 23-422" eff="2020-10-26" path="§2|(c)" type="History" display="false"/>
-    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-167" path="§2|(d)" codified:display="Note" app="2020-12-23" eff="2020-12-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-167" path="§2|(d)">§ 2(d) of General Election Preparations Temporary Amendment Act of 2020 (D.C. Law 23-167, Dec. 23, 2020, 67 DCR 13022)</cite>.</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-167" eff="2020-12-23" path="§2|(d)" type="History" display="false"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-167" eff="2020-12-23" path="§2|(d)|(2)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-167" eff="2020-12-23" path="§2|(d)|(1)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-167" eff="2020-12-23" path="§2|(d)|(3)" type="History"/>
+    <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-167" path="§2|(d)" codified:display="Note" app="2020-12-23" eff="2020-12-23">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-167" path="§2|(d)">§ 2(d) of General Election Preparations Temporary Amendment Act of 2020 (D.C. Law 23-167, Dec. 23, 2020, 67 DCR 13022)</cite>.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(g)|(1)|(A)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(g)|(1)|(B)" type="History"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§2|(g)|(1)|(C)" type="History"/>
