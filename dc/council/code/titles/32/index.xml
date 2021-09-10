@@ -884,5 +884,23 @@
       <heading>IT Community Training and Advisory Board.</heading>
       <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="IV" type="History" display="false"/>
     </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>VII</num>
+      <heading>Nurse Education Enhancement Program.</heading>
+      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="IV" type="History" display="false"/>
+      <xi:include href="./sections/32-1693.01.xml"/>
+      <xi:include href="./sections/32-1693.02.xml"/>
+      <xi:include href="./sections/32-1693.03.xml"/>
+      <xi:include href="./sections/32-1693.04.xml"/>
+      <xi:include href="./sections/32-1693.05.xml"/>
+      <xi:include href="./sections/32-1693.06.xml"/>
+      <xi:include href="./sections/32-1693.07.xml"/>
+      <xi:include href="./sections/32-1693.08.xml"/>
+      <annotation doc="D.C. Act 24-159" path="§4122" type="Editor's Notes" history="false" app="2021-08-23" eff="2021-08-23">
+          Section <cite doc="D.C. Act 24-159" path="§4122">4122 of D.C. Act 24-159</cite> provided that this section shall expire on September 30, 2024.
+        </annotation>
+      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4122" type="History" display="false"/>
+    </container>
   </container>
 </container>
