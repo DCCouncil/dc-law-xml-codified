@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-1163.32e</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 21, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-1163.32e(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Matching payments for qualified small-dollar contributions.</heading>
   <para>
     <num>(a)</num>
@@ -19,15 +22,31 @@
     <text>The maximum amount participating candidates may receive under this section shall be:</text>
     <para>
       <num>(1)</num>
-      <text>For candidates for Mayor and Chairman of the Council, 110% of the average expenditures of the winning candidates for that covered office, respectively, in the prior 4 election cycles (not including special elections);</text>
+      <text>For candidates for Mayor, 110% of the average expenditures per election cycle of all candidates who were elected Mayor in the prior 4 general elections for Mayor;</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>For candidates for Attorney General, 110% of the average expenditures of the winning candidates for that covered office in all prior election cycles, until such time as 4 election cycles for that covered office have been held, after which time, 110% of the average expenditures of the winning candidates for that covered office in the prior 4 election cycles (not including special elections); and</text>
+      <text>For candidates for Chairman of the Council, 110% of the average expenditures per election cycle of all candidates who were elected Chairman of the Council in the prior 4 general elections for Chairman of the Council;</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>For candidates for member of the Council elected at-large or by ward, and for candidates for member of the State Board of Education elected at-large or by ward, 110% of the average expenditures of all winning candidates for that covered office, respectively, in the prior 2 election cycles (not including special elections).</text>
+      <text>For candidates for Attorney General, 110% of the average expenditures per election cycle of all candidates who were elected Attorney General in all prior general elections for Attorney General, until such time as 4 general elections for Attorney General have been held, after which time, 110% of the average expenditures per election cycle of all candidates who were elected Attorney General in the prior 4 general elections for Attorney General;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>For candidates for member of the Council elected at large, 110% of the average expenditures per election cycle of all candidates who were elected member of the Council at large in the prior 2 general elections for member of the Council elected at large;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>For candidates for member of the Council elected by ward, 110% of the average expenditures per election cycle of all candidates who were elected member of the Council by ward in the prior 2 general elections for member of the Council elected by ward;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>For candidates for member of the State Board of Education elected at large, 110% of the average expenditures per election cycle of all candidates who were elected member of the State Board of Education at large in the prior 2 general elections for member of the State Board of Education elected at large; and</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>For candidates for member of the State Board of Education elected by ward, 110% of the average expenditures per election cycle of all candidates who were elected member of the State Board of Education by ward in the prior 2 general elections for member of the State Board of Education elected by ward.</text>
     </para>
   </para>
   <para>
@@ -71,5 +90,8 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-130" path="§803|(b)|(3)" codified:display="Note" app="2020-10-09" eff="2020-10-09">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-130" path="§803|(b)|(3)">§ 803(b)(3) of Coronavirus Support Temporary Amendment Act of 2020 (D.C. Law 23-130, Oct. 9, 2020, 67 DCR 8622)</cite>.</annotation>
     <annotation app="2020-10-09" doc="D.C. Law 23-130" eff="2020-10-09" path="§803|(b)|(3)" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-192" eff="2021-03-16" path="§3|(g)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1022|(c)" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1022|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§1022|(c)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§1022|(c)">§ 1022(c) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

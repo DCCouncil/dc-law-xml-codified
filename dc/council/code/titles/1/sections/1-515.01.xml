@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-515.01</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 21, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-515.01(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Definitions.</heading>
   <text>For the purposes of <cite path="1|5|I-A">this subchapter</cite>:</text>
   <para>
@@ -8,6 +11,18 @@
     <para>
       <num>(1)</num>
       <text>The definitions set forth in <cite path="§1-603.01">§ 1-603.01</cite>, shall apply.</text>
+    </para>
+    <para>
+      <num>(1A)</num>
+      <text>"Common jurisdiction of residence" means a local jurisdiction in which at least 500 District government employees reside; provided, that the counties commonly known as the "eastern shore of Maryland" may be grouped together as one jurisdiction and all counties in West Virginia may be grouped together as one jurisdiction.</text>
+    </para>
+    <para>
+      <num>(1B)</num>
+      <text>"DCHR" means the Department of Human Resources.</text>
+    </para>
+    <para>
+      <num>(1C)</num>
+      <text>"Demographics" means socioeconomic factors such as a District government employee's race, household size, number of dependents, status as a parent of school-aged children, jurisdiction of birth, and household income.</text>
     </para>
     <para>
       <num>(2)</num>
@@ -30,12 +45,45 @@
       </para>
     </para>
     <para>
+      <num>(2A)</num>
+      <text>"Employment information" means:</text>
+      <para>
+        <num>(A)</num>
+        <text>The agency for which the employee works;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The employee's job title, salary, employment service and grade, occupation, and occupational group;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The employee's status as a full-time, part-time, term, or permanent employee; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The employee's status as a highly-compensated employee.</text>
+      </para>
+    </para>
+    <para>
       <num>(3)</num>
       <text>"Highly compensated appointee" means an individual appointed to a position in the Career, Educational, or Management Supervisory Service, except for individuals appointed to a position as an employee of the Board of Trustees of the University of the District of Columbia, for which the starting annual salary is not less than $150,000 or the threshold figure established by the relevant personnel authority pursuant to <cite path="§1-515.03|(c)">§ 1-515.03(c)</cite>.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Jurisdiction of residence" means the city, county, and state, as applicable, in which a District government employee maintains the employee's primary or permanent residence.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Residency-related policies" includes the preference points for District residents who apply for District government employment and the District residency mandates in sections 102 and 103, respectively, or in other District law.</text>
     </para>
   </para>
   <annotations>
     <annotation doc="D.C. Law 17-108" type="History" path="§101">Feb. 6, 2008, D.C. Law 17-108, § 101</annotation>
     <annotation app="2019-05-23" doc="D.C. Law 22-315" eff="2019-05-23" path="§2" prefix="as added" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1072|(a)" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1072|(a)|(1)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1072|(a)|(2)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1072|(a)|(3)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§1072|(a)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§1072|(a)">§ 1072(a) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

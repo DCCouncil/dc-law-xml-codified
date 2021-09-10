@@ -210,7 +210,7 @@
   <section>
     <num>4</num>
     <text>Section 3(9)(A)(i) of the Commission on the Arts and Humanities Act, effective October 21, 1975 (D.C. Law 1-22; D.C. Official Code § 39-202(9)(A)(i)), is amended by striking the phrase "exclusive of District funds" and inserting the phrase "exclusive of District funds other than sponsorships provided by Events DC" in its place.</text>
-    <codify:find-replace doc="D.C. Code" path="§39-202|(9)|(A)|(i)" count="1" codified:doc="D.C. Code" codified:path="§39-202|(9)|(A)|(i)">
+    <codify:find-replace doc="D.C. Code" path="§39-202|(9)|(A)|(i)" count="1" codified:doc="D.C. Code" codified:path="§39-202|(9)">
       <find>exclusive of District funds</find>
       <replace>exclusive of District funds other than sponsorships provided by Events DC</replace>
     </codify:find-replace>

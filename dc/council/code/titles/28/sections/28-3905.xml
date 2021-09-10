@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" containing-doc="D.C. Code">
   <num>28-3905</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 21, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§28-3905(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Complaint procedures.</heading>
   <para>
     <num>(a)</num>
@@ -293,6 +296,25 @@
       <num>(6)</num>
       <text>The right of action established by this subsection shall apply to trade practices arising from landlord-tenant relations.</text>
     </para>
+    <para>
+      <num>(7)</num>
+      <para>
+        <num>(A)</num>
+        <text>Commencement of an action by the Attorney General under <cite path="§28-3909">§ 28-3909</cite>, including the maintenance of an action previously commenced and pending as of October 1, 2021, shall serve to stay until the resolution of the Attorney General's action any civil action that includes any claim that is:</text>
+        <para>
+          <num>(i)</num>
+          <text>Made pursuant to this subsection by a public interest organization or on behalf of the general public; and</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Based in whole or in part on any matter complained of in the action commenced by the Attorney General.</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>A plaintiff that is a public interest organization or is acting on behalf of the general public shall provide notice to the Office of the Attorney General within 10 days of the filing of an action that includes a claim made under this subsection.</text>
+      </para>
+    </para>
   </para>
   <para>
     <num>(l)</num>
@@ -384,5 +406,8 @@
     <annotation app="2019-02-22" doc="D.C. Law 22-206" eff="2019-02-22" path="§2|(a)|(1)" type="History"/>
     <annotation app="2019-02-22" doc="D.C. Law 22-206" eff="2019-02-22" path="§2|(a)|(2)" type="History"/>
     <annotation app="2020-06-17" doc="D.C. Law 23-98" eff="2020-06-17" path="§2|(b)|(2)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1042" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1042" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§1042" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§1042">§ 1042 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 0 DCR 0)</cite>.</annotation>
   </annotations>
 </section>

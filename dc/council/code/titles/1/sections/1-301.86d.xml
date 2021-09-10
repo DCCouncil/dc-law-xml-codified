@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>1-301.86d</num>
+  <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 21, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite path="§1-301.86d(Perm)">Permanent Version</cite>.*
+      </text>
   <heading>Vulnerable Adult and Elderly Person Exploitation Restitution Fund.</heading>
   <para>
     <num>(a)</num>
@@ -8,7 +11,15 @@
   </para>
   <para>
     <num>(b)</num>
-    <text>Awards of restitution and costs to individuals imposed under a court order, judgment, or settlement in any action or investigation brought to enforce to <cite path="§22-933.01">§ 22-933.01</cite>, shall be deposited in the Restitution Fund.</text>
+    <text>Revenue from the following shall be deposited in the Restitution Fund:</text>
+    <para>
+      <num>(1)</num>
+      <text>Awards of restitution and costs to individuals imposed under a court order, judgment, or settlement in any action or investigation brought to enforce to <cite path="§22-933.01">§ 22-933.01</cite>; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Funds collected pursuant to <cite path="§1-350.02|(a-4)|(3)">§ 1-350.02(a-4)(3)</cite>.</text>
+    </para>
   </para>
   <para>
     <num>(c)</num>
@@ -39,6 +50,7 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 18-160" type="History" path="§106d">May 27, 2010, D.C. Law 18-160, § 106d</annotation>
+    <annotation doc="D.C. Law 18-160" type="History" path="§106e" display="false">May 27, 2010, D.C. Law 18-160, § 106e</annotation>
     <annotation codify:doc="D.C. Code" path="§3072|(b)" type="Emergency Legislation" history="false" app="2019-09-11" eff="2019-07-22" doc="D.C. Act 23-91">
           For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-91" path="3072|(b)">§ 3072(b) of the Fiscal Year 2020 Budget Support Emergency Act of 2019 (D.C. Act 23-91, July 22, 2019</cite>, 66 DCR 8497).
         </annotation>
@@ -48,5 +60,9 @@
         </annotation>
     <annotation app="2019-09-11" doc="D.C. Act 23-112" eff="2019-09-04" path="§3072|(b)" type="History" display="false"/>
     <annotation app="2019-09-11" doc="D.C. Law 23-16" eff="2019-09-11" path="§3072|(b)" prefix="as added" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1032|(c)" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1032|(c)" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§1032|(c)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-159" path="§1032|(c)">§ 1032(c) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1093|(b)" type="History" display="false"/>
   </annotations>
 </section>

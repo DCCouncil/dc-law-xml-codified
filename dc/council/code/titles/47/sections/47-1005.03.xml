@@ -45,18 +45,22 @@
         <num>(B)</num>
         <para>
           <num>(i)</num>
-          <text>Is exempt from federal income tax under section 501(c)(3) of the Internal Revenue Code; or</text>
+          <text>Is exempt from federal income tax under section 501(c)(3) of the Internal Revenue Code;</text>
         </para>
         <para>
           <num>(ii)</num>
-          <text>Is a limited liability company, the sole member of which is an entity that is exempt from federal income tax under section 501(c)(3) of the Internal Revenue Code.</text>
+          <text>Is a limited liability company, the sole member of which is an entity that is exempt from federal income tax under section 501(c)(3) of the Internal Revenue Code; or</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Is a limited-equity cooperative as defined by <cite path="§42-2061|(2)">§ 42-2061(2)</cite>.</text>
         </para>
       </para>
     </para>
   </para>
   <para>
     <num>(b)</num>
-    <text>Subject to subsection (d) of this section, land and buildings used by a nonprofit owner to provide rental housing shall be exempt from District of Columbia real property taxation as of the date of acquisition by the nonprofit owner; provided, that beginning no later than 12 months following the date of such acquisition, each of the following requirements has been certified as having been met pursuant to subsection (f) of this section, and thereafter on an annual basis are recertified as having been met pursuant to subsection (f) of this section:</text>
+    <text>Subject to subsection (d) of this section, land and buildings used by a nonprofit owner to provide rental housing shall be exempt from District of Columbia real property taxation as of the date of acquisition by the nonprofit owner; provided, that the land and buildings are acquired by the nonprofit owner in an arm's-length transaction on or after October 1, 2020, or, in the case of a nonprofit owner that is a limited-equity cooperative as defined by <cite path="§42-2061|(2)">[§ 42-2061(2)]</cite>, on or after October 1, 2021; provided further, that beginning no later than 12 months following the date of such acquisition, each of the following requirements has been certified as having been met pursuant to subsection (f) of this section, and thereafter on an annual basis are recertified as having been met pursuant to subsection (f) of this section:</text>
     <para>
       <num>(1)</num>
       <text>Not fewer than 50% of the occupied units are occupied by tenants with household incomes, for the year preceding the later of the date of acquisition by the nonprofit owner or initial occupancy by such tenants, not in excess of 80% of the adjusted median income;</text>
@@ -106,7 +110,7 @@
     </para>
     <para>
       <num>(6)</num>
-      <text>Such nonprofit owner, or its sole member if the nonprofit owner is disregarded for income tax purposes, is the subject of a Determination Letter issued by the Internal Revenue Service providing for recognition under Section 501(c)(3) of the Internal Revenue Code.</text>
+      <text>Such nonprofit owner, or its sole member if the nonprofit owner is disregarded for income tax purposes, is the subject of a Determination Letter issued by the Internal Revenue Service providing for recognition under section 501(c)(3) of the Internal Revenue Code; except, that this requirement shall not apply to a limited-equity cooperative.</text>
     </para>
   </para>
   <para>
@@ -226,5 +230,10 @@
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 23-48" path="§5|(a)" codified:display="Note" app="2020-01-28" eff="2020-01-28">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 23-48" path="§5|(a)">§ 5(a) of Fiscal Year 2020 Budget Support Clarification Temporary Amendment Act of 2019 (D.C. Law 23-48, Jan. 28, 2020, 66 DCR 16179)</cite>.</annotation>
     <annotation app="2020-01-28" doc="D.C. Law 23-48" eff="2020-01-28" path="§5|(a)" type="History" display="false"/>
     <annotation app="2020-03-19" doc="D.C. Law 23-68" eff="2020-03-19" path="§12|(b)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2062|(b)|(1)|(A)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2062|(b)|(1)|(B)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2062|(b)|(1)|(C)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2062|(b)|(2)|(A)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2062|(b)|(2)|(B)" type="History"/>
   </annotations>
 </section>

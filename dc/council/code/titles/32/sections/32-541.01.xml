@@ -8,7 +8,7 @@
   <text>For the purposes of <cite path="32|5|IV">this subchapter</cite>, the term:</text>
   <para>
     <num>(1)</num>
-    <text>"Average weekly wage" means the total wages subject to contribution under <cite path="§32-541.03">§ 32-541.03</cite> earned by an eligible individual during the 4 out of the 5 quarters immediately preceding the qualifying event during which the eligible individual's wages were highest, divided by 52.</text>
+    <text>"Average weekly wage" means the total wages subject to contribution under section 103 earned by an eligible individual during the 4 quarters during which the individual's wages were the highest out of the 5 quarters immediately preceding the qualifying leave event, divided by 52; except, that, for claims filed after October 1, 2021, and before the 365th day after the end of the public health emergency, the term "average weekly wage" means the total wages subject to contribution under section 103 for the 4 quarters during which the individual's wages were the highest out of the 10 quarters immediately preceding the qualifying leave event, divided by 52.</text>
   </para>
   <para>
     <num>(2)</num>
@@ -63,6 +63,26 @@
     </para>
   </para>
   <para>
+    <num>(6A)</num>
+    <text>"Employer contribution rate" means the uniform percentage of covered employees' wages that covered employers must contribute to the Universal Paid Leave Fund, including the percentage of annual self-employment income that a covered employer who is a self-employed individual must contribute, as provided under <cite path="32|5|IV">this subchapter</cite>.</text>
+  </para>
+  <para>
+    <num></num>
+    <text>"Exigent circumstances" means:</text>
+    <para>
+      <num>(A)</num>
+      <text>Physical or mental incapacity that prevents an eligible individual or eligible individual's authorized representative from filing for paid leave benefits following the occurrence of a qualifying leave event;</text>
+    </para>
+    <para>
+      <num>(B)</num>
+      <text>A demonstrable inability to reasonably access the means by which a claim could have been filed by the eligible individual or the eligible individual's authorized representative following the occurrence of a qualifying leave event; or</text>
+    </para>
+    <para>
+      <num>(C)</num>
+      <text>Actual lack of knowledge by an eligible individual of his or her right to apply for paid leave benefits pursuant to this act due to the noncompliance of all of the eligible individual's covered employers with the notice requirements required by section 106(i)(3) during the period when the individual could have received paid leave benefits pursuant to this act; provided, that such employer noncompliance shall be confirmed by the Mayor before the eligible individual shall be eligible for paid leave benefits pursuant to this act.</text>
+    </para>
+  </para>
+  <para>
     <num>(7)</num>
     <text>"Family member" means:</text>
     <para>
@@ -90,13 +110,17 @@
     <num>(8)</num>
     <text>"Health care provider" shall have the same meaning as provided in <cite path="§32-501|(5)">§ 32-501(5)</cite>.</text>
   </para>
-  <para>
+  <para codify:path="(8A)">
     <num>(8A)</num>
     <text>"Insurer" shall have the same meaning as provided in <cite path="§31-2231.01|(7)">§ 31-2231.01(7)</cite>.</text>
   </para>
   <para>
     <num>(9)</num>
     <text>"Intermittent leave" means paid leave taken in increments of no less than one day, rather than for one continuous period of time.</text>
+  </para>
+  <para>
+    <num>(9A)</num>
+    <text>"Miscarriage" means the loss of a pregnancy before 20 weeks' gestation.</text>
   </para>
   <para>
     <num>(10)</num>
@@ -119,24 +143,36 @@
     <text>"Paid-leave benefits" means the monetary benefits provided pursuant to <cite path="32|5|IV">this subchapter</cite>.</text>
   </para>
   <para>
+    <num>(11A)</num>
+    <text>"Pre-natal medical care" means routine and specialty appointments, exams, and treatments associated with a pregnancy provided by a health care provider, including pre-natal check-ups, ultrasounds, treatment for pregnancy complications, bedrest that is required or prescribed by a health care provider, and pre-natal physical therapy.</text>
+  </para>
+  <para>
+    <num>(11B)</num>
+    <text>"Public health emergency" means the Coronavirus (COVID-19) public health emergency declared pursuant to Mayor's Order 2020-046, on March 11, 2020, and all subsequent extensions.</text>
+  </para>
+  <para>
     <num>(12)</num>
-    <text>"Qualifying family leave" means paid leave for up to a maximum amount of 6 workweeks within a 52-workweek period that an eligible individual may take in order to provide care or companionship to a family member because of the occurrence of a qualifying family leave event.</text>
+    <text>"Qualifying family leave" means paid leave that an eligible individual may take in order to provide care or companionship to a family member because of the occurrence of a qualifying family leave event.</text>
   </para>
   <para>
     <num>(13)</num>
     <text>"Qualifying family leave event" means the diagnosis or occurrence of a serious health condition of a family member of an eligible individual.</text>
   </para>
   <para>
+    <num>(13A)</num>
+    <text>"Qualifying leave event" means a qualifying family leave event, a qualifying medical leave event, a qualifying pre-natal leave event, or a qualifying parental leave event.</text>
+  </para>
+  <para>
     <num>(14)</num>
-    <text>"Qualifying medical leave" means paid leave for up to a maximum of 2 workweeks within a 52-workweek period that an eligible individual may take following the occurrence of a qualifying medical leave event.</text>
+    <text>"Qualifying medical leave" means paid leave that an eligible individual may take following the occurrence of a qualifying medical leave event.</text>
   </para>
-  <para>
+  <para codify:path="(15)">
     <num>(15)</num>
-    <text>"Qualifying medical leave event" means the diagnosis or occurrence of a serious health condition of an eligible individual.</text>
+    <text>"Qualifying medical leave event" means, for an eligible individual, the diagnosis or occurrence of a serious health condition, which shall include the occurrence of a stillbirth and the medical care related to a miscarriage.</text>
   </para>
-  <para>
+  <para codify:path="(16)">
     <num>(16)</num>
-    <text>"Qualifying parental leave" means paid leave for up to a maximum of 8 workweeks within a 52-workweek period that an eligible individual may take within one year of the occurrence of a qualifying parental leave event.</text>
+    <text>"Qualifying parental leave" means paid leave that an eligible individual may take within one year of the occurrence of a qualifying parental leave event.</text>
   </para>
   <para>
     <num>(17)</num>
@@ -153,6 +189,14 @@
       <num>(C)</num>
       <text>The placement of a child with an eligible individual for whom the eligible individual legally assumes and discharges parental responsibility.</text>
     </para>
+  </para>
+  <para>
+    <num>(17A)</num>
+    <text>"Qualifying pre-natal leave" means paid leave that an eligible individual who is pregnant may take for pre-natal medical care following the occurrence of a qualifying pre-natal leave event and prior to the occurrence of a qualifying parental leave event.</text>
+  </para>
+  <para>
+    <num>(17B)</num>
+    <text>"Qualifying pre-natal leave event" means the diagnosis of pregnancy by a health care provider.</text>
   </para>
   <para>
     <num>(18)</num>
@@ -266,8 +310,12 @@
     </para>
   </para>
   <para>
+    <num>(20A)</num>
+    <text>"Stillbirth" means the loss of a pregnancy at 20 weeks' gestation or later.</text>
+  </para>
+  <para>
     <num>(21)</num>
-    <text>"Uniform Paid Leave Implementation Fund" means <cite path="§32-551.01">§ 32-551.01</cite></text>
+    <text>"Universal Paid Leave Fund" means the fund established pursuant to <cite path="§32-551.02">§ 32-551.02</cite>.</text>
   </para>
   <para>
     <num>(22)</num>
@@ -295,5 +343,18 @@
     <annotation app="2021-07-29" doc="D.C. Law 24-18" eff="2021-07-29" path="§2|(a)|(1)" type="History"/>
     <annotation app="2021-07-29" doc="D.C. Law 24-18" eff="2021-07-29" path="§2|(a)|(2)" type="History"/>
     <annotation history="false" type="Temporary Legislation" doc="D.C. Law 24-18" path="§2|(a)" codified:display="Note" app="2021-07-29" eff="2021-07-29">For temporary (225 days) amendment of this section, see <cite doc="D.C. Law 24-18" path="§2|(a)">§ 2(a) of Short-term Disability Insurance Benefit Protection Temporary Amendment Act of 2021 (D.C. Law 24-18, July 29, 2021, 68 DCR 006100)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)|(1)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)|(2)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)|(3)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)|(4)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)|(5)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)|(6)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)|(7)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)|(8)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)|(9)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)|(10)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)|(11)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)|(12)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(a)|(13)" type="History"/>
   </annotations>
 </section>
