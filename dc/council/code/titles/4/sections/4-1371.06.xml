@@ -26,13 +26,25 @@
     <num>(b)</num>
     <text>The Committee shall have the authority to seek information from entities and agencies outside the District of Columbia by any legal means.</text>
   </para>
-  <para placeholder="Repealed">
+  <para>
     <num>(c)</num>
-    <text>Repealed.</text>
+    <text>Notwithstanding subsection (a)(1) of this section, information and records concerning a current law enforcement investigation may be withheld, at the discretion of the investigating authority, if disclosure of the information would compromise a criminal investigation.</text>
   </para>
-  <para placeholder="Repealed">
+  <para>
     <num>(d)</num>
-    <text>Repealed.</text>
+    <text>If information or records are withheld under subsection (c) of this section, a report on the status of the investigation shall be submitted to the Committee every 3 months until the earliest of the following events occurs:</text>
+    <para>
+      <num>(1)</num>
+      <text>The investigation is concluded;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The investigating authority determines that providing the information will no longer compromise the investigation; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The information or records are provided to the Committee.</text>
+    </para>
   </para>
   <para>
     <num>(d-1)</num>
@@ -60,7 +72,5 @@
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3055|(c)|(1)|(C)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3055|(c)|(2)" type="History"/>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§3055|(c)|(3)" type="History"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§3073|(d)|(1)" type="History"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§3073|(d)|(2)" type="History"/>
   </annotations>
 </section>
