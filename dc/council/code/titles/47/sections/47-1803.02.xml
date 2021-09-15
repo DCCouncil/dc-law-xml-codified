@@ -185,10 +185,6 @@
         <num>(DD)</num>
         <text>The amount received by a taxpayer from the Home Composting Incentive Program pursuant to <cite path="§8-1031.12a">[§ 8-1031.12a]</cite>.</text>
       </para>
-      <para placeholder="Not Funded">
-        <num>(EE)</num>
-        <text>Not Funded.</text>
-      </para>
       <para>
         <num>(FF)</num>
         <text>The amount received by a taxpayer pursuant to <cite path="§7-2831|(b)">§ 7-2831(b)</cite>.</text>
@@ -207,11 +203,87 @@
       </para>
       <para>
         <num>(JJ)</num>
-        <text>Cash assistance for excluded workers given pursuant to grants awarded by the Washington Convention and Sports Authority in 2020.</text>
+        <text>Cash assistance for excluded workers given pursuant to grants awarded by the Washington Convention and Sports Authority after taxable year ending December 31, 2019, and ending before January 1, 2023.</text>
       </para>
       <para>
         <num>(KK)</num>
         <text>For tax years beginning after December 31, 2020, public health emergency response grants issued pursuant to <cite path="§7-2304.02">[§ 7-2304.02]</cite>, or successor law.</text>
+      </para>
+      <para>
+        <num>(LL)</num>
+        <text>For taxable years beginning after December 31, 2020, unemployment insurance benefits provided by the District or any other state, including:</text>
+        <para>
+          <num>(i)</num>
+          <text>District-funded benefits paid pursuant to subchapter I of Chapter 1 of Title 51 of the District of Columbia Official Code or a similar program in another state, including any extension of such benefits;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Fully or partially federally funded benefits paid pursuant to temporary or permanent unemployment benefits programs, including Federal Pandemic Unemployment Compensation provided for by section 2104 of Division A of the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 318; 15 U.S.C. § 9023); and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Benefits paid pursuant to special programs, including Disaster Unemployment Assistance provided for by section 410 of the Disaster Relief Act of 1974, approved May 22, 1974 (88 Stat. 156; 42 U.S.C. § 5177), or Pandemic Unemployment Assistance provided for by section 2102 of Division A of the Coronavirus Aid, Relief, and Economic Security Act, approved March 27, 2020 (134 Stat. 313; 15 U.S.C. § 9021), to individuals who do not qualify for regular unemployment insurance benefits.</text>
+        </para>
+      </para>
+      <para>
+        <num>(MM)</num>
+        <text>Grants issued pursuant to section 2032(h)(1)(A) of the Deputy Mayor for Planning and Economic Development Limited Grant Making Authority Act of 2012, effective September 20, 2012 (D.C. Law 19-168; D.C. Official Code § 1-328.04(h)(1)(A)).</text>
+      </para>
+      <para>
+        <num>(NN)</num>
+        <text>The following grants made by the Deputy Mayor for Planning and Economic Development, as authorized by section 2032 of the Deputy Mayor for Planning and Economic Development Limited Grant-Making Authority Act of 2012, effective September 12, 2012 (D.C. Law 19-168; D.C. Official Code § 1-328.04) ("section 2032"):</text>
+        <para>
+          <num>(i)</num>
+          <text>Small business rent relief grants awarded pursuant to section 2032(l);</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Grants awarded to the DC Center for the LQBT Community pursuant to section 2032(m);</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Large company grants awarded pursuant to section 2032(n);</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Local food access grants awarded pursuant to section 2032(o);</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Guaranteed income pilot program grants awarded pursuant to section 2032(p);</text>
+        </para>
+        <para>
+          <num>(vi)</num>
+          <text>Grants awarded to Community Development Financial Institutions or Minority Depository Institutions pursuant to section 2032(q);</text>
+        </para>
+        <para>
+          <num>(vii)</num>
+          <text>Equity growth impact grants awarded pursuant to section 2032(r);</text>
+        </para>
+        <para>
+          <num>(viii)</num>
+          <text>Great Streets program grants awarded pursuant to section 2032(s);</text>
+        </para>
+        <para>
+          <num>(ix)</num>
+          <text>Bridge Fund recovery and special events support grants awarded pursuant to section 2032(t);</text>
+        </para>
+        <para>
+          <num>(x)</num>
+          <text>Small and medium business recover and growth program grants awarded pursuant to section 2032(u); and</text>
+        </para>
+        <para>
+          <num>(xi)</num>
+          <text>Equity impact enterprise commercial property acquisition grants awarded pursuant to section 2032(v).</text>
+        </para>
+      </para>
+      <para>
+        <num>(OO)</num>
+        <text>COVID-19 hotel recovery grants awarded pursuant to section 2192 of the COVID-19 Hotel Recovery Grant Program Emergency Act of 2021, passed on emergency basis on August 10, 2021 (Enrolled version of Bill 24-373).</text>
+      </para>
+      <para>
+        <num>(PP)</num>
+        <text>Delayed unemployment compensation payments made pursuant to section 7(j) of the District of Columbia Unemployment Compensation Act, approved August 28, 1935 (49 Stat. 949; D.C. Official Code § 51-107(j)).</text>
       </para>
     </para>
     <para>
@@ -386,10 +458,6 @@
     <annotation app="2016-11-26" doc="D.C. Law 21-168" eff="2016-11-26" path="§3" type="History"/>
     <annotation type="Applicability" codified:display="Note" app="2016-11-26" eff="2016-11-26" doc="D.C. Law 21-168" path="§3">Applicability of <cite doc="D.C. Law 21-168" path="">D.C. Law 21-168</cite>: <cite doc="D.C. Law 21-168" path="§4">§ 4 of D.C. Law 21-168</cite> provided that the change made to this section by <cite doc="D.C. Law 21-168" path="§3">§ 3 of D.C. Law 21-168</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2018-07-17" doc="D.C. Law 22-146" eff="2018-07-17" path="§3" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 22-151" eff="2018-07-27" path="§5|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 22-151" eff="2018-07-27" path="§4" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 22-151" path="§4" codified:display="Note" app="2018-07-27" eff="2018-07-27">Applicability of <cite doc="D.C. Law 22-151" path="">D.C. Law 22-151</cite>: <cite doc="D.C. Law 22-151" path="§5">§ 5 of D.C. Law 22-151</cite> provided that the change made to this section by <cite doc="D.C. Law 22-151" path="§4">§ 4 of D.C. Law 22-151</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
-    <annotation app="2018-07-27" doc="D.C. Law 22-151" eff="2018-07-27" path="§4" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-434" path="§7062" codified:display="Note" app="2018-07-30" eff="2018-07-30">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-434" path="§7062">§ 7062 of Fiscal Year 2019 Budget Support Emergency Act of 2018 (D.C. Act 22-434, July 30, 2018, 65 DCR 8200)</cite>.</annotation>
     <annotation app="2018-07-30" doc="D.C. Act 22-434" eff="2018-07-30" path="§7062" type="History" display="false"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 22-458" path="§7062" codified:display="Note" app="2018-10-03" eff="2018-10-03">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 22-458" path="§7062">§ 7062 of Fiscal Year 2019 Budget Support Congressional Review Emergency Act of 2018 (D.C. Act 22-458, Oct. 3, 2018, 65 DCR 11212)</cite>.</annotation>
@@ -419,5 +487,7 @@
     <annotation app="2021-08-05" doc="D.C. Act 24-155" eff="2021-08-05" path="§2" type="History" display="false"/>
     <annotation app="2021-08-05" doc="D.C. Act 24-155" eff="2021-08-05" path="§2" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-155" path="§2" codified:display="Note" app="2021-08-05" eff="2021-08-05">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-155" path="§2">§ 2 of Coronavirus Business Assistance Income Tax Relief Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-155, Aug. 5, 2021, 68 DCR 008006)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7112|(b)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7112|(c)" type="History"/>
   </annotations>
 </section>

@@ -1,14 +1,51 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-561.08</num>
   <heading>Implementation and Transition Plan.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The City Administrator shall prepare and submit to the Council a comprehensive transition plan and timeline to facilitate the implementation of this act.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The transition plan shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>A proposed organizational plan, including an organization chart, which reflects the proposed reporting structure for the Department consistent with this act, due 60 days after the applicability date of this act;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>A strategic human capital plan, which identifies the skills and personnel necessary for the functions covered by this act, identifies current available human resources, identifies the training necessary to ensure staff are prepared to perform, outlines steps to engage and bargain with labor organizations currently certified to represent employees who may be transferred from the former Department of Consumer and Regulatory Affairs, and identifies recruiting priorities and efforts, due 120 days after the applicability date of this act;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A communications strategy, which articulates the methods by which the Executive will share the mission and scope of the Department with the public, stakeholders, and the regulated community, metrics by which to judge the success of the plan, and alternative outreach options to improve success of the plan, due 120 days after the applicability date of this act;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A comprehensive document control inventory, which identifies the documents, collateral, and assets that must be revised to reflect the change in responsibility to the Department of Buildings and the change in name of the former Department of Consumer and Regulatory Affairs to the Department of Licensing and Consumer Protection, due 180 days after the applicability date of this act;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>A business process analysis and reengineering assessment, which identifies the processes by which the Department of Consumer and Regulatory Affairs currently performs each of the functions covered by this act, evaluates the effectiveness of each existing process, identifies potential process improvements, prioritizes eliminating process inefficiencies, and provides redesigned operational processes for the Department of Buildings to adopt these functions, due one year after the applicability date of this act; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>An information technology needs assessment, which identifies the resources and tools necessary to enable operations over a single system, or a minimal number of fully integrated systems, facilitate plan review, enforcement, and records management across all relevant review and enforcement agencies, due one year after the applicability date of this act.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The timeline shall include progress points by which the Council may track the implementation of this act.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>As of the applicability date of this act, the Mayor shall provide quarterly updates on the progress of developing the deliverables identified in subsection (b) of this section.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-561.08" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-561.08">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§108">§ 108 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§108" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-269" path="§108" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§108">§ 108 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§108" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-269" path="§108" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§108">§ 108 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

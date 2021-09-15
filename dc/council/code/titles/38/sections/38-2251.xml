@@ -1,41 +1,62 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-2251</num>
-  <text>
-      *NOTE: This section was created by emergency legislation that will expire on November 21, 2021.*
-      </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
-    <text>For purposes of this subtitle, the term:</text>
+    <text>For the purposes of <cite path="38|22C">this chapter</cite>:</text>
     <para>
       <num>(1)</num>
-      <text>"Child development facility" shall have the same meaning as provided in <cite path="§7-2031|(3)">§ 7-2031(3)</cite>.</text>
+      <text>"DCPS" means the District of Columbia Public Schools.</text>
     </para>
     <para>
       <num>(2)</num>
-      <text>"Community-based organization" or "CBO" shall have the same meaning as provided in <cite path="§38-271.01|(1C)">§ 38-271.01(1C)</cite>.</text>
+      <text>"District university grantees" means an accredited university or college, other</text>
+      <text>than UDC, that operates in the District and has received a teacher preparation grant from OSSE.</text>
     </para>
     <para>
       <num>(3)</num>
-      <text>"Early childhood development provider" shall have the same meaning as provided in <cite path="§38-271.01|(1G)">§ 38-271.01(1G)</cite>.</text>
+      <text>"Dual enrollment student" means a student who is enrolled in:</text>
+      <para>
+        <num>(A)</num>
+        <text>A DCPS or public charter school high school; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>UDC or an accredited college or university, other than UDC, that operates in the District of Columbia.</text>
+      </para>
     </para>
     <para>
       <num>(4)</num>
-      <text>"Subsidy" means supplemental payments made by the Mayor pursuant to <cite path="§4-404.01">§ 4-404.01</cite>.</text>
+      <text>"Local education agency" or "LEA" means the District of Columbia Public Schools system, any individual District public charter school, or any group of public charter schools operating under a single charter.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"OSSE" means the Office of the State Superintendent of Education.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Paraprofessional" means an individual employed by an LEA to provide instructional, behavioral, or other support under the supervision of a licensed or certified teacher, to students in or outside of the classroom.  This term includes instructional aides or assistants, teacher aides, and paraeducators.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"Program" means the "Grow Your Own" Teacher Preparation Support Program established pursuant to <cite path="38|22C">this chapter</cite>.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Program participant" means a public high school dual enrollment student, a public high school graduate, or a paraprofessional employed by an LEA that is receiving financial assistance or professional support through the Program.</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>"Public high school" means a high school in the DCPS system or a District public charter high school.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>"UDC" means the University of the District of Columbia.</text>
     </para>
   </para>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-2239" expire="2021-08-23" codified:display="Note">For temporary (90 days) creation of § 38-2251, see <cite doc="D.C. Act 24-159" path="§1102">§ 1102 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 0 DCR 0)</cite>.</codify:annotation>
-  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§38-2251" applicability="2021-08-23" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-2251">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§1102">§ 1102 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 0 DCR 0)</cite>.</codify:annotation>
-  <codify:insert doc="D.C. Code" path="§38-2251" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2251">
-    <text>
-      *NOTE: This section was created by emergency legislation that will expire on November 21, 2021.*
-      </text>
-  </codify:insert>
   <annotations>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="I" type="History" display="false"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1102" type="History" display="false"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§1102" type="History"/>
-    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§1102" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§1102">§ 1102 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 0 DCR 0)</cite>.</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="IV" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4192" type="History"/>
   </annotations>
 </section>

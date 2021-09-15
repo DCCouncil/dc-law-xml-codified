@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
+  <reason>Repealed</reason>
   <num>7-1410</num>
   <heading>DC HealthCare Alliance application and recertification process.</heading>
-  <text>Not Funded.</text>
+  <text>Repealed.</text>
   <annotations>
     <annotation doc="D.C. Law 14-18" type="History" path="§7e">July 12, 2001, D.C. Law 14-18</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-6" path="§2|(b)" codified:display="Note" app="2021-03-16" eff="2021-01-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-6" path="§2|(b)">§ 2(b) of Department of Health Care Finance Alliance Reform and Budget Transparency Emergency Amendment Act of 2021 (D.C. Act 24-6, Jan. 29, 2021, 68 DCR 001539)</cite>.</annotation>
@@ -12,5 +12,6 @@
     <annotation app="notfunded" doc="D.C. Law 23-251" eff="2021-03-16" path="§201|(b)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-251" path="§201|(b)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-251" path="">D.C. Law 23-251</cite>: <cite doc="D.C. Law 23-251" path="§401">§ 401 of D.C. Law 23-251</cite> provided that the creation of this section by <cite doc="D.C. Law 23-251" path="§201|(b)">§ 201(b) of D.C. Law 23-251</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-251" eff="2021-03-16" path="§201|(b)" type="History"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§5112|(b)" type="History"/>
   </annotations>
 </section>

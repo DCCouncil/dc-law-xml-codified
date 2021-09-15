@@ -1,14 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-562.02</num>
   <heading>Annual Enforcement Report.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>On or before January 1, 2023, and January 1 of every year thereafter, the Director shall submit to the Council an annual report detailing the enforcement activities of the Department in the prior fiscal year.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The report required under subsection (a) of this section shall assess the Department's progress against the Strategic Enforcement Plan required under section 201 and identify any changes to operations necessary to implement the Strategic Enforcement Plan.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The report required under subsection (a) of this section shall also include the following data for the prior fiscal year:</text>
+    <para>
+      <num>(1)</num>
+      <text>Complaint data, detailing the number, type, method, determination of validity, and resolution of complaints received by the Department;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Violation data, detailing the violations identified and cited in the prior fiscal year and their status as abated or unresolved as of the date of the report;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Fine collection data, detailing the dollar value of the fines assessed, dollar value of the fines assessed versus the fines collected, violations for which the fines were issued, and identifying any reduction in fine amount due to an action by an administrative judge to reduce the assessed fine, adverse judgment at an administrative hearing, administrative settlement or dismissal by the Department, or other means resulting in a collection of less than the levied amount, and any fines not yet collected as of the date of the report;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Abatement efficacy, detailing the number and nature of abatement orders, the number of days taken to abate each order, the number of extensions granted by type of abatement order, the justification for each extension, and the location of each abatement order, and its status as abated or unresolved as of the date of the report;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Enforcement escalation data, detailing the number of violations referred to the Attorney General for the District of Columbia, the aggregate dollar amount assessed, and a description of the matters referred; and</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Collections escalation data, detailing the number of violations referred to the Central Collections Unit.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-562.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-562.02">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§202">§ 202 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§202" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-269" path="§202" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§202">§ 202 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§202" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-269" path="§202" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§202">§ 202 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

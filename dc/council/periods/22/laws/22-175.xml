@@ -47,7 +47,7 @@
         <text>A new subsection (c-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(c)" codified:doc="D.C. Code" codified:path="§50-2302.04|(c-1)"/>
+            <codify:insert after="(c)"/>
             <num>(c-1)</num>
             <para>
               <num>(1)</num>
@@ -87,7 +87,7 @@
         <text>Subsection (d) is amended to read as follows:</text>
         <include>
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§50-2302.05|(d)"/>
+            <codify:replace/>
             <num>(d)</num>
             <para>
               <num>(1)</num>
@@ -126,7 +126,7 @@
         <text>A new subsection (e-1) is added to read as follows:</text>
         <include>
           <para>
-            <codify:insert after="(e)" codified:doc="D.C. Code" codified:path="§50-2302.05|(e-1)"/>
+            <codify:insert after="(e)"/>
             <num>(e-1)</num>
             <text>For notices of infraction that were detected by an automated traffic enforcement system pursuant to <code-cite doc="D.C. Code" path="§50-2209.01">section 901 of the Fiscal Year 1997 Budget Support Act of 1996, effective April 9, 1997 (D.C. Law 11-198; D.C. Official Code § 50-2209.01)</code-cite>, if a person fails to answer the notice within 120 calendar days after the date the notice was issued, or within a greater period of time as prescribed by the Director by regulation, the commission of the infraction shall be deemed admitted and all points, penalties, and fines shall be assessed.</text>
           </para>
@@ -244,7 +244,7 @@
       <para>
         <num>(1)</num>
         <text>Strike the number "30" and insert the number "60" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2303.04|(c)">
+        <codify:find-replace count="1">
           <find>30 days</find>
           <replace>60 days</replace>
         </codify:find-replace>
@@ -252,7 +252,7 @@
       <para>
         <num>(2)</num>
         <text>Strike the number "60" and insert the number "120" in its place.</text>
-        <codify:find-replace position="last" codified:doc="D.C. Code" codified:path="§50-2303.04|(c)">
+        <codify:find-replace position="last">
           <find>60 days</find>
           <replace>120 days</replace>
         </codify:find-replace>
@@ -265,7 +265,7 @@
       <para codify:path="(1)">
         <num>(1)</num>
         <text>Paragraph 1 is amended by striking the number "30" and inserting the number "60" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(1)">
+        <codify:find-replace count="1">
           <find>30 calendar days</find>
           <replace>60 calendar days</replace>
         </codify:find-replace>
@@ -273,7 +273,7 @@
       <para codify:path="(2)">
         <num>(2)</num>
         <text>Paragraph (2) is amended by striking the number "60" and inserting the number "120" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(2)">
+        <codify:find-replace count="1">
           <find>60 days</find>
           <replace>120 days</replace>
         </codify:find-replace>
@@ -283,7 +283,7 @@
         <text>A new paragraph (3) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(3)"/>
+            <codify:insert/>
             <num>(3)</num>
             <text>In addition to the notice required by paragraph (2) of this subsection, if a notice of infraction remains unanswered, not more than 100 days after the notice is issued, the Director shall send by regular mail, addressed to the person's address on the Department of Motor Vehicle's records, notice of the outstanding notice of infraction and the effective date of the deemed admission.</text>
           </para>
@@ -312,7 +312,7 @@
       <text>A new Title III-B is added to read as follows:</text>
       <include>
         <container>
-          <codify:insert doc="D.C. Code" path="50|23" after="III-A" history="false" codified:doc="D.C. Code" codified:path="50|23|III-B">
+          <codify:insert doc="D.C. Code" path="50|23" after="III-A" history="false">
             <container>
               <prefix>Subchapter</prefix>
               <num>III-B</num>
@@ -323,7 +323,7 @@
           <num>III-B</num>
           <heading>COMMUNITY SERVICE DEBT REPAYMENT PROGRAM</heading>
           <section>
-            <codify:insert doc="D.C. Code" path="50|23|III-B" num-value="50-2303.21" codified:doc="D.C. Code" codified:path="§50-2303.21"/>
+            <codify:insert doc="D.C. Code" path="50|23|III-B" num-value="50-2303.21"/>
             <num>321</num>
             <heading>Community Service Debt Repayment Program.</heading>
             <para>
@@ -373,7 +373,7 @@
               <num>(d)</num>
               <text>The Mayor, <code-cite doc="D.C. Code" path="2|5|I">pursuant to Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, shall issue rules to implement the provisions of this section.</text>
             </para>
-            <codify:not-funded-anno doc="D.C. Code" path="§50-2303.21" applicability-path="§3" display-template="" codified:doc="D.C. Code" codified:path="§50-2303.21" codified:display="Note"/>
+            <codify:not-funded-anno doc="D.C. Code" path="§50-2303.21" applicability-path="§3" display-template=""/>
           </section>
         </container>
       </include>
@@ -394,14 +394,14 @@
       <para>
         <num>(2)</num>
         <text>Section 2(b)(2);</text>
-        <codify:applicability doc="D.C. Law 22-175" path="§2|(b)|(2)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.04|(c-1)"/>
+        <codify:applicability doc="D.C. Law 22-175" path="§2|(b)|(2)" date="notfunded" history="false"/>
       </para>
       <para>
         <num>(3)</num>
         <text>Section 2(c)(1), (2)(A), (3), and (4)(B);</text>
-        <codify:applicability doc="D.C. Law 22-175" path="§2|(c)|(1)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.05|(d)"/>
+        <codify:applicability doc="D.C. Law 22-175" path="§2|(c)|(1)" date="notfunded" history="false"/>
         <codify:applicability doc="D.C. Law 22-175" path="§2|(c)|(2)|(A)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.05|(e)"/>
-        <codify:applicability doc="D.C. Law 22-175" path="§2|(c)|(3)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.05|(e-1)"/>
+        <codify:applicability doc="D.C. Law 22-175" path="§2|(c)|(3)" date="notfunded" history="false"/>
         <codify:applicability doc="D.C. Law 22-175" path="§2|(c)|(4)|(B)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2302.05|(f)"/>
       </para>
       <para>
@@ -416,12 +416,12 @@
       <para>
         <num>(5)</num>
         <text>Section 2(f);</text>
-        <codify:applicability doc="D.C. Law 22-175" path="§2|(f)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2303.04|(c)"/>
+        <codify:applicability doc="D.C. Law 22-175" path="§2|(f)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2303.04"/>
       </para>
       <para>
         <num>(6)</num>
         <text>Section 2(g);</text>
-        <codify:applicability doc="D.C. Law 22-175" path="§2|(g)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2303.05|(d)|(1)"/>
+        <codify:applicability doc="D.C. Law 22-175" path="§2|(g)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§50-2303.05"/>
       </para>
       <para>
         <num>(7)</num>
@@ -431,7 +431,7 @@
       <para>
         <num>(8)</num>
         <text>Section 2(i).</text>
-        <codify:applicability doc="D.C. Law 22-175" path="§2|(i)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="50|23|III-B"/>
+        <codify:applicability doc="D.C. Law 22-175" path="§2|(i)" date="notfunded" history="false"/>
       </para>
     </para>
     <para>

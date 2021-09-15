@@ -490,27 +490,26 @@
           <text>New paragraphs (3A), (3B), (3C), (3D), (3E) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(3)" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(3A)"/>
+              <codify:insert after="(3)"/>
               <num>(3A)</num>
               <text>Portable electric spas shall meet the requirements of the American National Standard for Portable Electric Spa Energy Efficiency (ANSI/APSP/ICC-14-2019).</text>
             </para>
             <para>
-              <codify:insert after="(3A)" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(3B)"/>
+              <codify:insert after="(3A)"/>
               <num>(3B)</num>
               <text>Residential ventilating fans shall have a fan motor efficacy of no less than 2.8 cubic feet per minute per watt. All other residential ventilating fans shall have a fan motor efficacy of no less than 1.4 cubic feet per minute per watt for airflows less than 90 cubic feet per minute and no less than 2.8 cubic feet per minute per watt for other airflows when tested in accordance with Home Ventilation Institute Publication 916 "HVI Airflow Test Procedure.</text>
             </para>
             <para>
-              <codify:insert after="(3B)" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(3C)"/>
+              <codify:insert after="(3B)"/>
               <num>(3C)</num>
               <text>Showerheads shall not exceed a maximum flow rate of 2.0 gpm at 80 psi, as tested in accordance with Appendix S to Subpart B of Part 430 of Title 10 of the Code of Federal Regulations, titled "Uniform Test Method for Measuring the Water Consumption of Faucets and Showerheads", as in effect on January 3, 2017.</text>
             </para>
             <para>
-              <codify:insert after="(3C)" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(3D)"/>
+              <codify:insert after="(3C)"/>
               <num>(3D)</num>
               <text>Spray sprinkler bodies that are not specifically excluded from the scope of the WaterSense Specification for Spray Sprinkler Bodies, Version 1.0, shall include an integral pressure regulator and shall meet the water efficiency and performance criteria and other requirements of that specification.</text>
             </para>
             <para>
-              <codify:insert after="(3D)" codified:doc="D.C. Code" codified:path="§8-1771.03|(b)|(3E)"/>
               <num>(3E)</num>
               <text>State-regulated general service lamps shall meet or exceed a lamp efficacy of 45 lumens per watt, when tested in accordance with the federal test procedures for general service lamps, prescribed in Section 430.23(gg) of Title 10 of the Code of Federal Regulations as in effect on January 1, 2020.</text>
             </para>
@@ -668,12 +667,12 @@
       <para>
         <num>(1)</num>
         <text>Section 2(a), (b), (c)(3), (d)(1) and (3), (e) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-        <codify:applicability doc="D.C. Law 23-195" path="§2|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1771.01|(1A)"/>
-        <codify:applicability doc="D.C. Law 23-195" path="§2|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1771.02|(a)"/>
-        <codify:applicability doc="D.C. Law 23-195" path="§2|(c)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1771.03|(a)"/>
+        <codify:applicability doc="D.C. Law 23-195" path="§2|(a)" date="notfunded" history="false" display-template=""/>
+        <codify:applicability doc="D.C. Law 23-195" path="§2|(b)" date="notfunded" history="false" display-template=""/>
+        <codify:applicability doc="D.C. Law 23-195" path="§2|(c)" date="notfunded" history="false" display-template=""/>
         <codify:applicability doc="D.C. Law 23-195" path="§2|(d)|(1)" date="notfunded" history="false" display-template=""/>
-        <codify:applicability doc="D.C. Law 23-195" path="§2|(d)|(3)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1771.04|(b)"/>
-        <codify:applicability doc="D.C. Law 23-195" path="§2|(e)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1771.05a"/>
+        <codify:applicability doc="D.C. Law 23-195" path="§2|(d)|(3)" date="notfunded" history="false" display-template=""/>
+        <codify:applicability doc="D.C. Law 23-195" path="§2|(e)" date="notfunded" history="false" display-template=""/>
       </para>
       <para>
         <num>(2)</num>

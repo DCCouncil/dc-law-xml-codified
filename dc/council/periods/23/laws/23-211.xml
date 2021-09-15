@@ -1676,11 +1676,6 @@
       <text>Sections 2(a), 2(b), the amendatory section 103a within 2(c), 2(d)(2), 2(e), 2(g), 2(k), 2(l), 2(m)(1), 2(p), 2(q), the amendatory section 403(e)(1) and (2) and (f) in section 3(b), and 4(b) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
       <codify:applicability doc="D.C. Law 23-211" path="§2|(a)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.01|(1A)"/>
       <codify:applicability doc="D.C. Law 23-211" path="§2|(b)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.03|(c)|(2)"/>
-      <codify:repeal doc="D.C. Code" path="§8-1031.03a" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.03a"/>
-      <codify:find-replace doc="D.C. Code" path="§8-1031.03a" count="2" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.03a">
-        <find>Repealed</find>
-        <replace>Not Funded</replace>
-      </codify:find-replace>
       <codify:applicability doc="D.C. Law 23-211" path="§2|(d)|(2)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.04|(b)"/>
       <codify:applicability doc="D.C. Law 23-211" path="§2|(e)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.04a"/>
       <codify:applicability doc="D.C. Law 23-211" path="§2|(g)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.07|(2)"/>
@@ -1688,7 +1683,6 @@
       <codify:applicability doc="D.C. Law 23-211" path="§2|(l)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.13|(a)|(4)"/>
       <codify:applicability doc="D.C. Law 23-211" path="§2|(m)|(1)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1031.14|(d)"/>
       <codify:applicability doc="D.C. Law 23-211" path="§2|(p)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-325.381|(b)|(3)"/>
-      <codify:applicability doc="D.C. Law 23-211" path="§2|(q)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="8|7E"/>
       <codify:repeal doc="D.C. Code" path="§8-1533|(e)|(1)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1533|(e)|(1)"/>
       <codify:find-replace doc="D.C. Code" path="§8-1533|(e)|(1)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-1533|(e)|(1)">
         <find>Repealed</find>

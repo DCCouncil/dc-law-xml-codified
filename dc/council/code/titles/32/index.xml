@@ -103,6 +103,28 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>1D-i</num>
+    <heading>Jobs First DC Pilot Program.</heading>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="IV" type="History" display="false"/>
+    <xi:include href="./sections/32-173.01.xml"/>
+    <xi:include href="./sections/32-173.02.xml"/>
+    <xi:include href="./sections/32-173.03.xml"/>
+    <xi:include href="./sections/32-173.04.xml"/>
+    <xi:include href="./sections/32-173.05.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>1D-ii</num>
+    <heading>Workplace Rights Grant Program.</heading>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="IV" type="History" display="false"/>
+    <xi:include href="./sections/32-175.01.xml"/>
+    <xi:include href="./sections/32-175.02.xml"/>
+    <xi:include href="./sections/32-175.03.xml"/>
+    <xi:include href="./sections/32-175.04.xml"/>
+    <xi:include href="./sections/32-175.05.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>1E</num>
     <heading>Unemployment Insurance Information Technology Benefits and Tax System; Certain Information to be Available When American Job Centers are Closed.</heading>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>

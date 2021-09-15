@@ -1,14 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-561.06</num>
   <heading>Zoning Administrator.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>There is established, subordinate to the Director, a Zoning Administrator within the Department with primary authority for the administration of and determination of compliance with the Zoning Regulations of the District of Columbia (11-A DCMR § 100.1 <em>et seq.</em>) ("Zoning Regulations").</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The ZA shall be appointed by the Mayor with the advice and consent of the Council, pursuant to section 2(a) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(a)).</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The ZA shall have not less than 8 years of senior-level experience in interpreting and enforcing zoning regulations.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The ZA shall serve for one 5-year term and may be reappointed pursuant to subsection (b) of this section.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The ZA shall not be required to resign at the end of a mayoral term or administration.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-561.06" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-561.06">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§106">§ 106 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§106" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-269" path="§106" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§106">§ 106 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§106" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-269" path="§106" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§106">§ 106 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

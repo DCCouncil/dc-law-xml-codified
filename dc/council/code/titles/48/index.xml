@@ -34,8 +34,6 @@
     <heading>Donated Food.</heading>
     <xi:include href="./sections/48-301.xml"/>
     <xi:include href="./sections/48-302.xml"/>
-    <xi:include href="./sections/48-303.xml"/>
-    <xi:include href="./sections/48-304.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -316,6 +314,7 @@
       <xi:include href="./sections/48-852.05.xml"/>
       <xi:include href="./sections/48-852.06.xml"/>
       <xi:include href="./sections/48-852.07.xml"/>
+      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7173" type="History"/>
     </container>
   </container>
   <container>

@@ -1,14 +1,203 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-561.07</num>
   <heading>Department organization.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>There are established within the Department the following offices and divisions:</text>
+    <para>
+      <num>(1)</num>
+      <text>The Office of the Director with subordinate staff responsible for:</text>
+      <para>
+        <num>(A)</num>
+        <text>Human Resources;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Intergovernmental Affairs;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>General Counsel;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Communications; and</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Technology and Information Services, including the development and maintenance of, in coordination with the Office of the Chief Technology Officer, the systems necessary to enable the efficient and accurate maintenance of digital records management, electronic plan submission, electronic plan review, permit issuance, and enforcement records.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Administrative Services, with subordinate staff responsible for:</text>
+      <para>
+        <num>(A)</num>
+        <text>Customer Service and Complaint Resolution;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Logistics and Fleet Services, including the management of the equipment necessary to support an inspection workforce that deploys to inspect construction sites in coordination with the subordinate staff responsible for Technology and Information Services;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Risk Management; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Contracts and Procurement;</text>
+      </para>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>The Office of Construction and Building Standards, headed by the CBO, with subordinate staff responsible for:</text>
+      <para>
+        <num>(A)</num>
+        <text>The Permitting Operations Division, which shall:</text>
+        <para>
+          <num>(i)</num>
+          <text>Accept permit applications for review and coordinate the review of such applications by the relevant offices and entities;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Evaluate submitted plans and certify their compliance with the Construction Codes or provide instructions to obtain compliance for non-compliant submissions;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Issue building permits for private and District construction projects;</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Construction Compliance Division, which shall manage and coordinate revisions to the Construction Codes to meet current demands for adequate and safe construction and the maintenance of new and existing building structures as outlined by the International Code Council Family of Codes;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The Building Inspection Division, which shall:</text>
+        <para>
+          <num>(i)</num>
+          <text>Inspect commercial buildings;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Manage permit-related inspection requests;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Issue citations for violations of the Construction Codes to correct violations; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Conduct building and structure assessments for emergency and disaster response in coordination with the Homeland Security and Emergency Management Agency;</text>
+        </para>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Green Building Division, which shall regulate construction relevant to the green codes, which includes the Green Building Act of 2006, effective March 8, 2007 (D.C. Law 16-234; D.C. Official Code § 6-1451.01 <em>et seq.</em>), the Green Construction Code (12-K DCMR), and the Energy Conservation Code (12-I DCMR). The Division shall coordinate services with the Permitting Operations Division and Construction Compliance Division, such as conducting plan review, building inspections, and collaborating with sister agencies, the building industry, and the community to increase the sustainability of the built environment;</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Surveyor's Office, which shall produce and maintain the legal records of all land plats and subdivisions of private and District government property within the District of Columbia;</text>
+      </para>
+      <para>
+        <num>(F)</num>
+        <text>Third-Party Inspection Program, which shall provide supplemental staff for the Department's plan review and inspection divisions, and shall ensure the suitability and quality of, and authorize private entities to perform, inspections and plan reviews and to certify to the Department that such work complies with the Construction Codes.</text>
+      </para>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>The Office of Residential Inspection, headed by a Chief Inspection Official ("CIO"), with subordinate staff responsible for:</text>
+      <para>
+        <num>(A)</num>
+        <text>Vacant and Blighted Property Division, which shall inspect and classify vacant and blighted buildings;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Rental Housing Inspections Division, which shall protect District tenants by ensuring habitable housing by conducting both proactive and complaint-based residential housing inspections of violations of the Residential Code (12-B DCMR) and the Property Maintenance Code (12-G DCMR);</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Housing Rehabilitation Division, which shall:</text>
+        <para>
+          <num>(i)</num>
+          <text>Abate violations of the Residential Code (12-B DCMR) and the Property Maintenance Code (12-G DCMR);</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Process abatement contracts; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Collect unpaid abatement costs;</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>The Office of Strategic Code Enforcement, headed by the SEA, with subordinate staff responsible for:</text>
+      <para>
+        <num>(A)</num>
+        <text>Code Enforcement Division, which shall:</text>
+        <para>
+          <num>(i)</num>
+          <text>Coordinate and monitor enforcement of violations cited by the Department's regulatory programs;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Work closely with the Office of the Attorney General to compel compliance through judicial orders;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Conduct compliance surveys; and</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Issue Notices of Infraction for violations;</text>
+        </para>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Civil Infractions and Fine Assessment Division, which shall:</text>
+        <para>
+          <num>(i)</num>
+          <text>Process all civil infractions with the Office of Administrative Hearings;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Collect fines; and</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Place property liens for unpaid fines.</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>The Office of Zoning Administration, headed by the ZA, with subordinate staff responsible for:</text>
+      <para>
+        <num>(A)</num>
+        <text>Reviewing applications for conformity with the Zoning Regulations of the District of Columbia (11-A DCMR § 100.1 <em>et seq.</em>) ("Zoning Regulations");</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Enforcing the Zoning Regulations;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Writing letters of determination or of denial regarding the relevant portions of the Zoning Regulations applicable to specific development proposals; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Referring applicants to the Board of Zoning Adjustment if they want to seek special exceptions or zoning variances to the ZA's rulings.</text>
+      </para>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-561.07" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-561.07">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§107">§ 107 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§107" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-269" path="§107" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§107">§ 107 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§107" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-269" path="§107" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§107">§ 107 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

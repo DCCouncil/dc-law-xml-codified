@@ -1,14 +1,68 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-771.06</num>
   <heading>DOEE responsibilities.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>DOEE shall maintain a website that includes:</text>
+    <para>
+      <num>(1)</num>
+      <text>A copy of all approved battery stewardship plans;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The names of producers participating in approved battery stewardship plans;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A list of all approved brands covered by a battery stewardship plan filed with DOEE; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>A copy of all annual reports submitted under <cite path="§8-771.05">§ 8-771.05</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A battery stewardship organization implementing an approved battery stewardship plan in compliance with the requirements of <cite path="8|7E">this chapter</cite> may petition DOEE alleging, with evidence, that a producer is not complying with the requirements of <cite path="8|7E">this chapter</cite> or a battery stewardship plan. DOEE shall investigate and provide a determination to the petitioner within 45 days after receipt of a petition. DOEE shall take enforcement action if noncompliance is demonstrated.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Every 5 years, DOEE shall report on the status of the battery recycling program and provide this report to the Council and on its website. The report shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>The amount, by weight, of batteries collected under approved battery stewardship plans;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The percentage of collected batteries not covered by or attributable to a producer participating in an approved battery stewardship organization; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Recommendations for any amendments to <cite path="8|7E">this chapter</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>In addition to the requirements of subsection (c) of this section, DOEE's first report under subsection (c) of this section shall include:</text>
+    <para>
+      <num>(1)</num>
+      <text>An evaluation of whether an environmental handling fee, meaning an amount added at the point of sale to the purchase price of a covered battery or battery-containing product, would promote and support increased battery recycling in the District; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>An assessment of how rechargeable batteries with a watt-hour rating above 300 watt-hours could be incorporated into the battery collection program under <cite path="8|7E">this chapter</cite>.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>DOEE shall assist in educational and outreach efforts to inform the public about the battery collection opportunities in the District.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§8-771.06" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-771.06">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(q)">§ 2(q) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 20-154" type="History" path="§133">Feb. 26, 2015, D.C. Law 20-154, § 133</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§6|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" prefix="as added" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-211" path="§2|(q)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(q)">§ 2(q) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History"/>
   </annotations>

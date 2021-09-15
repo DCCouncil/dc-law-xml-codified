@@ -1,14 +1,63 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-561.05</num>
   <heading>Strategic Enforcement Administrator.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>There shall be, subordinate to the Director, a Strategic Enforcement Administrator within the Department.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The SEA shall have the following responsibilities:</text>
+    <para>
+      <num>(1)</num>
+      <text>Developing and implementing strategic and data-driven deployment of the Department's enforcement efforts and advising the CBO and the Chief Inspection Official ("CIO"), provided for in section 107(a)(4), accordingly;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Monitoring violations to ensure that the CBO and CIO are scheduling timely reinspections and that the appropriate documentation and data are being captured;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>If, and when, fines are levied, tracking and enforcing collection of the fines and making referrals to the Office of the Attorney General for the District of Columbia when necessary;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Developing and implementing consistent enforcement procedures and standards in coordination with the CBO and CIO;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Advisory responsibility for managing the assignment of the Department's enforcement staff to ensure enforcement efforts regarding the built environment of the District of Columbia are effectively assigned;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Managing and tracking the enforcement history of individual projects, professionals, and properties to identify repeat violators or trends in construction, housing code, or maintenance violations and developing plans to detect and deter future violations;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Monitoring and tracking the number, type, and severity of violations, abatement history, impact on neighboring properties, previous enforcement actions taken, and the results of such enforcement actions to inform a consistent application of abatement standards; and</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>General administration of the Department's enforcement efforts.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The SEA shall be appointed by the Mayor with the advice and consent of the Council, pursuant to section 2(a) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(a)).</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The SEA shall serve for one 5-year term and may be reappointed pursuant to subsection (c) of this section.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The SEA shall not be required to resign at the end of a mayoral term or administration.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-561.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-561.05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§105">§ 105 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§105" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-269" path="§105" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§105">§ 105 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§105" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-269" path="§105" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§105">§ 105 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

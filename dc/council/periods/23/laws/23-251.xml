@@ -164,7 +164,7 @@
             <text>Paragraph (1) is amended to read as follows:</text>
             <include lvl="1">
               <para>
-                <codify:replace codified:doc="D.C. Code" codified:path="§7-771.07b|(b)|(1)"/>
+                <codify:replace codified:doc="D.C. Code" codified:path="§7-771.07b"/>
                 <num>(1)</num>
                 <text>To pay for the fiscal effect associated with<code-cite doc="D.C. Code" path="§7-1410"> section 7e</code-cite>; and</text>
               </para>
@@ -174,12 +174,12 @@
           <para>
             <num>(B)</num>
             <text>Paragraph (2) is repealed.</text>
-            <codify:repeal path="(2)" codified:doc="D.C. Code" codified:path="§7-771.07b|(b)|(2)"/>
+            <codify:repeal path="(2)" codified:doc="D.C. Code" codified:path="§7-771.07b"/>
           </para>
           <para>
             <num>(C)</num>
             <text>Paragraph (3) is repealed.</text>
-            <codify:repeal path="(3)" codified:doc="D.C. Code" codified:path="§7-771.07b|(b)|(3)"/>
+            <codify:repeal path="(3)" codified:doc="D.C. Code" codified:path="§7-771.07b"/>
           </para>
           <para codify:path="(4)">
             <num>(D)</num>
@@ -190,7 +190,7 @@
               <para codify:path="(ii)">
                 <num>(I)</num>
                 <text>Sub-subparagraph (ii) is amended by striking the word "and"</text>
-                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-771.07b|(b)|(4)|(B)|(ii)">
+                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-771.07b">
                   <find>and</find>
                   <replace/>
                 </codify:find-replace>
@@ -198,7 +198,7 @@
               <para codify:path="(iii)">
                 <num>(II)</num>
                 <text>Sub-subparagraph (iii) is amended by striking the phrase "tools;" and inserting the phrase "tools; and" in its place.</text>
-                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-771.07b|(b)|(4)|(B)|(iii)">
+                <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§7-771.07b">
                   <find>tools;</find>
                   <replace>tools; and</replace>
                 </codify:find-replace>
@@ -207,7 +207,7 @@
             <para>
               <num>(ii)</num>
               <text>Subparagraph (C) is repealed.</text>
-              <codify:repeal path="(C)" codified:doc="D.C. Code" codified:path="§7-771.07b|(b)|(4)|(C)"/>
+              <codify:repeal path="(C)" codified:doc="D.C. Code" codified:path="§7-771.07b"/>
             </para>
           </para>
           <codify:not-funded-anno doc="D.C. Code" path="§7-771.07b" applicability-path="§401" display-template="" codified:doc="D.C. Code" codified:path="§7-771.07b" codified:display="Note"/>
@@ -217,7 +217,7 @@
           <text>Subsection (d) is amended to read as follows:</text>
           <include>
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§7-771.07b|(d)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§7-771.07b"/>
               <num>(d)</num>
               <para>
                 <num>(1)</num>
@@ -391,7 +391,7 @@
         <num>(a)</num>
         <text>Sections 201 and 202(a)(1) of this act shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
         <codify:applicability doc="D.C. Law 23-251" path="§201" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1408"/>
-        <codify:applicability doc="D.C. Law 23-251" path="§202|(a)|(1)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-771.07b|(b)|(1)"/>
+        <codify:applicability doc="D.C. Law 23-251" path="§202|(a)|(1)" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-771.07b"/>
       </para>
       <para>
         <num>(b)</num>

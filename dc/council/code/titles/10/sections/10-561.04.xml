@@ -1,14 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>10-561.04</num>
   <heading>Chief Building Official.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>There shall be, subordinate to the Director, a Chief Building Official within the Department with primary authority for the administration of and determination of compliance with the Construction Codes and the Green Building Act of 2006, effective March 8, 2007 (D.C. Law 16-234; D.C. Official Code § 6-1451.01 <em>et seq</em>.).</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Chief Building Official shall be appointed by the Mayor with the advice and consent of the Council, pursuant to section 2(a) of the Confirmation Act of 1978, effective March 3, 1979 (D.C. Law 2-142; D.C. Official Code § 1-523.01(a)).</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>Upon the applicability date of this act, the individual then serving in the position of Chief Building Official at the Department of Consumer and Regulatory Affairs ("Incumbent CBO") shall serve as the CBO until the expiry of a 5-year term to be calculated from the applicability date of this act. If the Incumbent CBO is unable to serve as CBO, the deputy to the Incumbent CBO shall serve as acting CBO until a new CBO is appointed by the Mayor pursuant to subsection (b) of this section.</text>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>The CBO shall have not less than 8 years of senior-level experience in administering building standards and shall have demonstrated, through knowledge and experience, the ability to administer a building standard system of the size and complexity of the responsibilities covered by this act.</text>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>The CBO shall serve for one 5-year term and may be reappointed pursuant to subsection (b) of this section.</text>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>The CBO shall not be required to resign at the end of a mayoral term or administration.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-561.04" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-561.04">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§104">§ 104 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§104" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-269" path="§104" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§104">§ 104 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§104" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-269" path="§104" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§104">§ 104 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>
