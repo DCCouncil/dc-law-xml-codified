@@ -1,35 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>10-561.02</num>
   <heading>Establishment of the Department of Buildings.</heading>
-  <para>
-    <num>(a)</num>
-    <text>Pursuant to section 404(b) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 787; D.C. Official Code § 1-204.04(b)), there is established, as a subordinate agency within the executive branch of the District of Columbia government, the Department of Buildings, which shall be headed by a Director who shall carry out the functions and authorities assigned to the Department.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>The Department is charged with promoting the health, safety, and quality of life of residents and visitors in the District of Columbia by reviewing proposed plans for technical sufficiency, issuing permits to ensure competent construction, inspecting the built environment, regulating land use and development, and enforcing the regulations and codes governing building construction, rental housing conditions, building maintenance, building safety, and zoning.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>The functions of the Department shall be to:</text>
-    <para>
-      <num>(1)</num>
-      <text>Ensure that the physical environment and structure of all buildings in the District of Columbia meet all applicable regulations and codes for preservation or for the use to which the space or structure is to be put;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Ensure that the habitability and sanitary condition of all rental housing units in the District of Columbia meet all applicable regulations and codes, except those that are under the exclusive jurisdiction of the United States; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Ensure that public and private land and structures meet adequate health, safety, and environmental standards.</text>
-    </para>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-561.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-561.02">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§102">§ 102 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
-    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§102" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§102" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-269" path="§102" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§102">§ 102 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§102" type="History"/>
   </annotations>
 </section>

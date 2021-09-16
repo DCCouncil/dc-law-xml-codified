@@ -139,7 +139,7 @@
         <text>Paragraph (1) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§10-1202.03a|(a)"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§10-1202.03a|(a)|(1)"/>
             <num>(1)</num>
             <text>Demonstrate loss of income due to the public health emergency;</text>
           </para>
@@ -151,7 +151,7 @@
         <text>Paragraph (2) is amended to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:replace codified:doc="D.C. Code" codified:path="§10-1202.03a|(a)"/>
+            <codify:replace codified:doc="D.C. Code" codified:path="§10-1202.03a|(a)|(2)"/>
             <num>(2)</num>
             <para>
               <num>(A)</num>
@@ -178,7 +178,7 @@
         <text>A new paragraph (3) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert codified:doc="D.C. Code" codified:path="§10-1202.03a|(a)"/>
+            <codify:insert codified:doc="D.C. Code" codified:path="§10-1202.03a|(a)|(3)"/>
             <num>(3)</num>
             <text>Provide a:</text>
             <para>
@@ -210,7 +210,7 @@
   <section>
     <num>4</num>
     <text>Section 3(9)(A)(i) of the Commission on the Arts and Humanities Act, effective October 21, 1975 (D.C. Law 1-22; D.C. Official Code § 39-202(9)(A)(i)), is amended by striking the phrase "exclusive of District funds" and inserting the phrase "exclusive of District funds other than sponsorships provided by Events DC" in its place.</text>
-    <codify:find-replace doc="D.C. Code" path="§39-202|(9)|(A)|(i)" count="1" codified:doc="D.C. Code" codified:path="§39-202|(9)">
+    <codify:find-replace doc="D.C. Code" path="§39-202|(9)|(A)|(i)" count="1" codified:doc="D.C. Code" codified:path="§39-202|(9)|(A)|(i)">
       <find>exclusive of District funds</find>
       <replace>exclusive of District funds other than sponsorships provided by Events DC</replace>
     </codify:find-replace>
