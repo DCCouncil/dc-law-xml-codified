@@ -1,14 +1,54 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-2581.01</num>
   <heading>Definitions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>"Dyslexia" means a specific learning disability that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Is neurobiological in origin;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Is characterized by difficulties with accurate or fluent word recognition and by poor spelling and decoding abilities, which typically result from a deficiency in the phonological component of language that is often unexpected in relation to other cognitive abilities and the provision of effective classroom instruction; and</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>May have secondary consequences, such as problems in reading comprehension and reduced reading experience that can impede growth of vocabulary and background knowledge.</text>
+      </para>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Educator" means a teacher, school administrator, guidance counselor, social worker, or an individual who works with students with special needs in an academic capacity.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Local education agency" or "LEA" means the District of Columbia Public Schools system, any individual public charter school, or any group of public charter schools operating under a single charter.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"OSSE" means Office of the State Superintendent of Education.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Public school" means District of Columbia Public Schools and public charter schools in the District of Columbia.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Reading difficulty" means any neurological or physical impediment to reaching grade-level developmental reading milestones, including dyslexia, dyscalculia, or dysgraphia, and other reading disabilities.</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"Science-based reading program" means a reading curriculum, based on the science of reading, that includes explicit and systematic instruction in phonemic awareness, phonics, fluency, vocabulary, and comprehension strategies.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-2581.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-2581.01">Applicability of <cite doc="D.C. Law 23-191" path="">D.C. Law 23-191</cite>: <cite doc="D.C. Law 23-191" path="§301">§ 301 of D.C. Law 23-191</cite> provided that the creation of this section by <cite doc="D.C. Law 23-191" path="§101">§ 101 of D.C. Law 23-191</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-191" eff="2021-03-16" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-191" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-191" eff="2021-03-16" path="§101" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-191" path="§101" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-191" path="">D.C. Law 23-191</cite>: <cite doc="D.C. Law 23-191" path="§301">§ 301 of D.C. Law 23-191</cite> provided that the creation of this section by <cite doc="D.C. Law 23-191" path="§101">§ 101 of D.C. Law 23-191</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-191" eff="2021-03-16" path="" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-191" eff="2021-03-16" path="§101" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-191" path="§101" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-191" path="">D.C. Law 23-191</cite>: <cite doc="D.C. Law 23-191" path="§301">§ 301 of D.C. Law 23-191</cite> provided that the creation of this section by <cite doc="D.C. Law 23-191" path="§101">§ 101 of D.C. Law 23-191</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

@@ -1,14 +1,40 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1402.101</num>
   <heading>Definitions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of this part:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Caregiver" means an individual who provides medical or non-medical care to a resident of a long-term care facility.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"HIV" means the human immunodeficiency virus.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Long-term care facility" shall have the same meaning as provided in section 101(7) of the District of Columbia Long-Term Care Ombudsman Program Act of 1988, effective March 16, 1989 (D.C. Law 7-218; D.C. Official Code § 7-701.01(7)).</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Resident" shall have the same meaning as provided in section 101(13) of the District of Columbia Long-Term Care Ombudsman Program Act of 1988, effective March 16, 1989 (D.C. Law 7-218; D.C. Official Code § 7-701.01(13)).</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"Resident's representative" shall have the same meaning as provided in section 101(14) of the District of Columbia Long-Term Care Ombudsman Program Act of 1988, effective March 16, 1989 (D.C. Law 7-218; D.C. Official Code § 7-701.01(14)).</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"Staff" means an employee or contractor of a long-term care facility.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1402.101" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1402.101">Applicability of <cite doc="D.C. Law 23-154" path="">D.C. Law 23-154</cite>: <cite doc="D.C. Law 23-154" path="§4">§ 4 of D.C. Law 23-154</cite> provided that the creation of this section by <cite doc="D.C. Law 23-154" path="§3">§ 3 of D.C. Law 23-154</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 2-38" type="History" path="§293">Dec. 13, 1977, D.C. Law 2-38, title II, § 293</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" prefix="as added" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-154" path="§3" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-154" path="">D.C. Law 23-154</cite>: <cite doc="D.C. Law 23-154" path="§4">§ 4 of D.C. Law 23-154</cite> provided that the creation of this section by <cite doc="D.C. Law 23-154" path="§3">§ 3 of D.C. Law 23-154</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" type="History"/>
   </annotations>

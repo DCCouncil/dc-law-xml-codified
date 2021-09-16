@@ -1,14 +1,46 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-251.03</num>
   <heading>Home or hospital instruction approval process.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>A parent of a student may submit an oral or written request for home or hospital</text>
+      <text>instruction to the LEA in which the student for whom the parent is requesting the instruction is enrolled; provided, that a request may not be granted until the parent submits a written application consistent with the requirements of this subsection.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Upon receipt of a request for home or hospital instruction from a parent of a student enrolled in the LEA, the LEA shall document the request no later than 2 school days following receipt and shall provide information to the parent explaining the process for submitting a written application for home or hospital instruction and obtaining a medical certification of need.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>A student shall be approved for home or hospital instruction when the LEA in which the student is enrolled receives a completed written application and medical certification of need. An LEA may deny an application for home or hospital instruction only in the event that the application or a medical certification of need is missing or incomplete.  Nothing in this provision shall prohibit an LEA, as part of its review of the application and medical certification, from proposing accommodations to allow the student to remain in school; provided, that the medical professional signing the medical certification of need shall agree in writing that such accommodations meet the medical needs of the student and permit in-school instruction.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Upon approval of an application for home or hospital instruction pursuant to this subsection, the LEA shall commence the delivery of such instruction in accordance with <cite path="§38-251.06">§ 38-251.06</cite>.  During the provision of such instruction, the LEA may make reasonable requests for information concerning the student's continuing medical need for home or hospital instruction and work with a student's parent to develop accommodations or measures that would permit the student to return to school.</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>OSSE shall promulgate regulations to define what constitutes a completed application and medical certification of need and any other regulations that may be necessary to ensure due deference to the medical opinions set forth in the medical certification of need while facilitating the return of the student to school when medically feasible.</text>
+    </para>
+  </para>
+  <para>
+    <num>[(b)]</num>
+    <para>
+      <num>(1)</num>
+      <text>The LEA shall issue a written decision approving or denying a home or hospital instruction program application submitted pursuant to subsection (a) of this section. The decision shall contain a written explanation of the basis for the approval or denial, and if the LEA denies an application, the decision shall state specifically that the basis for its determination was a missing or incomplete application or medical certification of need.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The LEA shall issue the written decision required by paragraph (1) of this subsection no later than 5 days after the receipt of the application for home or hospital instruction.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-251.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-251.03">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§4">§ 4 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§12|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-204" eff="2021-03-16" path="§4" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-204" path="§4" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§4">§ 4 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§4" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-204" path="§4" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§4">§ 4 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

@@ -1,14 +1,47 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-671.03</num>
   <heading>Qualifications.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Ombudsperson shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Be a person of recognized judgment, objectivity, and integrity, and qualified by training or experience to analyze problems of law, administration, and public policy;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Possess experience in the field of social work, counseling, healthcare, mediation, law, policy, or public administration or auditing, accounting, or other investigative field;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Have management experience that demonstrates an ability to hire and supervise qualified staff; and</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Become a member of the United States Ombudsman Association ("USOA") and, upon appointment, attend the new ombudsman training offered by USOA.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>The Ombudsperson shall not:</text>
+    <para>
+      <num>(1)</num>
+      <text>Participate in partisan political activities;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Be a candidate for or hold any other elective or appointive government office; or</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Engage in any other occupation, business, or profession that may detract from the performance of the Ombudsperson's duties or result in a conflict of interest or an appearance of impropriety or partiality with the duties of the Ombudsperson.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-671.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-671.03">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§103">§ 103 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§103" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-270" path="§103" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§103">§ 103 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="§103" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-270" path="§103" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§103">§ 103 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

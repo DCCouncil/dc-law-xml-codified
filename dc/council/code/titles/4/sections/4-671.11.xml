@@ -1,14 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-671.11</num>
   <heading>Reprisals prohibited.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>No person, including a CFSA constituent, an employee of an agency, an employee of an agency's licensed or contracted service and placement provider, or an employee of any entity that must operate under or comply with guidance from an agency, who files a complaint or participates in an investigation or proceeding pursuant to this title shall be subject to any penalties, sanctions, or restrictions in connection with the employee's employment or be denied any right, privilege, or benefit because of such action.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>A person who alleges a violation of this section may bring a civil action for appropriate injunctive relief, actual damages, and punitive damages. Punitive damages shall not exceed $10,000.</text>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The provisions of this section shall not limit the availability of any other remedy under the law.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-671.11" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-671.11">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§111">§ 111 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§111" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-270" path="§111" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§111">§ 111 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="§111" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-270" path="§111" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§111">§ 111 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

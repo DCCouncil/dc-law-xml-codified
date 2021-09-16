@@ -244,16 +244,16 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:applicability doc="D.C. Law 24-16" path="§2" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-151.09b"/>
-      <codify:applicability doc="D.C. Law 24-16" path="§3" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-361.01|(a)"/>
-      <codify:insert doc="D.C. Code" path="§8-151.10" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§8-151.10">
+      <codify:applicability doc="D.C. Law 24-16" path="§2" date="notfunded" history="false" display-template=""/>
+      <codify:applicability doc="D.C. Law 24-16" path="§3" date="notfunded" history="false" display-template=""/>
+      <codify:insert doc="D.C. Code" path="§8-151.10" before="heading" history="false" display-template="">
         <text>
       *NOTE: Law 24-16, which amended this section, is not funded. Those amendments have not been included in this section.*
       </text>
       </codify:insert>
-      <codify:insert doc="D.C. Code" path="§2-361.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-361.01">
+      <codify:insert doc="D.C. Code" path="§2-361.01" before="heading" history="false" display-template="">
         <text>
-      *NOTE: Law 24-16, which amended this section,is not funded. Those amendments have not been included in this section.*
+      *NOTE: Law 24-16, which amended this section, is not funded. Those amendments have not been included in this section.*
       </text>
       </codify:insert>
     </para>

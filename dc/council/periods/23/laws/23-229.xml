@@ -600,8 +600,8 @@
     <para>
       <num>(a)</num>
       <text>The amendatory subsection (d)(1) within section 3(a)(2) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal doc="D.C. Code" path="§34-2158|(d)|(1)" display-template="" history="false" codified:doc="D.C. Code" codified:path="§34-2158|(d)|(1)"/>
-      <codify:find-replace doc="D.C. Code" path="§34-2158|(d)|(1)" count="1" display-template="" history="false" codified:doc="D.C. Code" codified:path="§34-2158|(d)|(1)">
+      <codify:repeal doc="D.C. Code" path="§34-2158|(d)|(1)" display-template="" history="false"/>
+      <codify:find-replace doc="D.C. Code" path="§34-2158|(d)|(1)" count="1" display-template="" history="false">
         <find>Repealed</find>
         <replace>Not Funded</replace>
       </codify:find-replace>

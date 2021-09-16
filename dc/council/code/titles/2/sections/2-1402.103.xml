@@ -1,14 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>2-1402.103</num>
   <heading>Personal information.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>At the time of a resident's admission to a long-term care facility, the resident shall have the option to provide information on the resident's gender identity or expression and preferred name and pronouns.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>Long-term care facilities shall protect personally identifiable information regarding a resident's sexual orientation, gender identity or expression, transition history, and HIV status from unauthorized disclosure as may be required by any applicable provision of federal or District law. A long-term care facility shall take reasonable steps to minimize the likelihood of inadvertent or incidental disclosure of that information to other residents, visitors, or staff, except to the extent necessary for staff to perform their duties.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1402.103" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1402.103">Applicability of <cite doc="D.C. Law 23-154" path="">D.C. Law 23-154</cite>: <cite doc="D.C. Law 23-154" path="§4">§ 4 of D.C. Law 23-154</cite> provided that the creation of this section by <cite doc="D.C. Law 23-154" path="§3">§ 3 of D.C. Law 23-154</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation doc="D.C. Law 2-38" type="History" path="§295">Dec. 13, 1977, D.C. Law 2-38, title II, § 295</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" prefix="as added" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-154" path="§3" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-154" path="">D.C. Law 23-154</cite>: <cite doc="D.C. Law 23-154" path="§4">§ 4 of D.C. Law 23-154</cite> provided that the creation of this section by <cite doc="D.C. Law 23-154" path="§3">§ 3 of D.C. Law 23-154</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" type="History"/>
   </annotations>

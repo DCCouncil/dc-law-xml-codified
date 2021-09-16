@@ -1,14 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-2352.07</num>
   <heading>Administrative appeals.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>A person aggrieved by an action of the Department taken pursuant to this act, or a regulation promulgated pursuant to this act, may appeal the action of the Department to the Office of Administrative Hearings, pursuant to section 6(a) of the Office of Administrative Hearings Establishment Act of 2001, effective March 6, 2002 (D.C. Law 14-76; D.C. Official Code § 2-1831.03(a)). The Office of Administrative Hearing shall provide a de novo hearing and shall determine whether the Department's action was legally proper.</text>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>An appeal shall be filed within 15 days after the adverse action of the Department, or, if notice of the adverse action is served by the United States mail or commercial carrier, within 20 days after the adverse action of the Department.</text>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 19-278" type="History" path="§3g">Apr. 23, 2013, D.C. Law 19-278, § 3g</annotation>
     <annotation type="Applicability" doc="D.C. Law 23-156" path="§2|(c)" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-156" path="">D.C. Law 23-156</cite>: <cite doc="D.C. Law 23-156" path="§3">§ 3 of D.C. Law 23-156</cite> provided that the creation of this section by <cite doc="D.C. Law 23-156" path="§2|(c)">§ 2(c) of D.C. Law 23-156</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(c)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(c)" prefix="as added" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(c)" prefix="as added" type="History"/>
   </annotations>
 </section>

@@ -1,14 +1,83 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>3-641.03</num>
   <heading>Commission on Poverty; functions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>The Commission shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Serve as District leaders in advancing policies and initiatives aimed at elevating the needs of persons in poverty;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Review and make comments and recommendations on existing and proposed programs, policies, administrative rules, and statutes that have an impact on poverty in the District and, in particular, on District residents living in poverty;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Represent the Commission and the interests of persons in poverty before District public bodies and agencies.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>As required by section 106, develop a comprehensive, strategic poverty-reduction plan for the reduction of poverty in the District;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Following the adoption of the poverty-reduction plan, meet and issue annual reports on the poverty-reduction plan, which shall include updates on the implementation of the poverty-reduction plan and updates on District legislative and agency initiatives that address or intersect with poverty, which reports the Commission shall submit to the Mayor and the Council;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>On an ongoing basis and in preparation for issuance of its annual report, conduct studies and review the progress of programs and District agencies engaged in addressing poverty;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Hold public meetings, hearings, and listening sessions as required by section 106 and in compliance with the Open Meetings Act, effective March 31, 2011 (D.C. Law 18-350; D.C. Official Code § 2-571 <em>et seq.</em>);</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Periodically conduct forums of experts on matters affecting the health, safety, and welfare of persons in poverty;</text>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>Establish and maintain a publicly accessible website, on which the Commission shall post the following content:</text>
+      <para>
+        <num>(A)</num>
+        <text>The poverty-reduction plan;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The Commission's annual reports;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Notice of the Commission's meetings, hearings, and listening sessions; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Any other notices or information the Commission determines appropriate.</text>
+      </para>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>Review and comment on proposed District legislation, including the Mayor's annual budget submission to the Council, and regulations, policies, and programs that address or may have an effect on poverty;</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>Identify and track the adoption and progress of the Commission's recommendations in the poverty-reduction plan; and</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>Request and receive information and data from various governmental and non-governmental sources necessary to aid the Commission in the discharge of its responsibilities.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>To the extent not otherwise restricted by District or federal law, the Commission shall have the authority to request directly from each department, agency, or instrumentality of the District any non-confidential information considered necessary by the Commission to fulfill its mandate; and each department, agency, or instrumentality shall provide such required non-confidential information to the Commission upon its request.</text>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§3-641.03" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-641.03">Applicability of <cite doc="D.C. Law 23-184" path="">D.C. Law 23-184</cite>: <cite doc="D.C. Law 23-184" path="§301">§ 301 of D.C. Law 23-184</cite> provided that the creation of this section by <cite doc="D.C. Law 23-184" path="§103">§ 103 of D.C. Law 23-184</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§103" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-184" path="§103" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-184" path="">D.C. Law 23-184</cite>: <cite doc="D.C. Law 23-184" path="§301">§ 301 of D.C. Law 23-184</cite> provided that the creation of this section by <cite doc="D.C. Law 23-184" path="§103">§ 103 of D.C. Law 23-184</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="§103" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-184" path="§103" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-184" path="">D.C. Law 23-184</cite>: <cite doc="D.C. Law 23-184" path="§301">§ 301 of D.C. Law 23-184</cite> provided that the creation of this section by <cite doc="D.C. Law 23-184" path="§103">§ 103 of D.C. Law 23-184</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

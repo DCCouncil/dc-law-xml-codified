@@ -7,7 +7,7 @@
   <heading type="long">To ban non-compete provisions in employment contracts and employer policies, to protect employees from being required to sign non-compete agreements, to make void and unenforceable non-compete provisions entered into after the applicability date of this act, to prohibit an employer from retaliating or threatening to retaliate against an employee for refusing to agree to a non-compete provision, the failure to comply with the employer's non-compete provision or policy, or inquiring about the employee's rights or informing another person or entity about a possible violation of Title I of this act, to exempt medical specialists from certain of Title I's requirements, to protect medical specialists by requiring their employers to provide employees 14 days' notice of non-compete provisions and notice of their rights under Title I, to require that employers inform employees of Title I of this act, to require that the Mayor and the Attorney General administer and enforce Title I of this act consistent with their respective powers and rights under An Act To provide for the payment and collection of wages in the District of Columbia and the District's Administrative Procedure Act, to authorize the Mayor to collect administrative penalties for violations of Title I of this act, to authorize employees to bring administrative complaints and civil actions against employers for violations of Title I of this act, to provide statutory penalties for violations of Title I of this act; to amend An Act To provide for the payment and collection of wages in the District of Columbia to provide that revenue from administrative penalties recovered under Title I of this act shall be deposited into the Wage Theft Prevention Fund and used to enforce the provisions of Title I of this act and other employee protection laws; and to repeal the Broadcast Industry Contracting Freedom Act of 2002.</heading>
   <meta>
     <introduced>2019-10-08</introduced>
-    <effective>2021-03-16</effective>
+    <effective projected="true">2022-04-01</effective>
     <citations>
       <citation type="law" url="https://lims.dccouncil.us/downloads/LIMS/43373/Signed_Act/B23-0494-Signed_Act.pdf">D.C. Law 23-209</citation>
       <citation type="act" url="https://lims.dccouncil.us/downloads/LIMS/43373/Signed_Act/B23-0494-Signed_Act.pdf">D.C. Act 23-563</citation>
@@ -23,7 +23,7 @@
     </history>
   </meta>
   <text>BE IT ENACTED BY THE COUNCIL OF THE DISTRICT OF COLUMBIA, That this act may be cited as the "Ban on Non-Compete Agreements Amendment Act of 2020".</text>
-  <codify:insert doc="D.C. Code" path="32" after="5A" history="false" codified:doc="D.C. Code" codified:path="32|5B">
+  <codify:insert doc="D.C. Code" path="32" after="5A" history="false">
     <container>
       <prefix>Chapter</prefix>
       <num>5B</num>
@@ -35,7 +35,7 @@
     <num>I</num>
     <heading>BAN ON NON-COMPETE AGREEMENTS</heading>
     <section>
-      <codify:insert doc="D.C. Code" path="32|5B" num-value="32-581.01" codified:doc="D.C. Code" codified:path="§32-581.01"/>
+      <codify:insert doc="D.C. Code" path="32|5B" num-value="32-581.01"/>
       <num>101</num>
       <heading>Definitions.</heading>
       <para>
@@ -110,10 +110,10 @@
           <text>"Workplace policy" means the rules and restrictions, whether written or as a matter of practice, implemented by an employer to govern the conduct of the employer's employees.</text>
         </para>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§32-581.01" applicability-path="§302" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-581.01" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-581.01" applicability-path="§302" action="creation of" display-template=""/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="32|5B" num-value="32-581.02" codified:doc="D.C. Code" codified:path="§32-581.02"/>
+      <codify:insert doc="D.C. Code" path="32|5B" num-value="32-581.02"/>
       <num>102</num>
       <heading>Non-compete rights and restrictions.</heading>
       <para>
@@ -199,10 +199,10 @@
           <text><span codify:value="[]">"</span>No employer operating in the District of Columbia may request or require any employee working in the District of Columbia to agree to a non-compete policy or agreement, in accordance with <code-cite doc="D.C. Code" path="32|5B">the Ban on Non-Compete Agreements Amendment Act of 2020</code-cite>.<span codify:value="[]">"</span>.</text>
         </para>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§32-581.02" applicability-path="§302" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-581.02" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-581.02" applicability-path="§302" action="creation of" display-template=""/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="32|5B" num-value="32-581.03" codified:doc="D.C. Code" codified:path="§32-581.03"/>
+      <codify:insert doc="D.C. Code" path="32|5B" num-value="32-581.03"/>
       <num>103</num>
       <heading>Protections for medical specialists.</heading>
       <para>
@@ -245,10 +245,10 @@
           <text>Requesting from the employer the information required to be provided to the medical specialist pursuant to subsection (a) of this section.</text>
         </para>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§32-581.03" applicability-path="§302" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-581.03" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-581.03" applicability-path="§302" action="creation of" display-template=""/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="32|5B" num-value="32-581.04" codified:doc="D.C. Code" codified:path="§32-581.04"/>
+      <codify:insert doc="D.C. Code" path="32|5B" num-value="32-581.04"/>
       <num>104</num>
       <heading>Relief and penalties.</heading>
       <para>
@@ -350,14 +350,14 @@
           </para>
         </para>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§32-581.04" applicability-path="§302" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-581.04" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-581.04" applicability-path="§302" action="creation of" display-template=""/>
     </section>
     <section>
-      <codify:insert doc="D.C. Code" path="32|5B" num-value="32-581.05" codified:doc="D.C. Code" codified:path="§32-581.05"/>
+      <codify:insert doc="D.C. Code" path="32|5B" num-value="32-581.05"/>
       <num>105</num>
       <heading>Rules.</heading>
       <text>The Mayor, pursuant to <code-cite doc="D.C. Code" path="2|5|I">Title I of the District of Columbia Administrative Procedure Act, approved October 21, 1968 (82 Stat. 1204; D.C. Official Code § 2-501 <em>et seq</em>.)</code-cite>, shall issue rules to implement the provisions of <code-cite doc="D.C. Code" path="32|5B">this title</code-cite>, including rules requiring employers to keep, preserve, and retain records related to compliance with <code-cite doc="D.C. Code" path="32|5B">this title</code-cite>.</text>
-      <codify:not-funded-anno doc="D.C. Code" path="§32-581.05" applicability-path="§302" action="creation of" display-template="" codified:doc="D.C. Code" codified:path="§32-581.05" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-581.05" applicability-path="§302" action="creation of" display-template=""/>
     </section>
   </container>
   <container codify:doc="D.C. Code">
@@ -370,7 +370,7 @@
       <para codify:path="(b)">
         <num>(a)</num>
         <text>Subsection (b) is amended by striking the phrase "section 7" and inserting the phrase "section 7 and section 104(a) and (b) of the Ban on Non-Compete Agreements Amendment Act of 2020, passed on 2nd reading on December 15, 2020 (Enrolled version of Bill 23-494) ("Ban on Non-Compete Agreements Act")" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1307.01|(b)">
+        <codify:find-replace count="1">
           <find>
             <cite path="§32-1307">§ 32-1307</cite>
           </find>
@@ -380,12 +380,12 @@
       <para codify:path="(c)">
         <num>(b)</num>
         <text>Subsection (c) is amended by striking the phrase "this act, the Minimum Wage Revision Act, the Sick and Safe Leave Act, and the Living Wage Act" and inserting the phrase "this act, Title I of the Ban on Non-Compete Agreements Act, the Living Wage Act, the Minimum Wage Revision Act, and the Sick and Safe Leave Act" in its place.</text>
-        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§32-1307.01|(c)">
+        <codify:find-replace count="1">
           <find>this chapter, the Minimum Wage Revision Act, the Sick and Safe Leave Act, and the Living Wage Act</find>
           <replace><code-cite doc="D.C. Code" path="32|13|I">this act</code-cite>, <code-cite doc="D.C. Code" path="32|5B">Title I of the Ban on Non-Compete Agreements Act</code-cite>, the Living Wage Act, the Minimum Wage Revision Act, and the Sick and Safe Leave Act</replace>
         </codify:find-replace>
       </para>
-      <codify:not-funded-anno doc="D.C. Code" path="§32-1307.01" applicability-path="§302" display-template="" codified:doc="D.C. Code" codified:path="§32-1307.01" codified:display="Note"/>
+      <codify:not-funded-anno doc="D.C. Code" path="§32-1307.01" applicability-path="§302" display-template=""/>
     </section>
   </container>
   <container>
@@ -395,8 +395,8 @@
     <section>
       <num>301</num>
       <text>The Broadcast Industry Contracting Freedom Act of 2002, effective March 27, 2003 (D.C. Law 14-258; D.C. Official Code § 32-571 <em>et seq.</em>), is repealed.</text>
-      <codify:repeal doc="D.C. Code" path="32|5A" codified:doc="D.C. Code" codified:path="§32-531"/>
-      <codify:not-funded-anno doc="D.C. Code" path="32|5A" applicability-path="§302" action="repeal of" display-template="" codified:doc="D.C. Code" codified:path="§32-531" codified:display="Note"/>
+      <codify:repeal doc="D.C. Code" path="32|5A"/>
+      <codify:not-funded-anno doc="D.C. Code" path="32|5A" applicability-path="§302" action="repeal of" display-template=""/>
     </section>
     <section>
       <num>302</num>
@@ -404,7 +404,7 @@
       <para>
         <num>(a)</num>
         <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-        <codify:applicability doc="D.C. Law 23-209" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-531"/>
+        <codify:applicability doc="D.C. Law 23-209" date="notfunded" history="false" display-template=""/>
       </para>
       <para>
         <num>(b)</num>

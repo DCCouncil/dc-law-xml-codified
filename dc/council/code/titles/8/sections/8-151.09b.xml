@@ -1,13 +1,103 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>8-151.09b</num>
   <heading>Greenhouse gas emissions in food and beverage procurement.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <para>
+      <num>(1)</num>
+      <text>To track the greenhouse gas emissions associated with food and beverage purchases made by the District government, DOEE shall, on or before January 1, 2023, in consultation with the Office of Contracting and Procurement, adopt a methodology, taking into account the costs and feasibility of implementing the methodology, for the District to estimate, to the extent practicable, the greenhouse gas emissions that occur through the life cycle of food and beverages purchased by covered agencies, including by third-party vendors that provide food and beverages on behalf of the covered agencies.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The methodology adopted pursuant to paragraph (1) of this subsection shall enable DOEE to reliably track changes in food and beverage-related greenhouse gas emissions over time and demonstrate reductions in greenhouse gas emissions associated with food and beverage purchases.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>On or before January 1, 2023, DOEE shall establish:</text>
+    <para>
+      <num>(1)</num>
+      <text>A baseline assessment of the overall annual greenhouse gas associated with the food and beverages purchased by covered agencies; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Best practices for covered agencies to reduce the greenhouse gas emissions associated with food and beverages with the goal of reducing overall greenhouse gas emissions in accordance with the reduction schedule provided in subsection (d) of this section, without restricting growth in services or reducing the number of meals served.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <para>
+      <num>(1)</num>
+      <text>Covered agencies shall incorporate the best practices established under subsection (b)(2) of this section into their food and beverage procurement to achieve the goal of reducing the greenhouse gas emissions associated with food and beverages purchased by the covered agency, while also ensuring that food and beverage options are culturally appropriate, responsive to input from the individuals for whom the foods and beverages are purchased, and have nutritional value that is comparable or superior to any foods and beverages that they replace.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>On or before February 1, 2025, and each February 1 thereafter, each covered contracting agency shall report to DOEE on the progress in reducing greenhouse gas emissions associated with food and beverages procured by covered agencies during the preceding fiscal year in a format to be determined by DOEE and consistent with the methodology adopted pursuant to subsection (a)(1) of this section.</text>
+    </para>
+  </para>
+  <para>
+    <num>(d)</num>
+    <text>Without restricting growth in services or reducing the number of meals served, the District shall reduce its overall greenhouse gas emissions associated with food and beverages purchased by covered agencies according to the following reduction schedule as measured in relation to the baseline assessment established pursuant to subsection (b)(1) of this section:</text>
+    <para>
+      <num>(1)</num>
+      <text>By Fiscal Year 2025, a 10% reduction;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>By Fiscal Year 2027, an 18% reduction; and</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>By Fiscal Year 2030, a 25% reduction.</text>
+    </para>
+  </para>
+  <para>
+    <num>(e)</num>
+    <text>Beginning July 1, 2025, and each July 1 thereafter, DOEE shall publish an annual report on its website that includes:</text>
+    <para>
+      <num>(1)</num>
+      <text>An update on the overall progress of the District in reducing greenhouse gas emissions associated with food and beverages procured by the District; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Policy recommendations to further reduce greenhouse gas emissions from food and beverages, to more quickly achieve the reduction goals established by this section, or to revise the reduction schedule provided in subsection (d) of this section.</text>
+    </para>
+  </para>
+  <para>
+    <num>(f)</num>
+    <text>Subsections (a) through (e) of this section shall not apply to food and beverage procurements with a value of less than $10,000.</text>
+  </para>
+  <para>
+    <num>(g)</num>
+    <para>
+      <num>(1)</num>
+      <text>In addition to the best practices established pursuant to subsection (b)(2) of this section, DOEE shall establish and promote recommendations for private entities on how to voluntarily reduce greenhouse gas emissions associated with their food and beverage procurement.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>DOEE may provide incentives to encourage private entities to pursue such reductions.</text>
+    </para>
+  </para>
+  <para>
+    <num>(h)</num>
+    <text>DOEE may expand the requirements of this section to take into account air pollution emissions.</text>
+  </para>
+  <para>
+    <num>(i)</num>
+    <text>For the purposes of this section, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Covered agency" means a District agency that provides meals to residents, either directly or through a third-party vendor.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Covered contracting agency" means OCP or any covered agency exercising independent procurement authority for the purchase of food or beverages for meals.</text>
+    </para>
+  </para>
   <annotations>
     <annotation doc="D.C. Law 16-51" type="History" path="§109b">Feb. 15, 2006, D.C. Law 16-51, § 109b</annotation>
-    <annotation app="2021-07-29" doc="D.C. Law 24-16" eff="2021-07-29" path="§4|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 24-16" eff="2021-07-29" path="§2|(a)" prefix="as added" type="History"/>
+    <annotation app="2021-07-29" doc="D.C. Law 24-16" eff="2021-07-29" path="§2|(a)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 24-16" path="§2|(a)" codified:display="Note" app="2021-07-29" eff="2021-07-29">Applicability of <cite doc="D.C. Law 24-16" path="">D.C. Law 24-16</cite>: <cite doc="D.C. Law 24-16" path="§4">§ 4 of D.C. Law 24-16</cite> provided that the creation of this section by <cite doc="D.C. Law 24-16" path="§2|(a)">§ 2(a) of D.C. Law 24-16</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-07-29" doc="D.C. Law 24-16" eff="2021-07-29" path="§2|(a)" type="History"/>
   </annotations>

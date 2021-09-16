@@ -1,14 +1,91 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>38-251.01</num>
   <heading>Definitions.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>For the purposes of <cite path="38|2|IV">this subchapter</cite>, the term:</text>
+    <para>
+      <num>(1)</num>
+      <text>"Health condition" means a physical or mental illness, injury, or impairment that prevents a student from participating in the day-to-day activities typically expected during school attendance.</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>"Home or hospital instruction" means academic instruction and support provided to a student participating in a home and hospital instruction program.</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>"Home and hospital instruction program" means a program that provides instruction and support to students who have been or are anticipated to be absent, on a continuous, partial, or intermittent basis, from their school of enrollment for 10 or more consecutive or cumulative school days during a school year due to a health condition.</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>"Home and hospital instruction policy" means a public document written by an LEA that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Sets forth the process for applying for home or hospital instruction and appealing a denial of eligibility; and</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Includes the required contents of a medical certification of need.</text>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>"IDEA" means the Individuals with Disabilities Education Act, approved April 13, 1970 (84 Stat. 175; 20 U.S.C. § 1400 <em>et seq</em>.), and its implementing regulations.</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>"IEP" means an Individualized Education Plan, which is a written plan that specifies special education programs and services to be provided to meet the unique educational needs of a child with a disability, as required under section 614(d) of IDEA (20 U.S.C. § 1414(d)).</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>"LEA" means local education agency, which is the District of Columbia Public School system or any individual or group of public charter schools operating under a single charter in the District.</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>"Medical certification of need" means a written statement signed by a licensed physician, licensed nurse practitioner, licensed clinical psychologist, licensed mental health counselor or therapist, or physician's assistant that:</text>
+      <para>
+        <num>(A)</num>
+        <text>Certifies that a student has been diagnosed with a health condition and explains how the health condition has caused or is anticipated to cause the student to be absent, on a continuous, partial, or intermittent basis, from the student's school of enrollment for 10 or more consecutive or cumulative school days during a school year;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Contains a recommendation that the student receive home or hospital instruction, to the extent permitted by the student's health condition;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>States the anticipated duration of the student's health condition; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>States whether the student's health condition is anticipated to cause continuous, partial, or intermittent absence from school.</text>
+      </para>
+    </para>
+    <para>
+      <num>(9)</num>
+      <text>"Medical recertification of need" means a medical certification of need verifying the continued need for home or hospital instruction.</text>
+    </para>
+    <para>
+      <num>(10)</num>
+      <text>"OSSE" means the Office of the State Superintendent of Education established by <cite path="§38-2601">§ 38-2601</cite>.</text>
+    </para>
+    <para>
+      <num>(11)</num>
+      <text>"Parent" means a parent, guardian, or other person who has custody or control of a student enrolled in a school or in an LEA, a student who is 18 years or older, or an emancipated minor.</text>
+    </para>
+    <para>
+      <num>(12)</num>
+      <text>"Section 504" means section 504 of the Rehabilitation Act of 1973, approved September 26, 1973 (87 Stat. 394; 29 U.S.C. § 794), and its implementing regulations.</text>
+    </para>
+    <para>
+      <num>(13)</num>
+      <text>"Section 504 Plan" means a written plan that specifies the accommodations and services provided to a student pursuant to Section 504.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-251.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-251.01">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§2">§ 2 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
     <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§12|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-204" eff="2021-03-16" path="§2" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-204" path="§2" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§2">§ 2 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§2" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-204" path="§2" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§2">§ 2 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

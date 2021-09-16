@@ -1,14 +1,71 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-671.06</num>
   <heading>Powers.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num>(a)</num>
+    <text>Notwithstanding any other provision of law, the Ombudsperson shall have the power to:</text>
+    <para>
+      <num>(1)</num>
+      <text>Access, examine, and copy, without payment of a fee, any agency record that is required for the discharge of the Ombudsperson's duties;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Make inquiries and obtain assistance and information from an agency, an agency-licensed or contracted service and placement provider, or an entity that must operate under or comply with guidance from an agency that is required for the discharge of the Ombudsperson's duties;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Log-in directly to CFSA's web-based case management and electronic data systems that service CFSA children without having to first obtain CFSA's consent or provide notice;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Conduct inspections of the premises, or any part thereof, without prior notice, of CFSA and licensed or contracted placement providers, including secure facilities and group homes, but excluding licensed single-family foster homes, that are necessary for the discharge of the Ombudsperson's duties;</text>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Conduct inspections of the premises, or any part thereof, with prior notice and consent, of single-family foster homes, contracted or licensed service providers, and any entity that must operate under or comply with guidance from CFSA that are necessary for the discharge of the Ombudsperson's duties;</text>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Issue a subpoena, enforceable in Superior Court of the District of Columbia, to compel the attendance and testimony of any person or to produce any record from an agency, an agency-licensed or contracted service and placement provider, or an entity that must operate under or comply with guidance from an agency that is required for the discharge of the Ombudsperson's duties;</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Communicate privately with a CFSA child who wishes to speak to the Ombudsperson, without prior notice to, or consent or interference from, CFSA; and</text>
+    </para>
+    <para>
+      <num>(8)</num>
+      <text>Communicate privately with an agency employee without prior notice to, consent or interference from, or in the presence of, that employee's supervisor, manager, or any other senior managers of the agency.</text>
+    </para>
+  </para>
+  <para>
+    <num>(b)</num>
+    <text>If the Ombudsperson, during the course of an investigation, requests to communicate with a CFSA child who is not the complainant:</text>
+    <para>
+      <num>(1)</num>
+      <text>The CFSA child shall have the opportunity to consult with counsel before communicating with the Ombudsperson; and</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>The Ombudsperson shall not compel a CFSA child to communicate with the Ombudsperson.</text>
+    </para>
+  </para>
+  <para>
+    <num>(c)</num>
+    <text>The Ombudsperson shall not:</text>
+    <para>
+      <num>(1)</num>
+      <text>Take any personnel action, except with regard to the employees of the Office; or</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Provide legal advice or legal representation.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-671.06" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-671.06">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§106">§ 106 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§106" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-270" path="§106" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§106">§ 106 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="§106" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-270" path="§106" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§106">§ 106 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

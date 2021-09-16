@@ -1,14 +1,99 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
-  <reason>Not Funded</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>4-671.05</num>
   <heading>Duties of the Deputy CFSA Ombudsperson.</heading>
-  <text>Not Funded.</text>
+  <para>
+    <num undesignated="true">(a)</num>
+    <text>In addition to any other duties that the Ombudsperson may assign, the Deputy CFSA Ombudsperson shall:</text>
+    <para>
+      <num>(1)</num>
+      <text>Provide information, as appropriate, on the rights and responsibilities of CFSA constituents;</text>
+    </para>
+    <para>
+      <num>(2)</num>
+      <text>Facilitate communication between CFSA and CFSA constituents as needed;</text>
+    </para>
+    <para>
+      <num>(3)</num>
+      <text>Review the policies, procedures, regulations, and directives as established, implemented, or practiced by CFSA or a CFSA affiliate;</text>
+    </para>
+    <para>
+      <num>(4)</num>
+      <text>Receive and process complaints from CFSA constituents involving an administrative act of CFSA or a CFSA affiliate, without regard to the finality of the administrative act by:</text>
+      <para>
+        <num>(A)</num>
+        <text>Receiving complaints by phone, in writing, electronically, or in person at multiple locations, including at the office of the Deputy CFSA Ombudsperson, the Office of the Ombudsperson for Children, or in the community if requested by, and necessary to protect the privacy interests of, the complainant;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>Acknowledging complaints in a timely fashion;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>Providing accurate and helpful information in response to a complaint when appropriate; and</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>Determining the validity of a complaint quickly and professionally and investigating all valid complaints that the Deputy CFSA Ombudsperson reasonably believes to be:</text>
+        <para>
+          <num>(i)</num>
+          <text>Inconsistent with District or federal law, regulation, or policy, or standards of good practice;</text>
+        </para>
+        <para>
+          <num>(ii)</num>
+          <text>Based on mistaken facts or irrelevant considerations;</text>
+        </para>
+        <para>
+          <num>(iii)</num>
+          <text>Unsupported by an adequate statement of reasons;</text>
+        </para>
+        <para>
+          <num>(iv)</num>
+          <text>Performed in an unprofessional manner that is detrimental to the safety, permanency, or well-being of a CFSA child and the CFSA child's family; or</text>
+        </para>
+        <para>
+          <num>(v)</num>
+          <text>Unreasonable, unfair, not aligned with standards of practice and care, or otherwise objectionable, even though in accordance with law;</text>
+        </para>
+      </para>
+    </para>
+    <para>
+      <num>(5)</num>
+      <text>Dismiss or refrain from investigating a complaint if the Deputy CFSA Ombudsperson reasonably believes:</text>
+      <para>
+        <num>(A)</num>
+        <text>It is plain on the face of the complaint that an adequate remedy is presently available such that an investigation is unwarranted, and the Deputy CFSA Ombudsperson can provide information to the complainant about the remedy;</text>
+      </para>
+      <para>
+        <num>(B)</num>
+        <text>The complaint relates to a matter that is outside the purpose of the Office;</text>
+      </para>
+      <para>
+        <num>(C)</num>
+        <text>The complaint is not made in good faith;</text>
+      </para>
+      <para>
+        <num>(D)</num>
+        <text>The complaint has been too long delayed to justify present examination; or</text>
+      </para>
+      <para>
+        <num>(E)</num>
+        <text>Investigation of the complaint would not facilitate an action authorized by this title;</text>
+      </para>
+    </para>
+    <para>
+      <num>(6)</num>
+      <text>Make recommendations for the resolution of a complaint in a timely fashion; and</text>
+    </para>
+    <para>
+      <num>(7)</num>
+      <text>Offer voluntary conflict resolution services, including mediation or an opportunity for the complainant to meet with the subject of the complaint, with respect to complaints submitted, when appropriate and at the discretion of the Deputy CFSA Ombudsperson.</text>
+    </para>
+  </para>
+  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-671.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-671.05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§105">§ 105 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
   <annotations>
-    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§301|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§105" type="History"/>
-    <annotation type="Applicability" doc="D.C. Law 23-270" path="§105" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§105">§ 105 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
     <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="§105" type="History"/>
+    <annotation type="Applicability" doc="D.C. Law 23-270" path="§105" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§105">§ 105 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
   </annotations>
 </section>

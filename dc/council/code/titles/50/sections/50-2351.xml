@@ -5,67 +5,71 @@
   <text>For the purposes of this chapter, the term:</text>
   <para>
     <num>(1)</num>
-    <text>“Autonomous vehicle” means a vehicle capable of navigating District roadways and interpreting traffic-control devices without a driver actively operating any of the vehicle’s control systems. The term “autonomous vehicle” excludes a motor vehicle enabled with active safety systems or driver- assistance systems, including systems to provide electronic blind-spot assistance, crash avoidance, emergency braking, parking assistance, adaptive cruise control, lane-keep assistance, lane-departure warning, or traffic-jam and queuing assistance, unless the system alone or in combination with other systems enables the vehicle on which the technology is installed to drive without active control or monitoring by a human operator.</text>
-  </para>
-  <para placeholder="Not Funded">
-    <num>(1B)</num>
-    <text>Not Funded.</text>
-  </para>
-  <para placeholder="Not Funded">
-    <num>(1C)</num>
-    <text>Not Funded.</text>
-  </para>
-  <para placeholder="Not Funded">
-    <num>(1D)</num>
-    <text>Not Funded.</text>
-  </para>
-  <para placeholder="Not Funded">
-    <num>(1E)</num>
-    <text>Not Funded.</text>
+    <text>"Associated autonomous vehicle" means an autonomous vehicle that an autonomous vehicle testing entity identifies in its autonomous vehicle testing permit application pursuant to section 3a, and any subsequent autonomous vehicles approved to operate pursuant to section 3a(f)(1) or permitted by law to operate without subsequent approval.</text>
   </para>
   <para>
+    <num>(1A)</num>
+    <text>"Autonomous driving system" means the combination of hardware and software collectively capable of autonomous operation of a motor vehicle on a sustained basis that meets the definition of Levels 3, 4, or 5 of the Society of Automotive Engineers International's Taxonomy and Definitions for Terms Related to Driving Automation Systems for On-Road Motor Vehicles, standard J3016.</text>
+  </para>
+  <para>
+    <num>(1B)</num>
+    <text>"Autonomous operation" means the performance of the entire dynamic driving task by an autonomous driving system, beginning upon the performance of the entire dynamic driving task by an autonomous driving system and continuing until the autonomous driving system is disengaged.</text>
+  </para>
+  <para>
+    <num>(1C)</num>
+    <text>"Autonomous vehicle" means a motor vehicle equipped with an autonomous driving system, regardless of whether the vehicle is under autonomous operation.</text>
+  </para>
+  <para>
+    <num>(1D)</num>
+    <text>"AV testing entity" means a person applying for or issued an AV testing permit by the Department.</text>
+  </para>
+  <para>
+    <num>(1E)</num>
+    <text>"AV testing permit" means a permit issued by the Department pursuant to section 3a.</text>
+  </para>
+  <para placeholder="Repealed">
     <num>(2)</num>
-    <text>“Driver” means a human operator of a motor vehicle with a valid driver’s license.</text>
+    <text>Repealed.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(2A)</num>
-    <text>Not Funded.</text>
+    <text>"Department" means the District Department of Transportation.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(2B)</num>
-    <text>Not Funded.</text>
+    <text>"Director" means the Director of the Department.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(2C)</num>
-    <text>Not Funded.</text>
+    <text>"Dynamic driving task" means all of the real-time operational and tactical functions collectively required to operate a vehicle in on-road traffic, including controlling lateral and longitudinal vehicle motion, monitoring the driving environment, executing responses to objects and events, planning vehicle maneuvers, and enhancing vehicle conspicuity. The term "dynamic driving task" shall not include the strategic functions of driving, such as scheduling trips, selecting destinations, and specifying routes.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(2D)</num>
-    <text>Not Funded.</text>
+    <text>"Minimal risk condition" means a condition to which a test operator or autonomous driving system brings a vehicle to reduce the risk of a crash when a trip cannot or should not be completed, such as bringing the vehicle to a complete stop.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(2E)</num>
-    <text>Not Funded.</text>
+    <text>"Operate" means collectively, the activities performed by a test operator or an autonomous driving system to perform the entire dynamic driving task for an associated autonomous vehicle.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(2F)</num>
-    <text>Not Funded.</text>
+    <text>"Operational design domain" means the environmental, geographic, time-of-day, traffic, infrastructure, and other conditions under which an autonomous driving system is specifically designed to function.</text>
   </para>
   <para>
     <num>(3)</num>
     <text>“Public roadway” means a street, road, or public thoroughfare that allows motor vehicles.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(3A)</num>
-    <text>Not Funded.</text>
+    <text>"Remote operator" means an employee, contractor, or other designee of the autonomous testing entity who is not physically present in an associated autonomous vehicle, but is actively monitoring the autonomous operation of the vehicle in real time and is able to operate the vehicle or is able to communicate with occupants of the vehicle.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(3B)</num>
-    <text>Not Funded.</text>
+    <text>"Testing" means the operation of an associated autonomous vehicle on public roadways to assess or demonstrate the associated autonomous vehicle's capabilities, including operating an associated autonomous vehicle with occupants other than a test operator.</text>
   </para>
-  <para placeholder="Not Funded">
+  <para>
     <num>(3C)</num>
-    <text>Not Funded.</text>
+    <text>"Test operator" means an employee, contractor, or other designee of the autonomous vehicle testing entity who engages an autonomous driving system and performs, in real time, part or all of the dynamic driving task.</text>
   </para>
   <para>
     <num>(4)</num>
@@ -73,14 +77,13 @@
   </para>
   <annotations>
     <annotation doc="D.C. Law 19-278" type="History" path="§2">Apr. 23, 2013, D.C. Law 19-278, § 2, 60 DCR 2119</annotation>
-    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§3|(a)" type="History" display="false"/>
-    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(1)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(2)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(3)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(4)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(5)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(6)" type="History"/>
-    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(7)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(2)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(1)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(3)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(4)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(5)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(6)" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)|(7)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-156" path="§2|(a)" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-156" path="">D.C. Law 23-156</cite>: <cite doc="D.C. Law 23-156" path="§3">§ 3 of D.C. Law 23-156</cite> provided that the change made to this section by <cite doc="D.C. Law 23-156" path="§2|(a)">§ 2(a) of D.C. Law 23-156</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(a)" type="History"/>
   </annotations>

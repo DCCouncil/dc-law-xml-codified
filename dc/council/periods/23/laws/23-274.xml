@@ -2487,12 +2487,12 @@
       <para>
         <num>(a)</num>
         <text>The amendatory subsection (i) within section 601(e) and section 1101 shall apply upon the date of inclusion of their fiscal effect in an approved budget and financial plan.</text>
-        <codify:repeal doc="D.C. Code" path="§24-403.03|(i)" codified:doc="D.C. Code" codified:path="§24-403.03|(i)"/>
-        <codify:find-replace doc="D.C. Code" path="§24-403.03|(i)" count="1" codified:doc="D.C. Code" codified:path="§24-403.03|(i)">
+        <codify:repeal doc="D.C. Code" path="§24-403.03|(i)"/>
+        <codify:find-replace doc="D.C. Code" path="§24-403.03|(i)" count="1">
           <find>Repealed</find>
           <replace>Not Funded</replace>
         </codify:find-replace>
-        <codify:applicability doc="D.C. Law 23-274" path="§1101" date="notfunded" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-731|(a-1)|(1)"/>
+        <codify:applicability doc="D.C. Law 23-274" path="§1101" date="notfunded" history="false" display-template=""/>
       </para>
       <para>
         <num>(b)</num>
