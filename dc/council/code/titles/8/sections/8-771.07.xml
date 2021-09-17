@@ -1,44 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>8-771.07</num>
   <heading>Cause of action.</heading>
-  <para>
-    <num>(a)</num>
-    <text>A battery stewardship organization implementing an approved battery stewardship plan in compliance with the requirements of <cite path="8|7E">this chapter</cite> may bring a civil action against a producer for damages when:</text>
-    <para>
-      <num>(1)</num>
-      <text>The plaintiff incurs more than $1,000 in actual costs collecting, handling, recycling, and properly disposing of the defendant producer's batteries sold or offered for sale in the District; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The defendant producer is not in compliance with the requirements of <cite path="§8-771.02|(a)">§ 8-771.02(a)</cite>.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>DOEE shall not be a necessary party to or be required to provide assistance or otherwise participate in a civil action authorized under this section solely due to its regulatory requirements under <cite path="8|7E">this chapter</cite>, unless subject to subpoena before a court of jurisdiction.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>A battery stewardship organization may file a civil action under this section regardless of whether it has petitioned DOEE under <cite path="§8-771.06|(b)">§ 8-771.06(b)</cite>.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>For the purposes of this section, the term "damages" means:</text>
-    <para>
-      <num>(1)</num>
-      <text>The actual costs a plaintiff battery stewardship organization incurs in collecting, handling, recycling, or properly disposing of batteries reasonably identified as having originated from another battery producer or battery stewardship organization, and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The attorneys' fees and costs associated with bringing the civil action.</text>
-    </para>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§8-771.07" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-771.07">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(q)">§ 2(q) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 20-154" type="History" path="§134">Feb. 26, 2015, D.C. Law 20-154, § 134</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" prefix="as added" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§6|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-211" path="§2|(q)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(q)">§ 2(q) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History"/>
   </annotations>

@@ -804,8 +804,8 @@
       <para>
         <num>(a)</num>
         <text>The amendatory section 6c(f) within section 101(b) shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-        <codify:repeal doc="D.C. Code" path="§50-2201.03c|(f)" history="false" display-template=""/>
-        <codify:find-replace doc="D.C. Code" path="§50-2201.03c|(f)" count="1" history="false" display-template="">
+        <codify:repeal doc="D.C. Code" path="§50-2201.03c|(f)" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.03c|(f)"/>
+        <codify:find-replace doc="D.C. Code" path="§50-2201.03c|(f)" count="1" history="false" display-template="" codified:doc="D.C. Code" codified:path="§50-2201.03c|(f)">
           <find>Repealed</find>
           <replace>Not Funded</replace>
         </codify:find-replace>

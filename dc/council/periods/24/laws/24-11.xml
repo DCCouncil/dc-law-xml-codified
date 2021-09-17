@@ -54,7 +54,7 @@
           <text>Paragraph (1) is amended to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:replace codified:doc="D.C. Code" codified:path="§2-281.02|(a)"/>
+              <codify:replace codified:doc="D.C. Code" codified:path="§2-281.02|(a)|(1)"/>
               <num>(1)</num>
               <text>The Mayor shall select a Fund Manager to establish and manage a fund outside the District of Columbia government to be known as the Equity Impact Fund ("Fund").</text>
             </para>
@@ -67,7 +67,7 @@
           <para>
             <num>(i)</num>
             <text>Strike the phrase "Manager, $1.25 million" and insert the phrase "Manager, a grant of $1.25 million" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-281.02|(a)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-281.02|(a)|(2)">
               <find>Manager, $1.25 million</find>
               <replace>Manager, a grant of $1.25 million</replace>
             </codify:find-replace>
@@ -75,7 +75,7 @@
           <para>
             <num>(ii)</num>
             <text>Strike the phrase "Year 2021 for deposit into the Fund ("District's initial investment")" and insert the phrase "Year 2021 to the Fund Manager for deposit by the Fund Manager into the Fund ("District's initial grant")" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-281.02|(a)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-281.02|(a)|(2)">
               <find>Year 2021 for deposit into the Fund ("District's initial investment")</find>
               <replace>Year 2021 to the Fund Manager for deposit by the Fund Manager into the Fund ("District's initial grant")</replace>
             </codify:find-replace>

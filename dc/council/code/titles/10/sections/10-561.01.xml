@@ -1,40 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>10-561.01</num>
   <heading>Definitions.</heading>
-  <text>For the purposes of this act, the term:</text>
-  <para>
-    <num>(1)</num>
-    <text>"Chief Building Official" or "CBO" means the lead administrator of the Office of Construction and Building Standards, whose appointment is provided for by section 104.</text>
-  </para>
-  <para>
-    <num>(2)</num>
-    <text>"Construction Codes" means all codes as defined in section 101.1 of Title 12A of the District of Columbia Municipal Regulations (12-A DCMR § 101.1).</text>
-  </para>
-  <para>
-    <num>(3)</num>
-    <text>"Department" means the Department of Buildings established by section 102.</text>
-  </para>
-  <para>
-    <num>(4)</num>
-    <text>"Director" means the director of the Department of Buildings, whose appointment is provided for by section 103.</text>
-  </para>
-  <para>
-    <num>(5)</num>
-    <text>"International Code Council Family of Codes" means the body of standards promulgated by the International Code Council to the extent the standards are adopted by the District of Columbia and codified into the District of Columbia Code of Municipal Regulations.</text>
-  </para>
-  <para>
-    <num>(6)</num>
-    <text>"Strategic Enforcement Administrator" or "SEA" means the lead administrator of the Office of Strategic Code Enforcement, whose appointment is provided for by section 105.</text>
-  </para>
-  <para>
-    <num>(7)</num>
-    <text>"Zoning Administrator" or "ZA" means the lead administrator for the Office of Zoning Administration, whose appointment is provided for by section 106.</text>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-561.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-561.01">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§101">§ 101 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
-    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§101" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§101" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-269" path="§101" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§101">§ 101 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§101" type="History"/>
   </annotations>
 </section>

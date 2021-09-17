@@ -1,23 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>38-251.09</num>
   <heading>Transparency and accountability.</heading>
-  <para>
-    <num>(a)</num>
-    <text>Every LEA shall publish its written home and hospital instruction policyonline in a reader-friendly format and provide a copy of the home and hospital instruction policy to parents after a request for home or hospital instruction has been made.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>On an annual basis, each LEA shall report to OSSE approvals or denials to provide home or hospital instruction made, including the reasons for denial, the name of the individual who provided the medical certification of need, and the type of instruction delivered.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>Upon submission of an application for home or hospital instruction, the LEA shall require its home or hospital designee to provide the parent with a notice of their rights as they pertain to IDEA and Section 504, as appropriate.</text>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-251.09" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-251.09">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§10">§ 10 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
     <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§10" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§12|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-204" eff="2021-03-16" path="§10" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-204" path="§10" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§10">§ 10 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§10" type="History"/>
   </annotations>
 </section>
