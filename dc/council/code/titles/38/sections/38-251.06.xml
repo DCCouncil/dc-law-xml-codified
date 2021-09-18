@@ -1,67 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>38-251.06</num>
   <heading>Delivery of home or hospital instruction.</heading>
-  <para>
-    <num>(a)</num>
-    <text>An LEA shall begin delivering home or hospital instruction no later than 5 school days following an approval of an application for home or hospital instruction.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>An LEA shall provide a minimum number of hours per week of direct instruction for eligible students according to the medical certification of need.</text>
-    <para>
-      <num>(1)</num>
-      <text>For eligible students absent on an intermittent or partial basis, the LEA may adjust the minimum required amount of direct instruction based on the student's schedule and amount of in-school instruction the student is expected to receive.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>For purposes of this subsection, the term "direct instruction" means instruction provided in-person by a home or hospital instructor or, with the consent of the parent, instruction provided by a home or hospital instructor via real-time videotelephony; provided, that an LEA may provide direct instruction via real-time videotelephony without the consent of the parent in the following circumstances:</text>
-      <para>
-        <num>(A)</num>
-        <text>During a public health emergency;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>When the student has been diagnosed with a communicable disease;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>When a household member has been diagnosed with a communicable Disease, if the student is to receive instruction at home; or</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>When the LEA determines safety concerns prevent the delivery of in-person services.</text>
-      </para>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>An LEA shall develop a home and hospital instruction program that provides content aligned to that being provided in the student's classroom.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>To satisfy the provisions of this section, an LEA may:</text>
-    <para>
-      <num>(1)</num>
-      <text>Employ staff to provide instructional services to a student;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Contract with private providers to deliver instructional services;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Contract with other LEAs to provide instructional services; or</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Combine any of the delivery options described in paragraphs (1) through (3) of this subsection.</text>
-    </para>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-251.06" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-251.06">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§7">§ 7 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
     <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§7" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§12|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-204" eff="2021-03-16" path="§7" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-204" path="§7" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§7">§ 7 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§7" type="History"/>
   </annotations>
 </section>

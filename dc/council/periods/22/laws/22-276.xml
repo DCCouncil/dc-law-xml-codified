@@ -323,7 +323,7 @@
     <para>
       <num>(i)</num>
       <text>Section 2(c) of the Nurses Training Corps Establishment Act of 1987, effective October 9, 1987 (D.C. Law 7-32; D.C. Official Code § 38-1501(c)), is amended by striking the phrase "Office on Aging" and inserting the phrase "Department of Aging and Community Living" in its place.</text>
-      <codify:find-replace path="§38-1501|(c)" count="1" codified:doc="D.C. Code" codified:path="§38-1501">
+      <codify:find-replace path="§38-1501|(c)" count="1" codified:doc="D.C. Code" codified:path="§38-1501|(c)">
         <find>Office on Aging</find>
         <replace>Department of Aging and Community Living</replace>
       </codify:find-replace>

@@ -1,87 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>4-671.04</num>
   <heading>Duties of the Office.</heading>
-  <para>
-    <num undesignated="true">(a)</num>
-    <text>The Office shall:</text>
-    <para>
-      <num>(1)</num>
-      <text>Facilitate interagency communication and coordination related to issues impacting CFSA children;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Receive requests to reconsider complaints dismissed by the Deputy CFSA Ombudsperson;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Develop and maintain a database that tracks complaints received by the Office and disposition of those complaints;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Investigate on the Office's own initiative:</text>
-      <para>
-        <num>(A)</num>
-        <text>Systemic concerns relating to CFSA children, including issues relating to interagency communication and coordination; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>An administrative act of CFSA or a CFSA affiliate, without regard to the finality of the administrative act, that the Office believes to be:</text>
-        <para>
-          <num>(i)</num>
-          <text>Inconsistent with District or federal law, regulation, or policy, or standards of good practice;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Based on mistaken facts or irrelevant considerations;</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>Unsupported by an adequate statement of reasons;</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>Performed in an unprofessional manner that is detrimental to the safety, permanency, or well-being of a CFSA child or the CFSA child's family; or</text>
-        </para>
-        <para>
-          <num>(v)</num>
-          <text>Unreasonable, unfair, not aligned with standards of practice and care, or otherwise objectionable, even though in accordance with law;</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Provide recommendations to policies and procedures, staff training, regulations, and strategies based on investigations performed pursuant to this section;</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>Submit reports required by section 108;</text>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>Develop regulations and standard operating procedures, including those related to interagency communication and coordination, ensuring confidentiality, the development of a complaint database, standards for investigations, and any other issues necessary for meeting the responsibilities of the Office;</text>
-    </para>
-    <para>
-      <num>(8)</num>
-      <text>Create and maintain a website for the Office, which shall allow for the online submission of complaints;</text>
-    </para>
-    <para>
-      <num>(9)</num>
-      <text>Coordinate with the Office of the Inspector General or the Office of the District of Columbia Auditor regarding any matter that may fall within the jurisdiction and mission of one of those offices;</text>
-    </para>
-    <para>
-      <num>(10)</num>
-      <text>If the Ombudsperson believes that an agency official or employee has acted in a manner warranting criminal or disciplinary proceedings, refer the matter to the appropriate authority; and</text>
-    </para>
-    <para>
-      <num>(11)</num>
-      <text>Perform the duties in section 105 at the Ombudsperson's discretion or if otherwise necessary.</text>
-    </para>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-671.04" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-671.04">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§104">§ 104 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
-    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="§104" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§104" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-270" path="§104" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§104">§ 104 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="§104" type="History"/>
   </annotations>
 </section>

@@ -103,28 +103,6 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
-    <num>1D-i</num>
-    <heading>Jobs First DC Pilot Program.</heading>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="IV" type="History" display="false"/>
-    <xi:include href="./sections/32-173.01.xml"/>
-    <xi:include href="./sections/32-173.02.xml"/>
-    <xi:include href="./sections/32-173.03.xml"/>
-    <xi:include href="./sections/32-173.04.xml"/>
-    <xi:include href="./sections/32-173.05.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>1D-ii</num>
-    <heading>Workplace Rights Grant Program.</heading>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="IV" type="History" display="false"/>
-    <xi:include href="./sections/32-175.01.xml"/>
-    <xi:include href="./sections/32-175.02.xml"/>
-    <xi:include href="./sections/32-175.03.xml"/>
-    <xi:include href="./sections/32-175.04.xml"/>
-    <xi:include href="./sections/32-175.05.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
     <num>1E</num>
     <heading>Unemployment Insurance Information Technology Benefits and Tax System; Certain Information to be Available When American Job Centers are Closed.</heading>
     <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>
@@ -296,7 +274,6 @@
       <xi:include href="./sections/32-541.02.xml"/>
       <xi:include href="./sections/32-541.03.xml"/>
       <xi:include href="./sections/32-541.04.xml"/>
-      <xi:include href="./sections/32-541.04a.xml"/>
       <xi:include href="./sections/32-541.05.xml"/>
       <xi:include href="./sections/32-541.06.xml"/>
       <xi:include href="./sections/32-541.07.xml"/>
@@ -313,7 +290,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>V</num>
-      <heading>Universal Paid Leave Fund.<annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4066" type="History"/></heading>
+      <heading>Universal Paid Leave Implementation Fund.</heading>
       <annotation app="2016-10-08" doc="D.C. Law 21-160" eff="2016-10-08" path="I|P" type="History" display="false"/>
       <xi:include href="./sections/32-551.01.xml"/>
       <xi:include href="./sections/32-551.02.xml"/>
@@ -322,7 +299,7 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VI</num>
-      <heading>Workplace Leave Navigators. [Repealed].<annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4065" type="History"/></heading>
+      <heading>Workplace Leave Navigators.</heading>
       <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="II" type="History" display="false"/>
       <xi:include href="./sections/32-561.01.xml"/>
       <xi:include href="./sections/32-561.02.xml"/>
@@ -338,6 +315,22 @@
     <xi:include href="./sections/32-571.xml"/>
     <xi:include href="./sections/32-572.xml"/>
     <xi:include href="./sections/32-573.xml"/>
+    <annotation type="Applicability" doc="D.C. Law 23-209" path="§301" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-209" path="">D.C. Law 23-209</cite>: <cite doc="D.C. Law 23-209" path="§302">§ 302 of D.C. Law 23-209</cite> provided that the repeal of this section by <cite doc="D.C. Law 23-209" path="§301">§ 301 of D.C. Law 23-209</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="notfunded" doc="D.C. Law 23-209" eff="2021-03-16" path="§302|(a)" type="History" display="false"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-209" eff="2021-03-16" path="§301" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-209" eff="2021-03-16" path="§301" type="History"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>5B</num>
+    <heading>Ban on Non-compete Agreements.</heading>
+    <annotation app="notfunded" doc="D.C. Law 23-209" eff="2021-03-16" path="§302|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-209" eff="2021-03-16" path="" type="History" display="false"/>
+    <xi:include href="./sections/32-581.01.xml"/>
+    <xi:include href="./sections/32-581.02.xml"/>
+    <xi:include href="./sections/32-581.03.xml"/>
+    <xi:include href="./sections/32-581.04.xml"/>
+    <xi:include href="./sections/32-581.05.xml"/>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -860,17 +853,6 @@
       <num>IV</num>
       <heading>Adult Training Funding. [Repealed]</heading>
       <xi:include href="./sections/32-1671.xml"/>
-      <xi:include href="./sections/32-1691.01.xml"/>
-      <xi:include href="./sections/32-1691.02.xml"/>
-      <xi:include href="./sections/32-1691.03.xml"/>
-      <xi:include href="./sections/32-1691.04.xml"/>
-      <xi:include href="./sections/32-1691.05.xml"/>
-      <xi:include href="./sections/32-1691.06.xml"/>
-      <xi:include href="./sections/32-1691.07.xml"/>
-      <xi:include href="./sections/32-1691.08.xml"/>
-      <xi:include href="./sections/32-1691.09.xml"/>
-      <xi:include href="./sections/32-1691.10.xml"/>
-      <xi:include href="./sections/32-1691.11.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -883,30 +865,6 @@
       <xi:include href="./sections/32-1684.xml"/>
       <xi:include href="./sections/32-1685.xml"/>
       <xi:include href="./sections/32-1686.xml"/>
-    </container>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>VI</num>
-      <heading>IT Community Training and Advisory Board.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="IV" type="History" display="false"/>
-    </container>
-    <container>
-      <prefix>Subchapter</prefix>
-      <num>VII</num>
-      <heading>Nurse Education Enhancement Program.</heading>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="IV" type="History" display="false"/>
-      <xi:include href="./sections/32-1693.01.xml"/>
-      <xi:include href="./sections/32-1693.02.xml"/>
-      <xi:include href="./sections/32-1693.03.xml"/>
-      <xi:include href="./sections/32-1693.04.xml"/>
-      <xi:include href="./sections/32-1693.05.xml"/>
-      <xi:include href="./sections/32-1693.06.xml"/>
-      <xi:include href="./sections/32-1693.07.xml"/>
-      <xi:include href="./sections/32-1693.08.xml"/>
-      <annotation doc="D.C. Act 24-159" path="§4122" type="Editor's Notes" history="false" app="2021-08-23" eff="2021-08-23">
-          Section <cite doc="D.C. Act 24-159" path="§4122">4122 of D.C. Act 24-159</cite> provided that this section shall expire on September 30, 2024.
-        </annotation>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4122" type="History" display="false"/>
     </container>
   </container>
 </container>
