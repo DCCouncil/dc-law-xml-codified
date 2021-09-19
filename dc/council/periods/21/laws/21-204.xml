@@ -55,11 +55,11 @@ FUNDING NOTE - This legislation is Subject to Appropriations. See Fiscal Impact 
   <section codify:doc="D.C. Code" codify:path="§47-3801|(1D)|(B)">
     <num>3</num>
     <text>Section 47-3801(1D)(B) of the District of Columbia Official Code is amended by striking the numbers "18.01, 33.01, 95.05," and inserting the numbers "16, 103, 33.01, 94, 95.05" in their place.</text>
-    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-3801|(1D)">
+    <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§47-3801|(1D)|(B)">
       <find>18.01, 33.01, 95.05,</find>
       <replace>16, 103, 33.01, 94, 95.05,</replace>
     </codify:find-replace>
-    <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§47-3801|(1D)" codified:display="Note"/>
+    <codify:not-funded-anno applicability-path="§4" codified:doc="D.C. Code" codified:path="§47-3801|(1D)|(B)" codified:display="Note"/>
   </section>
   <section>
     <num>4</num>

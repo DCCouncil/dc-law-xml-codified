@@ -1,35 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>10-562.01</num>
   <heading>Strategic Enforcement Plan.</heading>
-  <para>
-    <num>(a)</num>
-    <text>On or before January 1, 2022, and January 1 of every third year thereafter, the SEA shall submit to the Council a Strategic Enforcement Plan that:</text>
-    <para>
-      <num>(1)</num>
-      <text>Establishes priorities;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Identifies available and needed resources while integrating the Department's enforcement functions; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Identifies instances in which the Department can leverage the enforcement efforts of sister agencies with which the Department has adjacent, overlapping, or shared authority.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>The plan required under subsection (a) of this section shall rely on existing data and industry best practices to determine enforcement priorities for the duration of the plan.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>In developing the plan required under subsection (a) of this section, the SEA shall afford great weight to available complaint data and community sentiment.</text>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§10-562.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§10-562.01">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§201">§ 201 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
-    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§201" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§601|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-269" eff="2021-04-05" path="§201" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-269" path="§201" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-269" path="">D.C. Law 23-269</cite>: <cite doc="D.C. Law 23-269" path="§601">§ 601 of D.C. Law 23-269</cite> provided that the creation of this section by <cite doc="D.C. Law 23-269" path="§201">§ 201 of D.C. Law 23-269</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-269" eff="2021-04-05" path="§201" type="History"/>
   </annotations>
 </section>

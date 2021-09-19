@@ -1,38 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>8-1031.04a</num>
   <heading>Requirements for District facilities and agencies.</heading>
-  <para>
-    <num>(a)</num>
-    <text>All District facilities and agencies shall:</text>
-    <para>
-      <num>(1)</num>
-      <text>Separate waste in accordance with <cite path="§8-1031.03">§ 8-1031.03</cite> and provide adequate waste collection service in accordance with <cite path="§8-1031.04">§ 8-1031.04</cite>; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Maximize diversion of waste from landfill or incineration, including through promotion of reduction, reuse, repair, donation, recycling, and composting, including donating reusable goods to the maximum extent practicable.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Each agency shall designate a person responsible for compliance with <cite path="8|10A">this chapter</cite>. The designated person shall ensure that employees and janitorial staff are annually trained on source separation requirements, consistent with the training program established under <cite path="§8-1031.03">§ 8-1031.03</cite>, and that all recycling, composting, and trash receptacles are provided as required.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>DPW shall annually collect information from each agency on how it is satisfying the requirements of subsections (a) and (b) of this section and include a summary in the annual report required by <cite path="§8-1031.13">§ 8-1031.13</cite>, including a list of the persons designated pursuant to subsection (b) of this section.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>District agencies shall maximize the purchase of Environmentally Preferable Products or Services, as that term is defined in <cite path="§2-351.04|(30)">§ 2-351.04(30)</cite>.</text>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 20-154" path="104a" type="History">Feb. 26, 2015, D.C. Law 20-154, § 104a</annotation>
     <annotation app="2015-02-26" doc="D.C. Law 20-154" eff="2015-02-26" path="I" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§6|(a)" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(e)" prefix="as added" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(e)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-211" path="§2|(e)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(e)">§ 2(e) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(e)" type="History"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7203" type="History" display="false"/>
   </annotations>
 </section>

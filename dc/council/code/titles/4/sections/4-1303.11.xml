@@ -1,53 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>4-1303.11</num>
   <heading>Agency's responsibilities to the Office of the Ombudsperson for Children.</heading>
-  <para>
-    <num>(a)</num>
-    <text>The Agency shall:</text>
-    <para>
-      <num>(1)</num>
-      <text>Notify the Office of the Ombudsperson for Children ("Ombudsperson for Children"), established by the Office of the Ombudsperson for Children Establishment Amendment Act of 2020, passed on 2nd reading on December 15, 2020 (Enrolled version of Bill 23-437), in writing within 24 hours of the Agency becoming aware of an allegation of a critical incident;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Provide the Ombudsperson for Children with copies of proposed revisions to current policies or regulations, or proposed new policies or regulations, including administrative issuances, at least 10 days prior to issuance; except, that the 10-day notice requirement shall not apply to the issuance of emergency regulations; and</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Post the Ombudsperson's report issued pursuant to section 108(b) of the Office of the Ombudsperson for Children Establishment Amendment Act of 2020, passed on 2nd reading on December 15, 2020 (Enrolled version of Bill 23-437), on the Agency's website to be made available to the public.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>For purposes of this section, the term:</text>
-    <para>
-      <num>(1)</num>
-      <text>"Critical incident" means:</text>
-      <para>
-        <num>(A)</num>
-        <text>The death of a child known or who has been known to the Agency within 4 years prior to the child's death;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>A near fatality or serious bodily injury resulting from child abuse or neglect or caused by any other means while a child is under the Agency's care and custody; or</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>An act that causes significant impairment to a child's physical or mental condition, as determined by qualified medical personnel, including instances of sexual assault, sex trafficking, or broken bones that come to the attention of the Agency.</text>
-      </para>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>"Near fatality" means any act that threatens the life of a child as determined by a medical or other qualified professional.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>"Serious bodily injury" shall have the same meaning as provided in D.C. Official Code § 22-3001(7).</text>
-    </para>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
-    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="§201|(c)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§201|(c)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-270" path="§201|(c)" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§201|(c)">§ 201(c) of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="§201|(c)" type="History"/>
   </annotations>
 </section>

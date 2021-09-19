@@ -4,7 +4,7 @@
   <heading>Assessments of public buildings for environmental risks.</heading>
   <para>
     <num>(a)</num>
-    <text>DGS shall assess each public building every 10 years, at a minimum, for the following to identify environmental risks:</text>
+    <text>DGS shall assess each public building for, at a minimum, the following to identify environmental risks:</text>
     <para>
       <num>(1)</num>
       <text>Indoor air quality;</text>
@@ -47,31 +47,31 @@
     </para>
     <para>
       <num>(11)</num>
-      <text>Radon;</text>
+      <text>Radon; and</text>
     </para>
     <para>
       <num>(12)</num>
-      <text>Carbon monoxide;</text>
+      <text>Carbon monoxide.</text>
     </para>
-    <para>
+    <para placeholder="Not Funded">
       <num>(13)</num>
-      <text>Groundwater quality;</text>
+      <text>Not Funded.</text>
     </para>
-    <para>
+    <para placeholder="Not Funded">
       <num>(14)</num>
-      <text>Dust;</text>
+      <text>Not Funded.</text>
     </para>
-    <para>
+    <para placeholder="Not Funded">
       <num>(15)</num>
-      <text>Gas and diesel emissions;</text>
+      <text>Not Funded.</text>
     </para>
-    <para>
+    <para placeholder="Not Funded">
       <num>(16)</num>
-      <text>Polychlorinated biphenyls; and</text>
+      <text>Not Funded.</text>
     </para>
-    <para>
+    <para placeholder="Not Funded">
       <num>(17)</num>
-      <text>Volatile organic compounds.</text>
+      <text>Not Funded.</text>
     </para>
   </para>
   <para>
@@ -122,33 +122,9 @@
       </para>
     </para>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(d-1)</num>
-    <text>DGS shall publish online and submit to the Council an annual report by July 1st of each year that describes, for each publicly owned site that has underwent or is undergoing demolition, excavation, substantial renovation, or construction during the reporting period, at a minimum:</text>
-    <para>
-      <num>(1)</num>
-      <text>Any potential hazards identified at each site;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The testing methods employed to assess whether the conditions pose an environmental hazard;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The test results for each potential hazard identified;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>The threshold levels at which remediation measures will be taken;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Any remediation measures taken; and</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>How testing results and remediation strategies have been communicated to the public.</text>
-    </para>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(e)</num>
@@ -164,14 +140,14 @@
   <annotations>
     <annotation app="2017-04-01" doc="D.C. Law 21-237" eff="2017-04-01" path="" type="History" display="false"/>
     <annotation app="2017-04-01" doc="D.C. Law 21-237" eff="2017-04-01" path="§3" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(B)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(C)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(A)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(D)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(B)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(C)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(D)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(1)|(A)" type="History"/>
     <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(2)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)|(3)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-233" path="§2|(b)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-233" path="">D.C. Law 23-233</cite>: <cite doc="D.C. Law 23-233" path="§4">§ 4 of D.C. Law 23-233</cite> provided that the change made to this section by <cite doc="D.C. Law 23-233" path="§2|(b)">§ 2(b) of D.C. Law 23-233</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-233" eff="2021-03-16" path="§2|(b)" type="History"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7205" type="History" display="false"/>
   </annotations>
 </section>

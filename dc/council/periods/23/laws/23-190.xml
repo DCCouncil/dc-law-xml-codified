@@ -1246,8 +1246,8 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal doc="D.C. Code" path="§7-1121" history="false" display-template=""/>
-      <codify:find-replace doc="D.C. Code" path="§7-1121" count="2" history="false" display-template="">
+      <codify:repeal doc="D.C. Code" path="§7-1121" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1121"/>
+      <codify:find-replace doc="D.C. Code" path="§7-1121" count="2" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1121">
         <find>Repealed</find>
         <replace>Not Funded</replace>
       </codify:find-replace>
