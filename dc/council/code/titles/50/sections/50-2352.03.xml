@@ -1,106 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>50-2352.03</num>
   <heading>Data and crash reporting.</heading>
-  <para>
-    <num>(a)</num>
-    <text>On a semi-annual basis, an AV testing entity shall provide to the Department, in a form to be determined by the Department, the following information from each reporting period:</text>
-    <para>
-      <num>(1)</num>
-      <text>The vehicle miles traveled, in the aggregate, by its associated autonomous vehicles;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The number of crashes involving an associated autonomous vehicle on a public roadway while under autonomous operation in the District that resulted in property damage, bodily injury, or death, if any;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>A description of changes, if any, the AV testing entity has implemented or intends to implement following a crash that occurred during the reporting period, such as changes to the autonomous vehicle's hardware or software systems, changes to the AV testing entity's test operator training program, or changes to the AV testing entity's policies or procedures, or an explanation of why the AV testing entity has not implemented or does not intend to implement changes;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>A description of the locations tested in, including specific roadways;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>A description of the operational design domain in which testing occurred;</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>A description of the most common unplanned circumstances under which the autonomous driving system ceased autonomous operation, or where a test operator took over manual control of an associated autonomous vehicle, if any; and</text>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>Any other information the Department may require; provided, that the information is necessary to evaluate the safety of autonomous vehicles on public roadways or to evaluate the feasibility of the full deployment of autonomous vehicles in the District.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>The Department shall publish the reports required by subsection (a) of this section on its website upon their receipt. The Department shall publish the safety and risk mitigation assessments, or the Voluntary Safety Self-Assessments, submitted pursuant to section 3a(c)(3), on its website upon approval of the AV testing entity's permit application; provided, that no proprietary or confidential business information shall be publicly disclosed by the Department.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <para>
-      <num>(1)</num>
-      <text>An AV testing entity shall notify the Department of a crash involving an associated autonomous vehicle while under autonomous operation that results in property damage, bodily injury, or death as soon as possible, but in no case more than 12 hours following the crash. At the time notification is provided pursuant to this paragraph, the AV testing entity shall provide, to the extent known:</text>
-      <para>
-        <num>(A)</num>
-        <text>The name of the AV testing entity;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The general location of the crash;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>The date and approximate time of the crash;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>The severity of the crash; and</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>The name, title, and contact information of the AV testing entity representative reporting the crash.</text>
-      </para>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Within 5 business days of the crash, the AV testing entity shall submit a crash report to the Department that contains the following information:</text>
-      <para>
-        <num>(A)</num>
-        <text>The names of the test operators involved in the crash, if applicable;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The date, time, location, type of roadway, weather conditions, and a brief description of the event;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>A summary of the movement of the vehicle preceding the crash, such as stopped, proceeding straight, making a turn, or reversing;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>Whether the autonomous driving system was engaged;</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>Whether the test operators, if any, attempted to intervene; and</text>
-      </para>
-      <para>
-        <num>(F)</num>
-        <text>The name, title, and contact information for the AV testing entity representative submitting the crash report.</text>
-      </para>
-    </para>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>At its discretion, and in coordination with a law enforcement or government investigative entity, the Department may require an AV testing entity to submit additional information necessary to investigate a crash. Such information shall be requested, stored, maintained, and transmitted pursuant to Department rules and applicable law.</text>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 19-278" type="History" path="§3c">Apr. 23, 2013, D.C. Law 19-278, § 3c</annotation>
     <annotation type="Applicability" doc="D.C. Law 23-156" path="§2|(c)" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-156" path="">D.C. Law 23-156</cite>: <cite doc="D.C. Law 23-156" path="§3">§ 3 of D.C. Law 23-156</cite> provided that the creation of this section by <cite doc="D.C. Law 23-156" path="§2|(c)">§ 2(c) of D.C. Law 23-156</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(c)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(c)" prefix="as added" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§3|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(c)" prefix="as added" type="History"/>
   </annotations>
 </section>

@@ -1,31 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>50-2352.05</num>
   <heading>Preexisting testing or operation before testing permit availability.</heading>
-  <para>
-    <num>(a)</num>
-    <text>An entity operating or testing autonomous vehicles in the District before the Department makes an AV testing permit application available pursuant to section 3a may continue operating or testing autonomous vehicles in the District until 60 days after the permit application becomes available.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Within 60 days after the Department makes an AV testing permit available, an entity operating or testing autonomous vehicles in the District pursuant to subsection (a) shall:</text>
-    <para>
-      <num>(1)</num>
-      <text>Apply for an AV testing permit; or</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Cease operating or testing autonomous vehicles in the District.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>An entity who applies for an AV testing permit pursuant to subsection (b)(1) of this section may continue operating or testing autonomous vehicles in the District while its application is pending, but the entity shall immediately cease operating or testing autonomous vehicles in the District if its application is denied.</text>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 19-278" type="History" path="§3e">Apr. 23, 2013, D.C. Law 19-278, § 3e</annotation>
     <annotation type="Applicability" doc="D.C. Law 23-156" path="§2|(c)" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-156" path="">D.C. Law 23-156</cite>: <cite doc="D.C. Law 23-156" path="§3">§ 3 of D.C. Law 23-156</cite> provided that the creation of this section by <cite doc="D.C. Law 23-156" path="§2|(c)">§ 2(c) of D.C. Law 23-156</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(c)" type="History"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(c)" prefix="as added" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§3|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-156" eff="2020-12-23" path="§2|(c)" prefix="as added" type="History"/>
   </annotations>
 </section>

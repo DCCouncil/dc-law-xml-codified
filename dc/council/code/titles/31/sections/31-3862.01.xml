@@ -1,27 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>31-3862.01</num>
   <heading>Postpartum maternal health services.</heading>
-  <para>
-    <num undesignated="true">(a)</num>
-    <text>Health insurance coverage through Medicaid or the D.C. Healthcare Alliance program shall cover and reimburse health care services and expenses for:</text>
-    <para>
-      <num>(1)</num>
-      <text>Home visits via telehealth, face-to-face interaction, or digital health for a pregnant woman; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Provider delivered digital health interventions that are used to directly manage a patient's pregnancy.</text>
-    </para>
-  </para>
+  <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 20-26" type="History" path="§3a">Oct. 17, 2013, D.C. Law 20-26, § 3a</annotation>
-    <annotation app="2020-10-20" doc="D.C. Law 23-132" eff="2020-10-20" path="§2|(b)" prefix="as added" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-132" eff="2020-10-20" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-132" eff="2020-10-20" path="§2|(b)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-132" path="§2|(b)" codified:display="Note" app="2020-10-20" eff="2020-10-20">Applicability of <cite doc="D.C. Law 23-132" path="">D.C. Law 23-132</cite>: <cite doc="D.C. Law 23-132" path="§4">§ 4 of D.C. Law 23-132</cite> provided that the creation of this section by <cite doc="D.C. Law 23-132" path="§2|(b)">§ 2(b) of D.C. Law 23-132</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-10-20" doc="D.C. Law 23-132" eff="2020-10-20" path="§2|(b)" type="History"/>
-    <annotation doc="D.C. Law 23-132" path="§3" type="Editor's Notes" history="false" app="2020-10-20" eff="2020-10-20"><cite doc="D.C. Law 23-132" path="§3">Section 3 of D.C. Law 23-132</cite> provides that by October 1, 2020, the Mayor shall seek approval from the Centers for Medicare and Medicaid Services, within United States Department of Health and Human Services, through a waiver request, of the requirement that all health policies offered through the District's Medicaid program cover inpatient and outpatient maternity and newborn care for at least one year after childbirth.
-    </annotation>
-    <annotation app="2020-10-20" doc="D.C. Law 23-132" eff="2020-10-20" path="§3" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-132" eff="2020-10-20" path="§3" type="History" display="false"/>
     <annotation app="2020-10-20" doc="D.C. Law 23-135" eff="2020-10-20" path="" type="History" display="false"/>
   </annotations>
 </section>

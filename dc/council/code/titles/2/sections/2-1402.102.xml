@@ -1,79 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>2-1402.102</num>
   <heading>Prohibitions.</heading>
-  <para>
-    <num>(a)</num>
-    <text>It shall be an unlawful discriminatory practice for a long-term care facility or staff to do any of the following to an individual because of an individual's actual or perceived sexual orientation, gender identity or expression, or HIV status:</text>
-    <para>
-      <num>(1)</num>
-      <text>Deny an individual admission to a long-term care facility;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Refuse to transfer a resident, or forcibly transfer a resident, to another long-term care facility;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Discharge or evict a resident from a long-term care facility;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Deny a request by a resident to share a room with another resident;</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Where rooms are assigned by gender, assign or reassign a transgender; resident to a room that is not accordance with the resident's gender identity or expression or refuse to assign a transgender resident to a room in accordance with that resident's gender identity or expression, unless at the resident's request;</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>Require a resident to show personal identification documentation or otherwise require a resident to provide evidence of their sex or gender to gain entrance to a restroom or other sex-segregated facility or setting that is available to other residents of the same gender identity or expression;</text>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>Knowingly refuse to use a resident's preferred name or pronouns after being clearly informed of the resident's preferred name or pronouns;</text>
-    </para>
-    <para>
-      <num>(8)</num>
-      <text>Deny a resident the right to clothing, accessories, or cosmetics, or to engage in grooming practices consistent with the resident's gender identity or expression that are permitted for other residents of the same gender identity or expression;</text>
-    </para>
-    <para>
-      <num>(9)</num>
-      <text>Deny or restrict a resident's right to privacy or free association with other residents or visitors, including the right to consensual expressions of intimacy or sexual relations; or</text>
-    </para>
-    <para>
-      <num>(10)</num>
-      <text>Deny or restrict a resident from accessing appropriate medical or nonmedical care or refuse to provide a resident medical or nonmedical care that unreasonably demeans the resident's dignity or causes avoidable discomfort.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <para>
-      <num>(1)</num>
-      <text>Staff not involved in providing direct care to a resident shall not be present during the resident's physical examination or the provision of personal care to the resident if the resident is partially or fully unclothed without the express permission of the resident or the resident's representative.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>A long-term care facility shall use doors, curtains, screens, or other effective visual barriers to provide privacy for a resident whenever they are partially or fully unclothed.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>A resident or resident's representative shall be informed of and have the right to refuse an examination, observation, or treatment by staff when the primary purpose is educational or informational rather than due to a medical need. A refusal shall not diminish the resident's access to care for the primary purpose of diagnosis or treatment.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>Subsections (a) and (b) of this section shall not apply to the extent that they are incompatible with any professionally reasonable clinical judgment and where the staff provides written documentation of the basis for that clinical judgment to the resident or the resident's representative.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <text>Nothing in this section shall be construed to require or excuse noncompliance with any provision of applicable federal or District law.</text>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1402.102" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1402.102">Applicability of <cite doc="D.C. Law 23-154" path="">D.C. Law 23-154</cite>: <cite doc="D.C. Law 23-154" path="§4">§ 4 of D.C. Law 23-154</cite> provided that the creation of this section by <cite doc="D.C. Law 23-154" path="§3">§ 3 of D.C. Law 23-154</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 2-38" type="History" path="§294">Dec. 13, 1977, D.C. Law 2-38, title II, § 294</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" prefix="as added" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-154" path="§3" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-154" path="">D.C. Law 23-154</cite>: <cite doc="D.C. Law 23-154" path="§4">§ 4 of D.C. Law 23-154</cite> provided that the creation of this section by <cite doc="D.C. Law 23-154" path="§3">§ 3 of D.C. Law 23-154</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" type="History"/>
   </annotations>

@@ -1,64 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>3-641.05</num>
   <heading>Commission on Poverty; resources and staff.</heading>
-  <para>
-    <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>The Commission shall have at least 3 paid staff persons, including an Executive Director.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <para>
-        <num>(A)</num>
-        <text>The Mayor shall appoint the Executive Director.</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The Executive Director shall:</text>
-        <para>
-          <num>(i)</num>
-          <text>Be a resident of the District;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>Devote full time to the duties of the position;</text>
-        </para>
-        <para>
-          <num>(iii)</num>
-          <text>Report on a regular basis, as determined by the Chairperson, to the Commission; and</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>Hire and supervise other Commission staff, as the approved budget for the Commission permits.</text>
-        </para>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>At least one member of the staff shall have been in poverty at sometime within the 3-year period before the individual's date of hire.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <para>
-      <num>(1)</num>
-      <text>Staff shall assist in the preparation of the poverty-reduction plan and annual reports, conduct the administrative activities of the Commission, and perform other duties, as directed by the Commission's Chairperson.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The staff may retain outside consultants to assist with preparing and drafting the poverty-reduction plan and annual reports.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>The Mayor shall provide sufficient office space and technical and administrative support to assist the Commission and its staff in meeting the goals mandated by this title.</text>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§3-641.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-641.05">Applicability of <cite doc="D.C. Law 23-184" path="">D.C. Law 23-184</cite>: <cite doc="D.C. Law 23-184" path="§301">§ 301 of D.C. Law 23-184</cite> provided that the creation of this section by <cite doc="D.C. Law 23-184" path="§105">§ 105 of D.C. Law 23-184</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
-    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="§105" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§105" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-184" path="§105" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-184" path="">D.C. Law 23-184</cite>: <cite doc="D.C. Law 23-184" path="§301">§ 301 of D.C. Law 23-184</cite> provided that the creation of this section by <cite doc="D.C. Law 23-184" path="§105">§ 105 of D.C. Law 23-184</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="§105" type="History"/>
   </annotations>
 </section>
