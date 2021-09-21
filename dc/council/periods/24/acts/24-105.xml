@@ -25,25 +25,18 @@
     <para>
       <num>(a)</num>
       <text>The existing text is designated subsection (a).</text>
-      <codify:redesignate-para num-value="(a)" codified:doc="D.C. Code" codified:path="§47-2853.133"/>
     </para>
     <para>
       <num>(b)</num>
       <text>A new subsection (b) is added to read as follows:</text>
       <include>
         <para>
-          <codify:insert display-template="" codified:doc="D.C. Code" codified:path="§47-2853.133|(b)"/>
           <num>(b)</num>
           <text>Subsection (a) of this section shall not apply to persons acting as a consultant, officer, or employee of the government or an independent agency of the District of Columbia under the supervision of a professional engineer. The supervising professional engineer shall verify that any engineering work done by such persons is in compliance with all applicable laws and rules of the District.</text>
         </para>
       </include>
       <aftertext>.</aftertext>
       <codify:emergency doc="D.C. Code" path="§47-2853.133" codified:doc="D.C. Code" codified:path="§47-2853.133" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§47-2853.133" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-2853.133">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on September 15, 2021. To view the text of this section after the expiration of all emergency and temporary legislation affecting this section, click this link: <cite doc="D.C. Code" path="§47-2853.133(Perm)">Permanent Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
   </section>
   <section>

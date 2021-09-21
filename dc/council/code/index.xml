@@ -3,9 +3,9 @@
   <heading>Code of the District of Columbia</heading>
   <meta>
     <effective>0001-01-01</effective>
-    <recency through="2021-08-23">
+    <recency through="2021-09-01">
       <law doc="D.C. Law 23-209">Law {{ doc.num }} effective {{ doc.effective | date }}</law>
-      <emergency doc="D.C. Act 24-163">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
+      <emergency doc="D.C. Act 24-166">Act {{ doc.num }} effective {{ doc.effective | date }}</emergency>
       <federal doc="Pub. L. 116-283">Public Law {{ doc.num }} approved {{ doc.effective | date }}</federal>
     </recency>
   </meta>
@@ -85,4 +85,5 @@
     </para>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4062|(g)" type="History"/>
   </para>
+  <annotation app="2021-09-01" doc="D.C. Act 24-165" eff="2021-09-01" path="§2|(i)" type="History"/>
 </document>

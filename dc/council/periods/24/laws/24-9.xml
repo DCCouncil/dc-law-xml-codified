@@ -1592,12 +1592,12 @@
           <text>New paragraphs (1A) and (1B) are added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(1)" num-value="[(1A)]" codified:doc="D.C. Code" codified:path="§28-3814|(b)|[(1A)]"/>
+              <codify:insert after="(1)" num-value="[(1A)]" codified:doc="D.C. Code" codified:path="§28-3814|(b)"/>
               <num>(1A)</num>
               <text>"collection lawsuit" means any legal proceeding, including civil actions, statements of small claims, and supplementary process actions, commenced in any court for the purpose of collecting any debt or other past due balance owed or alleged to be owed.</text>
             </para>
             <para>
-              <codify:insert after="(1A)" codified:doc="D.C. Code" codified:path="§28-3814|(b)|(1B)"/>
+              <codify:insert after="(1A)" codified:doc="D.C. Code" codified:path="§28-3814|(b)"/>
               <num>(1B)</num>
               <text>"debt" means money or its equivalent that is, or is alleged to be, more than 30 days past due and owing, unless a different period is agreed to by the debtor, under a single account as a result of a purchase, lease, or loan of goods, services, or real or personal property for personal, family, or household purposes or as a result of a loan of money that was obtained for personal, family, or household purposes whether or not the obligation has been reduced to judgment.</text>
             </para>
@@ -1609,7 +1609,7 @@
           <text>A new paragraph (4) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="§28-3814|(b)|(4)"/>
+              <codify:insert codified:doc="D.C. Code" codified:path="§28-3814|(b)"/>
               <num>(4)</num>
               <text>"public health emergency" means a period of time for which the Mayor has declared a public health emergency pursuant to <cite doc="D.C. Code" path="§7-2304.01">§ 7-2304.01</cite>, or a state of emergency pursuant to <cite doc="D.C. Code" path="§28-4102">§ 28-4102</cite>.</text>
             </para>

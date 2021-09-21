@@ -833,7 +833,7 @@
           <para codify:path="(5)">
             <num>(1)</num>
             <text>Paragraph (5) is amended by striking the phrase ""Commission"" and inserting the phrase ""COST"" in its place.</text>
-            <codify:find-replace count="1" position="first" codified:doc="D.C. Code" codified:path="§2-1831.01|(5)">
+            <codify:find-replace count="1" position="first" codified:doc="D.C. Code" codified:path="§2-1831.01">
               <find>Commission</find>
               <replace>COST</replace>
             </codify:find-replace>
@@ -841,7 +841,7 @@
           <para codify:path="(8)">
             <num>(2)</num>
             <text>Paragraph (8) is amended by striking the phrase "the Commission" and inserting the phrase "COST" in its place.</text>
-            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1831.01|(8)">
+            <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1831.01">
               <find>the Commission</find>
               <replace>COST</replace>
             </codify:find-replace>

@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-111.04</num>
+  <text>
+                *NOTE: This section will expire on June 6, 2024.*
+              </text>
   <heading>Retaliation prohibited.</heading>
   <para>
     <num>(a)</num>
@@ -10,12 +13,19 @@
     <num>(b)</num>
     <text>If it is established that an employee engaged in conduct protected by subsection (a) of this section, and the contractor or employer thereafter terminated, refused to reinstate or employ, or otherwise took adverse action against such person within 60 days after such protected activity, then a rebuttable presumption shall arise that the contractor or employer's action was taken in violation of subsection (a) of this section. In such a case, the contractor or employer may rebut the presumption by producing credible evidence that the sole reason for the adverse action was a legitimate business reason.  The contractor or employer's asserted business reason may be rebutted by a showing of pretext.</text>
   </para>
+  <codify:insert doc="D.C. Code" path="§32-111.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-111.04">
+    <text>
+                *NOTE: This section will expire on June 6, 2024.*
+              </text>
+  </codify:insert>
   <annotations>
+    <annotation doc="D.C. Law 10-105" type="History" path="§2" display="false">Apr. 26, 1994, D.C. Law 10-105, § 204</annotation>
     <annotation doc="D.C. Law 10-105" type="History" path="§2">Apr. 26, 1994, D.C. Law 10-105, § 204</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 23-605" path="§2|(c)" codified:display="Note" app="2021-04-27" eff="2021-01-13">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 23-605" path="§2|(c)">§ 2(c) of Displaced Workers Right to Reinstatement and Retention Emergency Amendment Act of 2020 (D.C. Act 23-605, Jan. 13, 2021, 68 DCR 001213)</cite>.</annotation>
     <annotation app="2021-04-27" doc="D.C. Act 23-605" eff="2021-01-13" path="§2|(c)" type="History" display="false"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-281" eff="2021-04-27" path="§2|(a)" type="History" display="false"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-281" eff="2021-04-27" path="§2|(b)" type="History" display="false"/>
+    <annotation app="2021-04-27" doc="D.C. Law 23-281" eff="2021-04-27" path="§2|(c)" type="History" display="false"/>
     <annotation app="2021-04-27" doc="D.C. Law 23-281" eff="2021-04-27" path="§2|(c)" prefix="as added" type="History"/>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-69" path="§2" codified:display="Note" app="2021-05-03" eff="2021-05-03">For temporary (90 days) creation of, see <cite doc="D.C. Act 24-69" path="§2">§ 2 of Displaced Workers Right to Reinstatement and Retention Congressional Review Emergency Amendment Act of 2021 (D.C. Act 24-69, May 3, 2021, 68 DCR 004914)</cite>.</annotation>
     <annotation app="2021-05-03" doc="D.C. Act 24-69" eff="2021-05-03" path="§2" type="History" display="false"/>
