@@ -32,7 +32,7 @@
       <para codify:path="(1)|num">
         <num>(1)</num>
         <text>Paragraph (1) is redesignated as paragraph (1A).</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1701|(1A)">
           <find>(1)</find>
           <replace>(1A)</replace>
         </codify:find-replace>
@@ -42,7 +42,7 @@
         <text>A new paragraph (1) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert before="(1A)"/>
+            <codify:insert before="(1A)" codified:doc="D.C. Code" codified:path="§2-1701|(1)"/>
             <num>(1)</num>
             <text>"Action plan" means the Public Records and Archives Action Plan.</text>
           </para>
@@ -52,7 +52,7 @@
       <para codify:path="(6A)|num">
         <num>(3)</num>
         <text>Paragraph (6A) is redesignated as paragraph (6B).</text>
-        <codify:find-replace count="1">
+        <codify:find-replace count="1" codified:doc="D.C. Code" codified:path="§2-1701|(6B)">
           <find>(6A)</find>
           <replace>(6B)</replace>
         </codify:find-replace>
@@ -62,7 +62,7 @@
         <text>A new paragraph (6A) is added to read as follows:</text>
         <include lvl="1">
           <para>
-            <codify:insert before="(6B)"/>
+            <codify:insert before="(6B)" codified:doc="D.C. Code" codified:path="§2-1701|(6A)"/>
             <num>(6A)</num>
             <text>"DHRAB" means the District Historical Records Advisory Board established in <code-cite doc="D.C. Code" path="§2-1715">section 16a</code-cite>.</text>
           </para>
@@ -262,18 +262,18 @@
     <para>
       <num>(a)</num>
       <text>This act shall apply upon the date of inclusion of its fiscal effect in an approved budget and financial plan.</text>
-      <codify:repeal doc="D.C. Code" path="§2-1701|(1)"/>
-      <codify:find-replace doc="D.C. Code" path="§2-1701|(1)" count="1">
+      <codify:repeal doc="D.C. Code" path="§2-1701|(1)" codified:doc="D.C. Code" codified:path="§2-1701|(1)"/>
+      <codify:find-replace doc="D.C. Code" path="§2-1701|(1)" count="1" codified:doc="D.C. Code" codified:path="§2-1701|(1)">
         <find>Repealed</find>
         <replace>Not funded</replace>
       </codify:find-replace>
-      <codify:repeal doc="D.C. Code" path="§2-1701|(6A)"/>
-      <codify:find-replace doc="D.C. Code" path="§2-1701|(6A)" count="1">
+      <codify:repeal doc="D.C. Code" path="§2-1701|(6A)" codified:doc="D.C. Code" codified:path="§2-1701|(6A)"/>
+      <codify:find-replace doc="D.C. Code" path="§2-1701|(6A)" count="1" codified:doc="D.C. Code" codified:path="§2-1701|(6A)">
         <find>Repealed</find>
         <replace>Not funded</replace>
       </codify:find-replace>
-      <codify:applicability doc="D.C. Law 22-271" path="§2|(b)" date="notfunded" history="false"/>
-      <codify:applicability doc="D.C. Law 22-271" path="§3" date="notfunded" history="false"/>
+      <codify:applicability doc="D.C. Law 22-271" path="§2|(b)" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§2-1715"/>
+      <codify:applicability doc="D.C. Law 22-271" path="§3" date="notfunded" history="false" codified:doc="D.C. Code" codified:path="§1-523.01|(f)|(64)"/>
     </para>
     <para>
       <num>(b)</num>

@@ -1,62 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>2-1402.105</num>
   <heading>Training.</heading>
-  <para>
-    <num>(a)</num>
-    <para>
-      <num>(1)</num>
-      <text>At least once every 2 years, starting 60 days after the Office certifies a list of training providers, staff employed by a long-term care facility shall receive training on preventing discrimination based on sexual orientation or gender identity or expression when caring for LGBTQ seniors and seniors with HIV. A new staff member shall receive training within 6 months of hire unless the staff member provides proof of having received training in compliance with this section within the prior 2 years.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>A long-term care facility shall be responsible for arranging and paying for the training.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>At a minimum, the training shall include:</text>
-    <para>
-      <num>(1)</num>
-      <text>Definitions of common terms associated with sexual orientation, gender identity or expression, and HIV;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Best practices for communicating with or about LGBTQ seniors or seniors with HIV, including the use of preferred pronouns for a patient;</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>Information on health and social challenges historically faced by LGBTQ seniors and seniors with HIV, including discrimination faced by LGBTQ seniors and seniors with HIV when seeking care in a long-term care facility and health risks associated with transgender persons from long-term hormone use and reconstructive surgery;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>Strategies for creating a safe and affirming environment for LGBTQ seniors and seniors with HIV, including information on how behavior towards LGBTQ seniors and seniors with HIV by caregivers has historically impacted those communities' access to medical care; and</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>Best practices for communicating with or about friends, family members, or other visitors of LGBTQ seniors or seniors with HIV.</text>
-    </para>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>The Office shall certify a list of training providers.</text>
-  </para>
-  <para>
-    <num>(d)</num>
-    <para>
-      <num>(1)</num>
-      <text>Every 2 years, starting 60 days after the Office certifies a list of training providers, long-term care facilities shall file a report with the Office certifying that all employees have completed the training required by this section. The Office may assess a fine of no more than $10,000 upon failure to file such a report.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Revenue generated from the fine shall be deposited into the LGBTQ Homeless Youth Training Grant Fund, established by section 4a of the Office of Gay, Lesbian, Bisexual, and Transgender Affairs Act of 2006, effective May 3, 2014 (D.C. Law 20-100; D.C. Official Code § 2-1384).</text>
-    </para>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§2-1402.105" codified:display="Note" codified:doc="D.C. Code" codified:path="§2-1402.105">Applicability of <cite doc="D.C. Law 23-154" path="">D.C. Law 23-154</cite>: <cite doc="D.C. Law 23-154" path="§4">§ 4 of D.C. Law 23-154</cite> provided that the creation of this section by <cite doc="D.C. Law 23-154" path="§3">§ 3 of D.C. Law 23-154</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 2-38" type="History" path="§297">Dec. 13, 1977, D.C. Law 2-38, title II, § 297</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="" type="History" display="false"/>
-    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" prefix="as added" type="History"/>
+    <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§4|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-154" path="§3" codified:display="Note" app="2020-12-23" eff="2020-12-23">Applicability of <cite doc="D.C. Law 23-154" path="">D.C. Law 23-154</cite>: <cite doc="D.C. Law 23-154" path="§4">§ 4 of D.C. Law 23-154</cite> provided that the creation of this section by <cite doc="D.C. Law 23-154" path="§3">§ 3 of D.C. Law 23-154</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2020-12-23" doc="D.C. Law 23-154" eff="2020-12-23" path="§3" type="History"/>
   </annotations>

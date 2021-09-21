@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
-  <reason>Repealed</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>42-3509.09</num>
   <heading>Restrictions on tobacco smoking.</heading>
-  <text>Repealed.</text>
+  <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 6-10" type="History" path="§909" display="false">July 17, 1985, D.C. Law 6-10, § 509[909]</annotation>
     <annotation doc="D.C. Law 6-10" type="History" path="§909">July 17, 1985, D.C. Law 6-10, § 909, formerly § 509</annotation>
@@ -16,6 +16,5 @@
     </annotation>
     <annotation app="2020-03-17" doc="D.C. Act 23-247" eff="2020-03-17" path="§312|(b)|(2)" type="History" display="false"/>
     <annotation app="2020-06-24" doc="D.C. Law 23-112" eff="2020-06-24" path="§5|(b)" type="History"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7168" type="History"/>
   </annotations>
 </section>

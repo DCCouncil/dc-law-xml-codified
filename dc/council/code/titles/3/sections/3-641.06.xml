@@ -1,86 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>3-641.06</num>
   <heading>Poverty-reduction plan.</heading>
-  <para>
-    <num>(a)</num>
-    <text>Within 365 days after at least 13 of the appointed members of the Commission have been appointed, and every 5 years thereafter, the Commission shall approve, by majority vote, a poverty-reduction plan and submit it to the Mayor and the Council.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <para>
-      <num>(1)</num>
-      <text>The first poverty-reduction plan shall set forth feasible, practical actions that the District, or the District in partnership with private sector or nonprofit organizations, can take to achieve at least a 50%  reduction in the District's rate of persons in poverty, as defined in the current United States Department of Health and Human Services poverty guidelines, by the year 2026.  Subsequent plans shall establish 5-year goals for achieving substantial reductions in the rate of persons living in poverty.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The poverty-reduction plan shall include recommendations for actions that the Mayor and the Council can take in the following areas:</text>
-      <para>
-        <num>(A)</num>
-        <text>Bias and the relationship between poverty, race, class, and structural racism;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Public and private employment practices, including government enforcement of employment and workers' rights laws and protections;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Access to safe and affordable housing;</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>Access to adequate food and nutrition;</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>Access to affordable and quality healthcare;</text>
-      </para>
-      <para>
-        <num>(F)</num>
-        <text>Equal and equitable access to quality education and job training;</text>
-      </para>
-      <para>
-        <num>(G)</num>
-        <text>Dependable and affordable transportation;</text>
-      </para>
-      <para>
-        <num>(H)</num>
-        <text>Access to quality and affordable childcare;</text>
-      </para>
-      <para>
-        <num>(I)</num>
-        <text>The availability of adequate income supports;</text>
-      </para>
-      <para>
-        <num>(J)</num>
-        <text>Opportunities to engage in permanent, sustainable work; and</text>
-      </para>
-      <para>
-        <num>(K)</num>
-        <text>Any other area the Commission considers appropriate.</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>For each action recommended, the poverty-reduction plan shall:</text>
-      <para>
-        <num>(A)</num>
-        <text>Identify, in measurable terms, the potential impact of the recommended action on poverty reduction;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Identify the policy and fiscal actions necessary to achieve the recommendation; and</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Provide a timeline for implementing the recommendation, including a timeline for implementing each stage of a multi-stage recommendation.</text>
-      </para>
-    </para>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§3-641.06" codified:display="Note" codified:doc="D.C. Code" codified:path="§3-641.06">Applicability of <cite doc="D.C. Law 23-184" path="">D.C. Law 23-184</cite>: <cite doc="D.C. Law 23-184" path="§301">§ 301 of D.C. Law 23-184</cite> provided that the creation of this section by <cite doc="D.C. Law 23-184" path="§106">§ 106 of D.C. Law 23-184</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
-    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="§106" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§106" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-184" path="§106" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-184" path="">D.C. Law 23-184</cite>: <cite doc="D.C. Law 23-184" path="§301">§ 301 of D.C. Law 23-184</cite> provided that the creation of this section by <cite doc="D.C. Law 23-184" path="§106">§ 106 of D.C. Law 23-184</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="§106" type="History"/>
   </annotations>
 </section>

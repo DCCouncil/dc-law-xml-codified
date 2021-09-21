@@ -7,13 +7,13 @@
     <num>(1)</num>
     <text>"Collector" means a person engaged in the collection or transportation of solid waste in the District.</text>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(1A)</num>
-    <text>"Back-of-house commercial food waste" means commercial food waste separated at the point of discard by employees of a commercial establishment. The term "back-of-house commercial food waste" does not include food waste discarded directly by customers of the establishment, but does include food waste discarded of on behalf of customers by employees.</text>
+    <text>Not Funded.</text>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(1B)</num>
-    <text>"Commercial food waste" means food waste produced by the production, consumption, and preparation of food at a commercial establishment.</text>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(2)</num>
@@ -47,13 +47,13 @@
     <num>(8A)</num>
     <text>"Home composting system" means containers, bins, tumblers, and other equipment, approved by the Department of Public Works, used to facilitate composting or vermicomposting on residential property in the District.</text>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(8B)</num>
-    <text>"Food service entity" means full-service restaurants, limited-service restaurants, fast food restaurants, cafes, delicatessens, coffee shops, vending trucks or carts, food trucks, food halls and cafeterias, including those operated by or on behalf of District departments and agencies, caterers, and other entities selling or providing food within the District for consumption on or off the premises. The term "food service entity" does not include retail food stores, convenience stores, or pharmacies.</text>
+    <text>Not Funded.</text>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(8C)</num>
-    <text>"Food waste" means material produced from the production, preparation, and consumption of food.</text>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(9)</num>
@@ -63,17 +63,17 @@
     <num>(10)</num>
     <text>"Intermediate processing facility" means a facility where solid waste can be separated, processed, stored, assembled, and prepared for sale or other disposition, except incineration or burial.</text>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(10A)</num>
-    <text>"In-vessel composting" means a process in which organic waste is enclosed in a drum, silo, bin, tunnel, reactor, or other container and maintained under controlled conditions of temperature and moisture for the purpose of producing compost.</text>
+    <text>Not Funded.</text>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(10B)</num>
-    <text>"Organic waste processing facility" means a facility that processes compostable materials through composting, aerobic digestion, or anaerobic digestion.</text>
+    <text>Not Funded.</text>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(10C)</num>
-    <text>"Organic waste processing system" means a system that processes compostable materials, such as an in-vessel composter or an anaerobic digester.</text>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(11)</num>
@@ -83,9 +83,9 @@
     <num>(12)</num>
     <text>"Public collection property" means a property that receives solid waste collection from the District either directly or through contract.</text>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(12A)</num>
-    <text>"Public litter container" means a trash receptacle installed by a government agency or private entity, including a Business Improvement District established pursuant to <cite path="2|12|VIII">subchapter VIII of Chapter 12 of Title 2</cite>, on a public sidewalk, in a park, or other public space.</text>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(13)</num>
@@ -95,9 +95,9 @@
     <num>(14)</num>
     <text>"Recycle" or "Recycled" or "Recycling" means the series of activities, including separation, collection, and processing, through which materials are recovered or otherwise diverted from the solid waste stream for use as raw materials or in the manufacture of products other than fuel.</text>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(14A)</num>
-    <text>"Retail food store" means any establishment where food and food products offered to the consumer are intended for off-premises consumption, including grocery stores and supermarkets. The term "retail food store" does not include convenience stores, pharmacies, farmers markets, and food service entities.</text>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(15)</num>
@@ -139,9 +139,9 @@
     <num>(20A)</num>
     <text>"Vermicomposting" means the process of using earthworms and microorganisms to convert organic materials into vermicompost.</text>
   </para>
-  <para>
+  <para placeholder="Not Funded">
     <num>(20B)</num>
-    <text>"Variable rate pricing model" means a model wherein the Mayor would impose fees for waste collection on public collection property owners proportional to the amount of trash generated at the property.</text>
+    <text>Not Funded.</text>
   </para>
   <para>
     <num>(21)</num>
@@ -165,15 +165,14 @@
           </annotation>
     <annotation app="2018-10-30" doc="D.C. Law 22-168" eff="2018-10-30" path="§7036" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§6|(a)" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(2)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(3)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(5)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(6)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(7)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(8)" type="History"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(10)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(2)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(3)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(5)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(6)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(7)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(8)" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)|(10)" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-211" path="§2|(a)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the change made to this section by <cite doc="D.C. Law 23-211" path="§2|(a)">§ 2(a) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(a)" type="History"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7203" type="History" display="false"/>
   </annotations>
 </section>
