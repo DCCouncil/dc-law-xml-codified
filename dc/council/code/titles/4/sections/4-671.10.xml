@@ -1,46 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>4-671.10</num>
   <heading>Confidentiality and privilege.</heading>
-  <para>
-    <num>(a)</num>
-    <text>The Office shall keep confidential:</text>
-    <para>
-      <num>(1)</num>
-      <text>All information received pursuant to a complaint filed or a matter investigated, except as may be necessary to enable the Office to perform its duties and to support any resulting recommendations; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Identifying information of complainants and witnesses, unless:</text>
-      <para>
-        <num>(A)</num>
-        <text>The complainant or witness waives confidentiality; or</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The information is compelled by a Council subpoena pursuant to a Council investigation for neglect of duty or misconduct by the Ombudsperson or the Office when the identifying information is necessary to the investigation.</text>
-      </para>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>Upon receipt of information that is subject to confidentiality by law or a privilege, the Office shall maintain the confidentiality or privilege of such information and shall not disclose the information unless permitted by District or federal law and reasonably necessary to protect a CFSA child from imminent harm.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <para>
-      <num>(1)</num>
-      <text>Whoever willfully discloses, receives, makes use of, or knowingly permits the use of confidential information concerning a CFSA child or individual in violation of this title shall be guilty of a misdemeanor and upon conviction thereof shall be fined not more than $1,000.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>A violation of this subsection shall be prosecuted by the Office of the Attorney General for the District of Columbia.</text>
-    </para>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-671.10" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-671.10">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§110">§ 110 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
-    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="§110" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§110" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-270" path="§110" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§110">§ 110 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="§110" type="History"/>
   </annotations>
 </section>

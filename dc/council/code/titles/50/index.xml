@@ -261,7 +261,6 @@
       <xi:include href="./sections/50-902.xml"/>
       <xi:include href="./sections/50-903.xml"/>
       <xi:include href="./sections/50-904.xml"/>
-      <xi:include href="./sections/50-904.01.xml"/>
       <xi:include href="./sections/50-905.xml"/>
       <xi:include href="./sections/50-906.xml"/>
     </container>
@@ -312,7 +311,6 @@
       <xi:include href="./sections/50-921.22.xml"/>
       <xi:include href="./sections/50-921.23.xml"/>
       <xi:include href="./sections/50-921.24.xml"/>
-      <xi:include href="./sections/50-921.25.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -427,7 +425,7 @@
       <xi:include href="./sections/50-1301.05a.xml"/>
       <xi:include href="./sections/50-1301.06.xml"/>
       <xi:include href="./sections/50-1301.07.xml"/>
-      <xi:include href="./sections/50-1301.07a.xml"/>
+      <xi:include href="./sections/50-1307.07a.xml"/>
       <xi:include href="./sections/50-1301.08.xml"/>
       <xi:include href="./sections/50-1301.09.xml"/>
     </container>
@@ -606,7 +604,6 @@
       <xi:include href="./sections/50-1501.03a.xml"/>
       <xi:include href="./sections/50-1501.04.xml"/>
       <xi:include href="./sections/50-1501.05.xml"/>
-      <xi:include href="./sections/50-1501.02l.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1113,6 +1110,14 @@
       <num>III-A</num>
       <heading>Reconsideration.</heading>
       <xi:include href="./sections/50-2303.11.xml"/>
+    </container>
+    <container>
+      <prefix>Subchapter</prefix>
+      <num>III-B</num>
+      <heading>Community Service Debt Repayment Program.</heading>
+      <annotation app="2018-10-30" doc="D.C. Law 22-175" eff="2018-10-30" path="§3|(a)|(8)" type="History" display="false"/>
+      <annotation app="notfunded" doc="D.C. Law 22-175" eff="2018-10-30" path="§2|(i)" type="History" display="false"/>
+      <xi:include href="./sections/50-2303.21.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

@@ -30,7 +30,7 @@
       <text>Section 4 (D.C. Official Code § 2-1831.01) is amended by adding a new paragraph (7A) to read as follows:</text>
       <include lvl="1">
         <para>
-          <codify:insert path="§2-1831.01" after="(7)" codified:doc="D.C. Code" codified:path="§2-1831.01"/>
+          <codify:insert path="§2-1831.01" after="(7)" codified:doc="D.C. Code" codified:path="§2-1831.01|(7A)"/>
           <num>(7A)</num>
           <text>"Grievance" means a consumer complaint filed with the Department of Behavioral Health that alleges a violation of a right established by <code-cite doc="D.C. Code" path="7|12A">the Mental Health Consumers' Rights Protection Act of 2001, effective December 18, 2001 (D.C. Law 14-56, D.C. Official Code § 7-1231.01 <em>et seq.</em>)</code-cite>.</text>
         </para>

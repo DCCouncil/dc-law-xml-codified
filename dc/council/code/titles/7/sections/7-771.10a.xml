@@ -1,9 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Repealed">
-  <reason>Repealed</reason>
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>7-771.10a</num>
   <heading>Unspent local funds.</heading>
-  <text>Repealed.</text>
+  <text>In Fiscal Year 2021, the Chief Financial Officer shall deposit all unspent local funds at the Department of Health Care Finance into the Medicaid Reserve Fund at the end of the fiscal year.</text>
   <annotations>
     <annotation doc="D.C. Law 17-109" type="History" path="§11a">Feb. 27, 2008, D.C. Law 17-109, § 11a</annotation>
     <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-6" path="§3|(b)" codified:display="Note" app="2021-03-16" eff="2021-01-29">For temporary (90 days) amendment of this section, see <cite doc="D.C. Act 24-6" path="§3|(b)">§ 3(b) of Department of Health Care Finance Alliance Reform and Budget Transparency Emergency Amendment Act of 2021 (D.C. Act 24-6, Jan. 29, 2021, 68 DCR 001539)</cite>.</annotation>
@@ -13,6 +12,5 @@
     </annotation>
     <annotation app="2021-03-16" doc="D.C. Act 24-6" eff="2021-01-29" path="§5" type="History" display="false"/>
     <annotation app="2021-03-16" doc="D.C. Law 23-251" eff="2021-03-16" path="§202|(b)" prefix="as added" type="History"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§5022|(b)" type="History"/>
   </annotations>
 </section>

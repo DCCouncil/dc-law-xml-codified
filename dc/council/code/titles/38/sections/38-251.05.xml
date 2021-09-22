@@ -1,39 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>38-251.05</num>
   <heading>Mediation and appeals process.</heading>
-  <para>
-    <num>(a)</num>
-    <text>OSSE shall administer an appeals and mediation process for the denial of an application for home or hospital instruction submitted pursuant to <cite path="§38-251.03">§ 38-251.03</cite> or <cite path="§38-251.04">§ 38-251.04</cite>.</text>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>A parent has a right to appeal the approval or denial decision made by the LEA. The appeals and mediation process is as follows:</text>
-    <para>
-      <num>(1)</num>
-      <text>A parent shall submit a written request for an appeal to OSSE within 10 days of receipt of the LEA's written decision. The request for an appeal shall include a copy of the medical certification of need in support of the request for home or hospital instruction and a copy of the LEA's decision, as well as any other information required by OSSE in its published policies.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>OSSE shall provide mediation between the LEA and the parent.  If the mediation fails to resolve the issues raised by the appeal within 8 school days following receipt of the appeal or such other time as mutually agreed to by the parties, the appeal shall be reviewed by a 3-member appeals panel within OSSE. In the event the matter is referred to the appeals panel, the parent may request an opportunity to be heard before the panel.</text>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The parent shall have the burden of proof on appeal to the appeals panel; provided, that there shall be a presumption in favor of the medical opinion set forth in the medical certification of need submitted in support of the request for home or hospital instruction. The LEA shall have the burden of proof in seeking to rebut this presumption through the submission of evidence from a qualified health care professional.</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>The appeals panel shall issue a written response to the parent's request for an appeal no later than 10 school days following receipt of the appeal.</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>The LEA shall implement the decision of the appeals panel no later than 5 days following its issuance.</text>
-    </para>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-251.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-251.05">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§6">§ 6 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
     <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§6" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§12|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-204" eff="2021-03-16" path="§6" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-204" path="§6" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-204" path="">D.C. Law 23-204</cite>: <cite doc="D.C. Law 23-204" path="§12">§ 12 of D.C. Law 23-204</cite> provided that the creation of this section by <cite doc="D.C. Law 23-204" path="§6">§ 6 of D.C. Law 23-204</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-204" eff="2021-03-16" path="§6" type="History"/>
   </annotations>
 </section>

@@ -191,7 +191,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>6A</num>
-    <heading>Commission on Poverty. [Expired]<annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History"/></heading>
+    <heading>Commission on Poverty.<annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§301|(a)" type="History" display="false"/><annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History"/></heading>
     <xi:include href="./sections/3-631.xml"/>
     <xi:include href="./sections/3-632.xml"/>
     <xi:include href="./sections/3-633.xml"/>
@@ -202,7 +202,8 @@
     <prefix>Chapter</prefix>
     <num>6A-i</num>
     <heading>Commission of Poverty.</heading>
-    <annotation app="2021-03-16" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-184" eff="2021-03-16" path="" type="History" display="false"/>
     <xi:include href="./sections/3-641.01.xml"/>
     <xi:include href="./sections/3-641.02.xml"/>
     <xi:include href="./sections/3-641.03.xml"/>
@@ -445,13 +446,12 @@
     <container>
       <prefix>Subchapter</prefix>
       <num>VI-F</num>
-      <heading>Medicaid Reimbursement for Certified Professional Midwives and Doulas.<annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§5042|(e)" type="History"/></heading>
+      <heading>Medicaid Reimbursement for Certified Professional MIdwives.</heading>
       <annotation doc="D.C. Law 23-97" type="Editor's Notes" history="false" app="2020-06-17" eff="2020-06-17" path="§5" display="false"><cite doc="D.C. Act" path="§5">Section 5 of D.C. Law 23-97</cite> provided that the Mayor, pursuant to <cite path="2|5">Chapter 5 of Title 2</cite>, shall issue rules to implement the provisions of D.C. Law 23-97.
     </annotation>
       <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="§5" type="History" display="false"/>
       <annotation app="2020-06-17" doc="D.C. Law 23-97" eff="2020-06-17" path="" type="History" display="false"/>
       <xi:include href="./sections/3-1206.71.xml"/>
-      <xi:include href="./sections/3-1206.72.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
