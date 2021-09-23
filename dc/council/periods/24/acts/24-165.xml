@@ -685,6 +685,12 @@
       </include>
       <aftertext>.</aftertext>
     </para>
+    <codify:emergency doc="D.C. Code" path="§28-3814" codified:doc="D.C. Code" codified:path="§28-3814" codified:display="Note"/>
+    <codify:insert doc="D.C. Code" path="§28-3814" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§28-3814">
+      <text>
+      *NOTE: This section includes amendments by emergency legislation that will expire on November 30, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§28-3814(Perm)">Permanent Version</cite>.*
+      </text>
+    </codify:insert>
   </section>
   <section>
     <num>3</num>
