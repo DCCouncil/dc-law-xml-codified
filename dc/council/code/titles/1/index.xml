@@ -591,7 +591,6 @@
         <xi:include href="./sections/1-301.86b.xml"/>
         <xi:include href="./sections/1-301.86c.xml"/>
         <xi:include href="./sections/1-301.86d.xml"/>
-        <xi:include href="./sections/1-301.86e.xml"/>
         <xi:include href="./sections/1-301.87.xml"/>
         <xi:include href="./sections/1-301.88.xml"/>
         <xi:include href="./sections/1-301.88a.xml"/>
@@ -600,7 +599,6 @@
         <xi:include href="./sections/1-301.88d.xml"/>
         <xi:include href="./sections/1-301.88e.xml"/>
         <xi:include href="./sections/1-301.88f.xml"/>
-        <xi:include href="./sections/1-301.88g.xml"/>
         <xi:include href="./sections/1-301.89.xml"/>
         <xi:include href="./sections/1-301.89a.xml"/>
         <xi:include href="./sections/1-301.89b.xml"/>
@@ -629,7 +627,6 @@
         <heading>Office of the Inspector General.</heading>
         <xi:include href="./sections/1-301.115a.xml"/>
         <xi:include href="./sections/1-301.115b.xml"/>
-        <xi:include href="./sections/1-301.115c.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -662,8 +659,6 @@
         <xi:include href="./sections/1-301.156.xml"/>
         <xi:include href="./sections/1-301.157.xml"/>
         <xi:include href="./sections/1-301.158.xml"/>
-        <xi:include href="./sections/1-301.159.xml"/>
-        <xi:include href="./sections/1-301.160.xml"/>
       </container>
       <container>
         <prefix>Part</prefix>
@@ -1267,20 +1262,6 @@
         <annotation app="2020-12-03" doc="D.C. Law 23-149" eff="2020-12-03" path="I" type="History" display="false"/>
         <xi:include href="./sections/1-325.411.xml"/>
       </container>
-      <container>
-        <prefix>Part</prefix>
-        <num>QQ</num>
-        <heading>SNAP Reinvestment Fund.</heading>
-        <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="V|G" type="History" display="false"/>
-        <xi:include href="./sections/1-325.421.xml"/>
-      </container>
-      <container>
-        <prefix>Part</prefix>
-        <num>RR</num>
-        <heading>Early Childhood Educator Pay Equity Fund.</heading>
-        <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="V" type="History" display="false"/>
-        <xi:include href="./sections/1-325.431.xml"/>
-      </container>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -1311,7 +1292,6 @@
         <xi:include href="./sections/1-327.53.xml"/>
         <xi:include href="./sections/1-327.54.xml"/>
         <xi:include href="./sections/1-327.54b.xml"/>
-        <xi:include href="./sections/1-327.54c.xml"/>
         <xi:include href="./sections/1-327.54a.xml"/>
         <xi:include href="./sections/1-327.55.xml"/>
         <xi:include href="./sections/1-327.56.xml"/>
@@ -1340,7 +1320,6 @@
         <xi:include href="./sections/1-328.02a.xml"/>
         <xi:include href="./sections/1-328.03.xml"/>
         <xi:include href="./sections/1-328.04.xml"/>
-        <xi:include href="./sections/1-328.04a.xml"/>
         <xi:include href="./sections/1-328.05.xml"/>
       </container>
       <container>
@@ -1494,7 +1473,6 @@
       <xi:include href="./sections/1-515.04.xml"/>
       <xi:include href="./sections/1-515.05.xml"/>
       <xi:include href="./sections/1-515.06.xml"/>
-      <xi:include href="./sections/1-515.06a.xml"/>
       <xi:include href="./sections/1-515.07.xml"/>
       <xi:include href="./sections/1-515.08.xml"/>
     </container>

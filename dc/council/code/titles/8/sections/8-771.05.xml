@@ -1,102 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>8-771.05</num>
   <heading>Annual reporting.</heading>
-  <para>
-    <num>(a)</num>
-    <text>On or before June 1, 2023, and annually thereafter, a battery stewardship organization shall submit a report to DOEE describing activities carried out under the battery stewardship plan during the previous calendar year. The report shall include, at a minimum:</text>
-    <para>
-      <num>(1)</num>
-      <text>Any updated contact information for the battery stewardship organization, all participants in the organization, and a list of the brands of batteries and battery-containing products for which the battery stewardship organization is responsible;</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>The weight of the batteries collected by the battery stewardship organization, reported to the extent feasible by:</text>
-      <para>
-        <num>(A)</num>
-        <text>Collection site; and</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>Chemistry type of primary and rechargeable batteries;</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>The estimated total sales, by weight, of batteries and batteries contained in or with battery-containing products sold in the District by the producer or producers participating in the battery stewardship organization, to the extent feasible for each of the previous 3 calendar years;</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>A description of progress made toward the program performance goals under <cite path="§8-771.03|(a)|(3)">§ 8-771.03(a)(3)</cite>, including:</text>
-      <para>
-        <num>(A)</num>
-        <text>A summary of how program implementation compared to performance goals;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>An explanation of why performance goals were not met, if applicable; and</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>An evaluation of the effectiveness of methods and processes used to achieve the performance goals and how methods and processes can be improved;</text>
-      </para>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>A description of the collection sites, including:</text>
-      <para>
-        <num>(A)</num>
-        <text>The addresses and contact information, including website links, for all collection sites;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>A map indicating the location of all collection sites in the District; and</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>An assessment of collection convenience and accessibility;</text>
-      </para>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>A description of the educational materials that support implementation of the battery stewardship plan, including examples, as well as an evaluation of the success of the education and outreach effort and how it can be improved;</text>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>A description of the manner in which the collected batteries were sorted, consolidated, managed, and processed, including:</text>
-      <para>
-        <num>(A)</num>
-        <text>The manner in which the collected batteries were recycled, including weight and chemistry of material recycled;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>What facilities processed the batteries, including a summary of any violations of environmental laws and regulations over the previous 3 years at each facility; and</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>A discussion of recycling efficiency rates; and</text>
-      </para>
-    </para>
-    <para>
-      <num>(8)</num>
-      <text>The costs of implementation of the battery stewardship plan, including the costs of collection, recycling, education, and outreach, and an anticipated budget for the next calendar year.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>In the event a battery stewardship organization does not meet a performance goal, the battery stewardship organization shall, in coordination with DOEE, amend its battery stewardship plan, following the requirements set forth in <cite path="§8-771.03">§ 8-771.03</cite>, to conduct more outreach, provide additional education materials, or improve collection accessibility as needed.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text>Four years after the date the initial battery stewardship plan is approved, a battery stewardship organization shall hire an independent third party to conduct an assessment of the battery stewardship plan and implementation of the plan. The assessment shall examine the effectiveness of the battery stewardship plan in collecting and recycling batteries and compare the cost-effectiveness of the plan to that of collection plans or programs for batteries in other jurisdictions. The results of the assessment and recommendations to improve the battery stewardship plan shall be submitted to DOEE as part of the annual report required under subsection (a) of this section.</text>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§8-771.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-771.05">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(q)">§ 2(q) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 20-154" type="History" path="§132">Feb. 26, 2015, D.C. Law 20-154, § 132</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" prefix="as added" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§6|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-211" path="§2|(q)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(q)">§ 2(q) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History"/>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6062|(g)" type="History"/>
   </annotations>
 </section>

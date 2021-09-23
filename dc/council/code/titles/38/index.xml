@@ -457,7 +457,6 @@
       <xi:include href="./sections/38-751.03.xml"/>
       <xi:include href="./sections/38-751.04.xml"/>
       <xi:include href="./sections/38-751.05.xml"/>
-      <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4183" type="History"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -941,7 +940,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>15</num>
-    <heading>Nurses Training Corps. [Repealed].<annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4121" type="History"/></heading>
+    <heading>Nurses Training Corps.</heading>
     <xi:include href="./sections/38-1501.xml"/>
     <xi:include href="./sections/38-1502.xml"/>
     <xi:include href="./sections/38-1503.xml"/>
@@ -1420,25 +1419,6 @@
     <annotation app="2017-10-24" doc="D.C. Act 22-167" eff="2017-10-24" path="§7042" type="History" display="false"/>
     <annotation app="2017-12-13" doc="D.C. Law 22-33" eff="2017-12-13" path="§7042" type="History"/>
   </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>22B</num>
-    <heading>Early Childhood Educator Equitable Compensation Task Force.</heading>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="I" type="History" display="false"/>
-    <xi:include href="./sections/38-2241.xml"/>
-    <xi:include href="./sections/38-2242.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>22C</num>
-    <heading>"Grow Your Own" Teacher Preparation Support Program.</heading>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="IV" type="History" display="false"/>
-    <xi:include href="./sections/38-2251.xml"/>
-    <xi:include href="./sections/38-2252.xml"/>
-    <xi:include href="./sections/38-2253.xml"/>
-    <xi:include href="./sections/38-2254.xml"/>
-    <xi:include href="./sections/38-2255.xml"/>
-  </container>
   <subheading>Subtitle VI. EDUCATION FOR HEARING IMPAIRED PERSONS.</subheading>
   <container>
     <prefix>Chapter</prefix>
@@ -1617,7 +1597,8 @@
     <prefix>Chapter</prefix>
     <num>25D</num>
     <heading>Prevention of Reading Difficulties.</heading>
-    <annotation app="2021-03-16" doc="D.C. Law 23-191" eff="2021-03-16" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-191" eff="2021-03-16" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-191" eff="2021-03-16" path="" type="History" display="false"/>
     <xi:include href="./sections/38-2581.01.xml"/>
     <xi:include href="./sections/38-2581.02.xml"/>
     <xi:include href="./sections/38-2581.03.xml"/>
@@ -1798,7 +1779,6 @@
       <xi:include href="./sections/38-2906.xml"/>
       <xi:include href="./sections/38-2906.01.xml"/>
       <xi:include href="./sections/38-2906.02.xml"/>
-      <xi:include href="./sections/38-2906.03.xml"/>
       <xi:include href="./sections/38-2907.xml"/>
       <xi:include href="./sections/38-2907.01.xml"/>
       <xi:include href="./sections/38-2908.xml"/>
@@ -1872,14 +1852,6 @@
     <num>29C</num>
     <heading>Turkey Bowl Funding.</heading>
     <xi:include href="./sections/38-2981.xml"/>
-  </container>
-  <container>
-    <prefix>Chapter</prefix>
-    <num>29D</num>
-    <heading>Duke Ellington School of the Arts New Funding and Organization Model.</heading>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="IV" type="History" display="false"/>
-    <xi:include href="./sections/38-2991.xml"/>
-    <xi:include href="./sections/38-2992.xml"/>
   </container>
   <subheading>Subtitle XI. Miscellaneous Education Provisions.</subheading>
   <container>

@@ -1,119 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>4-671.01</num>
   <heading>Definitions.</heading>
-  <para>
-    <num undesignated="true">(a)</num>
-    <text>For the purposes of this title, the term:</text>
-    <para>
-      <num>(1)</num>
-      <text>"Administrative act" means any action, decision, adjudication, omission, rule, regulation, interpretation, recommendation, policy, practice, or procedure of an agency, agency-licensed or contracted service and placement provider, or entity that must operate under or comply with guidance from an agency.</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>"Agency" means any officer, employee, office, department, division, board, commission, or agency of the government of the District, including independent agencies, but does not include:</text>
-      <para>
-        <num>(A)</num>
-        <text>The District of Columbia Courts, as that term is defined in section 103(13) of the District of Columbia Home Rule Act, approved December 24, 1973 (87 Stat. 777; D.C. Official Code § 1-201.03(13));</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>The Council;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>Any instrumentality formed pursuant to an interstate compact; or</text>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>The Office of the Inspector General.</text>
-      </para>
-    </para>
-    <para>
-      <num>(3)</num>
-      <text>"CFSA" means the Child and Family Services Agency.</text>
-    </para>
-    <para>
-      <num>(4)</num>
-      <text>"CFSA affiliate" means a CFSA-licensed or contracted service and placement provider or entity that must operate under or comply with guidance from CFSA.</text>
-    </para>
-    <para>
-      <num>(5)</num>
-      <text>"CFSA child" means an individual who is 21 years of age or younger and involved with, previously involved with, or otherwise known to CFSA.</text>
-    </para>
-    <para>
-      <num>(6)</num>
-      <text>"CFSA constituent" includes:</text>
-      <para>
-        <num>(A)</num>
-        <text>A CFSA child;</text>
-      </para>
-      <para>
-        <num>(B)</num>
-        <text>A former CFSA child;</text>
-      </para>
-      <para>
-        <num>(C)</num>
-        <text>The following individuals in relation to a CFSA child:</text>
-        <para>
-          <num>(i)</num>
-          <text>A parent by birth, adoption, or marriage;</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>A relative caregiver, as that term is defined in section 101(3A) of the Grandparent Caregivers Pilot Program Establishment Act of 2005, effective March 8, 2006 (D.C. Law 16-69; D.C. Official Code § 4-251.01(3A));</text>
-        </para>
-        <para>
-          <num>(ii)</num>
-          <text>A grandparent, as that term is defined in section 101(2) of the Grandparent Caregivers Pilot Program Establishment Act of 2005, effective March 8, 2006 (D.C. Law 16-69; D.C. Official Code § 4-251.01(2));</text>
-        </para>
-        <para>
-          <num>(iv)</num>
-          <text>A close relative, as that term is defined in section 101(2) of the Close Relative Caregiver Subsidy Pilot Program Establishment Amendment Act of 2019, effective November 26, 2019 (D.C. Law 23-32; D.C. Official Code § 4-251.21(2)); and</text>
-        </para>
-        <para>
-          <num>(v)</num>
-          <text>A court-ordered legal custodian or guardian;</text>
-        </para>
-      </para>
-      <para>
-        <num>(D)</num>
-        <text>A foster parent, as that term is defined in section 381(1) of the Prevention of Child Abuse and Neglect Act of 1977, effective February 18, 2017 (D.C. Law 21-217; D.C. Official Code 4-1303.81(1));</text>
-      </para>
-      <para>
-        <num>(E)</num>
-        <text>An employee of CFSA;</text>
-      </para>
-      <para>
-        <num>(F)</num>
-        <text>A contracted employee of CFSA;</text>
-      </para>
-      <para>
-        <num>(G)</num>
-        <text>A court-appointed special advocate or guardian ad litem, an attorney of a CFSA child, or a CFSA child's parent or caregiver; and</text>
-      </para>
-      <para>
-        <num>(H)</num>
-        <text>An individual with first-hand knowledge of an administrative act of CFSA or a CFSA affiliate.</text>
-      </para>
-    </para>
-    <para>
-      <num>(7)</num>
-      <text>"Office" means the Office of the Ombudsperson for Children.</text>
-    </para>
-    <para>
-      <num>(8)</num>
-      <text>"Ombudsperson" or "Ombudsperson for Children" means the administrator of the Office.</text>
-    </para>
-    <para>
-      <num>(9)</num>
-      <text>"Record" means any record, document, book, paper, file, photograph, microfilm, sound recording, video recording, magnetic storage media, computer data, or other material, regardless of physical form or characteristics, created, generated, recorded, received, possessed, controlled, accessible, or auditable by an agency.</text>
-    </para>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§4-671.01" codified:display="Note" codified:doc="D.C. Code" codified:path="§4-671.01">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§101">§ 101 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
-    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
-    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="§101" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-270" eff="2021-04-05" path="§101" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-270" path="§101" codified:display="Note" app="2021-04-05" eff="2021-04-05">Applicability of <cite doc="D.C. Law 23-270" path="">D.C. Law 23-270</cite>: <cite doc="D.C. Law 23-270" path="§301">§ 301 of D.C. Law 23-270</cite> provided that the creation of this section by <cite doc="D.C. Law 23-270" path="§101">§ 101 of D.C. Law 23-270</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-04-05" doc="D.C. Law 23-270" eff="2021-04-05" path="§101" type="History"/>
   </annotations>
 </section>

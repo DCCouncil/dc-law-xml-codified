@@ -1,28 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>38-2581.05</num>
   <heading>Reading intervention.</heading>
-  <para>
-    <num>(a)</num>
-    <text>Beginning with School Year 2023-2024, if the screening results from the universal screening performed pursuant to <cite path="§38-2581.04">§ 38-2581.04</cite> indicate that a student is at risk of having a reading difficulty, an LEA shall:</text>
-    <para>
-      <num>(1)</num>
-      <text>Provide remediation and intervention instruction that will explicitly address</text>
-      <text>the area of need identified in the screening; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>Provide written notification to the parent or guardian of the student that includes the screening results, describes the supplemental reading instruction that will be provided to the student, and requests a meeting to discuss individualized student support.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>This section does not alleviate a local education agency from its obligations under the Individuals with Disabilities Education Act, approved April 13, 1970 (84 Stat. 175; 20 U.S.C. § 1400 <em>et seq.</em>).</text>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§38-2581.05" codified:display="Note" codified:doc="D.C. Code" codified:path="§38-2581.05">Applicability of <cite doc="D.C. Law 23-191" path="">D.C. Law 23-191</cite>: <cite doc="D.C. Law 23-191" path="§301">§ 301 of D.C. Law 23-191</cite> provided that the creation of this section by <cite doc="D.C. Law 23-191" path="§105">§ 105 of D.C. Law 23-191</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
-    <annotation app="2021-03-16" doc="D.C. Law 23-191" eff="2021-03-16" path="" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-191" eff="2021-03-16" path="§105" type="History"/>
+    <annotation app="notfunded" doc="D.C. Law 23-191" eff="2021-03-16" path="§301|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-191" eff="2021-03-16" path="" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-191" eff="2021-03-16" path="§105" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-191" path="§105" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-191" path="">D.C. Law 23-191</cite>: <cite doc="D.C. Law 23-191" path="§301">§ 301 of D.C. Law 23-191</cite> provided that the creation of this section by <cite doc="D.C. Law 23-191" path="§105">§ 105 of D.C. Law 23-191</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
+    <annotation app="2021-03-16" doc="D.C. Law 23-191" eff="2021-03-16" path="§105" type="History"/>
   </annotations>
 </section>

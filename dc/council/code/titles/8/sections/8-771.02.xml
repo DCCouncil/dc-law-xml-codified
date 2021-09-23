@@ -1,32 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
-<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude" placeholder="Not Funded">
+  <reason>Not Funded</reason>
   <num>8-771.02</num>
   <heading>Battery collection.</heading>
-  <para>
-    <num>(a)</num>
-    <text>All producers of covered batteries and covered battery-containing products sold or offered for sale in the District of Columbia, including retail, wholesale, business-to-business, and online sales, shall:</text>
-    <para>
-      <num>(1)</num>
-      <text>Be a member of a battery stewardship organization pursuant to <cite path="§8-771.04">§ 8-771.04</cite>; and</text>
-    </para>
-    <para>
-      <num>(2)</num>
-      <text>As part of a battery stewardship organization, implement a battery collection program that provides for collection of all batteries on a free, regular, convenient, and accessible basis. At the time of collection, there shall be no cost to consumers, retailers, or the District.</text>
-    </para>
-  </para>
-  <para>
-    <num>(b)</num>
-    <text>On or before January 1, 2022, a battery stewardship organization shall submit a proposed battery stewardship plan to DOEE for review. A battery stewardship organization shall implement the battery stewardship plan no later than 90 days after the plan is approved.</text>
-  </para>
-  <para>
-    <num>(c)</num>
-    <text><cite path="8|7E">This chapter</cite> shall not apply to batteries or battery-containing products that were imported into the District before[insert applicability date of 2(q)].</text>
-  </para>
-  <codify:annotation applicability="effective" type="Applicability" doc="D.C. Code" path="§8-771.02" codified:display="Note" codified:doc="D.C. Code" codified:path="§8-771.02">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(q)">§ 2(q) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</codify:annotation>
+  <text>Not Funded.</text>
   <annotations>
     <annotation doc="D.C. Law 20-154" type="History" path="§129">Feb. 26, 2015, D.C. Law 20-154, § 129</annotation>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History" display="false"/>
-    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" prefix="as added" type="History"/>
+    <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§6|(a)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History" display="false"/>
+    <annotation app="notfunded" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" prefix="as added" type="History"/>
     <annotation type="Applicability" doc="D.C. Law 23-211" path="§2|(q)" codified:display="Note" app="2021-03-16" eff="2021-03-16">Applicability of <cite doc="D.C. Law 23-211" path="">D.C. Law 23-211</cite>: <cite doc="D.C. Law 23-211" path="§6">§ 6 of D.C. Law 23-211</cite> provided that the creation of this section by <cite doc="D.C. Law 23-211" path="§2|(q)">§ 2(q) of D.C. Law 23-211</cite> is subject to the inclusion of the law’s fiscal effect in an approved budget and financial plan. Therefore that amendment has not been implemented.</annotation>
     <annotation app="2021-03-16" doc="D.C. Law 23-211" eff="2021-03-16" path="§2|(q)" type="History"/>
   </annotations>
