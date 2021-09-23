@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>32-1693.07</num>
+  <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
   <heading>Program performance and reporting.</heading>
   <para>
     <num>(a)</num>
@@ -62,12 +65,21 @@
       </para>
     </para>
   </para>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§32-1686" expire="2021-08-23" codified:display="Note">For temporary (90 days) creation of § 32-1693.07, see <cite doc="D.C. Act 24-159" path="§4118">§ 4118 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§32-1693.07" applicability="2021-08-23" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§32-1693.07">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§4118">§ 4118 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</codify:annotation>
+  <codify:insert doc="D.C. Code" path="§32-1693.07" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1693.07">
+    <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+  </codify:insert>
   <annotations>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="IV" type="History" display="false"/>
     <annotation doc="D.C. Act 24-159" path="§4122" type="Editor's Notes" history="false" app="2021-08-23" eff="2021-08-23">
           Section <cite doc="D.C. Act 24-159" path="§4122">4122 of D.C. Act 24-159</cite> provided that this section shall expire on September 30, 2024.
         </annotation>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4122" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4118" type="History" display="false"/>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§4118" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§4118" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§4118">§ 4118 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
   </annotations>
 </section>

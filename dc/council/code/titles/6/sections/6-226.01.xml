@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-226.01</num>
+  <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
   <heading>Rent Supplement Program Funds.</heading>
   <para>
     <num>(a)</num>
@@ -154,7 +157,15 @@
       <text>For the purposes of this subsection, the phrase "new tenant-based voucher assistance" means, with respect to the amount of money to be deposited into the Rent Supplement Program Tenant-Based Allocation Fund, the amount of money appropriated to the Department of Human Services in a fiscal year for the provision of tenant-based voucher assistance.</text>
     </para>
   </para>
+  <codify:insert doc="D.C. Code" path="§6-226.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-226.01">
+    <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+  </codify:insert>
   <annotations>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2042|(c)" type="History"/>
+    <annotation doc="D.C. Law 13-105" type="History" path="§26a-1" display="false">May 9, 2000, D.C. Law 13-105, § 26a-1</annotation>
+    <annotation doc="D.C. Law 13-105" type="History" path="§26a-1">May 9, 2000, D.C. Law 13-105, § 26a-1</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2042|(c)" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2042|(c)" prefix="as added" type="History"/>
   </annotations>
 </section>

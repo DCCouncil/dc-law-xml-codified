@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>6-229.02</num>
+  <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
   <heading>Rent Supplement Program Project-Based Allocation Fund quarterly reporting.</heading>
   <para>
     <num>(a)</num>
@@ -29,8 +32,16 @@
       <num>(5)</num>
       <text>The amount of money expended from the fund during the reporting period on administrative costs, which shall contain a breakdown by category of expense.</text>
     </para>
+    <codify:insert doc="D.C. Code" path="§6-229.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-229.02">
+      <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+    </codify:insert>
   </para>
   <annotations>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2042|(f)" type="History"/>
+    <annotation doc="D.C. Law 13-105" type="History" path="§26d-2" display="false">May 9, 2000, D.C. Law 13-105, § 26d-2</annotation>
+    <annotation doc="D.C. Law 13-105" type="History" path="§26d-2">May 9, 2000, D.C. Law 13-105, § 26d-2</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2042|(f)" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2042|(f)" prefix="as added" type="History"/>
   </annotations>
 </section>

@@ -860,17 +860,6 @@
       <num>IV</num>
       <heading>Adult Training Funding. [Repealed]</heading>
       <xi:include href="./sections/32-1671.xml"/>
-      <xi:include href="./sections/32-1691.01.xml"/>
-      <xi:include href="./sections/32-1691.02.xml"/>
-      <xi:include href="./sections/32-1691.03.xml"/>
-      <xi:include href="./sections/32-1691.04.xml"/>
-      <xi:include href="./sections/32-1691.05.xml"/>
-      <xi:include href="./sections/32-1691.06.xml"/>
-      <xi:include href="./sections/32-1691.07.xml"/>
-      <xi:include href="./sections/32-1691.08.xml"/>
-      <xi:include href="./sections/32-1691.09.xml"/>
-      <xi:include href="./sections/32-1691.10.xml"/>
-      <xi:include href="./sections/32-1691.11.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
@@ -883,12 +872,23 @@
       <xi:include href="./sections/32-1684.xml"/>
       <xi:include href="./sections/32-1685.xml"/>
       <xi:include href="./sections/32-1686.xml"/>
+      <xi:include href="./sections/32-1691.04.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>
       <num>VI</num>
       <heading>IT Community Training and Advisory Board.</heading>
       <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="IV" type="History" display="false"/>
+      <xi:include href="./sections/32-1691.01.xml"/>
+      <xi:include href="./sections/32-1691.02.xml"/>
+      <xi:include href="./sections/32-1691.03.xml"/>
+      <xi:include href="./sections/32-1691.05.xml"/>
+      <xi:include href="./sections/32-1691.06.xml"/>
+      <xi:include href="./sections/32-1691.07.xml"/>
+      <xi:include href="./sections/32-1691.08.xml"/>
+      <xi:include href="./sections/32-1691.09.xml"/>
+      <xi:include href="./sections/32-1691.10.xml"/>
+      <xi:include href="./sections/32-1691.11.xml"/>
     </container>
     <container>
       <prefix>Subchapter</prefix>

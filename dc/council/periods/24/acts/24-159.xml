@@ -2414,6 +2414,11 @@
               <aftertext>.</aftertext>
             </para>
           </para>
+          <codify:insert doc="D.C. Code" path="§47-3801" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-3801">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(c)</num>
@@ -2435,6 +2440,11 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:insert doc="D.C. Code" path="§47-3801.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-3801.01">
+            <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§47-3802">
           <num>(d)</num>
@@ -2492,6 +2502,11 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:insert doc="D.C. Code" path="§47-3802" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-3802">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
     </container>
@@ -2830,6 +2845,11 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:insert doc="D.C. Code" path="§47-825.01a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-825.01a">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section codify:path="§1-604.06|(b)">
         <num>2033</num>
@@ -2870,6 +2890,11 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:insert doc="D.C. Code" path="§1-604.06" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-604.06">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>2034</num>
@@ -2882,6 +2907,11 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:insert doc="D.C. Code" path="§42-3131.15" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-3131.15">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -2922,6 +2952,11 @@
               </para>
             </include>
             <aftertext>.</aftertext>
+            <codify:insert doc="D.C. Code" path="§6-201" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-201">
+              <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+            </codify:insert>
           </para>
         </para>
         <para codify:path="§6-226">
@@ -3015,13 +3050,18 @@
             <codify:repeal path="(d)" codified:doc="D.C. Code" codified:path="§6-226|(d)"/>
             <codify:repeal path="(e)" codified:doc="D.C. Code" codified:path="§6-226|(e)"/>
           </para>
+          <codify:insert doc="D.C. Code" path="§6-226" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-226">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(c)</num>
           <text>A new section 26a-1 is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="6|2|I" after="§6-226" num-value="6-226.01" codified:doc="D.C. Code" codified:path="§6-226.01"/>
+              <codify:insert path="6|2|I" after="§6-226" num-value="6-226.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§6-226.01"/>
               <num>26a-1</num>
               <heading>Rent Supplement Program Funds.</heading>
               <para>
@@ -3176,6 +3216,12 @@
                   <text>For the purposes of this subsection, the phrase "new tenant-based voucher assistance" means, with respect to the amount of money to be deposited into the Rent Supplement Program Tenant-Based Allocation Fund, the amount of money appropriated to the Department of Human Services in a fiscal year for the provision of tenant-based voucher assistance.</text>
                 </para>
               </para>
+              <annotation doc="D.C. Law 13-105" type="History" path="§26a-1">May 9, 2000, D.C. Law 13-105, § 26a-1</annotation>
+              <codify:insert doc="D.C. Code" path="§6-226.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-226.01">
+                <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+              </codify:insert>
             </section>
           </include>
           <aftertext>.</aftertext>
@@ -3248,6 +3294,11 @@
             <text>Subsection (e) is repealed.</text>
             <codify:repeal codified:doc="D.C. Code" codified:path="§6-227|(e)"/>
           </para>
+          <codify:insert doc="D.C. Code" path="§6-227" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-227">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§6-228">
           <num>(e)</num>
@@ -3326,13 +3377,18 @@
               <replace>eligible for tenant-based voucher assistance</replace>
             </codify:find-replace>
           </para>
+          <codify:insert doc="D.C. Code" path="§6-228" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-228">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(f)</num>
           <text>New sections 26d-1, 26d-2, and 26d-3 are added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="6|2|I" after="§6-229" num-value="6-229.01" codified:doc="D.C. Code" codified:path="§6-229.01"/>
+              <codify:insert path="6|2|I" after="§6-229" num-value="6-229.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§6-229.01"/>
               <num>26d-1</num>
               <heading>Housing Authority Rent Supplement Program quarterly reporting.</heading>
               <para>
@@ -3471,9 +3527,15 @@
                   <text>The dollar amount of capital assistance provided to each project listed pursuant to paragraph (1) of this subsection.</text>
                 </para>
               </para>
+              <annotation doc="D.C. Law 13-105" type="History" path="§26d-1">May 9, 2000, D.C. Law 13-105, § 26d-1</annotation>
+              <codify:insert doc="D.C. Code" path="§6-229.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-229.01">
+                <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+              </codify:insert>
             </section>
             <section>
-              <codify:insert path="6|2|I" after="§6-229.01" num-value="6-229.02" codified:doc="D.C. Code" codified:path="§6-229.02"/>
+              <codify:insert path="6|2|I" after="§6-229.01" num-value="6-229.02" history-prefix="as added" codified:doc="D.C. Code" codified:path="§6-229.02"/>
               <num>26d-2</num>
               <heading>Rent Supplement Program Project-Based Allocation Fund quarterly reporting.</heading>
               <para>
@@ -3503,10 +3565,16 @@
                   <num>(5)</num>
                   <text>The amount of money expended from the fund during the reporting period on administrative costs, which shall contain a breakdown by category of expense.</text>
                 </para>
+                <annotation doc="D.C. Law 13-105" type="History" path="§26d-2">May 9, 2000, D.C. Law 13-105, § 26d-2</annotation>
+                <codify:insert doc="D.C. Code" path="§6-229.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-229.02">
+                  <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+                </codify:insert>
               </para>
             </section>
             <section>
-              <codify:insert path="6|2|I" after="§6-229.02" num-value="6-229.03" codified:doc="D.C. Code" codified:path="§6-229.03"/>
+              <codify:insert path="6|2|I" after="§6-229.02" num-value="6-229.03" history-prefix="as added" codified:doc="D.C. Code" codified:path="§6-229.03"/>
               <num>26d-3</num>
               <heading>Rent Supplement Program Tenant-Based Allocation Fund quarterly reporting.</heading>
               <para>
@@ -3545,6 +3613,12 @@
                   <text>The amount of money expended from the fund during the reporting period on administrative costs, which shall contain a breakdown by category of expense.</text>
                 </para>
               </para>
+              <annotation doc="D.C. Law 13-105" type="History" path="§26d-3">May 9, 2000, D.C. Law 13-105, § 26d-3</annotation>
+              <codify:insert doc="D.C. Code" path="§6-229.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-229.03">
+                <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+              </codify:insert>
             </section>
           </include>
           <aftertext>.</aftertext>
@@ -3564,6 +3638,11 @@
         <num>2052</num>
         <text>Section 3(f)(2) of the Housing Production Trust Fund Act of 1988, effective March 16, 1989 (D.C. Law 7-202; D.C. Official Code § 42-2802(f)(2)), is repealed.</text>
         <codify:repeal path="§42-2802|(f)|(2)" codified:doc="D.C. Code" codified:path="§42-2802|(f)|(2)"/>
+        <codify:insert doc="D.C. Code" path="§42-2802" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-2802">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -3760,6 +3839,11 @@
               <replace>owner or lessee</replace>
             </codify:find-replace>
           </para>
+          <codify:insert doc="D.C. Code" path="§47-1005.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-1005.02">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§47-1005.03">
           <num>(b)</num>
@@ -3820,6 +3904,11 @@
               <aftertext>.</aftertext>
             </para>
           </para>
+          <codify:insert doc="D.C. Code" path="§47-1005.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-1005.03">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
     </container>
@@ -3844,6 +3933,11 @@
           <num>(b)</num>
           <text>The Chief Financial Officer shall deposit into the Account an amount sufficient to pay the principal and interest due during the remainder of that fiscal year to the Department of Housing and Urban Development in the event of a default on a loan of amounts borrowed by the District under the federal loan guarantee program authorized by section 108 of the Housing and Community Development Act of 1974, approved August 22, 1974 (88 Stat. 647; 42 U.S.C. 5308).</text>
         </para>
+        <codify:insert doc="D.C. Code" path="§1-301.160" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-301.160">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -3931,10 +4025,16 @@
             <text>"Very low-income" means a household income equal to or less than 50% of the area median income.</text>
           </para>
         </para>
+        <codify:insert doc="D.C. Code" path="§42-2231" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-2231">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert path="42|22A" num-value="42-2232" codified:doc="D.C. Code" codified:path="§42-2232"/>
         <num>2093</num>
+        <heading codify:value="Reentry Housing and Services Program."/>
         <para>
           <num>(a)</num>
           <para>
@@ -3989,6 +4089,11 @@
             <text>The proposed rules shall be submitted to the Council for a 45-day period of review, excluding Saturdays, Sundays, legal holidays, and days of Council recess. If the Council does not approve or disapprove the proposed rules, by resolution, within the 45-day review period, the proposed rules shall be deemed approved.</text>
           </para>
         </para>
+        <codify:insert doc="D.C. Code" path="§42-2232" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-2232">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -4052,6 +4157,11 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:insert doc="D.C. Code" path="§47-1099.11" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-1099.11">
+            <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
       <section>
@@ -4141,6 +4251,11 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:insert doc="D.C. Code" path="§47-4640" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-4640">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -4724,6 +4839,11 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:insert doc="D.C. Code" path="§1-328.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-328.04">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>2133</num>
@@ -4740,6 +4860,11 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:insert doc="D.C. Code" path="§1-328.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-328.04">
+            <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(b)</num>
@@ -4752,6 +4877,11 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:insert doc="D.C. Code" path="§2-1225.21" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1225.21">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
     </container>
@@ -4890,6 +5020,11 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:insert doc="D.C. Code" path="§6-211" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-211">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -5105,6 +5240,11 @@
           <num>(i)</num>
           <text>In the event that the Mayor determines that a grant recipient violated the requirements of <code-cite doc="D.C. Code" path="30|3">this subtitle</code-cite>, the grant recipient shall reimburse the amount of the grant not used in compliance with <code-cite doc="D.C. Code" path="30|3">the act</code-cite>; except, that in the event the Mayor determines that the violation was knowing and willful, the grant recipient shall reimburse the entire amount of the grant.</text>
         </para>
+        <codify:insert doc="D.C. Code" path="§30-301" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§30-301">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -5142,6 +5282,11 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:insert doc="D.C. Code" path="§2-281.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-281.01">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§2-281.02">
           <num>(b)</num>
@@ -5178,6 +5323,11 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:insert doc="D.C. Code" path="§2-281.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-281.02">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§2-281.03">
           <num>(c)</num>
@@ -5273,6 +5423,11 @@
               </codify:find-replace>
             </para>
           </para>
+          <codify:insert doc="D.C. Code" path="§2-281.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-281.03">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§2-281.04">
           <num>(d)</num>
@@ -5328,6 +5483,11 @@
               <aftertext>.</aftertext>
             </para>
           </para>
+          <codify:insert doc="D.C. Code" path="§2-281.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-281.04">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§2-281.05">
           <num>(e)</num>
@@ -5336,6 +5496,11 @@
             <find>The Fund Manager</find>
             <replace>A Fund Manager</replace>
           </codify:find-replace>
+          <codify:insert doc="D.C. Code" path="§2-281.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-281.05">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(f)</num>
@@ -5349,6 +5514,11 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:insert doc="D.C. Code" path="§2-281.06" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-281.06">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
       <section>
@@ -5380,6 +5550,11 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:insert doc="D.C. Code" path="§47-4801" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-4801">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§47-4803">
           <num>(b)</num>
@@ -5400,6 +5575,11 @@
               <replace>an amount that exceeds the lesser of $0.70 per $1.00 in District of Columbia low-income housing tax credit or 80% of the per dollar sale</replace>
             </codify:find-replace>
           </para>
+          <codify:insert doc="D.C. Code" path="§47-4803" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-4803">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
     </container>
@@ -5546,6 +5726,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§5-416" codified:doc="D.C. Code" codified:path="§5-416" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§5-416" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-416">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -5576,6 +5762,12 @@
             <replace>human-made challenges</replace>
           </codify:find-replace>
         </para>
+        <codify:emergency doc="D.C. Code" path="§1-301.201" codified:doc="D.C. Code" codified:path="§1-301.201" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-301.201" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-301.201">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -5598,6 +5790,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§1-611.08" codified:doc="D.C. Code" codified:path="§1-611.08" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-611.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-611.08">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section codify:path="§7-2509.08|(b)">
         <num>3023</num>
@@ -5634,6 +5832,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§7-2509.08" codified:doc="D.C. Code" codified:path="§7-2509.08" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§7-2509.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2509.08">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -5656,13 +5860,18 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:insert doc="D.C. Code" path="§6-228" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§6-228">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>3033</num>
         <text>The Neighborhood Engagement Achieves Results Amendment Act of 2016, effective June 30, 2016 (D.C. Law 21-125; D.C. Official Code § 7-2411 <em>et seq.</em>), is amended by adding a new section 103b to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="7|24A" after="§7-2413" num-value="7-2413.01" codified:doc="D.C. Code" codified:path="§7-2413.01"/>
+            <codify:insert path="7|24A" after="§7-2414" num-value="7-2415" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-2415"/>
             <num>103b</num>
             <heading>Violence prevention, interruption, and response services.</heading>
             <para>
@@ -5736,6 +5945,13 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <annotation doc="D.C. Law 21-125" type="History">June 30, 2016, D.C. Law 21-125, § 103b</annotation>
+        <codify:emergency-new-sec doc="D.C. Code" path="§7-2415" interim-path="§7-2414" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§7-2415" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§7-2415" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2415">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>3034</num>
@@ -5846,6 +6062,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§2-1403.01" codified:doc="D.C. Code" codified:path="§2-1403.01" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§2-1403.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-1403.01">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -5995,6 +6217,12 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency-new-sec doc="D.C. Code" path="§1-327.54c" interim-path="§1-327.54b" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§1-327.54c" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-327.54c" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-327.54c">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -6016,6 +6244,12 @@
             <find>District residents and providing</find>
             <replace>District residents, or support to their nonprofit organization partners; and providing</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§4-1702.01" codified:doc="D.C. Code" codified:path="§4-1702.01" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§4-1702.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1702.01">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§4-1703.01|(a)">
           <num>(b)</num>
@@ -6024,6 +6258,12 @@
             <find>District residents, including</find>
             <replace>District residents, or support to their nonprofit organization partners, including</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§4-1703.01" codified:doc="D.C. Code" codified:path="§4-1703.01" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§4-1703.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1703.01">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
       <section>
@@ -6033,6 +6273,12 @@
           <find>whose gross household income falls at or below 200% of the federal poverty guidelines</find>
           <replace>whose gross household income falls at or below 250% of the federal poverty guidelines</replace>
         </codify:find-replace>
+        <codify:emergency doc="D.C. Code" path="§4-1801" codified:doc="D.C. Code" codified:path="§4-1801" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§4-1801" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1801">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -6082,6 +6328,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§5-1401" codified:doc="D.C. Code" codified:path="§5-1401" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§5-1401" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1401">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§5-1402">
           <num>(b)</num>
@@ -6114,6 +6366,12 @@
               <replace>District.</replace>
             </codify:find-replace>
           </para>
+          <codify:emergency doc="D.C. Code" path="§5-1402" codified:doc="D.C. Code" codified:path="§5-1402" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§5-1402" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1402">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§5-1403|(b)">
           <num>(c)</num>
@@ -6122,6 +6380,12 @@
             <find>equipment, as</find>
             <replace>equipment as</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§5-1403" codified:doc="D.C. Code" codified:path="§5-1403" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§5-1403" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1403">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§5-1404">
           <num>(d)</num>
@@ -6178,6 +6442,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§5-1404" codified:doc="D.C. Code" codified:path="§5-1404" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§5-1404" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1404">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§5-1405">
           <num>(e)</num>
@@ -6262,6 +6532,12 @@
               <replace>the District</replace>
             </codify:find-replace>
           </para>
+          <codify:emergency doc="D.C. Code" path="§5-1405" codified:doc="D.C. Code" codified:path="§5-1405" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§5-1405" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1405">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§5-1406|(b)">
           <num>(f)</num>
@@ -6270,6 +6546,12 @@
             <find>(EMS) personnel,</find>
             <replace>personnel,</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§5-1406" codified:doc="D.C. Code" codified:path="§5-1406" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§5-1406" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1406">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§5-1407">
           <num>(g)</num>
@@ -6278,6 +6560,12 @@
             <find>in his or her opinion</find>
             <replace>in the CME's opinion</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§5-1407" codified:doc="D.C. Code" codified:path="§5-1407" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§5-1407" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1407">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§5-1408|(a)">
           <num>(h)</num>
@@ -6286,6 +6574,12 @@
             <find>in his or her opinion</find>
             <replace>in the opinion of the medical examiner, medicolegal investigator, or law enforcement officer</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§5-1408" codified:doc="D.C. Code" codified:path="§5-1408" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§5-1408" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1408">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§5-1411|(b)">
           <num>(i)</num>
@@ -6294,6 +6588,12 @@
             <find>the District of Columbia</find>
             <replace>the District</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§5-1411" codified:doc="D.C. Code" codified:path="§5-1411" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§5-1411" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1411">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§5-1414">
           <num>(j)</num>
@@ -6302,6 +6602,12 @@
             <find>the United States Attorney, on his or her own motion, or on request of a medical examiner, or the Metropolitan Police Department, or other law enforcement agency</find>
             <replace>the United States Attorney for the District of Columbia, on the United States Attorney's own motion, or at the request of a medical examiner, the Metropolitan Police Department, or another law enforcement agency</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§5-1414" codified:doc="D.C. Code" codified:path="§5-1414" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§5-1414" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1414">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(k)</num>
@@ -6338,6 +6644,12 @@
           </include>
           <aftertext>.</aftertext>
           <annotation doc="D.C. Law 13-172" type="History" path="§2918c">Oct. 19, 2000, D.C. Law 13-172, § 1918c</annotation>
+          <codify:emergency-new-sec doc="D.C. Code" path="§5-1420" interim-path="§5-1419" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§5-1420" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§5-1420" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-1420">
+            <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
       <section>
@@ -6386,6 +6698,12 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§4-1371.03" codified:doc="D.C. Code" codified:path="§4-1371.03" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§4-1371.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1371.03">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§4-1371.04">
           <num>(b)</num>
@@ -6434,6 +6752,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§4-1371.04" codified:doc="D.C. Code" codified:path="§4-1371.04" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§4-1371.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1371.04">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§4-1371.05">
           <num>(c)</num>
@@ -6471,6 +6795,12 @@
             <text>Subsection (e) is repealed.</text>
             <codify:repeal codified:doc="D.C. Code" codified:path="§4-1371.05|(e)"/>
           </para>
+          <codify:emergency doc="D.C. Code" path="§4-1371.05" codified:doc="D.C. Code" codified:path="§4-1371.05" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§4-1371.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1371.05">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§4-1371.06">
           <num>(d)</num>
@@ -6485,6 +6815,12 @@
             <text>Subsection (d) is repealed.</text>
             <codify:repeal path="(d)" codified:doc="D.C. Code" codified:path="§4-1371.06|(d)"/>
           </para>
+          <codify:emergency doc="D.C. Code" path="§4-1371.06" codified:doc="D.C. Code" codified:path="§4-1371.06" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§4-1371.06" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1371.06">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§4-1371.07|(b)">
           <num>(e)</num>
@@ -6493,6 +6829,12 @@
             <find>or his or her</find>
             <replace>or the witness's</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§4-1371.07" codified:doc="D.C. Code" codified:path="§4-1371.07" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§4-1371.07" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1371.07">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§4-1371.08|(a)">
           <num>(f)</num>
@@ -6501,6 +6843,12 @@
             <find>. Committee members</find>
             <replace>. Unless authorized by a majority vote of the Committee members appointed pursuant to <code-cite doc="D.C. Code" path="§4-1371.04|(c)">section 4604(c)</code-cite>, Committee members</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§4-1371.08" codified:doc="D.C. Code" codified:path="§4-1371.08" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§4-1371.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1371.08">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§4-1371.09">
           <num>(g)</num>
@@ -6582,6 +6930,12 @@
               <replace>Human Services, Child and Family Services Agency,</replace>
             </codify:find-replace>
           </para>
+          <codify:emergency doc="D.C. Code" path="§4-1371.09" codified:doc="D.C. Code" codified:path="§4-1371.09" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§4-1371.09" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1371.09">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§4-1371.10">
           <num>(h)</num>
@@ -6590,6 +6944,12 @@
             <find>from liability, administrative, civil, or criminal, that</find>
             <replace>from administrative, civil, or criminal liability that</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§4-1371.10" codified:doc="D.C. Code" codified:path="§4-1371.10" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§4-1371.10" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1371.10">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§4-1371.11">
           <num>(i)</num>
@@ -6598,6 +6958,12 @@
             <find>the Corporation Counsel or his or her designee</find>
             <replace>the Attorney General</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§4-1371.11" codified:doc="D.C. Code" codified:path="§4-1371.11" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§4-1371.11" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1371.11">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§4-1371.13">
           <num>(j)</num>
@@ -6606,6 +6972,12 @@
             <find>from liability, administrative, civil, and criminal, that</find>
             <replace>from administrative, civil, or criminal liability that</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§4-1371.13" codified:doc="D.C. Code" codified:path="§4-1371.13" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§4-1371.13" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1371.13">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§4-1371.14">
           <num>(k)</num>
@@ -6614,6 +6986,12 @@
             <find>the Corporation Counsel of the District of Columbia, or his or her agent, in</find>
             <replace>the Attorney General in</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§4-1371.14" codified:doc="D.C. Code" codified:path="§4-1371.14" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§4-1371.14" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-1371.14">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
     </container>
@@ -6640,6 +7018,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§5-132.01" codified:doc="D.C. Code" codified:path="§5-132.01" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§5-132.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-132.01">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§5-132.02">
           <num>(b)</num>
@@ -6684,6 +7068,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§5-132.02" codified:doc="D.C. Code" codified:path="§5-132.02" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§5-132.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§5-132.02">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
       <section codify:path="§16-2309">
@@ -6725,6 +7115,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§16-2309" codified:doc="D.C. Code" codified:path="§16-2309" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§16-2309" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§16-2309">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
   </container>
@@ -6815,6 +7211,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§38-2901" codified:doc="D.C. Code" codified:path="§38-2901" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§38-2901" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2901">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§38-2902|(b)">
           <num>(b)</num>
@@ -6823,6 +7225,12 @@
             <find>Charter Schools</find>
             <replace>Charter Schools; except, that, for Fiscal Year 2022, the Formula shall not apply to funding allocated to a DCPS school to meet the requirement of <code-cite doc="D.C. Code" path="§38-2907.01|(a)|(2)">section 108a(a)(2)</code-cite> that the school be provided with not less than 95% of its prior year allocation of Formula funds</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§38-2902" codified:doc="D.C. Code" codified:path="§38-2902" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§38-2902" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2902">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§38-2903|(a)">
           <num>(c)</num>
@@ -6831,6 +7239,12 @@
             <find>$11,310 per student for Fiscal Year 2021</find>
             <replace>$11,730 per student for Fiscal Year 2022</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§38-2903" codified:doc="D.C. Code" codified:path="§38-2903" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§38-2903" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2903">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§38-2904">
           <num>(d)</num>
@@ -6935,6 +7349,12 @@
             <find>$10,066</find>
             <replace>$10,440</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§38-2904" codified:doc="D.C. Code" codified:path="§38-2904" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§38-2904" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2904">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§38-2905|(c)">
           <num>(e)</num>
@@ -7125,6 +7545,12 @@
               <text>.</text>
             </para>
           </include>
+          <codify:emergency doc="D.C. Code" path="§38-2905" codified:doc="D.C. Code" codified:path="§38-2905" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§38-2905" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2905">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§38-2905.01">
           <num>(f)</num>
@@ -7169,6 +7595,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§38-2905.01" codified:doc="D.C. Code" codified:path="§38-2905.01" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§38-2905.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2905.01">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§38-2908">
           <num>(g)</num>
@@ -7197,6 +7629,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§38-2908" codified:doc="D.C. Code" codified:path="§38-2908" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§38-2908" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2908">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
       <section codify:path="§38-2831|(b)">
@@ -7306,6 +7744,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§38-2931" codified:doc="D.C. Code" codified:path="§38-2931" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-2931" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2931">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -7324,6 +7768,12 @@
           <find>$10,000</find>
           <replace>$25,000</replace>
         </codify:find-replace>
+        <codify:emergency doc="D.C. Code" path="§38-2955" codified:doc="D.C. Code" codified:path="§38-2955" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-2955" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2955">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -7354,6 +7804,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§10-302" codified:doc="D.C. Code" codified:path="§10-302" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§10-302" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§10-302">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>4023</num>
@@ -7432,6 +7888,12 @@
             </codify:find-replace>
           </para>
         </para>
+        <codify:emergency doc="D.C. Code" path="§32-1431" codified:doc="D.C. Code" codified:path="§32-1431" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1431" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1431">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -7445,8 +7907,7 @@
       </section>
       <section>
         <num>4052</num>
-        <text>Section 3(b) of the State Education Office Establishment Act of 2000,</text>
-        <text>effective October 21, 2000 (D.C. Law 13-176; D.C. Official Code § 38-2602(b)), is amended by adding a new paragraph (29A) to read as follows:</text>
+        <text>Section 3(b) of the State Education Office Establishment Act of 2000, effective October 21, 2000 (D.C. Law 13-176; D.C. Official Code § 38-2602(b)), is amended by adding a new paragraph (29A) to read as follows:</text>
         <include lvl="1">
           <para>
             <codify:insert path="§38-2602|(b)" after="(29)" codified:doc="D.C. Code" codified:path="§38-2602|(b)|(29A)"/>
@@ -7479,6 +7940,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§38-2602" codified:doc="D.C. Code" codified:path="§38-2602" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-2602" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2602">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -7684,6 +8151,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§32-541.01" codified:doc="D.C. Code" codified:path="§32-541.01" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-541.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-541.01">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(b)</num>
@@ -7696,6 +8169,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§32-541.02" codified:doc="D.C. Code" codified:path="§32-541.02" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-541.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-541.02">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§32-541.03">
           <num>(c)</num>
@@ -7716,6 +8195,12 @@
               <replace>0.62%, or a lower rate computed pursuant to <code-cite doc="D.C. Code" path="§32-541.04a|(c)|(2)">section 104a(c)(2)</code-cite>,</replace>
             </codify:find-replace>
           </para>
+          <codify:emergency doc="D.C. Code" path="§32-541.03" codified:doc="D.C. Code" codified:path="§32-541.03" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-541.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-541.03">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§32-541.04">
           <num>(d)</num>
@@ -7868,13 +8353,19 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§32-541.04" codified:doc="D.C. Code" codified:path="§32-541.04" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-541.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-541.04">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(e)</num>
           <text>A new section 104a is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="32|5|IV" after="§32-541.04" num-value="32-541.04a" codified:doc="D.C. Code" codified:path="§32-541.04a"/>
+              <codify:insert path="32|5|IV" after="§32-541.04" num-value="32-541.04a" history-prefix="as added" codified:doc="D.C. Code" codified:path="§32-541.04a"/>
               <num>104a</num>
               <heading>Expansion of paid-leave benefits and employer contribution rate change.</heading>
               <para>
@@ -7990,9 +8481,16 @@
                   </para>
                 </para>
               </para>
+              <annotation doc="D.C. Law 21-264" type="History" path="§104a">Feb. 21, 1986, D.C. Law 21-264, § 104a</annotation>
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency-new-sec doc="D.C. Code" path="§32-541.04a" interim-path="§32-541.04" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-541.04a" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-541.04a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-541.04a">
+            <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§32-541.06|(j)|(1)">
           <num>(f)</num>
@@ -8001,13 +8499,18 @@
             <find>provided for in this act. The Workplace Leave Navigators Program, established pursuant to <code-cite doc="D.C. Code" path="§32-561.02">section 2093 of the Workplace Leave Navigators Program Establishment Amendment Act of 2020, passed on 2nd reading on July 28, 2020 (Enrolled version of Bill 23-760)</code-cite>, shall be a component of the Mayor's public-education campaign</find>
             <replace>provided for in <code-cite doc="D.C. Code" path="32|5|IV">this act</code-cite></replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§32-541.06" codified:doc="D.C. Code" codified:path="§32-541.06" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-541.06" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-541.06">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
-        <para>
+        <para codify:path="§32-541.07">
           <num>(g)</num>
           <text>Section 107 (D.C. Official Code § 32-541.07) is amended by adding a new subsection (j) to read as follows:</text>
           <include>
             <para>
-              <codify:insert codified:doc="D.C. Code" codified:path="(j)"/>
               <num>(j)</num>
               <para>
                 <num>(1)</num>
@@ -8020,6 +8523,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§32-541.07" codified:doc="D.C. Code" codified:path="§32-541.07" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-541.07" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-541.07">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§32-541.08|(e)">
           <num>(h)</num>
@@ -8028,6 +8537,12 @@
             <find>For complaints</find>
             <replace>Forcomplaints</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§32-541.08" codified:doc="D.C. Code" codified:path="§32-541.08" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-541.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-541.08">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§32-541.12|(a)">
           <num>(i)</num>
@@ -8040,6 +8555,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§32-541.12" codified:doc="D.C. Code" codified:path="§32-541.12" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-541.12" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-541.12">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
       <section>
@@ -8072,6 +8593,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§32-551.01" codified:doc="D.C. Code" codified:path="§32-551.01" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-551.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-551.01">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§32-551.02">
           <num>(b)</num>
@@ -8141,6 +8668,12 @@
             </para>
           </para>
         </para>
+        <codify:emergency doc="D.C. Code" path="§32-551.02" codified:doc="D.C. Code" codified:path="§32-551.02" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-551.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-551.02">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>4064</num>
@@ -8172,6 +8705,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§32-501" codified:doc="D.C. Code" codified:path="§32-501" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-501" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-501">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§32-510|(b)">
           <num>(b)</num>
@@ -8181,6 +8720,12 @@
             <replace>; except, that this limitations period shall toll while a claim is pending administrative review under <code-cite doc="D.C. Code" path="§32-509">section 10(b)</code-cite>.</replace>
           </codify:find-replace>
         </para>
+        <codify:emergency doc="D.C. Code" path="§32-510" codified:doc="D.C. Code" codified:path="§32-510" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-510" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-510">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>4065</num>
@@ -8191,6 +8736,18 @@
           <find>Workplace Leave Navigators.</find>
           <replace>Workplace Leave Navigators. [Repealed].</replace>
         </codify:find-replace>
+        <codify:emergency doc="D.C. Code" path="§32-561.01" codified:doc="D.C. Code" codified:path="§32-561.01" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-561.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-561.01">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
+        <codify:emergency doc="D.C. Code" path="§32-561.02" codified:doc="D.C. Code" codified:path="§32-561.02" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-561.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-561.02">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>4066</num>
@@ -8226,6 +8783,12 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§31-2231.20a" codified:doc="D.C. Code" codified:path="§31-2231.20a" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§31-2231.20a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§31-2231.20a">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -8310,6 +8873,7 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§38-274.02" codified:doc="D.C. Code" codified:path="§38-274.02" codified:display="Note"/>
         <codify:insert doc="D.C. Code" path="§38-274.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-274.02">
           <text>
       *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
@@ -8339,12 +8903,12 @@
         <text>This subtitle may be cited as the "IT Community Training and Advisory Board Establishment Emergency Act of 2021".</text>
       </section>
       <section>
-        <codify:insert path="32|16|IV" num-value="32-1691.01" codified:doc="D.C. Code" codified:path="§32-1691.01"/>
+        <codify:insert path="32|16|VI" num-value="32-1691.01" codified:doc="D.C. Code" codified:path="§32-1691.01"/>
         <num>4092</num>
         <heading>Definitions.</heading>
         <para>
           <num undesignated="true">(a)</num>
-          <text>For the purposes of <code-cite doc="D.C. Code" path="32|16|IV">this subtitle</code-cite>:</text>
+          <text>For the purposes of <code-cite doc="D.C. Code" path="32|16|VI">this subtitle</code-cite>:</text>
           <para>
             <num>(1)</num>
             <text>"Community training provider" means an entity in the District that has received an IT training grant awarded pursuant to <code-cite doc="D.C. Code" path="§32-1691.06">section 4097</code-cite>.</text>
@@ -8430,14 +8994,15 @@
             <text>"WIOA" means the Workforce Innovation and Opportunity Act, approved July 22, 2014 (128 Stat. 1425; 29 U.S.C. § 3101 <em>et seq</em>.).</text>
           </para>
         </para>
-        <codify:insert doc="D.C. Code" path="§38-274.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-274.02">
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1691.01" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1691.01" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1691.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1691.01">
           <text>
       *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
       </text>
         </codify:insert>
       </section>
       <section>
-        <codify:insert path="32|16|IV" num-value="32-1691.02" codified:doc="D.C. Code" codified:path="§32-1691.02"/>
+        <codify:insert path="32|16|VI" num-value="32-1691.02" codified:doc="D.C. Code" codified:path="§32-1691.02"/>
         <num>4093</num>
         <heading>Establishment of the Information Technology Investment Program.</heading>
         <para>
@@ -8468,14 +9033,15 @@
           <num>(d)</num>
           <text>Program marketing and public education shall be provided by UDC-CC, WDLL, and community training providers to attract District residents to the Program and for the duration of the Program.</text>
         </para>
-        <codify:insert doc="D.C. Code" path="§38-274.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-274.02">
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1691.02" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1691.02" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1691.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1691.02">
           <text>
       *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
       </text>
         </codify:insert>
       </section>
       <section>
-        <codify:insert path="32|16|IV" num-value="32-1691.03" codified:doc="D.C. Code" codified:path="§32-1691.03"/>
+        <codify:insert path="32|16|VI" num-value="32-1691.03" codified:doc="D.C. Code" codified:path="§32-1691.03"/>
         <num>4094</num>
         <heading>Conditions of Program eligibility.</heading>
         <para>
@@ -8537,14 +9103,15 @@
           <num>(d)</num>
           <text>Program training providers shall select Program participants according to the terms of the applicable memorandum of understanding or grant agreement with the WIC.</text>
         </para>
-        <codify:insert doc="D.C. Code" path="§38-274.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-274.02">
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1691.03" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1691.03" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1691.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1691.03">
           <text>
       *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
       </text>
         </codify:insert>
       </section>
       <section>
-        <codify:insert path="32|16|IV" num-value="32-1691.04" codified:doc="D.C. Code" codified:path="§32-1691.04"/>
+        <codify:insert path="32|16|V" num-value="32-1691.04" codified:doc="D.C. Code" codified:path="§32-1691.04"/>
         <num>4095</num>
         <heading>Program participation.</heading>
         <para>
@@ -8574,14 +9141,15 @@
             <text>The WIC shall establish requirements and procedures to administer this subsection.</text>
           </para>
         </para>
-        <codify:insert doc="D.C. Code" path="§38-274.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-274.02">
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1691.04" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1691.04" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1691.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1691.04">
           <text>
       *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
       </text>
         </codify:insert>
       </section>
       <section>
-        <codify:insert path="32|16|IV" num-value="32-1691.05" codified:doc="D.C. Code" codified:path="§32-1691.05"/>
+        <codify:insert path="32|16|VI" num-value="32-1691.05" codified:doc="D.C. Code" codified:path="§32-1691.05"/>
         <num>4096</num>
         <heading>Memoranda of Understanding.</heading>
         <para>
@@ -8631,14 +9199,15 @@
             </para>
           </para>
         </para>
-        <codify:insert doc="D.C. Code" path="§38-274.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-274.02">
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1691.05" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1691.05" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1691.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1691.05">
           <text>
       *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
       </text>
         </codify:insert>
       </section>
       <section>
-        <codify:insert path="32|16|IV" num-value="32-1691.06" codified:doc="D.C. Code" codified:path="§32-1691.06"/>
+        <codify:insert path="32|16|VI" num-value="32-1691.06" codified:doc="D.C. Code" codified:path="§32-1691.06"/>
         <num>4097</num>
         <heading>Establishment of IT training grants.</heading>
         <para>
@@ -8685,14 +9254,15 @@
           <num>(e)</num>
           <text>The WIC may give preference to grant applicants utilizing integrated education and training, as defined by 34 C.F.R. § 463.35.</text>
         </para>
-        <codify:insert doc="D.C. Code" path="§38-274.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-274.02">
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1691.06" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1691.06" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1691.06" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1691.06">
           <text>
       *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
       </text>
         </codify:insert>
       </section>
       <section>
-        <codify:insert path="32|16|IV" num-value="32-1691.07" codified:doc="D.C. Code" codified:path="§32-1691.07"/>
+        <codify:insert path="32|16|VI" num-value="32-1691.07" codified:doc="D.C. Code" codified:path="§32-1691.07"/>
         <num>4098</num>
         <heading>Program performance and reporting.</heading>
         <para>
@@ -8752,23 +9322,30 @@
           </para>
           <para>
             <num>(3)</num>
-            <text>Recommendations on the expansion or extension of the Program beyond the terms of <code-cite doc="D.C. Code" path="32|16|IV">this subtitle</code-cite>, including any additional budgetary needs.</text>
+            <text>Recommendations on the expansion or extension of the Program beyond the terms of <code-cite doc="D.C. Code" path="32|16|VI">this subtitle</code-cite>, including any additional budgetary needs.</text>
           </para>
         </para>
-        <codify:insert doc="D.C. Code" path="§38-274.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-274.02">
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1691.07" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1691.07" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1691.07" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1691.07">
           <text>
       *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
       </text>
         </codify:insert>
       </section>
       <section>
-        <codify:insert path="32|16|IV" num-value="32-1691.08" codified:doc="D.C. Code" codified:path="§32-1691.08"/>
+        <codify:insert path="32|16|VI" num-value="32-1691.08" codified:doc="D.C. Code" codified:path="§32-1691.08"/>
         <num>4099</num>
         <heading>Program funding.</heading>
-        <text>The WIC shall make best efforts to use federal WIOA Title I Adult and Dislocated Worker funds to supplement funds appropriated for the purposes of implementing <code-cite doc="D.C. Code" path="32|16|IV">this subtitle</code-cite>.</text>
+        <text>The WIC shall make best efforts to use federal WIOA Title I Adult and Dislocated Worker funds to supplement funds appropriated for the purposes of implementing <code-cite doc="D.C. Code" path="32|16|VI">this subtitle</code-cite>.</text>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1691.08" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1691.08" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1691.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1691.08">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
-        <codify:insert path="32|16|IV" num-value="32-1691.09" codified:doc="D.C. Code" codified:path="§32-1691.09"/>
+        <codify:insert path="32|16|VI" num-value="32-1691.09" codified:doc="D.C. Code" codified:path="§32-1691.09"/>
         <num>4100</num>
         <heading>Establishment of the Information Technology Occupational Advisory Board.</heading>
         <para>
@@ -8791,14 +9368,15 @@
           <num>(e)</num>
           <text>The first meeting of the WIC-approved IT Board shall occur no later than July 1, 2022.</text>
         </para>
-        <codify:insert doc="D.C. Code" path="§38-274.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-274.02">
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1691.09" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1691.09" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1691.09" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1691.09">
           <text>
       *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
       </text>
         </codify:insert>
       </section>
       <section>
-        <codify:insert path="32|16|IV" num-value="32-1691.10" codified:doc="D.C. Code" codified:path="§32-1691.10"/>
+        <codify:insert path="32|16|VI" num-value="32-1691.10" codified:doc="D.C. Code" codified:path="§32-1691.10"/>
         <num>4101</num>
         <heading>IT Advisory Report.</heading>
         <para>
@@ -8845,18 +9423,20 @@
             </para>
           </para>
         </para>
-        <codify:insert doc="D.C. Code" path="§38-274.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-274.02">
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1691.10" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1691.10" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1691.10" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1691.10">
           <text>
       *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
       </text>
         </codify:insert>
       </section>
       <section>
-        <codify:insert path="32|16|IV" num-value="32-1691.11" codified:doc="D.C. Code" codified:path="§32-1691.11"/>
+        <codify:insert path="32|16|VI" num-value="32-1691.11" codified:doc="D.C. Code" codified:path="§32-1691.11"/>
         <num>4102</num>
         <heading>Sunset.</heading>
-        <text><code-cite doc="D.C. Code" path="32|16|IV">This subtitle</code-cite> shall expire on September 30, 2024.</text>
-        <codify:insert doc="D.C. Code" path="§38-274.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-274.02">
+        <text><code-cite doc="D.C. Code" path="32|16|VI">This subtitle</code-cite> shall expire on September 30, 2024.</text>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1691.11" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1691.11" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1691.11" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1691.11">
           <text>
       *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
       </text>
@@ -9002,6 +9582,12 @@
             <text>"WIOA" means the Workforce Innovation and Opportunity Act, approved July 22, 2014 (128 Stat. 1425; 29 U.S.C § 3101 <em>et seq</em>.).</text>
           </para>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1693.01" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1693.01" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1693.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1693.01">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="32|16|VII" num-value="32-1693.02" codified:doc="D.C. Code" codified:path="§32-1693.02"/>
@@ -9043,6 +9629,12 @@
           <num>(f)</num>
           <text>The University shall review the recommendations and implement relevant sections of the Healthcare Occupations Report developed by the Healthcare Workforce Partnership pursuant to <code-cite doc="D.C. Code" path="§32-1684|(e)">section 2075(e) of the Healthcare Workforce Partnership Act of 2020, effective December 3, 2020 (D.C. Law 23-149; D.C. Official Code § 32-1684(e))</code-cite>, to maintain and enhance course offerings to meet the workforce needs of nursing care occupations in the District.</text>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1693.02" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1693.02" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1693.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1693.02">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="32|16|VII" num-value="32-1693.03" codified:doc="D.C. Code" codified:path="§32-1693.03"/>
@@ -9124,6 +9716,12 @@
           <num>(e)</num>
           <text>The University and direct care worker training grantees shall select Program participants according to the terms of the applicable memorandum of understanding or grant agreement with the WIC.</text>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1693.03" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1693.03" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1693.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1693.03">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="32|16|VII" num-value="32-1693.04" codified:doc="D.C. Code" codified:path="§32-1693.04"/>
@@ -9156,6 +9754,12 @@
             <text>The WIC shall establish requirements and procedures to implement this subsection.</text>
           </para>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1693.04" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1693.04" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1693.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1693.04">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="32|16|VII" num-value="32-1693.05" codified:doc="D.C. Code" codified:path="§32-1693.05"/>
@@ -9205,6 +9809,12 @@
             <text>Any other expenses deemed appropriate by the WIC.</text>
           </para>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1693.05" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1693.05" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1693.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1693.05">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="32|16|VII" num-value="32-1693.06" codified:doc="D.C. Code" codified:path="§32-1693.06"/>
@@ -9258,6 +9868,12 @@
           <num>(e)</num>
           <text>The WIC may give preference to grant applicants utilizing integrated education and training, as defined by 34 C.F.R. § 463.35.</text>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1693.06" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1693.06" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1693.06" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1693.06">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="32|16|VII" num-value="32-1693.07" codified:doc="D.C. Code" codified:path="§32-1693.07"/>
@@ -9323,12 +9939,24 @@
             </para>
           </para>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1693.07" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1693.07" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1693.07" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1693.07">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert doc="D.C. Code" path="32|16|VII" num-value="32-1693.08" codified:doc="D.C. Code" codified:path="§32-1693.08"/>
         <num>4119</num>
         <heading>Program funding.</heading>
         <text>The WIC shall make best efforts to use federal WIOA Title I Adult and Dislocated Worker funds to supplement funds appropriated for the purposes of implementing <code-cite doc="D.C. Code" path="32|16|VII">this subtitle</code-cite>.</text>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-1693.08" interim-path="§32-1686" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-1693.08" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-1693.08" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1693.08">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>4120</num>
@@ -9356,6 +9984,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§32-1682" codified:doc="D.C. Code" codified:path="§32-1682" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-1682" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1682">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§32-1684|(b)|(3)">
           <num>(b)</num>
@@ -9388,6 +10022,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§32-1684" codified:doc="D.C. Code" codified:path="§32-1684" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-1684" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-1684">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
       <section>
@@ -9400,6 +10040,24 @@
           <find>Corps.</find>
           <replace>Corps. [Repealed].</replace>
         </codify:find-replace>
+        <codify:emergency doc="D.C. Code" path="§38-1501" codified:doc="D.C. Code" codified:path="§38-1501" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-1501" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-1501">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
+        <codify:emergency doc="D.C. Code" path="§38-1502" codified:doc="D.C. Code" codified:path="§38-1502" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-1502" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-1502">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
+        <codify:emergency doc="D.C. Code" path="§38-1503" codified:doc="D.C. Code" codified:path="§38-1503" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-1503" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-1503">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>4122</num>
@@ -9480,6 +10138,12 @@
             <replace>December 1, 2021, and July 1 of each subsequent year.</replace>
           </codify:find-replace>
         </para>
+        <codify:emergency doc="D.C. Code" path="§32-242" codified:doc="D.C. Code" codified:path="§32-242" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-242" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-242">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <codify:insert doc="D.C. Code" path="32" after="1D" history="false" codified:doc="D.C. Code" codified:path="32|1D-i">
@@ -9542,6 +10206,12 @@
             <text>"WIOA" means the Workforce Innovation and Opportunity Act, approved July 22, 2014 (128 Stat. 1425; 29 U.S.C. § 3101 <em>et seq.</em>).</text>
           </para>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-173.01" interim-path="§32-171.05" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-173.01" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-173.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-173.01">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert path="32|1D-i" num-value="32-173.02" codified:doc="D.C. Code" codified:path="§32-173.02"/>
@@ -9619,6 +10289,12 @@
             <text>Review of criminal history records and creation of a plan to ameliorate the effects of or correct a participant's criminal record.</text>
           </para>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-173.02" interim-path="§32-171.05" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-173.02" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-173.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-173.02">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert path="32|1D-i" num-value="32-173.03" codified:doc="D.C. Code" codified:path="§32-173.03"/>
@@ -9700,6 +10376,12 @@
           <num>(e)</num>
           <text>Grantees may establish and facilitate a participant alumni group for the purpose of providing participants access to education and training opportunities and to promote professional advancement.</text>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-173.03" interim-path="§32-171.05" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-173.03" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-173.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-173.03">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert path="32|1D-i" num-value="32-173.04" codified:doc="D.C. Code" codified:path="§32-173.04"/>
@@ -9742,6 +10424,12 @@
             <text>Housing insecurity.</text>
           </para>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-173.04" interim-path="§32-171.05" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-173.04" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-173.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-173.04">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert path="32|1D-i" num-value="32-173.05" codified:doc="D.C. Code" codified:path="§32-173.05"/>
@@ -9779,6 +10467,12 @@
           <num>(b)</num>
           <text>Beginning no later than December 15, 2022, and by December 15 annually thereafter, DOES shall furnish a report to the Mayor and the Council of the District of Columbia containing the grantee performance outcomes reported pursuant to subsection (a) of this section.</text>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-173.05" interim-path="§32-171.05" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-173.05" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-173.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-173.05">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <codify:insert doc="D.C. Code" path="32" after="1D-i" history="false" codified:doc="D.C. Code" codified:path="32|1D-ii">
@@ -10087,6 +10781,36 @@
           </container>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-175.01" interim-path="§32-171.05" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-175.01" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-175.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-175.01">
+          <text>
+                *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+                </text>
+        </codify:insert>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-175.02" interim-path="§32-171.05" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-175.02" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-175.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-175.02">
+          <text>
+                *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+                </text>
+        </codify:insert>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-175.03" interim-path="§32-171.05" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-175.03" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-175.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-175.03">
+          <text>
+                *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+                </text>
+        </codify:insert>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-175.04" interim-path="§32-171.05" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-175.04" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-175.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-175.04">
+          <text>
+                *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+                </text>
+        </codify:insert>
+        <codify:emergency-new-sec doc="D.C. Code" path="§32-175.05" interim-path="§32-171.05" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§32-175.05" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§32-175.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-175.05">
+          <text>
+                *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+                </text>
+        </codify:insert>
       </section>
       <section>
         <num>4153</num>
@@ -10098,13 +10822,19 @@
             <find>provided in <code-cite doc="D.C. Code" path="§1-301.88f|(a)">section 108c(a)</code-cite></find>
             <replace>provided in <span codify:value="§§">sections</span> <code-cite doc="D.C. Code" path="§1-301.88f|(a)" codify:value="1-301.88f">108c(a)</code-cite> and <code-cite doc="D.C. Code" path="§1-301.88g|(a)">108d(a)</code-cite></replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§1-301.86b" codified:doc="D.C. Code" codified:path="§1-301.86b" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§1-301.86b" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-301.86b">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(b)</num>
           <text>A new section 108d is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="1|3|I|D-i" after="§1-301.88f" num-value="1-301.88g" codified:doc="D.C. Code" codified:path="§1-301.88g"/>
+              <codify:insert path="1|3|I|D-i" after="§1-301.88f" num-value="1-301.88g" history-prefix="as added" codified:doc="D.C. Code" codified:path="§1-301.88g"/>
               <num>108d</num>
               <heading>Authority to issue grants for workplace rights.</heading>
               <para>
@@ -10123,6 +10853,12 @@
           </include>
           <aftertext>.</aftertext>
           <annotation doc="D.C. Law 18-160" type="History" path="§108c">May 27, 2010, D.C. Law 18-160, § 108d [108g]</annotation>
+          <codify:emergency-new-sec doc="D.C. Code" path="§1-301.88g" interim-path="§1-301.88f" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§1-301.88g" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§1-301.88g" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-301.88g">
+            <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
     </container>
@@ -10175,6 +10911,12 @@
             </para>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§51-103" codified:doc="D.C. Code" codified:path="§51-103" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§51-103" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§51-103">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§51-110|(a)">
           <num>(b)</num>
@@ -10197,6 +10939,12 @@
               </para>
             </include>
           </para>
+          <codify:emergency doc="D.C. Code" path="§51-110" codified:doc="D.C. Code" codified:path="§51-110" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§51-110" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§51-110">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
       <section>
@@ -10540,11 +11288,43 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§38-2609" codified:doc="D.C. Code" codified:path="§38-2609" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-2609" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2609">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>4183</num>
         <text>The Early Warning and Support System Act of 2012, effective June 19, 2012 (D.C. Law 19-142; D.C. Official Code § 38-751.01 <em>et seq.</em>), is repealed.</text>
         <codify:repeal path="38|7B|I" codified:doc="D.C. Code" codified:path="§38-751.01"/>
+        <codify:emergency doc="D.C. Code" path="38|7B|I" action="repeal of this section" codified:doc="D.C. Code" codified:path="§38-751.01" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-751.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-751.01">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
+        <codify:insert doc="D.C. Code" path="§38-751.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-751.02">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
+        <codify:insert doc="D.C. Code" path="§38-751.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-751.03">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
+        <codify:insert doc="D.C. Code" path="§38-751.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-751.04">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
+        <codify:insert doc="D.C. Code" path="§38-751.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-751.05">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <codify:insert doc="D.C. Code" path="38" after="22B" history="false" codified:doc="D.C. Code" codified:path="38|22C">
@@ -10620,6 +11400,12 @@
             <text>"UDC" means the University of the District of Columbia.</text>
           </para>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§38-2251" interim-path="§38-2239" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§38-2251" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-2251" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2251">
+          <text>
+                *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+                </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert path="38|22C" num-value="38-2252" codified:doc="D.C. Code" codified:path="§38-2252"/>
@@ -10703,6 +11489,12 @@
             <text>OSSE and UDC shall coordinate to ensure that Program participants do not receive Program financial assistance from more than one post-secondary institution at the same time.</text>
           </para>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§38-2252" interim-path="§38-2239" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§38-2252" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-2252" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2252">
+          <text>
+                *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+                </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert path="38|22C" num-value="38-2253" codified:doc="D.C. Code" codified:path="§38-2253"/>
@@ -10728,6 +11520,12 @@
             <text>For marketing and recruitment activities to attract District residents to the Program at UDC.</text>
           </para>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§38-2253" interim-path="§38-2239" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§38-2253" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-2253" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2253">
+          <text>
+                *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+                </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert path="38|22C" num-value="38-2254" codified:doc="D.C. Code" codified:path="§38-2254"/>
@@ -10882,6 +11680,12 @@
             <text>In issuing the grants authorized pursuant to this section, OSSE may give a preference to applicants that offer a high-quality education or teaching degree program in one or more high-need categories identified pursuant to paragraph (1) of this subsection.</text>
           </para>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§38-2254" interim-path="§38-2239" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§38-2254" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-2254" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2254">
+          <text>
+                *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+                </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert path="38|22C" num-value="38-2255" codified:doc="D.C. Code" codified:path="§38-2255"/>
@@ -10972,6 +11776,12 @@
             <text>Meet any other requirement determined by UDC or OSSE to be necessary or appropriate for Program participation.</text>
           </para>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§38-2255" interim-path="§38-2239" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§38-2255" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-2255" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2255">
+          <text>
+                *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+                </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -10988,7 +11798,7 @@
         <text>The Uniform Per Student Funding Formula for Public Schools and Public Charter Schools Act of 1998, effective April 13, 2005 (D.C. Law 15-348; D.C. Official Code § 38-2901 <em>et seq.</em>), is amended by adding a new section 107c to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="38|29|I" after="§38-2906.02" num-value="38-2906.03" codified:doc="D.C. Code" codified:path="§38-2906.03"/>
+            <codify:insert path="38|29|I" after="§38-2906.02" num-value="38-2906.03" history-prefix="as added" codified:doc="D.C. Code" codified:path="§38-2906.03"/>
             <num>107c</num>
             <heading>Public charter school stabilization funding.</heading>
             <para>
@@ -11088,6 +11898,13 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <annotation doc="D.C. Law 12-207" type="History" path="§107c">Mar. 26, 1999, D.C. Law 12-207, § 107c</annotation>
+        <codify:emergency-new-sec doc="D.C. Code" path="§38-2906.03" interim-path="§38-2906.02" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§38-2906.03" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-2906.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2906.03">
+          <text>
+           *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+          </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -11104,7 +11921,7 @@
         <text>The District of Columbia Unemployment Compensation Act, approved August 28, 1935 (49 Stat. 949; D.C. Official Code § 51-101), is amended by adding a new section 7a to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="51|1|I|A" after="§51-107" num-value="51-107.01" codified:doc="D.C. Code" codified:path="§51-107.01"/>
+            <codify:insert path="51|1|I|A" after="§51-107" num-value="51-107.01" history-prefix="as added" codified:doc="D.C. Code" codified:path="§51-107.01"/>
             <num>7a</num>
             <heading>Delayed unemployment compensation payments.</heading>
             <para>
@@ -11173,9 +11990,16 @@
                 <text>"Claim" means either an application or claim.</text>
               </para>
             </para>
+            <annotation type="History" doc="Stat. 74-1-ch794" path="§7a">Aug. 28, 1935, 49 Stat. 949, ch. 794, § 7a</annotation>
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency-new-sec doc="D.C. Code" path="§51-107.01" interim-path="§51-107" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§51-107.01" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§51-107.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§51-107.01">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -11242,6 +12066,12 @@
             <find>Beginning on October 1, 2020, an amount of $5,590,000</find>
             <replace>Beginning on October 1, 2021, an amount of $5,690,000</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§38-821.02" codified:doc="D.C. Code" codified:path="§38-821.02" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§38-821.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-821.02">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§38-825.01a">
           <num>(b)</num>
@@ -11278,6 +12108,12 @@
               <replace>.</replace>
             </codify:find-replace>
           </para>
+          <codify:emergency doc="D.C. Code" path="§38-825.01a" codified:doc="D.C. Code" codified:path="§38-825.01a" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§38-825.01a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-825.01a">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
     </container>
@@ -11317,6 +12153,12 @@
             <text>"Ellington Fund" means the 501(c)(3) organization established in 1979 to serve as the charitable arm of the Duke Ellington School of the Arts.</text>
           </para>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§38-2991" interim-path="§38-2981" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§38-2991" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-2991" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2991">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <codify:insert path="38|29D" num-value="38-2992" codified:doc="D.C. Code" codified:path="§38-2992"/>
@@ -11354,6 +12196,12 @@
           <num>(c)</num>
           <text>DCPS shall present to the Council the proposed new funding and organizational model no later than January 31, 2022.</text>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§38-2992" interim-path="§38-2981" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§38-2992" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§38-2992" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§38-2992">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
   </container>
@@ -11381,6 +12229,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§44-664.05" codified:doc="D.C. Code" codified:path="§44-664.05" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§44-664.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§44-664.05">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -11463,6 +12317,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§1-307.03" codified:doc="D.C. Code" codified:path="§1-307.03" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-307.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-307.03">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -11486,11 +12346,23 @@
           </replace>
           </codify:find-replace>
           <codify:repeal path="§7-771.07b" codified:doc="D.C. Code" codified:path="§7-771.07b"/>
+          <codify:emergency doc="D.C. Code" path="§7-771.07a" action="repeal of this section" codified:doc="D.C. Code" codified:path="§7-771.07a" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§7-771.07a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-771.07a">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(b)</num>
           <text>Section 11a (D.C. Official Code § 7-771.10a) is repealed.</text>
           <codify:repeal path="§7-771.10a" codified:doc="D.C. Code" codified:path="§7-771.10a"/>
+          <codify:emergency doc="D.C. Code" path="§7-771.10a" action="repeal of this section" codified:doc="D.C. Code" codified:path="§7-771.10a" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§7-771.10a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-771.10a">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
     </container>
@@ -11514,6 +12386,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§2-423.02" codified:doc="D.C. Code" codified:path="§2-423.02" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§2-423.02" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§2-423.02">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -11594,6 +12472,12 @@
             </include>
             <aftertext>.</aftertext>
           </para>
+          <codify:emergency doc="D.C. Code" path="§3-1201.01" codified:doc="D.C. Code" codified:path="§3-1201.01" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§3-1201.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§3-1201.01">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§3-1202.03|(a)">
           <num>(c)</num>
@@ -11638,6 +12522,12 @@
               <aftertext>.</aftertext>
             </para>
           </para>
+          <codify:emergency doc="D.C. Code" path="§3-1202.03" codified:doc="D.C. Code" codified:path="§3-1202.03" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§3-1202.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§3-1202.03">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(d)</num>
@@ -11646,13 +12536,19 @@
             <find>advanced practice registered nursing,</find>
             <replace>advanced practice registered nursing, doula,</replace>
           </codify:find-replace>
+          <codify:emergency doc="D.C. Code" path="§3-1205.01" codified:doc="D.C. Code" codified:path="§3-1205.01" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§3-1205.01" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§3-1205.01">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para>
           <num>(e)</num>
           <text>A new section 672 is added to read as follows:</text>
           <include>
             <section>
-              <codify:insert path="3|12|VI-F" num-value="3-1206.72" codified:doc="D.C. Code" codified:path="§3-1206.72"/>
+              <codify:insert path="3|12|VI-F" num-value="3-1206.72" history-prefix="as added" codified:doc="D.C. Code" codified:path="§3-1206.72"/>
               <num>672</num>
               <heading>Reimbursement for doula services.</heading>
               <para>
@@ -11694,6 +12590,7 @@
                   </para>
                 </para>
               </para>
+              <annotation doc="D.C. Law 6-99" type="History" path="§672">Mar. 25, 1986, D.C. Law 6-99, § 672</annotation>
             </section>
           </include>
           <aftertext>.</aftertext>
@@ -11701,6 +12598,12 @@
             <find>Midwives</find>
             <replace>Midwives and Doulas</replace>
           </codify:find-replace>
+          <codify:emergency-new-sec doc="D.C. Code" path="§3-1206.72" interim-path="§3-1206.71" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§3-1206.72" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§32-175.04" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§32-175.04">
+            <text>
+                *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+                </text>
+          </codify:insert>
         </para>
       </section>
       <section>
@@ -11774,6 +12677,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§47-4673" codified:doc="D.C. Code" codified:path="§47-4673" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§47-4673" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-4673">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>5053</num>
@@ -11802,7 +12711,7 @@
         <text>The Food Stamp Expansion Act of 2009, effective March 3, 2010 (D.C. Law 18-111; D.C. Official Code § 4-261.01 <em>et seq.</em>), is amended by adding a new section 5085 to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="1|3|XI|QQ" num-value="1-325.421" codified:doc="D.C. Code" codified:path="§1-325.421"/>
+            <codify:insert path="1|3|XI|QQ" num-value="1-325.421" history-prefix="as added" codified:doc="D.C. Code" codified:path="§1-325.421"/>
             <num>5085</num>
             <heading>SNAP Reinvestment Fund.</heading>
             <para>
@@ -11828,9 +12737,16 @@
                 <text>Subject to authorization in an approved budget and financial plan, any funds appropriated in the Fund shall be continually available without regard to fiscal year limitation.</text>
               </para>
             </para>
+            <annotation doc="D.C. Law 18-111" type="History" path="§5085">Mar. 3, 2010, D.C. Law 18-111, § 5085</annotation>
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency-new-sec doc="D.C. Code" path="§1-325.421" interim-path="§1-325.411" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§1-325.421" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-325.421" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-325.421">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
       <section>
         <num>5063</num>
@@ -11890,6 +12806,12 @@
           </include>
           <aftertext>.</aftertext>
         </para>
+        <codify:emergency doc="D.C. Code" path="§49-1003" codified:doc="D.C. Code" codified:path="§49-1003" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§49-1003" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§49-1003">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -11912,6 +12834,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§4-651.05a" codified:doc="D.C. Code" codified:path="§4-651.05a" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§4-651.05a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§4-651.05a">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -11984,6 +12912,12 @@
               </include>
               <aftertext>.</aftertext>
             </para>
+            <codify:emergency doc="D.C. Code" path="§47-1270" codified:doc="D.C. Code" codified:path="§47-1270" codified:display="Note"/>
+            <codify:insert doc="D.C. Code" path="§47-1270" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-1270">
+              <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+            </codify:insert>
           </para>
           <para codify:path="§47-1271">
             <num>(3)</num>
@@ -12028,6 +12962,12 @@
               </include>
               <aftertext>.</aftertext>
             </para>
+            <codify:emergency doc="D.C. Code" path="§47-1271" codified:doc="D.C. Code" codified:path="§47-1271" codified:display="Note"/>
+            <codify:insert doc="D.C. Code" path="§47-1271" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-1271">
+              <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+            </codify:insert>
           </para>
           <para codify:path="§47-1272">
             <num>(4)</num>
@@ -12048,6 +12988,12 @@
                 <replace>the ICF-IDD or DD waiver provider</replace>
               </codify:find-replace>
             </para>
+            <codify:emergency doc="D.C. Code" path="§47-1272" codified:doc="D.C. Code" codified:path="§47-1272" codified:display="Note"/>
+            <codify:insert doc="D.C. Code" path="§47-1272" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-1272">
+              <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+            </codify:insert>
           </para>
           <para codify:path="§47-1275">
             <num>(5)</num>
@@ -12068,6 +13014,12 @@
                 <replace>an ICF-IDD or DD waiver provider</replace>
               </codify:find-replace>
             </para>
+            <codify:emergency doc="D.C. Code" path="§47-175" codified:doc="D.C. Code" codified:path="§47-175" codified:display="Note"/>
+            <codify:insert doc="D.C. Code" path="§47-175" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§47-175">
+              <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+            </codify:insert>
           </para>
         </para>
       </section>
@@ -12151,6 +13103,12 @@
           <num>(e)</num>
           <text>For the purposes of this section, the term "Early childhood development provider" shall have the same meaning as provided in <code-cite doc="D.C. Code" path="§38-271.01|(1G)">section 101(1G) of the Pre-K Enhancement and Expansion Amendment Act of 2008, July 18, 2008 (D.C. Law 17-202; D.C. Official Code § 38-271.01(1G))</code-cite>.</text>
         </para>
+        <codify:emergency-new-sec doc="D.C. Code" path="§1-325.431" interim-path="§1-325.411" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§1-325.431" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§1-325.431" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§1-325.431">
+          <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -12204,11 +13162,23 @@
             </section>
           </include>
           <aftertext>.</aftertext>
+          <codify:emergency doc="D.C. Code" path="§7-1407" codified:doc="D.C. Code" codified:path="§7-1407" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§7-1407" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1407">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
         <para codify:path="§7-1410">
           <num>(b)</num>
           <text>Section 7e (D.C. Official Code § 7-1410) is repealed.</text>
           <codify:repeal codified:doc="D.C. Code" codified:path="§7-1410"/>
+          <codify:emergency doc="D.C. Code" path="§7-1410" codified:doc="D.C. Code" codified:path="§7-1410" codified:display="Note"/>
+          <codify:insert doc="D.C. Code" path="§7-1410" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-1410">
+            <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+          </codify:insert>
         </para>
       </section>
       <section>
@@ -12216,7 +13186,7 @@
         <text>The Department of Health Care Finance Establishment Act of 2007, effective February 27, 2008 (D.C. Law 17-109; D.C. Official Code § 7-771.01 <em>et seq.</em>), is amended by adding a new section 8c to read as follows:</text>
         <include>
           <section>
-            <codify:insert path="7|7D" after="§7-771.07b" num-value="7-771.07c" codified:doc="D.C. Code" codified:path="§7-771.07c"/>
+            <codify:insert path="7|7D" after="§7-771.07b" num-value="7-771.07c" history-prefix="as added" codified:doc="D.C. Code" codified:path="§7-771.07c"/>
             <num>8c</num>
             <heading>DC HealthCare Alliance Reform Fund.</heading>
             <para>
@@ -12253,6 +13223,12 @@
           </section>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency-new-sec doc="D.C. Code" path="§7-771.07c" interim-path="§7-771.07" perm-eff="2021-08-23" codified:doc="D.C. Code" codified:path="§7-771.07c" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§7-771.07c" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-771.07c">
+          <text>
+               *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+              </text>
+        </codify:insert>
       </section>
     </container>
     <container>
@@ -12324,6 +13300,12 @@
           </para>
         </include>
         <aftertext>.</aftertext>
+        <codify:emergency doc="D.C. Code" path="§7-771.07a" codified:doc="D.C. Code" codified:path="§7-771.07a" codified:display="Note"/>
+        <codify:insert doc="D.C. Code" path="§7-771.07a" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-771.07a">
+          <text>
+      *NOTE: This section has been amended by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+        </codify:insert>
       </section>
     </container>
   </container>

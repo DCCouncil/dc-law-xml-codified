@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>42-2231</num>
+  <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
   <heading>Definitions.</heading>
   <para>
     <num undesignated="true">(a)</num>
@@ -50,8 +53,14 @@
       <text>"Very low-income" means a household income equal to or less than 50% of the area median income.</text>
     </para>
   </para>
+  <codify:insert doc="D.C. Code" path="§42-2231" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-2231">
+    <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
+  </codify:insert>
   <annotations>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="II" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2092" type="History" display="false"/>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§2092" type="History"/>
   </annotations>
 </section>
