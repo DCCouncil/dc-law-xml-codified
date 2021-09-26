@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-1501.02l</num>
+  <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
   <heading>Issuance of Protect Local Wildlife motor vehicle identification tags.</heading>
   <para>
     <num>(a)</num>
@@ -18,6 +21,10 @@
     </para>
   </para>
   <annotations>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6152|(a)" type="History"/>
+    <annotation type="History" doc="Stat. 75-1-ch690" path="§2l" display="false">Aug. 17, 1937, 50 Stat. 680, ch. 690, title IV, § 2l</annotation>
+    <annotation type="History" doc="Stat. 75-1-ch690" path="§2l">Aug. 17, 1937, 50 Stat. 680, ch. 690, title IV, § 2l</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6152|(a)" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6152|(a)" prefix="as added" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§6152|(a)" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§6152|(a)">§ 6152(a) of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
   </annotations>
 </section>

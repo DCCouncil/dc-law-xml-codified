@@ -1,6 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>50-904.01</num>
+  <text>
+      *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+      </text>
   <heading>Department of Motor Vehicles Kiosk Fund.</heading>
   <para>
     <num>(a)</num>
@@ -30,6 +33,10 @@
     <text>For the purposes of this section, the term "self-service kiosk" means a hardware device with specialized integrated software that enables users to conduct transactions related to the Department of Motor Vehicles' services without the need for assistance from Department of Motor Vehicles staff.</text>
   </para>
   <annotations>
-    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6072" type="History"/>
+    <annotation doc="D.C. Law 12-175" type="History" path="§1825a" display="false">Mar. 26, 1999, D.C. Law 12-175, § 1825a</annotation>
+    <annotation doc="D.C. Law 12-175" type="History" path="§1825a">Mar. 26, 1999, D.C. Law 12-175, § 1825a</annotation>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6072" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§6072" prefix="as added" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§6072" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§6072">§ 6072 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
   </annotations>
 </section>
