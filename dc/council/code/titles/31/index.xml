@@ -79,6 +79,20 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>3A</num>
+    <heading>Insurer Corporate Governance Annual Reports.</heading>
+    <annotation app="2021-09-22" doc="D.C. Law 24-26" eff="2021-09-22" path="" type="History" display="false"/>
+    <xi:include href="./sections/31-331.xml"/>
+    <xi:include href="./sections/31-332.xml"/>
+    <xi:include href="./sections/31-333.xml"/>
+    <xi:include href="./sections/31-334.xml"/>
+    <xi:include href="./sections/31-335.xml"/>
+    <xi:include href="./sections/31-336.xml"/>
+    <xi:include href="./sections/31-337.xml"/>
+    <xi:include href="./sections/31-338.xml"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>4</num>
     <heading>Business Transacted with Producer Controlled Insurer.</heading>
     <xi:include href="./sections/31-401.xml"/>

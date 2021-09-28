@@ -1,10 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xmlns="https://code.dccouncil.us/schemas/dc-library" xmlns:codified="https://code.dccouncil.us/schemas/codified" xmlns:codify="https://code.dccouncil.us/schemas/codify" xmlns:xi="http://www.w3.org/2001/XInclude">
   <num>41-151.03</num>
+  <text>
+            *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+            </text>
   <heading>Inapplicability to foreign transaction.</heading>
   <text>This subtitle does not apply to property held, due, and owing in a foreign country if the transaction out of which the property arose was a foreign transaction.</text>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§41-142" expire="2021-08-23" codified:display="Note">For temporary (90 days) creation of § 41-151.03, see <cite doc="D.C. Act 24-159" path="§7003">§ 7003 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</codify:annotation>
+  <codify:annotation history="false" type="Emergency Legislation" doc="D.C. Code" path="§41-151.03" applicability="2021-08-23" delay="50" codified:display="Note" codified:doc="D.C. Code" codified:path="§41-151.03">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§7003">§ 7003 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</codify:annotation>
+  <codify:insert doc="D.C. Code" path="§41-151.03" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§41-151.03">
+    <text>
+            *NOTE: This section was created by emergency legislation with identical permanent legislation that will become effective in January, 2022.*
+            </text>
+  </codify:insert>
   <annotations>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="" type="History" display="false"/>
+    <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7003" type="History" display="false"/>
     <annotation app="2021-08-23" doc="D.C. Act 24-159" eff="2021-08-23" path="§7003" type="History"/>
+    <annotation history="false" type="Emergency Legislation" doc="D.C. Act 24-159" path="§7003" codified:display="Note" app="2021-08-23" eff="2021-08-23">For temporary (90 days) creation of this section, see <cite doc="D.C. Act 24-159" path="§7003">§ 7003 of Fiscal Year 2022 Budget Support Emergency Act of 2021 (D.C. Act 24-159, Aug. 23, 2021, 68 DCR 008602)</cite>.</annotation>
   </annotations>
 </section>
