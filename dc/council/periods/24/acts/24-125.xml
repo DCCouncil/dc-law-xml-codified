@@ -35,11 +35,6 @@
     </include>
     <aftertext>.</aftertext>
     <codify:emergency doc="D.C. Code" path="§7-2306" codified:doc="D.C. Code" codified:path="§7-2306" codified:display="Note"/>
-    <codify:insert doc="D.C. Code" path="§7-2306" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§7-2306">
-      <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of this section after the expiration of all emergency and temporary legislation, click this link: <cite doc="D.C. Code" path="§7-2306(Perm)">Permanent Version</cite>.*
-      </text>
-    </codify:insert>
   </section>
   <section codify:doc="D.C. Code">
     <num>3</num>
@@ -902,16 +897,7 @@
     <para>
       <num>(w)</num>
       <text>Section 408(a)(1) is amended by striking the phrase "during a period of time for which the Mayor has declared a public health emergency pursuant to section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01), and for 60 days thereafter" and inserting the phrase "during the period of time from March 11, 2020, until November 5, 2021" in its place.</text>
-      <codify:find-replace path="§42-815.05|(a)" count="1" codified:doc="D.C. Code" codified:path="§42-815.05|(a)">
-        <find>during a period of time for which the Mayor has declared a public health emergency pursuant to <code-cite doc="D.C. Code" path="§7-2304.01">section 5a of the District of Columbia Public Emergency Act of 1980, effective October 17, 2002 (D.C. Law 14-194; D.C. Official Code § 7-2304.01)</code-cite>, and for 60 days thereafter</find>
-        <replace>during the period of time from March 11, 2020, until November 5, 2021</replace>
-      </codify:find-replace>
       <codify:emergency doc="D.C. Code" path="§42-815.05" codified:doc="D.C. Code" codified:path="§42-815.05" codified:display="Note"/>
-      <codify:insert doc="D.C. Code" path="§42-815.05" before="heading" history="false" display-template="" codified:doc="D.C. Code" codified:path="§42-815.05">
-        <text>
-      *NOTE: This section includes amendments by emergency legislation that will expire on October 22, 2021. To view the text of the temporary legislation, click this link: <cite doc="D.C. Law 24-9" path="§406">Temporary Version</cite>.*
-      </text>
-      </codify:insert>
     </para>
     <para>
       <num>(x)</num>
@@ -1849,7 +1835,7 @@
           <text>A new paragraph (1-A) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§42-3505.01a|(b)|[(1A)]"/>
+              <codify:insert after="(1)" codified:doc="D.C. Code" codified:path="§42-3505.01a|(b)|(1A)"/>
               <num codify:value="[(1A)]">(1-A)</num>
               <text>For a rescheduled eviction authorized prior to March 11, 2020, a housing provider shall deliver to the tenant the notice required in paragraph (1) of this subsection not fewer than 30 days prior to the new date.</text>
             </para>
@@ -1860,7 +1846,7 @@
           <text>A new paragraph (1-B) is added to read as follows:</text>
           <include lvl="1">
             <para>
-              <codify:insert after="[(1A)]" codified:doc="D.C. Code" codified:path="§42-3505.01a|(b)|[(1B)]"/>
+              <codify:insert after="[(1A)]" codified:doc="D.C. Code" codified:path="§42-3505.01a|(b)|(1B)"/>
               <num codify:value="[(1B)]">(1-B)</num>
               <text>For evictions other than those covered in paragraph (1-A) <span codify:value="[(1A)]"/> of this subsection, a housing provider shall deliver to the tenant the notice required in paragraph (1) of this subsection not fewer than 21 days prior to the new date.</text>
             </para>
